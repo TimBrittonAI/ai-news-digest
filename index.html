@@ -1,0 +1,23 @@
+html<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI News Digest</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #333; }
+        h1 { color: #1F3864; border-bottom: 3px solid #2E5F9E; padding-bottom: 10px; }
+        .date { color: #888; font-size: 0.9em; margin-bottom: 30px; }
+        .content { line-height: 1.7; white-space: pre-wrap; }
+        a { color: #2E5F9E; }
+    </style>
+</head>
+<body>
+    <h1>AI News Digest</h1>
+    <div class="date">Last updated: <span id="date"></span></div>
+    <div class="content" id="content">Loading...</div>
+    <script>
+        document.getElementById('date').textContent = new Date().toLocaleDateString('en-GB');
+    </script>
+</body>
+</html>
