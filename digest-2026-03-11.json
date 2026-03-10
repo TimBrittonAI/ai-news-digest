@@ -1,0 +1,81 @@
+{
+  "top_stories": [
+    {
+      "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
+      "summary": "Yann LeCun's new AI startup has raised $1 billion in seed funding, the largest ever for a seed round in Europe. This significant investment underscores growing confidence in AI's business potential and marks a milestone for Europe's tech sector. [Paywalled]",
+      "url": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1"
+    },
+    {
+      "title": "AI is inventing academic articles – and scholars are citing them",
+      "summary": "AI-generated academic articles are increasingly being produced, with some even being cited in real research. This trend raises serious ethical and intellectual property questions about authorship, source reliability, and academic integrity.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZk9nS2tqVWNCN2E3Zk9zSXVDY0xtWTMzUUhxcVhPN0VPenh3a2VKbXVTckVZSHVmQzBfRkIxbENNNktTV2luc0dVY0RpVVhXN19rUE1ROWNQZ0ZyUkVCdzQ0OUhwODVkZHFwSW5aVEZfaU5jOXgtaWZBTzBFUGQ1VXZyLVNBMFNOWkNLMmZBaVpubUp4Uk5aaTBUaUVkaXdFTU4yTzdZem5lbTR6SVJtelBidW1jckJD?oc=5"
+    },
+    {
+      "title": "Learnings from paying artists royalties for AI-generated art",
+      "summary": "Kapwing shares its experience implementing a royalty payment system for artists whose work influenced AI-generated art on its platform. The case study may have implications for future copyright, compensation models, and publishing industry standards.",
+      "url": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/"
+    },
+    {
+      "title": "The Download: AI’s role in the Iran war, and an escalating legal fight",
+      "summary": "MIT Technology Review covers how AI has influenced conflict scenarios such as the Iran war, while also looking at mounting legal battles around AI use and deployment. The story highlights AI's increasing impact on international security and legal frameworks.",
+      "url": "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/"
+    },
+    {
+      "title": "Microsoft launches $99 Microsoft 365 E7 with AI-powered Copilot Cowork",
+      "summary": "Microsoft has introduced a new Microsoft 365 E7 subscription featuring expanded AI-powered Copilot coworker capabilities. This launch further strengthens AI's role in the business productivity suite market.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVUt0cmt2Sl9uVHB1cEdLZ2RUMC1xd3hwS2tuSmc2S1BTSXNoTG53dUJVS1c4R0pPT3hlRWh2TUotR3JJQ3RJLTlmSkFjVXY0REk3c2c1MzNGYXVXRnpZSW1ZZWhHd2YtaUd1dDdBSGVDU05lWkJHMnZaQVptSHhZUTNJRDhDLTB4Q2FsNnVTcmk1X19pQmVoQUNrV1J4a0t4SnJXSlRXTQ?oc=5"
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Anthropic Released a Shocking List of Jobs AI Will Take Over",
+      "summary": "Anthropic published a detailed list predicting which jobs are most at risk of automation by AI systems.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rpsxuv/anthropic_released_a_shocking_list_of_jobs_ai/"
+    },
+    {
+      "title": "Mark Zuckerberg creating new Applied AI engineering company, reorganises teams",
+      "summary": "Meta is reorganizing key teams, with Mark Zuckerberg reportedly forming a new company focused on applied AI engineering.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms"
+    },
+    {
+      "title": "OpenAI's top exec resignation exposes something bigger than one Pentagon deal",
+      "summary": "Discussion of leadership changes at OpenAI and broader organizational challenges within major AI companies.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rpgkz6/openais_top_exec_resignation_exposes_something/"
+    },
+    {
+      "title": "Amazon holds engineering meeting following AI-related outages [Paywalled]",
+      "summary": "Amazon convened emergency meetings after several AI-powered services experienced outages, highlighting reliability concerns in enterprise AI deployments.",
+      "url": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de"
+    },
+    {
+      "title": "AI can't replace the best factory operators and that should change how we build models",
+      "summary": "A critical examination of current AI limitations in industrial automation, advocating for new approaches to model training.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rpr8wl/ai_cant_replace_the_best_factory_operators_and/"
+    },
+    {
+      "title": "What would the popping of the AI bubble actually mean for AI as a technology?",
+      "summary": "A community debate on long-term implications if current AI market enthusiasm declines sharply.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rpyfrm/what_would_the_popping_of_the_ai_bubble_actually/"
+    },
+    {
+      "title": "Shadow APIs breaking research reproducibility (arxiv 2603.01919)",
+      "summary": "Explores how proprietary or shadow APIs hinder reproducibility of AI research.",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rpoi3u/r_shadow_apis_breaking_research_reproducibility/"
+    },
+    {
+      "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
+      "summary": "The article explains how AR gaming data is being repurposed to improve delivery robots' navigation capabilities.",
+      "url": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/"
+    },
+    {
+      "title": "Connect your research data easily to AI agents",
+      "summary": "New tools and methods for integrating academic and enterprise research data with AI agents are discussed.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rpaf49/connect_your_research_data_easily_to_ai_agents/"
+    },
+    {
+      "title": "Infotools Launches Harmoni 3, Ushering in A New Era of AI-guided Data Exploration",
+      "summary": "Infotools debuts Harmoni 3, a new analytics platform using AI to enhance data exploration and business insights.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWUpFeEhOUW05OE9nRnNQSmZPMi1LTDJqd2NURUpxdXRYTm9xRUIwZDNRTmNwV0RzTDh6UExCX2VXN0hrTGY1TWVMTDNISXYyT0lBSzNLaHIwWW81cjVPVXZ3RWxici0yNEllM2RSOHd3aXZ0emRDdEI4aVRVOWN4Ul9WMHZyb0liYU9hNEliUTRNbVB2UkZGdGtsOEcxVWRTZWQyYVl4aERDRWxtTFNsRUFONlBsamxESm96bldQYkxNQ0xlQWRsNFR4YkozeUJYM2c?oc=5"
+    }
+  ]
+}
