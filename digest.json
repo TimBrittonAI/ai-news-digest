@@ -2,85 +2,85 @@
   "top_stories": [
     {
       "title": "Anthropic sues to block Pentagon blacklisting over AI use restrictions",
-      "summary": "Anthropic has filed a lawsuit seeking to prevent the US Department of Defense from blacklisting the company over alleged AI use restrictions. The outcome of this case could set significant precedent for government regulation and contracting with AI firms.",
+      "summary": "Anthropic has filed a lawsuit against the U.S. Department of Defense to stop efforts to blacklist the company from government contracts due to concerns over its AI systems. The outcome could have wide-reaching implications for government procurement of AI technologies and how national security considerations intersect with commercial AI development.",
       "url": "https://www.reuters.com/world/anthropic-sues-block-pentagon-blacklisting-over-ai-use-restrictions-2026-03-09/"
     },
     {
-      "title": "Microsoft launches $99 Microsoft 365 E7 with AI-powered Copilot Cowork",
-      "summary": "Microsoft launched its Microsoft 365 E7 bundle, featuring the new Copilot Cowork AI assistant. The subscription consolidates business tools with advanced AI features, signaling Microsoft's continued push to integrate generative AI into enterprise productivity software.",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVUt0cmt2Sl9uVHB1cEdLZ2RUMC1xd3hwS2tuSmc2S1BTSXNoTG53dUJVS1c4R0pPT3hlRWh2TUotR3JJQ3RJLTlmSkFjVXY0REk3c2c1MzNGYXVXRnpZSW1ZZWhHd2YtaUd1dDdBSGVDU05lWkJHMnZaQVptSHhZUTNJRDhDLTB4Q2FsNnVTcmk1X19pQmVoQUNrV1J4a0t4SnJXSlRXTQ?oc=5"
-    },
-    {
-      "title": "Microsoft announces Copilot Cowork with help from Anthropic — a cloud-powered AI agent that works across M365 apps",
-      "summary": "Microsoft and Anthropic have collaborated to launch Copilot Cowork, an AI agent designed to function across Microsoft 365 applications. The integration further strengthens Microsoft's partnership with Anthropic and underscores the growing competition in AI-powered enterprise tools.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWm8wTmpoYXBOZGZST1Y2STQ0dXkyMmFTZEVpMHNoMlJRUkExNFZWa3VpUGxfdTZmZHZSZTBub3Ftc3VWMVh0eXFvbXJKTTY0YWZGQ2NuSHE2b3dJbEJSY3NqMVpHZDU3Skl3Sm5QZVdmb2FNSUQydFZ0dEwyRlE2eHpSWmFXTVVyb0N2RGM0VDdmbV9fQ1drU0FOaGpWNW8xbjdObXA4c3lsMnh0NWJZNHRTVQ?oc=5"
+      "title": "Amazon holds engineering meeting following AI-related outages",
+      "summary": "Amazon conducted an internal engineering meeting in response to recent outages linked to its AI systems. The event underscores the growing business dependency on AI services, as well as the operational risks large cloud providers face as AI-powered solutions become critical infrastructure.",
+      "url": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de"
     },
     {
       "title": "Learnings from paying artists royalties for AI-generated art",
-      "summary": "This blog post discusses an experiment in compensating artists for the use of their work in AI-generated content. The initiative explores new models for royalties and licensing, which could inform future intellectual property frameworks as generative AI reshapes content creation.",
+      "summary": "The article discusses the results from experiments in paying royalties to artists whose work was used to train generative AI art models. Key findings highlight challenges in tracking, attribution, and payment—all matters pertinent to copyright and intellectual property in AI-generated content.",
       "url": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/"
     },
     {
-      "title": "Amazon holds engineering meeting following AI-related outages",
-      "summary": "Amazon convened an internal engineering meeting in response to outages linked to its AI systems. The company's reaction highlights the risks and operational challenges posed by the integration of AI into critical business infrastructure.",
-      "url": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de"
+      "title": "Microsoft announces Copilot Cowork with help from Anthropic — a cloud-powered AI agent that works across M365 apps",
+      "summary": "Microsoft has introduced Copilot Cowork, a new feature leveraging AI from Anthropic. This cloud-powered agent integrates deeply with Microsoft 365 applications, signaling a competitive push in enterprise LLM product offerings and intelligent workplace automation.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWm8wTmpoYXBOZGZST1Y2STQ0dXkyMmFTZEVpMHNoMlJRUkExNFZWa3VpUGxfdTZmZHZSZTBub3Ftc3VWMVh0eXFvbXJKTTY0YWZGQ2NuSHE2b3dJbEJSY3NqMVpHZDU3Skl3Sm5QZVdmb2FNSUQydFZ0dEwyRlE2eHpSWmFXTVVyb0N2RGM0VDdmbV9fQ1drU0FOaGpWNW8xbjdObXA4c3lsMnh0NWJZNHRTVQ?oc=5"
+    },
+    {
+      "title": "Mark Zuckerberg creating new Applied AI engineering company, reorganises teams",
+      "summary": "Meta CEO Mark Zuckerberg is refocusing company resources to create a new Applied AI engineering division and reorganizing teams. The move reflects ongoing efforts by major tech firms to accelerate AI product development and remain competitive in the enterprise AI space.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms"
     }
   ],
   "further_links": [
     {
-      "title": "Mark Zuckerberg creating new Applied AI engineering company, reorganises teams",
-      "summary": "Meta CEO Mark Zuckerberg is reorganizing teams and forming a new Applied AI engineering company to accelerate its AI efforts.",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms"
+      "title": "Microsoft launches $99 Microsoft 365 E7 with AI-powered Copilot Cowork",
+      "summary": "Microsoft has launched a $99 Microsoft 365 E7 subscription offering expanded AI features via Copilot Cowork, emphasizing the importance of AI tools in cloud productivity suites.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVUt0cmt2Sl9uVHB1cEdLZ2RUMC1xd3hwS2tuSmc2S1BTSXNoTG53dUJVS1c4R0pPT3hlRWh2TUotR3JJQ3RJLTlmSkFjVXY0REk3c2c1MzNGYXVXRnpZSW1ZZWhHd2YtaUd1dDdBSGVDU05lWkJHMnZaQVptSHhZUTNJRDhDLTB4Q2FsNnVTcmk1X19pQmVoQUNrV1J4a0t4SnJXSlRXTQ?oc=5"
+    },
+    {
+      "title": "Microsoft launches M365 Copilot updates for Biz Apps and Cowork, E7 AI-focused license combo",
+      "summary": "Microsoft has released updates for M365 Copilot focused on business apps and bundled E7 licenses, reinforcing its commitment to AI-powered enterprise solutions.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYkl0VGxWeDROUnJWVGVRRnBnbWJMRGhLcGd0bFF3N19nMmRmMWJlQ1VOWFhwQ3VoWFFZYmZnQ1g3YTVQckxDYVVfSmFjdk0xQUtBUDc1Y1NSLW41RktPZ1doSzlnU1NST1lhRlc3bU1RSGZvb3REYk8xc2R4RG1Mck9BYkZKTHpQbjR6R1BPVm1tS2NCSlpIZUJSYXFFOVZzLXZYQlhtem9nX21tNGtBaVh6enoyb3V2ekFtMVd3?oc=5"
     },
     {
       "title": "What Enterprise Adoption Data Reveals About The AI Boom",
-      "summary": "New data reveals trends and patterns in how enterprises are adopting and scaling up use of AI technologies.",
+      "summary": "An analysis of enterprise AI adoption provides insights into how businesses are leveraging AI and what barriers and opportunities are emerging.",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbDJmTmEtN3lScnpBbVNCVUhYYUljT25qTnB2VjU3RXZvTjFZbHhObVotMWRfeVBLc1Y2WG15czExQnA3WDlEN0MyV2dxUFRQc1lhTmdnVDlYeTItczZNem0ySWlTVjlqSmJraDZHaFhob0JTelJFYmJ1bnhXMkVXdWtsT2FDUW1fYWlYbWNtQjFIQQ?oc=5"
     },
     {
-      "title": "Predictive AI Market to hit USD 108 Billion by 2033",
-      "summary": "The predictive AI market is projected to reach $108 billion by 2033, driven by increased enterprise adoption.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVhZcmZqVDZ1UHFXRktiMHl3YV8xb0UwTHZoWjREeGhtQ0ZwLXhKSWtiN2loZlJ5cTFYOGFUQlNzTUtxaHVLcFZ6OEJFM1p4VDFmd192V2RlVnk0VnRSeHkzTUFYNTU1bWVnVVN1TEtlRTl6d3lzTERwUld1QVlkN2FfMXhKdTQ?oc=5"
+      "title": "AI in Biotechnology Market Size, Share, Growth | CAGR of 19.3%",
+      "summary": "Report highlights the rapid growth and investment in AI applications within the biotechnology sector.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LWjV1d1Y4SEN0MVpYckNpNEQyZkQ5NUpxVHowNnFLSHZmamVTRERTZ3JwcjQzX3E1dk1TX29ZS1NVTzcyNWdqalRNZV9sQjFGOGlmalY4X0U5b21lWnc2dFlDeUhRWTlWWDNmNklPbXg?oc=5"
     },
     {
-      "title": "Agentic AI Market to Reach US$ 98.26 Billion by 2033",
-      "summary": "The global agentic AI market is forecasted to grow to $98.26 billion by 2033 as autonomous agents see increased business adoption.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZW1IXzZ2cHMweGR0N3dWZy12anRxN1N0MmJfczdSUUlneDJvMlhPTHFQVTRpMk9XRjdHSVdUMlJhYjdwSktOajd2NnFwdTVpSUxqdWdGM0dib01GN3lMUGZHd1hJd1lob3lHbnQ4aF9fNU1zVTdNeG1jS0RBd29WU2ZkVDFzZ1prVGZfRXBQUGVBUmpzd2dfNw?oc=5"
+      "title": "Applied AI in Education Market Size, Growth, Trends and Forecast",
+      "summary": "A new report examines the growth trajectory and market trends for applied AI solutions in education.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTEtOSTNOX2pDVXJsOWoxT1hTSW0wSWtWMkhqWTgzSm1hYUFuY3F0RnJCZXZqNGJHekNTcmZ4c1JrbnpWelZiODhoZUMzSHR3V1NFcXQ1RFFtc1M1Z0Rza29qTWJmbWVDXzhkam82SEltX0hNYkxWWVNTNUFNelp3bV9ibXVEU0V3clhMYUJSNjFwTGZQYkNYQUtSN3RYQ0k?oc=5"
     },
     {
       "title": "Enterprise Agentic AI Market worth USD 171 Billion By 2034",
-      "summary": "Enterprise agentic AI is expected to reach a market value of $171 billion by 2034, reflecting robust industry investment.",
+      "summary": "Forecast estimates the enterprise agentic AI market to reach $171 billion by 2034, indicating high business demand.",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOanJTTkRCWlozY09DbnVFWVlCenBTemVxT2Z3WC03dUNUUjlVbGYtakVsRmFteDVSQm9LQUw5dFY5MGpvY2kwT0NuZWl0U04xTmRYc25HaGpMTEdHdEFFN2RBTS1vWGRTR3BWbWVndmtJRHJzWHVlYWtyakkxNzhBcDN5OElDQkxDNUQxUWs3a0w?oc=5"
     },
     {
+      "title": "Agentic AI Market to Reach US$ 98.26 Billion by 2033",
+      "summary": "Market research projects strong growth for the agentic AI market worldwide through 2033.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZW1IXzZ2cHMweGR0N3dWZy12anRxN1N0MmJfczdSUUlneDJvMlhPTHFQVTRpMk9XRjdHSVdUMlJhYjdwSktOajd2NnFwdTVpSUxqdWdGM0dib01GN3lMUGZHd1hJd1lob3lHbnQ4aF9fNU1zVTdNeG1jS0RBd29WU2ZkVDFzZ1prVGZfRXBQUGVBUmpzd2dfNw?oc=5"
+    },
+    {
       "title": "AI Manufacturing Platform Global Market 2026-2032: Size Dynamics, Key Trends and Growth Trajectory Forecast",
-      "summary": "The report forecasts significant growth and new trends in the global AI manufacturing platform market through 2032.",
+      "summary": "A new report presents trends and projections for AI manufacturing platforms through 2032.",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQXhsd3ppWjQ0bXB0bGRNZ2RaN3VOMFp4NGxONV9PNjh3OEdPcEE5dmtiaV9weGR5WS1mQzV1ZjdzT1g0TkFrTkxBWXBZNHJ6a3pGUVVCMllzTllkRGFHcnJOTDlpUlNYallPbWYxLXMyR1ZYRi1sa0dmS0dpZnNnWVVSZnBzclg3NVh0THBNZHRVYXJm?oc=5"
     },
     {
-      "title": "Bare Metal Cloud Market to Reach US$ 66.95 Billion by 2033",
-      "summary": "Bare metal cloud offerings supporting large AI workloads are projected to constitute a $66.95 billion market by 2033.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWW1nV0hBdEFhOVZveDVpODdCdHhWNW1wV3I0LWY3RFd3eDlFS3E2MVlqQnJrNUNWNVBHSzVwWUJLV29LMjBSR1VUb1Y3QlR0QVozX1A5MUpESmp1TlZlaFY1OVBSUzZ0QmJEVHVPUUotVl9sYjk5bDYyZUNoY2JjbEFSQVlLSUwtWHpYLWhLQzNtTEE5T0Iwa09OS0lfSFlV?oc=5"
+      "title": "Predictive AI Market to hit USD 108 Billion by 2033",
+      "summary": "Predictive AI market is forecasted to reach $108 billion by 2033, reflecting rapid enterprise adoption.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcVhZcmZqVDZ1UHFXRktiMHl3YV8xb0UwTHZoWjREeGhtQ0ZwLXhKSWtiN2loZlJ5cTFYOGFUQlNzTUtxaHVLcFZ6OEJFM1p4VDFmd192V2RlVnk0VnRSeHkzTUFYNTU1bWVnVVN1TEtlRTl6d3lzTERwUld1QVlkN2FfMXhKdTQ?oc=5"
     },
     {
-      "title": "AI Vision Inspection Market Growth, Trends, Opportunities, and Forecast Analysis",
-      "summary": "The AI vision inspection sector is experiencing rapid expansion as adoption rises across industries.",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbk9PQklmLWNWcGo4YkIxQUlBazRwSG92WUp3cFRzNVUzeFo1LWRlcUVjamtDOWhaTGFSeksxNG5hWTUybXUwT0xJRmlwSUxVVDJ5RkFCVWVUNUg1bzVPXy1pMmp1NEd5dmRMV3JpcTlhakNMTnZ6aFcyaDZuZVBRbzFqazhZbnd6M2tubjBsQlUxTW5NWHc?oc=5"
-    },
-    {
-      "title": "AI in Oil and Gas Industry Research Report 2026-2035",
-      "summary": "The report examines AI adoption, challenges, and projections for the oil and gas sector up to 2035.",
+      "title": "AI in Oil and Gas Industry Research Report 2026-2035:",
+      "summary": "The AI adoption rate and market prospects in the oil and gas industry are analyzed through 2035.",
       "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQaG5oRUlJaGZpSTZJdFpNQmhLY24xLS1hM3ZwR3RnUXNmTEFQYXVsMkpXRWRsdHV5cmNFWW03RFBkTW5yaVZLMXBFb081NG5GRnExejBDSXNWMUE5V0tkbnJnRVFMc0ZVNDlZN3h5NFZzYkczUnFzUjZUcm41dFUxRm8zellGZWNsSG5TY05paGFtdDRJZHFWLU9aZmdYSDVadkcyZEV0aGxxMElUdVdNMjhMc2FxUWtPb2RDY3lJN3lmTnpmOHc4NU5OdGtkYnhLbDlqWGJmS09tRUtKM1pzcEEyVVpGSUh5Ull3VUhkTGNzNVc4YWdjLXNUSTJpWWhjWEtMSmFVZjU2RXRna2hFM0Jkb2RWdzdhVmpneFJBakwyTm5DU2xHWWhyMl9IdzZBOFRmYnFCdmFTVWpqWWJTRFBPd0FxOW9qZjRKZVdZWVFlc0JIUHlrcFQ1VnY?oc=5"
     },
     {
-      "title": "Ambient Clinical Intelligence (Voice AI for EHR) Market Growth",
-      "summary": "The market for voice AI solutions in Electronic Health Records (EHR) is projected for notable growth as healthcare digitizes.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdWxiYV85UVEwUEFqMm9wMWpQeVdhaXlXb0h2UFUwZ2hBVmJ5U195QkNKZTN1N0dKMlJ2MXowUU9Cc3ZHbTg4UzA1emlPc0JWUGVIWEVPOE1wQURFTl85U1ZlZjRxcmxGQ2xNYjJMdlNFd2JsYlIzSkdIZjJfWmRSN0pOalI5SDZYcVVKQlpVR0ZUc0ZYSlZSZ2w3WWI?oc=5"
-    },
-    {
-      "title": "AI Recruitment Market to Hit US$1,862.26 Million by 2032 Driven",
-      "summary": "The AI-powered recruitment market is forecast to nearly $2 billion by 2032 as companies automate hiring processes.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd2x6VUhSODhZWUpkZjlLUU9jRmkxOW5FajV1d29xWFRzc0twT2lyVnpzOFc1ajBjamZkUDhObHpRMjJKS3JDNVVzZG5WckRVTTJmOUpNY1BNYm5JRkdfRWx6eG1uamswSDhRbGlBUWVqaVJ6eHJrYjNyZU1XSGxqWmpjNlZ4LVBNRzVLUnhSSzFvay0wQ2RUdVo0bVZqbm1G?oc=5"
+      "title": "United States AI in Mental Health Market 2026 | Growth Drivers,",
+      "summary": "An industry report explores projected growth and adoption of AI tools in mental health care in the U.S. through 2026.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaHZKT2R3bV9ZbVY3NHp5Slp2eUVZUTdNSWMyNWZqQ0JfZ0xhTmFIY01YR3hRSkFsbjJWRFdQNWxaa01fbjRYNnFVR0pWbEFwb2RVN3JWTmstTGdLNERaZGptUEJXTGtaUFB1emhQVnJEM1Y1MjE0MmJWNW1LSXFtN2syd0taeDA0OF9mTGNRTjJ0eVRMUzcwbXgxVVA?oc=5"
     }
   ]
 }
