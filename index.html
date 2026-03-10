@@ -1,4 +1,4 @@
-html<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -401,21 +401,44 @@ html<!DOCTYPE html>
         const opts = { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' };
         document.getElementById('header-date').textContent = now.toLocaleDateString('en-GB', opts);
 
+        // Daily flower — cycles through a curated list, one per day
         const flowers = [
             'rose','tulip','dahlia','peony','lavender','sunflower','orchid','iris',
             'poppy','magnolia','cherry blossom','wisteria','hydrangea','cosmos flower',
-            'ranunculus','anemone flower','sweet pea flower','foxglove','lupin flower',
-            'allium flower','delphinium','freesia','protea flower','anthurium',
-            'bird of paradise flower','agapanthus','celosia','zinnia','marigold',
-            'chrysanthemum','camellia','jasmine flower','gardenia','hibiscus'
+            'ranunculus','anemone','sweet pea','foxglove','lupin','allium',
+            'delphinium','freesia','protea','anthurium','bird of paradise',
+            'agapanthus','celosia','zinnia','marigold','chrysanthemum',
+            'camellia','jasmine','gardenia','hibiscus'
         ];
 
         const dayOfYear = Math.floor((now - new Date(now.getFullYear(), 0, 0)) / 86400000);
         const flowerKeyword = flowers[dayOfYear % flowers.length];
-        const seed = now.getFullYear() * 10000 + (now.getMonth()+1) * 100 + now.getDate();
 
-        document.getElementById('flower-img').src = `https://source.unsplash.com/featured/600x1200/?${encodeURIComponent(flowerKeyword)}&sig=${seed}`;
-        document.getElementById('flower-caption').textContent = flowerKeyword;
+        // ── PEXELS FLOWER IMAGE ───────────────────────────────────────────────
+        // Replace dbwIwAOi3X5bTdA6lPjq7isKyM16T3Ma2r96LQ6CxwvfbuM8pntW8R7x below with your actual Pexels API key
+        const PEXELS_API_KEY = 'dbwIwAOi3X5bTdA6lPjq7isKyM16T3Ma2r96LQ6CxwvfbuM8pntW8R7x';
+
+        async function loadFlower() {
+            const flowerImg = document.getElementById('flower-img');
+            const caption = document.getElementById('flower-caption');
+            caption.textContent = flowerKeyword;
+            try {
+                const page = (dayOfYear % 3) + 1; // vary page each day for more variety
+                const res = await fetch(
+                    `https://api.pexels.com/v1/search?query=${encodeURIComponent(flowerKeyword + ' flower')}&orientation=portrait&per_page=1&page=${page}`,
+                    { headers: { Authorization: PEXELS_API_KEY } }
+                );
+                const data = await res.json();
+                if (data.photos && data.photos.length > 0) {
+                    flowerImg.src = data.photos[0].src.large;
+                    flowerImg.alt = data.photos[0].alt || flowerKeyword;
+                }
+            } catch (e) {
+                // silently fail — image stays blank rather than breaking page
+                console.log('Flower image could not load:', e);
+            }
+        }
+        loadFlower();
 
         function getDomain(url) {
             try { return new URL(url).hostname.replace(/^www\./, ''); }
