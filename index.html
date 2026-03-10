@@ -82,6 +82,7 @@
             white-space: nowrap;
         }
 
+        /* Past Issues button */
         .past-issues-btn {
             font-family: 'DM Mono', monospace;
             font-size: 0.65rem;
@@ -107,6 +108,7 @@
             background: rgba(200, 67, 42, 0.05);
         }
 
+        /* Past Issues panel */
         .past-issues-panel {
             display: none;
             position: absolute;
@@ -183,6 +185,7 @@
             letter-spacing: 0.1em;
         }
 
+        /* Viewing past issue banner */
         .past-issue-banner {
             display: none;
             background: var(--ink);
@@ -290,6 +293,17 @@
             letter-spacing: 0.15em;
             text-transform: uppercase;
             text-shadow: 0 1px 6px rgba(0,0,0,0.6);
+        }
+
+        .flower-tagline {
+            text-align: center;
+            font-family: 'DM Mono', monospace;
+            font-size: 0.55rem;
+            color: rgba(255,255,255,0.45);
+            letter-spacing: 0.1em;
+            font-style: italic;
+            margin-top: 6px;
+            padding: 0 8px;
         }
 
         .main { padding: 40px 48px 80px; }
@@ -558,6 +572,7 @@
         <div class="flower-column">
             <img class="flower-img" id="flower-img" src="" alt="Today's flower" />
             <div class="flower-caption" id="flower-caption"></div>
+            <div class="flower-tagline">pretty flower for the pretty lady</div>
         </div>
         <main class="main" id="main-content">
             <div class="loading-state">
@@ -579,18 +594,21 @@
         const opts = { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' };
         document.getElementById('header-date').textContent = now.toLocaleDateString('en-GB', opts);
 
+        // Format a YYYY-MM-DD string as "10 March 2026"
         function formatDate(dateStr) {
             const [y, m, d] = dateStr.split('-').map(Number);
             const date = new Date(y, m - 1, d);
             return date.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
         }
 
+        // Today's date string
         function todayStr() {
             return now.toISOString().slice(0, 10);
         }
 
         let currentDateStr = null;
 
+        // Daily flower — cycles through a curated list, one per day
         const flowers = [
             'rose','tulip','dahlia','peony','lavender','sunflower','orchid','iris',
             'poppy','magnolia','cherry blossom','wisteria','hydrangea','cosmos flower',
@@ -625,6 +643,8 @@
             }
         }
         loadFlower();
+
+        // ── PAST ISSUES ───────────────────────────────────────────────────────
 
         async function loadArchive() {
             try {
@@ -662,6 +682,7 @@
             btn.classList.toggle('active', !isOpen);
         }
 
+        // Close panel when clicking outside
         document.addEventListener('click', function(e) {
             const panel = document.getElementById('past-issues-panel');
             const btn = document.getElementById('past-issues-btn');
@@ -672,12 +693,14 @@
         });
 
         async function loadIssue(dateStr) {
+            // Close panel
             document.getElementById('past-issues-panel').classList.remove('open');
             document.getElementById('past-issues-btn').classList.remove('active');
 
             currentDateStr = dateStr;
             const today = todayStr();
 
+            // Show/hide banner
             const banner = document.getElementById('past-issue-banner');
             if (dateStr === today) {
                 banner.classList.remove('visible');
@@ -686,6 +709,7 @@
                 banner.classList.add('visible');
             }
 
+            // Show loading
             document.getElementById('main-content').innerHTML = `
                 <div class="loading-state">
                     <span class="big">Loading…</span>
@@ -709,6 +733,8 @@
             loadIssue(todayStr());
         }
 
+        // ── DIGEST RENDERING ──────────────────────────────────────────────────
+
         function getDomain(url) {
             try { return new URL(url).hostname.replace(/^www\./, ''); }
             catch { return ''; }
@@ -722,6 +748,7 @@
                 currentDateStr = today;
                 renderDigest(await res.json(), today);
             } catch {
+                // fallback to legacy digest.json
                 try {
                     const res2 = await fetch('digest.json?v=' + Date.now());
                     if (!res2.ok) throw new Error('no json');
@@ -814,8 +841,51 @@
 
             document.getElementById('main-content').innerHTML = html ||
                 '<div class="loading-state"><span class="big">Empty digest.</span><p>No stories were returned in the last run.</p></div>';
+
+            // One More Thing — Ethan Mollick's latest post
+            loadOneMoreThing();
         }
 
+        async function loadOneMoreThing() {
+            const rssUrl = 'https://www.oneusefulthing.org/feed';
+            const proxyUrl = `https://corsproxy.io/?url=${encodeURIComponent(rssUrl)}`;
+            try {
+                const res = await fetch(proxyUrl);
+                if (!res.ok) throw new Error('fetch failed');
+                const text = await res.text();
+                const parser = new DOMParser();
+                const xml = parser.parseFromString(text, 'text/xml');
+                const item = xml.querySelector('item');
+                if (!item) throw new Error('no items');
+                const title = item.querySelector('title')?.textContent || '';
+                const link = item.querySelector('link')?.textContent || '';
+                const descRaw = item.querySelector('description')?.textContent || '';
+                const tmp = document.createElement('div');
+                tmp.innerHTML = descRaw;
+                const desc = tmp.textContent?.trim().substring(0, 200) || '';
+                const section = document.createElement('div');
+                section.innerHTML = `
+                    <hr class="rule">
+                    <div class="section-header">
+                        <div class="section-number">✦</div>
+                        <div>
+                            <div class="section-label">One More Thing</div>
+                            <div class="section-title">Latest from Ethan Mollick</div>
+                        </div>
+                    </div>
+                    <div class="story-card">
+                        <div class="story-title">${title}</div>
+                        <div class="story-source">oneusefulthing.org</div>
+                        ${desc ? `<div class="story-summary">${desc}…</div>` : ''}
+                        ${link ? `<a href="${link}" target="_blank" rel="noopener" class="story-link">Read on Substack →</a>` : ''}
+                    </div>`;
+                document.getElementById('main-content').appendChild(section);
+            } catch(e) {
+                // Silently fail — don't break the page if RSS is unavailable
+            }
+        }
+
+        // Load archive list and today's digest on page load
         loadArchive();
         loadDigest();
     </script>
