@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Signal — AI News by Tim Britton</title>
+    <title>Signal â AI News by Tim Britton</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@300;400;500&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
     <style>
@@ -302,8 +302,8 @@
             right: 0;
             text-align: center;
             font-family: 'DM Mono', monospace;
-            font-size: 0.5rem;
-            color: rgba(255,255,255,0.35);
+            font-size: 0.65rem;
+            color: rgba(255,255,255,0.75);
             letter-spacing: 0.08em;
             font-style: italic;
             text-shadow: 0 1px 4px rgba(0,0,0,0.5);
@@ -418,7 +418,7 @@
         }
 
         .story-link:hover { border-bottom-color: var(--accent); }
-        .story-link::after { content: ' →'; }
+        .story-link::after { content: ' â'; }
 
         .links-grid {
             display: grid;
@@ -551,7 +551,7 @@
                 <div class="past-issues-header-title">Previous Editions</div>
             </div>
             <div class="past-issues-list" id="past-issues-list">
-                <div class="past-issues-empty">Loading archive…</div>
+                <div class="past-issues-empty">Loading archiveâ¦</div>
             </div>
         </div>
     </header>
@@ -560,7 +560,7 @@
         <div class="past-issue-banner-inner">
             <div class="past-issue-banner-text">Viewing edition from</div>
             <div class="past-issue-banner-date" id="past-issue-banner-date"></div>
-            <button class="back-to-today" onclick="loadToday()">← Back to Today</button>
+            <button class="back-to-today" onclick="loadToday()">â Back to Today</button>
         </div>
     </div>
 
@@ -575,11 +575,11 @@
         <div class="flower-column">
             <img class="flower-img" id="flower-img" src="" alt="Today's flower" />
             <div class="flower-caption" id="flower-caption"></div>
-            <div class="flower-tagline">pretty flower for the pretty lady</div>
+            <div class="flower-tagline" id="flower-tagline-sub"></div>
         </div>
         <main class="main" id="main-content">
             <div class="loading-state">
-                <span class="big">Loading…</span>
+                <span class="big">Loadingâ¦</span>
                 <p>Fetching today's digest.</p>
             </div>
         </main>
@@ -587,7 +587,7 @@
 
     <footer>
         <div class="footer-inner">
-            <div class="footer-text">Automated daily · Sources monitored via RSS · Curated by AI · Edited by nobody</div>
+            <div class="footer-text">Automated daily Â· Sources monitored via RSS Â· Curated by AI Â· Edited by nobody</div>
             <div class="footer-signal">Signal.</div>
         </div>
     </footer>
@@ -611,7 +611,7 @@
 
         let currentDateStr = null;
 
-        // Daily flower — cycles through a curated list, one per day
+        // Daily flower â cycles through a curated list, one per day
         const flowers = [
             'rose','tulip','dahlia','peony','lavender','sunflower','orchid','iris',
             'poppy','magnolia','cherry blossom','wisteria','hydrangea','cosmos flower',
@@ -623,6 +623,7 @@
 
         const dayOfYear = Math.floor((now - new Date(now.getFullYear(), 0, 0)) / 86400000);
         const flowerKeyword = flowers[dayOfYear % flowers.length];
+        document.getElementById('flower-tagline-sub').textContent = 'pretty ' + flowerKeyword + ' for the pretty lady';
 
         const PEXELS_API_KEY = 'dbwIwAOi3X5bTdA6lPjq7isKyM16T3Ma2r96LQ6CxwvfbuM8pntW8R7x';
 
@@ -647,7 +648,7 @@
         }
         loadFlower();
 
-        // ── PAST ISSUES ───────────────────────────────────────────────────────
+        // ââ PAST ISSUES âââââââââââââââââââââââââââââââââââââââââââââââââââââââ
 
         async function loadArchive() {
             try {
@@ -672,7 +673,7 @@
             list.innerHTML = dates.map(d => `
                 <button class="past-issue-item ${d === today ? 'current' : ''}"
                         onclick="loadIssue('${d}')">
-                    ${formatDate(d)}${d === today ? ' — Today' : ''}
+                    ${formatDate(d)}${d === today ? ' â Today' : ''}
                 </button>
             `).join('');
         }
@@ -715,7 +716,7 @@
             // Show loading
             document.getElementById('main-content').innerHTML = `
                 <div class="loading-state">
-                    <span class="big">Loading…</span>
+                    <span class="big">Loadingâ¦</span>
                     <p>Fetching edition from ${formatDate(dateStr)}.</p>
                 </div>`;
 
@@ -736,7 +737,7 @@
             loadIssue(todayStr());
         }
 
-        // ── DIGEST RENDERING ──────────────────────────────────────────────────
+        // ââ DIGEST RENDERING ââââââââââââââââââââââââââââââââââââââââââââââââââ
 
         function getDomain(url) {
             try { return new URL(url).hostname.replace(/^www\./, ''); }
@@ -776,7 +777,7 @@
         function renderRaw(text) {
             const html = text
                 .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-                .replace(/\[Read more\]\((https?:\/\/[^\)]+)\)/g, '<a href="$1" target="_blank" rel="noopener">Read more →</a>')
+                .replace(/\[Read more\]\((https?:\/\/[^\)]+)\)/g, '<a href="$1" target="_blank" rel="noopener">Read more â</a>')
                 .replace(/\[(.*?)\]\((https?:\/\/[^\)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
                 .replace(/^(\d+)\.\s+(.+)$/gm, (_, n, t) => `<div class="story-number">Story ${String(n).padStart(2,'0')}</div><div class="story-title">${t}</div>`)
                 .replace(/### (.*)/g, '<h3 style="font-family:\'Playfair Display\',serif;margin:32px 0 16px;font-size:1.3rem;font-weight:900;">$1</h3>')
@@ -786,7 +787,7 @@
                 <div class="section-header">
                     <div>
                         <div class="section-label">Today's Digest</div>
-                        <div class="section-title">AI News — ${now.toLocaleDateString('en-GB', { day:'numeric', month:'long', year:'numeric' })}</div>
+                        <div class="section-title">AI News â ${now.toLocaleDateString('en-GB', { day:'numeric', month:'long', year:'numeric' })}</div>
                     </div>
                 </div>
                 <div class="story-card">
@@ -836,7 +837,7 @@
                         ${l.title ? `<div class="link-title">${l.title}</div>` : ''}
                         ${domain ? `<div class="link-source">${domain}</div>` : ''}
                         <div class="link-text">${l.summary}</div>
-                        ${l.url ? `<a href="${l.url}" target="_blank" rel="noopener" class="link-url">Read more →</a>` : ''}
+                        ${l.url ? `<a href="${l.url}" target="_blank" rel="noopener" class="link-url">Read more â</a>` : ''}
                     </div>`;
                 });
                 html += `</div>`;
@@ -845,7 +846,7 @@
             document.getElementById('main-content').innerHTML = html ||
                 '<div class="loading-state"><span class="big">Empty digest.</span><p>No stories were returned in the last run.</p></div>';
 
-            // One More Thing — Ethan Mollick's latest post
+            // One More Thing â Ethan Mollick's latest post
             loadOneMoreThing();
         }
 
@@ -870,7 +871,7 @@
                 section.innerHTML = `
                     <hr class="rule">
                     <div class="section-header">
-                        <div class="section-number">✦</div>
+                        <div class="section-number">â¦</div>
                         <div>
                             <div class="section-label">One More Thing</div>
                             <div class="section-title">Latest from Ethan Mollick</div>
@@ -879,12 +880,12 @@
                     <div class="story-card">
                         <div class="story-title">${title}</div>
                         <div class="story-source">oneusefulthing.org</div>
-                        ${desc ? `<div class="story-summary">${desc}…</div>` : ''}
-                        ${link ? `<a href="${link}" target="_blank" rel="noopener" class="story-link">Read on Substack →</a>` : ''}
+                        ${desc ? `<div class="story-summary">${desc}â¦</div>` : ''}
+                        ${link ? `<a href="${link}" target="_blank" rel="noopener" class="story-link">Read on Substack â</a>` : ''}
                     </div>`;
                 document.getElementById('main-content').appendChild(section);
             } catch(e) {
-                // Silently fail — don't break the page if RSS is unavailable
+                // Silently fail â don't break the page if RSS is unavailable
             }
         }
 
