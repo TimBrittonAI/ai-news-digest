@@ -1,0 +1,81 @@
+{
+  "top_stories": [
+    {
+      "title": "Yann LeCun's AI startup raises $1B in Europe's largest ever seed round",
+      "summary": "Yann LeCun's AI startup has secured a record-breaking $1 billion seed round, the largest ever in Europe. This signals significant confidence in leading AI researchers and a continuing influx of capital into foundational AI model development. [Paywalled]",
+      "url": "https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1"
+    },
+    {
+      "title": "AI is inventing academic articles – and scholars are citing them",
+      "summary": "AI-generated academic articles are appearing in the research ecosystem, with some being mistaken for legitimate research and cited by real scholars. This raises critical concerns about academic integrity, quality control, and the impact of AI on scholarly publishing.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZk9nS2tqVWNCN2E3Zk9zSXVDY0xtWTMzUUhxcVhPN0VPenh3a2VKbXVTckVZSHVmQzBfRkIxbENNNktTV2luc0dVY0RpVVhXN19rUE1ROWNQZ0ZyUkVCdzQ0OUhwODVkZHFwSW5aVEZfaU5jOXgtaWZBTzBFUGQ1VXZyLVNBMFNOWkNLMmZBaVpubUp4Uk5aaTBUaUVkaXdFTU4yTzdZem5lbTR6SVJtelBidW1jckJD?oc=5"
+    },
+    {
+      "title": "Mark Zuckerberg creating new Applied AI engineering company, reorganises teams",
+      "summary": "Meta CEO Mark Zuckerberg is reportedly creating a new company dedicated to Applied AI engineering and is reorganising key teams. This move demonstrates ongoing strategic investment in AI infrastructure and product development at a major tech company.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerberg-is-creating-new-applied-ai-engineering-company-reorganises-key-teams/articleshow/129018841.cms"
+    },
+    {
+      "title": "Learnings from paying artists royalties for AI-generated art",
+      "summary": "A platform explores the implications and operational realities of paying royalties to artists for AI-generated art created from their work. This has importance for future AI intellectual property policies and creator compensation models.",
+      "url": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/"
+    },
+    {
+      "title": "Amazon holds engineering meeting following AI-related outages",
+      "summary": "Amazon convened an internal engineering meeting after recent outages tied to its AI systems, highlighting the rising operational importance—and risks—of enterprise-scale AI deployments. [Paywalled]",
+      "url": "https://www.ft.com/content/7cab4ec7-4712-4137-b602-119a44f771de"
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Microsoft launches $99 Microsoft 365 E7 with AI-powered Copilot Cowork",
+      "summary": "Microsoft has announced Microsoft 365 E7, a new business suite with expanded AI features, reinforcing enterprise competition in AI-powered productivity.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVUt0cmt2Sl9uVHB1cEdLZ2RUMC1xd3hwS2tuSmc2S1BTSXNoTG53dUJVS1c4R0pPT3hlRWh2TUotR3JJQ3RJLTlmSkFjVXY0REk3c2c1MzNGYXVXRnpZSW1ZZWhHd2YtaUd1dDdBSGVDU05lWkJHMnZaQVptSHhZUTNJRDhDLTB4Q2FsNnVTcmk1X19pQmVoQUNrV1J4a0t4SnJXSlRXTQ"
+    },
+    {
+      "title": "VCs are betting that AI will disrupt nearly every industry in the world. Are they prepared for it to disrupt their own?",
+      "summary": "Venture capitalists are heavily investing in AI with the expectation that it will transform countless industries, prompting questions about changes within the VC sector itself.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rppalb/vcs_are_betting_that_ai_will_disrupt_nearly_every/"
+    },
+    {
+      "title": "Anthropic Released a Shocking List of Jobs AI Will Take Over",
+      "summary": "Anthropic publicized a list of jobs at risk of automation by AI, underscoring the technology's far-reaching impact on future employment.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rpsxuv/anthropic_released_a_shocking_list_of_jobs_ai/"
+    },
+    {
+      "title": "OpenAI's top exec resignation exposes something bigger than one Pentagon deal",
+      "summary": "A senior OpenAI executive's resignation reveals broader internal tensions and strategy issues at a leading AI research organization.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rpgkz6/openais_top_exec_resignation_exposes_something/"
+    },
+    {
+      "title": "What Enterprise Adoption Data Reveals About The AI Boom",
+      "summary": "New research examines enterprise AI adoption data to identify usage patterns and market opportunities, shedding light on real-world business integration.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbDJmTmEtN3lScnpBbVNCVUhYYUljT25qTnB2VjU3RXZvTjFZbHhObVotMWRfeVBLc1Y2WG15czExQnA3WDlEN0MyV2dxUFRQc1lhTmdnVDlYeTItczZNem0ySWlTVjlqSmJraDZHaFhob0JTelJFYmJ1bnhXMkVXdWtsT2FDUW1fYWlYbWNtQjFIQQ?oc=5"
+    },
+    {
+      "title": "The Download: AI’s role in the Iran war, and an escalating legal fight",
+      "summary": "A round-up report covers significant developments in military use of AI and a growing legal confrontation involving Anthropic and US authorities.",
+      "url": "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/"
+    },
+    {
+      "title": "Sarvam 30B Uncensored via Abliteration",
+      "summary": "A new uncensored open-source LLM, Sarvam 30B, is now available, contributing to discussions about open access and content moderation in LLMs.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rpwfle/sarvam_30b_uncensored_via_abliteration/"
+    },
+    {
+      "title": "AI can't replace the best factory operators and that should change how we build models",
+      "summary": "A discussion on current AI's limitations in manufacturing highlights the need for models that better replicate expert human operator performance.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rpr8wl/ai_cant_replace_the_best_factory_operators_and/"
+    },
+    {
+      "title": "Connect your research data easily to AI agents",
+      "summary": "A new tool simplifies integrating research data with AI agents, boosting productivity for researchers and AI enthusiasts.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rpaf49/connect_your_research_data_easily_to_ai_agents/"
+    },
+    {
+      "title": "[R] shadow APIs breaking research reproducibility (arxiv 2603.01919)",
+      "summary": "Shadow APIs in ML research raise concerns over reproducibility, pointing to critical risks for the integrity and verifiability of AI publications.",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rpoi3u/r_shadow_apis_breaking_research_reproducibility/"
+    }
+  ]
+}
