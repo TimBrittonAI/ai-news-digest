@@ -67,6 +67,12 @@
             border-left: 1px solid var(--rule);
         }
 
+        .masthead-right {
+            display: flex;
+            align-items: baseline;
+            gap: 24px;
+        }
+
         .masthead-date {
             font-family: 'DM Mono', monospace;
             font-size: 0.7rem;
@@ -75,6 +81,156 @@
             text-transform: uppercase;
             white-space: nowrap;
         }
+
+        .past-issues-btn {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.65rem;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            color: var(--muted);
+            background: none;
+            border: 1px solid var(--rule);
+            padding: 5px 10px;
+            cursor: pointer;
+            transition: color 0.15s, border-color 0.15s;
+            white-space: nowrap;
+        }
+
+        .past-issues-btn:hover {
+            color: var(--accent);
+            border-color: var(--accent);
+        }
+
+        .past-issues-btn.active {
+            color: var(--accent);
+            border-color: var(--accent);
+            background: rgba(200, 67, 42, 0.05);
+        }
+
+        .past-issues-panel {
+            display: none;
+            position: absolute;
+            top: 100%;
+            right: 40px;
+            width: 260px;
+            background: var(--card-bg);
+            border: 1px solid var(--rule);
+            border-top: 3px solid var(--accent);
+            box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+            z-index: 200;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+
+        .past-issues-panel.open { display: block; }
+
+        .past-issues-header {
+            padding: 12px 16px;
+            border-bottom: 1px solid var(--rule);
+        }
+
+        .past-issues-header-label {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.6rem;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: var(--accent);
+            margin-bottom: 2px;
+        }
+
+        .past-issues-header-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 0.95rem;
+            font-weight: 700;
+            color: var(--ink);
+        }
+
+        .past-issues-list { padding: 8px 0; }
+
+        .past-issue-item {
+            display: block;
+            width: 100%;
+            text-align: left;
+            padding: 10px 16px;
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-family: 'DM Sans', sans-serif;
+            font-size: 0.85rem;
+            font-weight: 300;
+            color: var(--ink);
+            border-left: 3px solid transparent;
+            transition: background 0.1s, border-color 0.1s;
+        }
+
+        .past-issue-item:hover {
+            background: #faf9f7;
+            border-left-color: var(--accent);
+        }
+
+        .past-issue-item.current {
+            border-left-color: var(--accent);
+            color: var(--accent);
+            font-weight: 400;
+        }
+
+        .past-issues-empty {
+            padding: 16px;
+            font-family: 'DM Mono', monospace;
+            font-size: 0.65rem;
+            color: var(--muted);
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
+        }
+
+        .past-issue-banner {
+            display: none;
+            background: var(--ink);
+            color: var(--paper);
+            padding: 8px 40px;
+            text-align: center;
+        }
+
+        .past-issue-banner.visible { display: block; }
+
+        .past-issue-banner-inner {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 16px;
+        }
+
+        .past-issue-banner-text {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.65rem;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            color: #aaa;
+        }
+
+        .past-issue-banner-date {
+            font-family: 'Playfair Display', serif;
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--paper);
+        }
+
+        .back-to-today {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.6rem;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            color: var(--accent);
+            background: none;
+            border: 1px solid var(--accent);
+            padding: 4px 10px;
+            cursor: pointer;
+            transition: background 0.15s;
+        }
+
+        .back-to-today:hover { background: rgba(200,67,42,0.15); }
 
         .hero-band { background: var(--ink); color: var(--paper); padding: 10px 40px; }
 
@@ -354,6 +510,8 @@
             .flower-column { display: none; }
             .main { padding: 24px 20px 60px; }
             .links-grid { grid-template-columns: 1fr; }
+            .byline { display: none; }
+            .past-issues-panel { right: 20px; }
         }
     </style>
 </head>
@@ -365,9 +523,29 @@
                 <div class="title">Signal<span>.</span></div>
                 <div class="byline">AI Intelligence by Tim Britton</div>
             </div>
-            <div class="masthead-date" id="header-date"></div>
+            <div class="masthead-right">
+                <div class="masthead-date" id="header-date"></div>
+                <button class="past-issues-btn" id="past-issues-btn" onclick="togglePastIssues()">Past Issues</button>
+            </div>
+        </div>
+        <div class="past-issues-panel" id="past-issues-panel">
+            <div class="past-issues-header">
+                <div class="past-issues-header-label">Archive</div>
+                <div class="past-issues-header-title">Previous Editions</div>
+            </div>
+            <div class="past-issues-list" id="past-issues-list">
+                <div class="past-issues-empty">Loading archive…</div>
+            </div>
         </div>
     </header>
+
+    <div class="past-issue-banner" id="past-issue-banner">
+        <div class="past-issue-banner-inner">
+            <div class="past-issue-banner-text">Viewing edition from</div>
+            <div class="past-issue-banner-date" id="past-issue-banner-date"></div>
+            <button class="back-to-today" onclick="loadToday()">← Back to Today</button>
+        </div>
+    </div>
 
     <div class="hero-band">
         <div class="hero-inner">
@@ -383,8 +561,8 @@
         </div>
         <main class="main" id="main-content">
             <div class="loading-state">
-                <span class="big">No digest yet.</span>
-                <p>Content will appear here once the first automated run completes.</p>
+                <span class="big">Loading…</span>
+                <p>Fetching today's digest.</p>
             </div>
         </main>
     </div>
@@ -401,7 +579,18 @@
         const opts = { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' };
         document.getElementById('header-date').textContent = now.toLocaleDateString('en-GB', opts);
 
-        // Daily flower — cycles through a curated list, one per day
+        function formatDate(dateStr) {
+            const [y, m, d] = dateStr.split('-').map(Number);
+            const date = new Date(y, m - 1, d);
+            return date.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+        }
+
+        function todayStr() {
+            return now.toISOString().slice(0, 10);
+        }
+
+        let currentDateStr = null;
+
         const flowers = [
             'rose','tulip','dahlia','peony','lavender','sunflower','orchid','iris',
             'poppy','magnolia','cherry blossom','wisteria','hydrangea','cosmos flower',
@@ -414,8 +603,6 @@
         const dayOfYear = Math.floor((now - new Date(now.getFullYear(), 0, 0)) / 86400000);
         const flowerKeyword = flowers[dayOfYear % flowers.length];
 
-        // ── PEXELS FLOWER IMAGE ───────────────────────────────────────────────
-        // Replace dbwIwAOi3X5bTdA6lPjq7isKyM16T3Ma2r96LQ6CxwvfbuM8pntW8R7x below with your actual Pexels API key
         const PEXELS_API_KEY = 'dbwIwAOi3X5bTdA6lPjq7isKyM16T3Ma2r96LQ6CxwvfbuM8pntW8R7x';
 
         async function loadFlower() {
@@ -423,7 +610,7 @@
             const caption = document.getElementById('flower-caption');
             caption.textContent = flowerKeyword;
             try {
-                const page = (dayOfYear % 3) + 1; // vary page each day for more variety
+                const page = (dayOfYear % 3) + 1;
                 const res = await fetch(
                     `https://api.pexels.com/v1/search?query=${encodeURIComponent(flowerKeyword + ' flower')}&orientation=portrait&per_page=1&page=${page}`,
                     { headers: { Authorization: PEXELS_API_KEY } }
@@ -434,11 +621,93 @@
                     flowerImg.alt = data.photos[0].alt || flowerKeyword;
                 }
             } catch (e) {
-                // silently fail — image stays blank rather than breaking page
                 console.log('Flower image could not load:', e);
             }
         }
         loadFlower();
+
+        async function loadArchive() {
+            try {
+                const res = await fetch('archive.txt?v=' + Date.now());
+                if (!res.ok) throw new Error('no archive');
+                const text = await res.text();
+                const dates = text.split(',').map(d => d.trim()).filter(d => d.length === 10);
+                buildPastIssuesList(dates);
+            } catch {
+                document.getElementById('past-issues-list').innerHTML =
+                    '<div class="past-issues-empty">No archive available yet.</div>';
+            }
+        }
+
+        function buildPastIssuesList(dates) {
+            const list = document.getElementById('past-issues-list');
+            if (!dates.length) {
+                list.innerHTML = '<div class="past-issues-empty">No past issues yet.</div>';
+                return;
+            }
+            const today = todayStr();
+            list.innerHTML = dates.map(d => `
+                <button class="past-issue-item ${d === today ? 'current' : ''}"
+                        onclick="loadIssue('${d}')">
+                    ${formatDate(d)}${d === today ? ' — Today' : ''}
+                </button>
+            `).join('');
+        }
+
+        function togglePastIssues() {
+            const panel = document.getElementById('past-issues-panel');
+            const btn = document.getElementById('past-issues-btn');
+            const isOpen = panel.classList.contains('open');
+            panel.classList.toggle('open', !isOpen);
+            btn.classList.toggle('active', !isOpen);
+        }
+
+        document.addEventListener('click', function(e) {
+            const panel = document.getElementById('past-issues-panel');
+            const btn = document.getElementById('past-issues-btn');
+            if (!panel.contains(e.target) && e.target !== btn) {
+                panel.classList.remove('open');
+                btn.classList.remove('active');
+            }
+        });
+
+        async function loadIssue(dateStr) {
+            document.getElementById('past-issues-panel').classList.remove('open');
+            document.getElementById('past-issues-btn').classList.remove('active');
+
+            currentDateStr = dateStr;
+            const today = todayStr();
+
+            const banner = document.getElementById('past-issue-banner');
+            if (dateStr === today) {
+                banner.classList.remove('visible');
+            } else {
+                document.getElementById('past-issue-banner-date').textContent = formatDate(dateStr);
+                banner.classList.add('visible');
+            }
+
+            document.getElementById('main-content').innerHTML = `
+                <div class="loading-state">
+                    <span class="big">Loading…</span>
+                    <p>Fetching edition from ${formatDate(dateStr)}.</p>
+                </div>`;
+
+            try {
+                const res = await fetch(`digest-${dateStr}.json?v=` + Date.now());
+                if (!res.ok) throw new Error('not found');
+                renderDigest(await res.json(), dateStr);
+            } catch {
+                document.getElementById('main-content').innerHTML = `
+                    <div class="loading-state">
+                        <span class="big">Not found.</span>
+                        <p>The edition for ${formatDate(dateStr)} is not available.</p>
+                    </div>`;
+            }
+        }
+
+        function loadToday() {
+            loadIssue(todayStr());
+        }
 
         function getDomain(url) {
             try { return new URL(url).hostname.replace(/^www\./, ''); }
@@ -446,16 +715,31 @@
         }
 
         async function loadDigest() {
+            const today = todayStr();
             try {
-                const res = await fetch('digest.json?v=' + Date.now());
+                const res = await fetch(`digest-${today}.json?v=` + Date.now());
                 if (!res.ok) throw new Error('no json');
-                renderDigest(await res.json());
+                currentDateStr = today;
+                renderDigest(await res.json(), today);
             } catch {
                 try {
-                    const res2 = await fetch('digest.txt?v=' + Date.now());
-                    if (!res2.ok) throw new Error('no txt');
-                    renderRaw(await res2.text());
-                } catch { /* keep loading state */ }
+                    const res2 = await fetch('digest.json?v=' + Date.now());
+                    if (!res2.ok) throw new Error('no json');
+                    currentDateStr = today;
+                    renderDigest(await res2.json(), today);
+                } catch {
+                    try {
+                        const res3 = await fetch('digest.txt?v=' + Date.now());
+                        if (!res3.ok) throw new Error('no txt');
+                        renderRaw(await res3.text());
+                    } catch {
+                        document.getElementById('main-content').innerHTML = `
+                            <div class="loading-state">
+                                <span class="big">No digest yet.</span>
+                                <p>Content will appear here once the first automated run completes.</p>
+                            </div>`;
+                    }
+                }
             }
         }
 
@@ -480,15 +764,17 @@
                 </div>`;
         }
 
-        function renderDigest(data) {
+        function renderDigest(data, dateStr) {
+            const isToday = dateStr === todayStr();
+            const displayDate = formatDate(dateStr);
             let html = '';
 
             if (data.top_stories && data.top_stories.length) {
                 html += `<div class="section-header">
                     <div class="section-number">01</div>
                     <div>
-                        <div class="section-label">Top Stories</div>
-                        <div class="section-title">Five things worth your time today</div>
+                        <div class="section-label">${isToday ? "Today's Top Stories" : displayDate}</div>
+                        <div class="section-title">Five things worth your time</div>
                     </div>
                 </div>`;
                 data.top_stories.forEach((s, i) => {
@@ -530,6 +816,7 @@
                 '<div class="loading-state"><span class="big">Empty digest.</span><p>No stories were returned in the last run.</p></div>';
         }
 
+        loadArchive();
         loadDigest();
     </script>
 </body>
