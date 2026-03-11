@@ -1,0 +1,86 @@
+{
+  "top_stories": [
+    {
+      "title": "Anthropic sues Trump administration seeking to undo 'supply chain risk' designation",
+      "summary": "Anthropic has filed a lawsuit against the Trump administration challenging the designation of their company as a 'supply chain risk.' The outcome could affect the regulatory landscape for AI startups and highlight tensions between companies and government oversight.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rq9qvm/anthropic_sues_trump_administration_seeking_to/"
+    },
+    {
+      "title": "Amazon wins court order to block Perplexity's AI shopping agent",
+      "summary": "Amazon has obtained a court order stopping Perplexity's AI-powered shopping agent from scraping data from its site. This case marks a significant development in data usage and intellectual property rights as AI agents increasingly interact with online platforms.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rq6qpi/amazon_wins_court_order_to_block_perplexitys_ai/"
+    },
+    {
+      "title": "OpenAI Employees Are Defending a Rival Company Against the US Government — That's Never Happened Before",
+      "summary": "Employees from OpenAI are publicly defending a rival company in a dispute involving the US government. This unusual solidarity among AI developers is notable and could impact how the AI sector responds to regulatory and policy challenges.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rqi4s7/openai_employees_are_defending_a_rival_company/"
+    },
+    {
+      "title": "[P] VizPy: DSPy-compatible prompt optimizer that learns from failures automatically – ContraPrompt (+29% HotPotQA) and PromptGrad vs GEPA comparison",
+      "summary": "VizPy is introduced as a DSPy-compatible prompt optimizer that improves prompt engineering by learning from past mistakes. Early benchmarks demonstrate significant improvements on HotPotQA, signaling rapid advancements in LLM product tooling.",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rqn9lc/p_vizpy_dspycompatible_prompt_optimizer_that/"
+    },
+    {
+      "title": "Startup Replaces $40,000 Salesforce Contract With $1,200 CRM Built With Lovable",
+      "summary": "A startup successfully replaced an expensive Salesforce CRM contract with a custom-built, AI-enhanced CRM for a fraction of the cost. This example illustrates the growing trend of cost-saving through in-house AI development in business software.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rqm720/startup_replaces_40000_salesforce_contract_with/"
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Bringing Code Review to Claude Code",
+      "summary": "Claude Code receives integrated code review features, boosting developer productivity with AI-assisted analysis.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rqatlf/bringing_code_review_to_claude_code/"
+    },
+    {
+      "title": "Debian decides not to decide on AI-generated contributions",
+      "summary": "The Debian project declines to make a formal decision regarding the inclusion of AI-generated contributions, reflecting ongoing uncertainty in open-source policy.",
+      "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/"
+    },
+    {
+      "title": "Bota Launches SAION AI -- Physical AI Platform for Biomanufacturing",
+      "summary": "Bota announces SAION AI, a platform aimed at integrating AI into biomanufacturing processes.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rqeqmo/bota_launches_saion_ai_physical_ai_platform_for/"
+    },
+    {
+      "title": "Anthropic Identifies the Jobs Most Exposed to AI Risks—Is Your Occupation Affected?",
+      "summary": "Anthropic publishes research on occupations most susceptible to AI automation and risk.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYWpJZ0tROEtLVzZ0V0EtUTBuV2ZwY1otMnV4RjlYd2xTZmtnTHBfTkhoc1dZOUFjOF9fNDhZd1pXNTAxNUYtZF9Eb3F5Tm5XcEp2SHJkcmdPT2ZmdUcxNUQ5UkxlbFBJMUk4SmlxZzF1NS15eUdRdzJiWG12a0tTX1ZFQlQ4ZmdraWpXWG1LWWhOOXlvTFNVeGdLV0p6YWQ5dklMS1dNOUhfNkJpNWJucVRkRFBqaUE?oc=5"
+    },
+    {
+      "title": "The Agentic CLI Takeover: Why Your Terminal is the New IDE Frontier",
+      "summary": "Exploring the trend of AI-powered command-line interfaces becoming central to developer workflows.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rqedsy/the_agentic_cli_takeover_why_your_terminal_is_the/"
+    },
+    {
+      "title": "Are we in the \"modem era\" of AI?",
+      "summary": "A discussion comparing the current AI landscape to the early internet's 'modem era', highlighting the maturing and limitations of today's technology.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rq33nv/are_we_in_the_modem_era_of_ai/"
+    },
+    {
+      "title": "I built a 31-agent product development system with 12,000+ lines of actionable content — covering every department from solo founder Day 0 to IPO. Open source, MIT licensed.",
+      "summary": "An open-source product demonstrates the orchestration of multiple AI agents for full-scale business process automation.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rqjvme/i_built_a_31agent_product_development_system_with/"
+    },
+    {
+      "title": "HamsterPurgatory.com is an AI/LLM powered TV show that you can interact with by sending prompts for free via the Kick stream chat!",
+      "summary": "A new interactive TV show showcases the potential of LLMs in entertainment, allowing viewers to influence the story in real-time.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rq7pv1/hamsterpurgatorycom_is_an_aillm_powered_tv_show/"
+    },
+    {
+      "title": "AI can parse every database on Earth but can't answer 'Is it raining outside right now?' — a look at why physical-world perception is AI's biggest blind spot",
+      "summary": "Analysis of the challenges facing AI in achieving real-time physical-world understanding, despite impressive data-processing skills.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rq8sau/ai_can_parse_every_database_on_earth_but_cant/"
+    },
+    {
+      "title": "RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
+      "summary": "RunAnywhere announces tools that enable improved AI inference speed on Apple Silicon devices.",
+      "url": "https://github.com/RunanywhereAI/rcli"
+    },
+    {
+      "title": "2minutepapers covers Nvidia self driving car updating including its usage of reinforcement learning and reactions",
+      "summary": "Short video summarises Nvidia's advancement in self-driving car AI via reinforcement learning.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rq1ux1/2minutepapers_covers_nvidia_self_driving_car/"
+    }
+  ]
+}
