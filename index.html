@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Signal Ã¢ÂÂ AI News by Tim Britton</title>
+    <title>Signal ÃÂ¢ÃÂÃÂ AI News by Tim Britton</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@300;400;500&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
     <style>
@@ -418,9 +418,8 @@
         }
 
         .story-link:hover { border-bottom-color: var(--accent); }
-        .story-link::after { content: ' Ã¢ÂÂ'; }
-
-        .links-grid {
+        .story-link::after { content: ' →'; }        
+        .links-grid {nks-grid {
             display: grid;
             grid-template-columns: 1fr 1fr;
             gap: 12px;
@@ -551,7 +550,7 @@
                 <div class="past-issues-header-title">Previous Editions</div>
             </div>
             <div class="past-issues-list" id="past-issues-list">
-                <div class="past-issues-empty">Loading archiveÃ¢ÂÂ¦</div>
+                <div class="past-issues-empty">Loading archiveÃÂ¢ÃÂÃÂ¦</div>
             </div>
         </div>
     </header>
@@ -560,14 +559,14 @@
         <div class="past-issue-banner-inner">
             <div class="past-issue-banner-text">Viewing edition from</div>
             <div class="past-issue-banner-date" id="past-issue-banner-date"></div>
-            <button class="back-to-today" onclick="loadToday()">Ã¢ÂÂ Back to Today</button>
+            <button class="back-to-today" onclick="loadToday()">ÃÂ¢ÃÂÃÂ Back to Today</button>
         </div>
     </div>
 
     <div class="hero-band">
         <div class="hero-inner">
             <div class="hero-label">Daily Briefing</div>
-            <div class="hero-desc">What matters in AI, publishing, and the law. No noise. No hype. Just signal.</div>
+            <div class="hero-desc">What matters in AI, publishing and IP. No noise. No hype. Just signal.</div>
         </div>
     </div>
 
@@ -578,7 +577,7 @@
         </div>
         <main class="main" id="main-content">
             <div class="loading-state">
-                <span class="big">LoadingÃ¢ÂÂ¦</span>
+                <span class="big">LoadingÃÂ¢ÃÂÃÂ¦</span>
                 <p>Fetching today's digest.</p>
             </div>
         </main>
@@ -586,7 +585,7 @@
 
     <footer>
         <div class="footer-inner">
-            <div class="footer-text">Automated daily ÃÂ· Sources monitored via RSS ÃÂ· Curated by AI ÃÂ· Edited by nobody</div>
+            <div class="footer-text">Automated daily ÃÂÃÂ· Sources monitored via RSS ÃÂÃÂ· Curated by AI ÃÂÃÂ· Edited by nobody</div>
             <div class="footer-signal">Signal.</div>
         </div>
     </footer>
@@ -610,7 +609,7 @@
 
         let currentDateStr = null;
 
-        // Daily flower Ã¢ÂÂ cycles through a curated list, one per day
+        // Daily flower ÃÂ¢ÃÂÃÂ cycles through a curated list, one per day
         const flowers = [
             'rose','tulip','dahlia','peony','lavender','sunflower','orchid','iris',
             'poppy','magnolia','cherry blossom','wisteria','hydrangea','cosmos flower',
@@ -647,7 +646,7 @@
         }
         loadFlower();
 
-        // Ã¢ÂÂÃ¢ÂÂ PAST ISSUES Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂ
+        // ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ PAST ISSUES ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ
 
         async function loadArchive() {
             try {
@@ -672,7 +671,7 @@
             list.innerHTML = dates.map(d => `
                 <button class="past-issue-item ${d === today ? 'current' : ''}"
                         onclick="loadIssue('${d}')">
-                    ${formatDate(d)}${d === today ? ' Ã¢ÂÂ Today' : ''}
+                    ${formatDate(d)}${d === today ? ' ÃÂ¢ÃÂÃÂ Today' : ''}
                 </button>
             `).join('');
         }
@@ -715,7 +714,7 @@
             // Show loading
             document.getElementById('main-content').innerHTML = `
                 <div class="loading-state">
-                    <span class="big">LoadingÃ¢ÂÂ¦</span>
+                    <span class="big">LoadingÃÂ¢ÃÂÃÂ¦</span>
                     <p>Fetching edition from ${formatDate(dateStr)}.</p>
                 </div>`;
 
@@ -736,7 +735,7 @@
             loadIssue(todayStr());
         }
 
-        // Ã¢ÂÂÃ¢ÂÂ DIGEST RENDERING Ã¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂÃ¢ÂÂ
+        // ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ DIGEST RENDERING ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ
 
         function getDomain(url) {
             try { return new URL(url).hostname.replace(/^www\./, ''); }
@@ -776,7 +775,7 @@
         function renderRaw(text) {
             const html = text
                 .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-                .replace(/\[Read more\]\((https?:\/\/[^\)]+)\)/g, '<a href="$1" target="_blank" rel="noopener">Read more Ã¢ÂÂ</a>')
+                .replace(/\[Read more\]\((https?:\/\/[^\)]+)\)/g, '<a href="$1" target="_blank" rel="noopener">Read more ÃÂ¢ÃÂÃÂ</a>')
                 .replace(/\[(.*?)\]\((https?:\/\/[^\)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
                 .replace(/^(\d+)\.\s+(.+)$/gm, (_, n, t) => `<div class="story-number">Story ${String(n).padStart(2,'0')}</div><div class="story-title">${t}</div>`)
                 .replace(/### (.*)/g, '<h3 style="font-family:\'Playfair Display\',serif;margin:32px 0 16px;font-size:1.3rem;font-weight:900;">$1</h3>')
@@ -786,7 +785,7 @@
                 <div class="section-header">
                     <div>
                         <div class="section-label">Today's Digest</div>
-                        <div class="section-title">AI News Ã¢ÂÂ ${now.toLocaleDateString('en-GB', { day:'numeric', month:'long', year:'numeric' })}</div>
+                        <div class="section-title">AI News ÃÂ¢ÃÂÃÂ ${now.toLocaleDateString('en-GB', { day:'numeric', month:'long', year:'numeric' })}</div>
                     </div>
                 </div>
                 <div class="story-card">
@@ -814,7 +813,7 @@
                         <div class="story-title">${s.title}</div>
                         ${domain ? `<div class="story-source">${domain}</div>` : ''}
                         <div class="story-summary">${s.summary}</div>
-                        ${s.url ? `<a href="${s.url}" target="_blank" rel="noopener" class="story-link">Read original</a>` : ''}
+                        ${s.url ? `<a href="${s.url}" target="_blank" rel="noopener" class="story-link">Read original →</a>` : ''}
                     </div>`;
                 });
             }
@@ -836,7 +835,7 @@
                         ${l.title ? `<div class="link-title">${l.title}</div>` : ''}
                         ${domain ? `<div class="link-source">${domain}</div>` : ''}
                         <div class="link-text">${l.summary}</div>
-                        ${l.url ? `<a href="${l.url}" target="_blank" rel="noopener" class="link-url">Read more Ã¢ÂÂ</a>` : ''}
+                        ${l.url ? `<a href="${l.url}" target="_blank" rel="noopener" class="link-url">Read more ÃÂ¢ÃÂÃÂ</a>` : ''}
                     </div>`;
                 });
                 html += `</div>`;
@@ -845,7 +844,7 @@
             document.getElementById('main-content').innerHTML = html ||
                 '<div class="loading-state"><span class="big">Empty digest.</span><p>No stories were returned in the last run.</p></div>';
 
-            // One More Thing Ã¢ÂÂ Ethan Mollick's latest post
+            // One More Thing ÃÂ¢ÃÂÃÂ Ethan Mollick's latest post
             loadOneMoreThing();
         }
 
@@ -870,7 +869,7 @@
                 section.innerHTML = `
                     <hr class="rule">
                     <div class="section-header">
-                        <div class="section-number">Ã¢ÂÂ¦</div>
+                        <div class="section-number">ÃÂ¢ÃÂÃÂ¦</div>
                         <div>
                             <div class="section-label">One More Thing</div>
                             <div class="section-title">Latest from Ethan Mollick</div>
@@ -879,12 +878,12 @@
                     <div class="story-card">
                         <div class="story-title">${title}</div>
                         <div class="story-source">oneusefulthing.org</div>
-                        ${desc ? `<div class="story-summary">${desc}Ã¢ÂÂ¦</div>` : ''}
-                        ${link ? `<a href="${link}" target="_blank" rel="noopener" class="story-link">Read on Substack Ã¢ÂÂ</a>` : ''}
+                        ${desc ? `<div class="story-summary">${desc}ÃÂ¢ÃÂÃÂ¦</div>` : ''}
+                        ${link ? `<a href="${link}" target="_blank" rel="noopener" class="story-link">Read on Substack ÃÂ¢ÃÂÃÂ</a>` : ''}
                     </div>`;
                 document.getElementById('main-content').appendChild(section);
             } catch(e) {
-                // Silently fail Ã¢ÂÂ don't break the page if RSS is unavailable
+                // Silently fail ÃÂ¢ÃÂÃÂ don't break the page if RSS is unavailable
             }
         }
 
