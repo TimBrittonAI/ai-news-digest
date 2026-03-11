@@ -1,0 +1,81 @@
+{
+  "top_stories": [
+    {
+      "title": "Amazon wins court order to block Perplexity's AI shopping agent",
+      "summary": "Amazon has secured a court order to block Perplexity's AI shopping agent, indicating increasing legal battles over AI-powered shopping tools and marketplace control. This could impact the deployment of third-party AI on major e-commerce platforms.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rq6qpi/amazon_wins_court_order_to_block_perplexitys_ai/"
+    },
+    {
+      "title": "Anthropic sues Trump administration seeking to undo 'supply chain risk' designation",
+      "summary": "Anthropic has filed a lawsuit against the US government to challenge its designation as a 'supply chain risk,' a status that could restrict its business activities or partnerships. The case highlights growing tensions between AI firms and US regulatory actions.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rq9qvm/anthropic_sues_trump_administration_seeking_to/"
+    },
+    {
+      "title": "OpenAI Employees Are Defending a Rival Company Against the US Government — That's Never Happened Before",
+      "summary": "For the first time, OpenAI employees are siding with a competing company in a legal dispute with the US government. This demonstrates rare solidarity among AI industry workers amid increasing regulatory scrutiny.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rqi4s7/openai_employees_are_defending_a_rival_company/"
+    },
+    {
+      "title": "Bota Launches SAION AI -- Physical AI Platform for Biomanufacturing",
+      "summary": "Bota has launched SAION AI, a platform that focuses on deploying physical AI for biomanufacturing processes. This innovation could accelerate AI-driven automation in industrial and laboratory settings.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rqeqmo/bota_launches_saion_ai_physical_ai_platform_for/"
+    },
+    {
+      "title": "Bringing Code Review to Claude Code",
+      "summary": "Claude Code now features code review capabilities, enabling automated feedback on code quality and correctness. This feature marks another step in integrating advanced AI into software development workflows.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rqatlf/bringing_code_review_to_claude_code/"
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Debian decides not to decide on AI-generated contributions",
+      "summary": "The Debian project has opted not to adopt a policy regarding AI-generated code contributions, reflecting ongoing debate in open-source communities about AI's role in software development.",
+      "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/"
+    },
+    {
+      "title": "VizPy: DSPy-compatible prompt optimizer that learns from failures automatically – ContraPrompt (+29% HotPotQA) and PromptGrad vs GEPA comparison",
+      "summary": "VizPy introduces a new prompt optimization tool that learns from failures, improving performance on QA benchmarks.",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rqn9lc/p_vizpy_dspycompatible_prompt_optimizer_that/"
+    },
+    {
+      "title": "Startup Replaces $40,000 Salesforce Contract With $1,200 CRM Built With Lovable",
+      "summary": "A startup demonstrates major cost savings by replacing Salesforce with its own AI-facilitated CRM for a fraction of the price.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rqm720/startup_replaces_40000_salesforce_contract_with/"
+    },
+    {
+      "title": "I built a 31-agent product development system with 12,000+ lines of actionable content — covering every department from solo founder Day 0 to IPO. Open source, MIT licensed.",
+      "summary": "A detailed multi-agent AI system for product development has been released open source, illustrating the growing potential and accessibility of autonomous LLM-driven workflows.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rqjvme/i_built_a_31agent_product_development_system_with/"
+    },
+    {
+      "title": "The Agentic CLI Takeover: Why Your Terminal is the New IDE Frontier",
+      "summary": "Explores the rise of agentic CLI tools and how AI is transforming terminals into next-generation development environments.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rqedsy/the_agentic_cli_takeover_why_your_terminal_is_the/"
+    },
+    {
+      "title": "Anthropic Identifies the Jobs Most Exposed to AI Risks—Is Your Occupation Affected?",
+      "summary": "Anthropic has published findings identifying which job categories are most vulnerable to AI-related disruption.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYWpJZ0tROEtLVzZ0V0EtUTBuV2ZwY1otMnV4RjlYd2xTZmtnTHBfTkhoc1dZOUFjOF9fNDhZd1pXNTAxNUYtZF9Eb3F5Tm5XcEp2SHJkcmdPT2ZmdUcxNUQ5UkxlbFBJMUk4SmlxZzF1NS15eUdRdzJiWG12a0tTX1ZFQlQ4ZmdraWpXWG1LWWhOOXlvTFNVeGdLV0p6YWQ5dklMS1dNOUhfNkJpNWJucVRkRFBqaUE?oc=5"
+    },
+    {
+      "title": "Amazon is holding a mandatory meeting about AI breaking its systems",
+      "summary": "Amazon's staff have been summoned for a meeting focusing on how AI is affecting or disrupting internal systems, highlighting operational challenges posed by rapid AI adoption.",
+      "url": "https://twitter.com/lukolejnik/status/2031257644724342957"
+    },
+    {
+      "title": "AI can parse every database on Earth but can't answer 'Is it raining outside right now?' — a look at why physical-world perception is AI's biggest blind spot",
+      "summary": "A commentary on the limitations of current LLMs regarding real-world sensory perception.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rq8sau/ai_can_parse_every_database_on_earth_but_cant/"
+    },
+    {
+      "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
+      "summary": "RunAnywhere releases a new tool for accelerating AI inference on Apple Silicon, broadening hardware compatibility for advanced AI workloads.",
+      "url": "https://github.com/RunanywhereAI/rcli"
+    },
+    {
+      "title": "BILENDI: Bilendi Text Coding Platform: The AI-Native Self-Service Platform Redefining Verbatim Coding",
+      "summary": "Bilendi has launched an AI-native self-service platform for verbatim text coding, promising efficiency gains in survey and qualitative research analysis.",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaWNRQVBwS2FRNUZpM0ltaUdrXzFmVlJvOFl4MzVoeWRMT2tGbXkzZ25yelNrSW44S2d1TTVFeGd0TDBlaVJVU3hFcHJ2VFYtTFZ5NVFsRExlSXdzclROenpITHZyb0t1UlA4aEJ0VERkbThXb0hvdi13MTZyelludTQyRzk4Zm1sV0IwUXNvM2Z1MUFtT1BvbnUzZ2JCVXAwMTNEeG56Yy1zLThiM1FsaXZpWXRVaXZuQTFkVmJleTZiS3Q0Ump3WmlXeWdrOWVYVzFtM0hoSU9MMHFVTElTRnhhNUN1Rm5R?oc=5"
+    }
+  ]
+}
