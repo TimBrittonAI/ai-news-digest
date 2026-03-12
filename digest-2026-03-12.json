@@ -1,0 +1,81 @@
+{
+  "top_stories": [
+    {
+      "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
+      "summary": "Atlassian has announced a significant workforce reduction, laying off about 1,600 employees as it shifts company strategy towards AI-adjacent products and services. This underscores the accelerating impact of artificial intelligence on enterprise transformation and employment in major tech firms.",
+      "url": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/"
+    },
+    {
+      "title": "Meta buys 'social media network for AI' Moltbook, and says the deal will bring \"new ways for AI agents to work for people and businesses\".",
+      "summary": "Meta has acquired Moltbook, a viral social network where AI agents interact. Meta claims the acquisition will enable new forms of AI agent applications for both businesses and consumers, reinforcing Big Tech’s move toward agent-based platforms.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rrkogg/meta_buys_social_media_network_for_ai_moltbook/"
+    },
+    {
+      "title": "Florida lawmakers debate who will pay the price of AI data centers",
+      "summary": "Florida legislators are discussing regulatory and financial frameworks for the state’s AI data center expansion, debating who should bear the costs associated with infrastructure and environmental impact. The outcome could set precedents for AI infrastructure funding in the U.S.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rrdj4k/florida_lawmakers_debate_who_will_pay_the_price/"
+    },
+    {
+      "title": "Alteryx Accelerates its Next Phase of Growth with AI-Ready Data and Automation at Enterprise Scale",
+      "summary": "Alteryx is intensifying efforts to offer enterprises scalable, AI-ready data platforms and automation solutions, demonstrating ongoing demand for AI-integrated data infrastructure in business transformation.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX3drRHRUZGhHR1hObzlmUUdVWHF5bkE2S19jeThqYWFEUjlRSFJmVDhpNVRxemszR0M4bDdxRlljQ2pESzA5SkgwcDNickJHTm02dXlzTWk5RmVrM2FobDFmaTVxZ2tra1lMODVxTVlRMXU1MmxrNncxWEhkSEhGbFp1NHJDRXEtOEFtUXJMaWtaaVhCMjZhRlRIZXEweWRPMWhoVVlnTzNnQUdmb0tpN1dLakRDRUx6RWNxZkVNbUg5V0dxZWNXaDR5eHlyQ1RIR3c?oc=5"
+    },
+    {
+      "title": "Hustlers are cashing in on China’s OpenClaw AI craze",
+      "summary": "A feverish market has emerged in China for OpenClaw, an AI system enabling users to remotely control real-world claw machines via LLMs, spawning a new wave of digital entrepreneurship and highlighting the rapid commercialization of novel AI tools.",
+      "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/"
+    }
+  ],
+  "further_links": [
+    {
+      "title": "U.S. military is using AI to help plan Iran air attacks, sources say, as lawmakers call for oversight.  Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.",
+      "summary": "Anthropic’s Claude AI is being used in sensitive military planning, raising questions about oversight and AI’s role in defense policy.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rr1lzr/us_military_is_using_ai_to_help_plan_iran_air/"
+    },
+    {
+      "title": "AI in Energy Global Market 2026-2032: Size Dynamics, Key Trends and Growth Trajectory Forecast",
+      "summary": "Report forecasts continued adoption of AI in the energy sector, detailing technology trends and expected market growth.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPXzJoS2sxeHpyTVBPeGhtLXIyM0xiYm4wbnk4Y3M3S0NEVWFPOHRRREdlbjBLZ283anFDYTBmcnQyMTFZRGN4MnZDYzlJOWJxSnhDeUg5akRVUnlfMmJkOWxXRXBQNTZnMzFhaVBfODJ2SzFtc0pBYnBVTDRJazJGMmlwakUxSHBlYmh6MFRRZTZmY2lTLXBKQ3FMVi1XZw?oc=5"
+    },
+    {
+      "title": "How much of HN is AI?",
+      "summary": "An analysis and discussion of the prevalence of AI-generated content on Hacker News.",
+      "url": "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai"
+    },
+    {
+      "title": "Niantic Spatial partners with Coco Robotics to integrate a visual positioning system trained on data from Pokemon Go and Ingress into a fleet of delivery robots",
+      "summary": "Niantic's AR data will power Coco Robotics’ delivery robots, leveraging game-derived AI models for real-world logistics.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rrketj/niantic_spatial_partners_with_coco_robotics_to/"
+    },
+    {
+      "title": "Data Center Market to Reach US$ 801.5 Billion by 2033 Expands Amid Digital Transformation and AI Infrastructure Demand - Persistence Market Research",
+      "summary": "The data center market is projected to reach $801.5B by 2033, boosted by AI-driven infrastructure expansion.",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPWTBpLWU3SUZiM0g5VmduUExKU0xaV2JFR1FiMEtYMmlZU0JNTGE0QTYyMDJPamJqU2ZpdEl3eDdfN01RNnJMbWc5d1RiSjh2WGZEanYyVTFqOE5GQzNfdFdEbWpRdS05UEV2eEZySkVTRWFSMmxKS0RzaGpNRUJTLU9PTU1tMVJMZUp2S2RvZmZySzYzdXBYVmJ6X205b3FYMkwzd29WZWl4bjdyQkZ0RGxzT2J3TXFfMEt2UnY2UGRfckNvUHM5Mk1OcDFXX1ljS01WcFRMTnk1cDR6endjang3aGctNHViMWFNZlJRN2hCeVg3ejgwbWdlQkwzaTAwYUQzM1EtQlBlc2c5R0sxeVZXcmhGazc2RkNOeEpWOHg0MzkwTEdXNGxkMEx1QQ?oc=5"
+    },
+    {
+      "title": "Preliminary data from a longitudinal AI impact study",
+      "summary": "Early results from a long-term study measure quantifiable productivity gains from AI adoption in workplaces.",
+      "url": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not"
+    },
+    {
+      "title": "[D] A tool that audits healthcare ML models for safety and trust",
+      "summary": "A new tool is introduced to evaluate the safety and reliability of healthcare-focused machine learning models.",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rrd301/d_a_tool_that_audits_healthcare_ml_models_for/"
+    },
+    {
+      "title": "Bricks & Clicks Launches Proprietary AI Growth Engine",
+      "summary": "Bricks & Clicks announces a new AI-powered engine designed to accelerate business growth using automation and data.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWGM4RThySlJhWXh1SWp1MXNpZnliV19KMDdBNld1TERYaVRnV3Atak82T0szRnlEZ3Z1OFVwRkY4ZUhBOWpBU1VRNHJqZkQ5U3l4aDVmcHItU2RsVG8tUVVTaW96LUVaa2VfUFB6cHJISmF3YjN4YmlyR0hXM0NKTXE2bDI1bWxfQlZHUXVsNnM?oc=5"
+    },
+    {
+      "title": "KX Launches Agentic AI Blueprints Powered by NVIDIA at GTC 2026, Featuring a Capital Markets Research Assistant and Trading Signal Agent",
+      "summary": "KX introduces new agentic AI solutions, targeting the capital markets with NVIDIA-powered research and trading tools.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMWZDNk1OQVhLOHJuWjJrdEd2NHR2UXEtVjBIRlA3SW8zWEg5S0tLa0lZVXE4U1l1Q0lDYXltcmZzZGFtZWcyQ0xqRjQ4UXFfZUZTSkhpb1pwMUxlTjNlMzFXcklORDlpS3BwLXNaeXpNSk9iYW1feWN4NWVDbEotRE9pSkt1bnhteUE?oc=5"
+    },
+    {
+      "title": "Rakuten fixes issues twice as fast with Codex",
+      "summary": "Rakuten reports significant improvements in troubleshooting speed after integrating OpenAI’s Codex into its systems.",
+      "url": "https://openai.com/index/rakuten"
+    }
+  ]
+}
