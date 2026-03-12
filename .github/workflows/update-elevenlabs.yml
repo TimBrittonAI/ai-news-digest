@@ -19,23 +19,10 @@ jobs:
             echo "No digest found for ${DATE}"
             exit 1
           fi
-          TEXT=$(echo "$DIGEST" | python3 -c "
-import json,sys
-data=json.load(sys.stdin)
-out=[]
-for s in data.get("top_stories",[]):
-    out.append(s.get("title",""))
-    out.append(s.get("summary",""))
-    out.append(s.get("url",""))
-for l in data.get("further_links",[]):
-    out.append(l.get("title",""))
-    out.append(l.get("summary",""))
-    out.append(l.get("url",""))
-print("\n".join(out))
-")
-          PAYLOAD=$(python3 -c "import json,sys; t=sys.stdin.read(); print(json.dumps({"text":t,"name":"Signal digest ${DATE}"}))" <<< "$TEXT")
-          curl -s -X POST "https://api.elevenlabs.io/v1/convai/knowledge-base/text" \
+          TEXT=$(echo "$DIGEST" | jq -r '[.top_stories[]? | .title, .summary, .url], [.further_links[]? | .title, .summary, .url] | .[]' | tr '\n' ' ')
+          PAYLOAD=$(jq -n --arg text "$TEXT" --arg name "Signal digest ${DATE}" '{"text":$text,"name":$name}')
+          RESPONSE=$(curl -s -w "\n%{http_code}" -X POST "https://api.elevenlabs.io/v1/convai/knowledge-base/text" \
             -H "xi-api-key: $ELEVENLABS_API_KEY" \
             -H "Content-Type: application/json" \
-            -d "$PAYLOAD"
-          echo "Done"
+            -d "$PAYLOAD")
+          echo "$RESPONSE"
