@@ -1,0 +1,53 @@
+name: Update ElevenLabs Knowledge Base
+
+on:
+  schedule:
+    - cron: '58 6 * * *'  # 6:58 UTC daily
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update-knowledge-base:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch today's digest and push to ElevenLabs
+        run: |
+          DATE=$(date +%Y-%m-%d)
+          DIGEST_URL="https://timbrittonai.github.io/ai-news-digest/digest-${DATE}.json"
+          
+          # Fetch the digest JSON
+          DIGEST=$(curl -s "${DIGEST_URL}")
+          
+          if [ -z "$DIGEST" ] || echo "$DIGEST" | grep -q "404"; then
+            echo "No digest found for ${DATE}"
+            exit 1
+          fi
+          
+          # Extract text content from JSON using python
+          TEXT=$(echo "$DIGEST" | python3 -c "
+import json, sys
+data = json.load(sys.stdin)
+lines = []
+if 'top_stories' in data:
+    lines.append('TOP STORIES - ' + '${DATE}')
+    for s in data['top_stories']:
+        lines.append(s.get('title',''))
+        lines.append(s.get('summary',''))
+        lines.append(s.get('url',''))
+        lines.append('')
+if 'further_links' in data:
+    lines.append('FURTHER LINKS')
+    for l in data['further_links']:
+        lines.append(l.get('title',''))
+        lines.append(l.get('summary',''))
+        lines.append(l.get('url',''))
+        lines.append('')
+print('\n'.join(lines))
+")
+          
+          # Push to ElevenLabs Knowledge Base
+          curl -s -X POST "https://api.elevenlabs.io/v1/convai/knowledge-base/text" \
+            -H "xi-api-key: ${{ secrets.ELEVENLABS_API_KEY }}" \
+            -H "Content-Type: application/json" \
+            -d "{\"text\": $(echo "$TEXT" | python3 -c "import json,sys; print(json.dumps(sys.stdin.read()))"), \"name\": \"Signal digest ${DATE}\"}"
+          
+          echo "Done - pushed digest for ${DATE} to ElevenLabs"
