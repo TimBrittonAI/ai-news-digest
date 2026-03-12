@@ -21,19 +21,25 @@ jobs:
           fi
           TEXT=$(echo "$DIGEST" | jq -r '[.top_stories[]? | .title, .summary, .url], [.further_links[]? | .title, .summary, .url] | .[]' | tr '\n' ' ')
           PAYLOAD=$(jq -n --arg text "$TEXT" --arg name "Signal digest ${DATE}" '{"text":$text,"name":$name}')
-          RESPONSE=$(curl -s -w "\n%{http_code}" -X POST "https://api.elevenlabs.io/v1/convai/knowledge-base/text" \
+          RESPONSE=$(curl -s -X POST "https://api.elevenlabs.io/v1/convai/knowledge-base/text" \
             -H "xi-api-key: $ELEVENLABS_API_KEY" \
             -H "Content-Type: application/json" \
             -d "$PAYLOAD")
-          echo "$RESPONSE"
-          DOC_ID=$(echo "$RESPONSE" | head -1 | jq -r '.id')
+          echo "KB response: $RESPONSE"
+          DOC_ID=$(echo "$RESPONSE" | jq -r '.id')
           if [ -z "$DOC_ID" ] || [ "$DOC_ID" = "null" ]; then
-            echo "Failed to get document ID from ElevenLabs response"
+            echo "Failed to get document ID"
             exit 1
           fi
-          echo "Document ID: $DOC_ID"
-          AGENT_RESPONSE=$(curl -s -w "\n%{http_code}" -X POST "https://api.elevenlabs.io/v1/convai/agents/agent_5301kkc9q2dqfyh98f5791dep1w4/add-to-knowledge-base" \
+          echo "New document ID: $DOC_ID"
+          AGENT=$(curl -s "https://api.elevenlabs.io/v1/convai/agents/agent_5301kkc9q2dqfyh98f5791dep1w4" \
+            -H "xi-api-key: $ELEVENLABS_API_KEY")
+          EXISTING=$(echo "$AGENT" | jq '[.conversation_config.agent.prompt.knowledge_base[]? | {type: .type, id: .id, name: .name}]')
+          NEW_ENTRY=$(jq -n --arg id "$DOC_ID" --arg name "Signal digest ${DATE}" '[{type: "file", id: $id, name: $name}]')
+          MERGED=$(echo "$EXISTING $NEW_ENTRY" | jq -s '.[0] + .[1]')
+          PATCH_PAYLOAD=$(jq -n --argjson kb "$MERGED" '{"conversation_config":{"agent":{"prompt":{"knowledge_base":$kb}}}}')
+          PATCH_RESPONSE=$(curl -s -w "\n%{http_code}" -X PATCH "https://api.elevenlabs.io/v1/convai/agents/agent_5301kkc9q2dqfyh98f5791dep1w4" \
             -H "xi-api-key: $ELEVENLABS_API_KEY" \
             -H "Content-Type: application/json" \
-            -d "{\"id\":\"$DOC_ID\"}")
-          echo "$AGENT_RESPONSE"
+            -d "$PATCH_PAYLOAD")
+          echo "Patch response: $PATCH_RESPONSE"
