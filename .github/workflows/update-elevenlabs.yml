@@ -9,7 +9,7 @@ jobs:
   update-knowledge-base:
     runs-on: ubuntu-latest
     steps:
-      - name: Push digest to ElevenLabs
+      - name: Push digest to ElevenLabs and link to agent
         env:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
         run: |
@@ -26,3 +26,14 @@ jobs:
             -H "Content-Type: application/json" \
             -d "$PAYLOAD")
           echo "$RESPONSE"
+          DOC_ID=$(echo "$RESPONSE" | head -1 | jq -r '.id')
+          if [ -z "$DOC_ID" ] || [ "$DOC_ID" = "null" ]; then
+            echo "Failed to get document ID from ElevenLabs response"
+            exit 1
+          fi
+          echo "Document ID: $DOC_ID"
+          AGENT_RESPONSE=$(curl -s -w "\n%{http_code}" -X POST "https://api.elevenlabs.io/v1/convai/agents/agent_5301kkc9q2dqfyh98f5791dep1w4/add-to-knowledge-base" \
+            -H "xi-api-key: $ELEVENLABS_API_KEY" \
+            -H "Content-Type: application/json" \
+            -d "{\"id\":\"$DOC_ID\"}")
+          echo "$AGENT_RESPONSE"
