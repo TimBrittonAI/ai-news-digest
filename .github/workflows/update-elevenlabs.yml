@@ -2,52 +2,40 @@ name: Update ElevenLabs Knowledge Base
 
 on:
   schedule:
-    - cron: '58 6 * * *'  # 6:58 UTC daily
-  workflow_dispatch:  # Allow manual trigger
+    - cron: '58 6 * * *'
+  workflow_dispatch:
 
 jobs:
   update-knowledge-base:
     runs-on: ubuntu-latest
     steps:
-      - name: Fetch today's digest and push to ElevenLabs
+      - name: Push digest to ElevenLabs
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
         run: |
           DATE=$(date +%Y-%m-%d)
-          DIGEST_URL="https://timbrittonai.github.io/ai-news-digest/digest-${DATE}.json"
-          
-          # Fetch the digest JSON
-          DIGEST=$(curl -s "${DIGEST_URL}")
-          
-          if [ -z "$DIGEST" ] || echo "$DIGEST" | grep -q "404"; then
+          DIGEST=$(curl -sf "https://raw.githubusercontent.com/TimBrittonAI/ai-news-digest/main/digest-${DATE}.json")
+          if [ -z "$DIGEST" ]; then
             echo "No digest found for ${DATE}"
             exit 1
           fi
-          
-          # Extract text content from JSON using python
           TEXT=$(echo "$DIGEST" | python3 -c "
-import json, sys
-data = json.load(sys.stdin)
-lines = []
-if 'top_stories' in data:
-    lines.append('TOP STORIES - ' + '${DATE}')
-    for s in data['top_stories']:
-        lines.append(s.get('title',''))
-        lines.append(s.get('summary',''))
-        lines.append(s.get('url',''))
-        lines.append('')
-if 'further_links' in data:
-    lines.append('FURTHER LINKS')
-    for l in data['further_links']:
-        lines.append(l.get('title',''))
-        lines.append(l.get('summary',''))
-        lines.append(l.get('url',''))
-        lines.append('')
-print('\n'.join(lines))
+import json,sys
+data=json.load(sys.stdin)
+out=[]
+for s in data.get("top_stories",[]):
+    out.append(s.get("title",""))
+    out.append(s.get("summary",""))
+    out.append(s.get("url",""))
+for l in data.get("further_links",[]):
+    out.append(l.get("title",""))
+    out.append(l.get("summary",""))
+    out.append(l.get("url",""))
+print("\n".join(out))
 ")
-          
-          # Push to ElevenLabs Knowledge Base
+          PAYLOAD=$(python3 -c "import json,sys; t=sys.stdin.read(); print(json.dumps({"text":t,"name":"Signal digest ${DATE}"}))" <<< "$TEXT")
           curl -s -X POST "https://api.elevenlabs.io/v1/convai/knowledge-base/text" \
-            -H "xi-api-key: ${{ secrets.ELEVENLABS_API_KEY }}" \
+            -H "xi-api-key: $ELEVENLABS_API_KEY" \
             -H "Content-Type: application/json" \
-            -d "{\"text\": $(echo "$TEXT" | python3 -c "import json,sys; print(json.dumps(sys.stdin.read()))"), \"name\": \"Signal digest ${DATE}\"}"
-          
-          echo "Done - pushed digest for ${DATE} to ElevenLabs"
+            -d "$PAYLOAD"
+          echo "Done"
