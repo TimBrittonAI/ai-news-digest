@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '58 6 * * *'
   workflow_dispatch:
+    inputs:
+      date_override:
+        description: 'Date to process (YYYY-MM-DD). Leave empty to use today.'
+        required: false
+        default: ''
 
 jobs:
   update-knowledge-base:
@@ -13,7 +18,12 @@ jobs:
         env:
           ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
         run: |
-          DATE=$(date +%Y-%m-%d)
+          if [ -n "${{ github.event.inputs.date_override }}" ]; then
+            DATE="${{ github.event.inputs.date_override }}"
+          else
+            DATE=$(date +%Y-%m-%d)
+          fi
+          echo "Processing date: $DATE"
           DIGEST=$(curl -sf "https://raw.githubusercontent.com/TimBrittonAI/ai-news-digest/main/digest-${DATE}.json")
           if [ -z "$DIGEST" ]; then
             echo "No digest found for ${DATE}"
