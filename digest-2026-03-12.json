@@ -1,0 +1,86 @@
+{
+  "top_stories": [
+    {
+      "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
+      "summary": "Atlassian announced it will lay off 1,600 employees as part of a strategic shift to accelerate development and integration of AI across its products. The company’s move underlines increased investment in AI by large software firms and signals industry-wide changes driven by the technology.",
+      "url": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/"
+    },
+    {
+      "title": "Designing AI agents to resist prompt injection",
+      "summary": "OpenAI introduces new techniques and architectural choices to make AI agents more resistant to prompt injection attacks, which are a key vulnerability in LLM-based applications. This is significant for safe deployment of agentic systems in business and consumer contexts.",
+      "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection"
+    },
+    {
+      "title": "From model to agent: Equipping the Responses API with a computer environment",
+      "summary": "OpenAI expands the capabilities of its Responses API by allowing models to execute code and access tools within a controlled environment. This enhances the system’s capacity for automation, productivity, and complex workflow integration for business users.",
+      "url": "https://openai.com/index/equip-responses-api-computer-environment"
+    },
+    {
+      "title": "U.S. military is using AI to help plan Iran air attacks, sources say, as lawmakers call for oversight. Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.",
+      "summary": "Anthropic’s Claude AI systems are actively being used by the U.S. military to plan operations, prompting discussions over regulatory oversight and ethical concerns. The use of foundation models in defense marks a notable development in AI adoption within critical national security applications.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rr1lzr/us_military_is_using_ai_to_help_plan_iran_air/"
+    },
+    {
+      "title": "[D] ICML paper to review is fully AI generated",
+      "summary": "A reviewer reports receiving an AI-generated paper submitted to ICML, reigniting debates about the role of generative AI in academic publishing and the challenges it creates for peer review integrity.",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rqs7gd/d_icml_paper_to_review_is_fully_ai_generated/"
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Meta buys Moltbook, viral social network where AI agents interact",
+      "summary": "Meta has acquired Moltbook, a growing social network focused on interactions among AI agents.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rqvjtm/meta_buys_moltbook_viral_social_network_where_ai/"
+    },
+    {
+      "title": "OpenAI: Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "summary": "Retailer Wayfair improved its product catalog and customer support using OpenAI's AI capabilities.",
+      "url": "https://openai.com/index/wayfair"
+    },
+    {
+      "title": "Rakuten fixes issues twice as fast with Codex",
+      "summary": "Rakuten reports significant efficiency gains after integrating OpenAI's Codex into its workflows.",
+      "url": "https://openai.com/index/rakuten"
+    },
+    {
+      "title": "Teens, AI, and Billions: The Startup That Replaces Focus Groups",
+      "summary": "A startup is using AI to simulate focus groups, revolutionizing how brands test products and marketing.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONTZpZERILWt1LUNTZlg1OGdaWk9remlPdUNoWHdpdmpoUnhzeThLOWFwaWVXbEc2X3ZSUFhIbWdEVjdBX3d3UHlQWE9vYXZLYXBfOGsxaTBSUFl0VXhSUGVhM1lFdHhtbEJBTmVGd0h5TFVoYnhMbGR5V1JteTlfYjRBdVlQQ0NGS3ZsdDFiSjhWVEZ4eDhJZ01mQ2dUQUg0aXMyUXdXdU9YeGM4?oc=5"
+    },
+    {
+      "title": "Bricks & Clicks Launches Proprietary AI Growth Engine",
+      "summary": "Bricks & Clicks reveals a new AI-powered growth platform intended to support business scaling.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWGM4RThySlJhWXh1SWp1MXNpZnliV19KMDdBNld1TERYaVRnV3Atak82T0szRnlEZ3Z1OFVwRkY4ZUhBOWpBU1VRNHJqZkQ5U3l4aDVmcHItU2RsVG8tUVVTaW96LUVaa2VfUFB6cHJISmF3YjN4YmlyR0hXM0NKTXE2bDI1bWxfQlZHUXVsNnM?oc=5"
+    },
+    {
+      "title": "[P] Post-retrieval translation preserves embedding quality better than pre-translation for multilingual pipelines, here is what I found building OmniRAG.",
+      "summary": "A machine learning engineer reports on improved multilingual embedding quality via post-retrieval translation in LLM pipelines.",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rriz2b/p_postretrieval_translation_preserves_embedding/"
+    },
+    {
+      "title": "SnapApp Launches Next-Generation Low Code AI App Builder to Accelerate Enterprise Application Modernization",
+      "summary": "SnapApp introduces a low-code AI app builder aimed at speeding up digital transformation for enterprises.",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUFZKN0pEczRHSzBlSlo5UE80RnZ0VnAxUzA0RUE5T0U4SS1ZcmZjTkRXU0NURGtRM2dGRFdxSEhCNl82MTZkZDZzQUcyMFBEUlRjS3g4bVcyZWNkV0p5My05OHAtZEVKbUhxRzNFZFhwZnBkblZxYW9BMkZ0NUlaSFh2YW9CRFIwY2x6Y0IzUHNQVXZicTRlTU5kcjhFY2xWM0lISzdBenBxR1AwbDlZcll3UnVUa1FIaDJtQVNhUGloLWJCVUhYeHkxTDZuT1dnLVJoLTJNLWxKMUlYMWRwNXhVd3NveGhqZlR4aWIwd0FXbExjenc?oc=5"
+    },
+    {
+      "title": "Show HN: Open-source browser for AI agents",
+      "summary": "A new open-source browser is launched to support AI agent interaction with web environments.",
+      "url": "https://github.com/theredsix/agent-browser-protocol"
+    },
+    {
+      "title": "How much of HN is AI?",
+      "summary": "A detailed analysis explores the increasing prevalence of AI-generated content on Hacker News.",
+      "url": "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai"
+    },
+    {
+      "title": "Hustlers are cashing in on China’s OpenClaw AI craze",
+      "summary": "Entrepreneurs in China are rapidly monetizing the OpenClaw AI platform as it gains widespread popularity.",
+      "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/"
+    },
+    {
+      "title": "Data Center Market to Reach US$ 801.5 Billion by 2033 Expands Amid Digital Transformation and AI Infrastructure Demand",
+      "summary": "A report highlights the growth of the data center market, driven in large part by AI infrastructure demand.",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPWTBpLWU3SUZiM0g5VmduUExKU0xaV2JFR1FiMEtYMmlZU0JNTGE0QTYyMDJPamJqU2ZpdEl3eDdfN01RNnJMbWc5d1RiSjh2WGZEanYyVTFqOE5GQzNfdFdEbWpRdS05UEV2eEZySkVTRWFSMmxKS0RzaGpNRUJTLU9PTU1tMVJMZUp2S2RvZmZySzYzdXBYVmJ6X205b3FYMkwzd29WZWl4bjdyQkZ0RGxzT2J3TXFfMEt2UnY2UGRfckNvUHM5Mk1OcDFXX1ljS01WcFRMTnk1cDR6endjang3aGctNHViMWFNZlJRN2hCeVg3ejgwbWdlQkwzaTAwYUQzM1EtQlBlc2c5R0sxeVZXcmhGazc2RkNOeEpWOHg0MzkwTEdXNGxkMEx1QQ?oc=5"
+    }
+  ]
+}
