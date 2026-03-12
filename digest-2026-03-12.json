@@ -1,0 +1,86 @@
+{
+  "top_stories": [
+    {
+      "title": "Atlassian to cut roughly 1,600 jobs in pivot to AI",
+      "summary": "Atlassian announced it will lay off approximately 1,600 employees as part of a strategic shift to prioritize AI-driven products and capabilities across its suite. This move reflects how leading software companies are restructuring to center AI as a growth driver.",
+      "url": "https://www.reuters.com/technology/atlassian-lay-off-about-1600-people-pivot-ai-2026-03-11/"
+    },
+    {
+      "title": "Meta buys 'social media network for AI' Moltbook, and says the deal will bring \"new ways for AI agents to work for people and businesses\".",
+      "summary": "Meta has acquired Moltbook, a social network designed for AI agents, aiming to unlock new business and user interactions through agent-based platforms. The acquisition signals ongoing efforts by major players to integrate AI into social and business applications.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rrkogg/meta_buys_social_media_network_for_ai_moltbook/"
+    },
+    {
+      "title": "Florida lawmakers debate who will pay the price of AI data centers",
+      "summary": "In Florida, lawmakers are debating the economic and regulatory implications of AI data centers, including their funding and who bears the infrastructure costs. The outcome could set precedent for legislative approaches to large-scale AI infrastructure nationwide.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rrdj4k/florida_lawmakers_debate_who_will_pay_the_price/"
+    },
+    {
+      "title": "U.S. military is using AI to help plan Iran air attacks, sources say, as lawmakers call for oversight.  Anthropic’s Claude AI systems have become a crucial tool for the military despite the company’s clashes with the Defense Department.",
+      "summary": "The U.S. military is reportedly leveraging Anthropic’s Claude AI systems for operational planning related to Iran, even as legal and ethical concerns prompt calls for greater oversight. This case highlights the growing intersection of advanced AI models and sensitive defense applications.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rr1lzr/us_military_is_using_ai_to_help_plan_iran_air/"
+    },
+    {
+      "title": "How much of HN is AI?",
+      "summary": "A detailed analysis explores the extent to which AI-generated content is present on Hacker News, raising concerns about authenticity, moderation, and the broader impact of AI on online publishing and discussion forums.",
+      "url": "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai"
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Hustlers are cashing in on China’s OpenClaw AI craze",
+      "summary": "A new AI-powered claw machine craze is creating economic opportunities and a gold rush atmosphere among entrepreneurial hustlers in China.",
+      "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/"
+    },
+    {
+      "title": "Alteryx Accelerates its Next Phase of Growth with AI-Ready Data and Automation at Enterprise Scale",
+      "summary": "Alteryx is investing in AI-ready data infrastructure and enterprise-scale automation to drive its next phase of growth.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX3drRHRUZGhHR1hObzlmUUdVWHF5bkE2S19jeThqYWFEUjlRSFJmVDhpNVRxemszR0M4bDdxRlljQ2pESzA5SkgwcDNickJHTm02dXlzTWk5RmVrM2FobDFmaTVxZ2tra1lMODVxTVlRMXU1MmxrNncxWEhkSEhGbFp1NHJDRXEtOEFtUXJMaWtaaVhCMjZhRlRIZXEweWRPMWhoVVlnTzNnQUdmb0tpN1dLakRDRUx6RWNxZkVNbUg5V0dxZWNXaDR5eHlyQ1RIR3c?oc=5"
+    },
+    {
+      "title": "AI Powered Storage Market (2025-2032) | Intelligent Storage Platforms, Scalable Infrastructure & Growth Insights",
+      "summary": "Market forecasts point to rapid growth in the AI-powered storage sector as organizations seek scalable, intelligent infrastructure solutions.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWDJ2cHRkaFhCM3R2ZEluc1N6VVNXV05xMDlIb3U0N0tONVFyWTZuR2UtMEhPeFZ2dFowZ1ZfOTVKTWlsd1JCT0FKUUZFcXMxOEdwVmFvYktoMGhLN3FsTDRvSDRSVHNXM252OGtyempDSl9yMjRJWTVlaU12YjR5d2F4eDNVYnpjX0h3MXBpbFhrd2NRNXc?oc=5"
+    },
+    {
+      "title": "Rakuten fixes issues twice as fast with Codex",
+      "summary": "Rakuten reports significant workflow improvements by using OpenAI’s Codex system to resolve issues more quickly in its operations.",
+      "url": "https://openai.com/index/rakuten"
+    },
+    {
+      "title": "SnapApp Launches Next-Generation Low Code AI App Builder to Accelerate Enterprise Application Modernization",
+      "summary": "SnapApp debuts a low-code AI application builder designed to help enterprises quickly modernize business applications.",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUFZKN0pEczRHSzBlSlo5UE80RnZ0VnAxUzA0RUE5T0U4SS1ZcmZjTkRXU0NURGtRM2dGRFdxSEhCNl82MTZkZDZzQUcyMFBEUlRjS3g4bVcyZWNkV0p5My05OHAtZEVKbUhxRzNFZFhwZnBkblZxYW9BMkZ0NUlaSFh2YW9CRFIwY2x6Y0IzUHNQVXZicTRlTU5kcjhFY2xWM0lISzdBenBxR1AwbDlZcll3UnVUa1FIaDJtQVNhUGloLWJCVUhYeHkxTDZuT1dnLVJoLTJNLWxKMUlYMWRwNXhVd3NveGhqZlR4aWIwd0FXbExjenc?oc=5"
+    },
+    {
+      "title": "Niantic Spatial partners with Coco Robotics to integrate a visual positioning system trained on data from Pokemon Go and Ingress into a fleet of delivery robots",
+      "summary": "Niantic and Coco Robotics will integrate location data from popular AR games to improve guidance systems for delivery robots.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rrketj/niantic_spatial_partners_with_coco_robotics_to/"
+    },
+    {
+      "title": "Digital travel planning and artificial intelligence determine German booking behavior",
+      "summary": "A report examines how AI-driven digital tools are reshaping the travel planning and booking process for German consumers.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXZSR1BiNDN3Q2E3VGl6SzNrUGxGcF9OUFhBX2NqWTYwRW56NHB3S0xJQmxpU0pBUnUwQ0x4V2VqYXhnamtibEFsT1BsOFp5YkRubUltZVZFcUE5d1FhQWxYUThKN3BQRlZqakY4T2JoRFBOSTVWQzRwbzdjV1hodVEzWktucGJaSG9hbDE0cFV5YUpJNVRxZE9URzdfV3d4TjJaYk1qYXpGdjFwVlBKc2JB?oc=5"
+    },
+    {
+      "title": "[D] ICML paper to review is fully AI generated",
+      "summary": "A user claims that a submitted ICML paper is entirely AI-generated, raising questions about academic integrity and peer review in AI research.",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rqs7gd/d_icml_paper_to_review_is_fully_ai_generated/"
+    },
+    {
+      "title": "Show HN: Open-source browser for AI agents",
+      "summary": "A new open-source web browser is announced, designed specifically to accommodate and interact with AI agent software.",
+      "url": "https://github.com/theredsix/agent-browser-protocol"
+    },
+    {
+      "title": "Scientists at Eon Systems just copied a fruit fly's brain into a computer. Neuron by neuron. It started walking, grooming, and feeding, doing what flies do all on its own",
+      "summary": "Researchers have digitally reconstructed and simulated a fruit fly’s brain, reproducing behavioral patterns autonomously.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rqu0ui/scientists_at_eon_systems_just_copied_a_fruit/"
+    },
+    {
+      "title": "Data Center Market to Reach US$ 801.5 Billion by 2033 Expands Amid Digital Transformation and AI Infrastructure Demand",
+      "summary": "Growth in AI workloads is a driving factor behind the projection that the global data center market will reach $801.5 billion by 2033.",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPWTBpLWU3SUZiM0g5VmduUExKU0xaV2JFR1FiMEtYMmlZU0JNTGE0QTYyMDJPamJqU2ZpdEl3eDdfN01RNnJMbWc5d1RiSjh2WGZEanYyVTFqOE5GQzNfdFdEbWpRdS05UEV2eEZySkVTRWFSMmxKS0RzaGpNRUJTLU9PTU1tMVJMZUp2S2RvZmZySzYzdXBYVmJ6X205b3FYMkwzd29WZWl4bjdyQkZ0RGxzT2J3TXFfMEt2UnY2UGRfckNvUHM5Mk1OcDFXX1ljS01WcFRMTnk1cDR6endjang3aGctNHViMWFNZlJRN2hCeVg3ejgwbWdlQkwzaTAwYUQzM1EtQlBlc2c5R0sxeVZXcmhGazc2RkNOeEpWOHg0MzkwTEdXNGxkMEx1QQ?oc=5"
+    }
+  ]
+}
