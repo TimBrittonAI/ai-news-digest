@@ -29,15 +29,10 @@ jobs:
             echo "No digest found for ${DATE}"
             exit 1
           fi
-          STORIES=$(echo "$DIGEST" | jq -r '[.top_stories[]? | "STORY: " + .title + " | " + .summary + " | Source: " + .url] | .[]' | tr '\n' ' ')
-          LINKS=$(echo "$DIGEST" | jq -r '[.further_links[]? | "LINK: " + .title + " | " + .summary + " | Source: " + .url] | .[]' | tr '\n' ' ')
-          TEXT="SIGNAL DIGEST — $DATE
-
-TOP STORIES:
-$STORIES
-
-FURTHER READING:
-$LINKS"
+          HEADER="SIGNAL DIGEST - ${DATE}"
+          STORIES=$(echo "$DIGEST" | jq -r '[.top_stories[]? | "STORY: " + .title + " | " + .summary + " | Source: " + .url] | join(" ")')
+          LINKS=$(echo "$DIGEST" | jq -r '[.further_links[]? | "LINK: " + .title + " | " + .summary + " | Source: " + .url] | join(" ")')
+          TEXT=$(printf '%s\n\nTOP STORIES:\n%s\n\nFURTHER READING:\n%s' "$HEADER" "$STORIES" "$LINKS")
           PAYLOAD=$(jq -n --arg text "$TEXT" --arg name "Signal digest ${DATE}" '{"text":$text,"name":$name}')
           RESPONSE=$(curl -s -X POST "https://api.elevenlabs.io/v1/convai/knowledge-base/text" \
             -H "xi-api-key: $ELEVENLABS_API_KEY" \
