@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -82,7 +83,6 @@
             white-space: nowrap;
         }
 
-        /* Past Issues button */
         .past-issues-btn {
             font-family: 'DM Mono', monospace;
             font-size: 0.65rem;
@@ -108,7 +108,6 @@
             background: rgba(200, 67, 42, 0.05);
         }
 
-        /* Past Issues panel */
         .past-issues-panel {
             display: none;
             position: absolute;
@@ -185,7 +184,6 @@
             letter-spacing: 0.1em;
         }
 
-        /* Viewing past issue banner */
         .past-issue-banner {
             display: none;
             background: var(--ink);
@@ -279,20 +277,6 @@
             object-position: center;
             display: block;
             filter: saturate(0.9) brightness(0.97);
-        }
-
-        .flower-caption {
-            position: absolute;
-            bottom: 28px;
-            left: 0;
-            right: 0;
-            text-align: center;
-            font-family: 'DM Mono', monospace;
-            font-size: 0.6rem;
-            color: rgba(255,255,255,0.8);
-            letter-spacing: 0.15em;
-            text-transform: uppercase;
-            text-shadow: 0 1px 6px rgba(0,0,0,0.6);
         }
 
         .flower-tagline {
@@ -418,8 +402,8 @@
         }
 
         .story-link:hover { border-bottom-color: var(--accent); }
-        .story-link::after { content: ' →'; }        
-        .links-grid {nks-grid {
+
+        .links-grid {
             display: grid;
             grid-template-columns: 1fr 1fr;
             gap: 12px;
@@ -477,6 +461,7 @@
         }
 
         .link-url:hover { text-decoration: underline; }
+        .link-url::after { content: ' \2192'; }
 
         .loading-state { text-align: center; padding: 80px 20px; color: var(--muted); }
 
@@ -550,7 +535,7 @@
                 <div class="past-issues-header-title">Previous Editions</div>
             </div>
             <div class="past-issues-list" id="past-issues-list">
-                <div class="past-issues-empty">Loading archiveÃÂ¢ÃÂÃÂ¦</div>
+                <div class="past-issues-empty">Loading&#x2026;</div>
             </div>
         </div>
     </header>
@@ -559,7 +544,7 @@
         <div class="past-issue-banner-inner">
             <div class="past-issue-banner-text">Viewing edition from</div>
             <div class="past-issue-banner-date" id="past-issue-banner-date"></div>
-            <button class="back-to-today" onclick="loadToday()">ÃÂ¢ÃÂÃÂ Back to Today</button>
+            <button class="back-to-today" onclick="loadToday()">&#x2190; Back to Today</button>
         </div>
     </div>
 
@@ -577,7 +562,7 @@
         </div>
         <main class="main" id="main-content">
             <div class="loading-state">
-                <span class="big">LoadingÃÂ¢ÃÂÃÂ¦</span>
+                <span class="big">Loading&#x2026;</span>
                 <p>Fetching today's digest.</p>
             </div>
         </main>
@@ -585,7 +570,7 @@
 
     <footer>
         <div class="footer-inner">
-            <div class="footer-text">Automated daily ÃÂÃÂ· Sources monitored via RSS ÃÂÃÂ· Curated by AI ÃÂÃÂ· Edited by nobody</div>
+            <div class="footer-text">Automated daily &#xB7; Sources monitored via RSS &#xB7; Curated by AI &#xB7; Edited by nobody</div>
             <div class="footer-signal">Signal.</div>
         </div>
     </footer>
@@ -595,21 +580,18 @@
         const opts = { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' };
         document.getElementById('header-date').textContent = now.toLocaleDateString('en-GB', opts);
 
-        // Format a YYYY-MM-DD string as "10 March 2026"
         function formatDate(dateStr) {
             const [y, m, d] = dateStr.split('-').map(Number);
             const date = new Date(y, m - 1, d);
             return date.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
         }
 
-        // Today's date string
         function todayStr() {
             return now.toISOString().slice(0, 10);
         }
 
         let currentDateStr = null;
 
-        // Daily flower ÃÂ¢ÃÂÃÂ cycles through a curated list, one per day
         const flowers = [
             'rose','tulip','dahlia','peony','lavender','sunflower','orchid','iris',
             'poppy','magnolia','cherry blossom','wisteria','hydrangea','cosmos flower',
@@ -627,8 +609,6 @@
 
         async function loadFlower() {
             const flowerImg = document.getElementById('flower-img');
-            const caption = document.getElementById('flower-caption');
-            // caption removed - name is in tagline
             try {
                 const page = (dayOfYear % 3) + 1;
                 const res = await fetch(
@@ -645,8 +625,6 @@
             }
         }
         loadFlower();
-
-        // ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ PAST ISSUES ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ
 
         async function loadArchive() {
             try {
@@ -671,7 +649,7 @@
             list.innerHTML = dates.map(d => `
                 <button class="past-issue-item ${d === today ? 'current' : ''}"
                         onclick="loadIssue('${d}')">
-                    ${formatDate(d)}${d === today ? ' ÃÂ¢ÃÂÃÂ Today' : ''}
+                    ${formatDate(d)}${d === today ? ' \u2014 Today' : ''}
                 </button>
             `).join('');
         }
@@ -684,7 +662,6 @@
             btn.classList.toggle('active', !isOpen);
         }
 
-        // Close panel when clicking outside
         document.addEventListener('click', function(e) {
             const panel = document.getElementById('past-issues-panel');
             const btn = document.getElementById('past-issues-btn');
@@ -695,14 +672,12 @@
         });
 
         async function loadIssue(dateStr) {
-            // Close panel
             document.getElementById('past-issues-panel').classList.remove('open');
             document.getElementById('past-issues-btn').classList.remove('active');
 
             currentDateStr = dateStr;
             const today = todayStr();
 
-            // Show/hide banner
             const banner = document.getElementById('past-issue-banner');
             if (dateStr === today) {
                 banner.classList.remove('visible');
@@ -711,10 +686,9 @@
                 banner.classList.add('visible');
             }
 
-            // Show loading
             document.getElementById('main-content').innerHTML = `
                 <div class="loading-state">
-                    <span class="big">LoadingÃÂ¢ÃÂÃÂ¦</span>
+                    <span class="big">Loading&#x2026;</span>
                     <p>Fetching edition from ${formatDate(dateStr)}.</p>
                 </div>`;
 
@@ -735,8 +709,6 @@
             loadIssue(todayStr());
         }
 
-        // ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ DIGEST RENDERING ÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂÃÂ¢ÃÂÃÂ
-
         function getDomain(url) {
             try { return new URL(url).hostname.replace(/^www\./, ''); }
             catch { return ''; }
@@ -750,7 +722,6 @@
                 currentDateStr = today;
                 renderDigest(await res.json(), today);
             } catch {
-                // fallback to legacy digest.json
                 try {
                     const res2 = await fetch('digest.json?v=' + Date.now());
                     if (!res2.ok) throw new Error('no json');
@@ -775,7 +746,7 @@
         function renderRaw(text) {
             const html = text
                 .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-                .replace(/\[Read more\]\((https?:\/\/[^\)]+)\)/g, '<a href="$1" target="_blank" rel="noopener">Read more ÃÂ¢ÃÂÃÂ</a>')
+                .replace(/\[Read more\]\((https?:\/\/[^\)]+)\)/g, '<a href="$1" target="_blank" rel="noopener">Read more &#x2192;</a>')
                 .replace(/\[(.*?)\]\((https?:\/\/[^\)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
                 .replace(/^(\d+)\.\s+(.+)$/gm, (_, n, t) => `<div class="story-number">Story ${String(n).padStart(2,'0')}</div><div class="story-title">${t}</div>`)
                 .replace(/### (.*)/g, '<h3 style="font-family:\'Playfair Display\',serif;margin:32px 0 16px;font-size:1.3rem;font-weight:900;">$1</h3>')
@@ -785,7 +756,7 @@
                 <div class="section-header">
                     <div>
                         <div class="section-label">Today's Digest</div>
-                        <div class="section-title">AI News ÃÂ¢ÃÂÃÂ ${now.toLocaleDateString('en-GB', { day:'numeric', month:'long', year:'numeric' })}</div>
+                        <div class="section-title">AI News &#x2014; ${now.toLocaleDateString('en-GB', { day:'numeric', month:'long', year:'numeric' })}</div>
                     </div>
                 </div>
                 <div class="story-card">
@@ -798,6 +769,7 @@
             const displayDate = formatDate(dateStr);
             let html = '';
 
+            // SECTION 01: Top Stories
             if (data.top_stories && data.top_stories.length) {
                 html += `<div class="section-header">
                     <div class="section-number">01</div>
@@ -813,15 +785,19 @@
                         <div class="story-title">${s.title}</div>
                         ${domain ? `<div class="story-source">${domain}</div>` : ''}
                         <div class="story-summary">${s.summary}</div>
-                        ${s.url ? `<a href="${s.url}" target="_blank" rel="noopener" class="story-link">Read original →</a>` : ''}
+                        ${s.url ? `<a href="${s.url}" target="_blank" rel="noopener" class="story-link">Read original &#x2192;</a>` : ''}
                     </div>`;
                 });
             }
 
+            // SECTION 02: One Useful Thing — inserted after top stories, before further links
+            html += `<div id="one-useful-thing-placeholder"></div>`;
+
+            // SECTION 03: Further Links
             if (data.further_links && data.further_links.length) {
                 html += `<hr class="rule">
                 <div class="section-header">
-                    <div class="section-number">02</div>
+                    <div class="section-number">03</div>
                     <div>
                         <div class="section-label">Also Worth Knowing</div>
                         <div class="section-title">Ten more links from the feed</div>
@@ -835,7 +811,7 @@
                         ${l.title ? `<div class="link-title">${l.title}</div>` : ''}
                         ${domain ? `<div class="link-source">${domain}</div>` : ''}
                         <div class="link-text">${l.summary}</div>
-                        ${l.url ? `<a href="${l.url}" target="_blank" rel="noopener" class="link-url">Read more ÃÂ¢ÃÂÃÂ</a>` : ''}
+                        ${l.url ? `<a href="${l.url}" target="_blank" rel="noopener" class="link-url">Read more</a>` : ''}
                     </div>`;
                 });
                 html += `</div>`;
@@ -844,11 +820,14 @@
             document.getElementById('main-content').innerHTML = html ||
                 '<div class="loading-state"><span class="big">Empty digest.</span><p>No stories were returned in the last run.</p></div>';
 
-            // One More Thing ÃÂ¢ÃÂÃÂ Ethan Mollick's latest post
-            loadOneMoreThing();
+            // Load One Useful Thing into its placeholder (section 02)
+            loadOneUsefulThing();
         }
 
-        async function loadOneMoreThing() {
+        async function loadOneUsefulThing() {
+            const placeholder = document.getElementById('one-useful-thing-placeholder');
+            if (!placeholder) return;
+
             const rssUrl = 'https://www.oneusefulthing.org/feed';
             const proxyUrl = `https://corsproxy.io/?url=${encodeURIComponent(rssUrl)}`;
             try {
@@ -865,29 +844,28 @@
                 const tmp = document.createElement('div');
                 tmp.innerHTML = descRaw;
                 const desc = tmp.textContent?.trim().substring(0, 200) || '';
-                const section = document.createElement('div');
-                section.innerHTML = `
+
+                placeholder.innerHTML = `
                     <hr class="rule">
                     <div class="section-header">
-                        <div class="section-number">ÃÂ¢ÃÂÃÂ¦</div>
+                        <div class="section-number">02</div>
                         <div>
-                            <div class="section-label">One More Thing</div>
+                            <div class="section-label">One Useful Thing</div>
                             <div class="section-title">Latest from Ethan Mollick</div>
                         </div>
                     </div>
                     <div class="story-card">
                         <div class="story-title">${title}</div>
                         <div class="story-source">oneusefulthing.org</div>
-                        ${desc ? `<div class="story-summary">${desc}ÃÂ¢ÃÂÃÂ¦</div>` : ''}
-                        ${link ? `<a href="${link}" target="_blank" rel="noopener" class="story-link">Read on Substack ÃÂ¢ÃÂÃÂ</a>` : ''}
+                        ${desc ? `<div class="story-summary">${desc}&#x2026;</div>` : ''}
+                        ${link ? `<a href="${link}" target="_blank" rel="noopener" class="story-link">Read on Substack &#x2192;</a>` : ''}
                     </div>`;
-                document.getElementById('main-content').appendChild(section);
             } catch(e) {
-                // Silently fail ÃÂ¢ÃÂÃÂ don't break the page if RSS is unavailable
+                // Silently fail — don't break the page if RSS is unavailable
+                placeholder.innerHTML = '';
             }
         }
 
-        // Load archive list and today's digest on page load
         loadArchive();
         loadDigest();
     </script>
