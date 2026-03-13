@@ -861,9 +861,22 @@
                         ${link ? `<a href="${link}" target="_blank" rel="noopener" class="story-link">Read on Substack &#x2192;</a>` : ''}
                     </div>`;
             } catch(e) {
-                // Silently fail — don't break the page if RSS is unavailable
-                placeholder.innerHTML = '';
-            }
+            placeholder.innerHTML = `
+                <hr class="rule">
+                <div class="section-header">
+                    <div class="section-number">02</div>
+                    <div>
+                        <div class="section-label">One Useful Thing</div>
+                        <div class="section-title">Latest from Ethan Mollick</div>
+                    </div>
+                </div>
+                <div class="story-card">
+                    <div class="story-title">Feed temporarily unavailable</div>
+                    <div class="story-source">oneusefulthing.org</div>
+                    <div class="story-summary">Check back shortly — the latest post from Ethan Mollick will appear here when the feed loads.</div>
+                    <a href="https://www.oneusefulthing.org" target="_blank" rel="noopener" class="story-link">Visit site &#x2192;</a>
+                </div>`;
+        }
         }
 
         loadArchive();
