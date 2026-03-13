@@ -1,0 +1,81 @@
+{
+  "top_stories": [
+    {
+      "title": "Tennessee grandmother jailed after AI face recognition error links her to fraud",
+      "summary": "A Tennessee grandmother was incarcerated after being incorrectly identified by AI-powered facial recognition as a fraud suspect. The case highlights significant concerns about the reliability and legal implications of AI in law enforcement and the need for improved oversight.",
+      "url": "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud"
+    },
+    {
+      "title": "Publishers must act on AI misinformation 'now, not after people have already been manipulated'",
+      "summary": "Industry experts warn publishers to address the risks of AI-driven misinformation promptly, prior to it impacting public perception. The article underscores an urgent need to establish standards for verifying AI-generated content to protect readers and the credibility of publishing outlets.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMmNOazg2N1JGdk5HaE5ZbzZhd2N4VXdiUi1XanZ2aW83UGhkQzZKY2lOaVpXMTBhSFNiTUFGcVlhVDhiaE9DNG1pcHFhMjdCc3hqYi0xMlFjckRkYUp2SFY4dk9lQnNzTnlET0w0U3NabE16REFCcHZobXBTZEt4aE5DN0dTdnZ1ZWdEVWYzRXdnUjZJOTVsWWpTLW10Sml5VmgwbUZCbHh0dVAzMkNHREpOeC1zekVEbXNTaEdRT25DaTls?oc=5"
+    },
+    {
+      "title": "Oracle’s Answer to the SaaS Slump: Free AI Features",
+      "summary": "Oracle is responding to slowdowns in SaaS adoption by incorporating AI features at no additional cost for customers. This move marks a shift in business models for enterprise software providers and intensifies AI feature competition in the sector.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZktpRVlyOGIybGE2UjhtS1NvVEJOSFllM3JRTUJ4N3MtdzBNaUtBY3FLS1l3ZVFwM2tCaVZCS1FYaTU1cGhhVDV6a1FRUFVQYXI4R2F6T0hqM0E3bkRFWmhsWVRxcy1UeG5saG5uNjZEUlhWdUpxNW13UlQxQzFxaGZqSnFhQ2FTSk5YWWRXMjFEVG90bFdOU1RhLVY?oc=5"
+    },
+    {
+      "title": "Anthropic-Pentagon battle shows how big tech has reversed course on AI and war",
+      "summary": "A dispute between Anthropic and the Pentagon illustrates a broader trend of major AI companies becoming more open to military contracts, reversing earlier stances on avoiding defense work. This reveals evolving business strategies and ethical debates within the AI industry.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rspxj1/anthropicpentagon_battle_shows_how_big_tech_has/"
+    },
+    {
+      "title": "'Rectal garlic insertion for immune support': Medical chatbots confidently give disastrously misguided advice, experts say",
+      "summary": "Experts report that medical chatbots are producing dangerously inaccurate advice, such as recommending rectal garlic for health, underscoring the potential public safety risks of deploying LLMs in critical domains without rigorous guardrails or oversight.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rsdoeq/rectal_garlic_insertion_for_immune_support/"
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Innocent woman jailed after being misidentified using AI facial recognition",
+      "summary": "A North Dakota woman was jailed due to a faulty AI facial recognition match, illustrating real-world consequences of errors in AI criminal justice applications.",
+      "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case"
+    },
+    {
+      "title": "Oracle’s Answer to the SaaS Slump: Free AI Features",
+      "summary": "Oracle introduces new AI features at no extra cost amid slowing SaaS growth, intensifying competition in enterprise AI.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZktpRVlyOGIybGE2UjhtS1NvVEJOSFllM3JRTUJ4N3MtdzBNaUtBY3FLS1l3ZVFwM2tCaVZCS1FYaTU1cGhhVDV6a1FRUFVQYXI4R2F6T0hqM0E3bkRFWmhsWVRxcy1UeG5saG5uNjZEUlhWdUpxNW13UlQxQzFxaGZqSnFhQ2FTSk5YWWRXMjFEVG90bFdOU1RhLVY?oc=5"
+    },
+    {
+      "title": "How we’re reimagining Maps with Gemini",
+      "summary": "A look into Gemini LLM integration in Google Maps, promising improved interpretability and capabilities.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rsl7kz/how_were_reimagining_maps_with_gemini/"
+    },
+    {
+      "title": "Patch Me If You Can: AI Codemods for Secure-by-Default Android Apps",
+      "summary": "Meta's engineers detail how they use AI-powered code modifications to help developers secure Android apps by default.",
+      "url": "https://engineering.fb.com/2026/03/13/android/ai-codemods-secure-by-default-android-apps-meta-tech-podcast/"
+    },
+    {
+      "title": "China's ByteDance Outsmarts US Sanctions With Offshore Nvidia AI Buildout",
+      "summary": "ByteDance set up offshore AI infrastructure with Nvidia chips, circumventing US export sanctions and intensifying global AI competition.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rsm8ih/chinas_bytedance_outsmarts_us_sanctions_with/"
+    },
+    {
+      "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
+      "summary": "A US defense official outlines ways AI chatbots may be used for military targeting, raising ethical and strategic issues.",
+      "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/"
+    },
+    {
+      "title": "Impossible to 100% prevent abuse, Grok lawyers say in Dutch case against nudify tools",
+      "summary": "Grok’s legal defense acknowledges limits in preventing LLM-facilitated abuse, highlighting liability concerns for AI providers.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rsler0/impossible_to_100_prevent_abuse_grok_lawyers_say/"
+    },
+    {
+      "title": "Can I run AI locally?",
+      "summary": "New online service helps users determine whether AI models can run on their hardware, supporting democratization of LLM usage.",
+      "url": "https://www.canirun.ai/"
+    },
+    {
+      "title": "Academic forum explores future of publishing industry at London Book Fair",
+      "summary": "An academic forum at the London Book Fair discusses how AI will shape the future landscape of publishing.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSFBXWjZXeXlEWnlYaUgxRnk5bXAzVEZvZHNMR3FrVEMxU0dVVXJUMEV3eHVfbC1KcUNBa0pZaTJTUHRBSTRPVnFFMXhfOEx5Q0lSdFdBWDhHMG1LOVgtc2JmS3U5Mm5MTGhyN2FJNEl0MVczNjFuZDg4VlZmMmxTZ0lB?oc=5"
+    },
+    {
+      "title": "Future AI chips could be built on glass",
+      "summary": "Researchers explore glass substrates for AI chips, promising higher bandwidth for future large-scale LLM deployment.",
+      "url": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/"
+    }
+  ]
+}
