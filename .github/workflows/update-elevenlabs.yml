@@ -26,14 +26,14 @@ jobs:
           echo "Processing date: $DATE"
           DIGEST=$(curl -sf "https://raw.githubusercontent.com/TimBrittonAI/ai-news-digest/main/digest-${DATE}.json")
           if [ -z "$DIGEST" ]; then
-            echo "No digest found for ${DATE}"
+            echo "No digest found for $DATE"
             exit 1
           fi
-          HEADER="SIGNAL DIGEST - ${DATE}"
+          HEADER="SIGNAL DIGEST - $DATE"
           STORIES=$(echo "$DIGEST" | jq -r '[.top_stories[]? | "STORY: " + .title + " | " + .summary + " | Source: " + .url] | join(" ")')
           LINKS=$(echo "$DIGEST" | jq -r '[.further_links[]? | "LINK: " + .title + " | " + .summary + " | Source: " + .url] | join(" ")')
           TEXT=$(printf '%s\n\nTOP STORIES:\n%s\n\nFURTHER READING:\n%s' "$HEADER" "$STORIES" "$LINKS")
-          PAYLOAD=$(jq -n --arg text "$TEXT" --arg name "Signal digest ${DATE}" '{"text":$text,"name":$name}')
+          PAYLOAD=$(jq -n --arg text "$TEXT" --arg name "Signal digest $DATE" '{"text":$text,"name":$name}')
           RESPONSE=$(curl -s -X POST "https://api.elevenlabs.io/v1/convai/knowledge-base/text" \
             -H "xi-api-key: $ELEVENLABS_API_KEY" \
             -H "Content-Type: application/json" \
@@ -48,7 +48,7 @@ jobs:
           AGENT=$(curl -s "https://api.elevenlabs.io/v1/convai/agents/agent_5301kkc9q2dqfyh98f5791dep1w4" \
             -H "xi-api-key: $ELEVENLABS_API_KEY")
           EXISTING=$(echo "$AGENT" | jq '[.conversation_config.agent.prompt.knowledge_base[]? | {type: .type, id: .id, name: .name}]')
-          NEW_ENTRY=$(jq -n --arg id "$DOC_ID" --arg name "Signal digest ${DATE}" '[{type: "file", id: $id, name: $name}]')
+          NEW_ENTRY=$(jq -n --arg id "$DOC_ID" --arg name "Signal digest $DATE" '[{type: "file", id: $id, name: $name}]')
           MERGED=$(echo "$EXISTING $NEW_ENTRY" | jq -s '.[0] + .[1]')
           PATCH_PAYLOAD=$(jq -n --argjson kb "$MERGED" '{"conversation_config":{"agent":{"prompt":{"knowledge_base":$kb}}}}')
           PATCH_RESPONSE=$(curl -s -w "\n%{http_code}" -X PATCH "https://api.elevenlabs.io/v1/convai/agents/agent_5301kkc9q2dqfyh98f5791dep1w4" \
@@ -56,3 +56,21 @@ jobs:
             -H "Content-Type: application/json" \
             -d "$PATCH_PAYLOAD")
           echo "Patch response: $PATCH_RESPONSE"
+          # Update archive.txt
+          ARCHIVE_URL="https://api.github.com/repos/TimBrittonAI/ai-news-digest/contents/archive.txt"
+          ARCHIVE_RESPONSE=$(curl -s "$ARCHIVE_URL" \
+            -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github+json")
+          ARCHIVE_SHA=$(echo "$ARCHIVE_RESPONSE" | jq -r '.sha')
+          ARCHIVE_CONTENT=$(echo "$ARCHIVE_RESPONSE" | jq -r '.content' | base64 -d | tr -d '\n')
+          if echo "$ARCHIVE_CONTENT" | grep -q "$DATE"; then
+            echo "Date $DATE already in archive, skipping"
+          else
+            NEW_ARCHIVE="$DATE,$ARCHIVE_CONTENT"
+            ENCODED=$(echo -n "$NEW_ARCHIVE" | base64 -w 0)
+            curl -s -X PUT "$ARCHIVE_URL" \
+              -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+              -H "Content-Type: application/json" \
+              -d "{\"message\":\"Update archive for $DATE\",\"content\":\"$ENCODED\",\"sha\":\"$ARCHIVE_SHA\"}"
+            echo "Archive updated with $DATE"
+          fi
