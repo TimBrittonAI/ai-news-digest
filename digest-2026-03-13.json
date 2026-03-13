@@ -1,0 +1,86 @@
+{
+  "top_stories": [
+    {
+      "title": "Tennessee grandmother jailed after AI face recognition error links her to fraud",
+      "summary": "A woman in Tennessee was wrongfully jailed after an error in AI-powered facial recognition linked her to a fraud case, highlighting concerns about the reliability and accountability in the use of AI-driven identification in law enforcement.",
+      "url": "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud"
+    },
+    {
+      "title": "Oracle’s Answer to the SaaS Slump: Free AI Features",
+      "summary": "Oracle has responded to slowing growth in SaaS with the rollout of new free AI features for its business customers, aiming to boost competitiveness and customer retention as AI capabilities become a key differentiator for enterprise software.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZktpRVlyOGIybGE2UjhtS1NvVEJOSFllM3JRTUJ4N3MtdzBNaUtBY3FLS1l3ZVFwM2tCaVZCS1FYaTU1cGhhVDV6a1FRUFVQYXI4R2F6T0hqM0E3bkRFWmhsWVRxcy1UeG5saG5uNjZEUlhWdUpxNW13UlQxQzFxaGZqSnFhQ2FTSk5YWWRXMjFEVG90bFdOU1RhLVY?oc=5"
+    },
+    {
+      "title": "How AI use in scholarly publishing threatens research integrity, lessens trust, and invites misinformation",
+      "summary": "This article examines how the increasing use of AI in academic publishing risks undermining research integrity, facilitating fraudulent or poorly vetted content, and eroding trust in scientific communication.",
+      "url": "https://www.bulletinofatomicscientists.org/2026/03/how-ai-use-in-scholarly-publishing-threatens-research-integrity-lessens-trust-and-invites-misinformation/"
+    },
+    {
+      "title": "'Rectal garlic insertion for immune support': Medical chatbots confidently give disastrously misguided advice, experts say",
+      "summary": "Experts warn that medical chatbots, powered by large language models, are prone to dispensing confident but dangerous health advice, underscoring the urgent need for better oversight and safety standards in healthcare AI applications.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rsdoeq/rectal_garlic_insertion_for_immune_support/"
+    },
+    {
+      "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
+      "summary": "A US defense official discusses how AI chatbots may be used to support targeting decisions in military operations, illustrating the growing reliance on AI in sensitive, high-stakes domains and the ethical concerns that arise.",
+      "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/"
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Innocent woman jailed after being misidentified using AI facial recognition",
+      "summary": "Another case surfaces of a woman wrongly jailed due to errors in AI facial recognition technology.",
+      "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case"
+    },
+    {
+      "title": "Amazon Employees Say AI Is Just Increasing Workload",
+      "summary": "A study finds Amazon employees believe AI tools have not reduced workloads, but instead added complexity.",
+      "url": "https://gizmodo.com/amazon-employees-say-ai-is-just-increasing-workload-a-new-study-confirms-their-suspicions-2000732794"
+    },
+    {
+      "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
+      "summary": "The post discusses vulnerabilities in Retrieval-Augmented Generation (RAG) systems where attackers can corrupt the documents used as sources.",
+      "url": "https://aminrj.com/posts/rag-document-poisoning/"
+    },
+    {
+      "title": "Systemd 260-rc3 released with AI Agents documentation added",
+      "summary": "The latest release candidate of systemd includes new documentation related to AI agent integration.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rsdc2q/systemd_260rc3_released_with_ai_agents/"
+    },
+    {
+      "title": "AI-Powered Contract Analysis Software Market Size | CAGR of 24%",
+      "summary": "AI contract analysis software market is expected to see rapid growth, driven by widespread adoption in legal and business operations.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jajlJQU1XbG0wTDYzd2twbTRLaHVSSGllZUlydFJlWUVpRFhUX0QwbjVJRGRjUW5ETWtKd1l4bE1zR2pKVHhGeWdkSG8yTU9uU3YyQmhOaXY5YkNTUGJMaTNEaE1zR3A0YUltM3FfTXRLODdBQkNmSzlR?oc=5"
+    },
+    {
+      "title": "Pragmatic by design: Engineering AI for the real world",
+      "summary": "An exploration of how AI systems are being engineered pragmatically to handle real-world constraints and deliver business value.",
+      "url": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/"
+    },
+    {
+      "title": "AI-powered Human Resources Tool Market Size | CAGR of 18%",
+      "summary": "AI in HR tools is projected to experience significant market growth, reflecting adoption trends in automating talent management.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiVkVsb3VZQ0hfWk92Ukkya0ppTFBVLXRoUHJpaFZTanlGUzNaYUwzVVN1Y1N2WHJRLVpNOGpQR1puU25YV25sVGw4aXRMMGZFV2hiX3h0dlU3eEx6dWFCdmtWUjEyYmFfQ3hRdXdpMkFYZw?oc=5"
+    },
+    {
+      "title": "Additive Manufacturing Generative AI Copilots Market to Reach",
+      "summary": "The market for generative AI copilots in additive manufacturing is forecasted for significant growth.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTlRKTHBNQWRsbkxibzQtNHdsRFVVbWdLLTRKSXJWV3M2NlpNWkNfQjRiUktaLVV3M01aMFRZQ3VLQW16R0F6TEE0OWVEUE1vMDMyQk5odUdzVm5ZcWVZWkpWdmxDVXFoVmJYSTNmOXFBMTU3TUVQaWdnWFZaUHpGMi1odlZIVWN5YlY0Nl96Vm5SY3VwS05rZG5ueURuZw?oc=5"
+    },
+    {
+      "title": "AI in Supply Chain Management Market to Reach US$22.7 Billion by 2030, Says Stratview Research",
+      "summary": "The supply chain sector is expected to be transformed by AI, with a projected market value of $22.7 billion by 2030.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeHdHSldKVFVBSjRFeHBMZFJ6d055VEZOcjh3WEVHTkxVa0FCQUhlcTlNWjBIRjBHdHNRd21WeGFFRUZ1bzJ2bkViRmNOS1FENGhKcThTcU0wTmk5U0c0ZmZHU1RBRDdicDQ3M04wRFdud280V3F4Q2xIRHFMLXZWTVNROHk3cXZlY3FGRTRzeVplRzRSWjI5bjc0MURrZw?oc=5"
+    },
+    {
+      "title": "Software companies fight back against fears that AI will kill them",
+      "summary": "Software companies are innovating business models and product offerings to remain relevant as AI automates more tasks.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY3UzejNBaHdLZDJxd0xmaGNKYVdpLU5rNi1VMFpnRW5LZjVvWGtGaWItbVVYZjhpaEdaNTQxMVctbzc2UlY1NFhwTnZLS0J1SkN3bWpGVVh6bmM3ZmpFMVBnQ1VpNmplb1Zpa0h6cjJyZ2ZISjVBZnVRMkpJRjBOc2ZHOVQ0cEtOVGRTOFk4NGpWUjBNSE4yaG5WMG9Wc0M5N0Z4d2QySUxfcDloYl9lUQ?oc=5"
+    },
+    {
+      "title": "AI should not replace people at Atlassian, says CEO",
+      "summary": "Atlassian's CEO claims AI is not meant to replace jobs at the company, amid staff layoffs signaling ongoing industry tensions.",
+      "url": "https://www.heise.de/en/news/Atlassian-CEO-AI-doesn-t-replace-people-here-but-we-re-firing-them-anyway-11208758.html"
+    }
+  ]
+}
