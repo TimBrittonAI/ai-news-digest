@@ -2,7 +2,7 @@ name: Update ElevenLabs Knowledge Base
 
 on:
   schedule:
-    - cron: '58 6 * * *'
+    - cron: '15 6 * * *'
   workflow_dispatch:
     inputs:
       date_override:
