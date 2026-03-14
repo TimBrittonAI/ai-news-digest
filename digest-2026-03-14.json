@@ -1,0 +1,86 @@
+{
+  "top_stories": [
+    {
+      "title": "Elon Musk pushes out more xAI founders as AI coding effort falters [Paywalled]",
+      "summary": "Elon Musk has reportedly removed more founding members from his AI company xAI as the company's efforts to develop competitive AI coding tools are stalling. This signals potential internal turmoil at one of the highest-profile independent AI startups and may impact xAI’s capacity to challenge established players.",
+      "url": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5"
+    },
+    {
+      "title": "Publishers must act on AI misinformation 'now, not after people have already been manipulated'",
+      "summary": "A growing number of publishers and experts are urging immediate action to address AI-driven misinformation, warning that waiting until after the public is misled could be too late. The piece underscores the increasing stakes for newsrooms and content platforms as generative AI becomes more sophisticated.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMmNOazg2N1JGdk5HaE5ZbzZhd2N4VXdiUi1XanZ2aW83UGhkQzZKY2lOaVpXMTBhSFNiTUFGcVlhVDhiaE9DNG1pcHFhMjdCc3hqYi0xMlFjckRkYUp2SFY4dk9lQnNzTnlET0w0U3NabE16REFCcHZobXBTZEt4aE5DN0dTdnZ1ZWdEVWYzRXdnUjZJOTVsWWpTLW10Sml5VmgwbUZCbHh0dVAzMkNHREpOeC1zekVEbXNTaEdRT25DaTls?oc=5"
+    },
+    {
+      "title": "Impossible to 100% prevent abuse, Grok lawyers say in Dutch case against nudify tools",
+      "summary": "Lawyers representing Grok admitted in a Dutch court that it is impossible to completely prevent misuse of AI, particularly as lawsuits target AI-backed nudify tools. The case highlights ongoing legal and ethical difficulties for AI providers in effectively policing the abuse of generative models.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rsler0/impossible_to_100_prevent_abuse_grok_lawyers_say/"
+    },
+    {
+      "title": "China's ByteDance Outsmarts US Sanctions With Offshore Nvidia AI Buildout",
+      "summary": "ByteDance has reportedly circumvented US sanctions by leveraging offshore data centers and acquiring Nvidia AI chips outside US jurisdiction. This development demonstrates how major tech firms are navigating evolving international AI policies and restrictions.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rsm8ih/chinas_bytedance_outsmarts_us_sanctions_with/"
+    },
+    {
+      "title": "The Download: how AI is used for military targeting, and the Pentagon’s war on Claude",
+      "summary": "A deep dive explores the Pentagon's concerns about the use of commercial AI chatbots, focusing on the risks and policy challenges presented by Anthropic's Claude model in military targeting contexts. The piece reflects growing tensions between tech companies and government over AI's role in national security.",
+      "url": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/"
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Industry Analysis Highlights Rapid Growth of AI Marketing in China",
+      "summary": "China's AI marketing industry is experiencing rapid expansion, underlining the country's leadership in integrating AI into commercial marketing activities.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONFMyMS00UkhBcVdwb1czaHVGVl9CU1dBbk5QTmRDUEczdHlBbUljRnJSV005NG15TjNDVXhTRDBQaXFJdTBkV2EtMmo3OEU1ZHZKNnc5WHVoMmZVM2tUSncxdmVKcDJBX3VuR1RUZXZPN242OGJuWE5KeWNJSjVSWTRhZXNkeU9ZUlFqeVYtQUM1MVFu?oc=5"
+    },
+    {
+      "title": "Why physical AI is becoming manufacturing’s next advantage",
+      "summary": "Emerging applications of physically-embodied AI systems are giving manufacturers new operational advantages in efficiency and flexibility.",
+      "url": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/"
+    },
+    {
+      "title": "Patch Me If You Can: AI Codemods for Secure-by-Default Android Apps",
+      "summary": "Meta details its use of AI code modification tools to automate security improvements in Android applications.",
+      "url": "https://engineering.fb.com/2026/03/13/android/ai-codemods-secure-by-default-android-apps-meta-tech-podcast/"
+    },
+    {
+      "title": "The Invisible Wire: 175,000 Naked AI Agents, a WireGuard Mesh, and Why Tailscale Is Becoming the Nervous System of Agentic Infrastructure",
+      "summary": "Tailscale's mesh networking is being adopted as critical infrastructure for scaling and securing fleets of AI agents.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rt899q/the_invisible_wire_175000_naked_ai_agents_a/"
+    },
+    {
+      "title": "[P] ColQwen3.5-v2 4.5B is out!",
+      "summary": "A new 4.5B-parameter open-source language model variant, ColQwen3.5-v2, has been released.",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rsxlg8/p_colqwen35v2_45b_is_out/"
+    },
+    {
+      "title": "Anthropic-Pentagon battle shows how big tech has reversed course on AI and war",
+      "summary": "Anthropic's work with the Pentagon reveals shifting attitudes among big tech over engagement with military AI contracts.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rspxj1/anthropicpentagon_battle_shows_how_big_tech_has/"
+    },
+    {
+      "title": "Can I run AI locally?",
+      "summary": "A new resource helps users determine the feasibility of running various AI models on local hardware.",
+      "url": "https://www.canirun.ai/"
+    },
+    {
+      "title": "[Project] JudgeGPT — open-source LLM-as-judge benchmarking tool with configurable scoring rubrics, CoT reasoning, and real-time GPU telemetry",
+      "summary": "JudgeGPT is a newly released open-source tool for benchmarking large language models, featuring custom scoring and real-time monitoring.",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rsxcl3/project_judgegpt_opensource_llmasjudge/"
+    },
+    {
+      "title": "AI Based Electrical Switchgear Market Analysis and Growth Outlook to 2035 - News and Statistics",
+      "summary": "Market analysis forecasts strong growth for AI-powered electrical switchgear, driven by automation and smart grid adoption.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYnhqT2FNRDBEVmlfQnBQR2JuOHhqdjlTdTJYaVVVRVpWM3dBWG10SlA3eGZnVTB0OF9hWEVYWjFFQWh3WmgxU2pfbzU3UjdpMzdlWmRhall0XzBfMVZnbk5OeHVSQzRuMi1WWWtDSXducTlWSmR0TXRDQW81X3ByVnFEMVlSeUYxUzFwUHlibTlIaGRpdFVOZ0c4OTEwcDlRVmJaV3hMbGRqRkduRXBLVi1xMm5IS0J4MnJCWGdJeEFKZDF3S3M1Q2xNZw?oc=5"
+    },
+    {
+      "title": "JL-Engine-Local a dynamic agent assembly engine",
+      "summary": "A new local engine enables dynamic assembly of multi-agent AI systems for diverse applications.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rt4sr4/jlenginelocal_a_dynamic_agent_assembly_engine/"
+    },
+    {
+      "title": "[P] zer0dex - dual-layer memory for local LLM agents: 91.2% recall vs 80.3% R.A.G. across 97 benchmarked cases",
+      "summary": "Researchers present a dual-layer memory mechanism for local LLM agents, demonstrating improved recall over traditional retrieval-augmented generation.",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rt2fpb/p_zer0dex_duallayer_memory_for_local_llm_agents/"
+    }
+  ]
+}
