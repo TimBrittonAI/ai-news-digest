@@ -1,0 +1,81 @@
+{
+  "top_stories": [
+    {
+      "title": "Meta planning layoffs as AI costs mount",
+      "summary": "Meta is reportedly planning significant layoffs as the expenses for developing and deploying AI tools continue to increase. The move reflects the high operational and infrastructure costs faced by major tech firms as they integrate AI at scale.",
+      "url": "https://www.reuters.com/business/world-at-work/meta-planning-sweeping-layoffs-ai-costs-mount-2026-03-14/"
+    },
+    {
+      "title": "DIY $8,500 Zeus Supercomputer Replaces Cloud Tools for AI Business",
+      "summary": "An $8,500 custom-built Zeus supercomputer offers AI businesses a cost-effective alternative to cloud service providers. This development could enable small and mid-sized companies to more affordably deploy and run sophisticated AI models on-premise.",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MbmtiM3M5bXlDMDZKa1A5WkRIRkExQUJfM09jejhpSXpVQ1cwTjNoVjl2cmhHOWNXRFBhT3I2dUlIU3FNQUFvY1ZYeS1VMjFfaWwwdklvTGkwaWdJZHA1QWxiQlBHdw?oc=5"
+    },
+    {
+      "title": "The arXiv is separating from Cornell University, and is hiring a CEO",
+      "summary": "After decades affiliated with Cornell University, arXiv is becoming an independent nonprofit and will hire a CEO. This shift, supported by the Simons Foundation, could impact how AI and machine learning preprints are managed and accessed.",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rtjirw/the_arxiv_is_separating_from_cornell_university/"
+    },
+    {
+      "title": "Patch Me If You Can: AI Codemods for Secure-by-Default Android Apps",
+      "summary": "Meta's engineering team discusses new AI-powered codemods for Android, aimed at automatically securing apps by default. Automating security with AI promises to reduce vulnerabilities at scale for developers.",
+      "url": "https://engineering.fb.com/2026/03/13/android/ai-codemods-secure-by-default-android-apps-meta-tech-podcast/"
+    },
+    {
+      "title": "Publishers must act on AI misinformation 'now, not after people have already been manipulated'",
+      "summary": "Industry leaders call for urgent action by publishers to address AI-generated misinformation before widespread public manipulation occurs. The call-to-action highlights immediate legal, reputational, and operational challenges facing the publishing sector.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMmNOazg2N1JGdk5HaE5ZbzZhd2N4VXdiUi1XanZ2aW83UGhkQzZKY2lOaVpXMTBhSFNiTUFGcVlhVDhiaE9DNG1pcHFhMjdCc3hqYi0xMlFjckRkYUp2SFY4dk9lQnNzTnlET0w0U3NabE16REFCcHZobXBTZEt4aE5DN0dTdnZ1ZWdEVWYzRXdnUjZJOTVsWWpTLW10Sml5VmgwbUZCbHh0dVAzMkNHREpOeC1zekVEbXNTaEdRT25DaTls?oc=5"
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Elon Musk pushes out more xAI founders as AI coding effort falters [Paywalled]",
+      "summary": "xAI experiences internal turmoil as more founders are dismissed and coding initiatives stall.",
+      "url": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5"
+    },
+    {
+      "title": "Claudetop – htop for Claude Code sessions (see your AI spend in real-time)",
+      "summary": "A new open-source tool provides real-time monitoring of resource usage and spending for Claude Code AI sessions.",
+      "url": "https://github.com/liorwn/claudetop"
+    },
+    {
+      "title": "AI didn't simplify software engineering: It just made bad engineering easier",
+      "summary": "A critique on how AI may enable poor software development practices instead of streamlining engineering.",
+      "url": "https://robenglander.com/writing/ai-did-not-simplify/"
+    },
+    {
+      "title": "[P] ColQwen3.5-v2 4.5B is out!",
+      "summary": "A new version of ColQwen3.5-v2 large language model (4.5B parameters) is now available.",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rsxlg8/p_colqwen35v2_45b_is_out/"
+    },
+    {
+      "title": "Show HN: GitAgent – An open standard that turns any Git repo into an AI agent",
+      "summary": "GitAgent launches as an open framework to convert Git repositories into intelligent AI-operated agents.",
+      "url": "https://www.gitagent.sh/"
+    },
+    {
+      "title": "The Invisible Wire: 175,000 Naked AI Agents, a WireGuard Mesh, and Why Tailscale Is Becoming the Nervous System of Agentic Infrastructure",
+      "summary": "An exploration of a massive, interconnected network of AI agents running via Tailscale and WireGuard.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rt899q/the_invisible_wire_175000_naked_ai_agents_a/"
+    },
+    {
+      "title": "AI Gets Wrong Woman Jailed for Six Months, Life Ruined",
+      "summary": "A report on the negative consequences of an AI error leading to the wrongful imprisonment of an individual.",
+      "url": "https://www.youtube.com/watch?v=mzS7dmCUzcQ"
+    },
+    {
+      "title": "[Project] JudgeGPT — open-source LLM-as-judge benchmarking tool with configurable scoring rubrics, CoT reasoning, and real-time GPU telemetry",
+      "summary": "JudgeGPT launches as an open-source tool to benchmark and evaluate LLMs in a transparent, reproducible way.",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rsxcl3/project_judgegpt_opensource_llmasjudge/"
+    },
+    {
+      "title": "Linux 7.1 will bring power estimate reporting for AMD Ryzen AI NPUs",
+      "summary": "The upcoming Linux 7.1 kernel adds power usage estimation for AMD Ryzen AI-specific NPUs, aiding energy management.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rtrhg5/linux_71_will_bring_power_estimate_reporting_for/"
+    },
+    {
+      "title": "Built a tool for testing AI agents in multi-turn conversations",
+      "summary": "A community-built utility enables rigorous testing of AI conversational agents across multiple dialogue turns.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rsumcc/built_a_tool_for_testing_ai_agents_in_multiturn/"
+    }
+  ]
+}
