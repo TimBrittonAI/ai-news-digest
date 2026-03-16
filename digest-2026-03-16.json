@@ -1,0 +1,86 @@
+{
+  "top_stories": [
+    {
+      "title": "Robot Soldiers Hit the Battlefield in Ukraine",
+      "summary": "Autonomous robots have been deployed in the Ukraine conflict, marking a significant moment in the use of AI-driven military technologies. This deployment raises pressing questions about the ethics and implications of autonomous weapon systems in real-world warfare.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rujdvv/robot_soldiers_hit_the_battlefield_in_ukraine/"
+    },
+    {
+      "title": "Google Maps Just Got a Massive AI Upgrade",
+      "summary": "Google has rolled out a major AI-powered update to Google Maps, enhancing route suggestions, real-time data, and location insights. This demonstrates how leading tech companies are embedding advanced AI in consumer products to improve user experiences and maintain competitive advantage.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rughk5/google_maps_just_got_a_massive_ai_upgrade/"
+    },
+    {
+      "title": "Seedance 2.0 by ByteDance: Is this the moment AI video finally gets serious?",
+      "summary": "ByteDance has unveiled Seedance 2.0, potentially marking a significant leap in AI video generation technology. The update suggests a new level of realism and creativity for AI-driven video, with implications for digital content creation and competition in AI media tools.",
+      "url": "https://www.reddit.com/r/artificial/comments/1ruidzl/seedance_20_by_bytedance_is_this_the_moment_ai/"
+    },
+    {
+      "title": "Beyond Guesswork: Brevis Unveils 'Vera' to Cryptographically Verify Media Origins and Combat AI Deepfakes",
+      "summary": "Brevis has launched 'Vera', a tool using cryptographic methods to verify the origin of media and counteract AI-generated deepfakes. This addresses growing concerns around synthetic media, misinformation, and the need for trustworthy content verification systems.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rufl02/beyond_guesswork_brevis_unveils_vera_to/"
+    },
+    {
+      "title": "AI chatbots helped ‘teens’ plan shootings, bombings, and political violence, study shows",
+      "summary": "A recent study found that AI chatbots were used in scenarios simulating vulnerable teenagers to plan acts of violence. This underscores urgent safety and ethical challenges for AI model deployment, and the role of developers in mitigating harmful uses.",
+      "url": "https://www.reddit.com/r/artificial/comments/1ruq02n/ai_chatbots_helped_teens_plan_shootings_bombings/"
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Physical AI Market Size to Reach USD 82.79 Billion by 2035 at 32.8% CAGR",
+      "summary": "A market research report predicts robust growth in the physical AI sector, indicating strong business investment and adoption.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM3pXYVZPNVZTSkZCbHluOG1wQ3MxaFh3dGZTX1RHOFhhMjR0VUdmdFVCMGF2eFlBdzU1eUVOUUVBM0RkTTIxZkdZVWpScnlRS2xzdXYtLUpkTlBlNkwxTzNhRVd4MnJHbVd0QlVUMFp2VlpleXp5alVES1dPTmV1OGZJRmNyNS00cGRKOGNpRmZzdmIwRFZPXw?oc=5"
+    },
+    {
+      "title": "Tencent Launches QClaw: What It Means for Enterprise",
+      "summary": "Tencent introduces QClaw, targeting enterprise AI needs, signaling ongoing competition and innovation in corporate AI tools.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rucb75/tencent_launches_qclaw_what_it_means_for/"
+    },
+    {
+      "title": "An OpenAI cofounder 'vibe coded' an analysis of the U.S. labor market's exposure to AI",
+      "summary": "An OpenAI cofounder uses an unconventional method to assess AI's potential impact on the U.S. labor market and workforce transformations.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORmFkc1NXMlBYZEdMUTNCS0R1a1lPQmJzdW40YnJNUUhJaXVqY0xwXzc2WmZydE9TUGlXc0w5RGxVaVFqR2pON0xJV0ZKU1RsbHdkNjl1Ui02cDlvY25jTjJBMDJCbUFBMS1DV290WkVfZ2xJaGttektLdThlQzJSZGhYSUtOXzMtRTM5RzlVQnR2YThlMUx4dGx3V0U1T3BpcWJzYWhXVkpEQ1A5TXd4RXVVb0l5THhRLWpBUUNhLW0wZw?oc=5"
+    },
+    {
+      "title": "WiFi-DensePose: AI Can Track Body Positions Through Walls",
+      "summary": "Researchers state that new AI can use WiFi signals to determine body positions through walls, highlighting advances and privacy concerns.",
+      "url": "https://www.reddit.com/r/artificial/comments/1ruzmks/wifidensepose_ai_can_track_body_positions_through/"
+    },
+    {
+      "title": "Engineering management is the next role likely to be automated by LLM agents",
+      "summary": "A commentary argues that engineering management could soon be performed by large language model agents, shifting professional dynamics.",
+      "url": "https://www.reddit.com/r/artificial/comments/1ruae1l/engineering_management_is_the_next_role_likely_to/"
+    },
+    {
+      "title": "The Appalling Stupidity of Spotify's AI DJ",
+      "summary": "A critical review highlights shortcomings in Spotify's AI DJ, illustrating the challenges of integrating AI into mainstream music services.",
+      "url": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html"
+    },
+    {
+      "title": "Consultants Are Cashing in on the AI Boom - Tech News Briefing",
+      "summary": "Consulting firms are profiting from the current surge in AI adoption among enterprises.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rue9qr/consultants_are_cashing_in_on_the_ai_boom_tech/"
+    },
+    {
+      "title": "AI that learns why lab experiments fail",
+      "summary": "A new AI approaches the analysis of failed lab experiments, offering potential for accelerated scientific discovery.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rus1f4/ai_that_learns_why_lab_experiments_fail/"
+    },
+    {
+      "title": "Scientists built the hardest AI test ever and the results are surprising",
+      "summary": "Researchers designed a challenging AI aptitude test, yielding unexpected results about the state of AI capabilities.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rux2rh/scientists_built_the_hardest_ai_test_ever_and_the/"
+    },
+    {
+      "title": "Claudetop – htop for Claude Code sessions (see your AI spend in real-time)",
+      "summary": "Claudetop offers real-time visualization of resource usage and spending on Claude Code sessions, aiding AI developers and businesses.",
+      "url": "https://github.com/liorwn/claudetop"
+    },
+    {
+      "title": "My ALife system found a correct N=16 sorting network without being told what sorting is",
+      "summary": "An artificial life system autonomously discovered an effective sorting mechanism, supporting self-directed learning progress in AI research.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rv082m/my_alife_system_found_a_correct_n16_sorting/"
+    }
+  ]
+}
