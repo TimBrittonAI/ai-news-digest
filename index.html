@@ -883,19 +883,11 @@
         loadDigest();
     </script>
 
-  <!-- ElevenLabs Signal. Voice Agent -->
-  <elevenlabs-convai agent-id="agent_5301kkc9q2dqfyh98f5791dep1w4" main-label="Ask me about Signal content"></elevenlabs-convai>
-  <script src="https://elevenlabs.io/convai-widget/index.js" async type="text/javascript"></script>
-<script>
-  function setWidgetLabel() {
-    const widget = document.querySelector('elevenlabs-convai');
-    if (!widget || !widget.shadowRoot) { setTimeout(setWidgetLabel, 500); return; }
-    const p = widget.shadowRoot.querySelector('p');
-    if (!p) { setTimeout(setWidgetLabel, 500); return; }
-    p.textContent = 'Ask me about Signal content';
-    p.style.fontSize = '13px';
-  }
-  setTimeout(setWidgetLabel, 1000);
-</script>
+<!-- ElevenLabs Signal. Voice Agent -->
+<div style="position:fixed; bottom:20px; right:20px; z-index:9999;">
+  <div style="position:absolute; top:10px; right:75px; background:white; padding:6px 10px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.15); font-size:13px; font-weight:600; color:#333; white-space:nowrap; pointer-events:none;">Ask me about Signal content</div>
+  <elevenlabs-convai agent-id="agent_5301kkc9q2dqfyh98f5791dep1w4"></elevenlabs-convai>
+</div>
+<script src="https://elevenlabs.io/convai-widget/index.js" async type="text/javascript"></script>
 </body>
 </html>
