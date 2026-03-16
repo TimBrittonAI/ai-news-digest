@@ -1,0 +1,87 @@
+{
+  "top_stories": [
+    {
+      "title": "Nurturing agentic AI beyond the toddler stage",
+      "summary": "MIT Technology Review explores the development of agentic AI systems—AI that can act independently to accomplish goals—and strategies to ensure such agents are safely aligned with human values as they become increasingly autonomous. The article discusses new technical approaches and presents challenges for business and governance as more capable agentic systems enter industries.",
+      "url": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/"
+    },
+    {
+      "title": "The Download: glass chips and “AI-free” logos",
+      "summary": "MIT Technology Review's news roundup highlights the push for glass photonic chips to accelerate AI applications by consuming less power, as well as the emerging trend of 'AI-free' branding. Companies are now labeling products to appeal to consumers wary of AI, indicating how AI's presence is affecting business strategies and public perception.",
+      "url": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/"
+    },
+    {
+      "title": "Securing digital assets against future threats",
+      "summary": "MIT Technology Review examines strategies for protecting digital assets—including sensitive business and intellectual property—against future threats posed by advances in AI, such as sophisticated cyberattacks and data manipulation. The article discusses evolving best practices and their implications for organizations and legal frameworks.",
+      "url": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/"
+    },
+    {
+      "title": "ImportAI 449: LLMs training other LLMs; 72B distributed training run; computer vision is harder than generative text",
+      "summary": "ImportAI's latest newsletter details the trend of using large language models (LLMs) to train other LLMs, a milestone distributed training run at 72 billion parameters, and why computer vision remains more complicated for generative AI than text. This issue provides insight into current technical breakthroughs and their implications for AI businesses.",
+      "url": "https://importai.substack.com/p/importai-449-llms-training-other"
+    },
+    {
+      "title": "Market research is a $100 billion industry. AI will make it a trillion-dollar one.",
+      "summary": "A report covered by Google News investigates how AI is set to transform the market research sector from a $100 billion industry to a potential trillion-dollar market. The article examines AI-driven efficiencies, new business models, and changes in how companies collect and interpret customer data for competitive insights.",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdTFHTFJmN2R0c05FSEhMS1NKOTRCbDFpZHM3QU5FdWxfLTEzVk40TlNhd3E1X0l1MTl2SWZIRGEzQnd3bjBQcDA3RTNtMDk0T3A3em1WdTl5RWpvd1VJUXNUUjM2TjltTzNVdHlTVDBmMVA2ekZWWWhZcGJfSTB6Q0JjelRMWWVkdEJwRUFBQjlDUkozU01rT0tHSkFGNm0waU8tYUdVMWthUE1haUIxei1oS0s1U1ZRSm05Y0ktb2FYNFRIQmxpeU9ycG1yV1J3SXVhemdFSHI0N3JmR2xLTzBzRXc2b2tBUFHSAe8BQVVfeXFMUFJSRGhhM1NBMlFsbkRObUZXYzhNSzl1MmVSUGhwWkVmeWlGQjRLTnNhaWdfUkJuLTNRT3dFSmRkSy05UkpCT3dGRzRSdmJzMVZnY3Q0V0EwLU5xOEdhUTlyZk1ELVp5ZVBuQ1A1QXVIS3RFQUFveGtuWGliSC1WaVo2LU1DVUpoMWllZW1yT1hWSTZrSTFFXzIzb1ZMbGxPRldoblRZUGdQRHJ5ZzA2NmRiUjhCeS0tTFVYSTJ1bmVyenUtazdpbFFmN19sQTd6YzdjQUN2VzYwLXBuakc1amNrRzN3WWVwOGpDUWNlZkk?oc=5"
+    }
+  ],
+  "further_links": [
+    {
+      "title": "AI Digital Branding Agency Market Is Booming Worldwide",
+      "summary": "Report forecasts significant global growth in AI-powered digital branding agencies.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmlCa09RZnRYbkNHUW9aT28tcm5nRHJvaWxUa1Y4WHV3d1RtX195Sm14UDFJV1I5ZzRYWjFadEpvVzNHQ2paYnV4Yzl1U2lDUGlzX1lYREwxUlpmTkJROGcxRnp3Qi10Q0JncWhic2pnamVOSTl5Mk55UWM3dlk2cFBObEYwY0hxMVNZaGhDVmlIMGtrelJmRnZONlM?oc=5"
+    },
+    {
+      "title": "AI-Based Digital Pathology Solutions Market Commercial Landscape and Revenue Forecast 2026 to 2035",
+      "summary": "Report details commercial forecast and revenue projections for AI in digital pathology.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVmM0c2NXMXB6eTJjaHpfMG1Ba2EzemQzanhUclZGa0tTWjZVb2FJTTFnaVA4MWpERUdsWnI3V0R1VlBqNlhFXzRRX3p0YzhqZEhCNF8yYzhGcHA5Y3U0OWhpaU93dndKR3p4MHlaM2FnUWZHSjJjdEQ5emhqcVRMUTBOS0lrRzFkbTV4X0lRcXpoR1pw?oc=5"
+    },
+    {
+      "title": "AI-Enabled Smart Mirrors Global Market 2026-2032: Size Dynamics, Key Trends and Growth Trajectory Forecast",
+      "summary": "Global market analysis predicts major growth for AI-enabled smart mirrors.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd0tPRG1TV1J1TG1ab0RxNy1oQTUzcDUyQzlTNnlmRzl2MDRjNVM3NXdtQUVrRTNSMUp4Wl9WZU9lb2NMNlBYWUhhai14aVZoVGJyODJBSHZLMjdteGpSSGhueXp5YVBTdzFhaFYzV1ozbU0tTEdqcTZfTFJtZzhfUFVGdmVsQVlXU0lyMWJQMnlUTlU?oc=5"
+    },
+    {
+      "title": "AI in Oncology Market - Global Industry Analysis, Trends, Growth, and Forecast (2033)",
+      "summary": "Comprehensive industry analysis on the current and future impact of AI in oncology.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcXcyNTFpY0x5aXpXYzlEYjQtQ1FaMlhqUTljRTNTQWk5c0hwUzNaSHBmb2VBdjkzMkVIemVyUTFHclJzX296R0ctNXpxZmNlSU9IR0NTLTd4LXJad3RwM254YU5mMUo5UlZFdkJHWHNabFFQZkprTmtLWVd5cUEySmRVRjVlNFo0WnllNktyWXVUZlU?oc=5"
+    },
+    {
+      "title": "AI and Automation in IT Support Market Set for Explosive Growth",
+      "summary": "Analyst forecasts rapid expansion in AI and automation applications for IT support.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeDBRdEpNRTR1ZGR3c0lVVi00dDdUdjdjRzIyZ21qOXEwdjVhZlpyN2hJdFZVR09FQl9BbmlOcmNVTmg3STRJQ0RoeEEyY2kyWDg2MzdmN3BHVTdvU3Z5MDlYRzNUOUJBbzIwWXBuVTE5bFpKV0NIZU9OMVhtcjc0S3N2aHZXZGxvblJMc3MzaERMWG1sT3dhMURrazRzbEZF?oc=5"
+    },
+    {
+      "title": "Japan Physical AI Market to Experience Rapid Growth Amid Robotics Innovation and Industry 4.0 Investments",
+      "summary": "Report predicts a surge in Japan's physical AI market fueled by robotics and automation.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaS1BYl8xN2xXUm1JMk41ekRFc255SXpTN3Foc0pzMWd4UmNTVGpLYUZ5NVI0R1V6QldlUGI2R0h1cTRSdUVKWEhHQVdDeDFZT0RkbVljY2NBUHR3NzJIZ2dCN0FvTWtzRXlVaHBPZ2tRanM1RncteVNvNjVpNG1NZnQ5bXdwdkdOeWhRMEdiNGl0YmpHMFNz?oc=5"
+    },
+    {
+      "title": "Industry 5.0 Market - Global Industry Analysis, Trends, Growth, and Forecast",
+      "summary": "Study provides insights into ongoing trends and future growth of 'Industry 5.0' and AI integration.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTzJTRlVEcmM0LVhsOVdEUVhzSXAxeFJHeVhQZk9ualc5cE1URzVkLUZ3ZjBnaV9VS1lRd2tYWFlhWWdaRDZEQ1o2djcxOTREQjBJREhKVEQ0cDNYTmwtRWlPbXpiWmd3eDVRSm9fZzNxeUdqMDVJeWdXRTluM2p0YjNxZWNnMkhXQkpvZmc1UXZtcjlSbzMtVVlR?oc=5"
+    },
+    {
+      "title": "AI in Poultry Disease Identification Market Strategic Insights and Outlook 2026 to 2035",
+      "summary": "Analysis projects future trends and business opportunities for AI in poultry disease detection.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNEhIYXM2RTRCMDZSM3dzM21CdjVFd0NjZXpBQW5JeHAyZDJhOExyblpSQlZiM3ZQZUNSa08wMEFONGh3aUtfZjI1dzc1Si1YVzNwWk4yaW9NSkhVc3l3dmotRURHMjMwUlVKcEZibmJwSzZuajhNQ3UyOElzYUJVelFhc3otLXdwdWhjSkZMaWJtZTlpSHVGVnNxQTA5dDA?oc=5"
+    },
+    {
+      "title": "Physical AI Market Size to Reach USD 82.79 Billion by 2035 at 32.8% CAGR",
+      "summary": "Report forecasts strong long-term growth in the physical AI sector through 2035.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPXzZPMXB1Q2pKS1BHOGxZUjRqUWh4NnFIT2NLTUo0SExObEJmMFlCT0xqLUpmSE4zMDNrbzNDaVdqLUhSSWdNNE5GZTBsX3d0TlZQR2ZMR0czT1ZDTURQTXhyM0FiRDdoMm5zMWtJWjNldk1rWUJhT2QxRXI2TDVkZUtOaXJSa3hqRkxqemxmN2wxVUFUdFlNcFIyTjhrSWZiVUE?oc=5"
+    },
+    {
+      "title": "US Generative AI Market Size Worth $18.82 Billion by 2033, with a CAGR of 17.96%",
+      "summary": "Market report predicts rapid expansion and high compound annual growth for the US generative AI sector.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQm9WeldQWlhMcTQzaGJ3TWdoQm1YRld5cVphRlNaYU5Wb0Rsd0VlQTlsMFJpTmNtZFFwSXRwREoyeDRYWjVreG9ueEtvQU9XbDdMMVFkZjVlXzk4dGxMdnpGdjg3SHd2N0xoVDFlTG1sX21PZFV3a1NyZTJKVWkyaEloVmw0ZjRwRFNwcHNNQkVTMVdxNjA0ODVyVk1DZ0dpQVZGVjFNVQ?oc=5"
+    },
+    {
+      "title": "Content Intelligence Market Expected to Reach US$ 6,037.7",
+      "summary": "Content intelligence market is projected to reach over $6 billion, powered by AI-driven analytics.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZzZ4VUZDcng5enRfYlhpaVVPUE1QOFJXaDM3Zk5GQXJoa2o2RzgzTTc5VC01MlN5QWhkemhhek11cHk3UnctajdneWZZcVhBdGVZVEx0d3JPdjJhYTdxckViYWxRRXpIeHRVSjJnbjZsOTV0V1d2bVVnN0pyZmY3cVBhYXlvT0lBWTU2SUx2UWpyWWVYbHdj?oc=5"
+    }
+  ],
+  "ethan_mollick": null
+}
