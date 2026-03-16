@@ -886,5 +886,16 @@
   <!-- ElevenLabs Signal. Voice Agent -->
   <elevenlabs-convai agent-id="agent_5301kkc9q2dqfyh98f5791dep1w4" main-label="Ask me about Signal content"></elevenlabs-convai>
   <script src="https://elevenlabs.io/convai-widget/index.js" async type="text/javascript"></script>
+<script>
+  function setWidgetLabel() {
+    const widget = document.querySelector('elevenlabs-convai');
+    if (!widget || !widget.shadowRoot) { setTimeout(setWidgetLabel, 500); return; }
+    const p = widget.shadowRoot.querySelector('p');
+    if (!p) { setTimeout(setWidgetLabel, 500); return; }
+    p.textContent = 'Ask me about Signal content';
+    p.style.fontSize = '13px';
+  }
+  setTimeout(setWidgetLabel, 1000);
+</script>
 </body>
 </html>
