@@ -1,0 +1,81 @@
+{
+  "top_stories": [
+    {
+      "title": "Nurturing agentic AI beyond the toddler stage",
+      "summary": "MIT Technology Review explores the advancement of agentic AI systems designed to operate with greater autonomy, reflecting a potential shift in how AI might handle complex, long-horizon tasks in various industries. This marks an important phase in applied AI, potentially impacting multiple business sectors.",
+      "url": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/"
+    },
+    {
+      "title": "Why I may ‘hire’ AI instead of a graduate student",
+      "summary": "A Science article examines the increasing capabilities of AI to perform sophisticated academic and research tasks, raising questions about future roles of human researchers versus AI in academia and industry settings. The story highlights a significant trend towards automation in intellectual labor.",
+      "url": "https://www.science.org/content/article/why-i-may-hire-ai-instead-graduate-student"
+    },
+    {
+      "title": "Market research is a $100 billion industry. AI will make it a trillion-dollar one.",
+      "summary": "Business Insider reports on how AI is revolutionizing market research, accelerating data analysis and insights generation, and predicts exponential growth from $100 billion to a trillion-dollar industry. The adoption of AI-driven methodologies could reshape business intelligence and strategy.",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWE5VWUg0ZERhTVRna196NVczUnVmdU5BdHpHYkQ4aHpucWY5cUpBd3UzRUFFNEcydEt6cE5SQ1NGVXJ2ZHkwNXItY1VFTlotQk4tZklXaTlEek1qWENUOFpoXzU1eVFBSDUycVhXUjdzb3M2cDBqUEFMalRfZkZNNFpVLXNiYmF2clZqOVZnNXJrbEFYY3d1Zzdfb3lLVlBWRWhBQV9rUUNJQzJySlJBN0FWZUlJcjdyNUZaWF9WVmlYNXpFSXF0dmU0anRzS3F2bmZvRTdIWTF4MG5xR0xqQUFVckJ4a0HSAewBQVVfeXFMT3I1bThHcUY4UDJWbzM5a0hqUG9kNjc4aWQxXzZpM2duV1ZtU2ZuMkMtZllJcklCTG9rcXlYWWhiMjNpcDE2NU1YSklnLXQ0c3QwQlJaV01DaDI5UEJHOTdoVTRETUxiVmJWTGd5MW5WQ3BneFVia1ExVkNmbXFmWGtrbzlRWE9kUXFqVUVUZzNYdlJxd3MtcTRfbU9qUFhOWWFhNTFMeXFqcVdHWXcwcVpWdjk0ZzlGUTNVY3NrUGdkYzlEcUpXTmZtOURrMm5tSGVmbnFaV193cnEyVHl3anNVREx0Z05Ua05GQ3E?oc=5"
+    },
+    {
+      "title": "The Download: glass chips and “AI-free” logos",
+      "summary": "MIT Technology Review covers two key trends: advances in glass AI chips, which could transform AI hardware, and the emergence of 'AI-free' labels as a response to consumer concerns. Both developments may impact the AI business landscape and global supply chains.",
+      "url": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/"
+    },
+    {
+      "title": "ImportAI 449: LLMs training other LLMs; 72B distributed training run; computer vision is harder than generative text",
+      "summary": "The ImportAI newsletter discusses the trend of LLMs autonomously training other LLMs, a noteworthy milestone in self-improving AI systems; it also details a large-scale, 72-billion parameter AI training run, and reflects on the unique challenges in computer vision compared to text generation tasks.",
+      "url": "https://importai.substack.com/p/importai-449-llms-training-other"
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Securing digital assets against future threats",
+      "summary": "MIT Technology Review analyzes new strategies for securing digital assets as AI-driven attacks and threats evolve.",
+      "url": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/"
+    },
+    {
+      "title": "Scientists built the hardest AI test ever and the results are surprising",
+      "summary": "Researchers reveal a new benchmark for AI systems to measure progress and limitations in reasoning and problem-solving.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rux2rh/scientists_built_the_hardest_ai_test_ever_and_the/"
+    },
+    {
+      "title": "Agentic pipeline that builds complete Godot games from a text prompt",
+      "summary": "A new agentic AI pipeline demonstrates automatic generation of full-featured Godot games from text prompts, showing advances in AI creativity and content generation.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rvdzdr/agentic_pipeline_that_builds_complete_godot_games/"
+    },
+    {
+      "title": "‘Pokémon Go’ players unknowingly trained delivery robots with 30 billion images",
+      "summary": "Reports emerge that delivery robots used data from Pokémon Go players to improve computer vision, raising questions about data ownership and consent.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rva72t/pokémon_go_players_unknowingly_trained_delivery/"
+    },
+    {
+      "title": "ChatGPT ads still exclusive to the United States, OpenAI says no to global rollout just yet",
+      "summary": "OpenAI confirms that ChatGPT ads remain a US-only feature, with no immediate plans for international expansion.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rv69kf/chatgpt_ads_still_exclusive_to_the_united_states/"
+    },
+    {
+      "title": "AI Eats The World, And Most Of Its Flash Storage",
+      "summary": "Discussion highlights how AI applications are rapidly consuming available flash storage resources, affecting infrastructure and supply chains.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rv6sf8/ai_eats_the_world_and_most_of_its_flash_storage/"
+    },
+    {
+      "title": "Unified Design to access any LLMs",
+      "summary": "A proposal showcases a unified API and UX design for seamless interaction with any large language model (LLM), aiding development and deployment.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rvcbg1/unified_design_to_access_any_llms/"
+    },
+    {
+      "title": "WiFi-DensePose: AI Can Track Body Positions Through Walls",
+      "summary": "Researchers introduce WiFi-DensePose, a technique for tracking body positions through walls using AI and WiFi signals, signaling potential for privacy concerns and security applications.",
+      "url": "https://www.reddit.com/r/artificial/comments/1ruzmks/wifidensepose_ai_can_track_body_positions_through/"
+    },
+    {
+      "title": "Kimi introduce Attention Residuals: replaces fixed residual connections with softmax attention",
+      "summary": "A new LLM architecture innovation replaces traditional residual connections with softmax attention, purportedly improving performance.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rv7k29/kimi_introduce_attention_residuals_replaces_fixed/"
+    },
+    {
+      "title": "AI Digital Branding Agency Market Is Booming Worldwide",
+      "summary": "Market projections signal rapid expansion of AI-driven digital branding and marketing agencies globally.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmlCa09RZnRYbkNHUW9aT28tcm5nRHJvaWxUa1Y4WHV3d1RtX195Sm14UDFJV1I5ZzRYWjFadEpvVzNHQ2paYnV4Yzl1U2lDUGlzX1lYREwxUlpmTkJROGcxRnp3Qi10Q0JncWhic2pnamVOSTl5Mk55UWM3dlk2cFBObEYwY0hxMVNZaGhDVmlIMGtrelJmRnZONlM?oc=5"
+    }
+  ]
+}
