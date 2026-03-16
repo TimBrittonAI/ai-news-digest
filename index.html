@@ -821,46 +821,29 @@
                 '<div class="loading-state"><span class="big">Empty digest.</span><p>No stories were returned in the last run.</p></div>';
 
             // Load One Useful Thing into its placeholder (section 02)
-            loadOneUsefulThing();
+            loadOneUsefulThing(data);
         }
 
         async function loadOneUsefulThing() {
-            const placeholder = document.getElementById('one-useful-thing-placeholder');
+const placeholder = document.getElementById('one-useful-thing-placeholder');
             if (!placeholder) return;
-
-            const rssUrl = 'https://www.oneusefulthing.org/feed';
-            const proxyUrl = `https://corsproxy.io/?url=${encodeURIComponent(rssUrl)}`;
-            try {
-                const res = await fetch(proxyUrl);
-                if (!res.ok) throw new Error('fetch failed');
-                const text = await res.text();
-                const parser = new DOMParser();
-                const xml = parser.parseFromString(text, 'text/xml');
-                const item = xml.querySelector('item');
-                if (!item) throw new Error('no items');
-                const title = item.querySelector('title')?.textContent || '';
-                const link = item.querySelector('link')?.textContent || '';
-                const descRaw = item.querySelector('description')?.textContent || '';
-                const tmp = document.createElement('div');
-                tmp.innerHTML = descRaw;
-                const desc = tmp.textContent?.trim().substring(0, 200) || '';
-
+            const em = digestData.ethan_mollick;
+            if (!em || !em.title) {
                 placeholder.innerHTML = `
-                    <hr class="rule">
-                    <div class="section-header">
-                        <div class="section-number">02</div>
-                        <div>
-                            <div class="section-label">One Useful Thing</div>
-                            <div class="section-title">Latest from Ethan Mollick</div>
-                        </div>
+                <hr class="rule">
+                <div class="section-header">
+                    <div class="section-number">02</div>
+                    <div>
+                        <div class="section-label">One Useful Thing</div>
+                        <div class="section-title">Latest from Ethan Mollick</div>
                     </div>
-                    <div class="story-card">
-                        <div class="story-title">${title}</div>
-                        <div class="story-source">oneusefulthing.org</div>
-                        ${desc ? `<div class="story-summary">${desc}&#x2026;</div>` : ''}
-                        ${link ? `<a href="${link}" target="_blank" rel="noopener" class="story-link">Read on Substack &#x2192;</a>` : ''}
-                    </div>`;
-            } catch(e) {
+                </div>
+                <div class="story-card">
+                    <div class="story-title">No post available today</div>
+                    <div class="story-source">oneusefulthing.org</div>
+                </div>`;
+                return;
+            }
             placeholder.innerHTML = `
                 <hr class="rule">
                 <div class="section-header">
@@ -871,10 +854,10 @@
                     </div>
                 </div>
                 <div class="story-card">
-                    <div class="story-title">Feed temporarily unavailable</div>
-                    <div class="story-source">oneusefulthing.org</div>
-                    <div class="story-summary">Check back shortly — the latest post from Ethan Mollick will appear here when the feed loads.</div>
-                    <a href="https://www.oneusefulthing.org" target="_blank" rel="noopener" class="story-link">Visit site &#x2192;</a>
+                    <div class="story-title">${em.title}</div>
+                    <div class="story-source">oneusefulthing.substack.com</div>
+                    <div class="story-summary">${em.summary}</div>
+                    <a href="${em.url}" target="_blank" rel="noopener" class="story-link">Read on Substack &#8594;</a>
                 </div>`;
         }
         }
