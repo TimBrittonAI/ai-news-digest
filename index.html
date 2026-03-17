@@ -96,8 +96,16 @@
             white-space: nowrap;
         }
 
-        .past-issues-btn:hover { color: var(--accent); border-color: var(--accent); }
-        .past-issues-btn.active { color: var(--accent); border-color: var(--accent); background: rgba(200, 67, 42, 0.05); }
+        .past-issues-btn:hover {
+            color: var(--accent);
+            border-color: var(--accent);
+        }
+
+        .past-issues-btn.active {
+            color: var(--accent);
+            border-color: var(--accent);
+            background: rgba(200, 67, 42, 0.05);
+        }
 
         .past-issues-panel {
             display: none;
@@ -116,7 +124,10 @@
 
         .past-issues-panel.open { display: block; }
 
-        .past-issues-header { padding: 12px 16px; border-bottom: 1px solid var(--rule); }
+        .past-issues-header {
+            padding: 12px 16px;
+            border-bottom: 1px solid var(--rule);
+        }
 
         .past-issues-header-label {
             font-family: 'DM Mono', monospace;
@@ -152,8 +163,16 @@
             transition: background 0.1s, border-color 0.1s;
         }
 
-        .past-issue-item:hover { background: #faf9f7; border-left-color: var(--accent); }
-        .past-issue-item.current { border-left-color: var(--accent); color: var(--accent); font-weight: 400; }
+        .past-issue-item:hover {
+            background: #faf9f7;
+            border-left-color: var(--accent);
+        }
+
+        .past-issue-item.current {
+            border-left-color: var(--accent);
+            color: var(--accent);
+            font-weight: 400;
+        }
 
         .past-issues-empty {
             padding: 16px;
@@ -164,7 +183,14 @@
             letter-spacing: 0.1em;
         }
 
-        .past-issue-banner { display: none; background: var(--ink); color: var(--paper); padding: 8px 40px; text-align: center; }
+        .past-issue-banner {
+            display: none;
+            background: var(--ink);
+            color: var(--paper);
+            padding: 8px 40px;
+            text-align: center;
+        }
+
         .past-issue-banner.visible { display: block; }
 
         .past-issue-banner-inner {
@@ -647,8 +673,10 @@
         async function loadIssue(dateStr) {
             document.getElementById('past-issues-panel').classList.remove('open');
             document.getElementById('past-issues-btn').classList.remove('active');
+
             currentDateStr = dateStr;
             const today = todayStr();
+
             const banner = document.getElementById('past-issue-banner');
             if (dateStr === today) {
                 banner.classList.remove('visible');
@@ -656,11 +684,13 @@
                 document.getElementById('past-issue-banner-date').textContent = formatDate(dateStr);
                 banner.classList.add('visible');
             }
+
             document.getElementById('main-content').innerHTML = `
                 <div class="loading-state">
                     <span class="big">Loading&#x2026;</span>
                     <p>Fetching edition from ${formatDate(dateStr)}.</p>
                 </div>`;
+
             try {
                 const res = await fetch(`digest-${dateStr}.json?v=` + Date.now());
                 if (!res.ok) throw new Error('not found');
@@ -674,7 +704,9 @@
             }
         }
 
-        function loadToday() { loadIssue(todayStr()); }
+        function loadToday() {
+            loadIssue(todayStr());
+        }
 
         function getDomain(url) {
             try { return new URL(url).hostname.replace(/^www\./, ''); }
@@ -718,6 +750,7 @@
                 .replace(/^(\d+)\.\s+(.+)$/gm, (_, n, t) => `<div class="story-number">Story ${String(n).padStart(2,'0')}</div><div class="story-title">${t}</div>`)
                 .replace(/### (.*)/g, '<h3 style="font-family:\'Playfair Display\',serif;margin:32px 0 16px;font-size:1.3rem;font-weight:900;">$1</h3>')
                 .replace(/\n\n/g, '</p><p style="margin-bottom:12px;">');
+
             document.getElementById('main-content').innerHTML = `
                 <div class="section-header">
                     <div>
@@ -729,6 +762,9 @@
                     <div class="raw-content"><p style="margin-bottom:12px;">${html}</p></div>
                 </div>`;
         }
+
+        // localStorage key for caching the last known good Ethan Mollick post
+        const EM_CACHE_KEY = 'signal_ethan_mollick_cache';
 
         function renderDigest(data, dateStr) {
             const isToday = dateStr === todayStr();
@@ -756,8 +792,21 @@
                 });
             }
 
-            // SECTION 02: One Useful Thing — from digest JSON ethan_mollick field
-            const em = data.ethan_mollick;
+            // SECTION 02: One Useful Thing — Ethan Mollick
+            // Use today's digest JSON if available, otherwise fall back to localStorage cache
+            let em = (data.ethan_mollick && data.ethan_mollick.title) ? data.ethan_mollick : null;
+
+            if (em) {
+                // Save to cache for future fallback
+                try { localStorage.setItem(EM_CACHE_KEY, JSON.stringify(em)); } catch(e) {}
+            } else {
+                // Try to load from cache
+                try {
+                    const cached = localStorage.getItem(EM_CACHE_KEY);
+                    if (cached) em = JSON.parse(cached);
+                } catch(e) {}
+            }
+
             if (em && em.title) {
                 html += `<hr class="rule">
                 <div class="section-header">
@@ -779,7 +828,7 @@
             if (data.further_links && data.further_links.length) {
                 html += `<hr class="rule">
                 <div class="section-header">
-                    <div class="section-number">${em && em.title ? '03' : '02'}</div>
+                    <div class="section-number">03</div>
                     <div>
                         <div class="section-label">Also Worth Knowing</div>
                         <div class="section-title">Ten more links from the feed</div>
@@ -807,11 +856,11 @@
         loadDigest();
     </script>
 
-    <!-- ElevenLabs Signal. Voice Agent -->
-    <div style="position:fixed; bottom:20px; right:20px; z-index:9999;">
-        <div style="position:absolute; top:10px; right:75px; background:white; padding:6px 10px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.15); font-size:13px; font-weight:600; color:#333; white-space:nowrap; pointer-events:none;">Ask me about Signal content</div>
-        <elevenlabs-convai agent-id="agent_5301kkc9q2dqfyh98f5791dep1w4"></elevenlabs-convai>
-    </div>
-    <script src="https://elevenlabs.io/convai-widget/index.js" async type="text/javascript"></script>
+<!-- ElevenLabs Signal. Voice Agent -->
+<div style="position:fixed; bottom:20px; right:20px; z-index:9999;">
+  <div style="position:absolute; top:10px; right:75px; background:white; padding:6px 10px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.15); font-size:13px; font-weight:600; color:#333; white-space:nowrap; pointer-events:none;">Ask me about Signal content</div>
+  <elevenlabs-convai agent-id="agent_5301kkc9q2dqfyh98f5791dep1w4"></elevenlabs-convai>
+</div>
+<script src="https://elevenlabs.io/convai-widget/index.js" async type="text/javascript"></script>
 </body>
 </html>
