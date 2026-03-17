@@ -1,0 +1,87 @@
+{
+  "top_stories": [
+    {
+      "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
+      "summary": "Nvidia introduced the Vera CPU at its NVIDIA GTC event, designed specifically for agentic AI, which refers to AI systems capable of goal-directed behaviors like planning and decision making. This development signals a shift toward hardware optimized for next-generation AI agents, potentially accelerating AI capabilities in enterprise applications.",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai"
+    },
+    {
+      "title": "Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI",
+      "summary": "Microsoft announced multiple new AI infrastructure and partnership initiatives at NVIDIA GTC, including enhancements to Microsoft Foundry, strengthened Azure AI infrastructure, and joint efforts on 'Physical AI'. These initiatives aim to support large-scale AI product development and deployment in business environments.",
+      "url": "https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/"
+    },
+    {
+      "title": "Teens sue Musk's xAI over Grok's pornographic images of them",
+      "summary": "A group of teenagers is suing Musk’s xAI, alleging that its AI model Grok generated and disseminated pornographic images of them using their photos. The lawsuit raises significant legal questions about intellectual property, privacy, and liability for AI-generated content.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QenNyNFJST1pjNnY5dWdHWU1zWXdzdC11ZlZMcWFJVWlHRlFlRWx3ekpVa3VGNjd2S3V2SlE0REJKTE9yYTlHYmpSZmNtRmpKVzRBa0h3aTdZdw?oc=5"
+    },
+    {
+      "title": "Where OpenAI’s technology could show up in Iran",
+      "summary": "MIT Technology Review examines the presence of OpenAI’s technology in Iran, despite U.S. export controls that formally restrict such tools. The report explores possible channels, the impact on business and society, and the broader implications for AI export regulation and compliance.",
+      "url": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/"
+    },
+    {
+      "title": "Nurturing agentic AI beyond the toddler stage",
+      "summary": "MIT Technology Review discusses recent research and strategies for advancing agentic AI systems—those that can operate autonomously with goals and adapt to real-world environments. The article delves into how refinements in agentic AI could transform business automation, robotics, and the regulatory considerations that come with more independent AI agents.",
+      "url": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/"
+    }
+  ],
+  "further_links": [
+    {
+      "title": "ImportAI 449: LLMs training other LLMs; 72B distributed training run; computer vision is harder than generative text",
+      "summary": "ImportAI newsletter covers trends including LLMs being used to train other LLMs, and the comparative challenges in computer vision versus text generation.",
+      "url": "https://importai.substack.com/p/importai-449-llms-training-other"
+    },
+    {
+      "title": "The Download: glass chips and “AI-free” logos",
+      "summary": "MIT Technology Review's The Download highlights advances in glass AI chips and discusses 'AI-free' labeling trends for consumer products.",
+      "url": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/"
+    },
+    {
+      "title": "Securing digital assets against future threats",
+      "summary": "MIT Technology Review explores the role of AI in securing digital assets and preparing for emerging security threats.",
+      "url": "https://www.technologyreview.com/2026/03/16/1134287/securing-digital-assets-against-future-threats/"
+    },
+    {
+      "title": "Ipsos shows why trust is the ultimate differentiator in the AI era",
+      "summary": "Ipsos research highlights the importance of trust as a key differentiator for companies adopting AI technologies.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNl9TRlBteEdzX1RYd2tNNGVFRUtsY0N6OUZSVGx3WkJjWTJXZ095dzA1ak1mX29RUGpPakctOTgyMzZmZG5ud2ZhYTJaSDBpNmg5Y1hWRUxldUJETEdZR2JQUlhSWURidm5CLXoxVUk3bTRfd2N2cmd4bWdwWjQ2d1FKU0h6WFk?oc=5"
+    },
+    {
+      "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
+      "summary": "Apideck introduces a CLI for AI agent workflows, promising significant improvements in context window management.",
+      "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative"
+    },
+    {
+      "title": "Do You Use AI Moderators For Customer Research? I’d Love To Hear From You",
+      "summary": "Article examines the use of AI moderators in customer research and seeks insights from businesses using these solutions.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdEExcjkzNG53WGEwTFFxMlFiX2t4RjZZekNUcjVLSGZKbkoxRlBFSEFPSWJlSnk5T3lZV3FUR1YwSVBobkhKbGYwOEZ2RnJmdFpXZml3RnhvLThlMnRzTlMyeGwxRHhUY3Q1eUd1VHhTbjBnTmhObDJibTJfUUZaRjNvQ3lmMDM0ZTUyemI5NzFJR2hYdnlubXA4OG12X2RsSWNUdkZzdw?oc=5"
+    },
+    {
+      "title": "Agentic pipeline that builds complete Godot games from a text prompt",
+      "summary": "A Reddit post links to a project that uses agentic AI to generate full Godot games based on a single text prompt.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rvdzdr/agentic_pipeline_that_builds_complete_godot_games/"
+    },
+    {
+      "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
+      "summary": "arXiv paper investigates how developers use Cursor AI tools in open source projects, finding a tradeoff between code generation speed and quality.",
+      "url": "https://arxiv.org/abs/2511.04427"
+    },
+    {
+      "title": "Unified Design to access any LLMs",
+      "summary": "A Reddit post presents a proposal for unified design interfaces to access and interact with multiple large language models.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rvcbg1/unified_design_to_access_any_llms/"
+    },
+    {
+      "title": "Pokémon Go players unknowingly trained delivery robots with 30 billion images",
+      "summary": "A Reddit post discusses how images from Pokémon Go players were used to train delivery robot AI.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rva72t/pokémon_go_players_unknowingly_trained_delivery/"
+    },
+    {
+      "title": "Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps",
+      "summary": "Voygr launches a new maps API tailored for use with AI applications and agents, aiming to ease data integration for developers.",
+      "url": "https://news.ycombinator.com/item?id=47401042"
+    }
+  ],
+  "ethan_mollick": null
+}
