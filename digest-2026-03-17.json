@@ -1,0 +1,87 @@
+{
+  "top_stories": [
+    {
+      "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
+      "summary": "Nvidia announced the launch of its Vera CPU, a processor specifically designed to handle agentic AI workloads. This marks a significant step towards developing hardware optimized for autonomous AI agents, which could accelerate enterprise adoption and the development of new AI-powered services.",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai"
+    },
+    {
+      "title": "Microsoft at NVIDIA GTC: New solutions for Microsoft Foundry, Azure AI infrastructure and Physical AI",
+      "summary": "At NVIDIA GTC, Microsoft unveiled new AI solutions including enhanced Foundry services for model development and major updates to Azure AI infrastructure. These advances aim to streamline the deployment and management of AI at scale, bolstering Microsoft’s enterprise AI offerings.",
+      "url": "https://blogs.microsoft.com/blog/2026/03/16/microsoft-at-nvidia-gtc-new-solutions-for-microsoft-foundry-azure-ai-infrastructure-and-physical-ai/"
+    },
+    {
+      "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
+      "summary": "MIT Technology Review reports on OpenAI's contract with the US military, signifying deeper integration of advanced AI in defense. Additionally, Elon Musk’s xAI faces a lawsuit over Grok's alleged generation of pornographic images of minors, highlighting intensifying scrutiny over LLM content controls and legal accountability.",
+      "url": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/"
+    },
+    {
+      "title": "Teens sue Musk's xAI over Grok's pornographic images of them",
+      "summary": "A group of teenagers has filed a lawsuit against Elon Musk’s xAI, alleging that the Grok AI model created and propagated pornographic images featuring them. This high-profile case raises critical questions for AI companies regarding content moderation, legal risks, and the effectiveness of current safeguards.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QenNyNFJST1pjNnY5dWdHWU1zWXdzdC11ZlZMcWFJVWlHRlFlRWx3ekpVa3VGNjd2S3V2SlE0REJKTE9yYTlHYmpSZmNtRmpKVzRBa0h3aTdZdw?oc=5"
+    },
+    {
+      "title": "The Dictionary Sues OpenAI Over AI Training Data",
+      "summary": "A dictionary publisher has filed a lawsuit against OpenAI, claiming its content was used without permission for training OpenAI’s language models. This lawsuit is the latest in a growing trend of copyright and intellectual property disputes as publishers and IP owners challenge leading AI firms’ data sourcing practices.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rvymn4/the_dictionary_sues_openai_over_ai_training_data/"
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Where OpenAI’s technology could show up in Iran",
+      "summary": "MIT Technology Review examines potential applications and risks of OpenAI's technology appearing in regions under US sanctions, raising concerns about export controls and geopolitical consequences.",
+      "url": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/"
+    },
+    {
+      "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
+      "summary": "arXiv paper analyzes how using Cursor AI accelerates coding but may negatively impact software quality in open source projects.",
+      "url": "https://arxiv.org/abs/2511.04427"
+    },
+    {
+      "title": "TDWI Blueprint Report | Building Agentic and Generative AI: Enterprise Data Foundations and Applications",
+      "summary": "TDWI releases a report outlining foundational steps and enterprise strategies for implementing agentic and generative AI systems.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVUYxRUlBVXNudFh4SVZ6b0hoejgwUmJnaTQyMjZTYllFS2FxVEtjUHJrY3FKb3NVQzI3UjNSb0RnYVIySGZCY1RuSS10S0pZbFYtMlRUWlhwQ0xxQnlkdTZMQkRzRHdGQUhOaV9vUW5pRGJDcG8wTTRBc1RfbGswU0hVQktMb2pqU2Y0MXVkRG90TjZad3VERVRtUmszZ3RMV255Rm13?oc=5"
+    },
+    {
+      "title": "Agentic pipeline that builds complete Godot games from a text prompt",
+      "summary": "Reddit post links to an AI pipeline capable of generating fully functional Godot game projects from simple text instructions.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rvdzdr/agentic_pipeline_that_builds_complete_godot_games/"
+    },
+    {
+      "title": "Artificial Intelligence in BFSI Market Is Going to Boom Rapidly |• IBM • Microsoft",
+      "summary": "Industry report forecasts rapid adoption and growth of AI technologies in banking and financial services, naming IBM and Microsoft as leading players.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZlRScGFOVTJmY2pxV2theEhSTXRLXzZYUE9NRDQxYUk3ZnpFTHZpZm1taFJhYWtqWk9ZVzN6RTFmUVdHTWIyLXdzekNDRm1PZkVkSmcxNXRtcGZlc0ZadVpibFlBaURvdHBuODg3SXBLY1ZEV3U4V0JVd3d3WElqQjVOZE1WMjJsY242YWlXREZWbHVubUdmZkh6ZlZQejBx?oc=5"
+    },
+    {
+      "title": "Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps",
+      "summary": "Startup Voygr, a Y Combinator company, launches new maps API specifically designed for agentic AI and app integrations, aiming to improve data access and mapping capabilities for AI applications.",
+      "url": "https://news.ycombinator.com/item?id=47401042"
+    },
+    {
+      "title": "Digimeter study finds sharp increase in AI adoption in Flanders",
+      "summary": "A recent Digimeter study shows a steep rise in the adoption of AI solutions across Flanders, highlighting accelerating digital transformation in the region.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYk14Q0MzRDZrTEpXWUl3SVlzZ1NIc3NrMjQ1UHAzb19wcXRPaUNabVlwWTFSaGwyLXNIX1Nsa2pybDRmYllTUEVTZGFybU1jb1diX3pCcmdXTks3VnM1eER4UUM3TXRSY3RiSHBmQWlxNlo3OWotckpyTFlpcXV2cWJaX0RPQzFsd182alROQnR1NXJqV3pHMkpRR1VzcFVOQTROZ0d2dGRKQQ?oc=5"
+    },
+    {
+      "title": "AI still doesn't work well, businesses are faking it, and a reckoning is coming",
+      "summary": "The Register reports on the persistent shortcomings of current AI systems and warns that many businesses are overstating their AI capabilities, suggesting a market correction or 'reckoning' may be imminent.",
+      "url": "https://www.theregister.com/2026/03/17/ai_businesses_faking_it_reckoning_coming_codestrap/"
+    },
+    {
+      "title": "mlx-tune – Fine-tune LLMs on Apple Silicon with MLX (SFT, DPO, GRPO, VLM)",
+      "summary": "Technical announcement on Reddit showcases mlx-tune, a tool for fine-tuning large language models directly on Apple Silicon using Apple's MLX framework.",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rw58ku/p_mlxtune_finetune_llms_on_apple_silicon_with_mlx/"
+    },
+    {
+      "title": "Releasing a professional MQM-annotated MT dataset (16 lang pairs, 48 annotators)",
+      "summary": "A Reddit-linked dataset provides multi-language, MQM-annotated machine translation resources for research.",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rw3a3j/d_releasing_a_professional_mqmannotated_mt/"
+    },
+    {
+      "title": "Polymarket AI Bets: What Traders Predict",
+      "summary": "News article surveys AI-related prediction markets on Polymarket to analyze what traders expect regarding AI trends and breakthroughs.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY3BjeGhNdi1JMTY4bkNGMG1VVjFDTGFiSE9lWmFGZTZldDBSb3VjS0MzN1dtOTVSb3hidkEtRFJ4YUk5ZWVrMWp4TmNFOVNybTJtLXBlM202YzdEanhrb1l5YnpEd1hHR3NwWHNtbHAya2poWWJrb0pjNHI0bWJINE5tajk0U25QMDh3bzhFcHBpZU1MQ2VrbXFR?oc=5"
+    }
+  ],
+  "ethan_mollick": null
+}
