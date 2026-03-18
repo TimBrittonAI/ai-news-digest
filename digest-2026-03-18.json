@@ -1,0 +1,92 @@
+{
+  "top_stories": [
+    {
+      "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
+      "summary": "A senior U.S. defense official confirmed that the Pentagon is making plans for AI companies to train large language models and other systems using classified data. This major step could accelerate the development of advanced military AI but raises concerns over safeguarding national security and data privacy.",
+      "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/"
+    },
+    {
+      "title": "Mistral AI Releases Forge",
+      "summary": "Mistral AI has launched Forge, a new platform designed to streamline the integration and use of its large language models for enterprise and business solutions. Forge aims to compete with existing cloud AI providers by offering scalable, customizable AI infrastructure.",
+      "url": "https://mistral.ai/news/forge"
+    },
+    {
+      "title": "Ranking Engineer Agent (REA): The Autonomous AI Agent Accelerating Meta’s Ads Ranking Innovation",
+      "summary": "Meta introduced the Ranking Engineer Agent (REA), an autonomous AI system focused on accelerating improvements to its advertising ranking models. By automating experimentation and optimization, REA advances Meta's reliance on AI-driven ad technologies for higher business efficiency.",
+      "url": "https://engineering.fb.com/2026/03/17/developer-tools/ranking-engineer-agent-rea-autonomous-ai-system-accelerating-meta-ads-ranking-innovation/"
+    },
+    {
+      "title": "Now everyone in the US is getting Google’s personalized Gemini AI",
+      "summary": "Google is expanding access to its Gemini AI features for all users in the U.S., making personalized AI assistants and tools widely available. This move underscores Google's push to integrate AI into everyday digital experiences for millions of customers.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/896107/google-expands-personal-intelligence"
+    },
+    {
+      "title": "Announcing Copilot leadership update",
+      "summary": "Microsoft announced changes in the leadership of its Copilot AI team, appointing a new head amid efforts to bolster its consumer and commercial AI offerings. The change follows significant investments and strategic pivots to cement Microsoft’s role as a leader in enterprise generative AI.",
+      "url": "https://blogs.microsoft.com/blog/2026/03/17/announcing-copilot-leadership-update/"
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
+      "summary": "The U.S. Justice Department argued that Anthropic's technology is not trusted for military warfighting applications amid legal challenges.",
+      "url": "https://www.wired.com/story/department-of-defense-responds-to-anthropic-lawsuit/"
+    },
+    {
+      "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
+      "summary": "MIT Technology Review reports on OpenAI's contract with the U.S. military and legal issues surrounding Grok's handling of illicit content.",
+      "url": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/"
+    },
+    {
+      "title": "Nvidia unveils AI infrastructure spanning chips to space computing",
+      "summary": "Nvidia announced a comprehensive suite of AI infrastructure solutions, including hardware and software spanning from earth to orbital computing.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rw8rz6/nvidia_unveils_ai_infrastructure_spanning_chips/"
+    },
+    {
+      "title": "GenAI gains ground in M&A, but post-deal adoption lags",
+      "summary": "Recent research finds that while generative AI is increasingly considered in mergers and acquisitions, real-world adoption post-acquisition often trails initial expectations.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaGp2Ry1aWE41Tms4LVdNZHZtUURERjJKUlFqQlBVcGNaRzBKd0VidS11aFp3Z2hvWmFEbDhiWEVMdElTMGJnMDFnZVhzTDQ1TmU2MlF6bFVnVG1XbFlCR1ViN0tVdEw4eER2SnpmNmljR0pxY3E5RThRLXNQZDl5LWpKazV3bXJKSHltY2ZHeTJ6RTRRZGxmNVJR?oc=5"
+    },
+    {
+      "title": "Nvidia’s DLSS 5 is like motion smoothing for video games, but worse",
+      "summary": "The Verge examines Nvidia's DLSS 5, noting its aggressive AI frame generation can create undesirable visual effects, likened to TV 'soap opera' smoothing.",
+      "url": "https://www.theverge.com/entertainment/896213/nvidia-dlss-5-ai-faces-motion-smoothing"
+    },
+    {
+      "title": "Accenture and Databricks Accelerate Enterprise Adoption of AI Applications and Agents at Scale",
+      "summary": "Accenture has partnered with Databricks to help enterprises deploy AI applications and agents quickly and at large scale.",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaDFtUkZDUE1IWURjOUNXRGVEeEpLZm9FcVVXbWtkMzFzNzJybmpkUWc3UlZLTHFlZWdWbDZwWGhFWVI5SFUzVkI4dzVEX2x2Z09ERlctb3RtREltMEJqMkt0NXVlOUE2Y2ZmU3B0eHd1dUtTQ19iRGNBWWFJeGE3MmtsUDVkV1o1VmViak15TVVmRWZld0t3ZmlJM2ZIRlBqQkZtb0lyMGtiMDRUNE1EZHNSOUR3TlF6Q18tT29hajdZaXRYdFJkaDFfUlhPbzh2VjBsX21nc2tGVk4teVJXbDhMQ2JUZw?oc=5"
+    },
+    {
+      "title": "AI Job Loss Research Ignores How AI Is Utterly Destroying the Internet",
+      "summary": "New research suggests that much of the impact of AI on the labor market and the broader internet may be underestimated.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbjZDUDd5VmNGUVFNaTYwdElkcjZYc1dBZE0zVkhuMlJ0ZXp6MWtfaG4xMUJrZDVUeU9WWWlRNFA0Tmc5Mng5TWljbjhPN25kazNHNE1waUViMnNnMUFTeEo3RHVNYjFZSU5UWnQyUUpjaF82VUJYQ0NPVjluVVJUaWpxU0J1b0tJeVNRcjc4OGgwd0JYcVg2WHo4SQ?oc=5"
+    },
+    {
+      "title": "Recon Analytics Acquires Atom Insights, Expanding Global Device Intelligence",
+      "summary": "Recon Analytics acquired Atom Insights, strengthening its device intelligence platform for global enterprise clients.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSGRMaVpFWUQwOFRYQmpZdVFObXE1dE5SdnVoeWduWW9DVEtndmZNaGwyWFlvRHVsMG1RWGdWM0FvQmFocTVjM2p0T012V1hyRk1iS21ZQU5DUzRpZTI2YVhvdmdudU5MdnR6RlRxMVhpelZXenUtMldQbEJfZnJnTGxhWGhNN3lrMHF6MXQwWWlyaW4xMkF0U2tfVTV2Zw?oc=5"
+    },
+    {
+      "title": "Public Data Personas",
+      "summary": "A new toolset is emerging to organize and profile public data using AI for more precise content personalization.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8yZjlVSUYxalhjSTFDazNOTnpfTEZNcnkyVjRZdjlvekdfb0ctb2RBdkNPakJ4MFBSc25weHRpdm50Y09yMExDam9pdUpDZ00wNV9rT2FOd3FNZXdzVm9sLUdYX1hQbEFaRWRva2ZScXJmbGFx0gF6QVVfeXFMUGFDMGs0NjhBS2pSNUJzb0NXajFOcDNVc0ZBWDNNUnJCSGNjWGZBcmE1WWNncmR0V2xfS2dqV3pPY0wyT2t6NWxta0g5MTZHSXhoTWwwLVFqMzNvTVp4dGdsemhkVWxsZE54aDV4dldtODlBa0ZtVnRndnc?oc=5"
+    },
+    {
+      "title": "AI Roleplay Statistics By Market Size and Users Growth (2026)",
+      "summary": "A report details the projected market size and user adoption rates for AI-powered roleplay services through 2026.",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE41QkgxVS1uZnRJSGtabFRvcjdUdmVqaU9xRk1qSmxwNW9IVGRoeDd5eDNzenFIZlNzMWlqVmJoTGhZR1puaXotUU91QWU0WHZ3TjBaVUFVSDJZbmFS?oc=5"
+    },
+    {
+      "title": "Ai Studio Market Set to Boom: Strategic Insights and Growth",
+      "summary": "The AI studio market is forecasted for significant strategic growth, highlighting rising interest in enterprise AI enablement platforms.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdGVEaVh6bGdaQXJteTZKcXJCZGlHdEVDNjJJQllNcDZEbFJSTWZERWxyRHBQeGp1Nk5KNDcyNjhTTFRtSnpxVUE2Mk01b3hKMUlZek15LXNRd3JzTVpna1VIMzJrU2FHSWV4cEpPQ2kwSHJSR3hNQklnT2VFWFAtOG10SWJzRlFlbW9XY05FV3pfdl9kSnRZVTdn?oc=5"
+    },
+    {
+      "title": "Consumer Electronics Market Trends (2026-2033) | AI Gadgets, IoT Devices, AI Assistants & Global Market Trends",
+      "summary": "A market trends report highlights key AI-driven innovations expected in consumer electronics between 2026 and 2033.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOC1TWTNUSWpWMnBSZUNKS012eDJacVBSSWlRZXRLLUhmdWtiVjVVOXV1R3JWOTJkREpKTmxnMU1nUk1qOUNfS3NFYmtpZFdldDJGeVZFQnZrV2JJVkQ1TXpvaGYtU1MtbmxhcHp0SlFFVGUxZVViOU80S0tranlKMHcxVnRydF96RXZhd3FiQXNEakhpaFE?oc=5"
+    }
+  ],
+  "ethan_mollick": null
+}
