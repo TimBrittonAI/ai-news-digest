@@ -1,0 +1,87 @@
+{
+  "top_stories": [
+    {
+      "title": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal",
+      "summary": "Walmart and OpenAI have entered a partnership to experiment with agentic shopping experiences, utilizing AI agents to facilitate personalized consumer retail assistance. This deal signals a significant step for AI-driven commerce and could influence the broader adoption of conversational AI in enterprise and retail sectors.",
+      "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/"
+    },
+    {
+      "title": "Snowflake launches Project SnowWork to bring agentic AI execution to business users",
+      "summary": "Snowflake has unveiled Project SnowWork, a new initiative aimed at enabling agentic AI—AI agents capable of executing complex workflows autonomously—across business applications. This move seeks to integrate advanced AI capabilities into day-to-day enterprise operations, expanding the scope and productivity of AI in business settings.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSGdrMG9aa1EyTlUyX2ZRZnRJTHVNUy1qWEVDaXhfQ2ROV1ZmM0pHakJsOG5YYXZMRndoM1lkcXQzUGNyQVB2WVgwX2xUX2NxYjU4VDNIQzhXX2JoSHd4WHRVQkJHWlYtWGJYUHJPZ0VMSHJoNUxTaVpvMkI5Tks1OVRCd3JhZVZ4MzZPYS0wQUljd09TZFl1SG1JOHdXUzhxNTdIMlZHN0RXbW9oOVVJNFYxYWFPd0lZRFZraTFRU2M?oc=5"
+    },
+    {
+      "title": "Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel",
+      "summary": "Google engineers have released 'Sashiko,' a tool designed to leverage agentic AI for code review tasks on the Linux kernel. This technology demonstrates advanced practical applications of LLMs and agentic AI in one of the most critical open-source software infrastructures, reflecting the growing role of AI in enterprise-level software management.",
+      "url": "https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review"
+    },
+    {
+      "title": "Qualtrics launches AI panels & hub to speed research",
+      "summary": "Qualtrics has introduced new AI-powered panels and a hub for rapid research, deploying generative AI to accelerate data collection and insights for businesses. This development aims to modernize and streamline the market research industry by integrating advanced AI capabilities into customer and employee feedback systems.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZE13cF81ZGJRSmNEZ0Y0bUxRU2tsa0RhZXBiZlZsWXY4SjVnLVlhSHpsUy1fUTc4R0tGazFvcGZaU2JQdDMzRlpSdndRWUxSb1lpLTJ4QWNRYlRNNlhKaVAtUEQwRzQyTEhUb05rQnpKa2tGd0dkdWZkNVltaFBUVDJacFA5QQ?oc=5"
+    },
+    {
+      "title": "ICML rejects papers of reviewers who used LLMs despite agreeing not to",
+      "summary": "The International Conference on Machine Learning (ICML) reportedly rejected papers from peer reviewers who used Large Language Models (LLMs) to assist with review tasks but had previously agreed not to. This event highlights ongoing debate and evolving policy on the ethical and transparent use of AI in the academic publishing process.",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rx201a/d_icml_rejects_papers_of_reviewers_who_used_llms/"
+    }
+  ],
+  "further_links": [
+    {
+      "title": "The Pentagon is developing its own LLMs",
+      "summary": "Reportedly, the Pentagon is working on proprietary large language models for defense and intelligence applications.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rx1k64/the_pentagon_is_developing_its_own_llms_techcrunch/"
+    },
+    {
+      "title": "How AI Is Transforming Stock Market Research and Financial Decision-Making",
+      "summary": "AI technologies are rapidly changing how financial analysts conduct research and make investment decisions.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSUtTMUtoOGpJZDh0Q2NQMXNWSzdyMUZ0ZGtxWGp6OVhGa3RTXzNoeUlpcEUycWY2MFJCOElPYnVrS2hCTFRhUVdoODVsRDdqMGlsSXlPR3dnZGxuVHJ2RXdXNWkyTi1HNV9TeHlJMF9SOFc3YnhPMUM0dUxmRFdSUU5JRTRibnpVbEtqUmp4UVFZSWFjOV9UNlg4cGItMjhCd0FnMlhPcDJ6azdiSGdSekprcHdoWlE?oc=5"
+    },
+    {
+      "title": "Industrial Robotics Market to Surpass USD 37 Billion by 2035",
+      "summary": "Forecasts project sizable growth in the industrial robotics market driven by AI-based automation and manufacturing advances.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQemNGd3htSVdnR3VuT0pvbTFRclc2Y0lXcjNmdmhOTlRYUDBROEZoWDVYeGkyVVBFUDhhYlF0WTRNRkcxMl9PWWNQSkI1ZDg3XzhTcmxMZHU1SXNDamFIa1E4VlljSUo0RmlSX1hUYjJTR0E4anNQUGNfRVVpMTBzYkFNM3NhQ2V6T2F1bWZyOFgzaFcwODRWQUdQUHk?oc=5"
+    },
+    {
+      "title": "Emotion AI Market to Witness Strong Growth of 13.8 Bn by 2032",
+      "summary": "The emotion AI (affective computing) market is expected to see robust expansion as the technology matures for enterprise applications.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNHRBZDRwUVJoVzNVNnY5cVZ2M0R6a19aZWg2OG8wQzd6WFk4MDJTc1VGTlZsSVhYNzl1QTFrcF80dFVLTTNlVXZmQmI5N3AtVEZWN1hTSGl2R0tmR1Q0UnFJaEo1aFhQajhuSW4zRl9KYWJyN0JwR2NMSjBwbEpWdXI1RUhaM0RBU0lkR0dLWXlkbHN1MWVSRmt5V2RUZw?oc=5"
+    },
+    {
+      "title": "DLSS 5: Has Nvidia’s AI graphics technology gone too far?",
+      "summary": "Nvidia’s new DLSS 5 uses AI to reshape 3D rendering in games and creative content, raising questions about the future of graphics technology.",
+      "url": "https://www.theverge.com/games/896518/nvidia-dlss-5-ai-3d-rendering"
+    },
+    {
+      "title": "ChatGPT did not cure a dog’s cancer",
+      "summary": "An investigation reveals how claims of AI-powered medical miracles can be misleading, highlighting the need for responsible communication about AI’s healthcare capabilities.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer"
+    },
+    {
+      "title": "AI Infrastructure Market Set to Witness Rapid Growth Through",
+      "summary": "The AI infrastructure sector is forecasted to accelerate growth, underpinning expanded AI model deployment and business adoption.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZTY2bTl6ZnA3Y0Z2RmJYS3FwYlh3VndWVUJSV2VmcTlOaThPVlhTYWM4ajJoSmlYdnV1Nl81UXdjcHlob3BKWWVkR0htUFRMMC1Ydl9tZm5xSmpFTDA3eW5yaFFDSmtBQ1pPWmdWRzB5aFl0RFJmelI1dENDdVN2Z0UxcjRvMjRiZXVsd2lOazlEUU1YQXE5Sl96bEk?oc=5"
+    },
+    {
+      "title": "Qualtrics adds AI-powered synthetic data and research tools to speed customer insights",
+      "summary": "Qualtrics rolls out new synthetic data and research tools, using AI to help businesses access customer insights faster.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQm9FcW1CYml4VjdXbmppV0d1NHQtczdjOU4zeFF4X2UtelZJN0VmcnpaUU9kS04zQzQ0ZTNLM1M5a1k2TVQ1WmhBdWdLRnBReEJXV0dGSW84YnN2MGZkNDNad080bWFFa2ZjenA0U0RkdTNEejE1QTByTUxaNGtyQ01tRWFRVkJjX2JnQjNXMWhTUmp6MjBYS1dVdGxYTEJvOC1YTGtoSGNDZXRjbGU0WWFsNHNsc2c?oc=5"
+    },
+    {
+      "title": "This startup wants to make enterprise software look more like a prompt",
+      "summary": "A new startup is shifting enterprise software interfaces to AI-driven prompt-based designs for efficiency and usability.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdGJPYTdlTlY5d083aW5EOWRWY0RGZGJxMVVQbG9hOUFfdkxMVXpEMjZ4QmRpbXdCd1RtSmdYTE93TzFtTXIwTDI4ZXpqUHM1aFNUa2I0eVBvTXRHc3J6b0tyUVotTkczTk9NbnJaVHUxV092SjFLeWxMVFY5eTZTUS1Ld1BSaVN0UTNiQUl6YmVSTzNWNjU1YlctUE8wZ3ZPVk00OFgtME0?oc=5"
+    },
+    {
+      "title": "AI Speech to Text Tool Market Expected to Grow at 17.41% CAGR, Surpassing USD 16.42 Billion by 2035",
+      "summary": "Industry analysis projects significant growth for the AI-powered speech-to-text market as voice interfaces become mainstream in business applications.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEQzTnZXM19kN280SVJhdzdKaTRGVEhVbGtWdlRvMGl2Q1R6NWU0enZMZHFnaW9vZHFXaFN6WkRsUk15MDd3dml3ajlOdkwwVWZhaGZKWHlFUUxyRW5kX1dsYTJFZ1RLVGI3enp5UEhxTFp1bUw5NU9sY1BxN18ydWJiOXBnVWNaNTJDSGJENXhIT096VDdfcm1fY1Y?oc=5"
+    },
+    {
+      "title": "AI in Drug Manufacturing Market CAGR To Be 27.2% by 2040, Due to",
+      "summary": "AI adoption is expected to drive rapid growth in pharmaceutical manufacturing as companies turn to intelligent process automation.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSmZHSllUak82QXBqLVJxSWhVQUdSWl9xcWF4LWZzbHFtSVNRN0ZaUW05WVlLTThxdnNLUUZ2d0xoTnBQOE91ZjFseWpWZ0VscXhRMUpabkJ2THlSUGt1VFU5Ymstd3BiTFFxUG5FcGxHTDBIQ29jR1B4WUQ1WmpLRGE5U3VVVlktTWwyWUFfaFJwUXpOa2dHWUZFLUNFemc?oc=5"
+    }
+  ],
+  "ethan_mollick": null
+}
