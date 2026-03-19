@@ -1,0 +1,82 @@
+{
+  "top_stories": [
+    {
+      "title": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal",
+      "summary": "Walmart and OpenAI are partnering to create 'agentic' shopping experiences, where AI-powered agents help customers shop online by automating complex and personalized tasks. The collaboration aims to streamline e-commerce for consumers and marks a significant step in integrating LLMs into mainstream retail operations.",
+      "url": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/"
+    },
+    {
+      "title": "Qualtrics launches AI panels & hub to speed research",
+      "summary": "Qualtrics has introduced new AI-powered research panels and a hub designed to accelerate business insights by automating data collection, summarization, and analysis. This move highlights how enterprise solutions are leveraging generative AI to enhance market research efficiency and reduce turnaround times.",
+      "url": "https://www.qualtrics.com/news/qualtrics-ai-panels-hub/"
+    },
+    {
+      "title": "AI is here—publishers must help researchers use it responsibly",
+      "summary": "Publishers are responding to the widespread adoption of AI in research by formulating policies and guidelines to ensure responsible and ethical use. This article details the new frameworks and initiatives being implemented to support transparency, reduce bias, and maintain trust in scientific publishing.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYnRWQl80SFgzOW1Fdmw3Tk13SDJMdkpyZVV3SnZ6eWh5YjVYckZ4cWZ4Q0FvRkNGUkN6R1ZjS09NTURiUkdrUUVMMXpydnhNZWVCb3RLRmw5ZUZXVkF4bm5QRlFGWEk4VGhwQkdGVk5PS1Y5dklhSTdaQm41eVU0a05PUElDNmRZV0p6SnR0WUh6WHdKa2xrMlhnVGo1X2tXQnVXdVY5c3NzTFdpVXNYanhyR01CYU9EM3MzVVprQm1CYVUxRFh6M3ExdUFKMXE1ZHdVclo3TXNaZw?oc=5"
+    },
+    {
+      "title": "Snowflake launches Project SnowWork to bring agentic AI execution to business users",
+      "summary": "Snowflake has announced Project SnowWork, an initiative to enable business users to deploy agentic AI systems that connect LLMs with real-world enterprise applications. This positions Snowflake as a key player in the rise of agent-based workflows and demonstrates the increasing adoption of LLM-powered automation within business software.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSGdrMG9aa1EyTlUyX2ZRZnRJTHVNUy1qWEVDaXhfQ2ROV1ZmM0pHakJsOG5YYXZMRndoM1lkcXQzUGNyQVB2WVgwX2xUX2NxYjU4VDNIQzhXX2JoSHd4WHRVQkJHWlYtWGJYUHJPZ0VMSHJoNUxTaVpvMkI5Tks1OVRCd3JhZVZ4MzZPYS0wQUljd09TZFl1SG1JOHdXUzhxNTdIMlZHN0RXbW9oOVVJNFYxYWFPd0lZRFZraTFRU2M?oc=5"
+    },
+    {
+      "title": "The Fight to Hold AI Companies Accountable for Children’s Deaths",
+      "summary": "A lawyer is pursuing legal action against AI companies whose chatbots allegedly contributed to child deaths by providing harmful advice. The case underscores growing legal and ethical questions around AI product liability, marking a test for technology companies’ responsibilities regarding the real-world impacts of generative AI systems.",
+      "url": "https://www.wired.com/story/how-ai-chatbots-drove-families-to-the-brink-and-the-lawyer-fighting-back/"
+    }
+  ],
+  "further_links": [
+    {
+      "title": "What 81,000 people want from AI",
+      "summary": "Anthropic releases findings from tens of thousands of interviews, detailing popular wishes and concerns for the future of AI products.",
+      "url": "https://www.anthropic.com/features/81k-interviews"
+    },
+    {
+      "title": "Google Engineers Launch \"Sashiko\" for Agentic AI Code Review of the Linux Kernel",
+      "summary": "Google engineers propose 'Sashiko', a novel agentic AI system designed to review and improve code within the Linux kernel project.",
+      "url": "https://www.phoronix.com/news/Sashiko-Linux-AI-Code-Review"
+    },
+    {
+      "title": "New Report Reveals AI Data Curation Market to Hit $253 Billion by 2030 as Industry Shifts to \"Work Phase\"",
+      "summary": "Industry analysis forecasts the AI data curation sector will reach $253B by 2030 as companies move from experimental to production use.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT3JNb3ZzdThxQlhWV3lZeHpzQ2tzNktjWkFSbDlyb2l5LVhwYnBxVm9aUFlYYmJETVBJX2w5SVBHNUY4YXB4UTVzUTJtR3dGdUJTZEhjcmhpNl9GMFhkVGx0eXhPZEdnY3ZjV0xRc3VhWDNEaWU4c0FMNU9OTDZrTTJUeUFxTjJaYktyS21CU0lXNTFXc3hTNnphQk9tUQ?oc=5"
+    },
+    {
+      "title": "Can AI Replace Real Customers? Here’s What 20,000 Humans Show",
+      "summary": "A study analyzing responses from 20,000 people investigates the limitations and potential of using AI as a proxy for real consumer feedback.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbW9NZWIzTG4zeE5MWGgtLXUxT1VkMUV1MHU5VmZHVHFSTXNCaVVlNWNhaTEwU0JadWstdFZaN3J0bVVfZnk4SS1qNDRINERVUFA4Z3l4Mmh2RXZ4Tm1BZDBGeUQwcU5QVWJzd2pjUlR3REM1WEtrNFY5dWlBZVczYTZVZGxfZlVoc1E5V3lELXhiZUF3UVQ1bmFQNm9mbV9jYW9VM21CRlI0SzBESHFYRQ?oc=5"
+    },
+    {
+      "title": "This startup wants to make enterprise software look more like a prompt",
+      "summary": "A new startup is developing prompt-centric enterprise software interfaces to simplify complex business workflows using LLMs.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdGJPYTdlTlY5d083aW5EOWRWY0RGZGJxMVVQbG9hOUFfdkxMVXpEMjZ4QmRpbXdCd1RtSmdYTE93TzFtTXIwTDI4ZXpqUHM1aFNUa2I0eVBvTXRHc3J6b0tyUVotTkczTk9NbnJaVHUxV092SjFLeWxMVFY5eTZTUS1Ld1BSaVN0UTNiQUl6YmVSTzNWNjU1YlctUE8wZ3ZPVk00OFgtME0?oc=5"
+    },
+    {
+      "title": "Industrial Robotics Market to Surpass USD 37 Billion by 2035",
+      "summary": "Forecasts show sharp growth in the industrial robotics sector, with AI-driven automation fueling expansion through 2035.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQemNGd3htSVdnR3VuT0pvbTFRclc2Y0lXcjNmdmhOTlRYUDBROEZoWDVYeGkyVVBFUDhhYlF0WTRNRkcxMl9PWWNQSkI1ZDg3XzhTcmxMZHU1SXNDamFIa1E4VlljSUo0RmlSX1hUYjJTR0E4anNQUGNfRVVpMTBzYkFNM3NhQ2V6T2F1bWZyOFgzaFcwODRWQUdQUHk?oc=5"
+    },
+    {
+      "title": "AI in Clinical Trials Market: Transforming Drug Development with Intelligent Analytics",
+      "summary": "AI-powered analytics are reshaping clinical trials, driving efficiency and innovation in drug development pipelines.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOejNTdFhjVkgwUmo5VHloMFZQNEF1T3QzbUlTMnh1eWkySWNlX05jSHlPc2lwbVcwa1pXb2RpMVNHUlZPQnBtZUhpeE9ET255b2x4MHFfcmtKVWYwWjBqOFJFV3VZTDFkT3hwWS1WYVFQVlFHdXR2ZEtuY2dIRlotSzI5SUxwM1ctc2ZHbDRfNTdjS3c0WW5LQkZ3?oc=5"
+    },
+    {
+      "title": "Emotion AI Market to Witness Strong Growth of 13.8 Bn by 2032",
+      "summary": "The Emotion AI market is projected to grow rapidly, as more businesses adopt technologies that detect and respond to human emotions.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNHRBZDRwUVJoVzNVNnY5cVZ2M0R6a19aZWg2OG8wQzd6WFk4MDJTc1VGTlZsSVhYNzl1QTFrcF80dFVLTTNlVXZmQmI5N3AtVEZWN1hTSGl2R0tmR1Q0UnFJaEo1aFhQajhuSW4zRl9KYWJyN0JwR2NMSjBwbEpWdXI1RUhaM0RBU0lkR0dLWXlkbHN1MWVSRmt5V2RUZw?oc=5"
+    },
+    {
+      "title": "A $5 million prize awaits proof that quantum computers can solve health care problems",
+      "summary": "A new challenge offers a $5 million prize for demonstrating that quantum computing can achieve practical breakthroughs in health care.",
+      "url": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/"
+    },
+    {
+      "title": "Friend Bubbles: Enhancing Social Discovery on Facebook Reels",
+      "summary": "Meta engineers detail 'Friend Bubbles', an AI-powered feature for improving personalized recommendations and discovery in Facebook Reels.",
+      "url": "https://engineering.fb.com/2026/03/18/ml-applications/friend-bubbles-enhancing-social-discovery-on-facebook-reels/"
+    }
+  ],
+  "ethan_mollick": null
+}
