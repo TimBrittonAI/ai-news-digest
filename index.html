@@ -623,6 +623,10 @@
     </footer>
 
     <script>
+        const ANTHROPIC_API_KEY = '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';
+        const GITHUB_TOKEN = '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';
+        const REPO = 'TimBrittonAI/ai-news-digest';
+
         const now = new Date();
         const opts = { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' };
         document.getElementById('header-date').textContent = now.toLocaleDateString('en-GB', opts);
@@ -761,7 +765,7 @@
             catch { return ''; }
         }
 
-        // ── VOTE FUNCTIONS ──────────────────────────────────────────────
+        // ── VOTE + TOPIC EXTRACTION FUNCTIONS ──────────────────────────
 
         const VOTES_KEY = 'signal_votes';
 
@@ -771,39 +775,82 @@
         }
 
         function getVote(url) {
-            return getVotes()[url] || null;
+            const v = getVotes()[url];
+            return v ? v.direction : null;
         }
 
-        function voteStory(url, direction, btnUpId, btnDownId) {
+        async function extractTopics(title) {
+            try {
+                const res = await fetch('https://api.anthropic.com/v1/messages', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'x-api-key': ANTHROPIC_API_KEY,
+                        'anthropic-version': '2023-06-01',
+                        'anthropic-dangerous-direct-browser-access': 'true'
+                    },
+                    body: JSON.stringify({
+                        model: 'claude-haiku-4-5-20251001',
+                        max_tokens: 60,
+                        messages: [{
+                            role: 'user',
+                            content: `Return a JSON array of 2-3 short topic tags describing the subject matter of this news headline. Tags should describe the content, not the source. Return only the JSON array, nothing else. Headline: "${title}"`
+                        }]
+                    })
+                });
+                const data = await res.json();
+                const text = data.content[0].text.trim();
+                return JSON.parse(text);
+            } catch (e) {
+                console.log('Topic extraction failed:', e);
+                return [];
+            }
+        }
+
+        async function voteStory(url, title, direction, btnUpId, btnDownId) {
             const votes = getVotes();
-            const current = votes[url] || null;
+            const current = votes[url] ? votes[url].direction : null;
 
             if (current === direction) {
+                // Toggle off
                 delete votes[url];
             } else {
-                votes[url] = direction;
+                // Set vote immediately so button responds at once
+                votes[url] = { direction, topics: votes[url] ? votes[url].topics || [] : [] };
+                try { localStorage.setItem(VOTES_KEY, JSON.stringify(votes)); } catch(e) {}
+
+                // Extract topics in background — update stored vote when done
+                extractTopics(title).then(topics => {
+                    const latest = getVotes();
+                    if (latest[url]) {
+                        latest[url].topics = topics;
+                        try { localStorage.setItem(VOTES_KEY, JSON.stringify(latest)); } catch(e) {}
+                    }
+                });
             }
 
             try { localStorage.setItem(VOTES_KEY, JSON.stringify(votes)); } catch(e) {}
 
+            // Update button appearance immediately
             const btnUp = document.getElementById(btnUpId);
             const btnDown = document.getElementById(btnDownId);
-            const newVote = votes[url] || null;
+            const newVote = votes[url] ? votes[url].direction : null;
 
             if (btnUp) btnUp.classList.toggle('active-up', newVote === 'up');
             if (btnDown) btnDown.classList.toggle('active-down', newVote === 'down');
         }
 
-        function voteButtonsHTML(url, idSuffix) {
+        function voteButtonsHTML(url, title, idSuffix) {
             const vote = getVote(url);
             const upId = `vote-up-${idSuffix}`;
             const downId = `vote-down-${idSuffix}`;
+            const escapedTitle = title.replace(/'/g, "\\'").replace(/"/g, '&quot;');
             return `<div class="vote-row">
                 <span class="vote-label">Useful?</span>
                 <button id="${upId}" class="vote-btn ${vote === 'up' ? 'active-up' : ''}"
-                    onclick="voteStory('${url}', 'up', '${upId}', '${downId}')">&#x1F44D;</button>
+                    onclick="voteStory('${url}', '${escapedTitle}', 'up', '${upId}', '${downId}')">&#x1F44D;</button>
                 <button id="${downId}" class="vote-btn ${vote === 'down' ? 'active-down' : ''}"
-                    onclick="voteStory('${url}', 'down', '${upId}', '${downId}')">&#x1F44E;</button>
+                    onclick="voteStory('${url}', '${escapedTitle}', 'down', '${upId}', '${downId}')">&#x1F44E;</button>
             </div>`;
         }
 
@@ -885,7 +932,7 @@
                         ${domain ? `<div class="story-source">${domain}</div>` : ''}
                         <div class="story-summary">${s.summary}</div>
                         ${s.url ? `<a href="${s.url}" target="_blank" rel="noopener" class="story-link">Read original &#x2192;</a>` : ''}
-                        ${s.url ? voteButtonsHTML(s.url, idSuffix) : ''}
+                        ${s.url ? voteButtonsHTML(s.url, s.title, idSuffix) : ''}
                     </div>`;
                 });
             }
@@ -940,7 +987,7 @@
                         ${domain ? `<div class="link-source">${domain}</div>` : ''}
                         <div class="link-text">${l.summary}</div>
                         ${l.url ? `<a href="${l.url}" target="_blank" rel="noopener" class="link-url">Read more</a>` : ''}
-                        ${l.url ? voteButtonsHTML(l.url, idSuffix) : ''}
+                        ${l.url ? voteButtonsHTML(l.url, l.title, idSuffix) : ''}
                     </div>`;
                 });
                 html += `</div>`;
