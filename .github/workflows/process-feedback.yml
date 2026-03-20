@@ -1,0 +1,96 @@
+name: Process Feedback
+
+on:
+  schedule:
+    - cron: '20 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Process pending votes and extract topics
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 << 'PYEOF'
+          import json, os, urllib.request, urllib.error
+
+          # Load pending votes
+          try:
+              with open('pending-votes.json', 'r') as f:
+                  pending = json.load(f)
+          except:
+              pending = []
+
+          if not pending:
+              print("No pending votes to process")
+              exit(0)
+
+          # Load existing feedback
+          try:
+              with open('feedback.json', 'r') as f:
+                  feedback = json.load(f)
+          except:
+              feedback = {"topic_votes": {}}
+
+          api_key = os.environ['ANTHROPIC_API_KEY']
+
+          for vote in pending:
+              title = vote.get('title', '')
+              direction = vote.get('direction', '')
+              if not title or not direction:
+                  continue
+
+              # Call Claude to extract topics
+              payload = json.dumps({
+                  "model": "claude-haiku-4-5-20251001",
+                  "max_tokens": 60,
+                  "messages": [{
+                      "role": "user",
+                      "content": f'Return a JSON array of 2-3 short topic tags for this headline. Return only the JSON array: "{title}"'
+                  }]
+              }).encode()
+
+              req = urllib.request.Request(
+                  'https://api.anthropic.com/v1/messages',
+                  data=payload,
+                  headers={
+                      'Content-Type': 'application/json',
+                      'x-api-key': api_key,
+                      'anthropic-version': '2023-06-01'
+                  }
+              )
+
+              try:
+                  with urllib.request.urlopen(req) as res:
+                      data = json.loads(res.read())
+                      topics = json.loads(data['content'][0]['text'])
+                      score = 1 if direction == 'up' else -1
+                      for topic in topics:
+                          feedback['topic_votes'][topic] = feedback['topic_votes'].get(topic, 0) + score
+                      print(f"Processed: {title} -> {topics} ({direction})")
+              except Exception as e:
+                  print(f"Failed for '{title}': {e}")
+
+          # Save updated feedback
+          with open('feedback.json', 'w') as f:
+              json.dump(feedback, f, indent=2)
+
+          # Clear pending votes
+          with open('pending-votes.json', 'w') as f:
+              json.dump([], f)
+
+          print("Done")
+          PYEOF
+
+      - name: Commit results
+        run: |
+          git config user.name "Signal Bot"
+          git config user.email "signal@signal-digest.co.uk"
+          git add feedback.json pending-votes.json
+          git diff --staged --quiet || git commit -m "Process feedback votes"
+          git push
