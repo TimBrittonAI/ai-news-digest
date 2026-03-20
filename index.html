@@ -411,7 +411,6 @@
 
         .story-link:hover { border-bottom-color: var(--accent); }
 
-        /* Vote buttons */
         .vote-row {
             display: flex;
             align-items: center;
@@ -623,7 +622,6 @@
     </footer>
 
     <script>
-        const ANTHROPIC_API_KEY = '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';
         const GITHUB_TOKEN = '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';
         const REPO = 'TimBrittonAI/ai-news-digest';
 
@@ -765,7 +763,7 @@
             catch { return ''; }
         }
 
-        // ── VOTE + TOPIC EXTRACTION FUNCTIONS ──────────────────────────
+        // ── VOTE FUNCTIONS ──────────────────────────────────────────────
 
         const VOTES_KEY = 'signal_votes';
 
@@ -779,31 +777,37 @@
             return v ? v.direction : null;
         }
 
-        async function extractTopics(title) {
+        async function writePendingVoteToGitHub(title, direction) {
             try {
-                const res = await fetch('https://api.anthropic.com/v1/messages', {
-                    method: 'POST',
+                // Get current pending-votes.json from GitHub
+                const getRes = await fetch(`https://api.github.com/repos/${REPO}/contents/pending-votes.json`, {
                     headers: {
-                        'Content-Type': 'application/json',
-                        'x-api-key': ANTHROPIC_API_KEY,
-                        'anthropic-version': '2023-06-01',
-                        'anthropic-dangerous-direct-browser-access': 'true'
+                        'Authorization': `token ${GITHUB_TOKEN}`,
+                        'Accept': 'application/vnd.github.v3+json'
+                    }
+                });
+                const fileData = await getRes.json();
+                const current = JSON.parse(atob(fileData.content));
+
+                // Add new vote
+                current.push({ title, direction, date: todayStr() });
+
+                // Write back
+                await fetch(`https://api.github.com/repos/${REPO}/contents/pending-votes.json`, {
+                    method: 'PUT',
+                    headers: {
+                        'Authorization': `token ${GITHUB_TOKEN}`,
+                        'Accept': 'application/vnd.github.v3+json',
+                        'Content-Type': 'application/json'
                     },
                     body: JSON.stringify({
-                        model: 'claude-haiku-4-5-20251001',
-                        max_tokens: 60,
-                        messages: [{
-                            role: 'user',
-                            content: `Return a JSON array of 2-3 short topic tags describing the subject matter of this news headline. Tags should describe the content, not the source. Return only the JSON array, nothing else. Headline: "${title}"`
-                        }]
+                        message: 'Add pending vote',
+                        content: btoa(JSON.stringify(current, null, 2)),
+                        sha: fileData.sha
                     })
                 });
-                const data = await res.json();
-                const text = data.content[0].text.trim();
-                return JSON.parse(text);
-            } catch (e) {
-                console.log('Topic extraction failed:', e);
-                return [];
+            } catch(e) {
+                console.log('Could not write pending vote:', e);
             }
         }
 
@@ -812,26 +816,15 @@
             const current = votes[url] ? votes[url].direction : null;
 
             if (current === direction) {
-                // Toggle off
                 delete votes[url];
             } else {
-                // Set vote immediately so button responds at once
-                votes[url] = { direction, topics: votes[url] ? votes[url].topics || [] : [] };
-                try { localStorage.setItem(VOTES_KEY, JSON.stringify(votes)); } catch(e) {}
-
-                // Extract topics in background — update stored vote when done
-                extractTopics(title).then(topics => {
-                    const latest = getVotes();
-                    if (latest[url]) {
-                        latest[url].topics = topics;
-                        try { localStorage.setItem(VOTES_KEY, JSON.stringify(latest)); } catch(e) {}
-                    }
-                });
+                votes[url] = { direction };
+                // Write to GitHub in background — don't block the UI
+                writePendingVoteToGitHub(title, direction);
             }
 
             try { localStorage.setItem(VOTES_KEY, JSON.stringify(votes)); } catch(e) {}
 
-            // Update button appearance immediately
             const btnUp = document.getElementById(btnUpId);
             const btnDown = document.getElementById(btnDownId);
             const newVote = votes[url] ? votes[url].direction : null;
