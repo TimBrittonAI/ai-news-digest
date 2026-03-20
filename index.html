@@ -787,7 +787,7 @@
                     }
                 });
                 const fileData = await getRes.json();
-                const current = JSON.parse(atob(fileData.conteconst current = JSON.parse(atob(fileData.content.replace(/\n/g, '')));nt));
+                const current = JSON.parse(atob(fileData.content.replace(/\n/g, '')));
 
                 // Add new vote
                 current.push({ title, direction, date: todayStr() });
