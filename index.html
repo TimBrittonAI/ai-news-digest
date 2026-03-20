@@ -298,7 +298,7 @@
             display: flex;
             align-items: center;
             gap: 16px;
-            margin-bottom: 24px;
+            margin-bottom: 12px;
             margin-top: 48px;
         }
 
@@ -325,6 +325,15 @@
             font-size: 1.1rem;
             font-weight: 700;
             color: var(--ink);
+        }
+
+        .section-note {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.62rem;
+            color: var(--muted);
+            letter-spacing: 0.06em;
+            margin-bottom: 20px;
+            padding-left: 2px;
         }
 
         .story-card {
@@ -401,6 +410,45 @@
         }
 
         .story-link:hover { border-bottom-color: var(--accent); }
+
+        /* Vote buttons */
+        .vote-row {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-top: 14px;
+        }
+
+        .vote-label {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.58rem;
+            color: var(--muted);
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+        }
+
+        .vote-btn {
+            background: none;
+            border: 1px solid var(--rule);
+            padding: 3px 8px;
+            cursor: pointer;
+            font-size: 0.75rem;
+            border-radius: 3px;
+            transition: background 0.15s, border-color 0.15s;
+            line-height: 1.4;
+        }
+
+        .vote-btn:hover { border-color: var(--muted); }
+
+        .vote-btn.active-up {
+            background: rgba(40, 160, 80, 0.12);
+            border-color: #28a050;
+        }
+
+        .vote-btn.active-down {
+            background: rgba(200, 67, 42, 0.1);
+            border-color: var(--accent);
+        }
 
         .links-grid {
             display: grid;
@@ -713,6 +761,54 @@
             catch { return ''; }
         }
 
+        // ── VOTE FUNCTIONS ──────────────────────────────────────────────
+
+        const VOTES_KEY = 'signal_votes';
+
+        function getVotes() {
+            try { return JSON.parse(localStorage.getItem(VOTES_KEY)) || {}; }
+            catch { return {}; }
+        }
+
+        function getVote(url) {
+            return getVotes()[url] || null;
+        }
+
+        function voteStory(url, direction, btnUpId, btnDownId) {
+            const votes = getVotes();
+            const current = votes[url] || null;
+
+            if (current === direction) {
+                delete votes[url];
+            } else {
+                votes[url] = direction;
+            }
+
+            try { localStorage.setItem(VOTES_KEY, JSON.stringify(votes)); } catch(e) {}
+
+            const btnUp = document.getElementById(btnUpId);
+            const btnDown = document.getElementById(btnDownId);
+            const newVote = votes[url] || null;
+
+            if (btnUp) btnUp.classList.toggle('active-up', newVote === 'up');
+            if (btnDown) btnDown.classList.toggle('active-down', newVote === 'down');
+        }
+
+        function voteButtonsHTML(url, idSuffix) {
+            const vote = getVote(url);
+            const upId = `vote-up-${idSuffix}`;
+            const downId = `vote-down-${idSuffix}`;
+            return `<div class="vote-row">
+                <span class="vote-label">Useful?</span>
+                <button id="${upId}" class="vote-btn ${vote === 'up' ? 'active-up' : ''}"
+                    onclick="voteStory('${url}', 'up', '${upId}', '${downId}')">&#x1F44D;</button>
+                <button id="${downId}" class="vote-btn ${vote === 'down' ? 'active-down' : ''}"
+                    onclick="voteStory('${url}', 'down', '${upId}', '${downId}')">&#x1F44E;</button>
+            </div>`;
+        }
+
+        // ── END VOTE FUNCTIONS ──────────────────────────────────────────
+
         async function loadDigest() {
             const today = todayStr();
             try {
@@ -763,7 +859,6 @@
                 </div>`;
         }
 
-        // localStorage key for caching the last known good Ethan Mollick post
         const EM_CACHE_KEY = 'signal_ethan_mollick_cache';
 
         function renderDigest(data, dateStr) {
@@ -779,28 +874,28 @@
                         <div class="section-label">${isToday ? "Today's Top Stories" : displayDate}</div>
                         <div class="section-title">Five things worth your time</div>
                     </div>
-                </div>`;
+                </div>
+                <div class="section-note">&#x1F44D; &#x1F44E; Use the thumbs on each story to help Signal learn what matters to you — your feedback shapes tomorrow's selection.</div>`;
                 data.top_stories.forEach((s, i) => {
                     const domain = s.url ? getDomain(s.url) : '';
+                    const idSuffix = `top-${i}`;
                     html += `<div class="story-card" style="animation-delay:${i*0.07}s">
                         <div class="story-number">Story ${String(i+1).padStart(2,'0')}</div>
                         <div class="story-title">${s.title}</div>
                         ${domain ? `<div class="story-source">${domain}</div>` : ''}
                         <div class="story-summary">${s.summary}</div>
                         ${s.url ? `<a href="${s.url}" target="_blank" rel="noopener" class="story-link">Read original &#x2192;</a>` : ''}
+                        ${s.url ? voteButtonsHTML(s.url, idSuffix) : ''}
                     </div>`;
                 });
             }
 
             // SECTION 02: One Useful Thing — Ethan Mollick
-            // Use today's digest JSON if available, otherwise fall back to localStorage cache
             let em = (data.ethan_mollick && data.ethan_mollick.title) ? data.ethan_mollick : null;
 
             if (em) {
-                // Save to cache for future fallback
                 try { localStorage.setItem(EM_CACHE_KEY, JSON.stringify(em)); } catch(e) {}
             } else {
-                // Try to load from cache
                 try {
                     const cached = localStorage.getItem(EM_CACHE_KEY);
                     if (cached) em = JSON.parse(cached);
@@ -834,15 +929,18 @@
                         <div class="section-title">Ten more links from the feed</div>
                     </div>
                 </div>
+                <div class="section-note">&#x1F44D; &#x1F44E; Rate these too — the more you vote, the more personalised Signal becomes.</div>
                 <div class="links-grid">`;
                 data.further_links.forEach((l, i) => {
                     const domain = l.url ? getDomain(l.url) : '';
+                    const idSuffix = `further-${i}`;
                     html += `<div class="link-item" style="animation-delay:${(i*0.05)+0.3}s">
                         <div class="link-number">${String(i+1).padStart(2,'0')}</div>
                         ${l.title ? `<div class="link-title">${l.title}</div>` : ''}
                         ${domain ? `<div class="link-source">${domain}</div>` : ''}
                         <div class="link-text">${l.summary}</div>
                         ${l.url ? `<a href="${l.url}" target="_blank" rel="noopener" class="link-url">Read more</a>` : ''}
+                        ${l.url ? voteButtonsHTML(l.url, idSuffix) : ''}
                     </div>`;
                 });
                 html += `</div>`;
