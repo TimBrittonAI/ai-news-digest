@@ -777,40 +777,17 @@
             return v ? v.direction : null;
         }
 
-        async function writePendingVoteToGitHub(title, direction) {
-            try {
-                // Get current pending-votes.json from GitHub
-                const getRes = await fetch(`https://api.github.com/repos/${REPO}/contents/pending-votes.json`, {
-                    headers: {
-                        'Authorization': `token ${GITHUB_TOKEN}`,
-                        'Accept': 'application/vnd.github.v3+json'
-                    }
-                });
-                const fileData = await getRes.json();
-                const current = JSON.parse(atob(fileData.content.replace(/\n/g, '')));
-
-                // Add new vote
-                current.push({ title, direction, date: todayStr() });
-
-                // Write back
-                await fetch(`https://api.github.com/repos/${REPO}/contents/pending-votes.json`, {
-                    method: 'PUT',
-                    headers: {
-                        'Authorization': `token ${GITHUB_TOKEN}`,
-                        'Accept': 'application/vnd.github.v3+json',
-                        'Content-Type': 'application/json'
-                    },
-                    body: JSON.stringify({
-                        message: 'Add pending vote',
-                        content: btoa(JSON.stringify(current, null, 2)),
-                        sha: fileData.sha
-                    })
-                });
-            } catch(e) {
-                console.log('Could not write pending vote:', e);
-            }
-        }
-
+       async function writePendingVoteToGitHub(title, direction) {
+    try {
+        await fetch('https://signal-news.t-britton-uk.workers.dev/vote', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ title, direction, date: todayStr() })
+        });
+    } catch(e) {
+        console.log('Could not write pending vote:', e);
+    }
+}
         async function voteStory(url, title, direction, btnUpId, btnDownId) {
             const votes = getVotes();
             const current = votes[url] ? votes[url].direction : null;
