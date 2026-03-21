@@ -1,0 +1,103 @@
+{
+  "top_stories": [
+    {
+      "title": "Pentagon to adopt Palantir AI as core US Military system",
+      "summary": "The Pentagon has selected Palantir’s AI technology to become a core part of its military systems. This integration reflects the growing role of AI across defense operations and signals significant trust in commercial AI providers for national security infrastructure.",
+      "url": "https://www.reuters.com/technology/pentagon-adopt-palantir-ai-as-core-us-military-system-memo-says-2026-03-20/",
+      "topics": ["AI adoption", "business strategy", "defense"]
+    },
+    {
+      "title": "ArXiv, the pioneering preprint server, declares independence from Cornell",
+      "summary": "ArXiv, the influential preprint server for scientific research, will become an independent nonprofit to better handle rising submissions and concerns over unvetted AI-generated content. The move aims to ensure arXiv’s sustainability and improve mechanisms to filter ‘AI slop.’",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1rzp5ph/n_arxiv_the_pioneering_preprint_server_declares/",
+      "topics": ["academic publishing", "AI-generated content", "research integrity"]
+    },
+    {
+      "title": "Anthropic Denies It Could Sabotage AI Tools During War",
+      "summary": "Amid concerns from military leaders, Anthropic has officially denied assertions that it might sabotage AI tools during a wartime situation. The company clarified its technical capabilities and policies to address questions regarding external control of its AI systems in critical settings.",
+      "url": "https://www.wired.com/story/anthropic-denies-sabotage-ai-tools-war-claude/",
+      "topics": ["AI safety", "business policy", "Anthropic"]
+    },
+    {
+      "title": "Gemini task automation is slow, clunky, and super impressive",
+      "summary": "Google’s Gemini AI demonstrates task automation capabilities that, while currently sluggish and awkward in real-world use, also highlight significant progress in automating multi-step digital workflows for large language models. Early integration into platforms like Uber and DoorDash underscores significant business implications.",
+      "url": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
+      "topics": ["large language models", "product updates", "AI business integration"]
+    },
+    {
+      "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
+      "summary": "EFF warns that blocking the Internet Archive in hopes of curbing AI training will not prevent companies from finding other data sources, but will jeopardize long-term public access to historical web content. The article highlights the tension between protecting copyright and preserving knowledge for research and public good.",
+      "url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
+      "topics": ["AI intellectual property", "copyright law", "academic publishing"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "I Tried DoorDash’s Tasks App and Saw the Bleak Future of AI Gig Work",
+      "summary": "A Wired reporter tests DoorDash’s new AI-powered Tasks App, exposing challenges and implications for automation in gig work.",
+      "url": "https://www.wired.com/story/i-tried-doordashs-tasks-app-and-saw-the-bleak-future-of-ai-gig-work/",
+      "topics": ["AI in business", "automation", "gig economy"]
+    },
+    {
+      "title": "Man pleads guilty to $8M AI-generated music scheme",
+      "summary": "A man has pleaded guilty to orchestrating an $8 million music fraud ring involving AI-generated tracks, illustrating the growing risk of intellectual property offenses in the generative AI era.",
+      "url": "https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme",
+      "topics": ["AI intellectual property", "music industry", "fraud"]
+    },
+    {
+      "title": "Atuin v18.13 – better search, a PTY proxy, and AI for your shell",
+      "summary": "Atuin releases v18.13, featuring improved search, a PTY proxy, and new AI-powered capabilities for command-line shell productivity.",
+      "url": "https://blog.atuin.sh/atuin-v18-13/",
+      "topics": ["AI product updates", "productivity tools", "open source"]
+    },
+    {
+      "title": "AI agents are about to start using your SaaS on behalf of your customers. Is your product ready?",
+      "summary": "A discussion about the upcoming rise of AI agents integrating with SaaS products to act autonomously on users' behalf.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rzduy4/ai_agents_are_about_to_start_using_your_saas_on/",
+      "topics": ["AI agents", "SaaS", "business integration"]
+    },
+    {
+      "title": "OpenCode – Open source AI coding agent",
+      "summary": "OpenCode has launched an open source AI agent designed to assist programmers, allowing powerful AI coding workflows in self-hosted environments.",
+      "url": "https://opencode.ai/",
+      "topics": ["open source", "AI product updates", "developer tools"]
+    },
+    {
+      "title": "AI-powered robot learns how to harvest tomatoes more efficiently",
+      "summary": "A new AI-powered robot demonstrates improved efficiency and precision in harvesting tomatoes, indicating ongoing automation advances in agriculture.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rzee1j/aipowered_robot_learns_how_to_harvest_tomatoes/",
+      "topics": ["AI applications", "agriculture", "automation"]
+    },
+    {
+      "title": "New AI model predicts record high dipole moments in unexpected molecules",
+      "summary": "Researchers introduce an AI model able to predict large dipole moments in complex molecules, revealing surprising scientific discoveries.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rzdcpp/new_ai_model_predicts_record_high_dipole_moments/",
+      "topics": ["AI applications", "scientific research", "machine learning"]
+    },
+    {
+      "title": "AI tool shows promise in diagnosing advanced heart failure",
+      "summary": "A recent study presents an AI tool capable of enhancing diagnosis for advanced heart failure, potentially improving patient outcomes.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rzdkwl/ai_tool_shows_promise_in_diagnosing_advanced/",
+      "topics": ["AI applications", "healthcare", "medical AI"]
+    },
+    {
+      "title": "AI-powered imaging tracks wound healing under the skin in real time",
+      "summary": "A novel AI-powered imaging method now allows real-time tracking of wound healing processes beneath the skin’s surface.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rzde64/aipowered_imaging_tracks_wound_healing_under_the/",
+      "topics": ["medical AI", "healthcare", "AI applications"]
+    },
+    {
+      "title": "AI shows promise for flood forecasting and water security in data scarce regions",
+      "summary": "AI models are demonstrating promise in predicting floods and ensuring water security, even in regions lacking extensive environmental data.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rzdnvo/ai_shows_promise_for_flood_forecasting_and_water/",
+      "topics": ["AI applications", "climate", "public policy"]
+    },
+    {
+      "title": "Nvidia \"confirms\" DLSS 5 relies on 2D frame data as testing reveals hallucinations",
+      "summary": "Nvidia's DLSS 5, an AI-based graphics technology, has been shown to rely heavily on 2D frame data which has resulted in graphical hallucinations in some testing.",
+      "url": "https://www.reddit.com/r/artificial/comments/1rzjgdh/nvidia_confirms_dlss_5_relies_on_2d_frame_data_as/",
+      "topics": ["AI in graphics", "product updates", "Nvidia"]
+    }
+  ],
+  "ethan_mollick": null
+}
