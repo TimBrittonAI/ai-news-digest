@@ -14,29 +14,61 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python3 << 'PYEOF'
-          import json, os, urllib.request, urllib.error
-          # Load pending votes
-          try:
-              with open('pending-votes.json', 'r') as f:
-                  pending = json.load(f)
-          except:
-              pending = []
+          import json, os, urllib.request, base64
+
+          REPO = 'TimBrittonAI/ai-news-digest'
+          TOKEN = os.environ['GITHUB_TOKEN']
+
+          def github_get(path):
+              req = urllib.request.Request(
+                  f'https://api.github.com/repos/{REPO}/contents/{path}',
+                  headers={
+                      'Authorization': f'token {TOKEN}',
+                      'Accept': 'application/vnd.github.v3+json',
+                      'User-Agent': 'signal-news-worker'
+                  }
+              )
+              with urllib.request.urlopen(req) as res:
+                  return json.loads(res.read())
+
+          def github_put(path, content, sha, message):
+              payload = json.dumps({
+                  'message': message,
+                  'content': base64.b64encode(content.encode()).decode(),
+                  'sha': sha
+              }).encode()
+              req = urllib.request.Request(
+                  f'https://api.github.com/repos/{REPO}/contents/{path}',
+                  data=payload,
+                  method='PUT',
+                  headers={
+                      'Authorization': f'token {TOKEN}',
+                      'Accept': 'application/vnd.github.v3+json',
+                      'Content-Type': 'application/json',
+                      'User-Agent': 'signal-news-worker'
+                  }
+              )
+              with urllib.request.urlopen(req) as res:
+                  return json.loads(res.read())
+
+          # Load pending votes from GitHub API
+          pending_file = github_get('pending-votes.json')
+          pending = json.loads(base64.b64decode(pending_file['content'].replace('\n', '')))
+
           if not pending:
               print("No pending votes to process")
               exit(0)
-          # Load existing feedback
-          try:
-              with open('feedback.json', 'r') as f:
-                  feedback = json.load(f)
-          except:
-              feedback = {"topic_votes": {}}
+
+          # Load existing feedback from GitHub API
+          feedback_file = github_get('feedback.json')
+          feedback = json.loads(base64.b64decode(feedback_file['content'].replace('\n', '')))
+
           api_key = os.environ['ANTHROPIC_API_KEY']
           for vote in pending:
               title = vote.get('title', '')
               direction = vote.get('direction', '')
               if not title or not direction:
                   continue
-              # Call Claude to extract topics
               payload = json.dumps({
                   "model": "claude-haiku-4-5-20251001",
                   "max_tokens": 60,
@@ -64,19 +96,14 @@ jobs:
                       print(f"Processed: {title} -> {topics} ({direction})")
               except Exception as e:
                   print(f"Failed for '{title}': {e}")
-          # Save updated feedback
-          with open('feedback.json', 'w') as f:
-              json.dump(feedback, f, indent=2)
-          # Clear pending votes
-          with open('pending-votes.json', 'w') as f:
-              json.dump([], f)
+
+          # Write feedback.json via API
+          github_put('feedback.json', json.dumps(feedback, indent=2), feedback_file['sha'], 'Update feedback.json')
+          print("Saved feedback.json")
+
+          # Clear pending-votes.json via API
+          github_put('pending-votes.json', json.dumps([], indent=2), pending_file['sha'], 'Clear pending votes')
+          print("Cleared pending-votes.json")
+
           print("Done")
           PYEOF
-      - name: Commit results
-        run: |
-          git config user.name "Signal Bot"
-          git config user.email "signal@signal-digest.co.uk"
-          git fetch origin main
-          git rebase origin/main
-          git add feedback.json pending-votes.json
-          git diff --staged --quiet && echo "Nothing to commit" || (git commit -m "Process feedback votes" && git push)
