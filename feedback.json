@@ -1,8 +1,10 @@
 {
   "topic_votes": {
     "general": 0,
-    "AI": 1,
+    "AI": 2,
     "E-commerce": 1,
-    "Chatbots": 1
+    "Chatbots": 1,
+    "Defense": 1,
+    "Legal": 1
   }
 }
