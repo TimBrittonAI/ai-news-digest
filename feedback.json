@@ -1,5 +1,8 @@
 {
   "topic_votes": {
-    "general": 0
+    "general": 0,
+    "AI": 1,
+    "E-commerce": 1,
+    "Chatbots": 1
   }
 }
