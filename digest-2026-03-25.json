@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
+      "summary": "OpenAI has shut down its Sora AI video app, leading Disney to exit a major deal with the company. The move marks a significant retreat for OpenAI in its ambitions for AI-generated media and impacts its relationship with key entertainment partners.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
+      "topics": ["AI in business", "generative AI", "OpenAI"]
+    },
+    {
+      "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+      "summary": "Google Research introduces TurboQuant, a framework that achieves extreme compression rates for AI models while maintaining high performance. The technology paves the way for deploying powerful AI models on resource-constrained devices and may influence future enterprise applications.",
+      "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+      "topics": ["large language models", "AI efficiency", "AI research"]
+    },
+    {
+      "title": "ChatGPT and Gemini are fighting to be the AI bot that sells you stuff",
+      "summary": "Both OpenAI's ChatGPT and Google's Gemini are integrating new shopping features to compete for dominance in e-commerce. These AI models are being enhanced with capabilities to suggest products, answer purchase-related questions, and drive online sales.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features",
+      "topics": ["AI in business", "large language models", "e-commerce"]
+    },
+    {
+      "title": "Pentagon’s ‘Attempt to Cripple’ Anthropic Is Troubling, Judge Says",
+      "summary": "A federal judge criticized the Pentagon's effort to restrict Anthropic's ability to compete for government contracts, calling the move 'troubling.' The case highlights legal battles over AI company access to lucrative government markets and may set significant precedents for the industry.",
+      "url": "https://www.wired.com/story/pentagons-attempt-to-cripple-anthropic-is-troublesome-judge-says/",
+      "topics": ["AI regulation", "AI in business", "Anthropic"]
+    },
+    {
+      "title": "Oracle Fusion Apps Give Enterprises Secure, Specialized Agents",
+      "summary": "Oracle has announced enhancements to its Fusion Applications suite, introducing secure, specialized AI agents for enterprise users. The update underscores how large software vendors are leveraging AI to deliver tailored automation securely within business applications.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFNLTG94c0xqWEVCTlpyV04tZG92SGNicFRpV1l1TUpmZ3FZV2t6dHRLMktNQmtZV3hhdFh5d0pyLXpCMHVoSXVJa25EaVNhR0lyRWF0N015NUZ0bjBQSlpMWWc5ZzNSbkpjdlB6MV92TFZDVEtsUTQ2QzItTng3cnJjeEt4SjJwaTdj?oc=5",
+      "topics": ["AI in business", "enterprise software", "AI automation"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Arm’s first CPU ever will plug into Meta’s AI data centers later this year",
+      "summary": "Arm has announced its first ever CPU, designed to run AI workloads and set for deployment in Meta's data centers.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
+      "topics": ["AI hardware", "AI infrastructure", "Meta"]
+    },
+    {
+      "title": "Arm Is Now Making Its Own Chips",
+      "summary": "Chip designer Arm is taking the unusual step of manufacturing its own AI-focused chips, aiming to accelerate development and adoption in AI data centers.",
+      "url": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
+      "topics": ["AI hardware", "AI infrastructure", "semiconductors"]
+    },
+    {
+      "title": "Global IT Spending Market to Reach USD 2.98 Trillion by 2032, Driven by AI, Cloud Expansion, and Enterprise Digital Transformation, Says MarkNtel Advisors",
+      "summary": "A new market report forecasts global IT spending to soar to $2.98 trillion by 2032, with AI highlighted as a key driver.",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQeXZ2aWdMakxTSVpkM1pIemZiM245NzNoV04zQ1VIQ1FkYVhsOW41TjQwU2JpN1NwQV81YWE4bG0tb0huQlV2cG1IZUxrb0g0ZTlWejFQVlRvUE9aN3d2VFJfdlFhNURQNzlVUnVFSWJycEpnRWRJZVV6UXd0X2VhQVNZeFd1WnlBZmZ1clk5VGRqMWhPb0dEQ0cyOFExdzdpdlpTVDlYNjVxR1R2LS1XYjcwUWRsaUUtSHRfeFUxeV9DY21KOGRHTlZFTHJWNnF4R2lKQWxYSmUtRjlBeWJ1N2p6SW04Q2hCNDVfLTg4cF8yUHlaUjR6bnViNWdqVHVkbGVnNWdkczN4bXNFTmV1OGlSajB6cTEzblM1dmhrNVd5UnZRSzMxTzVJVm84WnBUcmk4?oc=5",
+      "topics": ["AI in business", "enterprise IT", "AI investment"]
+    },
+    {
+      "title": "Savanta introduces Virtual Personas for AI-powered consumer research in seconds",
+      "summary": "Savanta has launched Virtual Personas, an AI-driven solution enabling rapid and scalable consumer insights for market research.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNkx5ai1fUlpQSnRmTjJLOGFPak1DYzlpZHUwSnh0d2RhVFo4QU5DTHYtVHRHR1dhb1JLTGZYcHJyM3dFY3N2YXVmVkFla3V0anBvZ0F2RGNrVWxJR3VXOTlfYWZmRXdCRVA0SEx6MTNxM05fYjJ1b3NhT3JGd2kxeElwMzZTMktKTDNySXRCeFpWaVROeXFyd3NubWhXbkRzM2c?oc=5",
+      "topics": ["AI in business", "market research", "consumer analytics"]
+    },
+    {
+      "title": "Generative AI in Creative Industries Market Size, Trends & Forecast 2032",
+      "summary": "A new analysis highlights the growing impact of generative AI across creative sectors, predicting significant market expansion by 2032.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYnIyWkdqQmV2NkI0V3I4MDQ4emN5THhBNjZHUm5LLVo4dUR6NDlkTmNuaG9aMlhJZUNhSFdNVVl4c0UtSzFMdGo5VkRpUVRnZmQyT1hIQTlKd0Q0Q0tta3NFbTFXck9EYjVwbDFBdjh0UjUwLUxRX3ZwMmJmM3BGeG11dDVYWXV5TXBjamxtb0VvN1ZsV1E?oc=5",
+      "topics": ["generative AI", "creative industries", "market trends"]
+    },
+    {
+      "title": "Predictive Genetic Counselling Market Poised for Strong Growth Driven by AI Integration and Personalized Medicine Demand",
+      "summary": "The predictive genetic counseling sector is set for robust growth through 2032, fueled by AI technologies and the rise in personalized medicine.",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPdFVFV2ZoZHo0TGtjdVd3WmltVk5vN0wxdXNYQzlEUnFJT0V1anREc0Vjd200RTRDMmgwbnUyWXhoc1pabFFkaWpKMFU0TXFpemtWT3ZCTVNVcEtKTFJaaklmak9mOFJFeUVlZFZwV1E1aTZtUGVYRlpULTRqS1V1M0dVbVFFT1BCQS1MNUcxOEUwRjc1RVRNYjFnbjQxdVZNQ2p4OWM3eUo4a2lyYVZYbnloM3poRDctUzBzUFdPaVgwR1hrLVgxQkg3ZW9YVXlYM2RkM2xpNTFpT2lyQ3FJWURWLThDSWoybFhSNkpWVkpxNzU4ZmJPbDZCb0xwdE5lZ2UzT29hVkczalE?oc=5",
+      "topics": ["AI in healthcare", "personalized medicine", "genomics"]
+    },
+    {
+      "title": "How Enterprise Research Teams Scale Market Analysis with Web Scraper APIs",
+      "summary": "Enterprise research teams are leveraging AI-enabled web scraper APIs to efficiently scale their market analysis and competitive intelligence.",
+      "url": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
+      "topics": ["AI in business", "market research", "automation"]
+    },
+    {
+      "title": "AI Security Camera Market Set for Significant Growth | Hikvision • Dahua Technology • Axis Communications",
+      "summary": "The AI security camera market is projected to experience strong growth as organizations adopt AI-powered surveillance solutions globally.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ0VETGRxMmJ2dXI0Szc5M0tOenFzdkYzQjNSQTdxeFRVaDJfZXdFbkFXS1FuMTA4eTBiU1RiZUg5Y28zYVZ5Q2k1cVZOMnBOYXo4MHdXUndkMXA0bHRFdGJYay05dThWUlV0NGVLTDBSY2x6czhmUDZLX3pxM1lpSjMxbVdvTDNMVWdTTmhRZy1McmVzd0lWT2FQTzhnVmc?oc=5",
+      "topics": ["AI in security", "computer vision", "market trends"]
+    },
+    {
+      "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
+      "summary": "MIT Technology Review explores the readiness of businesses to deploy autonomous AI agents capable of handling key tasks and decision-making.",
+      "url": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
+      "topics": ["AI agents", "AI adoption", "business automation"]
+    },
+    {
+      "title": "The AI Hype Index: AI goes to war",
+      "summary": "MIT Technology Review's 'AI Hype Index' investigates the increasing integration of AI technologies into warfare and defense.",
+      "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+      "topics": ["AI in defense", "AI regulation", "AI trends"]
+    }
+  ],
+  "ethan_mollick": null
+}
