@@ -1,13 +1,15 @@
 {
   "topic_votes": {
     "general": 0,
-    "AI": 2,
+    "AI": 3,
     "E-commerce": 1,
     "Chatbots": 1,
     "Defense": 1,
     "Legal": 1,
     "AI Video": 1,
     "OpenAI": 1,
-    "Business": 1
+    "Business": 1,
+    "Consumer Research": 1,
+    "Market Research": 1
   }
 }
