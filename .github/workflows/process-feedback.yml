@@ -76,6 +76,7 @@ jobs:
         run: |
           git config user.name "Signal Bot"
           git config user.email "signal@signal-digest.co.uk"
-          git pull --rebase
+          git fetch origin main
+          git rebase origin/main
           git add feedback.json pending-votes.json
           git diff --staged --quiet && echo "Nothing to commit" || (git commit -m "Process feedback votes" && git push)
