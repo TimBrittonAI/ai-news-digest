@@ -78,5 +78,4 @@ jobs:
           git config user.email "signal@signal-digest.co.uk"
           git pull --rebase
           git add feedback.json pending-votes.json
-          git diff --staged --quiet || git commit -m "Process feedback votes"
-          git push
+          git diff --staged --quiet && echo "Nothing to commit" || (git commit -m "Process feedback votes" && git push)
