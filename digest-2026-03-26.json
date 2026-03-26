@@ -1,0 +1,101 @@
+{
+  "top_stories": [
+    {
+      "title": "Wikipedia bans AI-generated articles",
+      "summary": "Wikipedia’s community has decided to ban the publication of AI-generated, machine-translated articles following concerns over quality and reliability. The move comes amid rising attempts to use AI for mass article creation and translation, raising ongoing questions about the role of generative AI in collaborative publishing.",
+      "url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+      "topics": ["academic publishing", "generative AI", "copyright"]
+    },
+    {
+      "title": "Webtoon is adding AI localization tools to its comics platform",
+      "summary": "Webtoon, a leading digital comics platform, is introducing AI-based localization and translation tools to support creators in reaching global audiences. The new features are designed to reduce barriers for comics to be published in multiple languages, addressing quality and workflow concerns with human oversight.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
+      "topics": ["language translation", "E-commerce", "AI tools"]
+    },
+    {
+      "title": "Meta is laying off hundreds of employees as it pours money into AI",
+      "summary": "Meta has begun another round of layoffs, cutting hundreds of employees, particularly in its business groups, as the company increases its investment in AI projects. The restructuring reflects a broader corporate shift toward artificial intelligence amid industry-wide competition.",
+      "url": "https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees",
+      "topics": ["Business", "Layoffs", "AI investment"]
+    },
+    {
+      "title": "Oracle Fusion’s New Agentic AI: Automating the Future of Enterprise Work",
+      "summary": "Oracle has unveiled agentic AI features in its Fusion applications, automating enterprise workflows such as procurement, HR, and finance. The company promises that its AI agents can reason, decide, and act across business processes, potentially transforming enterprise productivity.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON3ZrV2hQVURqRWtZSDJGeDVmMnJGSlVMTlhHVXlIOXNQcE1aR2tUYTRKaE1EWVV0T3R1UUxMaDV5eWhkN3N1YmxocXUzLW5STEVzekdDQ2syYmh5d3BOdHNnX1kyMW9lenFmRVdnMnVhRU1wdGhMWlNZY0tROVpXcGZMRGtqcHRrUVJnaERGdEw4T09PM2E4Qldpcw?oc=5",
+      "topics": ["large language models", "AI agents", "Business"]
+    },
+    {
+      "title": "Protecting people from harmful manipulation",
+      "summary": "Google DeepMind discusses new research and product-level safeguards to counteract malicious manipulation by AI systems, including deepfakes and deceptive agents. The comprehensive update outlines efforts in detection, policy, and responsible development to mitigate risks as generative AI becomes more prevalent.",
+      "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+      "topics": ["AI regulation", "generative AI", "OpenAI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "summary": "Google DeepMind introduces Gemini 3.1 Flash Live, highlighting advancements in natural-sounding audio AI and greater reliability for users.",
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+      "topics": ["large language models", "AI Video", "OpenAI"]
+    },
+    {
+      "title": "OpenAI shelves erotic chatbot ‘indefinitely’",
+      "summary": "OpenAI has suspended a planned 'adult mode' chatbot, citing concerns about safety and potential misuse, reflecting ongoing ethical debates about generative AI.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
+      "topics": ["OpenAI", "chatbots", "AI regulation"]
+    },
+    {
+      "title": "Wiring the intelligent enterprise for the year ahead - 2026 will be a year of reckoning for AI",
+      "summary": "Analysis predicts significant AI-driven changes across enterprises in 2026, with particular focus on readiness, investment, and future business transformation.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZjFMdFVkTTJNRE5LdDBkdEJZYmQtQzZwVWYyUlZjeGxJZDd2YXlDMnBqLWpBNC13SlZZUnZydW41LU9nUFE3VVRKLWpKdmw1M3JnVXd5a0MxWnZNRUZkTXNQU0N6STdRUEZQQTBFS09xLURKN3U2Z3F5NlUydHZnSHQ5QmozMEh6SU1UQXRic05FS0Z4ZVJmSnZpMFlTNlVUYUV6aGdqbG9CaHdYSmY2emxNLVNyV24yWVM0SnBTYXZuTWtMTzdR?oc=5",
+      "topics": ["Business", "large language models", "AI tools"]
+    },
+    {
+      "title": "Why Not Use AI to Cross the Language Barrier in Academic Publishing?",
+      "summary": "An exploration of how AI-driven language translation could help democratize access to academic publishing and research dissemination.",
+      "url": "https://www.wired.com/story/why-not-use-ai-to-cross-the-language-barrier-in-academic-publishing/",
+      "topics": ["academic publishing", "language translation", "AI tools"]
+    },
+    {
+      "title": "Disney’s big bets on the metaverse and AI slop aren’t going so well",
+      "summary": "Disney's investments in combining metaverse technologies with AI-generated content have hit several roadblocks, raising concerns over quality and profitability.",
+      "url": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse",
+      "topics": ["generative AI", "Business", "AI Video"]
+    },
+    {
+      "title": "Oracle: AI agents can reason, decide and act - liability question remains",
+      "summary": "Oracle asserts its AI agents are capable of robust decision-making, but raises unresolved questions about liability and responsibility for AI-led actions.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wNUFxLXgtYVZUcWJITnd6Qm5SejFUWnRIT0hHaGh0ZTFnZnlhajR4YmJNcEM2RVlEN2kwNVZOZDhjR3RCdFd3RU9NekljX21oQ1AzYXU4NFNncWdpcHZ5Yzhzbk4wd0VfVlh3ck9HZVdoUkZuV3o0?oc=5",
+      "topics": ["AI agents", "legal", "Business"]
+    },
+    {
+      "title": "OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage",
+      "summary": "A new study from Northeastern University demonstrates that AI agents can be manipulated into making counterproductive decisions, underscoring challenges in agentic AI safety.",
+      "url": "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/",
+      "topics": ["AI agents", "security", "AI research"]
+    },
+    {
+      "title": "Lyria 3 Pro: Create longer tracks in more",
+      "summary": "Google announces Lyria 3 Pro, an upgrade to its AI music system capable of producing longer, higher-quality tracks across multiple genres.",
+      "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+      "topics": ["AI Video", "generative AI", "OpenAI"]
+    },
+    {
+      "title": "Can you monitor a situation without monitors? The Polymarket sports bar tried",
+      "summary": "A look at how prediction markets like Polymarket are experimenting with AI monitoring to facilitate real-time resolution in decentralized spaces.",
+      "url": "https://www.theverge.com/column/900536/alliance-for-a-better-future-polymarket",
+      "topics": ["AI tools", "Business", "Consumer Research"]
+    },
+    {
+      "title": "‘She’s Never Going to Age’: Porn Stars Are Embracing AI Clones to Stay Forever Young",
+      "summary": "Adult industry performers are adopting AI-powered digital clones to generate perpetual content, raising ethical and IP questions around consent and likeness.",
+      "url": "https://www.wired.com/story/shes-never-going-to-age-porn-stars-are-embracing-ai-clones-to-stay-forever-young/",
+      "topics": ["generative AI", "copyright", "Business"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "Reimagining the enterprise: From copilots to agentic AI",
+    "summary": "Ethan Mollick discusses the transition in enterprise AI from traditional copilots to more capable agentic systems. He explores the implications for business processes, automation, and the new possibilities—and risks—that come with giving AI greater autonomy in organizational settings.",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZVV1U1ZhWVMyM0NnTVRtdFpmb0c5NWZxanpWcUhtZTAwdG9CMkU5eWdEWVBNV3lLTGhRbVBXSTIwOHFod3Q0TUM1bm1ZY0x6Q1NWU1VGR1FJY1JvdXRFVjdNakJkMkFoRG45QXFuV3ItaW9UZTRaWFNTZ21xN3kwRktRRlptSkxHY3JqNUdGTVJDVVNGeUtr?oc=5"
+  }
+}
