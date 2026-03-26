@@ -1,0 +1,103 @@
+{
+  "top_stories": [
+    {
+      "title": "Pentagon formalizes Palantir's Maven AI as a core military system with multi-year funding — platform's investment grows to $13 billion from $480 million in 2024. The Pentagon is spending $13.4 billion on AI this year alone.",
+      "summary": "The U.S. Department of Defense has formalized Palantir’s Maven AI as a central military system with a significant multi-year funding commitment. The budget has expanded from $480 million to $13 billion this year, reflecting a major push to embed AI across defense operations.",
+      "url": "https://www.reddit.com/r/artificial/comments/1s3t064/pentagon_formalizes_palantirs_maven_ai_as_a_core/",
+      "topics": ["AI in defense", "enterprise AI adoption", "government AI investment"]
+    },
+    {
+      "title": "Meta is laying off hundreds of employees as it pours money into AI",
+      "summary": "Meta is conducting layoffs affecting hundreds of employees, focusing on positions in tech and engineering, as it reallocates resources to accelerate its investment in AI development. The company is shifting priorities to reinforce its competitiveness in the ongoing AI race.",
+      "url": "https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees",
+      "topics": ["AI business strategy", "tech layoffs", "Meta AI"]
+    },
+    {
+      "title": "Oracle Fusion’s New Agentic AI: Automating the Future of Enterprise Work",
+      "summary": "Oracle has unveiled a new suite of agentic AI tools within its Fusion offering, aimed at automating various enterprise workflows. These AI agents are designed to reason, decide, and act on business tasks, with Oracle highlighting improved productivity and reduced manual effort as core benefits.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON3ZrV2hQVURqRWtZSDJGeDVmMnJGSlVMTlhHVXlIOXNQcE1aR2tUYTRKaE1EWVV0T3R1UUxMaDV5eWhkN3N1YmxocXUzLW5STEVzekdDQ2syYmh5d3BOdHNnX1kyMW9lenFmRVdnMnVhRU1wdGhMWlNZY0tROVpXcGZMRGtqcHRrUVJnaERGdEw4T09PM2E4Qldpcw?oc=5",
+      "topics": ["enterprise AI", "AI product updates", "Oracle"]
+    },
+    {
+      "title": "In the Kadrey v. Meta Platforms case, Judge Chabbria's quest to bust the fair use copyright defense to generative AI training rises from the dead!",
+      "summary": "New developments in the Kadrey v. Meta Platforms court case indicate that Judge Chabbria is revisiting the legal contours of fair use in the context of generative AI model training. The outcome may significantly shape IP and copyright law around AI’s use of copyrighted materials.",
+      "url": "https://www.reddit.com/r/artificial/comments/1s3pfzh/in_the_kadrey_v_meta_platforms_case_judge/",
+      "topics": ["AI legal issues", "copyright law", "generative AI"]
+    },
+    {
+      "title": "Why Not Use AI to Cross the Language Barrier in Academic Publishing?",
+      "summary": "This article discusses the growing adoption of AI-powered translation tools to make academic research more accessible across languages. It evaluates recent advancements, challenges to accuracy, and the potential impact on global knowledge sharing.",
+      "url": "https://www.wired.com/story/why-not-use-ai-to-cross-the-language-barrier-in-academic-publishing/",
+      "topics": ["academic publishing", "AI translation", "accessibility"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Oracle: AI agents can reason, decide and act - liability question remains",
+      "summary": "Oracle discusses the capabilities of AI agents in decision-making for enterprises, raising questions about liability and accountability for their actions.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wNUFxLXgtYVZUcWJITnd6Qm5SejFUWnRIT0hHaGh0ZTFnZnlhajR4YmJNcEM2RVlEN2kwNVZOZDhjR3RCdFd3RU9NekljX21oQ1AzYXU4NFNncWdpcHZ5Yzhzbk4wd0VfVlh3ck9HZVdoUkZuV3o0?oc=5",
+      "topics": ["enterprise AI", "AI accountability"]
+    },
+    {
+      "title": "OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage",
+      "summary": "A new study finds that AI agents, such as OpenClaw, can be manipulated through social engineering-like prompts to undermine their own objectives.",
+      "url": "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/",
+      "topics": ["AI security", "LLM vulnerabilities", "AI agents"]
+    },
+    {
+      "title": "Cosmote launches business cloud ecosystem with GPU-as-a-Service for AI applications",
+      "summary": "Cosmote has launched a cloud platform that provides GPU resources as a service, designed to support AI workloads for enterprise clients.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWURTTXhUVHFuNW1QeHJVZG4xU3JUS1FXWUFmYUpoVFFJd3M5cFI3OTEyaXZzUW5INE0zSlRUcTEtMTNKbkFSWXN5ZnMyZ244NFptM3BickV3YWxLTUVXSUhiRTJBOHhIdnNMaThwMjRjcFhsZjA1dWc2SWE0N3MyUUhndTl6VFpDVmpMRVhaVUF5OWxwWHowdUNfYnBDMHZwWDBDaGVLX2s2VVFlWTZlN2N0NzNBckoyNUZxWmdILW5xLVNJ?oc=5",
+      "topics": ["AI cloud services", "enterprise AI", "GPU-as-a-Service"]
+    },
+    {
+      "title": "Wiring the intelligent enterprise for the year ahead - 2026 will be a year of reckoning for AI",
+      "summary": "Industry leaders predict that 2026 will be pivotal for AI in enterprises, as businesses navigate practical limits and scalability challenges.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZjFMdFVkTTJNRE5LdDBkdEJZYmQtQzZwVWYyUlZjeGxJZDd2YXlDMnBqLWpBNC13SlZZUnZydW41LU9nUFE3VVRKLWpKdmw1M3JnVXd5a0MxWnZNRUZkTXNQU0N6STdRUEZQQTBFS09xLURKN3U2Z3F5NlUydHZnSHQ5QmozMEh6SU1UQXRic05FS0Z4ZVJmSnZpMFlTNlVUYUV6aGdqbG9CaHdYSmY2emxNLVNyV24yWVM0SnBTYXZuTWtMTzdR?oc=5",
+      "topics": ["enterprise AI", "AI business strategy", "future trends"]
+    },
+    {
+      "title": "The research firm whose AI paper knocked the whole stock market is out with another big call",
+      "summary": "A research firm's new AI-driven analysis has generated significant attention with another market-moving prediction, following their earlier work's impact on the stock market.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOekY0bHhNVXlmeVR6YUV1NFhSN1RXcG9CUEZldHM3N0h0Vk42b2c4M1ZSYmcyZkFkOVJlWEc1SDVjTGlabm9NSmRUSFU5TmhaTXNpeVZ1YUZhcVJHRmxXc3h1QTQxeXNKNG04VGRkMWxhZHZ1dGo1OGp1bXZHQnFXU1c2YnpjNUdvUXlLbi1EX2NfS3hFeWU2Rm5abmxKU2w1VGFCc2FacUVidmM2SERMc2d6OVTSAboBQVVfeXFMT3RkNWpCVTJvMmtrQm5seDBGU1pqOVJnRDgtUXEtV01wVEtsYVRDVkZBalM5bHVVUEtGd1kycW5qUlpoN080Ym0tZFVwQ2hxOTZsN3NLbzlGMHdIS0UtLTlQcEE2UE5mcmtuQjVoaWtGUDVjM3dpY2RBTEp4bng1cElEN2JWaTBkQ2M2M0RJVlVpY21fcElzaWlxMXkxVWpNNVdxdmstRTluVXhrWjBwdVgwLWptaC1JWFdn?oc=5",
+      "topics": ["AI finance", "market analysis", "AI impact"]
+    },
+    {
+      "title": "Disney’s big bets on the metaverse and AI slop aren’t going so well",
+      "summary": "Disney’s significant investments in AI-driven experiences and the metaverse are meeting resistance, with projects experiencing mixed results and slow uptake.",
+      "url": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse",
+      "topics": ["AI business", "entertainment", "metaverse"]
+    },
+    {
+      "title": "There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos",
+      "summary": "Wired examines the dark and sometimes disturbing trends behind viral AI-generated fruit videos, raising concerns about ethics and AI content moderation.",
+      "url": "https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/",
+      "topics": ["AI content generation", "ethics", "social media"]
+    },
+    {
+      "title": "Synthetic Media Market to Reach $48.55 Billion by 2033 at 26.75%",
+      "summary": "A report forecasts substantial growth in the synthetic media market, with AI-generated content expected to transform multiple industries.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTjB5ZXRqUkZKbHBXR3ROTmxVcGZCekwtWk4zbkV1OXFQeDN4M3BheVBwRDBkRTdtYTVXQ1hLbkJOeFk2bmlzdkxia2IzT2FlUFpYazdRNlVvZFVZYUUtUy0tVVZ0VUk5OU5jNnRxc0ktLUxDcUpRNTNzU2RCZE1KNVRucU5OcDBRX2VFQzE0R0ktektwcmdzcmtFWDFFdGs?oc=5",
+      "topics": ["synthetic media", "AI content", "market forecast"]
+    },
+    {
+      "title": "AI in Biotechnology Market to Reach $22.72 Billion by 2035",
+      "summary": "The AI in biotechnology sector is expected to grow significantly, reaching a projected $22.72 billion by 2035 according to a new industry report.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSHRfUmVBTWhCQzRhQk5FYUVVVzdGSy1FT1FNMV9EQ3JQX093Um5zTGJmSkQ3c3Y0TXlwUGdQSzh2S1VvQ0xNYkVZSmlick9Lb0hiRXVlSjVmMmlnV0VLeFNOeW1YTXlva3Jwakl4R216ZUY0c0djM00xMDRqb0FfTnJkQmRGb1A0MUc0SzRWWHh1VUh0YXRISA?oc=5",
+      "topics": ["AI in biotechnology", "market forecast", "healthcare AI"]
+    },
+    {
+      "title": "Optical Interconnect in AI Data Centers Market to Reach $18.36",
+      "summary": "A comprehensive analysis shows the market for optical interconnects in AI data centers is rapidly growing, reflecting increased AI infrastructure needs.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeEdqdGkzb3ZXdFRlb2Z5czdpQVAzN1NiR0M2d2NCRFdZNEJBdzI5WHdSWWF5OXkwVWUtV0hNT2ZlMlZ6bHZnWHFZLVJ0bG5vZkwzV0M1dkd2bW9QSi1ETFJxRHk4V3FJNUVWWnAyWGJTSVE5U2VVd2lxalBxRzdqdkJvdUNlcnhMU1llZnRYd29Sc0h6WjlLY1NBeG5vQQ?oc=5",
+      "topics": ["AI infrastructure", "data centers", "hardware"]
+    },
+    {
+      "title": "What will become of young researchers in an AI world?",
+      "summary": "Examines the challenges and opportunities that AI presents to early-career researchers as automation reshapes academic work.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPel90djVmRE9heUpMQ1VoX2ZmZGhRSkVaWlktWlZSVWxyUVgxXzJ4TTdtU2drbzhKeV9FMk1DbzdaZndrSFl3dExnNERTZjE4ek05S3pEb25yNmVDUmhUZjUwd0N0QWdGT1BGRnozdUlpRVRNbW5YWDFZd19lOEpvelA4QTFMd3VZVlByYkpTUUNNZEQzb0ZLNmNpbjR4bDlfYjdqRVpOUmVWczFTRXc?oc=5",
+      "topics": ["AI in academia", "research", "workforce impact"]
+    }
+  ],
+  "ethan_mollick": null
+}
