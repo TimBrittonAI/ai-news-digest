@@ -1,0 +1,101 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI shelves erotic chatbot ‘indefinitely’",
+      "summary": "OpenAI has decided to indefinitely pause the development of an 'adult mode' erotic chatbot after internal discussions over ethics and safety. The project was reportedly shelved due to potential risks and lack of clear guidelines for such content.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
+      "topics": ["large language models", "AI ethics", "OpenAI"]
+    },
+    {
+      "title": "Webtoon is adding AI localization tools to its comics platform",
+      "summary": "Webtoon, a major web comics platform, is introducing AI-powered language translation and localization tools. The move aims to lower language barriers and broaden the global reach of creators, sparking questions about quality, copyright, and the role of human translators.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
+      "topics": ["language translation", "AI in publishing", "copyright"]
+    },
+    {
+      "title": "EU backs nude app ban and delays to landmark AI rules",
+      "summary": "European lawmakers have voted to ban apps that create nude images from user photos as part of a broader update to AI regulations, while also agreeing to delay the implementation of the EU's landmark AI Act. The debate reflects ongoing concerns about generative AI misuse and regulatory readiness.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
+      "topics": ["AI regulation", "generative AI", "fair use"]
+    },
+    {
+      "title": "Oracle Fusion’s New Agentic AI: Automating the Future of Enterprise Work",
+      "summary": "Oracle has enhanced its Fusion Cloud applications with 'agentic AI' features designed to automate complex enterprise workflows. The update leverages Large Language Models to streamline tasks and boost productivity across business operations.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON3ZrV2hQVURqRWtZSDJGeDVmMnJGSlVMTlhHVXlIOXNQcE1aR2tUYTRKaE1EWVV0T3R1UUxMaDV5eWhkN3N1YmxocXUzLW5STEVzekdDQ2syYmh5d3BOdHNnX1kyMW9lenFmRVdnMnVhRU1wdGhMWlNZY0tROVpXcGZMRGtqcHRrUVJnaERGdEw4T09PM2E4Qldpcw?oc=5",
+      "topics": ["AI in business", "large language models", "enterprise automation"]
+    },
+    {
+      "title": "Senators Demand to Know How Much Energy Data Centers Use",
+      "summary": "US Senators Elizabeth Warren and Josh Hawley are demanding data from energy officials to understand the electricity consumption of AI-driven data centers. The bipartisan inquiry reflects rising political and environmental scrutiny of AI infrastructure.",
+      "url": "https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/",
+      "topics": ["AI infrastructure", "regulation", "energy consumption"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "The Download: a battery pivot to AI, and rewriting math",
+      "summary": "This newsletter highlights an energy storage startup using AI for a new product direction and introduces an AI tool reshaping approaches to mathematical problems.",
+      "url": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/",
+      "topics": ["AI in business", "AI tools", "mathematics"]
+    },
+    {
+      "title": "Pentagon formalizes Palantir's Maven AI as a core military system with multi-year funding — platform's investment grows to $13 billion from $480 million in 2024. The Pentagon is spending $13.4 billion on AI this year alone.",
+      "summary": "The Pentagon has designated Palantir's Maven AI platform as a key military asset, boosting funding and underscoring the rising importance of AI in US defense strategy.",
+      "url": "https://www.reddit.com/r/artificial/comments/1s3t064/pentagon_formalizes_palantirs_maven_ai_as_a_core/",
+      "topics": ["defense", "AI in business", "government"]
+    },
+    {
+      "title": "Wiring the intelligent enterprise for the year ahead - 2026 will be a year of reckoning for AI",
+      "summary": "Industry analysts predict that 2026 will mark a turning point as businesses deploy AI at scale, highlighting new challenges related to data, regulation, and workforce adaptation.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZjFMdFVkTTJNRE5LdDBkdEJZYmQtQzZwVWYyUlZjeGxJZDd2YXlDMnBqLWpBNC13SlZZUnZydW41LU9nUFE3VVRKLWpKdmw1M3JnVXd5a0MxWnZNRUZkTXNQU0N6STdRUEZQQTBFS09xLURKN3U2Z3F5NlUydHZnSHQ5QmozMEh6SU1UQXRic05FS0Z4ZVJmSnZpMFlTNlVUYUV6aGdqbG9CaHdYSmY2emxNLVNyV24yWVM0SnBTYXZuTWtMTzdR?oc=5",
+      "topics": ["AI in business", "enterprise automation", "AI regulation"]
+    },
+    {
+      "title": "PetaSight Acquires Babbage Insight to Strengthen AI-Powered Insight Delivery in Life Sciences Primary Market Research",
+      "summary": "PetaSight's acquisition of Babbage Insight aims to enhance the use of AI for data-driven insights in life sciences market research.",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOVGFwNUFpbmEzSW91VzNLSHFUVlJodFNTam44dkZUT0k3QXdvRzltTjZIdnB0Zm5wMFVFWkxpNXFjSlBrQjhqUW9jckJaQTBtaEQ0OVQ0ak81VHZvQWVqNlhfaWF5cDhrTENELS1WOTFmQ3JjTXBPeUh2U082aEtic0Rncl9STU5EOWNBanJ3YzIxSmV1MEJYdE8tY1gtaE1LTjJHRTdOZlljNXlnSmRGc1h3R1JscUg5TDRRYWRlMzhhbndfN3FBbFI3R3JkWFR0YlZxcm1ObWstRDRxbjVENzNsdk1NVWUtUGNNbTcxajZZZEJBR0pQb1JCbVBXRmhHZFRtVA?oc=5",
+      "topics": ["AI in business", "market research", "acquisitions"]
+    },
+    {
+      "title": "Cosmote launches business cloud ecosystem with GPU-as-a-Service for AI applications",
+      "summary": "Telecom provider Cosmote has unveiled a cloud-based GPU service to help businesses scale up their AI operations without investing in costly hardware.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWURTTXhUVHFuNW1QeHJVZG4xU3JUS1FXWUFmYUpoVFFJd3M5cFI3OTEyaXZzUW5INE0zSlRUcTEtMTNKbkFSWXN5ZnMyZ244NFptM3BickV3YWxLTUVXSUhiRTJBOHhIdnNMaThwMjRjcFhsZjA1dWc2SWE0N3MyUUhndTl6VFpDVmpMRVhaVUF5OWxwWHowdUNfYnBDMHZwWDBDaGVLX2s2VVFlWTZlN2N0NzNBckoyNUZxWmdILW5xLVNJ?oc=5",
+      "topics": ["AI infrastructure", "cloud computing", "GPU"]
+    },
+    {
+      "title": "‘She’s Never Going to Age’: Porn Stars Are Embracing AI Clones to Stay Forever Young",
+      "summary": "Adult entertainment performers are adopting AI-generated digital avatars to maintain perpetual youth and control their image, reflecting both new opportunities and ethical debates.",
+      "url": "https://www.wired.com/story/shes-never-going-to-age-porn-stars-are-embracing-ai-clones-to-stay-forever-young/",
+      "topics": ["generative AI", "intellectual property", "AI ethics"]
+    },
+    {
+      "title": "A nearly undetectable LLM attack needs only a handful of poisoned samples",
+      "summary": "A security researcher demonstrates a stealthy Large Language Model attack that leverages just a few poisoned input samples to compromise AI behavior.",
+      "url": "https://www.reddit.com/r/artificial/comments/1s3zenu/a_nearly_undetectable_llm_attack_needs_only_a/",
+      "topics": ["large language models", "AI security", "AI safety"]
+    },
+    {
+      "title": "Claude Code hits $2.5B in revenue and ships auto mode, an AI classifier that decides what's safe to run on your machine",
+      "summary": "Anthropic's Claude Code achieves major revenue milestone and introduces a new auto mode for safer code execution using AI classification.",
+      "url": "https://www.reddit.com/r/artificial/comments/1s43rk5/claude_code_hits_25b_in_revenue_and_ships_auto/",
+      "topics": ["large language models", "AI in business", "AI safety"]
+    },
+    {
+      "title": "I open-sourced an always-on direct bridge between your LLM and your Mac. \"Hey Q, read my screen and reply to this Slack message\" please meet CODEC",
+      "summary": "A developer shares a new open-source tool enabling always-on communication between Mac interfaces and LLMs, facilitating hands-free productivity tasks.",
+      "url": "https://www.reddit.com/r/artificial/comments/1s432by/i_opensourced_an_alwayson_direct_bridge_between/",
+      "topics": ["AI tools", "large language models", "open source"]
+    },
+    {
+      "title": "Google Gemini still has no native chat export in 2025. Here's how I solved it for my research workflow.",
+      "summary": "A user provides a workaround for exporting chat data from Google Gemini, addressing ongoing LLM product limitations and research needs.",
+      "url": "https://www.reddit.com/r/artificial/comments/1s40w44/google_gemini_still_has_no_native_chat_export_in/",
+      "topics": ["large language models", "AI tools", "productivity"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "The AI Productivity Paradox: the bottleneck moved from production to consumption, and we have no frameworks for it",
+    "summary": "In this exploration of the 'AI productivity paradox', Ethan Mollick argues that as AI amplifies the speed of content and solution generation, the true challenge shifts to human ability to consume and apply these outputs. He emphasizes the need to build new frameworks for knowledge work when consumption, not production, becomes the limiting factor.",
+    "url": "https://www.reddit.com/r/artificial/comments/1s47kb0/the_ai_productivity_paradox_the_bottleneck_moved/"
+  }
+}
