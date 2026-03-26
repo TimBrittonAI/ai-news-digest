@@ -1,7 +1,7 @@
 {
   "topic_votes": {
     "general": 0,
-    "AI": 3,
+    "AI": 4,
     "E-commerce": 1,
     "Chatbots": 1,
     "Defense": 1,
@@ -13,6 +13,8 @@
     "Market Research": 1,
     "semiconductors": -1,
     "chip manufacturing": -1,
-    "Arm Holdings": -1
+    "Arm Holdings": -1,
+    "Layoffs": 1,
+    "Meta": 1
   }
 }
