@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Meta is laying off hundreds of employees as it pours money into AI",
+      "summary": "Meta has announced layoffs affecting hundreds of employees as the company shifts more resources into artificial intelligence development. This move highlights Meta's ongoing strategy to prioritize AI investments over other business areas.",
+      "url": "https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees",
+      "topics": ["AI in business", "corporate strategy", "AI investment"]
+    },
+    {
+      "title": "In the Kadrey v. Meta Platforms case, Judge Chabbria's quest to bust the fair use copyright defense to generative AI training rises from the dead!",
+      "summary": "The ongoing Kadrey v. Meta Platforms lawsuit has seen renewed interest as Judge Chhabria revisits the critical issue of whether generative AI training falls under fair use in U.S. copyright law. The case could have far-reaching implications for how AI firms train models on copyrighted material.",
+      "url": "https://www.reddit.com/r/artificial/comments/1s3pfzh/in_the_kadrey_v_meta_platforms_case_judge/",
+      "topics": ["AI intellectual property", "copyright law", "generative AI"]
+    },
+    {
+      "title": "Oracle Fusion’s New Agentic AI: Automating the Future of Enterprise Work",
+      "summary": "Oracle has unveiled new 'agentic AI' features in its Fusion suite, aimed at automating a wide range of enterprise workflows. The tools are designed to handle complex tasks and decision-making processes, signaling a major step for AI adoption in business operations.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON3ZrV2hQVURqRWtZSDJGeDVmMnJGSlVMTlhHVXlIOXNQcE1aR2tUYTRKaE1EWVV0T3R1UUxMaDV5eWhkN3N1YmxocXUzLW5STEVzekdDQ2syYmh5d3BOdHNnX1kyMW9lenFmRVdnMnVhRU1wdGhMWlNZY0tROVpXcGZMRGtqcHRrUVJnaERGdEw4T09PM2E4Qldpcw?oc=5",
+      "topics": ["large language models", "enterprise AI", "business automation"]
+    },
+    {
+      "title": "Pentagon formalizes Palantir's Maven AI as a core military system with multi-year funding — platform's investment grows to $13 billion from $480 million in 2024. The Pentagon is spending $13.4 billion on AI this year alone.",
+      "summary": "Palantir's Maven AI platform has been approved as a fundamental system for U.S. military operations, with multi-year funding that will scale investments from $480 million to $13 billion. This marks a significant increase in AI spending by the Pentagon, emphasizing AI's strategic importance in defense.",
+      "url": "https://www.reddit.com/r/artificial/comments/1s3t064/pentagon_formalizes_palantirs_maven_ai_as_a_core/",
+      "topics": ["AI in business", "defense", "government investment"]
+    },
+    {
+      "title": "Why Not Use AI to Cross the Language Barrier in Academic Publishing?",
+      "summary": "This article explores the potential for AI technologies to translate academic work across languages, lowering barriers for non-English-speaking researchers and improving global access to scientific knowledge.",
+      "url": "https://www.technologyreview.com/2026/03/26/1134677/gas-prices-electric-vehicles/",
+      "topics": ["AI tools", "academic publishing", "language models"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Claude Code hits $2.5B in revenue and ships auto mode, an AI classifier that decides what's safe to run on your machine",
+      "summary": "Claude Code has reached $2.5 billion in revenue and released 'auto mode,' a new AI-based classifier that determines safe code execution locally.",
+      "url": "https://www.reddit.com/r/artificial/comments/1s43rk5/claude_code_hits_25b_in_revenue_and_ships_auto/",
+      "topics": ["AI in business", "AI safety", "large language models"]
+    },
+    {
+      "title": "Meta just acqui-hired its 4th AI startup in 4 months. Dreamer, Manus, Moltbook, and Scale AI's founder. Is anyone else watching this pattern?",
+      "summary": "Meta continues aggressive AI expansion by acqui-hiring four AI startups in as many months, indicating further consolidation and talent acquisition in the sector.",
+      "url": "https://www.reddit.com/r/artificial/comments/1s3xr4l/meta_just_acquihired_its_4th_ai_startup_in_4/",
+      "topics": ["AI in business", "talent acquisition", "OpenAI"]
+    },
+    {
+      "title": "Oracle: AI agents can reason, decide and act - liability question remains",
+      "summary": "Oracle discusses the emergence of AI agents capable of sophisticated reasoning, while raising important questions around liability in business uses.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wNUFxLXgtYVZUcWJITnd6Qm5SejFUWnRIT0hHaGh0ZTFnZnlhajR4YmJNcEM2RVlEN2kwNVZOZDhjR3RCdFd3RU9NekljX21oQ1AzYXU4NFNncWdpcHZ5Yzhzbk4wd0VfVlh3ck9HZVdoUkZuV3o0?oc=5",
+      "topics": ["enterprise AI", "AI liability", "agentic AI"]
+    },
+    {
+      "title": "OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage",
+      "summary": "A study finds that OpenClaw AI agents are susceptible to psychological manipulation, leading them to take self-destructive actions.",
+      "url": "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/",
+      "topics": ["AI security", "AI agents", "behavior manipulation"]
+    },
+    {
+      "title": "Disney’s big bets on the metaverse and AI slop aren’t going so well",
+      "summary": "Disney's investments in metaverse and AI-driven content are reportedly failing to deliver the anticipated results, raising questions about the direction of digital entertainment.",
+      "url": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse",
+      "topics": ["AI in business", "entertainment", "AI video"]
+    },
+    {
+      "title": "Wiring the intelligent enterprise for the year ahead - 2026 will be a year of reckoning for AI",
+      "summary": "Enterprise AI adoption is set for a pivotal year in 2026, as companies grapple with integration, ethics, and technological risks.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZjFMdFVkTTJNRE5LdDBkdEJZYmQtQzZwVWYyUlZjeGxJZDd2YXlDMnBqLWpBNC13SlZZUnZydW41LU9nUFE3VVRKLWpKdmw1M3JnVXd5a0MxWnZNRUZkTXNQU0N6STdRUEZQQTBFS09xLURKN3U2Z3F5NlUydHZnSHQ5QmozMEh6SU1UQXRic05FS0Z4ZVJmSnZpMFlTNlVUYUV6aGdqbG9CaHdYSmY2emxNLVNyV24yWVM0SnBTYXZuTWtMTzdR?oc=5",
+      "topics": ["AI in business", "enterprise strategy", "AI risk"]
+    },
+    {
+      "title": "A nearly undetectable LLM attack needs only a handful of poisoned samples",
+      "summary": "New research demonstrates that large language models can be compromised with minimal poisoned data, highlighting urgent security concerns.",
+      "url": "https://www.reddit.com/r/artificial/comments/1s3zenu/a_nearly_undetectable_llm_attack_needs_only_a/",
+      "topics": ["LLM security", "AI safety", "machine learning threats"]
+    },
+    {
+      "title": "Co-founder of the Center for Humane Technology, Tristan Harris, speaking with podcast host Nate Hagens about the multiple nuanced risks and promises of A.I.",
+      "summary": "Tristan Harris discusses the complex ethical and societal risks, as well as potential benefits, arising from broad AI adoption.",
+      "url": "https://www.reddit.com/r/artificial/comments/1s3m22x/cofounder_of_the_center_for_humane_technology/",
+      "topics": ["AI ethics", "AI risks", "public policy"]
+    },
+    {
+      "title": "Adversarial AI framework reveals mechanisms behind impaired consciousness and a potential therapy",
+      "summary": "Researchers propose an adversarial AI framework to study and possibly treat impaired consciousness, blending neuroscience and AI innovation.",
+      "url": "https://www.reddit.com/r/artificial/comments/1s3piwt/adversarial_ai_framework_reveals_mechanisms/",
+      "topics": ["AI in healthcare", "adversarial AI", "neuroscience"]
+    },
+    {
+      "title": "[N] LiteLLM supply chain attack risks to Al pipelines and API key exposure",
+      "summary": "A warning about security vulnerabilities in LiteLLM that put AI pipelines and API keys at risk of supply chain attacks.",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1s3okes/n_litellm_supply_chain_attack_risks_to_al/",
+      "topics": ["AI security", "LLM infrastructure", "supply chain risk"]
+    }
+  ],
+  "ethan_mollick": null
+}
