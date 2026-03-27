@@ -1,0 +1,101 @@
+{
+  "top_stories": [
+    {
+      "title": "Anthropic Supply-Chain-Risk Designation Halted by Judge",
+      "summary": "A federal judge has temporarily blocked the Pentagon’s ban on Anthropic from being a government supplier following a supply-chain risk designation. This legal dispute could set important precedents regarding risk management and due process for generative AI vendors in government contracts.",
+      "url": "https://www.wired.com/story/anthropic-supply-chain-risk-designation-injunction/",
+      "topics": ["AI regulation", "generative AI", "Defense"]
+    },
+    {
+      "title": "Google is making it easier to import another AI’s memory into Gemini",
+      "summary": "Google has announced a new feature for Gemini, allowing users to import memory and chat history from other competing AI platforms. This move addresses growing demands for data portability among LLM products and enhances cross-platform user flexibility.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+      "topics": ["large language models", "product updates", "Google"]
+    },
+    {
+      "title": "Wikipedia bans AI-generated articles",
+      "summary": "Wikipedia has formally implemented a policy that bans the use of AI-generated articles on its platform. The move is intended to preserve content quality and address accuracy concerns as AI tools become more widespread for content creation.",
+      "url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+      "topics": ["academic publishing", "AI tools", "copyright"]
+    },
+    {
+      "title": "Webtoon is adding AI localization tools to its comics platform",
+      "summary": "Webtoon has unveiled new AI-powered localization features that will translate and adapt comics to various languages and cultures. The feature aims to help creators expand their global reach while raising fresh questions about copyright and creative attribution.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
+      "topics": ["language translation", "AI tools", "copyright"]
+    },
+    {
+      "title": "Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
+      "summary": "Journalists at major tech publications are increasingly leveraging generative AI for drafting, editing, and brainstorming articles. This emerging trend underscores both the benefits and potential pitfalls of AI-augmented newsrooms, including questions around authorship and accuracy.",
+      "url": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/",
+      "topics": ["generative AI", "business", "academic publishing"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Meta is laying off hundreds of employees as it pours money into AI",
+      "summary": "Meta is conducting another round of layoffs impacting hundreds of employees, as the company continues shifting investment toward AI product development.",
+      "url": "https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees",
+      "topics": ["Layoffs", "Business", "AI"]
+    },
+    {
+      "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+      "summary": "Apple is rumored to be opening up Siri to third-party AI chatbot integrations, paving the way for more flexible AI-powered voice assistants on iOS.",
+      "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+      "topics": ["large language models", "product updates", "Apple"]
+    },
+    {
+      "title": "Disney’s big bets on the metaverse and AI slop aren’t going so well",
+      "summary": "Disney’s investments in metaverse initiatives and AI-generated content face significant setbacks, highlighting challenges in consumer engagement and commercial success.",
+      "url": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse",
+      "topics": ["Business", "generative AI", "media"]
+    },
+    {
+      "title": "Anaplan Announces AI-Driven Applications to Advance Enterprise Decision-Making",
+      "summary": "Anaplan is launching a new suite of AI-driven tools to enhance decision-making and forecasting capabilities for enterprise clients.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaGpTVzV1ZWxfNGE5cnFfR250TksyRS1GUUZBeTNWSXpMbHAzTDRHZmlOX3BsWlVLNWF0dERHZjctOW5tdndXUENSZW5ldklTdWNDTm9aVEEwWW5fUV93bUc0YS13Mm8xUGF2a2VBT1FVc1gtR19jcXdsX2pCYWwzUVJWVTRRYTVjSnJteGpKb2g0T3Jfb1RJSnFIN2dhNzdQVGhjSXBvUXp4ekVJcnBJTnVfbjREdG1kSm41aTdxVUptLU1MTE9jLWpyN3RtY2lNNDRCeEZlR18tYW5HZ1ZYaUZR?oc=5",
+      "topics": ["Business", "AI tools", "enterprise AI"]
+    },
+    {
+      "title": "OpenAI shelves erotic chatbot ‘indefinitely’",
+      "summary": "OpenAI has decided to indefinitely halt the launch of its planned adult-oriented chatbot, reflecting the company's caution around sensitive content and reputational risks.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
+      "topics": ["OpenAI", "chatbots", "AI regulation"]
+    },
+    {
+      "title": "Google’s ‘live’ AI search assistant can handle conversations in dozens more languages",
+      "summary": "Google is expanding its AI-powered search assistant to support conversational interactions in many new languages, broadening accessibility.",
+      "url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
+      "topics": ["large language models", "language translation", "Google"]
+    },
+    {
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "summary": "Google DeepMind introduces Gemini 3.1 Flash Live, aiming to enhance the naturalness and reliability of audio-based AI interactions.",
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+      "topics": ["large language models", "audio AI", "Google"]
+    },
+    {
+      "title": "Oracle Fusion’s New Agentic AI: Automating the Future of Enterprise Work",
+      "summary": "Oracle has revealed new agentic AI capabilities within its Fusion suite, targeting automation and improved efficiency for enterprise workflows.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON3ZrV2hQVURqRWtZSDJGeDVmMnJGSlVMTlhHVXlIOXNQcE1aR2tUYTRKaE1EWVV0T3R1UUxMaDV5eWhkN3N1YmxocXUzLW5STEVzekdDQ2syYmh5d3BOdHNnX1kyMW9lenFmRVdnMnVhRU1wdGhMWlNZY0tROVpXcGZMRGtqcHRrUVJnaERGdEw4T09PM2E4Qldpcw?oc=5",
+      "topics": ["agentic AI", "enterprise AI", "Business"]
+    },
+    {
+      "title": "Chatbot Channels Introduces AI-Based Customer Communication",
+      "summary": "A new product, Chatbot Channels, is launching to help businesses improve customer communication using AI-based chatbots across platforms.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZlVhT0hXLUJSdXEwT0pNcHF1SDhRd3RtUnd4TlcyMEZPeTY1U0hZTE9GdC1YOFlXSTI5M2hLU3pVMEd0ZHdiYVZrYnkxMUdoQnVaWTVxVjZtTEVKNVR4N3NRemZJdUx2Si11d3RYU05NcjBPWDJ2OC1TX00yS24yVVl0OUJOQnYtSlAxUzlFYjhBNzlueXBGSWw4WQ?oc=5",
+      "topics": ["chatbots", "Business", "customer service"]
+    },
+    {
+      "title": "Wiring the intelligent enterprise for the year ahead - 2026 will be a year of reckoning for AI",
+      "summary": "A look ahead to 2026, forecasting key challenges and turning points for enterprises adopting AI at scale.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZjFMdFVkTTJNRE5LdDBkdEJZYmQtQzZwVWYyUlZjeGxJZDd2YXlDMnBqLWpBNC13SlZZUnZydW41LU9nUFE3VVRKLWpKdmw1M3JnVXd5a0MxWnZNRUZkTXNQU0N6STdRUEZQQTBFS09xLURKN3U2Z3F5NlUydHZnSHQ5QmozMEh6SU1UQXRic05FS0Z4ZVJmSnZpMFlTNlVUYUV6aGdqbG9CaHdYSmY2emxNLVNyV24yWVM0SnBTYXZuTWtMTzdR?oc=5",
+      "topics": ["Business", "enterprise AI", "future trends"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "Navigating AI adoption in a time of AI hype and confusion",
+    "summary": "Ethan Mollick explores how businesses and individuals are grappling with the rapid proliferation of AI tools amidst both overhyped promises and real value. He emphasizes the importance of experimentation and skepticism while charting practical paths for AI adoption.",
+    "url": "https://oneusefulthing.substack.com/p/navigating-ai-adoption-in-a-time"
+  }
+}
