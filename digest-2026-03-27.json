@@ -1,0 +1,102 @@
+{
+  "top_stories": [
+    {
+      "title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
+      "summary": "A federal judge has granted Anthropic a temporary injunction against the Pentagon's supply-chain risk designation, pausing government restrictions that could have severely impacted the AI company's government business. The dispute stems from concerns over Anthropic’s ownership structure and potential national security implications.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+      "topics": ["AI regulation", "Defense", "Anthropic"]
+    },
+    {
+      "title": "Google is making it easier to import another AI’s memory into Gemini",
+      "summary": "Google’s Gemini now allows users to import chat histories and data from competing AI assistants, streamlining the switch between platforms and reinforcing Google’s efforts to make Gemini a more compelling, integrated choice for users and businesses.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+      "topics": ["large language models", "AI product updates", "Google"]
+    },
+    {
+      "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+      "summary": "Apple is reportedly updating Siri to allow integration with third-party AI chatbots. This move could open up iOS to a more competitive AI assistant ecosystem, making Apple devices more flexible for users and developers while acknowledging rapid advances in generative AI.",
+      "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+      "topics": ["AI assistants", "Apple", "large language models"]
+    },
+    {
+      "title": "Wikipedia bans AI-generated articles",
+      "summary": "Wikipedia has announced a ban on fully AI-generated articles amid growing concerns about accuracy, bias, and potential copyright infringement. The move highlights persistent quality and trust issues with the current generation of large language models in publishing.",
+      "url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+      "topics": ["academic publishing", "copyright", "generative AI"]
+    },
+    {
+      "title": "Webtoon is adding AI localization tools to its comics platform",
+      "summary": "Webtoon is rolling out AI-powered translation and localization features to enable creators to easily publish comics in multiple languages. This marks a significant step for language accessibility in digital comics and demonstrates AI’s real-world impact on creative publishing.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
+      "topics": ["language translation", "AI tools", "academic publishing"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
+      "summary": "A look at how journalists are starting to adopt AI tools to assist with writing and editing news articles, highlighting the changing landscape of newsroom workflows.",
+      "url": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/",
+      "topics": ["AI tools", "academic publishing", "business productivity"]
+    },
+    {
+      "title": "Reimagining the enterprise: From copilots to agentic AI",
+      "summary": "An in-depth analysis of how AI copilots are evolving into more autonomous 'agentic' systems, reshaping enterprise workflows and productivity.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZVV1U1ZhWVMyM0NnTVRtdFpmb0c5NWZxanpWcUhtZTAwdG9CMkU5eWdEWVBNV3lLTGhRbVBXSTIwOHFod3Q0TUM1bm1ZY0x6Q1NWU1VGR1FJY1JvdXRFVjdNakJkMkFoRG45QXFuV3ItaW9UZTRaWFNTZ21xN3kwRktRRlptSkxHY3JqNUdGTVJDVVNGeUtr?oc=5",
+      "topics": ["AI in business", "AI automation", "large language models"]
+    },
+    {
+      "title": "Anaplan Announces AI-Driven Applications to Advance Enterprise Decision-Making",
+      "summary": "Anaplan is launching new AI-driven tools designed to help enterprises make smarter, faster planning and decision-making.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaGpTVzV1ZWxfNGE5cnFfR250TksyRS1GUUZBeTNWSXpMbHAzTDRHZmlOX3BsWlVLNWF0dERHZjctOW5tdndXUENSZW5ldklTdWNDTm9aVEEwWW5fUV93bUc0YS13Mm8xUGF2a2VBT1FVc1gtR19jcXdsX2pCYWwzUVJWVTRRYTVjSnJteGpKb2g0T3Jfb1RJSnFIN2dhNzdQVGhjSXBvUXp4ekVJcnBJTnVfbjREdG1kSm41aTdxVUptLU1MTE9jLWpyN3RtY2lNNDRCeEZlR18tYW5HZ1ZYaUZR?oc=5",
+      "topics": ["AI in business", "enterprise software", "AI tools"]
+    },
+    {
+      "title": "Reveal Brings Conversational AI Analytics Directly into Enterprise Applications",
+      "summary": "Reveal has launched a conversational AI analytics platform that integrates with enterprise applications, helping businesses leverage data through natural language queries.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWEQ0NjVUdE1pNWtRRmhsT253eFFDZHdBQ21tOE44UzlQMVQwLTlyQU8tZERFbUt4bThud2Jzb29qbTBxZ29fOVhiMExZTHBsM2hTenk2eS05bkFuMGplbWhsQWRRWExCNm9UZ3ZveTY5NG43TDhZX2RzMEF0UzIzdXNOLUxoM3lacnhEc1hIVEJsbnJtaUJaTXZ4YmtrYzVjanZMLUc1WWpVWjV2RC1hU1JRY0lkdXJMUTNSZklnaEo?oc=5",
+      "topics": ["AI analytics", "enterprise software", "conversational AI"]
+    },
+    {
+      "title": "Chatbot Channels Introduces AI-Based Customer Communication",
+      "summary": "Chatbot Channels has unveiled AI-powered communication tools aimed at enhancing customer engagement and efficiency across digital channels.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZlVhT0hXLUJSdXEwT0pNcHF1SDhRd3RtUnd4TlcyMEZPeTY1U0hZTE9GdC1YOFlXSTI5M2hLU3pVMEd0ZHdiYVZrYnkxMUdoQnVaWTVxVjZtTEVKNVR4N3NRemZJdUx2Si11d3RYU05NcjBPWDJ2OC1TX00yS24yVVl0OUJOQnYtSlAxUzlFYjhBNzlueXBGSWw4WQ?oc=5",
+      "topics": ["chatbots", "AI in business", "customer service"]
+    },
+    {
+      "title": "AI in Banking Market Expected to Reach $64.03 Billion by 2030",
+      "summary": "A new report forecasts significant growth in AI adoption across the banking sector, predicting the market size will reach $64.03 billion by 2030 as banks accelerate digital transformation.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdHVtMFl0RzFDY0wtM1FadHl2c3hRNGFvUzdsSEE0VEZTZllWLTFwaDJlYXFDaU9DSllHTm5zRjIwX2NkVmJFazlpRzRPdlN5ZjhZQ3lMOXFHa2tOZEVKb2ZrY2wwSC03bjRMZy1zTVpaUDJ3TzdLQXBOZ2dNbENWTS14REtpUzRnWG42RGFCSjNmLWN5cFV1WDRoSHg?oc=5",
+      "topics": ["AI in business", "banking", "market research"]
+    },
+    {
+      "title": "GAG Token Earns a 335 Proof of Usefulness Score by Building an AI-driven Market Research and Consumer Insights Platform",
+      "summary": "GAG Token receives high marks for launching a platform that leverages AI for market research and consumer insights, illustrating the application of AI to business intelligence.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYlNZM3hPSlFjQlVEUmc2TUFpWHlOLU9JYXVZUWdjUXhFdDR0aFNvMUZXMU02eEJiQ1ZyODM0UERUN1UySXN1MjJNbTV0ZnhnT3FmT2N6ZnNDNkc2Z2xSZHIwY0dWOS0wUkwxOG1GeVhlVU95RnN2QTJvVnVESjlmclBiY1dSR1JRMHc1WEFacXowYlptZEhFS0FkSkMwMm5rWmxTdWs1a0FEYUZqSmQ5OERfR1ZLY2tLN2xZeUlBTkNmU0Y0WmlqSEZGaU9XSVJEN3YxYWxCdzF3UQ?oc=5",
+      "topics": ["consumer research", "AI in business", "market research"]
+    },
+    {
+      "title": "Senators Demand to Know How Much Energy Data Centers Use",
+      "summary": "A bipartisan group of U.S. senators is seeking detailed answers from tech companies about the massive energy consumption of data centers, reflecting growing regulatory scrutiny of AI's carbon footprint.",
+      "url": "https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/",
+      "topics": ["AI regulation", "energy consumption", "large language models"]
+    },
+    {
+      "title": "School uses AI to remove 200 books, including Orwell's 1984 and Twilight",
+      "summary": "A UK school sparked debate by using AI to vet and remove hundreds of books from its library, raising questions about algorithmic decision-making in education and censorship.",
+      "url": "https://www.lbc.co.uk/article/librarian-gobsmacked-school-ai-remove-books-5HjdWsc_2/",
+      "topics": ["AI in education", "censorship", "AI ethics"]
+    },
+    {
+      "title": "EU backs nude app ban and delays to landmark AI rules",
+      "summary": "EU lawmakers have moved to ban explicit AI-powered 'nudify' apps and delayed the implementation of broader AI regulations, as the bloc continues to negotiate its approach to AI oversight.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
+      "topics": ["AI regulation", "generative AI", "legal"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "AI in Practice: How Prompting is Breaking Down",
+    "summary": "Ethan Mollick delves into the current effectiveness of prompt engineering for large language models and observes a decline in clarity and control for users. He discusses shifting norms, emerging tools, and the implications for businesses and educators relying on AI for meaningful outputs.",
+    "url": "https://oneusefulthing.substack.com/p/ai-in-practice-how-prompting-is"
+  },
+  "email_teaser": "AI battles in the courtroom as Anthropic wins a key Pentagon injunction—and big platforms scramble to make chatbots more open and capable. Plus: Wikipedia’s ban on AI-generated articles, Apple’s big Siri plans, and how AI is changing language accessibility and newsroom workflows."
+}
