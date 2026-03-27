@@ -1,0 +1,102 @@
+{
+  "top_stories": [
+    {
+      "title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
+      "summary": "A federal judge has sided with Anthropic, temporarily blocking the Pentagon’s attempt to ban the company from federal contracts due to alleged supply chain risks. The decision is a key development in the intersection of AI, government regulation, and business access to federal markets.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+      "topics": ["AI regulation", "legal", "Anthropic"]
+    },
+    {
+      "title": "Wikipedia bans AI-generated articles",
+      "summary": "Wikipedia has implemented a ban on AI-generated articles, citing concerns over accuracy, reliability, and the potential for misinformation. The decision reflects ongoing challenges around generative AI content in the publishing and knowledge domains.",
+      "url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+      "topics": ["academic publishing", "generative AI", "knowledge management"]
+    },
+    {
+      "title": "Google is making it easier to import another AI’s memory into Gemini",
+      "summary": "Google has introduced a feature for its Gemini AI, allowing users to import chat histories and memory from other AI platforms. This move aims to streamline users' transition to Gemini and underscores competitive dynamics in the large language model market.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+      "topics": ["large language models", "LLM product updates", "Google"]
+    },
+    {
+      "title": "Webtoon is adding AI localization tools to its comics platform",
+      "summary": "Webtoon has announced the addition of AI-powered localization tools, enabling automated translation and cultural adaptation for its comics. This development has major implications for content globalization and intellectual property management in digital publishing.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
+      "topics": ["language translation", "AI in publishing", "generative AI"]
+    },
+    {
+      "title": "Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
+      "summary": "A growing number of tech journalists are turning to generative AI tools for drafting, brainstorming, and editing news content. This shift raises questions about authorship, editorial standards, and the future of creative work in journalism.",
+      "url": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/",
+      "topics": ["AI tools", "business of journalism", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+      "summary": "Apple is reportedly planning to open up Siri to integrate with third-party AI chatbots, a shift that could broaden Siri's capabilities and increase competition in device-based LLMs.",
+      "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+      "topics": ["AI assistants", "large language models", "Apple"]
+    },
+    {
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "summary": "Google DeepMind unveils advances in audio AI with Gemini 3.1 Flash Live, improving the naturalness and reliability of AI-generated speech for real-time interactions.",
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+      "topics": ["audio AI", "large language models", "LLM product updates"]
+    },
+    {
+      "title": "Anaplan Announces AI-Driven Applications to Advance Enterprise Decision-Making",
+      "summary": "Anaplan launches new AI-driven applications aimed at helping enterprises enhance data-driven decision-making processes within their organizations.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaGpTVzV1ZWxfNGE5cnFfR250TksyRS1GUUZBeTNWSXpMbHAzTDRHZmlOX3BsWlVLNWF0dERHZjctOW5tdndXUENSZW5ldklTdWNDTm9aVEEwWW5fUV93bUc0YS13Mm8xUGF2a2VBT1FVc1gtR19jcXdsX2pCYWwzUVJWVTRRYTVjSnJteGpKb2g0T3Jfb1RJSnFIN2dhNzdQVGhjSXBvUXp4ekVJcnBJTnVfbjREdG1kSm41aTdxVUptLU1MTE9jLWpyN3RtY2lNNDRCeEZlR18tYW5HZ1ZYaUZR?oc=5",
+      "topics": ["AI in business", "enterprise AI", "decision automation"]
+    },
+    {
+      "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
+      "summary": "NYC Health + Hospitals has ended its relationship with Palantir due to concerns regarding the firm's use of AI in healthcare, even as Palantir tries to grow its business in the UK.",
+      "url": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
+      "topics": ["healthcare", "AI in business", "Palantir"]
+    },
+    {
+      "title": "Reveal Brings Conversational AI Analytics Directly into Enterprise Applications",
+      "summary": "Reveal introduces a solution embedding conversational AI analytics within enterprise applications, enabling real-time business intelligence with natural language queries.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWEQ0NjVUdE1pNWtRRmhsT253eFFDZHdBQ21tOE44UzlQMVQwLTlyQU8tZERFbUt4bThud2Jzb29qbTBxZ29fOVhiMExZTHBsM2hTenk2eS05bkFuMGplbWhsQWRRWExCNm9UZ3ZveTY5NG43TDhZX2RzMEF0UzIzdXNOLUxoM3lacnhEc1hIVEJsbnJtaUJaTXZ4YmtrYzVjanZMLUc1WWpVWjV2RC1hU1JRY0lkdXJMUTNSZklnaEo?oc=5",
+      "topics": ["enterprise AI", "AI analytics", "business intelligence"]
+    },
+    {
+      "title": "EU backs nude app ban and delays to landmark AI rules",
+      "summary": "EU lawmakers have supported a ban on so-called 'nude apps' but have delayed the implementation of the broader, landmark AI Act amid ongoing debate over generative AI regulation.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
+      "topics": ["AI regulation", "generative AI", "EU policy"]
+    },
+    {
+      "title": "School uses AI to remove 200 books, including Orwell's 1984 and Twilight",
+      "summary": "A UK school made headlines after using an AI tool to systematically remove nearly 200 books, sparking debate around AI's role in censorship and educational content curation.",
+      "url": "https://www.lbc.co.uk/article/librarian-gobsmacked-school-ai-remove-books-5HjdWsc_2/",
+      "topics": ["AI in education", "censorship", "academic publishing"]
+    },
+    {
+      "title": "Senators are pushing to find out how much electricity data centers actually use",
+      "summary": "US Senators Elizabeth Warren and Josh Hawley are demanding transparency from tech companies regarding the energy consumption of AI-powered data centers, highlighting rising concerns around sustainability.",
+      "url": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
+      "topics": ["AI infrastructure", "energy use", "regulation"]
+    },
+    {
+      "title": "GAG Token Earns a 335 Proof of Usefulness Score by Building an AI-driven Market Research and Consumer Insights Platform",
+      "summary": "GAG Token has received recognition for its AI-driven platform designed to enhance market research and provide actionable consumer insights.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYlNZM3hPSlFjQlVEUmc2TUFpWHlOLU9JYXVZUWdjUXhFdDR0aFNvMUZXMU02eEJiQ1ZyODM0UERUN1UySXN1MjJNbTV0ZnhnT3FmT2N6ZnNDNkc2Z2xSZHIwY0dWOS0wUkwxOG1GeVhlVU95RnN2QTJvVnVESjlmclBiY1dSR1JRMHc1WEFacXowYlptZEhFS0FkSkMwMm5rWmxTdWs1a0FEYUZqSmQ5OERfR1ZLY2tLN2xZeUlBTkNmU0Y0WmlqSEZGaU9XSVJEN3YxYWxCdzF3UQ?oc=5",
+      "topics": ["AI in business", "market research", "consumer insights"]
+    },
+    {
+      "title": "Chatbot Channels Introduces AI-Based Customer Communication",
+      "summary": "Chatbot Channels has launched a new platform that leverages AI to improve customer communication and automate support interactions for businesses.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZlVhT0hXLUJSdXEwT0pNcHF1SDhRd3RtUnd4TlcyMEZPeTY1U0hZTE9GdC1YOFlXSTI5M2hLU3pVMEd0ZHdiYVZrYnkxMUdoQnVaWTVxVjZtTEVKNVR4N3NRemZJdUx2Si11d3RYU05NcjBPWDJ2OC1TX00yS24yVVl0OUJOQnYtSlAxUzlFYjhBNzlueXBGSWw4WQ?oc=5",
+      "topics": ["AI chatbots", "customer service", "business automation"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "The Bubble. The Bar. The Bucket.",
+    "summary": "Ethan Mollick reflects on how social and professional context influences both the use and perception of AI tools. He illustrates his points with examples from recent experiments, emphasizing the growing impact of AI on work and how quickly people's expectations are evolving.",
+    "url": "https://oneusefulthing.substack.com/p/the-bubble-the-bar-the-bucket"
+  },
+  "email_teaser": "Who’s winning the AI platform wars? Google unlocks new Gemini import features, Apple gears up to open Siri, and Anthropic scores a big win against Pentagon restrictions. Also: Wikipedia cracks down on AI-generated articles, while Webtoon and newsrooms explore AI-powered localization and writing tools."
+}
