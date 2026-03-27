@@ -1,0 +1,108 @@
+{
+  "top_stories": [
+    {
+      "title": "Wikipedia bans AI-generated articles",
+      "summary": "Wikipedia has implemented a policy forbidding the automatic creation of articles by large language models and other generative AI tools. The decision comes amid concerns over accuracy and reliability, with human editing and oversight now required for content creation on the platform.",
+      "url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+      "topics": ["academic publishing", "generative AI", "content moderation"]
+    },
+    {
+      "title": "Judge sides with Anthropic to temporarily block the Pentagon’s ban",
+      "summary": "A U.S. judge has issued a temporary injunction against the Pentagon's ban on Anthropic, the AI company, allowing it to resume work with the Department of Defense. The decision follows Anthropic’s challenge over a supply chain risk designation, affecting AI adoption in defense procurement.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+      "topics": ["AI regulation", "defense", "AI business"]
+    },
+    {
+      "title": "Google is making it easier to import another AI’s memory into Gemini",
+      "summary": "Google is rolling out an update that lets users import chat history and other memory data from competing AI assistants into its Gemini platform. The feature simplifies migration and aims to attract users switching from OpenAI's ChatGPT or Copilot.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+      "topics": ["LLMs", "product update", "Google"]
+    },
+    {
+      "title": "Reveal Brings Conversational AI Analytics Directly into Enterprise Applications",
+      "summary": "Reveal has integrated its conversational AI analytics platform into mainstream enterprise tools, enabling business users to interact directly with data in their workflow. The move aims to democratize advanced analytics and empower non-technical staff.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWEQ0NjVUdE1pNWtRRmhsT253eFFDZHdBQ21tOE44UzlQMVQwLTlyQU8tZERFbUt4bThud2Jzb29qbTBxZ29fOVhiMExZTHBsM2hTenk2eS05bkFuMGplbWhsQWRRWExCNm9UZ3ZveTY5NG43TDhZX2RzMEF0UzIzdXNOLUxoM3lacnhEc1hIVEJsbnJtaUJaTXZ4YmtrYzVjanZMLUc1WWpVWjV2RC1hU1JRY0lkdXJMUTNSZklnaEo?oc=5",
+      "topics": ["conversational AI", "enterprise software", "AI business"]
+    },
+    {
+      "title": "Webtoon is adding AI localization tools to its comics platform",
+      "summary": "Webtoon is introducing generative AI-based localization tools for creators, allowing comics to be efficiently translated and adapted for global audiences. This move leverages AI to speed up and automate the translation process, supporting the platform's international expansion.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
+      "topics": ["AI in publishing", "language translation", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "OpenAI shelves erotic chatbot ‘indefinitely’",
+      "summary": "OpenAI has placed an indefinite hold on its planned adult-oriented chatbot, citing concerns and pushback from internal and external stakeholders.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
+      "topics": ["OpenAI", "chatbots", "AI product"]
+    },
+    {
+      "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+      "summary": "Apple is said to be preparing an update that would allow third-party AI chatbots to integrate with Siri, signaling a major shift in its approach to AI assistants.",
+      "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+      "topics": ["AI assistants", "Apple", "LLMs"]
+    },
+    {
+      "title": "Google’s ‘live’ AI search assistant can handle conversations in dozens more languages",
+      "summary": "Google has expanded its AI-powered search assistant to support conversational interactions in many new languages, making the feature more accessible globally.",
+      "url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
+      "topics": ["AI assistants", "language translation", "Google"]
+    },
+    {
+      "title": "Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
+      "summary": "A look at how some tech journalists are turning to generative AI for writing drafts, checking facts, or brainstorming, raising questions about transparency and accuracy in newsroom workflows.",
+      "url": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/",
+      "topics": ["generative AI", "journalism", "AI tools"]
+    },
+    {
+      "title": "Senators Demand to Know How Much Energy Data Centers Use",
+      "summary": "U.S. senators have requested detailed data on the energy consumption of data centers, driven by concerns about the environmental impact of the AI boom.",
+      "url": "https://www.wired.com/story/senators-demand-to-know-how-much-energy-data-centers-use/",
+      "topics": ["AI infrastructure", "energy consumption", "regulation"]
+    },
+    {
+      "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
+      "summary": "New York hospitals are parting ways with Palantir amid privacy and ethical concerns, while the company seeks to grow its presence in the UK healthcare system.",
+      "url": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
+      "topics": ["AI in healthcare", "business", "privacy"]
+    },
+    {
+      "title": "The Download: a battery pivot to AI, and rewriting math",
+      "summary": "MIT Technology Review highlights a battery company's shift into AI, plus a story on building an AI tool to reinvent mathematical notation and computation.",
+      "url": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/",
+      "topics": ["AI startups", "mathematics", "product development"]
+    },
+    {
+      "title": "Anaplan Announces AI-Driven Applications to Advance Enterprise Decision-Making",
+      "summary": "Anaplan has introduced new AI-driven applications to help enterprises make better planning and forecasting decisions within their existing workflow.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaGpTVzV1ZWxfNGE5cnFfR250TksyRS1GUUZBeTNWSXpMbHAzTDRHZmlOX3BsWlVLNWF0dERHZjctOW5tdndXUENSZW5ldklTdWNDTm9aVEEwWW5fUV93bUc0YS13Mm8xUGF2a2VBT1FVc1gtR19jcXdsX2pCYWwzUVJWVTRRYTVjSnJteGpKb2g0T3Jfb1RJSnFIN2dhNzdQVGhjSXBvUXp4ekVJcnBJTnVfbjREdG1kSm41aTdxVUptLU1MTE9jLWpyN3RtY2lNNDRCeEZlR18tYW5HZ1ZYaUZR?oc=5",
+      "topics": ["enterprise software", "AI business", "forecasting"]
+    },
+    {
+      "title": "Chatbot Channels Introduces AI-Based Customer Communication",
+      "summary": "Chatbot Channels debuts a new platform leveraging AI for streamlined customer communication and engagement across multiple channels.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZlVhT0hXLUJSdXEwT0pNcHF1SDhRd3RtUnd4TlcyMEZPeTY1U0hZTE9GdC1YOFlXSTI5M2hLU3pVMEd0ZHdiYVZrYnkxMUdoQnVaWTVxVjZtTEVKNVR4N3NRemZJdUx2Si11d3RYU05NcjBPWDJ2OC1TX00yS24yVVl0OUJOQnYtSlAxUzlFYjhBNzlueXBGSWw4WQ?oc=5",
+      "topics": ["chatbots", "customer service", "AI product"]
+    },
+    {
+      "title": "GAG Token Earns a 335 Proof of Usefulness Score by Building an AI-driven Market Research and Consumer Insights Platform",
+      "summary": "GAG Token is recognized for its AI-driven approach to aggregating market research and providing actionable consumer insights, as it seeks wider industry adoption.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYlNZM3hPSlFjQlVEUmc2TUFpWHlOLU9JYXVZUWdjUXhFdDR0aFNvMUZXMU02eEJiQ1ZyODM0UERUN1UySXN1MjJNbTV0ZnhnT3FmT2N6ZnNDNkc2Z2xSZHIwY0dWOS0wUkwxOG1GeVhlVU95RnN2QTJvVnVESjlmclBiY1dSR1JRMHc1WEFacXowYlptZEhFS0FkSkMwMm5rWmxTdWs1a0FEYUZqSmQ5OERfR1ZLY2tLN2xZeUlBTkNmU0Y0WmlqSEZGaU9XSVJEN3YxYWxCdzF3UQ?oc=5",
+      "topics": ["market research", "AI business", "consumer insights"]
+    },
+    {
+      "title": "Reimagining the enterprise: From copilots to agentic AI",
+      "summary": "A deep dive into how enterprises are transitioning from using AI copilots to adopting agentic AI systems that autonomously handle complex tasks.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZVV1U1ZhWVMyM0NnTVRtdFpmb0c5NWZxanpWcUhtZTAwdG9CMkU5eWdEWVBNV3lLTGhRbVBXSTIwOHFod3Q0TUM1bm1ZY0x6Q1NWU1VGR1FJY1JvdXRFVjdNakJkMkFoRG45QXFuV3ItaW9UZTRaWFNTZ21xN3kwRktRRlptSkxHY3JqNUdGTVJDVVNGeUtr?oc=5",
+      "topics": ["enterprise AI", "agentic AI", "business adoption"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "Where we are with AI: a snapshot (March 2026 edition)",
+    "summary": "In this substantial round-up, Ethan Mollick offers a mid-2026 overview of the AI landscape with reflections on new applications, recent breakthroughs, and persistent challenges. He touches on enterprise adoption, the pace of LLM improvements, and the evolving social effects of widespread generative AI. Practical tips and a sense of where the next bottlenecks might arise round out the post.",
+    "url": "https://oneusefulthing.substack.com/p/where-we-are-with-ai-a-snapshot-march-2026"
+  },
+  "email_teaser": "Wikipedia cracks down on AI-generated articles, Google makes Gemini more user-friendly, and Webtoon taps AI to go global. Plus: Anthropic wins an injunction against the Pentagon and new advances in AI-powered enterprise analytics. Dive in for the latest on AI business, product updates, and the ever-evolving legal landscape."
+}
