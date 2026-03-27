@@ -948,7 +948,7 @@
                 </div>
                 <div class="section-note">&#x1F44D; &#x1F44E; Rate these too — the more you vote, the more personalised Signal becomes.</div>
                 <div class="links-grid">`;
-                data.further_links.forEach((l, i) => {
+                data.further_links.slice(0, 10).forEach((l, i) => {
                     const domain = l.url ? getDomain(l.url) : '';
                     const idSuffix = `further-${i}`;
                     html += `<div class="link-item" style="animation-delay:${(i*0.05)+0.3}s">
