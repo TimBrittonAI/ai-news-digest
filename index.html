@@ -915,7 +915,7 @@
                     const emRes = await fetch('https://signal-news.t-britton-uk.workers.dev/em-feed');
                     const emData = await emRes.json();
                     if (emData.title && emData.link) {
-                        em = { title: emData.title, url: emData.link, summary: '' };
+                        em = { title: emData.title, url: emData.link, summary: emData.summary || '' };
                     }
                 } catch(e) {
                     console.log('Could not fetch EM from worker:', e);
