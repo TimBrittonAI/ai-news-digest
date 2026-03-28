@@ -1,0 +1,102 @@
+{
+  "top_stories": [
+    {
+      "title": "Judge sides with Anthropic to temporarily block the Pentagon's ban",
+      "summary": "A federal judge has granted a temporary injunction halting the Pentagon's supply-chain-risk designation against Anthropic, which had threatened to cut the AI company off from government contracts. The ruling is a significant early legal victory for Anthropic as it contests the designation. The case raises broader questions about the US government's oversight of AI companies in defence procurement.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+      "topics": ["AI regulation", "defense", "legal"]
+    },
+    {
+      "title": "A leak reveals that Anthropic is testing a more capable AI model \"Claude Mythos\"",
+      "summary": "A data leak has revealed that Anthropic is internally testing a new, more powerful AI model codenamed Claude Mythos, described as representing a step-change in capabilities. The model's existence had not been publicly announced by the company prior to the leak. Anthropic has since confirmed it is testing the model.",
+      "url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/",
+      "topics": ["large language models", "generative AI", "Anthropic"]
+    },
+    {
+      "title": "Google's 'live' AI search assistant can handle conversations in dozens more languages",
+      "summary": "Google has expanded its 'live' AI search assistant to support conversations in dozens of additional languages, significantly broadening its global reach. The feature allows users to have real-time spoken exchanges with Google's AI search interface. The expansion represents a major push by Google to make conversational AI search accessible to non-English speakers.",
+      "url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
+      "topics": ["language translation", "AI tools", "Google"]
+    },
+    {
+      "title": "Wikipedia bans AI-generated articles",
+      "summary": "Wikipedia has introduced a ban on AI-generated articles, reflecting growing concern among editors about the quality and reliability of content produced by large language models. The policy applies to fully AI-written submissions rather than AI-assisted editing. The decision positions Wikipedia among a growing number of academic and publishing institutions taking a firm stance on generative AI content.",
+      "url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+      "topics": ["academic publishing", "generative AI", "AI regulation"]
+    },
+    {
+      "title": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
+      "summary": "Wired reporters systematically tested ChatGPT's ad delivery by asking 500 questions, documenting which advertisements appeared and how frequently. The investigation sheds light on OpenAI's nascent advertising model and which brands are gaining early footholds in AI-native search advertising. The findings have implications for businesses and consumers as AI chatbots increasingly serve as discovery and research tools.",
+      "url": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/",
+      "topics": ["OpenAI", "AI", "business"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "OpenAI: STADLER reshapes knowledge work at a 230-year-old company",
+      "summary": "OpenAI's official blog details how rail vehicle manufacturer STADLER has deployed AI tools to transform knowledge work processes across its long-established organisation.",
+      "url": "https://openai.com/index/stadler",
+      "topics": ["OpenAI", "business", "AI"]
+    },
+    {
+      "title": "David Sacks is no longer the White House AI and Crypto Czar",
+      "summary": "David Sacks has stepped down from his role as the White House's AI and crypto policy lead, marking a notable shift in the administration's AI governance structure.",
+      "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+      "topics": ["AI regulation", "AI", "policy"]
+    },
+    {
+      "title": "Google is making it easier to import another AI's memory into Gemini",
+      "summary": "Google has introduced a feature allowing users to import conversation history and memory from other AI assistants directly into Gemini, lowering the switching cost between AI platforms.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+      "topics": ["large language models", "AI tools", "Google"]
+    },
+    {
+      "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+      "summary": "Apple is reportedly planning to allow third-party AI chatbots, beyond ChatGPT, to integrate directly with Siri as part of an update arriving with iOS 27.",
+      "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+      "topics": ["AI", "chatbots", "Apple"]
+    },
+    {
+      "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
+      "summary": "Google DeepMind has published details of Gemini 3.1 Flash Live, a new model update focused on making real-time audio AI interactions feel more natural and dependable.",
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+      "topics": ["large language models", "AI", "Google DeepMind"]
+    },
+    {
+      "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
+      "summary": "New York City's public hospital system has ended its contract with Palantir, even as the data analytics and AI firm pursues new healthcare partnerships in the United Kingdom.",
+      "url": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
+      "topics": ["AI", "healthcare", "business"]
+    },
+    {
+      "title": "AI users whose lives were wrecked by delusion",
+      "summary": "The Guardian reports on cases where people's relationships with AI chatbots descended into harmful delusion, raising urgent questions about AI safety and mental health impacts.",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion",
+      "topics": ["chatbots", "AI", "consumer research"]
+    },
+    {
+      "title": "Webtoon is adding AI localization tools to its comics platform",
+      "summary": "Webtoon is integrating AI-powered translation and localization tools into its Canvas platform, aiming to help creators reach global audiences more easily.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
+      "topics": ["language translation", "AI tools", "publishing"]
+    },
+    {
+      "title": "EU backs nude app ban and delays to landmark AI rules",
+      "summary": "The European Union has moved to ban AI-powered nudification apps while also announcing delays to key provisions of its landmark AI Act.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
+      "topics": ["AI regulation", "generative AI", "policy"]
+    },
+    {
+      "title": "Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
+      "summary": "Wired examines the growing number of technology journalists who are using AI tools to assist with drafting, editing, and researching their reporting.",
+      "url": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/",
+      "topics": ["generative AI", "AI", "journalism"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "No recent post found in feed",
+    "summary": "No post from oneusefulthing.substack.com was included in today's article list. Check https://www.oneusefulthing.org for Ethan Mollick's latest writing on AI and its implications for work and education.",
+    "url": "https://www.oneusefulthing.org"
+  },
+  "email_teaser": "Anthropic scores a courtroom win against the Pentagon, a leaked model called Claude Mythos hints at a major capability leap, and Wikipedia draws a hard line against AI-generated content. All this plus ChatGPT's ad habits laid bare — it's a busy one today."
+}
