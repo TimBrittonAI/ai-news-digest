@@ -1,0 +1,98 @@
+{
+  "top_stories": [
+    {
+      "title": "AI users whose lives were wrecked by delusion",
+      "summary": "The Guardian reports on cases where people's lives were seriously harmed after forming intense, delusional relationships with AI chatbots. The piece raises urgent questions about the mental health risks of emotionally immersive AI companions and the responsibility of the companies behind them. It draws on first-hand accounts of users who became unable to distinguish AI responses from genuine human connection.",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion",
+      "topics": ["Mental Health", "AI chatbots", "Technology Ethics"]
+    },
+    {
+      "title": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
+      "summary": "Wired conducted an extensive experiment asking ChatGPT 500 questions to map how advertising appears within the chatbot's responses. The investigation reveals patterns in how commercial content surfaces and raises questions about transparency and editorial independence in AI-generated answers. The piece is a rare empirical look at advertising dynamics inside a major LLM product.",
+      "url": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often",
+      "topics": ["ChatGPT", "Advertising", "AI products"]
+    },
+    {
+      "title": "Judge sides with Anthropic to temporarily block the Pentagon's ban",
+      "summary": "A federal judge has issued a temporary injunction blocking the Pentagon from designating Anthropic as a supply-chain risk, a move that had threatened to cut the AI company off from US government contracts. The Verge reports that Anthropic argued the designation was unjustified and harmful to its business. The ruling is a significant development in the growing intersection of AI companies and national security law.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+      "topics": ["Legal", "Defense", "AI regulation"]
+    },
+    {
+      "title": "A leak reveals that Anthropic is testing a more capable AI model \"Claude Mythos\"",
+      "summary": "Fortune reports that a data leak has revealed Anthropic is internally testing a new AI model called Claude Mythos, described as representing a significant step change in capabilities beyond the current Claude lineup. The leak suggests the model is more powerful than anything Anthropic has publicly released to date. The report adds to anticipation around the next generation of frontier AI models.",
+      "url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/",
+      "topics": ["large language models", "AI", "Anthropic"]
+    },
+    {
+      "title": "Google's 'live' AI search assistant can handle conversations in dozens more languages",
+      "summary": "Google has expanded its live AI search assistant to support conversations in dozens of additional languages, significantly broadening access to the real-time, voice-based search feature. The Verge reports that the expansion marks a major step in making Google's most advanced AI search capabilities globally accessible. The move is likely to intensify competition with other multilingual AI assistants.",
+      "url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
+      "topics": ["language translation", "AI products", "Google"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "David Sacks is no longer the White House AI and Crypto Czar",
+      "summary": "The Verge reports that David Sacks has stepped down from his role as the White House's AI and Crypto Czar, marking a significant change in the administration's approach to AI and digital assets policy.",
+      "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+      "topics": ["AI regulation", "AI policy", "government"]
+    },
+    {
+      "title": "Wikipedia bans AI-generated articles",
+      "summary": "Wikipedia has moved to prohibit AI-generated articles on its platform, citing concerns about accuracy, sourcing, and the integrity of its volunteer-driven editorial model.",
+      "url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+      "topics": ["generative AI", "academic publishing", "AI policy"]
+    },
+    {
+      "title": "EU backs nude app ban and delays to landmark AI rules",
+      "summary": "The EU has backed a ban on so-called nudify apps while also announcing delays to key provisions of its landmark AI Act, signalling a mixed pace of AI regulation across the bloc.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
+      "topics": ["AI regulation", "Technology Ethics", "EU policy"]
+    },
+    {
+      "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
+      "summary": "New York City hospitals have ended their contract with Palantir, while the controversial data and AI firm continues to expand its footprint in the UK health sector.",
+      "url": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
+      "topics": ["AI in healthcare", "Technology Ethics", "Defense"]
+    },
+    {
+      "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+      "summary": "Apple is reportedly planning to let third-party AI chatbots integrate directly with Siri as part of a broader update to its AI strategy expected with iOS 27.",
+      "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+      "topics": ["AI products", "Chatbots", "Apple"]
+    },
+    {
+      "title": "Google is making it easier to import another AI's memory into Gemini",
+      "summary": "Google is introducing a feature that allows users to import chat histories and memories from other AI assistants directly into Gemini, lowering the barrier to switching platforms.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+      "topics": ["large language models", "AI products", "Google"]
+    },
+    {
+      "title": "Webtoon is adding AI localization tools to its comics platform",
+      "summary": "Webtoon is integrating AI-powered translation and localization tools into its Canvas platform, aiming to help independent creators reach global audiences more easily.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
+      "topics": ["language translation", "generative AI", "AI tools"]
+    },
+    {
+      "title": "STADLER reshapes knowledge work at a 230-year-old company",
+      "summary": "OpenAI's official blog profiles how rail vehicle manufacturer STADLER has deployed AI to transform knowledge work processes across a company with over two centuries of history.",
+      "url": "https://openai.com/index/stadler",
+      "topics": ["AI", "Business", "large language models"]
+    },
+    {
+      "title": "AI Research Is Getting Harder to Separate From Geopolitics",
+      "summary": "Wired examines how AI research produced in China is increasingly being treated with suspicion or segregated along geopolitical lines, complicating international scientific collaboration.",
+      "url": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
+      "topics": ["AI", "geopolitics", "Technology Ethics"]
+    },
+    {
+      "title": "Meet the Tech Reporters Using AI to Help Write and Edit Their Stories",
+      "summary": "Wired investigates how journalists covering the technology beat are themselves using AI tools in their reporting and editing workflows, raising questions about transparency and editorial standards.",
+      "url": "https://www.wired.com/story/tech-reporters-using-ai-write-edit-stories/",
+      "topics": ["generative AI", "academic publishing", "AI tools"]
+    }
+  ],
+  "ethan_mollick": null,
+  "email_teaser": "Anthropic's secret 'Claude Mythos' model has leaked, a judge has blocked the Pentagon from blacklisting the company, and a disturbing Guardian investigation reveals the real-world toll of AI chatbot delusion. All that, plus ChatGPT's hidden ad patterns and Google's multilingual AI search push — it's a packed edition of Signal."
+}
