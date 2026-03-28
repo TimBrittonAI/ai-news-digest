@@ -744,7 +744,7 @@
             try {
                 const res = await fetch(`digest-${dateStr}.json?v=` + Date.now());
                 if (!res.ok) throw new Error('not found');
-                renderDigest(await res.json(), dateStr);
+                await renderDigest(await res.json(), dateStr);
             } catch {
                 document.getElementById('main-content').innerHTML = `
                     <div class="loading-state">
@@ -832,13 +832,13 @@
                 const res = await fetch(`digest-${today}.json?v=` + Date.now());
                 if (!res.ok) throw new Error('no json');
                 currentDateStr = today;
-                renderDigest(await res.json(), today);
+                await renderDigest(await res.json(), today);
             } catch {
                 try {
                     const res2 = await fetch('digest.json?v=' + Date.now());
                     if (!res2.ok) throw new Error('no json');
                     currentDateStr = today;
-                    renderDigest(await res2.json(), today);
+                    await renderDigest(await res2.json(), today);
                 } catch {
                     try {
                         const res3 = await fetch('digest.txt?v=' + Date.now());
@@ -878,7 +878,7 @@
 
         const EM_CACHE_KEY = 'signal_ethan_mollick_cache';
 
-        function renderDigest(data, dateStr) {
+        async function renderDigest(data, dateStr) {
             const isToday = dateStr === todayStr();
             const displayDate = formatDate(dateStr);
             let html = '';
@@ -910,13 +910,16 @@
             // SECTION 02: One Useful Thing — Ethan Mollick
             let em = (data.ethan_mollick && data.ethan_mollick.title) ? data.ethan_mollick : null;
 
-            if (em) {
-                try { localStorage.setItem(EM_CACHE_KEY, JSON.stringify(em)); } catch(e) {}
-            } else {
+            if (!em) {
                 try {
-                    const cached = localStorage.getItem(EM_CACHE_KEY);
-                    if (cached) em = JSON.parse(cached);
-                } catch(e) {}
+                    const emRes = await fetch('https://signal-news.t-britton-uk.workers.dev/em-feed');
+                    const emData = await emRes.json();
+                    if (emData.title && emData.link) {
+                        em = { title: emData.title, url: emData.link, summary: '' };
+                    }
+                } catch(e) {
+                    console.log('Could not fetch EM from worker:', e);
+                }
             }
 
             if (em && em.title) {
