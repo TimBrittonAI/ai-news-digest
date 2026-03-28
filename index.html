@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Signal. AI News by Tim Britton</title>
+    <title>Dispatches: AI by Tim Britton</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@300;400;500&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
     <style>
@@ -39,13 +39,13 @@
             max-width: 1200px;
             margin: 0 auto;
             display: flex;
-            align-items: baseline;
+            align-items: center;
             justify-content: space-between;
-            padding: 18px 0 14px;
+            padding: 14px 0 12px;
             gap: 20px;
         }
 
-        .masthead-left { display: flex; align-items: baseline; gap: 16px; }
+        .masthead-left { display: flex; flex-direction: column; gap: 3px; }
 
         .title {
             font-family: 'Playfair Display', serif;
@@ -53,24 +53,25 @@
             font-size: 2.4rem;
             letter-spacing: -0.02em;
             line-height: 1;
+            white-space: nowrap;
         }
 
         .title span { color: var(--accent); }
 
         .byline {
             font-family: 'DM Mono', monospace;
-            font-size: 0.7rem;
+            font-size: 0.65rem;
             letter-spacing: 0.12em;
             text-transform: uppercase;
             color: var(--muted);
-            padding-left: 16px;
-            border-left: 1px solid var(--rule);
         }
 
         .masthead-right {
             display: flex;
-            align-items: baseline;
+            align-items: center;
             gap: 24px;
+            flex-shrink: 0;
+            white-space: nowrap;
         }
 
         .masthead-date {
@@ -557,7 +558,6 @@
             .flower-column { display: none; }
             .main { padding: 24px 20px 60px; }
             .links-grid { grid-template-columns: 1fr; }
-            .byline { display: none; }
             .past-issues-panel { right: 20px; }
         }
     </style>
@@ -567,8 +567,8 @@
     <header class="masthead">
         <div class="masthead-inner">
             <div class="masthead-left">
-                <div class="title">Signal<span>.</span></div>
-                <div class="byline">AI Intelligence by Tim Britton</div>
+                <div class="title">Dispatches<span>: AI</span></div>
+                <div class="byline">By Tim Britton</div>
             </div>
             <div class="masthead-right">
                 <div class="masthead-date" id="header-date"></div>
@@ -617,7 +617,7 @@
     <footer>
         <div class="footer-inner">
             <div class="footer-text">Automated daily &#xB7; Sources monitored via RSS &#xB7; Curated by AI &#xB7; Edited by nobody</div>
-            <div class="footer-signal">Signal.</div>
+            <div class="footer-signal">Dispatches: AI</div>
         </div>
     </footer>
 
@@ -777,17 +777,18 @@
             return v ? v.direction : null;
         }
 
-       async function writePendingVoteToGitHub(title, direction) {
-    try {
-        await fetch('https://signal-news.t-britton-uk.workers.dev/vote', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ title, direction, date: todayStr() })
-        });
-    } catch(e) {
-        console.log('Could not write pending vote:', e);
-    }
-}
+        async function writePendingVoteToGitHub(title, direction) {
+            try {
+                await fetch('https://signal-news.t-britton-uk.workers.dev/vote', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ title, direction, date: todayStr() })
+                });
+            } catch(e) {
+                console.log('Could not write pending vote:', e);
+            }
+        }
+
         async function voteStory(url, title, direction, btnUpId, btnDownId) {
             const votes = getVotes();
             const current = votes[url] ? votes[url].direction : null;
@@ -796,7 +797,6 @@
                 delete votes[url];
             } else {
                 votes[url] = { direction };
-                // Write to GitHub in background — don't block the UI
                 writePendingVoteToGitHub(title, direction);
             }
 
@@ -892,7 +892,7 @@
                         <div class="section-title">Five things worth your time</div>
                     </div>
                 </div>
-                <div class="section-note">&#x1F44D; &#x1F44E; Use the thumbs on each story to help Signal learn what matters to you — your feedback shapes tomorrow's selection.</div>`;
+                <div class="section-note">&#x1F44D; &#x1F44E; Use the thumbs on each story to help us learn what matters to you — your feedback shapes tomorrow's selection.</div>`;
                 data.top_stories.forEach((s, i) => {
                     const domain = s.url ? getDomain(s.url) : '';
                     const idSuffix = `top-${i}`;
@@ -949,7 +949,7 @@
                         <div class="section-title">Ten more links from the feed</div>
                     </div>
                 </div>
-                <div class="section-note">&#x1F44D; &#x1F44E; Rate these too — the more you vote, the more personalised Signal becomes.</div>
+                <div class="section-note">&#x1F44D; &#x1F44E; Rate these too — the more you vote, the more personalised your digest becomes.</div>
                 <div class="links-grid">`;
                 data.further_links.slice(0, 10).forEach((l, i) => {
                     const domain = l.url ? getDomain(l.url) : '';
@@ -974,7 +974,7 @@
         loadDigest();
     </script>
 
-<!-- ElevenLabs Signal. Voice Agent -->
+<!-- Dispatches: AI Voice Agent -->
 <div style="position:fixed; bottom:20px; right:20px; z-index:9999;">
 <elevenlabs-convai agent-id="agent_5301kkc9q2dqfyh98f5791dep1w4"></elevenlabs-convai>
 </div>
