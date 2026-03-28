@@ -1,7 +1,7 @@
 {
   "topic_votes": {
     "general": 0,
-    "AI": 5,
+    "AI": 6,
     "E-commerce": 1,
     "Chatbots": 1,
     "Defense": 2,
@@ -21,6 +21,8 @@
     "copyright": 1,
     "generative AI": 1,
     "fair use": 1,
-    "Acquisitions": -1
+    "Acquisitions": -1,
+    "Advertising": 1,
+    "ChatGPT": 1
   }
 }
