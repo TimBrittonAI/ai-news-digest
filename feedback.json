@@ -1,7 +1,7 @@
 {
   "topic_votes": {
     "general": 0,
-    "AI": 7,
+    "AI": 8,
     "E-commerce": 1,
     "Chatbots": 1,
     "Defense": 2,
@@ -25,6 +25,8 @@
     "Advertising": 1,
     "ChatGPT": 1,
     "Mental Health": 1,
-    "Technology Ethics": 1
+    "Technology Ethics": 1,
+    "Wikipedia": 1,
+    "Content Policy": 1
   }
 }
