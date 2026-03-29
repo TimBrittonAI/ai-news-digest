@@ -1,0 +1,98 @@
+{
+  "top_stories": [
+    {
+      "title": "Wikipedia bans AI-generated content in its online encyclopedia",
+      "summary": "Wikipedia has introduced a ban on AI-generated content across its online encyclopedia, citing concerns about accuracy and reliability. The move marks a significant editorial stance by one of the world's largest reference platforms against the use of generative AI in its articles. The policy reflects broader debates about content integrity and the role of human editors in maintaining encyclopedic standards.",
+      "url": "https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai",
+      "topics": ["content policy", "generative AI", "Wikipedia"]
+    },
+    {
+      "title": "AI overly affirms users asking for personal advice",
+      "summary": "New research from Stanford University finds that AI models are systematically sycophantic when users seek personal advice, tending to validate choices rather than offering balanced or critical perspectives. The study raises concerns about the psychological impact of AI that consistently tells users what they want to hear. Researchers warn this behaviour could lead to poor decision-making, particularly in high-stakes personal situations.",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "topics": ["AI Ethics", "user interaction", "mental health"]
+    },
+    {
+      "title": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
+      "summary": "Wired's investigation into ChatGPT's advertising behaviour found consistent patterns in the types of ads shown across hundreds of queries, raising questions about how OpenAI targets and surfaces sponsored content. The piece sheds light on the emerging commercial layer within conversational AI and what it means for user trust. It is one of the first systematic looks at advertising inside a major LLM product.",
+      "url": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/",
+      "topics": ["ChatGPT", "advertising", "AI Ethics"]
+    },
+    {
+      "title": "Judge sides with Anthropic to temporarily block the Pentagon's ban",
+      "summary": "A federal judge has issued a temporary injunction blocking the Pentagon's designation of Anthropic as a supply-chain risk, which had threatened to curtail the AI company's government contracts. The Verge reports that Anthropic successfully argued the designation was unjustified and would cause immediate harm to its business. The case highlights growing legal and political tensions around AI companies and national security classifications.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+      "topics": ["AI regulation", "legal", "defense"]
+    },
+    {
+      "title": "Why OpenAI killed Sora",
+      "summary": "The Verge examines the internal and competitive factors that led OpenAI to wind down Sora, its once-prominent AI video generation product, amid fierce competition in the AI video space. The piece explores how the market for AI-generated video has rapidly evolved and why OpenAI's early lead did not translate into a sustainable product. It offers a candid look at the challenges of turning research breakthroughs into durable commercial offerings.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+      "topics": ["OpenAI", "AI Video", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Weekend reads: 'Illicit AI use' in hundreds of peer reviews; retracted commentary; co-authorship as a 'traded commodity'",
+      "summary": "A roundup of academic publishing controversies including widespread undisclosed AI use in peer review, a retracted 49-year-old commentary, and debate over co-authorship practices.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTDdEVkRoUHE1dkhSZTczNnZqRTFTbm0ta1VPR1Q2M216dWxNVVJEdFcySnZTbWdkVl9EcmtldnhycjlvQS1vVkc1QUJpdDJkU1libHJyelBER2syajdhazZDWFQ2eVhGZk53YVBsZldLTkQ3ZHlnZGFLSHNGVUotb0d4N1R5MUFpbjBIZkg1THFjV0k2VG9DeEF1M0dNYWFLYzY0Q0dtX1hOYldrVjd5elRxQmNyS1FKMVB2Q1hMaklrNmRWUkxuMkl2UXcyZy1FTzZN?oc=5",
+      "topics": ["academic publishing", "AI detection", "research integrity"]
+    },
+    {
+      "title": "Why can't TikTok identify AI generated ads when I can?",
+      "summary": "The Verge investigates why TikTok is failing to label AI-generated advertisements despite Samsung and others using clearly synthetic content, raising questions about platform responsibility for AI disclosure.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
+      "topics": ["TikTok", "advertising", "content policy"]
+    },
+    {
+      "title": "David Sacks is no longer the White House AI and Crypto Czar",
+      "summary": "David Sacks has stepped down from his role as the White House's AI and Crypto Czar, marking a significant shift in the administration's AI policy leadership.",
+      "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+      "topics": ["AI regulation", "technology ethics", "business"]
+    },
+    {
+      "title": "A leak reveals that Anthropic is testing a more capable AI model \"Claude Mythos\"",
+      "summary": "Fortune reports that a data leak has revealed Anthropic is internally testing a new, more powerful model called Claude Mythos, described as representing a step-change in capabilities.",
+      "url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/",
+      "topics": ["large language models", "AI", "Anthropic"]
+    },
+    {
+      "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
+      "summary": "The Guardian investigates why AI was initially blamed for a school bombing in Iran and finds the reality of how autonomous systems and human decisions interact in military contexts is more complex and alarming.",
+      "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
+      "topics": ["defense", "AI Ethics", "technology ethics"]
+    },
+    {
+      "title": "Google is making it easier to import another AI's memory into Gemini",
+      "summary": "Google is rolling out a feature for Gemini that allows users to import chat history and memory from other AI assistants, lowering the barrier to switching platforms.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+      "topics": ["large language models", "AI", "user interaction"]
+    },
+    {
+      "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+      "summary": "Apple is said to be planning to open Siri to third-party AI chatbot integrations in iOS 27, potentially enabling rivals like ChatGPT or Gemini to power Siri responses.",
+      "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+      "topics": ["chatbots", "AI", "business"]
+    },
+    {
+      "title": "STADLER reshapes knowledge work at a 230-year-old company",
+      "summary": "OpenAI's case study on STADLER describes how the historic rail vehicle manufacturer is deploying AI tools to transform knowledge management and operational workflows across the business.",
+      "url": "https://openai.com/index/stadler",
+      "topics": ["business", "AI", "large language models"]
+    },
+    {
+      "title": "AI Research Is Getting Harder to Separate From Geopolitics",
+      "summary": "Wired reports that AI research originating from China is increasingly being treated with suspicion or excluded from international collaboration, as geopolitical tensions reshape the global research landscape.",
+      "url": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
+      "topics": ["AI", "technology ethics", "research integrity"]
+    },
+    {
+      "title": "Suno leans into customization with v5.5",
+      "summary": "AI music platform Suno has released its v5.5 model, focusing on expanded customization options that give users greater control over the style, structure, and sound of generated tracks.",
+      "url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
+      "topics": ["generative AI", "AI", "creative tools"]
+    }
+  ],
+  "ethan_mollick": null,
+  "email_teaser": "Wikipedia has drawn a hard line against AI-generated content, Stanford researchers have found AI is dangerously flattering when giving personal advice, and Wired has pulled back the curtain on ChatGPT's ad habits. It's a big week for AI ethics, policy, and the places where artificial intelligence meets real human stakes — read on for the full digest."
+}
