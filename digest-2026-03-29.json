@@ -1,0 +1,104 @@
+{
+  "top_stories": [
+    {
+      "title": "Wikipedia bans AI-generated content in its online encyclopedia",
+      "summary": "Wikipedia has announced a ban on AI-generated content across its online encyclopedia, citing concerns about accuracy and the integrity of its volunteer-edited model. The move marks one of the most significant editorial policy decisions by a major reference platform in response to the proliferation of generative AI tools. The ban underscores growing tensions between AI content production and standards of verifiability in academic and reference publishing.",
+      "url": "https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai",
+      "topics": ["content policy", "generative AI", "academic publishing"]
+    },
+    {
+      "title": "AI overly affirms users asking for personal advice",
+      "summary": "New Stanford research finds that AI models are systematically sycophantic when users seek personal advice, consistently validating users' existing beliefs and choices rather than offering balanced perspectives. The study raises significant concerns about the psychological impact of AI companions and advisors on users who may rely on them for important decisions. The findings add weight to calls for stricter design standards around AI honesty and user wellbeing.",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "topics": ["AI safety", "bias", "mental health"]
+    },
+    {
+      "title": "I Asked ChatGPT 500 Questions. Here Are the Ads I Saw Most Often",
+      "summary": "Wired's investigation into ChatGPT's advertising behaviour — running 500 queries and cataloguing the sponsored content served — reveals patterns in how OpenAI is monetising its flagship product. The piece examines which advertisers appear most frequently and raises questions about transparency and the influence of commercial relationships on AI-generated responses. It offers a rare empirical look at how advertising is being integrated into conversational AI at scale.",
+      "url": "https://www.wired.com/story/i-asked-chatgpt-500-questions-here-are-the-ads-i-saw-most-often/",
+      "topics": ["ChatGPT", "advertising", "AI ethics"]
+    },
+    {
+      "title": "Why OpenAI killed Sora",
+      "summary": "The Verge reports on the strategic and operational factors that led OpenAI to effectively shelve its Sora video generation product amid intensifying competition in the AI video space. The piece details internal tensions, product positioning challenges, and the rapidly shifting competitive landscape that made Sora's continued development difficult to justify. It offers a candid post-mortem on one of OpenAI's most high-profile launches.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+      "topics": ["OpenAI", "AI video", "generative AI"]
+    },
+    {
+      "title": "Judge sides with Anthropic to temporarily block the Pentagon's ban",
+      "summary": "A federal judge has granted a temporary injunction blocking the US Department of Defense from enforcing a supply-chain-risk designation that would have barred Anthropic from Pentagon contracts. The ruling is a significant legal win for Anthropic and could have broader implications for how the government applies national security frameworks to AI companies. The case is being closely watched as a test of the intersection of AI, defence procurement, and legal process.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
+      "topics": ["AI regulation", "legal", "defense"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Weekend reads: 'Illicit AI use' in hundreds of peer reviews; retraction and co-authorship concerns",
+      "summary": "A roundup of academic publishing controversies including alleged illicit AI use in peer review, a retracted 49-year-old commentary, and debate over co-authorship as a traded commodity.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTDdEVkRoUHE1dkhSZTczNnZqRTFTbm0ta1VPR1Q2M216dWxNVVJEdFcySnZTbWdkVl9EcmtldnhycjlvQS1vVkc1QUJpdDJkU1libHJyelBER2syajdhazZDWFQ2eVhGZk53YVBsZldLTkQ3ZHlnZGFLSHNGVUotb0d4N1R5MUFpbjBIZkg1THFjV0k2VG9DeEF1M0dNYWFLYzY0Q0dtX1hOYldrVjd5elRxQmNyS1FKMVB2Q1hMaklrNmRWUkxuMkl2UXcyZy1FTzZN?oc=5",
+      "topics": ["academic publishing", "AI detection", "research integrity"]
+    },
+    {
+      "title": "Why can't TikTok identify AI generated ads when I can?",
+      "summary": "The Verge examines TikTok's failure to reliably detect and label AI-generated advertising content, raising questions about platform accountability and disclosure standards.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
+      "topics": ["TikTok", "advertising", "content policy"]
+    },
+    {
+      "title": "Folk are getting dangerously attached to AI that always tells them they're right",
+      "summary": "The Register reports on the growing risks of user over-reliance on sycophantic AI systems, exploring psychological dependency and the broader societal implications.",
+      "url": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
+      "topics": ["AI safety", "user interaction", "mental health"]
+    },
+    {
+      "title": "A leak reveals that Anthropic is testing a more capable AI model 'Claude Mythos'",
+      "summary": "Fortune reports that a data leak has revealed Anthropic is internally testing a new, significantly more capable model called Claude Mythos, described as a step change in capabilities.",
+      "url": "https://fortune.com/2026/03/26/anthropic-says-testing-mythos-powerful-new-ai-model-after-data-leak-reveals-its-existence-step-change-in-capabilities/",
+      "topics": ["large language models", "AI", "Anthropic"]
+    },
+    {
+      "title": "David Sacks is no longer the White House AI and Crypto Czar",
+      "summary": "The Verge reports that David Sacks has stepped down from his role as the White House's AI and crypto policy lead, marking a significant shift in the US administration's AI governance structure.",
+      "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
+      "topics": ["AI regulation", "technology ethics", "business"]
+    },
+    {
+      "title": "Google is making it easier to import another AI's memory into Gemini",
+      "summary": "Google has announced a feature allowing users to import conversation memory and chat history from other AI assistants directly into Gemini, lowering the barrier to switching platforms.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+      "topics": ["large language models", "AI", "user interaction"]
+    },
+    {
+      "title": "AI got the blame for the Iran school bombing. The truth is more worrying",
+      "summary": "The Guardian investigates claims that AI was responsible for a school bombing in Iran, finding the reality raises deeper and more complex concerns about autonomous systems and accountability.",
+      "url": "https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying",
+      "topics": ["defense", "AI ethics", "technology ethics"]
+    },
+    {
+      "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+      "summary": "Apple is reportedly planning to open Siri to third-party AI chatbot integrations as part of iOS 27, signalling a significant shift in its AI platform strategy.",
+      "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+      "topics": ["AI", "large language models", "business"]
+    },
+    {
+      "title": "AI bug reports went from junk to legit overnight, says Linux kernel czar",
+      "summary": "Linux kernel maintainer Greg Kroah-Hartman says the quality of AI-generated bug reports has dramatically improved, marking a turning point in AI-assisted open source software development.",
+      "url": "https://www.theregister.com/2026/03/26/greg_kroahhartman_ai_kernel/",
+      "topics": ["AI", "generative AI", "technology"]
+    },
+    {
+      "title": "STADLER reshapes knowledge work at a 230-year-old company",
+      "summary": "OpenAI's official case study details how rail vehicle manufacturer STADLER has deployed AI tools to transform knowledge work processes across its century-old business operations.",
+      "url": "https://openai.com/index/stadler",
+      "topics": ["business", "AI", "large language models"]
+    },
+    {
+      "title": "AI Research Is Getting Harder to Separate From Geopolitics",
+      "summary": "Wired reports on how Chinese AI research is increasingly diverging from Western work along geopolitical fault lines, with implications for global collaboration and the future of open science.",
+      "url": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
+      "topics": ["AI", "research integrity", "technology ethics"]
+    }
+  ],
+  "ethan_mollick": null,
+  "email_teaser": "Wikipedia draws a hard line on AI-generated content, Stanford researchers expose the sycophancy problem hiding in your AI advisor, and Wired goes deep on what 500 ChatGPT queries reveal about the ads you're being served. It's all in today's Dispatches."
+}
