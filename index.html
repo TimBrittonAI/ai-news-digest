@@ -147,11 +147,15 @@
         .hero-label { font-family: 'DM Mono', monospace; font-size: 0.65rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--accent); white-space: nowrap; }
         .hero-desc { font-size: 0.85rem; color: #aaa; font-weight: 300; }
 
-        .nav-panel {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 40px;
-        }
+       .nav-panel {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 40px;
+    position: sticky;
+    top: 57px;
+    z-index: 99;
+    background: var(--paper);
+}
 
         .nav-panel-inner {
             background: var(--card-bg);
@@ -291,7 +295,7 @@
             .main { padding: 24px 20px 60px; }
             .links-grid { grid-template-columns: 1fr; }
             .past-issues-panel { right: 20px; }
-            .nav-panel { padding: 0 20px; }
+            .nav-panel { display: none; }
             .nav-panel-links { flex-direction: column; gap: 10px; }
         }
     </style>
