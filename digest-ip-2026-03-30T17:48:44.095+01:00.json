@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "UK Government Opts Out of Its Previously Preferred Proposal on Copyright and AI",
+      "summary": "The UK Government has reversed its earlier preferred position on copyright and AI, abandoning a proposed text and data mining exception that would have allowed AI firms to train on copyrighted material without consent. The House of Lords had also weighed in on the issue, adding parliamentary pressure on the government's approach. Multiple sources confirm the policy shift leaves the copyright-AI framework unresolved in the UK.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUmd0UFhRdmIycFBlY1RvVU11dDVXU0M5RHpKMDNpRFdxZm5MT2VpUkJ2bk1JX0dCN2gtRmZwMWptMmpTTURxSWxGcHZMR1ZkSVphUUxOeW8yckdXbVpPOWlYTEpGOGxfM1N6TkpZcmUxQ0Exall3X1M5ZlR2SVNtYWVxcGtDYkpOaWpZampnU0FBWXpFbUMwWmU3RFNNczdqdnJaS0paSFd3YjBhNk5jX2M5RzBHUW14NXEyRE5qWU05Z2M?oc=5",
+      "topics": ["AI copyright", "UK policy", "text and data mining"]
+    },
+    {
+      "title": "SCOTUS's Cox Ruling Could Impact Publishers' Fight Against AI",
+      "summary": "The US Supreme Court's ruling in the Cox case may open a new legal avenue for publishers pursuing copyright claims against AI companies and large language models. The decision, covered by Publishers Weekly, could have significant implications for how contributory and secondary liability is applied in AI training disputes. Publishers and their legal teams are assessing how the ruling reshapes their litigation strategy.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100038-scotus-s-cox-ruling-may-open-new-door-for-publishers-fighting-ai-llms.html",
+      "topics": ["AI copyright", "litigation", "publishing"]
+    },
+    {
+      "title": "Researchers Challenge OpenAI Defence After Claiming ChatGPT Can Output Near-Verbatim Copies of Published Books",
+      "summary": "Researchers have published findings suggesting ChatGPT is capable of reproducing near-verbatim passages from copyrighted books, directly challenging OpenAI's legal defence that its models do not memorise or reproduce training data. The claims, reported by International Business Times UK, could strengthen plaintiffs' arguments in ongoing copyright litigation against OpenAI. OpenAI's position on memorisation and reproduction is central to several active lawsuits.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWmhZMko5dkllNXU1WWVDQ2RsdXZYcFBUQzZfUklVSmdzSVNiR01QbDhKMzdRakdiekhMZW83VDlHcDE3eFRqZjdFTF9uMUxpaVF3Y19weXQzUnVUM0Uxc0N6SEVYczJ3eHpOU1JzeElKWjRZbV9WLW40NEdhRE05VDRxOA?oc=5",
+      "topics": ["AI copyright", "litigation", "training data"]
+    },
+    {
+      "title": "ANI vs OpenAI: Delhi High Court Reserves Verdict on Interim Relief Plea in AI Copyright Dispute",
+      "summary": "The Delhi High Court has reserved its verdict on an interim relief application in the copyright dispute between Indian news agency ANI and OpenAI, a closely watched case that could set a precedent for AI and copyright in India. The case centres on allegations that OpenAI used ANI's copyrighted news content to train its models without authorisation. A separate Delhi HC ruling also flagged legal uncertainty over copyright in AI-generated works.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVYmR6b0N6RHM3UGZxUzF6ZUl6N0JGRU1FcmJybnZPZ2x6WDJMck1CMWRkOTIwdlpaUGNkR0U4c3VZRzB2VVk0ckRVZG5EcnZyVlU2NVh0V0xzS1g1UEozZHo3QWgtaWxVbXFHc1JETy1VOEVwc2RqOXVQRdIBe0FVX3lxTFBVYmR6b0N6RHM3UGZxUzF6ZUl6N0JGRU1FcmJybnZPZ2x6WDJMck1CMWRkOTIwdlpaUGNkR0U4c3VZRzB2VVk0ckRVZG5EcnZyVlU2NVh0V0xzS1g1UEozZHo3QWgtaWxVbXFHc1JETy1VOEVwc2RqOXVQRQ?oc=5",
+      "topics": ["AI copyright", "litigation", "India"]
+    },
+    {
+      "title": "As AI Discourse Rages, Publishing Has More Questions Than Answers",
+      "summary": "Publishers Weekly reports that the publishing industry remains deeply uncertain about how to respond to AI, with unresolved questions spanning copyright, licensing, author contracts, and the use of AI tools in production. Industry figures acknowledge that legal and commercial frameworks are lagging behind the pace of AI development. The piece reflects broad concern that publishers lack a coherent collective strategy.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100037-while-ai-discourse-rages-publishing-has-more-questions-than-answers.html",
+      "topics": ["publishing", "AI copyright", "licensing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Australia Backs AI Licensing Under Copyright Rules",
+      "summary": "Australia has indicated support for a licensing-based approach to AI and copyright, as media industry leaders warn the country should not be held to ransom by AI giants over the use of copyrighted content.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN3RTYlBMVG83a0RHeFZCcWlsbkJKYTlWbDhqZ0xQcXEyaUF0NW9nTkRUNV9nRzVfWFlJNVRnUk1ZMzBUZXAwV1VRUmk3YXFGWUpWdDNKOTBYcGRsRE9WUHlkQVNMS2dnd3R1ZmZiV0RFNEZ4Q3RjZFluejlncHA4dnU0RHhVQQ?oc=5",
+      "topics": ["AI copyright", "licensing", "Australia"]
+    },
+    {
+      "title": "Copyright in AI Prompts: Chinese Court Ruling on Generative AI and Originality",
+      "summary": "A Chinese court has issued a ruling examining whether AI prompts can attract copyright protection, addressing questions of originality in the context of generative AI outputs.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ0Z3NGNuT29maUhvOTd2YS1fc2FxRXI1Y1hERzRTMmpwVjZ5QVNMRFJPOUpKd3ZFX05PVUxYbVRmTzF2d1lTdFVyZ1ZMZS1CckUwSFZrQWdaLWJUakVxTDg0MWVXVWVtNWJxS2dxa01nRm5zRVl1NFMyT2Q0NVAzTmdKTDFDajhUWENrazhjSjhST0xKTFhFV01Hb0xTTDlzdkhIQWNCbGdmT1VuT0RKelUxcTRucDNTNG5lZU9hV0NhZHpoSFJzUVpMaDkwY1VDUUFjZw?oc=5",
+      "topics": ["AI copyright", "generative AI", "China"]
+    },
+    {
+      "title": "Axios AI+DC Summit: Copyright Protection in the AI Era Will Be Up to the Courts, Industry Leaders Say",
+      "summary": "Senior industry figures at the Axios AI+DC Summit concluded that, absent Congressional action, the courts will be the primary arena for resolving AI copyright disputes in the United States.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWDZhdDltU2wtMHMtNEhPLVpNN0Q3bF9yQzVha1JyV0RHUGxDUHF1RUl3cTRwWmVUNDU2RjhiZm96a3ZRaHVGeW9FdVVobEhyUTBQT1pqcWZqZF9WTkJjRE5MMUUtN2RHTEpYNFhjbGIzSHdseHlYc2VsYjVkcFIwcFBpNXEyaGNIcl9mOFhiRld4SS04X216Sm9JY1k0UjJ0ZlRidnBOQVVabTdfWHZtczNaaGJqRzBsMlhRWlRyWUxVcVBVbkc4V2xQUQ?oc=5",
+      "topics": ["AI copyright", "litigation", "US policy"]
+    },
+    {
+      "title": "The House of Lords Has Spoken on AI and Copyright – Here Is What It Means for You",
+      "summary": "An analysis of the UK House of Lords' recent report on AI and copyright, explaining the practical implications for creators, publishers, and AI developers.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU09ld3JSaTZ2M29ndE0yWWhiTlgzXy1RNVBxZ0cxMC1IQzhuV3ltNkpWbHI2cl9EMFY3SG5ha0xqcHhxcnhnaUd5OXMxUFVSVGZRMi04c1JNeFVObGM4dVVrSzc2OHZQMjVSN2ltR2oweDFieFFwRUwtdzByRUh6eDZ3Zmk5VVFSUGUxTWpzeHJTS3NvVWFuZ2EyU1ByMkRXZ21CaTJNRmo4N0t2eHA1eWNR?oc=5",
+      "topics": ["AI copyright", "UK policy", "publishing"]
+    },
+    {
+      "title": "Harlequin to Co-Produce AI-Generated 'Microdramas'",
+      "summary": "Harlequin has announced plans to co-produce a slate of AI-generated short-form video 'microdramas', marking a notable move by a major publisher into AI-generated content production.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100043-harlequin-announces-slew-of-ai-generated-microdramas.html",
+      "topics": ["publishing", "generative AI", "AI content"]
+    },
+    {
+      "title": "How India is Trying to Navigate AI Copyright's Three-Body Problem",
+      "summary": "An analysis of India's complex challenge in balancing the competing interests of AI developers, rights holders, and the public as it shapes its approach to AI and copyright law.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTjNhVjdDVFVGLWJ2eTVyZk1WUFF6amxfaUM2WGlVYklTcWYwNzdPOWtuTmtyVkZBNnQ4ODgwNGU2X3lGdmZOY3IxVmRma1F5cm9PQ21UYk9TOGcyaWhQNDFCLUs0eFV1dFk3VTRVWFk2TTJiOGVwWmQxd2dYRnJxemw3UVo3cXBSeTFiSTRoTVZOdzJKTW9KRktJMXB0ZU9wYjJFTU9obTRXa3M3RHRicHVoRXNrcFBPYnluTEtIZ3dKTzg?oc=5",
+      "topics": ["AI copyright", "India", "policy"]
+    },
+    {
+      "title": "Delhi HC Flags Legal Uncertainty Over Copyright in AI-Generated Songs",
+      "summary": "The Delhi High Court has highlighted unresolved legal questions around copyright ownership in AI-generated musical works, signalling that Indian courts are grappling with the limits of existing IP frameworks.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTFZkTVNvVDlwSndQN1NUbEY5VG1wQVdIT0xNRFk1RlJoTk5OOXBsN1ktYlA1TkJqUVVHNk9qYXFablo0MThrdWV5a3k1eVpuYlJWYkluV212SEZUazJEaWNqRjMxeDRnQzlDOWNJRk1FRkhkeDFuSEdsU2Q5SjRyYUJPN2tEdjRhVGtReUdJVFRmZkJIU3FRS3Jyb3pWdE82clBHM0hOUDZDUzllREpwWVZtSQ?oc=5",
+      "topics": ["AI copyright", "India", "generative AI"]
+    },
+    {
+      "title": "'Manners for Machines': How New Rules Could Stop AI Scrapers Destroying the Internet",
+      "summary": "An examination of emerging technical and regulatory proposals aimed at controlling how AI scrapers access web content, with implications for publishers and rights holders.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM21Rc3YtTzllQVFab3BxUTAwNnlpOVg2djlLRDRtTkZ2SXVzekdEdjNrcnhGUWN4ejlpNGUwR2RXR1Iyd0pvbzhXSEpYOGRIMWNIRjVJZTFiamg5a2RwdFVqUW1NUDdLSmlQczhaYXVhQ05ZVC1BV01IZ0FxQnZEYnpoZEdES28?oc=5",
+      "topics": ["AI scraping", "copyright", "web publishing"]
+    },
+    {
+      "title": "Is AI Software for IP Just Expensive Wrapping Paper?",
+      "summary": "IPKat examines whether AI-powered intellectual property management tools genuinely add value for legal professionals or merely repackage existing functionality at a premium price.",
+      "url": "http://ipkitten.blogspot.com/2026/03/is-ai-ip-software-just-expensive.html",
+      "topics": ["AI tools", "IP management", "legal tech"]
+    },
+    {
+      "title": "AI and Publishing: FAQ for Writers",
+      "summary": "A practical FAQ addressing common questions from authors about how AI intersects with publishing contracts, copyright ownership, and creative rights.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fMzNEUFdYYWhSdmJLUWVvNm9ZYVZzUmg3a0d6Q1VYcTFaNE0zVmtTLWFKVTdSVmRpSXBya3RWczhTd0tLazJiaWlNalBHX0pYeFo3RDFBSzJubzl4SGlaODcxendHc2NtZ2FF?oc=5",
+      "topics": ["publishing", "AI copyright", "authors"]
+    }
+  ]
+}
