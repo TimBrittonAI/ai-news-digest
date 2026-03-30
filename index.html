@@ -98,16 +98,8 @@
             white-space: nowrap;
         }
 
-        .past-issues-btn:hover {
-            color: var(--accent);
-            border-color: var(--accent);
-        }
-
-        .past-issues-btn.active {
-            color: var(--accent);
-            border-color: var(--accent);
-            background: rgba(200, 67, 42, 0.05);
-        }
+        .past-issues-btn:hover { color: var(--accent); border-color: var(--accent); }
+        .past-issues-btn.active { color: var(--accent); border-color: var(--accent); background: rgba(200, 67, 42, 0.05); }
 
         .past-issues-panel {
             display: none;
@@ -126,134 +118,90 @@
 
         .past-issues-panel.open { display: block; }
 
-        .past-issues-header {
-            padding: 12px 16px;
-            border-bottom: 1px solid var(--rule);
+        .past-issues-header { padding: 12px 16px; border-bottom: 1px solid var(--rule); }
+        .past-issues-header-label { font-family: 'DM Mono', monospace; font-size: 0.6rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--accent); margin-bottom: 2px; }
+        .past-issues-header-title { font-family: 'Playfair Display', serif; font-size: 0.95rem; font-weight: 700; color: var(--ink); }
+        .past-issues-list { padding: 8px 0; }
+
+        .past-issue-item {
+            display: block; width: 100%; text-align: left; padding: 10px 16px;
+            background: none; border: none; cursor: pointer;
+            font-family: 'DM Sans', sans-serif; font-size: 0.85rem; font-weight: 300; color: var(--ink);
+            border-left: 3px solid transparent; transition: background 0.1s, border-color 0.1s;
+        }
+        .past-issue-item:hover { background: #faf9f7; border-left-color: var(--accent); }
+        .past-issue-item.current { border-left-color: var(--accent); color: var(--accent); font-weight: 400; }
+
+        .past-issues-empty { padding: 16px; font-family: 'DM Mono', monospace; font-size: 0.65rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.1em; }
+
+        .past-issue-banner { display: none; background: var(--ink); color: var(--paper); padding: 8px 40px; text-align: center; }
+        .past-issue-banner.visible { display: block; }
+        .past-issue-banner-inner { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: center; gap: 16px; }
+        .past-issue-banner-text { font-family: 'DM Mono', monospace; font-size: 0.65rem; letter-spacing: 0.1em; text-transform: uppercase; color: #aaa; }
+        .past-issue-banner-date { font-family: 'Playfair Display', serif; font-size: 0.9rem; font-weight: 700; color: var(--paper); }
+        .back-to-today { font-family: 'DM Mono', monospace; font-size: 0.6rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--accent); background: none; border: 1px solid var(--accent); padding: 4px 10px; cursor: pointer; transition: background 0.15s; }
+        .back-to-today:hover { background: rgba(200,67,42,0.15); }
+
+        .hero-band { background: var(--ink); color: var(--paper); padding: 10px 40px; }
+        .hero-inner { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; gap: 24px; }
+        .hero-label { font-family: 'DM Mono', monospace; font-size: 0.65rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--accent); white-space: nowrap; }
+        .hero-desc { font-size: 0.85rem; color: #aaa; font-weight: 300; }
+
+        .nav-panel {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 40px;
         }
 
-        .past-issues-header-label {
+        .nav-panel-inner {
+            background: var(--card-bg);
+            border: 1px solid var(--rule);
+            border-left: 4px solid var(--accent);
+            padding: 14px 20px;
+            margin: 20px 0;
+            display: flex;
+            align-items: center;
+            gap: 32px;
+        }
+
+        .nav-panel-label {
             font-family: 'DM Mono', monospace;
             font-size: 0.6rem;
             letter-spacing: 0.15em;
             text-transform: uppercase;
             color: var(--accent);
-            margin-bottom: 2px;
-        }
-
-        .past-issues-header-title {
-            font-family: 'Playfair Display', serif;
-            font-size: 0.95rem;
-            font-weight: 700;
-            color: var(--ink);
-        }
-
-        .past-issues-list { padding: 8px 0; }
-
-        .past-issue-item {
-            display: block;
-            width: 100%;
-            text-align: left;
-            padding: 10px 16px;
-            background: none;
-            border: none;
-            cursor: pointer;
-            font-family: 'DM Sans', sans-serif;
-            font-size: 0.85rem;
-            font-weight: 300;
-            color: var(--ink);
-            border-left: 3px solid transparent;
-            transition: background 0.1s, border-color 0.1s;
-        }
-
-        .past-issue-item:hover {
-            background: #faf9f7;
-            border-left-color: var(--accent);
-        }
-
-        .past-issue-item.current {
-            border-left-color: var(--accent);
-            color: var(--accent);
-            font-weight: 400;
-        }
-
-        .past-issues-empty {
-            padding: 16px;
-            font-family: 'DM Mono', monospace;
-            font-size: 0.65rem;
-            color: var(--muted);
-            text-transform: uppercase;
-            letter-spacing: 0.1em;
-        }
-
-        .past-issue-banner {
-            display: none;
-            background: var(--ink);
-            color: var(--paper);
-            padding: 8px 40px;
-            text-align: center;
-        }
-
-        .past-issue-banner.visible { display: block; }
-
-        .past-issue-banner-inner {
-            max-width: 1200px;
-            margin: 0 auto;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 16px;
-        }
-
-        .past-issue-banner-text {
-            font-family: 'DM Mono', monospace;
-            font-size: 0.65rem;
-            letter-spacing: 0.1em;
-            text-transform: uppercase;
-            color: #aaa;
-        }
-
-        .past-issue-banner-date {
-            font-family: 'Playfair Display', serif;
-            font-size: 0.9rem;
-            font-weight: 700;
-            color: var(--paper);
-        }
-
-        .back-to-today {
-            font-family: 'DM Mono', monospace;
-            font-size: 0.6rem;
-            letter-spacing: 0.1em;
-            text-transform: uppercase;
-            color: var(--accent);
-            background: none;
-            border: 1px solid var(--accent);
-            padding: 4px 10px;
-            cursor: pointer;
-            transition: background 0.15s;
-        }
-
-        .back-to-today:hover { background: rgba(200,67,42,0.15); }
-
-        .hero-band { background: var(--ink); color: var(--paper); padding: 10px 40px; }
-
-        .hero-inner {
-            max-width: 1200px;
-            margin: 0 auto;
-            display: flex;
-            align-items: center;
-            gap: 24px;
-        }
-
-        .hero-label {
-            font-family: 'DM Mono', monospace;
-            font-size: 0.65rem;
-            letter-spacing: 0.2em;
-            text-transform: uppercase;
-            color: var(--accent);
             white-space: nowrap;
         }
 
-        .hero-desc { font-size: 0.85rem; color: #aaa; font-weight: 300; }
+        .nav-panel-links {
+            display: flex;
+            gap: 28px;
+            flex-wrap: wrap;
+        }
+
+        .nav-panel-link {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.65rem;
+            color: var(--accent);
+            text-decoration: none;
+            letter-spacing: 0.05em;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            transition: opacity 0.15s;
+        }
+
+        .nav-panel-link:hover { opacity: 0.7; }
+
+        .nav-panel-link::before {
+            content: '';
+            display: inline-block;
+            width: 12px;
+            height: 1px;
+            background: var(--accent);
+        }
+
+        .nav-panel-link::after { content: ' ↓'; }
 
         .page-layout {
             max-width: 1200px;
@@ -271,311 +219,68 @@
             border-right: 1px solid var(--rule);
         }
 
-        .flower-img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-            object-position: center;
-            display: block;
-            filter: saturate(0.9) brightness(0.97);
-        }
+        .flower-img { width: 100%; height: 100%; object-fit: cover; object-position: center; display: block; filter: saturate(0.9) brightness(0.97); }
 
-        .flower-tagline {
-            position: absolute;
-            bottom: 4px;
-            left: 0;
-            right: 0;
-            text-align: center;
-            font-family: 'DM Mono', monospace;
-            font-size: 0.65rem;
-            color: rgba(255,255,255,0.75);
-            letter-spacing: 0.08em;
-            font-style: italic;
-            text-shadow: 0 1px 4px rgba(0,0,0,0.5);
-        }
+        .flower-tagline { position: absolute; bottom: 4px; left: 0; right: 0; text-align: center; font-family: 'DM Mono', monospace; font-size: 0.65rem; color: rgba(255,255,255,0.75); letter-spacing: 0.08em; font-style: italic; text-shadow: 0 1px 4px rgba(0,0,0,0.5); }
 
         .main { padding: 40px 48px 80px; }
 
-        .section-header {
-            display: flex;
-            align-items: center;
-            gap: 16px;
-            margin-bottom: 12px;
-            margin-top: 48px;
-        }
-
+        .section-header { display: flex; align-items: center; gap: 16px; margin-bottom: 12px; margin-top: 48px; }
         .section-header:first-child { margin-top: 0; }
+        .section-number { font-family: 'Playfair Display', serif; font-size: 3rem; font-weight: 900; color: var(--rule); line-height: 1; }
+        .section-label { font-family: 'DM Mono', monospace; font-size: 0.7rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--accent); }
+        .section-title { font-family: 'Playfair Display', serif; font-size: 1.1rem; font-weight: 700; color: var(--ink); }
 
-        .section-number {
-            font-family: 'Playfair Display', serif;
-            font-size: 3rem;
-            font-weight: 900;
-            color: var(--rule);
-            line-height: 1;
-        }
+        .section-note { font-family: 'DM Mono', monospace; font-size: 0.62rem; color: var(--muted); letter-spacing: 0.06em; margin-bottom: 20px; padding-left: 2px; }
 
-        .section-label {
-            font-family: 'DM Mono', monospace;
-            font-size: 0.7rem;
-            letter-spacing: 0.15em;
-            text-transform: uppercase;
-            color: var(--accent);
-        }
-
-        .section-title {
-            font-family: 'Playfair Display', serif;
-            font-size: 1.1rem;
-            font-weight: 700;
-            color: var(--ink);
-        }
-
-        .section-note {
-            font-family: 'DM Mono', monospace;
-            font-size: 0.62rem;
-            color: var(--muted);
-            letter-spacing: 0.06em;
-            margin-bottom: 20px;
-            padding-left: 2px;
-        }
-
-        .part-divider {
-            border: none;
-            border-top: 3px solid var(--accent);
-            margin: 48px 0 0;
-        }
-
-        .part-header {
-            margin: 16px 0 32px;
-        }
-
-        .part-label {
-            font-family: 'DM Mono', monospace;
-            font-size: 0.7rem;
-            letter-spacing: 0.15em;
-            text-transform: uppercase;
-            color: var(--accent);
-            margin-bottom: 4px;
-        }
-
-        .part-title {
-            font-family: 'Playfair Display', serif;
-            font-size: 1.3rem;
-            font-weight: 900;
-            color: var(--ink);
-        }
+        .part-divider { border: none; border-top: 3px solid var(--accent); margin: 48px 0 32px; }
 
         .story-card {
-            background: var(--card-bg);
-            border: 1px solid var(--rule);
-            border-left: 4px solid var(--accent);
-            padding: 24px 28px;
-            margin-bottom: 16px;
+            background: var(--card-bg); border: 1px solid var(--rule); border-left: 4px solid var(--accent);
+            padding: 24px 28px; margin-bottom: 16px;
             transition: border-left-color 0.15s ease, transform 0.15s ease;
             animation: fadeUp 0.4s ease both;
         }
-
         .story-card:hover { border-left-color: var(--ink); transform: translateX(3px); }
 
-        @keyframes fadeUp {
-            from { opacity: 0; transform: translateY(12px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
+        @keyframes fadeUp { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
 
-        .story-number {
-            font-family: 'DM Mono', monospace;
-            font-size: 0.65rem;
-            color: var(--accent);
-            letter-spacing: 0.1em;
-            text-transform: uppercase;
-            margin-bottom: 8px;
-        }
-
-        .story-title {
-            font-family: 'Playfair Display', serif;
-            font-size: 1.2rem;
-            font-weight: 900;
-            line-height: 1.3;
-            margin-bottom: 8px;
-            color: var(--ink);
-        }
-
-        .story-source {
-            font-family: 'DM Mono', monospace;
-            font-size: 0.62rem;
-            color: var(--muted);
-            letter-spacing: 0.08em;
-            text-transform: uppercase;
-            margin-bottom: 12px;
-            display: flex;
-            align-items: center;
-            gap: 6px;
-        }
-
-        .story-source::before {
-            content: '';
-            display: inline-block;
-            width: 12px;
-            height: 1px;
-            background: var(--rule);
-        }
-
-        .story-summary {
-            font-size: 0.88rem;
-            line-height: 1.75;
-            color: #444;
-            font-weight: 300;
-            margin-bottom: 16px;
-        }
-
-        .story-link {
-            font-family: 'DM Mono', monospace;
-            font-size: 0.7rem;
-            color: var(--accent);
-            text-decoration: none;
-            letter-spacing: 0.05em;
-            border-bottom: 1px solid transparent;
-            transition: border-color 0.15s ease;
-        }
-
+        .story-number { font-family: 'DM Mono', monospace; font-size: 0.65rem; color: var(--accent); letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 8px; }
+        .story-title { font-family: 'Playfair Display', serif; font-size: 1.2rem; font-weight: 900; line-height: 1.3; margin-bottom: 8px; color: var(--ink); }
+        .story-source { font-family: 'DM Mono', monospace; font-size: 0.62rem; color: var(--muted); letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 12px; display: flex; align-items: center; gap: 6px; }
+        .story-source::before { content: ''; display: inline-block; width: 12px; height: 1px; background: var(--rule); }
+        .story-summary { font-size: 0.88rem; line-height: 1.75; color: #444; font-weight: 300; margin-bottom: 16px; }
+        .story-link { font-family: 'DM Mono', monospace; font-size: 0.7rem; color: var(--accent); text-decoration: none; letter-spacing: 0.05em; border-bottom: 1px solid transparent; transition: border-color 0.15s ease; }
         .story-link:hover { border-bottom-color: var(--accent); }
 
-        .vote-row {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            margin-top: 14px;
-        }
-
-        .vote-label {
-            font-family: 'DM Mono', monospace;
-            font-size: 0.58rem;
-            color: var(--muted);
-            letter-spacing: 0.08em;
-            text-transform: uppercase;
-        }
-
-        .vote-btn {
-            background: none;
-            border: 1px solid var(--rule);
-            padding: 3px 8px;
-            cursor: pointer;
-            font-size: 0.75rem;
-            border-radius: 3px;
-            transition: background 0.15s, border-color 0.15s;
-            line-height: 1.4;
-        }
-
+        .vote-row { display: flex; align-items: center; gap: 8px; margin-top: 14px; }
+        .vote-label { font-family: 'DM Mono', monospace; font-size: 0.58rem; color: var(--muted); letter-spacing: 0.08em; text-transform: uppercase; }
+        .vote-btn { background: none; border: 1px solid var(--rule); padding: 3px 8px; cursor: pointer; font-size: 0.75rem; border-radius: 3px; transition: background 0.15s, border-color 0.15s; line-height: 1.4; }
         .vote-btn:hover { border-color: var(--muted); }
+        .vote-btn.active-up { background: rgba(40, 160, 80, 0.12); border-color: #28a050; }
+        .vote-btn.active-down { background: rgba(200, 67, 42, 0.1); border-color: var(--accent); }
 
-        .vote-btn.active-up {
-            background: rgba(40, 160, 80, 0.12);
-            border-color: #28a050;
-        }
-
-        .vote-btn.active-down {
-            background: rgba(200, 67, 42, 0.1);
-            border-color: var(--accent);
-        }
-
-        .links-grid {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 12px;
-            margin-bottom: 16px;
-        }
-
-        .link-item {
-            background: var(--card-bg);
-            border: 1px solid var(--rule);
-            padding: 14px 16px;
-            transition: background 0.15s ease;
-            animation: fadeUp 0.4s ease both;
-        }
-
+        .links-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 16px; }
+        .link-item { background: var(--card-bg); border: 1px solid var(--rule); padding: 14px 16px; transition: background 0.15s ease; animation: fadeUp 0.4s ease both; }
         .link-item:hover { background: #faf9f7; }
-
-        .link-number {
-            font-family: 'DM Mono', monospace;
-            font-size: 0.6rem;
-            color: var(--muted);
-            margin-bottom: 5px;
-        }
-
-        .link-title {
-            font-family: 'Playfair Display', serif;
-            font-size: 0.88rem;
-            font-weight: 700;
-            line-height: 1.4;
-            color: var(--ink);
-            margin-bottom: 5px;
-        }
-
-        .link-source {
-            font-family: 'DM Mono', monospace;
-            font-size: 0.58rem;
-            color: var(--muted);
-            text-transform: uppercase;
-            letter-spacing: 0.06em;
-            margin-bottom: 6px;
-        }
-
-        .link-text {
-            font-size: 0.8rem;
-            line-height: 1.5;
-            color: #555;
-            font-weight: 300;
-            margin-bottom: 8px;
-        }
-
-        .link-url {
-            font-family: 'DM Mono', monospace;
-            font-size: 0.65rem;
-            color: var(--accent);
-            text-decoration: none;
-        }
-
+        .link-number { font-family: 'DM Mono', monospace; font-size: 0.6rem; color: var(--muted); margin-bottom: 5px; }
+        .link-title { font-family: 'Playfair Display', serif; font-size: 0.88rem; font-weight: 700; line-height: 1.4; color: var(--ink); margin-bottom: 5px; }
+        .link-source { font-family: 'DM Mono', monospace; font-size: 0.58rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 6px; }
+        .link-text { font-size: 0.8rem; line-height: 1.5; color: #555; font-weight: 300; margin-bottom: 8px; }
+        .link-url { font-family: 'DM Mono', monospace; font-size: 0.65rem; color: var(--accent); text-decoration: none; }
         .link-url:hover { text-decoration: underline; }
         .link-url::after { content: ' \2192'; }
 
         .loading-state { text-align: center; padding: 80px 20px; color: var(--muted); }
-
-        .loading-state .big {
-            font-family: 'Playfair Display', serif;
-            font-size: 2rem;
-            font-weight: 700;
-            color: var(--rule);
-            display: block;
-            margin-bottom: 12px;
-        }
-
+        .loading-state .big { font-family: 'Playfair Display', serif; font-size: 2rem; font-weight: 700; color: var(--rule); display: block; margin-bottom: 12px; }
         .loading-state p { font-size: 0.85rem; }
 
         .rule { border: none; border-top: 1px solid var(--rule); margin: 40px 0; }
 
         footer { border-top: 3px solid var(--ink); padding: 20px 40px; background: var(--paper); }
-
-        .footer-inner {
-            max-width: 1200px;
-            margin: 0 auto;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-
-        .footer-text {
-            font-family: 'DM Mono', monospace;
-            font-size: 0.65rem;
-            color: var(--muted);
-            letter-spacing: 0.08em;
-            text-transform: uppercase;
-        }
-
-        .footer-signal {
-            font-family: 'Playfair Display', serif;
-            font-size: 1rem;
-            font-weight: 900;
-            color: var(--rule);
-        }
+        .footer-inner { max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; }
+        .footer-text { font-family: 'DM Mono', monospace; font-size: 0.65rem; color: var(--muted); letter-spacing: 0.08em; text-transform: uppercase; }
+        .footer-signal { font-family: 'Playfair Display', serif; font-size: 1rem; font-weight: 900; color: var(--rule); }
 
         .raw-content { font-size: 0.9rem; line-height: 1.8; white-space: pre-wrap; font-weight: 300; color: #333; }
         .raw-content a { color: var(--accent); }
@@ -586,6 +291,8 @@
             .main { padding: 24px 20px 60px; }
             .links-grid { grid-template-columns: 1fr; }
             .past-issues-panel { right: 20px; }
+            .nav-panel { padding: 0 20px; }
+            .nav-panel-links { flex-direction: column; gap: 10px; }
         }
     </style>
 </head>
@@ -628,6 +335,17 @@
         </div>
     </div>
 
+    <div class="nav-panel">
+        <div class="nav-panel-inner">
+            <div class="nav-panel-label">In today's digest</div>
+            <div class="nav-panel-links">
+                <a href="#part1" class="nav-panel-link">Part 1 — General AI News</a>
+                <a href="#ethan" class="nav-panel-link">Ethan Mollick — One Useful Thing</a>
+                <a href="#part2" class="nav-panel-link">Part 2 — AI &amp; IP</a>
+            </div>
+        </div>
+    </div>
+
     <div class="page-layout">
         <div class="flower-column">
             <img class="flower-img" id="flower-img" src="" alt="Today's flower" />
@@ -662,9 +380,7 @@
             return date.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
         }
 
-        function todayStr() {
-            return now.toISOString().slice(0, 10);
-        }
+        function todayStr() { return now.toISOString().slice(0, 10); }
 
         let currentDateStr = null;
 
@@ -684,7 +400,6 @@
         const PEXELS_API_KEY = 'dbwIwAOi3X5bTdA6lPjq7isKyM16T3Ma2r96LQ6CxwvfbuM8pntW8R7x';
 
         async function loadFlower() {
-            const flowerImg = document.getElementById('flower-img');
             try {
                 const page = (dayOfYear % 3) + 1;
                 const res = await fetch(
@@ -693,12 +408,10 @@
                 );
                 const data = await res.json();
                 if (data.photos && data.photos.length > 0) {
-                    flowerImg.src = data.photos[0].src.large;
-                    flowerImg.alt = data.photos[0].alt || flowerKeyword;
+                    document.getElementById('flower-img').src = data.photos[0].src.large;
+                    document.getElementById('flower-img').alt = data.photos[0].alt || flowerKeyword;
                 }
-            } catch (e) {
-                console.log('Flower image could not load:', e);
-            }
+            } catch (e) { console.log('Flower image could not load:', e); }
         }
         loadFlower();
 
@@ -710,24 +423,18 @@
                 const dates = text.split(',').map(d => d.trim()).filter(d => d.length === 10);
                 buildPastIssuesList(dates);
             } catch {
-                document.getElementById('past-issues-list').innerHTML =
-                    '<div class="past-issues-empty">No archive available yet.</div>';
+                document.getElementById('past-issues-list').innerHTML = '<div class="past-issues-empty">No archive available yet.</div>';
             }
         }
 
         function buildPastIssuesList(dates) {
             const list = document.getElementById('past-issues-list');
-            if (!dates.length) {
-                list.innerHTML = '<div class="past-issues-empty">No past issues yet.</div>';
-                return;
-            }
+            if (!dates.length) { list.innerHTML = '<div class="past-issues-empty">No past issues yet.</div>'; return; }
             const today = todayStr();
             list.innerHTML = dates.map(d => `
-                <button class="past-issue-item ${d === today ? 'current' : ''}"
-                        onclick="loadIssue('${d}')">
+                <button class="past-issue-item ${d === today ? 'current' : ''}" onclick="loadIssue('${d}')">
                     ${formatDate(d)}${d === today ? ' \u2014 Today' : ''}
-                </button>
-            `).join('');
+                </button>`).join('');
         }
 
         function togglePastIssues() {
@@ -750,10 +457,8 @@
         async function loadIssue(dateStr) {
             document.getElementById('past-issues-panel').classList.remove('open');
             document.getElementById('past-issues-btn').classList.remove('active');
-
             currentDateStr = dateStr;
             const today = todayStr();
-
             const banner = document.getElementById('past-issue-banner');
             if (dateStr === today) {
                 banner.classList.remove('visible');
@@ -761,13 +466,11 @@
                 document.getElementById('past-issue-banner-date').textContent = formatDate(dateStr);
                 banner.classList.add('visible');
             }
-
             document.getElementById('main-content').innerHTML = `
                 <div class="loading-state">
                     <span class="big">Loading&#x2026;</span>
                     <p>Fetching edition from ${formatDate(dateStr)}.</p>
                 </div>`;
-
             try {
                 const res = await fetch(`digest-${dateStr}.json?v=` + Date.now());
                 if (!res.ok) throw new Error('not found');
@@ -783,28 +486,16 @@
             }
         }
 
-        function loadToday() {
-            loadIssue(todayStr());
-        }
+        function loadToday() { loadIssue(todayStr()); }
 
         function getDomain(url) {
             try { return new URL(url).hostname.replace(/^www\./, ''); }
             catch { return ''; }
         }
 
-        // ── VOTE FUNCTIONS ──────────────────────────────────────────────
-
         const VOTES_KEY = 'signal_votes';
-
-        function getVotes() {
-            try { return JSON.parse(localStorage.getItem(VOTES_KEY)) || {}; }
-            catch { return {}; }
-        }
-
-        function getVote(url) {
-            const v = getVotes()[url];
-            return v ? v.direction : null;
-        }
+        function getVotes() { try { return JSON.parse(localStorage.getItem(VOTES_KEY)) || {}; } catch { return {}; } }
+        function getVote(url) { const v = getVotes()[url]; return v ? v.direction : null; }
 
         async function writePendingVoteToGitHub(title, direction, isIP) {
             try {
@@ -814,28 +505,17 @@
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({ title, direction, date: todayStr() })
                 });
-            } catch(e) {
-                console.log('Could not write pending vote:', e);
-            }
+            } catch(e) { console.log('Could not write pending vote:', e); }
         }
 
         async function voteStory(url, title, direction, btnUpId, btnDownId, isIP) {
             const votes = getVotes();
             const current = votes[url] ? votes[url].direction : null;
-
-            if (current === direction) {
-                delete votes[url];
-            } else {
-                votes[url] = { direction };
-                writePendingVoteToGitHub(title, direction, isIP);
-            }
-
+            if (current === direction) { delete votes[url]; } else { votes[url] = { direction }; writePendingVoteToGitHub(title, direction, isIP); }
             try { localStorage.setItem(VOTES_KEY, JSON.stringify(votes)); } catch(e) {}
-
             const btnUp = document.getElementById(btnUpId);
             const btnDown = document.getElementById(btnDownId);
             const newVote = votes[url] ? votes[url].direction : null;
-
             if (btnUp) btnUp.classList.toggle('active-up', newVote === 'up');
             if (btnDown) btnDown.classList.toggle('active-down', newVote === 'down');
         }
@@ -854,8 +534,6 @@
                     onclick="voteStory('${url}', '${escapedTitle}', 'down', '${upId}', '${downId}', ${ipFlag})">&#x1F44E;</button>
             </div>`;
         }
-
-        // ── END VOTE FUNCTIONS ──────────────────────────────────────────
 
         async function loadDigest() {
             const today = todayStr();
@@ -896,17 +574,12 @@
                 .replace(/^(\d+)\.\s+(.+)$/gm, (_, n, t) => `<div class="story-number">Story ${String(n).padStart(2,'0')}</div><div class="story-title">${t}</div>`)
                 .replace(/### (.*)/g, '<h3 style="font-family:\'Playfair Display\',serif;margin:32px 0 16px;font-size:1.3rem;font-weight:900;">$1</h3>')
                 .replace(/\n\n/g, '</p><p style="margin-bottom:12px;">');
-
             document.getElementById('main-content').innerHTML = `
                 <div class="section-header">
-                    <div>
-                        <div class="section-label">Today's Digest</div>
-                        <div class="section-title">AI News &#x2014; ${now.toLocaleDateString('en-GB', { day:'numeric', month:'long', year:'numeric' })}</div>
-                    </div>
+                    <div><div class="section-label">Today's Digest</div>
+                    <div class="section-title">AI News &#x2014; ${now.toLocaleDateString('en-GB', { day:'numeric', month:'long', year:'numeric' })}</div></div>
                 </div>
-                <div class="story-card">
-                    <div class="raw-content"><p style="margin-bottom:12px;">${html}</p></div>
-                </div>`;
+                <div class="story-card"><div class="raw-content"><p style="margin-bottom:12px;">${html}</p></div></div>`;
         }
 
         async function renderDigest(data, dateStr, ipData) {
@@ -916,11 +589,11 @@
 
             // SECTION 01: Top Stories
             if (data.top_stories && data.top_stories.length) {
-                html += `<div class="section-header">
+                html += `<div id="part1" class="section-header">
                     <div class="section-number">01</div>
                     <div>
-                        <div class="section-label">${isToday ? "Today's Top Stories" : displayDate}</div>
-                        <div class="section-title">Five things worth your time</div>
+                        <div class="section-label">Part 1 — General AI News</div>
+                        <div class="section-title">${isToday ? 'Five things worth your time' : displayDate}</div>
                     </div>
                 </div>
                 <div class="section-note">&#x1F44D; &#x1F44E; Use the thumbs on each story to help us learn what matters to you — your feedback shapes tomorrow's selection.</div>`;
@@ -938,24 +611,18 @@
                 });
             }
 
-            // SECTION 02: One Useful Thing — Ethan Mollick
+            // SECTION 02: Ethan Mollick
             let em = (data.ethan_mollick && data.ethan_mollick.title) ? data.ethan_mollick : null;
-
             if (!em) {
                 try {
                     const emRes = await fetch('https://signal-news.t-britton-uk.workers.dev/em-feed');
                     const emData = await emRes.json();
-                    if (emData.title && emData.link) {
-                        em = { title: emData.title, url: emData.link, summary: emData.summary || '' };
-                    }
-                } catch(e) {
-                    console.log('Could not fetch EM from worker:', e);
-                }
+                    if (emData.title && emData.link) em = { title: emData.title, url: emData.link, summary: emData.summary || '' };
+                } catch(e) { console.log('Could not fetch EM from worker:', e); }
             }
-
             if (em && em.title) {
                 html += `<hr class="rule">
-                <div class="section-header">
+                <div id="ethan" class="section-header">
                     <div class="section-number">02</div>
                     <div>
                         <div class="section-label">One Useful Thing</div>
@@ -999,18 +666,13 @@
 
             // PART 2: AI & IP
             if (ipData && (ipData.ip_top_stories || ipData.ip_further_links)) {
-                html += `<hr class="part-divider">
-                <div class="part-header">
-                    <div class="part-label">Part 2</div>
-                    <div class="part-title">AI &amp; IP</div>
-                </div>`;
+                html += `<hr id="part2" class="part-divider">`;
 
-                // IP Top Stories
                 if (ipData.ip_top_stories && ipData.ip_top_stories.length) {
                     html += `<div class="section-header" style="margin-top:0;">
                         <div class="section-number">04</div>
                         <div>
-                            <div class="section-label">AI &amp; IP Top Stories</div>
+                            <div class="section-label">Part 2 — AI &amp; IP</div>
                             <div class="section-title">What matters in AI &amp; intellectual property</div>
                         </div>
                     </div>
@@ -1029,7 +691,6 @@
                     });
                 }
 
-                // IP Further Links
                 if (ipData.ip_further_links && ipData.ip_further_links.length) {
                     html += `<hr class="rule">
                     <div class="section-header">
@@ -1064,7 +725,6 @@
         loadDigest();
     </script>
 
-<!-- Dispatches: AI Voice Agent -->
 <div style="position:fixed; bottom:20px; right:20px; z-index:9999;">
 <elevenlabs-convai agent-id="agent_5301kkc9q2dqfyh98f5791dep1w4"></elevenlabs-convai>
 </div>
