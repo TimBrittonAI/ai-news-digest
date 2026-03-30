@@ -338,6 +338,32 @@
             padding-left: 2px;
         }
 
+        .part-divider {
+            border: none;
+            border-top: 3px solid var(--accent);
+            margin: 48px 0 0;
+        }
+
+        .part-header {
+            margin: 16px 0 32px;
+        }
+
+        .part-label {
+            font-family: 'DM Mono', monospace;
+            font-size: 0.7rem;
+            letter-spacing: 0.15em;
+            text-transform: uppercase;
+            color: var(--accent);
+            margin-bottom: 4px;
+        }
+
+        .part-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.3rem;
+            font-weight: 900;
+            color: var(--ink);
+        }
+
         .story-card {
             background: var(--card-bg);
             border: 1px solid var(--rule);
@@ -745,7 +771,9 @@
             try {
                 const res = await fetch(`digest-${dateStr}.json?v=` + Date.now());
                 if (!res.ok) throw new Error('not found');
-                await renderDigest(await res.json(), dateStr);
+                const ipRes = await fetch(`digest-ip-${dateStr}.json?v=` + Date.now());
+                const ipData = ipRes.ok ? await ipRes.json() : null;
+                await renderDigest(await res.json(), dateStr, ipData);
             } catch {
                 document.getElementById('main-content').innerHTML = `
                     <div class="loading-state">
@@ -778,9 +806,10 @@
             return v ? v.direction : null;
         }
 
-        async function writePendingVoteToGitHub(title, direction) {
+        async function writePendingVoteToGitHub(title, direction, isIP) {
             try {
-                await fetch('https://signal-news.t-britton-uk.workers.dev/vote', {
+                const endpoint = isIP ? '/vote-ip' : '/vote';
+                await fetch('https://signal-news.t-britton-uk.workers.dev' + endpoint, {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({ title, direction, date: todayStr() })
@@ -790,7 +819,7 @@
             }
         }
 
-        async function voteStory(url, title, direction, btnUpId, btnDownId) {
+        async function voteStory(url, title, direction, btnUpId, btnDownId, isIP) {
             const votes = getVotes();
             const current = votes[url] ? votes[url].direction : null;
 
@@ -798,7 +827,7 @@
                 delete votes[url];
             } else {
                 votes[url] = { direction };
-                writePendingVoteToGitHub(title, direction);
+                writePendingVoteToGitHub(title, direction, isIP);
             }
 
             try { localStorage.setItem(VOTES_KEY, JSON.stringify(votes)); } catch(e) {}
@@ -811,17 +840,18 @@
             if (btnDown) btnDown.classList.toggle('active-down', newVote === 'down');
         }
 
-        function voteButtonsHTML(url, title, idSuffix) {
+        function voteButtonsHTML(url, title, idSuffix, isIP) {
             const vote = getVote(url);
             const upId = `vote-up-${idSuffix}`;
             const downId = `vote-down-${idSuffix}`;
             const escapedTitle = title.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+            const ipFlag = isIP ? 'true' : 'false';
             return `<div class="vote-row">
                 <span class="vote-label">Useful?</span>
                 <button id="${upId}" class="vote-btn ${vote === 'up' ? 'active-up' : ''}"
-                    onclick="voteStory('${url}', '${escapedTitle}', 'up', '${upId}', '${downId}')">&#x1F44D;</button>
+                    onclick="voteStory('${url}', '${escapedTitle}', 'up', '${upId}', '${downId}', ${ipFlag})">&#x1F44D;</button>
                 <button id="${downId}" class="vote-btn ${vote === 'down' ? 'active-down' : ''}"
-                    onclick="voteStory('${url}', '${escapedTitle}', 'down', '${upId}', '${downId}')">&#x1F44E;</button>
+                    onclick="voteStory('${url}', '${escapedTitle}', 'down', '${upId}', '${downId}', ${ipFlag})">&#x1F44E;</button>
             </div>`;
         }
 
@@ -832,14 +862,16 @@
             try {
                 const res = await fetch(`digest-${today}.json?v=` + Date.now());
                 if (!res.ok) throw new Error('no json');
+                const ipRes = await fetch(`digest-ip-${today}.json?v=` + Date.now());
+                const ipData = ipRes.ok ? await ipRes.json() : null;
                 currentDateStr = today;
-                await renderDigest(await res.json(), today);
+                await renderDigest(await res.json(), today, ipData);
             } catch {
                 try {
                     const res2 = await fetch('digest.json?v=' + Date.now());
                     if (!res2.ok) throw new Error('no json');
                     currentDateStr = today;
-                    await renderDigest(await res2.json(), today);
+                    await renderDigest(await res2.json(), today, null);
                 } catch {
                     try {
                         const res3 = await fetch('digest.txt?v=' + Date.now());
@@ -877,9 +909,7 @@
                 </div>`;
         }
 
-        const EM_CACHE_KEY = 'signal_ethan_mollick_cache';
-
-        async function renderDigest(data, dateStr) {
+        async function renderDigest(data, dateStr, ipData) {
             const isToday = dateStr === todayStr();
             const displayDate = formatDate(dateStr);
             let html = '';
@@ -903,7 +933,7 @@
                         ${domain ? `<div class="story-source">${domain}</div>` : ''}
                         <div class="story-summary">${s.summary}</div>
                         ${s.url ? `<a href="${s.url}" target="_blank" rel="noopener" class="story-link">Read original &#x2192;</a>` : ''}
-                        ${s.url ? voteButtonsHTML(s.url, s.title, idSuffix) : ''}
+                        ${s.url ? voteButtonsHTML(s.url, s.title, idSuffix, false) : ''}
                     </div>`;
                 });
             }
@@ -961,10 +991,69 @@
                         ${domain ? `<div class="link-source">${domain}</div>` : ''}
                         <div class="link-text">${l.summary}</div>
                         ${l.url ? `<a href="${l.url}" target="_blank" rel="noopener" class="link-url">Read more</a>` : ''}
-                        ${l.url ? voteButtonsHTML(l.url, l.title, idSuffix) : ''}
+                        ${l.url ? voteButtonsHTML(l.url, l.title, idSuffix, false) : ''}
                     </div>`;
                 });
                 html += `</div>`;
+            }
+
+            // PART 2: AI & IP
+            if (ipData && (ipData.ip_top_stories || ipData.ip_further_links)) {
+                html += `<hr class="part-divider">
+                <div class="part-header">
+                    <div class="part-label">Part 2</div>
+                    <div class="part-title">AI &amp; IP</div>
+                </div>`;
+
+                // IP Top Stories
+                if (ipData.ip_top_stories && ipData.ip_top_stories.length) {
+                    html += `<div class="section-header" style="margin-top:0;">
+                        <div class="section-number">04</div>
+                        <div>
+                            <div class="section-label">AI &amp; IP Top Stories</div>
+                            <div class="section-title">What matters in AI &amp; intellectual property</div>
+                        </div>
+                    </div>
+                    <div class="section-note">&#x1F44D; &#x1F44E; Rate these stories to shape your AI &amp; IP coverage.</div>`;
+                    ipData.ip_top_stories.forEach((s, i) => {
+                        const domain = s.url ? getDomain(s.url) : '';
+                        const idSuffix = `ip-top-${i}`;
+                        html += `<div class="story-card" style="animation-delay:${i*0.07}s">
+                            <div class="story-number">Story ${String(i+1).padStart(2,'0')}</div>
+                            <div class="story-title">${s.title}</div>
+                            ${domain ? `<div class="story-source">${domain}</div>` : ''}
+                            <div class="story-summary">${s.summary}</div>
+                            ${s.url ? `<a href="${s.url}" target="_blank" rel="noopener" class="story-link">Read original &#x2192;</a>` : ''}
+                            ${s.url ? voteButtonsHTML(s.url, s.title, idSuffix, true) : ''}
+                        </div>`;
+                    });
+                }
+
+                // IP Further Links
+                if (ipData.ip_further_links && ipData.ip_further_links.length) {
+                    html += `<hr class="rule">
+                    <div class="section-header">
+                        <div class="section-number">05</div>
+                        <div>
+                            <div class="section-label">AI &amp; IP — Further Reading</div>
+                            <div class="section-title">More from the AI &amp; IP feed</div>
+                        </div>
+                    </div>
+                    <div class="links-grid">`;
+                    ipData.ip_further_links.forEach((l, i) => {
+                        const domain = l.url ? getDomain(l.url) : '';
+                        const idSuffix = `ip-further-${i}`;
+                        html += `<div class="link-item" style="animation-delay:${(i*0.05)+0.3}s">
+                            <div class="link-number">${String(i+1).padStart(2,'0')}</div>
+                            ${l.title ? `<div class="link-title">${l.title}</div>` : ''}
+                            ${domain ? `<div class="link-source">${domain}</div>` : ''}
+                            <div class="link-text">${l.summary}</div>
+                            ${l.url ? `<a href="${l.url}" target="_blank" rel="noopener" class="link-url">Read more</a>` : ''}
+                            ${l.url ? voteButtonsHTML(l.url, l.title, idSuffix, true) : ''}
+                        </div>`;
+                    });
+                    html += `</div>`;
+                }
             }
 
             document.getElementById('main-content').innerHTML = html ||
