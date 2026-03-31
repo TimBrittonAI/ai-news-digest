@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "AI benchmarks are broken. Here's what we need instead.",
+      "summary": "MIT Technology Review examines how current AI benchmarks are failing to meaningfully measure model capabilities, as models increasingly game or saturate existing tests. The piece explores what alternative evaluation frameworks might look like to better capture real-world AI performance.",
+      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
+      "topics": ["AI evaluation", "large language models", "AI Safety"]
+    },
+    {
+      "title": "The Pentagon's culture war tactic against Anthropic has backfired",
+      "summary": "MIT Technology Review reports that the Pentagon's attempt to leverage culture war rhetoric against Anthropic has not achieved its intended effect, and may have strengthened rather than weakened the AI company's position. The piece details the strategic and political dynamics behind the dispute between US defense interests and AI safety-focused labs.",
+      "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
+      "topics": ["AI Ethics", "Defense", "AI regulation"]
+    },
+    {
+      "title": "There are more AI health tools than ever—but how well do they work?",
+      "summary": "MIT Technology Review surveys the rapidly expanding landscape of AI-powered health tools, from diagnostic aids to mental health apps, and scrutinises the evidence base for their effectiveness. The piece finds that while adoption is accelerating, rigorous clinical validation often lags behind commercial deployment.",
+      "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+      "topics": ["AI health tools", "Mental Health", "Technology Ethics"]
+    },
+    {
+      "title": "Meta Adaptive Ranking Model: Bending the Inference Scaling Curve to Serve LLM-Scale Models for Ads",
+      "summary": "Meta's engineering blog details how the company has developed a new adaptive ranking model that allows LLM-scale models to be deployed efficiently for ad ranking, significantly reducing inference costs. The approach demonstrates how large model capabilities can be made economically viable for high-throughput production advertising systems.",
+      "url": "https://engineering.fb.com/2026/03/31/ml-applications/meta-adaptive-ranking-model-bending-the-inference-scaling-curve-to-serve-llm-scale-models-for-ads/",
+      "topics": ["large language models", "Advertising", "AI infrastructure"]
+    },
+    {
+      "title": "Art schools are being torn apart by AI",
+      "summary": "The Verge reports on deepening divisions within art schools over generative AI, as faculty, students, and administrators clash over whether and how AI tools should be integrated into creative education. The piece captures the broader tension between preserving traditional craft skills and preparing students for an AI-transformed creative job market.",
+      "url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
+      "topics": ["generative AI", "AI Ethics", "Technology Ethics"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "The IRS Wants Smarter Audits. Palantir Could Help Decide Who Gets Flagged",
+      "summary": "Wired reports on documents revealing Palantir's contract with the IRS to assist in identifying targets for fraud audits, raising questions about algorithmic accountability and bias in government enforcement.",
+      "url": "https://www.wired.com/story/documents-reveal-palantir-irs-contract-fraud-clean-energy-credits/",
+      "topics": ["AI regulation", "Bias", "government AI"]
+    },
+    {
+      "title": "AI Has Flooded All the Weather Apps",
+      "summary": "Wired examines how AI-generated forecasts and content have proliferated across consumer weather applications, often with little transparency about accuracy or sourcing.",
+      "url": "https://www.wired.com/story/ai-has-flooded-all-the-weather-apps/",
+      "topics": ["generative AI", "Consumer Research", "AI products"]
+    },
+    {
+      "title": "You can order Grubhub and Uber Eats 'conversationally' with Alexa Plus",
+      "summary": "The Verge reports that Amazon's Alexa Plus now supports conversational food ordering through Grubhub and Uber Eats, expanding the practical use cases for AI-powered voice assistants.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-grubhub-uber-eats",
+      "topics": ["Chatbots", "AI products", "E-commerce"]
+    },
+    {
+      "title": "Okta's CEO is betting big on AI agent identity",
+      "summary": "The Verge podcast covers how Okta is positioning itself as a key player in securing and managing the identity of AI agents operating within enterprise environments.",
+      "url": "https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity",
+      "topics": ["AI agents", "Business", "AI Safety"]
+    },
+    {
+      "title": "Import AI 451: Political superintelligence; Google's society of minds, and a robot drummer",
+      "summary": "Jack Clark's Import AI newsletter covers political applications of superintelligent AI systems, Google DeepMind's multi-agent 'society of minds' research, and other notable AI developments.",
+      "url": "https://importai.substack.com/p/import-ai-451-political-superintelligence",
+      "topics": ["AI Safety", "large language models", "AI research"]
+    },
+    {
+      "title": "All the latest in AI music: Suno, Udio, and the art lawsuit",
+      "summary": "The Verge rounds up the latest developments in AI-generated music, including ongoing litigation against Suno and Udio over copyright infringement claims from major record labels.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
+      "topics": ["copyright", "generative AI", "AI Video"]
+    },
+    {
+      "title": "Open to Work: How to Get Ahead in the Age of AI",
+      "summary": "Microsoft's blog post explores strategies for workers and job seekers to adapt to AI-driven changes in the workplace, drawing on research and practical guidance.",
+      "url": "https://blogs.microsoft.com/blog/2026/03/31/open-to-work-how-to-get-ahead-in-the-age-of-ai/",
+      "topics": ["AI workforce", "Business", "Layoffs"]
+    },
+    {
+      "title": "Shifting to AI model customization is an architectural imperative",
+      "summary": "MIT Technology Review argues that organisations must redesign their AI infrastructure to support model customisation rather than relying on off-the-shelf solutions, framing this as a strategic necessity.",
+      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
+      "topics": ["AI infrastructure", "large language models", "Business"]
+    },
+    {
+      "title": "Mathematical methods and human thought in the age of AI",
+      "summary": "An arXiv preprint examines how AI is reshaping mathematical reasoning and what this means for human cognitive practices in scientific and academic contexts.",
+      "url": "https://arxiv.org/abs/2603.26524",
+      "topics": ["AI research", "academic publishing", "large language models"]
+    },
+    {
+      "title": "The Download: AI health tools and the Pentagon's Anthropic culture war",
+      "summary": "MIT Technology Review's daily briefing links together coverage of AI health tool efficacy and the fallout from the Pentagon's clash with Anthropic, providing useful context across both stories.",
+      "url": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
+      "topics": ["AI Safety", "Defense", "AI health tools"]
+    }
+  ],
+  "ethan_mollick": null
+}
