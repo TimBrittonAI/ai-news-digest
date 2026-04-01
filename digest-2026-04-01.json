@@ -1,0 +1,101 @@
+{
+  "top_stories": [
+    {
+      "title": "Claude Code leak exposes a Tamagotchi-style 'pet' and an always-on agent",
+      "summary": "A leak of Anthropic's Claude Code source code has revealed unreleased features including a Tamagotchi-style virtual pet and an always-on background agent. The Verge reports the leak offers a rare glimpse into Anthropic's near-term product roadmap for its developer-focused AI tools.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+      "topics": ["AI agents", "Anthropic", "large language models"]
+    },
+    {
+      "title": "I Asked ChatGPT What WIRED's Reviewers Recommend. Its Answers Were All Wrong",
+      "summary": "Wired tested ChatGPT by asking it to summarise the outlet's own product recommendations and found the answers were consistently inaccurate. The piece raises concerns about AI-generated misinformation in consumer contexts and the reliability of LLMs as information retrieval tools.",
+      "url": "https://www.wired.com/story/i-asked-chatgpt-what-wired-reviewers-recommend-its-answers-were-all-wrong/",
+      "topics": ["ChatGPT", "AI accuracy", "consumer research"]
+    },
+    {
+      "title": "Gradient Labs gives every bank customer an AI account manager",
+      "summary": "OpenAI has highlighted Gradient Labs, a startup using its models to deploy AI-powered account managers for bank customers. The announcement points to growing adoption of LLM-based agents in financial services for personalised customer interactions.",
+      "url": "https://openai.com/index/gradient-labs",
+      "topics": ["AI agents", "OpenAI", "financial services"]
+    },
+    {
+      "title": "AI benchmarks are broken. Here's what we need instead.",
+      "summary": "MIT Technology Review examines how existing AI benchmarks have become saturated and unreliable as measures of model capability, with leading models now scoring near-perfectly on tests designed to challenge them. Researchers and industry figures argue for new evaluation frameworks that better reflect real-world performance.",
+      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
+      "topics": ["AI evaluation", "large language models", "AI research"]
+    },
+    {
+      "title": "Meta Adaptive Ranking Model: Bending the Inference Scaling Curve to Serve LLM-Scale Models for Ads",
+      "summary": "Meta's engineering blog details its Adaptive Ranking Model, which applies LLM-scale inference to its advertising systems while managing computational costs. The post outlines architectural innovations that allow Meta to run large models for ad ranking without a proportional increase in infrastructure expense.",
+      "url": "https://engineering.fb.com/2026/03/31/ml-applications/meta-adaptive-ranking-model-bending-the-inference-scaling-curve-to-serve-llm-scale-models-for-ads/",
+      "topics": ["advertising", "large language models", "AI infrastructure"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "You can now use ChatGPT with Apple's CarPlay",
+      "summary": "OpenAI has integrated ChatGPT into Apple's CarPlay, allowing drivers to interact with the AI assistant hands-free while on the road.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
+      "topics": ["ChatGPT", "OpenAI", "AI products"]
+    },
+    {
+      "title": "Accelerating the next phase of AI",
+      "summary": "OpenAI outlines its strategic vision for the next phase of AI development, emphasising infrastructure, model capability and deployment at scale.",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "topics": ["OpenAI", "AI strategy", "large language models"]
+    },
+    {
+      "title": "Art schools are being torn apart by AI",
+      "summary": "The Verge reports on deepening divisions inside art schools over generative AI, with faculty and students clashing over whether AI tools should be embraced or resisted in creative education.",
+      "url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
+      "topics": ["generative AI", "AI ethics", "education"]
+    },
+    {
+      "title": "The gig workers who are training humanoid robots at home",
+      "summary": "MIT Technology Review explores how a new gig economy is emerging around remote data collection for humanoid robot training, with workers performing physical tasks at home to generate training data.",
+      "url": "https://www.technologyreview.com/2026/03/31/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
+      "topics": ["AI training data", "robotics", "gig economy"]
+    },
+    {
+      "title": "The Download: AI health tools and the Pentagon's Anthropic culture war",
+      "summary": "MIT Technology Review's daily briefing covers the reliability of AI-powered health tools and reports on internal tensions at the Pentagon over its relationship with Anthropic.",
+      "url": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
+      "topics": ["AI safety", "defense", "AI ethics"]
+    },
+    {
+      "title": "Baidu's robotaxis froze in traffic, creating chaos",
+      "summary": "Baidu's Apollo Go robotaxi service experienced a software failure that caused vehicles to stop in the middle of traffic in China, highlighting ongoing safety and reliability challenges for autonomous vehicle deployments.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
+      "topics": ["autonomous vehicles", "AI safety", "robotics"]
+    },
+    {
+      "title": "You can order Grubhub and Uber Eats 'conversationally' with Alexa Plus",
+      "summary": "Amazon's updated Alexa Plus now supports conversational food ordering through Grubhub and Uber Eats integrations, marking a step forward for AI-powered voice commerce.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-grubhub-uber-eats",
+      "topics": ["AI assistants", "e-commerce", "chatbots"]
+    },
+    {
+      "title": "AI Has Flooded All the Weather Apps",
+      "summary": "Wired examines how AI-generated weather summaries and forecasts have proliferated across consumer weather apps, often without clear labelling or accuracy verification.",
+      "url": "https://www.wired.com/story/ai-has-flooded-all-the-weather-apps/",
+      "topics": ["generative AI", "AI products", "content policy"]
+    },
+    {
+      "title": "Shifting to AI model customization is an architectural imperative",
+      "summary": "MIT Technology Review argues that enterprises must treat AI model customisation as a core architectural decision rather than an optional add-on, as off-the-shelf models increasingly fail to meet specific business needs.",
+      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
+      "topics": ["AI strategy", "large language models", "business"]
+    },
+    {
+      "title": "AI can push your Stream Deck buttons for you",
+      "summary": "Elgato has updated the Stream Deck with MCP-based AI agent support, allowing AI models to trigger device actions automatically on behalf of users.",
+      "url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
+      "topics": ["AI agents", "AI products", "user interaction"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "Claude Dispatch and the Power of Interfaces",
+    "summary": "Ethan Mollick explores how the interface through which you interact with an AI model significantly shapes the quality and nature of the output you receive. Using Anthropic's Claude as a case study, he argues that thoughtful interface design can unlock capabilities that a bare chat window obscures.",
+    "url": "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of"
+  }
+}
