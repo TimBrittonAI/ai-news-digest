@@ -1,0 +1,101 @@
+{
+  "top_stories": [
+    {
+      "title": "Claude Code leak exposes a Tamagotchi-style 'pet' and an always-on agent",
+      "summary": "A leak of Anthropic's Claude Code source code has revealed an unreleased Tamagotchi-style virtual pet feature and details of an always-on AI agent capability. The Verge reports the leak exposes development work that Anthropic had not yet made public. This gives a rare glimpse into the product roadmap for one of the leading AI assistant platforms.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+      "topics": ["AI agents", "Anthropic", "product development"]
+    },
+    {
+      "title": "Gradient Labs gives every bank customer an AI account manager",
+      "summary": "OpenAI has highlighted Gradient Labs, which is deploying AI agents to act as personalised account managers for bank customers. The system aims to handle complex financial queries and tasks conversationally, democratising access to the kind of service previously reserved for high-net-worth clients. The announcement reflects growing momentum for AI agents in financial services.",
+      "url": "https://openai.com/index/gradient-labs",
+      "topics": ["AI agents", "financial services", "OpenAI"]
+    },
+    {
+      "title": "AI benchmarks are broken. Here's what we need instead.",
+      "summary": "MIT Technology Review examines how current AI benchmarks have become unreliable guides to real-world model performance, partly because models are trained on benchmark-adjacent data. The piece outlines alternative evaluation frameworks that better capture genuine capability and robustness. The argument has significant implications for how businesses and researchers choose and compare AI systems.",
+      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
+      "topics": ["AI evaluation", "large language models", "AI safety"]
+    },
+    {
+      "title": "You can now use ChatGPT with Apple's CarPlay",
+      "summary": "OpenAI has integrated ChatGPT into Apple's CarPlay, allowing drivers to interact with the AI assistant through their vehicle's infotainment system. The feature extends ChatGPT's reach into everyday consumer contexts beyond the smartphone. It marks a further expansion of the OpenAI and Apple partnership first announced in 2024.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
+      "topics": ["ChatGPT", "consumer AI", "OpenAI"]
+    },
+    {
+      "title": "Meta Adaptive Ranking Model: Bending the Inference Scaling Curve to Serve LLM-Scale Models for Ads",
+      "summary": "Meta's engineering blog details how the company has deployed large language model-scale ranking models for its advertising systems, while managing inference costs through architectural innovations. The post describes a new adaptive ranking approach that improves ad relevance without a proportional increase in compute expenditure. The work illustrates how frontier AI techniques are being operationalised at scale in commercial advertising platforms.",
+      "url": "https://engineering.fb.com/2026/03/31/ml-applications/meta-adaptive-ranking-model-bending-the-inference-scaling-curve-to-serve-llm-scale-models-for-ads/",
+      "topics": ["advertising", "large language models", "AI infrastructure"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "I Asked ChatGPT What WIRED's Reviewers Recommend. Its Answers Were All Wrong",
+      "summary": "Wired tests ChatGPT's ability to accurately recall its own editorial recommendations and finds the model consistently produces incorrect answers, raising questions about reliability for consumer research use cases.",
+      "url": "https://www.wired.com/story/i-asked-chatgpt-what-wired-reviewers-recommend-its-answers-were-all-wrong/",
+      "topics": ["ChatGPT", "AI accuracy", "consumer research"]
+    },
+    {
+      "title": "The gig workers who are training humanoid robots at home",
+      "summary": "MIT Technology Review reports on how gig economy workers are being recruited to generate training data for humanoid robots, performing physical tasks at home that are recorded and used to teach robot motion.",
+      "url": "https://www.technologyreview.com/2026/03/31/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
+      "topics": ["robotics", "AI training data", "gig economy"]
+    },
+    {
+      "title": "Art schools are being torn apart by AI",
+      "summary": "The Verge examines how generative AI is creating deep divisions within art schools over curriculum, ethics, and the future value of creative education and human-made work.",
+      "url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
+      "topics": ["generative AI", "AI ethics", "creative industries"]
+    },
+    {
+      "title": "Baidu's robotaxis froze in traffic, creating chaos",
+      "summary": "Baidu's Apollo autonomous robotaxis suffered a software failure that caused multiple vehicles to stop simultaneously in traffic in China, highlighting safety and reliability challenges facing autonomous vehicle deployment.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
+      "topics": ["autonomous vehicles", "AI safety", "robotics"]
+    },
+    {
+      "title": "AI Has Flooded All the Weather Apps",
+      "summary": "Wired reports on the rapid proliferation of AI-generated weather summaries and forecasts across consumer apps, questioning whether the technology is improving accuracy or simply adding a veneer of intelligence to existing data.",
+      "url": "https://www.wired.com/story/ai-has-flooded-all-the-weather-apps/",
+      "topics": ["generative AI", "consumer AI", "AI products"]
+    },
+    {
+      "title": "The Download: AI health tools and the Pentagon's Anthropic culture war",
+      "summary": "MIT Technology Review covers two stories: the growing scrutiny of AI-powered health tools and their clinical reliability, and an internal culture clash at the Pentagon over its use of Anthropic's AI systems.",
+      "url": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
+      "topics": ["AI safety", "defense", "AI ethics"]
+    },
+    {
+      "title": "Accelerating the next phase of AI",
+      "summary": "OpenAI publishes a strategic post outlining its vision for the next phase of AI development, touching on infrastructure investment, model capability goals, and the company's broader mission trajectory.",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "topics": ["OpenAI", "AI strategy", "large language models"]
+    },
+    {
+      "title": "You can order Grubhub and Uber Eats 'conversationally' with Alexa Plus",
+      "summary": "Amazon's upgraded Alexa Plus now supports conversational food ordering through Grubhub and Uber Eats integrations, marking a step forward for AI assistants handling real-world transactional tasks.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-grubhub-uber-eats",
+      "topics": ["AI assistants", "chatbots", "e-commerce"]
+    },
+    {
+      "title": "Open to Work: How to Get Ahead in the Age of AI",
+      "summary": "Microsoft's official blog offers guidance on how workers can develop skills and adapt their careers in response to the growing adoption of AI tools in the workplace.",
+      "url": "https://blogs.microsoft.com/blog/2026/03/31/open-to-work-how-to-get-ahead-in-the-age-of-ai/",
+      "topics": ["AI and work", "business", "AI skills"]
+    },
+    {
+      "title": "AI can push your Stream Deck buttons for you",
+      "summary": "Elgato has updated its Stream Deck platform with MCP-based AI agent support, allowing AI systems to trigger physical and software controls on behalf of users.",
+      "url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
+      "topics": ["AI agents", "user interaction", "AI tools"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "Claude Dispatch and the Power of Interfaces",
+    "summary": "Ethan Mollick explores how the interface through which you interact with an AI model can dramatically change what you get from it, using Anthropic's Claude as a case study. He argues that the same underlying model can perform very differently depending on how prompts, context, and workflows are structured around it. The post makes a case for treating interface design as a first-class concern when deploying AI tools.",
+    "url": "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of"
+  }
+}
