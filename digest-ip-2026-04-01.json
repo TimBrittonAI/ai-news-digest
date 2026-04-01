@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Publishers Back Concord Music Group's AI Suit Against Anthropic",
+      "summary": "Major publishers and media groups have filed support for Concord Music Group's lawsuit against Anthropic, broadening industry opposition to the AI company's alleged copyright infringement. The move signals a coordinated effort by rights holders across publishing and music to challenge AI training practices. The story is reported by Publishers Weekly.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/100053-publishers-media-groups-back-concord-music-group-s-suit-against-anthropic.html",
+      "topics": ["AI copyright", "litigation", "publishing"]
+    },
+    {
+      "title": "Penguin to Sue OpenAI Over ChatGPT Version of German Children's Book",
+      "summary": "German children's book publisher Penguin is pursuing legal action against OpenAI, alleging that ChatGPT reproduced content from a copyrighted children's book without authorisation. The case adds to a growing wave of European publisher litigation against AI companies over training data and output reproduction. Multiple sources confirm the filing.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMlMzam01RHh0d2hHTS11UjlaU0F6TVlzZjhvWTdfRnV2bmhyaEJFUldmeFo0N2hHNUV3QVJVZWdENHY0a1NsVUNKSGhGOVNRNUxJVUhJdXJnWWtSWW92Z2w2V0lINk9KTGpyOWJPV0wzYkxselhhcm9tVC1sQzJXeWtzZHVYOXh5MGhHOEItV1VYaGlab0dJeVg0RUhIa29NRnJrVllGTUNvSTFBc0c3OUtJcjNhSFFDNDdaZk00M0RKZDQ1OU8tZU1lYm5rRkNOaEN2Q0lTTWnSAd4BQVVfeXFMUG1tNHpfaWxoaV95UkVTTHdQakJVdUFjSUI3NmNXUzVDYkFVNGRBVWU0aVFoZVJDR3FiMm5LOFJYdkhPeElMWGRrMDdGcUJoTkxzUVQ2X1dTUHRySWx5T0pmMTNJblBtVEp5ZF9wLTFLc3V5eEo2LTRFX3Y2MFBURXY2aXB4RUo2dTVYSFVWdXQ3bTJDSnNaOGhscElMT0ZsdlhyNGMxclRWajhsT2RjTmJyOUlSaDlCSDdpT0xhN2dETXRkSUdabG0tbjNkcU13MjZiQVdWWlpRMFB1d2h3?oc=5",
+      "topics": ["AI copyright", "litigation", "publishing"]
+    },
+    {
+      "title": "Anthropic's Amodei Seeks Copyright Deal That 'Works for Everyone'",
+      "summary": "Anthropic CEO Dario Amodei has publicly called for a copyright framework that balances the interests of AI developers and rights holders, commenting specifically in the context of an Australian copyright dispute. His remarks suggest Anthropic is open to negotiated licensing arrangements rather than purely litigating fair use defences. The story is reported by multiple outlets.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUERKY2ZkVmp2cS1nRHRDSmR5TUppX3VFdm1DcDJXMWpsQXhrMVJTMkVIQk1TR3czTml3MERwVVNSczNXLXV2YngyYlZiaThnNkxxdVR4WDFJNVNzOVczeHF4SXJUbVFYRndKQjhaTFhXdGVabDJnT0ZVc0JqNmpRRU9vaTJ5eHdRY1U3QXU4aUlDR3JNckc5bWo2UmZlS1Q1WDV0OFF0VzFVejhBMUVUei1xUld1dXM?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "UK Government Maintains Status Quo on AI and Copyright, Playing the Long Game on Potential Reform",
+      "summary": "The UK government has opted to maintain existing copyright rules rather than introduce immediate reform to address AI training data, signalling a cautious approach while longer-term policy options remain under consideration. The decision follows significant pressure from creators and rights holders who had pushed for stronger protections. The story is covered by legal and publishing press.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWjZsalp4dlNmLWFPOTJENEZCd3dBR2h1aHVVLUZmd01ncDJ1QnhTOVQwSWM4SllVbjdORERycXBUTDIteGhkRGxBcFU0VEFVUHJMZ1RzNmw0dDVqMmVDWTM4ZVlIOTBxWVc5dkpHa3FzYkpfS01UbnpHM1FodWxRUFJRSE5seXkwWWpYRkVmV0FGaURyYWRocmFVSTZHeWdpUDVyMmsydDdIR0RwTkVIVi1xb0FFaVFNV25LczdJREt6Tll1M2w1aEw4QXo0Sm80S0d4M0FB?oc=5",
+      "topics": ["AI copyright", "policy", "publishing"]
+    },
+    {
+      "title": "French Private Members' Bill Aims to Protect Creatives' Copyright from AI Usage",
+      "summary": "A private members' bill has been introduced in the French legislature seeking to protect the copyright of creative professionals against unauthorised use of their works for AI training. The bill reflects growing legislative momentum in Europe to give rights holders greater control over how their content is used by AI developers.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcXViVlItVlZSR19wTHpCOG0xcllIMXlIMnQ2M3p5c3Frd1RpNnVScElTamVsdld0Y21BMkhGa0g1amltdnFVVnBHZ09raVB6ZTRkYWxiWnI0Tm1PclJmYkpBMzJ0My0tWkNFSzJTR3c2b29Mcmx0eXVjeVNCV2xkWXF5UllVRVZhVTRMdlJ1MFZ2RFBscDJ1b1VzdTVOTjFHMEFUR2kwQVBuM3M2SVAteE5R?oc=5",
+      "topics": ["AI copyright", "legislation", "creative rights"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "What AI Asks of Open Access",
+      "summary": "The Scholarly Kitchen examines how AI's appetite for training data is creating new tensions and questions for the open access publishing model.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/03/31/what-ai-asks-of-open-access/",
+      "topics": ["academic publishing", "AI training data", "open access"]
+    },
+    {
+      "title": "Q&A: The UK's Copyright Report — A Gift to Creators, A Problem for AI",
+      "summary": "A legal Q&A analyses the UK's recent copyright report, arguing it favours creators but poses significant challenges for AI developers seeking to use copyrighted material for training.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ0NKTm9tOWhTRU5xZTBXMHlmYnR1Wlp2bnl0MF8xbGJWMlpEYnRJekxVVkJVU3pmd3RwVTVfbGwtQVZRODN6VzhPcHdxd014R0dpZEhleHBYdEdoeWZfX3VnRWJRdm5pVTliMndhb1hWT3JjaWRHYy11TDFzbGdNNW1LS3ZjQXNGc01NVTdEZlRfVGpBUzhFa2NiamRwYVkwUzFxelAzQkZ4TlRPa0pmckE?oc=5",
+      "topics": ["AI copyright", "policy", "UK law"]
+    },
+    {
+      "title": "Cloudflare Legal Chief on AI Bots and Publisher Revenue Loss",
+      "summary": "Cloudflare's chief legal officer discusses how AI crawlers are affecting publisher revenues and the company's approach to managing bot access and overblocking.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQ2JLY0hFdmtjeVlEVzY4MGdfV1RRQnRfSzljazJ5UFQ1S1JoVVQ2NjRURk5BUEE2OGw2Wk12eVhLbHRCVG1wUThOV200NzNBMlhzSGlPTVFyeXFEOGZDbVhKR01fOEVEaGxhYVlnaGxRNEtfcU9VMjNSbzloZ1FpMVdMSE13dm9fQmVOY0RWZS1sRFBR?oc=5",
+      "topics": ["AI crawlers", "publishing", "web scraping"]
+    },
+    {
+      "title": "Is Copyright Law the Wrong Weapon Against AI?",
+      "summary": "An analysis questions whether copyright litigation is the most effective legal tool to regulate AI training practices, suggesting alternative regulatory frameworks may be needed.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYUd2QzlSOXQtUUtwY24yZnUteFlzVGxQRkhjTGJOV0lCS0FKTzAzRWs5UTNtQjNHYVk5SHFJSGhNX1NFUm90amJsWDBkenFVVkgxbDdhMExOTC16dEo4OG84SlM3RnU2Wm12LThwRjZqVHBuUDBTSktwcEp3dldhZ2s4WkNHRHc4VjF0MktRcEJyM1Z0aXBF?oc=5",
+      "topics": ["AI copyright", "regulation", "litigation"]
+    },
+    {
+      "title": "How African Creators Are Currently Being Exploited in the AI Boom",
+      "summary": "An investigation into how African creators' works are being used without consent or compensation to train AI models, with little legal recourse available.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSTNQcGZpS1k1ODZEd3ZwWWROT3RMSE54cFJ0dmd5bDgwUTd3Y3IycTRkNllHYXdSa3Jua05lT3BIaGhxUlFLNHYyc253UEpiTVl1VVUxVU9BRHZlMXR6MmtDY2ducXpqU1ZjdGgydkREZFBVdEhfeW9pOVNVekNVaHlsZXRoRFhEOGFiVHd2Z21tY1NxMjBwYjU3UEpPaE14YlZ2MFBiTQ?oc=5",
+      "topics": ["AI copyright", "creative rights", "global south"]
+    },
+    {
+      "title": "Beyond Copyright: Why Asia Pacific Governments Must Govern AI Training Data as Public Infrastructure",
+      "summary": "A policy commentary argues that Asia Pacific governments should treat AI training data governance as a public infrastructure issue, going beyond copyright frameworks.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPay1PWS1zWEFLSnNCcGU0UUhvVnMwN0V4TDJjanlZTGtMRXBTUmJtdUVEeGZzTms0NzdzbHBWR1FQMVdUbEIzSV8wb3d0Q1RaVVpfd3pPdnpkRGN3M21ERmRmMUVnREE4cWJGUjFEeDYxNTRIVjNpWnJqYU1MeTlXanlQRm9PUFNZc3VxeXNjUmc4MDJRRDcxeXJhNjJnOGRmT053em9LNnhkRzlsc3l5RVFuTWFGSU02Q3hSZlR4S0RERExrSFNHa2FjcWhQOHJ6czVQdVln?oc=5",
+      "topics": ["AI copyright", "policy", "Asia Pacific"]
+    },
+    {
+      "title": "Harlequin to Co-Produce AI-Generated 'Microdramas'",
+      "summary": "Publisher Harlequin has announced plans to co-produce a slate of AI-generated short-form dramatic content, marking a notable move by a major trade publisher into AI-created media.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100043-harlequin-announces-slew-of-ai-generated-microdramas.html",
+      "topics": ["AI content", "publishing", "AI tools"]
+    },
+    {
+      "title": "AI Law in Canada Is Evolving Through Familiar Principles",
+      "summary": "A legal analysis examines how Canadian courts and regulators are applying existing intellectual property and privacy principles to emerging AI copyright disputes.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYTRhdWlvdERuV0t5MEp0dVFQYXg3LTFra0t2VUxvaHJfWnAwaENWZm0zNTBxLS1JbXhURnZ4MkxBZG4zTGxudmpkdV9fbVd5RkxzR19rRnVWZzZCeTRpaGxnV1FZd3ZSSlR3SmM4WlNfUGxfTTNfVlVoMUUyQWNtZVN3MlFCak5OeUhaQ1NVeTZ2aWpySzRwb3dQT1pMWmFUcTJwLVB5aXVlQjVpWm5rbGhXYTM2ZHpqLVpaaU1HaERoNUxVaEttTQ?oc=5",
+      "topics": ["AI copyright", "litigation", "Canadian law"]
+    },
+    {
+      "title": "How India Is Trying to Navigate AI Copyright's Three-Body Problem",
+      "summary": "An analysis of India's approach to balancing the competing interests of AI developers, rights holders, and the public in formulating AI copyright policy.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTjNhVjdDVFVGLWJ2eTVyZk1WUFF6amxfaUM2WGlVYklTcWYwNzdPOWtuTmtyVkZBNnQ4ODgwNGU2X3lGdmZOY3IxVmRma1F5cm9PQ21UYk9TOGcyaWhQNDFCLUs0eFV1dFk3VTRVWFk2TTJiOGVwWmQxd2dYRnJxemw3UVo3cXBSeTFiSTRoTVZOdzJKTW9KRktJMXB0ZU9wYjJFTU9obTRXa3M3RHRicHVoRXNrcFBPYnluTEtIZ3dKTzg?oc=5",
+      "topics": ["AI copyright", "policy", "India"]
+    },
+    {
+      "title": "Generative AI and Copyright: Emerging Legal and Policy Questions for Africa's Creative Industries",
+      "summary": "An examination of the legal and policy challenges that generative AI poses for copyright protection in African creative industries.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZF9nRUlYLXNtMVhsRE5XNmYxQTF0WHRqMlZYcHpwbGQ3d2lwUkFfaW1jUXBOOFJncF9Nd0tJQndId1EydmtyRFhqTFNHZVkxSkhxNzdoRHU3MlJ0aTUtbGFRZFp5cmw1a3FtNnlLdzY2SS1jREhjYzczbi14Z01UaGZEa0ZfWl9tN0dQcWFCNjZMd0g1Ny1tYlhlRXlSV1lrNkFhZ2FVV2xUVkloWnNCQmhkNEFpQW9HZF93M043cUFSN0l2NHJSTEhXN1pwZXNVX2JwODctdw?oc=5",
+      "topics": ["AI copyright", "creative rights", "Africa"]
+    }
+  ]
+}
