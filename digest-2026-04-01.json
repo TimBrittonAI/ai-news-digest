@@ -1,0 +1,101 @@
+{
+  "top_stories": [
+    {
+      "title": "Claude Code leak exposes a Tamagotchi-style 'pet' and an always-on agent",
+      "summary": "A leak of Anthropic's Claude Code source code has revealed unreleased features including a Tamagotchi-style virtual pet and an always-on background agent. The leak offers a rare look at Anthropic's product roadmap and the direction of its agentic AI development. The Verge reports the findings based on the exposed code.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
+      "topics": ["AI agents", "Anthropic", "large language models"]
+    },
+    {
+      "title": "Gradient Labs gives every bank customer an AI account manager",
+      "summary": "OpenAI has highlighted Gradient Labs, a startup using its models to give every bank customer access to a personalised AI account manager. The product aims to bring the experience of a dedicated financial adviser to retail banking at scale. The announcement was made via OpenAI's official blog.",
+      "url": "https://openai.com/index/gradient-labs",
+      "topics": ["OpenAI", "AI agents", "financial services"]
+    },
+    {
+      "title": "You can now use ChatGPT with Apple's CarPlay",
+      "summary": "OpenAI has integrated ChatGPT with Apple's CarPlay, allowing drivers to interact with the AI assistant hands-free while on the road. The feature expands ChatGPT's reach into automotive contexts, building on the earlier integration with Apple's Siri. The Verge reports the rollout is now live.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/904676/apple-carplay-openai-chatgpt",
+      "topics": ["ChatGPT", "OpenAI", "consumer AI"]
+    },
+    {
+      "title": "AI benchmarks are broken. Here's what we need instead.",
+      "summary": "MIT Technology Review reports that current AI benchmarks are increasingly unreliable as a measure of real-world model performance, with many tests being saturated or gamed by developers. Researchers argue the field needs new evaluation frameworks that better reflect genuine capabilities and limitations. The piece surveys proposed alternatives and the challenges of building more meaningful assessments.",
+      "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
+      "topics": ["AI evaluation", "large language models", "research integrity"]
+    },
+    {
+      "title": "I Asked ChatGPT What WIRED's Reviewers Recommend. Its Answers Were All Wrong",
+      "summary": "Wired tested ChatGPT by asking it to summarise product recommendations made by WIRED's own reviewers, and found the answers were consistently inaccurate. The experiment raises questions about the reliability of AI-generated summaries of published journalism and the risks of readers using chatbots as proxies for editorial content. The findings are relevant to ongoing debates about AI accuracy and its impact on media.",
+      "url": "https://www.wired.com/story/i-asked-chatgpt-what-wired-reviewers-recommend-its-answers-were-all-wrong/",
+      "topics": ["ChatGPT", "AI accuracy", "media"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Meta Adaptive Ranking Model: Bending the Inference Scaling Curve to Serve LLM-Scale Models for Ads",
+      "summary": "Meta's engineering blog details a new adaptive ranking model that applies LLM-scale inference to advertising, improving ad relevance while managing compute costs.",
+      "url": "https://engineering.fb.com/2026/03/31/ml-applications/meta-adaptive-ranking-model-bending-the-inference-scaling-curve-to-serve-llm-scale-models-for-ads/",
+      "topics": ["advertising", "large language models", "Meta"]
+    },
+    {
+      "title": "The gig workers who are training humanoid robots at home",
+      "summary": "MIT Technology Review examines how gig workers are being recruited to generate training data for humanoid robots, part of a growing trend of outsourcing embodied AI data collection.",
+      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
+      "topics": ["robotics", "AI training data", "gig economy"]
+    },
+    {
+      "title": "Art schools are being torn apart by AI",
+      "summary": "The Verge reports on deepening divisions within art schools over generative AI, as educators and students clash over whether and how AI tools should be used in creative education.",
+      "url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
+      "topics": ["generative AI", "AI ethics", "education"]
+    },
+    {
+      "title": "Accelerating the next phase of AI",
+      "summary": "OpenAI's official blog outlines its vision for the next phase of AI development, touching on scaling, deployment, and societal impact.",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "topics": ["OpenAI", "AI strategy", "large language models"]
+    },
+    {
+      "title": "The Download: AI health tools and the Pentagon's Anthropic culture war",
+      "summary": "MIT Technology Review's daily briefing covers the state of AI-powered health tools and reports on a cultural and political dispute within the Pentagon over its use of Anthropic's AI.",
+      "url": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
+      "topics": ["AI safety", "defense", "AI health"]
+    },
+    {
+      "title": "Open to Work: How to Get Ahead in the Age of AI",
+      "summary": "Microsoft's official blog offers guidance on skills and strategies for workers navigating an AI-transformed job market.",
+      "url": "https://blogs.microsoft.com/blog/2026/03/31/open-to-work-how-to-get-ahead-in-the-age-of-ai/",
+      "topics": ["AI and work", "Microsoft", "workforce"]
+    },
+    {
+      "title": "Baidu's robotaxis froze in traffic, creating chaos",
+      "summary": "Baidu's Apollo robotaxi fleet experienced a widespread freeze during operation in China, stranding vehicles in traffic and raising questions about autonomous vehicle reliability.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
+      "topics": ["autonomous vehicles", "AI safety", "robotics"]
+    },
+    {
+      "title": "Shifting to AI model customization is an architectural imperative",
+      "summary": "MIT Technology Review argues that enterprises must move beyond off-the-shelf AI models and invest in customisation to remain competitive.",
+      "url": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
+      "topics": ["AI strategy", "enterprise AI", "large language models"]
+    },
+    {
+      "title": "AI has flooded all the weather apps",
+      "summary": "Wired examines how AI-generated forecasts and summaries have proliferated across weather applications, with mixed results for accuracy and user experience.",
+      "url": "https://www.wired.com/story/ai-has-flooded-all-the-weather-apps/",
+      "topics": ["generative AI", "consumer AI", "AI accuracy"]
+    },
+    {
+      "title": "You can order Grubhub and Uber Eats 'conversationally' with Alexa Plus",
+      "summary": "Amazon's Alexa Plus now supports conversational food ordering via Grubhub and Uber Eats, marking an expansion of agentic AI capabilities in consumer voice assistants.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-grubhub-uber-eats",
+      "topics": ["AI agents", "chatbots", "e-commerce"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "Claude Dispatch and the Power of Interfaces",
+    "summary": "Ethan Mollick explores how the interface through which you interact with AI models — including Anthropic's Claude — can dramatically shape the quality and usefulness of outputs. He argues that thoughtful interface design is underappreciated as a lever for getting more value from AI tools. The post includes practical observations on how different interaction modes affect AI performance.",
+    "url": "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of"
+  }
+}
