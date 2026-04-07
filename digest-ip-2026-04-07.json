@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Penguin Random House Sues OpenAI Over AI 'Memorisation'",
+      "summary": "Penguin Random House has filed a copyright infringement lawsuit against OpenAI, alleging that the AI company memorised and reproduced content from its books without authorisation. A separate related action was also filed in Germany concerning the 'Coconut the Little Dragon' series. The cases add major publisher pressure to the growing wave of copyright litigation against AI developers.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOQ05DLUgwX0M3THRyNUE4dlp6ZDFXR3E1WkxKR2RrbnlEeUQzZ2pUVTM0c3dTV2YzdXhUTFVDMzM5b3pZRDktM2dDb2lvRHJPTTNmYXNLcGktanRTOVFpeDBJXzRMRFJOZmd3ekRac1lzb1JEZi1iZHljSXFLb2M?oc=5",
+      "topics": ["AI copyright", "litigation", "publishing"]
+    },
+    {
+      "title": "Meta and Anthropic win key verdicts in US AI copyright cases",
+      "summary": "Meta and Anthropic have secured significant legal victories in US copyright cases related to AI training on copyrighted material. The verdicts represent an important development in the ongoing battle between AI developers and rights holders over the legality of using copyrighted content to train large language models.",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPdEJqVHJ3WjFQdVBnckoxUDFaNEZaQWNFc1U0TjI3MDhkZi1rU09NZEoyMm11a215dTlhQXpkRTNmM09CMGlhaVp6Y0VBOXJNUU9mRXRrb21PdE5rdlE5ZVBWc0xkN2dJaVFHOExBclZ6c1AxcjZKeTZORlcxNkNERGpCTGE0M2M0MEVBdlFfVlc2OWl3emE3RDN4NFNtckdHZThsWVBldWFabUNGZzBFM2RweUhIWk9MQ2JxblU1bHM0SEVBeDhjMkZRdldzOGluTWFGbElTYU82WHVQZVNVcGNTMm0xNFg3dmstTUZ6WFA4MkJQRXpwWlRSLXZQb3pmX2FDMlJHaFplbjVXclpWWjdoNE1uX1M0Y1QwdEpPWFJtYURRRF9VRnVLMXQ3MjB3M2ZNRjQtbUgyWnFTSm5sbEstWUlRUldPbkxTYnpBY2JDc3FL?oc=5",
+      "topics": ["AI copyright", "litigation", "US law"]
+    },
+    {
+      "title": "Premier League opposes UK plans for AI copyright exemptions",
+      "summary": "The Premier League has formally opposed UK government proposals that would create copyright exemptions allowing AI companies to train on copyrighted content without permission or payment. The sports body joins a growing coalition of creators and rights holders pushing back against the proposed reforms, arguing they would undermine existing intellectual property protections.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMk00aDVVNUFvdVAzNHBpamt2VkhCWlRtZkR5ZlJRRzFiOExYeHZ0YUl0ekxJUXZ6cGoyQ0lESktYT0JVRS1DSHozbEwwaG9Fa21qRkQ1NzNLczdxcVFqTTR0ZWJ1anN4RjloWU1CbTZ1b0t3NWtrUGtFQnctdFBBODZyQm9MMkN6cUE?oc=5",
+      "topics": ["AI copyright", "UK policy", "creator rights"]
+    },
+    {
+      "title": "A folk musician had her voice cloned by AI – and her recordings claimed by a copyright troll. Welcome to 2026.",
+      "summary": "A folk musician's voice was cloned using AI tools, and the resulting synthetic recordings were then used by a copyright troll to file claims against her own original work. The case highlights emerging harms at the intersection of AI-generated content, voice cloning, and bad-faith copyright exploitation.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMDFUNzY3d2N4NzNpRlhXNzlwcnlLbEVWd3JJcTJ0Y0F2NTBXNFg1dnhYM0U3SU5CSFEwZkFRSWxXR0J1YV9wTHNRaU40MlJtX2k0MVY1UUNzQndiV0F2QXc4VVhxV0cyNF9POVBtbnZPZk5VWm94d1VwOTE5NWRMdU5jdTBGM3ByU2xzV2RVLWNtMEg5aWt2RWxVYjA2MERBLXVubkdPTF9ORzFraVVvbWtDekZYREgtRTFmei1TQUlyU091OXNhTzRSX3VqRmx3clBJS3FvY21tQmVaczlJ?oc=5",
+      "topics": ["AI copyright", "voice cloning", "creator rights"]
+    },
+    {
+      "title": "ANI-OpenAI dispute: Delhi High Court reserves order in AI copyright case",
+      "summary": "The Delhi High Court has reserved its order in the copyright dispute between Asian News International (ANI) and OpenAI, a significant case examining whether AI training on news content constitutes infringement under Indian law. The outcome could have broad implications for AI copyright policy across jurisdictions.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbktlcVFKOHdkcHdkSjB2dnp3N2ZTUXJlcnJMTGdRRTZjdFNZZHY1YUs5dnBsRVhOS1MxUTlMTHZMbVJtRXFHb1hwYzVPYXZGcFdabXRuUEhfdVRnMDNheHRmenN4OVZLTUFyLW1la2dYQ2txVklyQ1VLMVJmZlUtY2x4a3NDUVFpbGVLX2NqQkVoMUZxMnBxVndKblA4U3JXWDRHSDVLbmFNanBmUUFEN0NsV3Brcm8zSUw3OHliWkplMk96RXlMbEZSdUcyV2xkZmhkQ2lDVGEzQXRW0gHiAUFVX3lxTE5tWER0LXpSRmRONXBmbjF5YnpSb2J0dS1NNzRaQUstUjBlVUZxRFlqM3NHZllzeW9BZm5URUxTTWJpcmw2MkYwcmZXVjAtdWdHTFZtZjlEbFNweHR3b0t1VVFQMkFzbVBUUTVnOVJsc1RZUjgwallUUkVUNEx4d2RMTUZpSHdBZnlXcnBpUF9ZemZnV2JkdjktbW1qUDFkUkV4a1dnWUZ5bUdiQnRLLXVLQ1oyYnNwTjFQX01lLVdITjdaZE0zeTJwSUNXNEZsa1djdWpNb2N6T2o0X0RwMXJFN3c?oc=5",
+      "topics": ["AI copyright", "litigation", "international law"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "South Korea AI copyright plan sparks creator backlash",
+      "summary": "South Korea's proposed AI copyright framework has drawn significant opposition from creators who argue the plans fail to adequately protect their work from being used in AI training without consent or compensation.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ1NIR2xialRBa0JwbXdsY1FnQ09pVUJmcG13WUtXM0VIZXNtTEpEUmstSUlocndrOFRPUFZ5aGpvX2VXemctbTZaek8xUVhiTjJ2RlBSYXRWNzlNTjBVVjFfeTRMeTI5STJSOGtHM3o5U09hZTJGWG5ybGJtMk5lZlctNlpUSjA?oc=5",
+      "topics": ["AI copyright", "creator rights", "policy"]
+    },
+    {
+      "title": "YouTube creators sue Amazon, alleging it used YouTube videos to train AI model",
+      "summary": "Three YouTube channel owners have filed a lawsuit against Apple — and separately against Amazon — alleging their videos were used without authorisation to train AI models, expanding the litigation landscape around AI training data.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeEhteUF3MjFVT1dxcDA0X3lVbTBvMllJb3hIR1dXWXlTckRNNEhUdVBMUXAyS1JIRTdya0VDVG1hZFJuMjl0TTVOcDZ1cHRvRU9aY2RiX1B5RXBYYmhGek5HVktxaHRCNUtSVVdLZ0xGcWZzQ21QVDZURVFfa3Y3MmV1VVR6anc3VjZ3UUVTU0M?oc=5",
+      "topics": ["AI copyright", "litigation", "training data"]
+    },
+    {
+      "title": "Udio Urges Illinois Court To Ax AI Music Copyright Suit",
+      "summary": "AI music platform Udio has filed a motion seeking dismissal of a copyright lawsuit brought against it in Illinois, arguing the claims lack legal merit.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMm1KVnY0WkJIWEh5TmVIclNzQWtuLWxRMi1rRm5NRXNqUnFsNFZWa3ZucTdudFNHTE91WVRJSXhOWkpFSXp4dTVrOVpwS1VUSGNPMHA5Q3BnNHhieFdjWmZ2WDVwRk1GVks5VzhpUVBjVVZ0dG11ZEFTbjNLQnpjTFpZY3JxZDg4VFY0VGUyTWlTVE1QeWp5SUpIZ9IBVkFVX3lxTFAzRnFXdFRYRGtlelFPVGlweTBVV0wtY2lWT3FfSzFhYk5KMkJOUEJULTNLdElNdHNaMFpoQ0FnVTJjT2pyS3VtT25LV19LRnlaejRRenRn?oc=5",
+      "topics": ["AI copyright", "music", "litigation"]
+    },
+    {
+      "title": "When AI Clones Your Music and Then Claims You Copied It",
+      "summary": "An analysis of the emerging legal problem where AI-generated music clones original artists' work and is then weaponised through copyright claims against the original creators.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd3Zsc3lCUlpva1FGX3JCMFEtOGFKbzU2ZkdGT2JzMUotSktLd1FHdFliTGRGY2lCQlRJTUhMWTl4UHJpekh3LThLdlZjLXBtSUVRTEN2RWJ0UGhhNk5yaXRPb2lXNVFibVJ4cTlPN3dkNndIVDFJUU9Dc3FoRUdxc1RoOEVFSTlhT1J3?oc=5",
+      "topics": ["AI copyright", "music", "creator rights"]
+    },
+    {
+      "title": "Suno is a music copyright nightmare capable of pumping out AI cover slop",
+      "summary": "A review of AI music platform Suno finds it capable of generating close imitations of copyrighted recordings at scale, raising serious copyright concerns for the music industry.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSXB4SjlPM1oyZHVkanlqcXlzcW5SZllxbFktYXlDZzdmSlNsZURmd3o0cVVwclM3MTU5T0N3d2VpR2xvalo5aWQ4dTRWLV9iWDJvZ21pUVpwTTExUW9sQnRrLUtleEs3bEY2a1U1a1A1cFZaaUh4RWtFbk56bXBkeExXZHdzc2tXQW12S18zaUZPeTJV?oc=5",
+      "topics": ["AI copyright", "music", "generative AI"]
+    },
+    {
+      "title": "Copyright Class Action Targets Shein's Use of AI and 'Algorithms'",
+      "summary": "A class action lawsuit has been filed against fast fashion retailer Shein alleging copyright infringement through its use of AI and algorithmic tools to copy designers' work.",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZ25sbGtoQmFhU19hSHYxQVBUNWtWcWNVS05BMmVreVk2MmZuQnNXb2YtbWQ2OV93b3RMWlZpbVhaSGZqckM1YzV4Y2p1aXJ3MmZTMmlqYWN1dlZXZDVxV1I1NFdGRElrb3BRY0Nvbjh1RU9pUmk4V29BR2tIc3JqdEMyMjhIUmNGWkJvTnV1QmRCSGRSZVEyWEFRdkp5Uk9WbDdHRFJ5blBGN3d5MENIWElqRm5QSlF4YTBoZzYtVC1fWGxSaFd3OGFnMm81RkRfS19acVBYd1lBSTFfSHI5VW5QQmZyeUNYY3RiSVJQVjJ4RGdTVGEya1EyTEloVkk?oc=5",
+      "topics": ["AI copyright", "litigation", "fashion"]
+    },
+    {
+      "title": "The Copyright Act in the age of AI",
+      "summary": "An analysis of how the US Copyright Act is being tested and may need to evolve to address the challenges posed by AI-generated and AI-trained content.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXUxUldHOXBJd1FRQ3RkbjdUQWtSS0I0VE5wQW5nRGlOMUNEOEtEeVdvam5PV3dFS3EwT3paV2tBSUpoRjR6YTZFMHY1ek1VbVRSczZKQWwxdXYxX2NhV3Fsdm02MHEtWDVFREZFM3QyaklBRDl0czlKMFY5dW1LNGEwV2lYZWlyaU5tYnBvcXo1ZDhobWVKcnBiaXdpMGtsRjF1d191ZF9vZlhRWEVvN2t3?oc=5",
+      "topics": ["AI copyright", "US law", "policy"]
+    },
+    {
+      "title": "AI harms, copyright reform and new investment: five legal tech stories you might have missed",
+      "summary": "A roundup of recent legal technology developments including AI-related copyright reform updates and investment news across the sector.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNOEhYSXRqTDRFRFBXaFFXdWxtZHhuZXpQTDNzeE53UXowazR4Q0dVTk9vNEZiSmQxVlgzaGR4RkR4MjBubEhGd242b0UtSDFpcGNUUl9FQW0wdmswTGNqSkNSY2RqREQ4RHQxcF9mZUhOZ3dwMl9qbWNVODNMUGFIYkpvdHF0SmJZMjYwVUM5RWRhQmoxeElKaGRSNTFJcjI0LUhva1ZsV09pRXBXQjRfeS0yT21Tb29NRHk5UzJpelF1WlNqclVVdEpwWmkzSkxyaERHYUJlZTFDQQ?oc=5",
+      "topics": ["AI copyright", "legal tech", "policy"]
+    },
+    {
+      "title": "Don't fall for AI lobbying blitz to strip-mine culture",
+      "summary": "An opinion piece argues that AI industry lobbying efforts to weaken copyright protections represent a threat to cultural production and creators' livelihoods.",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRnA3dzdJMF9ibFM1b0xlaXZFTm9rZnBIR1FVeGxjNHhVNGh3VkpmMWNpcVRpaWs3VjJ5NmthOWpZQkd3ZHJkNjkydFNyR1M2aXgxa21FalBaUFdSTUZLZUFuT2plZGtvclFyZGxOWG1LRWNmTlBmU1I3cGlHT0FnYzRZcWtiVzhvRXFwZFQ0OXhsQTl1bVVIRHVDOUxNMU1lZVY1MS1BMkgxUDQ0ZjZXVzdaMHJEY3E3LVJZXzBjdWh3RDBUVXZURjdhemdlT3NLZ1RuU3FqbGVWemxpR2Q3WG5fSXRXZzZaTDlOYmpVUmxXR1dsd21fRNIB_gFBVV95cUxOM3plVXdGYm9KTTc5bnNESDNqUzllS3hFSS1jQ2czdERQTUw5RjVfQ0I0dlRNN0lpcGFSckN2TWVpSkZOTmJneEhwcjc0ZUJfam9qVUVpdUJzZ2kxbmRjT2NKVkhPNnpPX0tUSTgzUG9ORG4xSWF6aDdsbUFhcEdGamdVbWx1UWVWc096dXV6YzJlQkhJOWNPeUxjX1NYdEVJNDhyUi1zTGlPRk9Hbkp6Uzc2Z0h2RUJxcGpLTWhBZjh1RXFtZVRYQ0dDei12Q1JVMU91RTJYSnNNWlNPSmJWVl8xQnRydTNRTnlpYjh1YmFwUjN0bFZ2MkUyLVg4UQ?oc=5",
+      "topics": ["AI copyright", "creator rights", "policy"]
+    },
+    {
+      "title": "AI Coding: can you protect what your agents create?",
+      "summary": "An examination of the intellectual property questions surrounding code and other content generated by AI coding agents, and the current limits of copyright protection for AI outputs.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX096NGdKeXEybDk0UWdSMDZSTjhGTjlKc3kyNjFoczJ3RkU1Q01Za3ZxaU9kdmwxX1hfc0VzSTlPOUxCRFZQblRLU3dCZjczbHBmY2h5UlJBWTBvbnlIVU1zTFlxWEZkS0xOa0FDaEtfWFNnUVg0NVFvb2NCbm9Ea3VMOEdKdDNOajdrMC1SLU5UZ0MzaFktbUdxVFNCSlJU?oc=5",
+      "topics": ["AI copyright", "IP law", "generative AI"]
+    }
+  ]
+}
