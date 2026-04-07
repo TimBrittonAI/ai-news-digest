@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Announcing the OpenAI Safety Fellowship",
+      "summary": "OpenAI has introduced a new Safety Fellowship program, signalling a renewed institutional commitment to AI safety research. The fellowship is designed to bring researchers into OpenAI's safety-focused work, expanding the pipeline of talent dedicated to understanding and mitigating risks from advanced AI systems.",
+      "url": "https://openai.com/index/introducing-openai-safety-fellowship",
+      "topics": ["AI safety", "OpenAI", "AI research"]
+    },
+    {
+      "title": "Gemini is making it faster for distressed users to reach mental health resources",
+      "summary": "Google's Gemini AI assistant is rolling out an update that surfaces mental health resources more quickly when users appear to be in distress. The change reflects growing pressure on AI companies to address the welfare of vulnerable users interacting with conversational AI systems.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",
+      "topics": ["mental health", "AI ethics", "user interaction"]
+    },
+    {
+      "title": "Wikipedia's AI agent row likely just the beginning of the bot-ocalypse",
+      "summary": "A dispute over AI agents editing Wikipedia has highlighted broader tensions around automated bots and content integrity on open knowledge platforms. Malwarebytes argues the incident is an early indicator of far larger conflicts to come as AI agents become more capable of acting autonomously across the web.",
+      "url": "https://www.malwarebytes.com/blog/ai/2026/04/wikipedias-ai-agent-row-likely-just-the-beginning-of-the-bot-ocalypse",
+      "topics": ["Wikipedia", "content policy", "AI agents"]
+    },
+    {
+      "title": "The one piece of data that could actually shed light on your job and AI",
+      "summary": "MIT Technology Review examines what kind of data would genuinely clarify how AI is affecting employment, arguing that most existing metrics are inadequate for understanding the real impact on workers. The piece highlights the challenge of measuring AI's labour market effects with precision.",
+      "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+      "topics": ["AI and jobs", "labour market", "AI research"]
+    },
+    {
+      "title": "Iran threatens OpenAI's Stargate data center in Abu Dhabi",
+      "summary": "Iran has issued threats against OpenAI's planned Stargate data centre in Abu Dhabi, raising geopolitical security concerns around major AI infrastructure investments in the Middle East. The threat underscores the growing strategic importance — and vulnerability — of large-scale AI data centre projects.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
+      "topics": ["OpenAI", "AI infrastructure", "geopolitics"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Anthropic Study: How AI Is Impacting Tech Jobs and Workers",
+      "summary": "A new Anthropic study examines the ways AI tools are reshaping roles and workflows for technology workers.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Zbnc5NWxhWl9ZNDMtdDJ0MkhBOHpTd09seWdTT0U4LVF6MmFMVVEyN2tVNHVYRHRnc3h2bm5rYmh5djN4MXBWMjkyb21CcTJSdHdoMlF5Ulo4ZlBaVGVETEdIQjBkclZydEI1VnR2OTFsQQ?oc=5",
+      "topics": ["AI and jobs", "technology workers", "Anthropic"]
+    },
+    {
+      "title": "AI is changing how small online sellers decide what to make",
+      "summary": "MIT Technology Review reports on how Alibaba's AI tool Accio is helping small online sellers use AI-driven market research to guide product decisions.",
+      "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
+      "topics": ["e-commerce", "AI tools", "market research"]
+    },
+    {
+      "title": "How Meta Used AI to Map Tribal Knowledge in Large-Scale Data Pipelines",
+      "summary": "Meta's engineering blog details how the company applied AI to capture and surface undocumented institutional knowledge embedded in its large-scale data infrastructure.",
+      "url": "https://engineering.fb.com/2026/04/06/developer-tools/how-meta-used-ai-to-map-tribal-knowledge-in-large-scale-data-pipelines/",
+      "topics": ["Meta", "AI tools", "data engineering"]
+    },
+    {
+      "title": "Import AI 452: Scaling laws for cyberwar; rising tides of AI automation; and a puzzle over GDP forecasting",
+      "summary": "Jack Clark's Import AI newsletter covers new research on scaling laws applied to cyberwarfare, the accelerating pace of AI automation, and uncertainty in AI-driven economic forecasting.",
+      "url": "https://importai.substack.com/p/import-ai-452-scaling-laws-for-cyberwar",
+      "topics": ["AI research", "AI automation", "cybersecurity"]
+    },
+    {
+      "title": "When Virality Is the Message: The New Age of AI Propaganda",
+      "summary": "Time examines how AI-generated content is being weaponised for propaganda, with virality itself becoming a tool of influence in the age of generative AI.",
+      "url": "https://time.com/article/2026/04/02/when-virality-is-the-message-the-new-age-of-ai-propaganda/",
+      "topics": ["generative AI", "AI ethics", "disinformation"]
+    },
+    {
+      "title": "CMA Investigates Microsoft – Impact on AI, Business Software Market",
+      "summary": "The UK's Competition and Markets Authority has launched an investigation into Microsoft's position in the AI and business software market.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUWNHb1hncDhPSVYyU1ExYWJYSEZVVXNNSHNVY1EyYjcwaGx5NXgxbk40RlhpUHMwWFQ3SjZPa1JTenRIZzZVYjE2aHkzRUlNcWJpZEQ2aVN5MWpvOEhSWExsYW5tZWlsa3FoTFdxNi1CWDNnRFM2aWF5b21OX0hLLTNqVjdJbXVMRVJiRldCSVdhTnk3dHMtRA?oc=5",
+      "topics": ["AI regulation", "Microsoft", "competition law"]
+    },
+    {
+      "title": "AI singer now occupies eleven spots on iTunes singles chart",
+      "summary": "A fake AI-generated artist named Eddie Dalton has taken eleven positions on the iTunes singles chart, raising questions about platform integrity and AI-generated content in the music industry.",
+      "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
+      "topics": ["generative AI", "content policy", "AI ethics"]
+    },
+    {
+      "title": "The back story behind the first \"$1.8B\" dollar \"AI Company\"",
+      "summary": "Gary Marcus investigates the origins and claims behind what was reported as the first $1.8 billion AI company, raising questions about AI valuation and hype.",
+      "url": "https://garymarcus.substack.com/p/the-back-story-behind-the-first-18",
+      "topics": ["AI business", "AI hype", "technology ethics"]
+    },
+    {
+      "title": "Bernie Sanders: \"AI Is a Threat to Everything the American People Hold Dear\" [Paywalled]",
+      "summary": "Senator Bernie Sanders writes in the Wall Street Journal that AI poses fundamental threats to jobs, democracy, and American society, calling for stronger government oversight.",
+      "url": "https://www.wsj.com/opinion/ai-is-a-threat-to-everything-the-american-people-hold-dear-a3286459",
+      "topics": ["AI regulation", "AI ethics", "politics"]
+    },
+    {
+      "title": "How AI Helps Scale Qualitative Customer Research",
+      "summary": "An industry piece examines how AI tools are being used to analyse and scale qualitative customer research, reducing time and cost for businesses.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE52UUdpWWhiZERWN2NQN2lvLVY0dlpMenlwOVJFVW9FVTRjY3RGbUtRMDlQX183NF84enVzR1M4SDJqZlZmZnBISzFSQ1RnU3R0M2xMUnVIcDVmMElGNWlIWXNINzQ1UVpNUnhpU0lZNUdRVzdRUWJJM1BtNVQ?oc=5",
+      "topics": ["consumer research", "AI tools", "market research"]
+    }
+  ],
+  "ethan_mollick": null
+}
