@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Anthropic's New Product Aims to Handle the Hard Part of Building AI Agents",
+      "summary": "Anthropic has launched a new product designed to simplify the complex infrastructure work involved in building AI agents, targeting developers who want to deploy agentic systems without managing the underlying orchestration. The offering reflects growing competition among AI labs to make agent deployment more accessible for enterprise customers. Wired reports the product positions Anthropic directly against other platforms vying for the agentic AI market.",
+      "url": "https://www.wired.com/story/anthropic-launches-claude-managed-agents/",
+      "topics": ["AI agents", "Anthropic", "large language models"]
+    },
+    {
+      "title": "The next phase of enterprise AI",
+      "summary": "OpenAI has published a blog post outlining its vision for the next phase of enterprise AI adoption, detailing how its tools are being integrated into business workflows at scale. The post signals OpenAI's intent to deepen its foothold in the enterprise market as competition from rivals intensifies. It covers new capabilities and partnership frameworks aimed at organisations deploying AI across operations.",
+      "url": "https://openai.com/index/next-phase-of-enterprise-ai",
+      "topics": ["OpenAI", "enterprise AI", "AI business"]
+    },
+    {
+      "title": "Conflicting Rulings Leave Anthropic in 'Supply-Chain Risk' Limbo",
+      "summary": "Wired reports that conflicting court rulings related to AI copyright cases have left Anthropic facing what legal observers describe as a 'supply-chain risk' — uncertainty over whether training data use constitutes fair use. The divergent judicial decisions create significant legal ambiguity for the AI industry at large. The situation underscores the unresolved tension between AI development and intellectual property law.",
+      "url": "https://www.wired.com/story/anthropic-appeals-court-ruling/",
+      "topics": ["copyright", "AI legal", "fair use"]
+    },
+    {
+      "title": "Mustafa Suleyman: AI development won't hit a wall anytime soon — here's why",
+      "summary": "Microsoft AI CEO Mustafa Suleiman tells MIT Technology Review that he does not believe AI progress will plateau in the near future, pushing back against growing scepticism about the pace of advancement. He argues that multiple vectors of improvement — beyond scaling alone — remain open and underexplored. The interview offers a high-level view of where one of the industry's most prominent figures sees AI heading.",
+      "url": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
+      "topics": ["AI research", "large language models", "AI business"]
+    },
+    {
+      "title": "Opinion | Big Tech Owes Scholars. It's Time to Pay Up. - The Chronicle of Higher Education",
+      "summary": "A Chronicle of Higher Education opinion piece argues that technology companies have profited enormously from academic research and scholarly data used to train AI systems, without adequate compensation to the academic community. The piece calls for structural mechanisms to ensure scholars and institutions receive a share of value derived from their work. It adds to growing debate around AI training data, copyright, and the obligations of AI developers toward knowledge producers.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LX0xEMVNrUjdJc28tYVFyQnZIRzRPOENJQV9XNW5EOXlfSjItT2VKZHNmWXpBX1RweGtERjdSS084eXlZbUpJQnZYc3llOWlpX2ZUaF9BUFBDcW5WTm5MT0NjMTVYMDA?oc=5",
+      "topics": ["academic publishing", "copyright", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Gemini gets notebooks to help you organize projects",
+      "summary": "Google is adding a notebooks feature to Gemini, allowing users to organise projects and information in a manner similar to NotebookLM's approach to structured AI-assisted research.",
+      "url": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
+      "topics": ["Gemini", "AI tools", "Google"]
+    },
+    {
+      "title": "The vibes are off at OpenAI",
+      "summary": "The Verge examines growing internal and external unease at OpenAI, reporting on cultural and strategic tensions as the company navigates its transition to a for-profit structure and intensifying competition.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai",
+      "topics": ["OpenAI", "AI business", "technology ethics"]
+    },
+    {
+      "title": "OpenAI made economic proposals — here's what DC thinks of them",
+      "summary": "The Verge reports on OpenAI's economic policy proposals to Washington and gauges how policymakers and think tanks are receiving them amid debates over AI regulation and national competitiveness.",
+      "url": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
+      "topics": ["OpenAI", "AI regulation", "AI policy"]
+    },
+    {
+      "title": "Meta is reentering the AI race with a new model called Muse Spark",
+      "summary": "Meta has launched Muse Spark, a new AI model signalling the company's renewed push to compete at the frontier of AI development alongside OpenAI and Google.",
+      "url": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
+      "topics": ["Meta", "large language models", "AI competition"]
+    },
+    {
+      "title": "The US Army Is Building Its Own Chatbot for Combat",
+      "summary": "Wired reports that the US Army is developing an internal AI chatbot called Victor, designed to assist soldiers with operational and tactical decision-making in combat scenarios.",
+      "url": "https://www.wired.com/story/army-developing-ai-system-victor-chatbot-soldiers/",
+      "topics": ["defense", "AI chatbots", "military AI"]
+    },
+    {
+      "title": "Unionized ProPublica staff are on strike over AI, layoffs, and wages",
+      "summary": "Journalists at ProPublica have gone on strike, citing disputes over AI use policies, layoffs, and pay — highlighting growing labour tensions around AI adoption in newsrooms.",
+      "url": "https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs",
+      "topics": ["AI and jobs", "layoffs", "content policy"]
+    },
+    {
+      "title": "App Store sees 84% surge in new apps as AI coding tools take off",
+      "summary": "9to5Mac reports that Apple's App Store has seen an 84% increase in new app submissions, attributed largely to the proliferation of AI-assisted coding tools lowering the barrier to app development.",
+      "url": "https://9to5mac.com/2026/04/06/app-store-sees-84-surge-in-new-apps-as-ai-coding-tools-take-off/",
+      "topics": ["AI coding tools", "app development", "generative AI"]
+    },
+    {
+      "title": "Show HN: We fingerprinted 178 AI models' writing styles and similarity clusters",
+      "summary": "Researchers published a study fingerprinting the writing styles of 178 AI models, revealing clusters of stylistic similarity that raise questions about model differentiation and potential undisclosed relationships between systems.",
+      "url": "https://rival.tips/research/model-similarity",
+      "topics": ["AI research", "large language models", "AI detection"]
+    },
+    {
+      "title": "It's time for academics to take community action on AI - Peace Research Institute Oslo (PRIO)",
+      "summary": "PRIO argues that academic institutions must take collective action to shape how AI is developed and governed, rather than leaving those decisions entirely to technology companies.",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CMUNYZ0k4eGhpaHkxcTloMTh5ZzV4Wmk4aTZCN0twb3VOZ1dHZW5HdW9RV2twR0JGbXZSZ3M1SXJpQWVNNDN6ZlhB?oc=5",
+      "topics": ["academic publishing", "AI ethics", "AI regulation"]
+    },
+    {
+      "title": "Gain Consumer Insight With Generative AI - MIT Sloan Management Review",
+      "summary": "MIT Sloan Management Review examines how businesses are applying generative AI to extract richer consumer insights from qualitative research data, with implications for marketing and product strategy.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZzRNck5icTJRcmJra3JHeHZGVmFTeWR4ZVY3eVZaVkRsVGNoYUdLb0VLT3BvTlpSQ1dSVFFILUJxRndNTHZQMnI1YXdxV2pfeEd0d3hlbVZlUmM1MUJIN3B2cGhQTk1JdklvUEpQeW52SXRraXFwbmZCSWs3VUxfOU42UQ?oc=5",
+      "topics": ["generative AI", "consumer research", "AI tools"]
+    }
+  ],
+  "ethan_mollick": null
+}
