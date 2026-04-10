@@ -1,5 +1,4 @@
 name: Update ElevenLabs Knowledge Base
-
 on:
   schedule:
     - cron: '15 6 * * *'
@@ -9,7 +8,6 @@ on:
         description: 'Date to process (YYYY-MM-DD). Leave empty to use today.'
         required: false
         default: ''
-
 jobs:
   update-knowledge-base:
     runs-on: ubuntu-latest
@@ -24,39 +22,80 @@ jobs:
             DATE=$(date +%Y-%m-%d)
           fi
           echo "Processing date: $DATE"
+
+          # --- PART 1: General AI ---
           DIGEST=$(curl -sf "https://raw.githubusercontent.com/TimBrittonAI/ai-news-digest/main/digest-${DATE}.json")
           if [ -z "$DIGEST" ]; then
-            echo "No digest found for $DATE"
+            echo "No Part 1 digest found for $DATE"
             exit 1
           fi
-          HEADER="SIGNAL DIGEST - $DATE"
+          HEADER="DISPATCHES AI - GENERAL AI DIGEST - $DATE"
           STORIES=$(echo "$DIGEST" | jq -r '[.top_stories[]? | "STORY: " + .title + " | " + .summary + " | Source: " + .url] | join(" ")')
           LINKS=$(echo "$DIGEST" | jq -r '[.further_links[]? | "LINK: " + .title + " | " + .summary + " | Source: " + .url] | join(" ")')
           TEXT=$(printf '%s\n\nTOP STORIES:\n%s\n\nFURTHER READING:\n%s' "$HEADER" "$STORIES" "$LINKS")
-          PAYLOAD=$(jq -n --arg text "$TEXT" --arg name "Signal digest $DATE" '{"text":$text,"name":$name}')
+          PAYLOAD=$(jq -n --arg text "$TEXT" --arg name "Dispatches AI General digest $DATE" '{"text":$text,"name":$name}')
           RESPONSE=$(curl -s -X POST "https://api.elevenlabs.io/v1/convai/knowledge-base/text" \
             -H "xi-api-key: $ELEVENLABS_API_KEY" \
             -H "Content-Type: application/json" \
             -d "$PAYLOAD")
-          echo "KB response: $RESPONSE"
+          echo "Part 1 KB response: $RESPONSE"
           DOC_ID=$(echo "$RESPONSE" | jq -r '.id')
           if [ -z "$DOC_ID" ] || [ "$DOC_ID" = "null" ]; then
-            echo "Failed to get document ID"
+            echo "Failed to get Part 1 document ID"
             exit 1
           fi
-          echo "New document ID: $DOC_ID"
+          echo "Part 1 document ID: $DOC_ID"
+
+          # Patch agent with Part 1 doc
           AGENT=$(curl -s "https://api.elevenlabs.io/v1/convai/agents/agent_5301kkc9q2dqfyh98f5791dep1w4" \
             -H "xi-api-key: $ELEVENLABS_API_KEY")
           EXISTING=$(echo "$AGENT" | jq '[.conversation_config.agent.prompt.knowledge_base[]? | {type: .type, id: .id, name: .name}]')
-          NEW_ENTRY=$(jq -n --arg id "$DOC_ID" --arg name "Signal digest $DATE" '[{type: "file", id: $id, name: $name}]')
+          NEW_ENTRY=$(jq -n --arg id "$DOC_ID" --arg name "Dispatches AI General digest $DATE" '[{type: "file", id: $id, name: $name}]')
           MERGED=$(echo "$EXISTING $NEW_ENTRY" | jq -s '.[0] + .[1]')
           PATCH_PAYLOAD=$(jq -n --argjson kb "$MERGED" '{"conversation_config":{"agent":{"prompt":{"knowledge_base":$kb}}}}')
           PATCH_RESPONSE=$(curl -s -w "\n%{http_code}" -X PATCH "https://api.elevenlabs.io/v1/convai/agents/agent_5301kkc9q2dqfyh98f5791dep1w4" \
             -H "xi-api-key: $ELEVENLABS_API_KEY" \
             -H "Content-Type: application/json" \
             -d "$PATCH_PAYLOAD")
-          echo "Patch response: $PATCH_RESPONSE"
-          # Update archive.txt
+          echo "Part 1 patch response: $PATCH_RESPONSE"
+
+          # --- PART 2: AI & IP ---
+          DIGEST_IP=$(curl -sf "https://raw.githubusercontent.com/TimBrittonAI/ai-news-digest/main/digest-ip-${DATE}.json")
+          if [ -z "$DIGEST_IP" ]; then
+            echo "No Part 2 digest found for $DATE — skipping Part 2"
+          else
+            HEADER_IP="DISPATCHES AI - AI & IP DIGEST - $DATE"
+            STORIES_IP=$(echo "$DIGEST_IP" | jq -r '[.ip_top_stories[]? | "STORY: " + .title + " | " + .summary + " | Source: " + .url] | join(" ")')
+            LINKS_IP=$(echo "$DIGEST_IP" | jq -r '[.ip_further_links[]? | "LINK: " + .title + " | " + .summary + " | Source: " + .url] | join(" ")')
+            TEXT_IP=$(printf '%s\n\nTOP STORIES:\n%s\n\nFURTHER READING:\n%s' "$HEADER_IP" "$STORIES_IP" "$LINKS_IP")
+            PAYLOAD_IP=$(jq -n --arg text "$TEXT_IP" --arg name "Dispatches AI IP digest $DATE" '{"text":$text,"name":$name}')
+            RESPONSE_IP=$(curl -s -X POST "https://api.elevenlabs.io/v1/convai/knowledge-base/text" \
+              -H "xi-api-key: $ELEVENLABS_API_KEY" \
+              -H "Content-Type: application/json" \
+              -d "$PAYLOAD_IP")
+            echo "Part 2 KB response: $RESPONSE_IP"
+            DOC_ID_IP=$(echo "$RESPONSE_IP" | jq -r '.id')
+            if [ -z "$DOC_ID_IP" ] || [ "$DOC_ID_IP" = "null" ]; then
+              echo "Failed to get Part 2 document ID — skipping Part 2 patch"
+            else
+              echo "Part 2 document ID: $DOC_ID_IP"
+
+              # Re-fetch agent (now includes Part 1 doc) and patch with Part 2 doc
+              AGENT2=$(curl -s "https://api.elevenlabs.io/v1/convai/agents/agent_5301kkc9q2dqfyh98f5791dep1w4" \
+                -H "xi-api-key: $ELEVENLABS_API_KEY")
+              EXISTING2=$(echo "$AGENT2" | jq '[.conversation_config.agent.prompt.knowledge_base[]? | {type: .type, id: .id, name: .name}]')
+              NEW_ENTRY_IP=$(jq -n --arg id "$DOC_ID_IP" --arg name "Dispatches AI IP digest $DATE" '[{type: "file", id: $id, name: $name}]')
+              MERGED2=$(echo "$EXISTING2 $NEW_ENTRY_IP" | jq -s '.[0] + .[1]')
+              PATCH_PAYLOAD2=$(jq -n --argjson kb "$MERGED2" '{"conversation_config":{"agent":{"prompt":{"knowledge_base":$kb}}}}')
+              PATCH_RESPONSE2=$(curl -s -w "\n%{http_code}" -X PATCH "https://api.elevenlabs.io/v1/convai/agents/agent_5301kkc9q2dqfyh98f5791dep1w4" \
+                -H "xi-api-key: $ELEVENLABS_API_KEY" \
+                -H "Content-Type: application/json" \
+                -d "$PATCH_PAYLOAD2")
+              echo "Part 2 patch response: $PATCH_RESPONSE2"
+            fi
+          fi
+
+          # --- Archive update (Part 1 only, unchanged) ---
           ARCHIVE_URL="https://api.github.com/repos/TimBrittonAI/ai-news-digest/contents/archive.txt"
           ARCHIVE_RESPONSE=$(curl -s "$ARCHIVE_URL" \
             -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
