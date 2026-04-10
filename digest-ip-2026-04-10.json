@@ -1,0 +1,66 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "YouTubers Sue Apple for Scraping Videos to Train AI Models",
+      "summary": "Three YouTube content creators have filed a copyright lawsuit against Apple alleging their videos were scraped without authorisation to train an AI model. The case adds to the growing wave of litigation targeting major tech companies over alleged unauthorised use of online content for AI training purposes.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObkJpREt6Z0JpUGxPeFc2MEl3NFBtdnZ6LThvZy03TEF5NGx6WUtzY3hOYldZTE5kSlVuYlhwanVJV09aRWk3b056MjNEdXhYU0ZCdG5xVHFFbXRJYWt3SkNSMzVDYjVITU0yV0ZTYVZoeWxjT3NSRDgzR1oyZ1dxZ3h4bUM0dGVTMEF1SGZwUXRSWVF3dDhR?oc=5",
+      "topics": ["AI copyright", "litigation", "training data"]
+    },
+    {
+      "title": "YouTubers Sue Amazon, Claim AI Tool Was Trained on Scraped Videos",
+      "summary": "YouTube content creators have also filed a copyright lawsuit against Amazon, alleging that its AI tools were trained on their videos without permission. The case parallels a similar action against Apple and signals a broader litigation trend by video creators against major tech platforms.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTQ1BhQVA1dDUtU0xkaExib181dTJ5c1hhT1FZTUpqYUN3S1hER3I2Sl8tZnUxRHBxZEI5X0hxb3lTa0ZRNks4NmNXRkttaVpKSVJmQ1VMVlNPNFR2TzFFLVE0TzNuaDBEZzhrQ3JqV0gzbFB3V3pUbGF2TUljQQ?oc=5",
+      "topics": ["AI copyright", "litigation", "training data"]
+    },
+    {
+      "title": "OpenAI Freezes UK Stargate Project: Energy Costs and Copyright Rules Delay 8,000-GPU Plan",
+      "summary": "OpenAI has frozen its planned UK Stargate data centre project, with copyright rules cited alongside energy costs as key factors behind the delay. The development underscores how the UK's evolving AI copyright framework is having direct commercial consequences for major AI infrastructure investment.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUW5Hc00xdktaTDh3ekFxVkk4QVVIN2NFN1FsbkVISGJlZVhyR3JHYkNHYy1aeGFET0NBMFBMXzhPaTFoYkJtSTg2cUt4WnZhQ3dqbHVYRkpQX2RzWFFoTUtWQXJnOEhCb3MzdjBJN0lKZlJLQUpiU2p2ZnIxSkhVSmJXdjJXZ2Rib3RfTVRXQTVnUzFVNWluYVQ0WWVMS1M2S2dNcFZOdzBsTWZiMS1Ed3RQcUFFMU1tdmc?oc=5",
+      "topics": ["AI copyright", "UK policy", "AI investment"]
+    },
+    {
+      "title": "Australian Creatives Push Back Against 'AI Theft'",
+      "summary": "Australian creative professionals are mounting organised opposition to the use of their work to train AI models without consent or compensation, framing the practice as theft. The campaign reflects a global pattern of creator communities demanding stronger intellectual property protections in the AI era.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMmUyblh4clhzc2VncUJVUGM1bFRxMXE0Mk9wMFN1YmlVVjJVZi11TUJ5OVl2YTRXSE8wYllUUWxQVHFHYkp2Wl8xLVZyZWgxZ3RWcVdkVzE5OUhVUnIzM242TTdPck1NSFptekdnT0tzT3VCcFJFd0kzTTN5a2MwVUlIY2tUbWRBOS1iOTBEeXBfZ3Z4?oc=5",
+      "topics": ["AI copyright", "creator rights", "policy"]
+    },
+    {
+      "title": "In Europe's Translation Markets English Dominates, Japanese Grows, AI Disrupts",
+      "summary": "A Publishers Weekly report on European translation markets finds that AI is disrupting established publishing workflows and market dynamics, raising questions about the future of human translation and the intellectual property implications of AI-assisted translation at scale.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100121-in-europe-s-translation-markets-english-dominates-japanese-grows-ai-disrupts.html",
+      "topics": ["academic publishing", "AI tools", "publishing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Ohio man becomes first person convicted under federal law criminalising intimate deepfakes, DOJ says",
+      "summary": "The US Department of Justice reports the first federal conviction under legislation criminalising non-consensual intimate deepfakes, marking a significant milestone in the legal treatment of AI-generated harmful content.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQWdQRjdyNHVhMGNGcDF4WEZMNGFPdjJlYld4ZVdEbmY1Z3FDNEVkWUhIeUE0T1lzLTJMOHZ1cU9lWnE5b0lGSnhqbUZYWmgzRDZuc2lfWWw2cGZxR012UXczTnJ4NWNmOXNNV1FpTGZxWEJGb1VoWnRuTGxKSXVSbjgyU0szV1BlMXVnUjdwVFpXcW1lTERkWEstMmo1Smk0RFFQZTdzOEpNalpS?oc=5",
+      "topics": ["AI law", "deepfakes", "litigation"]
+    },
+    {
+      "title": "Apple accused of copyright infringement over AI training on YouTube videos",
+      "summary": "Reporting from hi-Tech.ua covers the copyright infringement accusations against Apple relating to alleged scraping of YouTube videos for AI model training.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSmhMS183d3dOV1FFLVFFNEhuS2Z3ZEdXWDY0dGJhRzlJMjRBYXp5b2pZTTFCZTdqSXNPZFpCY0o3WURPQ3ZRZy1WVWpwTTRTQTRXLVg1N013YlpQS215RkRPcnQtTEJTTC12a2tvU0U4UEdFSkJOelJ0Q0Y2eWU1YjFPYmpuR1JobnZRX0VmM00yZlY3ek5aT1RFZDM0Zw?oc=5",
+      "topics": ["AI copyright", "litigation", "training data"]
+    },
+    {
+      "title": "AI pioneer Stephen Thaler sues Indian government over copyright deadlock",
+      "summary": "Stephen Thaler has filed a lawsuit against the Indian government over its refusal to grant copyright protection to AI-generated works, escalating his long-running legal campaign for AI authorship rights in India.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLWdxY05ObUlPc1BhVGtjM1ktdGhhZGFoM29vZG9VY3JrSHU3bzM4UDhEcTZac1gxNU5Mem1mZklLODVYeUU1dVhoR1A1amRlUHItQWU3WDBVUURPRFd3SlFremRYSW12TlNXZzZRXzV3MzF2SEt6eldiZlJyaWJ3TlB5OWxRVUx6N2tobUwtNk01WTlwMDJ4cmlnZl9IR0tqU2VnXzBFRzJTeUJMS3lVd0VFbXRYd9IBWkFVX3lxTE1reXlTanhhclNtTDRaRzhSeFVkX0pBdnZzcUJqRDZJUWlMU1dJZFBHNjlGMFBqQ1J6RnFmMWNvVUR3UHhub2ZxYzFWRjQ0RjRMQm9pMFdYQnFTQQ?oc=5",
+      "topics": ["AI copyright", "AI authorship", "India"]
+    },
+    {
+      "title": "Premier League criticises UK's new AI copyright rules",
+      "summary": "The Premier League has criticised the UK government's proposed AI copyright reforms, arguing they threaten rights holders' ability to control and be compensated for use of their content.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MamtRWmI5QkFzWjlETUczYnNmZ1gwVExmU09nS1lPdzhhaktacGFVdUwzNVdNWmZsYk5MOXFJblh5enpkTncxdElKT3ctaU9EQWR5c0paV2NkTnc3alhvSGstcFJRT2tGcm5rOGItZDM1b3RhXzdjc0hmZVrSAYIBQVVfeXFMTUxaMldPRm1LU19scjY2a0l2Q3dMY2pNSndScjJ3aFJJbl9XZ0JOMG41QVJOWm5GN0VMMlNqaktKcHowVTRRU2tDNGRuNDNkbldyX1NSMlMzQTQyQktZcnZTNWVYbmdDWlRtcHMzbUVNUHNuSnRYRW9zNTRrQkZmMGpsZw?oc=5",
+      "topics": ["AI copyright", "UK policy", "creator rights"]
+    },
+    {
+      "title": "Ask the Librarians: Recapping a Scholarly Kitchen Roundtable at the 2025 Charleston Library Conference",
+      "summary": "The Scholarly Kitchen recaps a roundtable discussion with librarians on AI adoption, data licensing, and the evolving challenges facing academic libraries in navigating AI tools and intellectual property concerns.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/04/09/ask-the-librarians-recapping-a-scholarly-kitchen-roundtable-at-the-2025-charleston-library-conference/",
+      "topics": ["academic publishing", "AI tools", "licensing"]
+    }
+  ]
+}
