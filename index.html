@@ -146,27 +146,24 @@
         .hero-inner { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; gap: 24px; }
         .hero-label { font-family: 'DM Mono', monospace; font-size: 0.65rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--accent); white-space: nowrap; }
         .hero-desc { font-size: 0.85rem; color: #aaa; font-weight: 300; }
-
-       .nav-panel {
-    width: 100%;
-    padding: 0 40px;
+.nav-panel {
     position: sticky;
     top: 57px;
     z-index: 99;
     background: var(--paper);
+    padding-bottom: 4px;
 }
 
-        .nav-panel-inner {
-            background: var(--card-bg);
-            border: 1px solid var(--rule);
-            border-left: 4px solid var(--accent);
-            padding: 14px 20px;
-            margin: 20px auto;
-            max-width: 1200px;
-            display: flex;
-            align-items: center;
-            gap: 32px;
-        }
+   .nav-panel-inner {
+    background: var(--card-bg);
+    border: 1px solid var(--rule);
+    border-left: 4px solid var(--accent);
+    padding: 14px 20px;
+    margin: 0 0 20px 0;
+    display: flex;
+    align-items: center;
+    gap: 32px;
+}
 
         .nav-panel-label {
             font-family: 'DM Mono', monospace;
@@ -339,30 +336,31 @@
         </div>
     </div>
 
-    <div class="nav-panel">
-        <div class="nav-panel-inner">
-            <div class="nav-panel-label">In today's digest</div>
-            <div class="nav-panel-links">
-                <a href="#part1" class="nav-panel-link">Part 1 — General AI News</a>
-                <a href="#ethan" class="nav-panel-link">Ethan Mollick — One Useful Thing</a>
-                <a href="#part2" class="nav-panel-link">Part 2 — AI &amp; IP</a>
-            </div>
-        </div>
-    </div>
 
-    <div class="page-layout">
+<div class="page-layout">
         <div class="flower-column">
             <img class="flower-img" id="flower-img" src="" alt="Today's flower" />
             <div class="flower-tagline" id="flower-tagline-sub"></div>
         </div>
-        <main class="main" id="main-content">
-            <div class="loading-state">
-                <span class="big">Loading&#x2026;</span>
-                <p>Fetching today's digest.</p>
+        <main class="main">
+            <div class="nav-panel">
+                <div class="nav-panel-inner">
+                    <div class="nav-panel-label">In today's digest</div>
+                    <div class="nav-panel-links">
+                        <a href="#part1" class="nav-panel-link">Part 1 — General AI News</a>
+                        <a href="#ethan" class="nav-panel-link">Ethan Mollick — One Useful Thing</a>
+                        <a href="#part2" class="nav-panel-link">Part 2 — AI &amp; IP</a>
+                    </div>
+                </div>
+            </div>
+            <div id="main-content">
+                <div class="loading-state">
+                    <span class="big">Loading&#x2026;</span>
+                    <p>Fetching today's digest.</p>
+                </div>
             </div>
         </main>
     </div>
-
     <footer>
         <div class="footer-inner">
             <div class="footer-text">Automated daily &#xB7; Sources monitored via RSS &#xB7; Curated by AI &#xB7; Edited by nobody</div>
