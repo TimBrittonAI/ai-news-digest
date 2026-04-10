@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI Backs Bill That Would Limit Liability for AI-Enabled Mass Deaths or Financial Disasters",
+      "summary": "OpenAI is supporting legislation that would shield AI companies from liability in cases where their models contribute to mass casualties or major financial disasters. The move raises significant questions about AI safety accountability and the legal responsibilities of frontier AI developers. Wired reports the bill represents a notable lobbying effort by OpenAI to shape the legal framework governing AI harm.",
+      "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+      "topics": ["AI legal", "AI Safety", "OpenAI"]
+    },
+    {
+      "title": "Florida launches investigation into OpenAI",
+      "summary": "The state of Florida has launched a formal investigation into OpenAI, adding to the growing list of regulatory and legal scrutiny facing the company. The Verge reports the investigation signals increasing state-level interest in holding AI firms accountable. Details of the specific allegations or areas of inquiry are under examination by Florida authorities.",
+      "url": "https://www.theverge.com/policy/909557/openai-florida-investigation",
+      "topics": ["OpenAI", "AI regulation", "Technology Ethics"]
+    },
+    {
+      "title": "ChatGPT has a new $100 per month Pro subscription",
+      "summary": "OpenAI has launched a new $100-per-month Pro subscription tier for ChatGPT, offering enhanced access and capabilities beyond the existing Plus plan. The Verge reports the move represents OpenAI's push to monetise its most demanding power users. The new tier underscores the intensifying competition among AI labs to capture revenue from professional and enterprise customers.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
+      "topics": ["ChatGPT", "OpenAI", "AI business"]
+    },
+    {
+      "title": "Google's Gemini AI can answer your questions with 3D models and simulations",
+      "summary": "Google has announced that its Gemini AI is now capable of generating 3D models and interactive simulations in response to user queries, significantly expanding the modalities available within the assistant. The Verge reports the feature represents a notable step beyond text and image generation toward richer, interactive AI outputs. The capability could have wide implications for education, design, and scientific research.",
+      "url": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
+      "topics": ["large language models", "Gemini", "AI tools"]
+    },
+    {
+      "title": "Study found that young adults have grown less hopeful and more angry about AI",
+      "summary": "A Gallup study reported by the New York Times finds that Gen Z adults have become significantly less optimistic and more frustrated about artificial intelligence over the past year. The shift in sentiment among younger users — previously considered more receptive to AI — marks a notable change in public attitudes. The findings add to growing debate about AI's societal impact and how companies communicate its benefits and risks.",
+      "url": "https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html",
+      "topics": ["AI Ethics", "User Interaction", "consumer research"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "The AI industry's race for profits is now existential",
+      "summary": "The Verge podcast examines how the pressure to monetise AI products has become an existential challenge for major players including Anthropic and OpenAI, as investor expectations intensify.",
+      "url": "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment",
+      "topics": ["AI business", "OpenAI", "Anthropic"]
+    },
+    {
+      "title": "Google makes it easy to deepfake yourself",
+      "summary": "Google has introduced a feature in YouTube Shorts that allows users to easily create AI-generated avatars of themselves, raising fresh questions about deepfake technology and consent.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar",
+      "topics": ["AI Video", "Technology Ethics", "generative AI"]
+    },
+    {
+      "title": "The 70-Person AI Image Startup Taking on Silicon Valley's Giants",
+      "summary": "Wired profiles Black Forest Labs, a small AI image generation startup challenging much larger competitors in the generative image space with a lean team and distinctive technical approach.",
+      "url": "https://www.wired.com/story/black-forest-labs-ai-image-generation/",
+      "topics": ["generative AI", "AI business", "AI Video"]
+    },
+    {
+      "title": "The Download: AstroTurf wars and exponential AI growth",
+      "summary": "MIT Technology Review's daily briefing covers the phenomenon of AI-driven astroturfing in online debates alongside analysis of the pace of AI adoption and growth projections.",
+      "url": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/",
+      "topics": ["AI Ethics", "Content Policy", "generative AI"]
+    },
+    {
+      "title": "The Pro-Iran Meme Machine Trolling Trump With AI Lego Cartoons",
+      "summary": "Wired investigates a pro-Iran influence operation using AI-generated imagery and Lego-style cartoons to spread political messaging targeting US audiences online.",
+      "url": "https://www.wired.com/story/inside-the-pro-iran-meme-machine-trolling-trump-with-ai-lego-cartoons/",
+      "topics": ["AI Ethics", "Content Policy", "generative AI"]
+    },
+    {
+      "title": "This AI Wearable From Ex-Apple Engineers Looks Like an iPod Shuffle",
+      "summary": "Wired reports on a new AI-powered wearable device created by former Apple engineers, designed as a compact ambient AI companion in a form factor resembling the iPod Shuffle.",
+      "url": "https://www.wired.com/story/this-ai-button-wearable-from-ex-apple-engineers-looks-like-an-ipod-shuffle/",
+      "topics": ["AI tools", "AI business", "consumer technology"]
+    },
+    {
+      "title": "IDC Unveils $22.5 Trillion AI Value Forecast at Directions 2026",
+      "summary": "IDC has released a forecast projecting that AI will generate $22.5 trillion in economic value by 2030, presented at its annual Directions conference, underscoring the scale of expectations around AI-driven growth.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ1RwcVVvelUwbWgybkhTTi03dGxKaHJ4T0Q2d0RzYXcwbGZDV3dFdmJhX2ZCVnJfZGM3UDc2bWp2Mm84aERsX25pR0RzVVpDbHI1b0RtclQ3ZVdaS0hTaDB0VDduNWZzRXJIbWpwbUpsNElBNm00YjJwUmRfQmhNNGZ0TkMzRE8xNW5ZejdWOElDZWxkRGRLN1FwUzhTNXMwNkMwcDBiUFZsTXk1aldfUFRlNU01Y0t6R3c?oc=5",
+      "topics": ["AI business", "market research", "generative AI"]
+    },
+    {
+      "title": "Consumer-goods growth is under 1% — NIQ launches AI demand tool",
+      "summary": "Market research firm NIQ has launched a new AI-powered demand forecasting tool aimed at consumer goods companies facing near-stagnant market growth conditions.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON0FWWXpDV0pmQURROGdreTYyUW11VlQ3WTZSY0l3Z001QlRuMlM0Y0ZVZFJOS0RjXzlUTGY3VV8wRkt4X3Q4MktUblJQRkJENk9JUk01NjRfa1JmRWlvbFRFYUI3dk1FelIzTkhUQlJkZnhlWGJJYXFaSHk5UkhxeGN1ZnhLNG9WekVBYm1DYXVRNEhzYlpxWTRQMFd2NGVHaVlyQ1E5N1pnQ1NhLUdTaA?oc=5",
+      "topics": ["consumer research", "market research", "AI tools"]
+    },
+    {
+      "title": "ServiceNow embeds AI across the platform with Context Engine",
+      "summary": "ServiceNow has announced a new Context Engine that integrates AI capabilities deeply across its enterprise platform, aiming to surface relevant data and automate workflows more intelligently for business users.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOai0xSlFTb180aTVrWXVwMXJQMkZsU2tCcmNhNy1uWnFtQlFlNFp5d0U0QVVFTlhQV3Q1MGplRDdCYTEwMjU4VHpMbllXXzdBY0NiTHdsaml2Vy1sYUpxTHRyWEFxR3lRTXhHcnkycnNabTZIZi1wYnc2MGtFOUpSR0NGMWFhdlFydFEzTk9JX3RRQmc1RXZ2aFNzVnJSdTROOVJNMkVnRkYxRHlyNVIydnJLYkhTOFc5U1lj?oc=5",
+      "topics": ["AI business", "enterprise AI", "AI tools"]
+    },
+    {
+      "title": "Agentic AI Market Forecast for Robust Growth to US$ 98.26 Billion",
+      "summary": "A new market research report projects the agentic AI sector will grow to nearly $100 billion, reflecting surging enterprise and developer interest in autonomous AI agent deployments.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbTFfRGF5Y0VhTWhraGIyMjN1VjVsOE40NFhKdFlhcG9CTW5jdFNDWlBFYVNjWTh0SUhVTkNFV3RibnVNcVhrbUZwdGlzekVMbnF5QjZid055SkpBdFNlUFVPUk5DRmZrV3pEekZ6X0dybUtZdEItWTNFazJBOVFuSzZHN2xsWW82NTB4aU40S3dHZHRvNFRHMlRGRHQzR0c2bHc?oc=5",
+      "topics": ["AI agents", "market research", "AI business"]
+    }
+  ],
+  "ethan_mollick": null
+}
