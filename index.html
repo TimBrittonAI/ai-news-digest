@@ -179,28 +179,14 @@
     flex-wrap: nowrap;
 }
         .nav-panel-link {
-            font-family: 'DM Mono', monospace;
-            font-size: 0.65rem;
-            color: var(--accent);
-            text-decoration: none;
-            letter-spacing: 0.05em;
-            display: flex;
-            align-items: center;
-            gap: 6px;
-            transition: opacity 0.15s;
-        }
-
-        .nav-panel-link:hover { opacity: 0.7; }
-
-        .nav-panel-link::before {
-            content: '';
-            display: inline-block;
-            width: 12px;
-            height: 1px;
-            background: var(--accent);
-        }
-
-        .nav-panel-link::after { content: ' ↓'; }
+    font-family: 'DM Mono', monospace;
+    font-size: 0.65rem;
+    color: var(--accent);
+    text-decoration: none;
+    letter-spacing: 0.05em;
+    transition: opacity 0.15s;
+}
+.nav-panel-link:hover { opacity: 0.7; }
 
         .page-layout {
             max-width: 1200px;
