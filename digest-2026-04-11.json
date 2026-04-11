@@ -1,0 +1,114 @@
+{
+  "top_stories": [
+    {
+      "title": "US summons bank bosses over cyber risks from Anthropic's latest AI model",
+      "summary": "US authorities have summoned senior banking executives to discuss cybersecurity risks posed by Anthropic's latest AI model, according to The Guardian. The move signals growing regulatory concern about the security implications of deploying advanced AI systems within critical financial infrastructure. The intervention marks a notable escalation in government scrutiny of frontier AI models and their potential vulnerabilities.",
+      "url": "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model",
+      "topics": ["AI Safety", "AI regulation", "Anthropic"]
+    },
+    {
+      "title": "Anthropic's Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
+      "summary": "Wired examines Anthropic's Mythos AI system and argues that its real cybersecurity implications are more nuanced than the immediate threats being discussed publicly. The piece contends that the broader reckoning will concern how organisations integrate and trust AI systems in security-sensitive environments. It raises important questions about AI deployment practices and institutional responsibility.",
+      "url": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
+      "topics": ["AI Safety", "cybersecurity", "Anthropic"]
+    },
+    {
+      "title": "Scientists invented a fake disease. AI told people it was real",
+      "summary": "A study published in Nature found that AI systems confidently informed users that a fabricated disease was genuine, raising serious concerns about AI reliability in medical and health contexts. The findings highlight the risk of AI hallucination in high-stakes domains where users may place unwarranted trust in AI-generated information. The research adds urgency to debates around AI safety, bias, and the accuracy of large language models.",
+      "url": "https://www.nature.com/articles/d41586-026-01100-y",
+      "topics": ["AI Safety", "Bias", "large language models"]
+    },
+    {
+      "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
+      "summary": "MIT Technology Review's daily briefing covers the phenomenon of AI models deemed too dangerous to release publicly, examining how AI labs are making decisions about withholding frontier systems from deployment. The piece explores the tension between open research and safety considerations at the frontier of AI development. It also features an exclusive short story by author Jeff VanderMeer exploring AI themes.",
+      "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
+      "topics": ["AI Safety", "AI Ethics", "large language models"]
+    },
+    {
+      "title": "Elon Musk released xAI's Grok 4 without any safety reports—despite calling AI more 'dangerous than nukes'",
+      "summary": "xAI released its Grok 4 model without publishing any safety evaluation reports, drawing criticism given Elon Musk's own repeated public warnings about the existential dangers of AI. The omission highlights a growing gap between AI safety rhetoric and actual disclosure practices among leading AI developers. The story raises fresh questions about industry accountability and transparency standards for frontier model releases.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42blBMUno5QXlHekdFd1R6WGxpZzRnckVzUXRpa0p5OTNFR3hLb1NlLUdmT050cjJRNFJnNjJPaWh5Q3ZFLUcxTl85QkJSd0FObm44VjRYTFFJM2hQMWF6ZnhXWXhHVjN6WUQ1emxYN1hia3hTWDRsb0hR?oc=5",
+      "topics": ["AI Safety", "Technology Ethics", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Meta's New AI Asked for My Raw Health Data—and Gave Me Terrible Advice",
+      "summary": "Wired tests Meta's new AI health assistant and finds it solicits sensitive personal health data while providing advice that experts consider dangerously inaccurate.",
+      "url": "https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/",
+      "topics": ["AI Ethics", "Mental Health", "User Interaction"]
+    },
+    {
+      "title": "This Startup Wants You to Pay Up to Talk With AI Versions of Human Experts",
+      "summary": "Wired profiles Onix, a startup building a platform where users pay to consult AI versions of real human experts in fields including therapy, medicine, and nutrition.",
+      "url": "https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/",
+      "topics": ["AI business", "Mental Health", "ChatGPT"]
+    },
+    {
+      "title": "AI Podcasters Really Want to Tell You How to Keep a Man Happy",
+      "summary": "Wired investigates AI-generated podcast content spreading retrograde relationship advice, highlighting how generative AI is being used to produce and distribute ideologically charged media at scale.",
+      "url": "https://www.wired.com/story/ai-podcasters-really-want-to-tell-you-how-to-keep-a-man-happy/",
+      "topics": ["generative AI", "Content Policy", "AI Ethics"]
+    },
+    {
+      "title": "How agentic AI is changing enterprise applications [Q&A]",
+      "summary": "A Q&A examines how agentic AI systems are reshaping enterprise software, with implications for workflow automation, decision-making, and the future of business applications.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ1U0YUJHc19vYzJGTFdHRFY4OHJFeUVVNFg1ZW9VbWg0WHFJVnExb0xmbkptSTJPTmNsdE5ibE9fTzRKR3hPVTV0UkRqRk1oVFE0bEQtYTJEUFdYMDJLbTNwbHluYUtoZktxVzlTRHBBNGtZc1d3QVZKUkdvZDlWdXlYX05yakd2QndB?oc=5",
+      "topics": ["AI agents", "enterprise AI", "AI business"]
+    },
+    {
+      "title": "Your article about AI doesn't need AI art",
+      "summary": "The Verge argues that the widespread use of AI-generated illustrations in journalism and publishing is unnecessary and potentially harmful to visual culture and human illustrators.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+      "topics": ["generative AI", "Content Policy", "AI Ethics"]
+    },
+    {
+      "title": "Microsoft starts removing Copilot buttons from Windows 11 apps",
+      "summary": "Microsoft has begun removing dedicated Copilot buttons from Windows 11 applications, signalling a shift in how the company plans to integrate AI assistance across its operating system.",
+      "url": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons",
+      "topics": ["AI tools", "AI business", "large language models"]
+    },
+    {
+      "title": "Using projects in ChatGPT",
+      "summary": "OpenAI's Academy has published guidance on how users can leverage the Projects feature in ChatGPT to organise conversations, files, and custom instructions for structured workflows.",
+      "url": "https://openai.com/academy/projects",
+      "topics": ["ChatGPT", "AI tools", "User Interaction"]
+    },
+    {
+      "title": "How the Internet Broke Everyone's Bullshit Detectors",
+      "summary": "Wired examines how the proliferation of AI-generated content and online misinformation has eroded the public's ability to distinguish credible information from fabricated content.",
+      "url": "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
+      "topics": ["AI Ethics", "Content Policy", "generative AI"]
+    },
+    {
+      "title": "AI assistance when contributing to the Linux kernel",
+      "summary": "Linux kernel documentation now includes official guidance on the use of AI coding assistants by contributors, setting out expectations and limitations for AI-generated code submissions to the project.",
+      "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+      "topics": ["AI coding tools", "Content Policy", "AI Ethics"]
+    },
+    {
+      "title": "Fear and loathing at OpenAI",
+      "summary": "The Verge podcast digs into the internal tensions and external pressures mounting at OpenAI as the company navigates leadership drama, its for-profit restructuring, and intensifying competition.",
+      "url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
+      "topics": ["OpenAI", "AI business", "Technology Ethics"]
+    }
+  ],
+  "ethan_mollick": null,
+  "all_urls": [
+    "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model",
+    "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
+    "https://www.nature.com/articles/d41586-026-01100-y",
+    "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE42blBMUno5QXlHekdFd1R6WGxpZzRnckVzUXRpa0p5OTNFR3hLb1NlLUdmT050cjJRNFJnNjJPaWh5Q3ZFLUcxTl85QkJSd0FObm44VjRYTFFJM2hQMWF6ZnhXWXhHVjN6WUQ1emxYN1hia3hTWDRsb0hR?oc=5",
+    "https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/",
+    "https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/",
+    "https://www.wired.com/story/ai-podcasters-really-want-to-tell-you-how-to-keep-a-man-happy/",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ1U0YUJHc19vYzJGTFdHRFY4OHJFeUVVNFg1ZW9VbWg0WHFJVnExb0xmbkptSTJPTmNsdE5ibE9fTzRKR3hPVTV0UkRqRk1oVFE0bEQtYTJEUFdYMDJLbTNwbHluYUtoZktxVzlTRHBBNGtZc1d3QVZKUkdvZDlWdXlYX05yakd2QndB?oc=5",
+    "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+    "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons",
+    "https://openai.com/academy/projects",
+    "https://www.wired.com/story/how-the-internet-broke-everyones-bullshit-detectors/",
+    "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+    "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast"
+  ]
+}
