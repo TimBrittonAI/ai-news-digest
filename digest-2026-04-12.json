@@ -1,0 +1,111 @@
+{
+  "top_stories": [
+    {
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "summary": "Researchers at UC Berkeley's RDI have published findings showing how they were able to break leading AI agent benchmarks, exposing fundamental flaws in how autonomous AI systems are evaluated. The post details the specific vulnerabilities discovered and proposes a path forward for more robust and trustworthy benchmarking. The findings have significant implications for how the industry measures AI agent progress and safety.",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "topics": ["AI agents", "AI Safety", "large language models"]
+    },
+    {
+      "title": "Why do we tell ourselves scary stories about AI?",
+      "summary": "Quanta Magazine explores the psychological and cultural reasons humans construct apocalyptic narratives around artificial intelligence, examining what these stories reveal about collective anxieties rather than the technology itself. The piece draws on cognitive science and history to analyse why AI fear narratives persist and proliferate. It offers a nuanced perspective on the gap between AI reality and public perception.",
+      "url": "https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/",
+      "topics": ["AI Ethics", "Technology Ethics", "AI Safety"]
+    },
+    {
+      "title": "Suspect Arrested for Allegedly Throwing Molotov Cocktail at Sam Altman's Home",
+      "summary": "A 20-year-old man has been arrested after allegedly throwing a Molotov cocktail at OpenAI CEO Sam Altman's San Francisco home, according to Wired. The incident highlights the intensifying personal threats facing high-profile AI executives amid growing public debate about the technology's societal impact. The suspect's reported motivations and the security implications for AI leaders are under investigation.",
+      "url": "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/",
+      "topics": ["OpenAI", "AI Ethics", "Technology Ethics"]
+    },
+    {
+      "title": "My baby deer plushie told me that Mitski's dad was a CIA operative",
+      "summary": "The Verge investigates Fawn, an AI-powered companion toy aimed at children and young adults, finding that the device confidently fabricated false biographical information about a well-known musician. The review raises serious concerns about AI hallucination in consumer products targeted at vulnerable users, and the lack of safeguards in AI-embedded toys. The piece adds to growing scrutiny of AI reliability and content safety in the consumer market.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
+      "topics": ["AI Safety", "User Interaction", "Bias"]
+    },
+    {
+      "title": "How Iran out-shitposted the White House",
+      "summary": "The Verge examines how Iranian propaganda operations used AI-generated Lego-style videos to achieve viral reach and cultural resonance that outpaced official US government communications online. The piece analyses the content strategy, production methods, and platform dynamics that enabled the campaign's success. It raises broader questions about AI-enabled influence operations and the future of information warfare.",
+      "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+      "topics": ["generative AI", "Content Policy", "AI Ethics"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "xAI prepares credits system for upcoming Grok Build launch",
+      "summary": "Elon Musk's xAI is developing a credits-based billing system ahead of the launch of Grok Build, its developer-facing platform for building applications on top of the Grok model.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEhXSG45N2hBcVZkNVhNZmhaY1NITkxhbFZXa2JHOEk1dHlSSUZVZnlRVHpmZ081aUpaM0hLQzNEWXNSTndZR1d0X2llX3hlaHoxSEJyTmFXZG1tUnNaZlBjQk1wdVNFM0NjSVlhT2FsVnRxRzZoSnJYcEpLM25Sb1hxVUZUMUpwSTd4SnpELUJzX3dV?oc=5",
+      "topics": ["AI business", "large language models", "ChatGPT"]
+    },
+    {
+      "title": "We spoke to the man making viral Lego-style AI videos for Iran",
+      "summary": "BBC News interviews the creator behind the AI-generated Lego-style videos that went viral as part of Iranian information operations, exploring his motivations and production process.",
+      "url": "https://www.bbc.com/news/articles/cjd8jrd1vnyo",
+      "topics": ["generative AI", "AI Video", "Content Policy"]
+    },
+    {
+      "title": "Gen Z's love-hate relationship with AI",
+      "summary": "The Verge examines the Gallup findings on Gen Z attitudes toward AI, exploring the nuanced mix of enthusiasm and distrust that characterises how younger adults engage with the technology.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
+      "topics": ["Consumer Research", "AI Ethics", "User Interaction"]
+    },
+    {
+      "title": "Your Push Notifications Aren't Safe From the FBI",
+      "summary": "Wired reports on how US law enforcement has been obtaining push notification metadata from Apple and Google to identify and track individuals, raising significant privacy concerns.",
+      "url": "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
+      "topics": ["Technology Ethics", "AI Safety", "Content Policy"]
+    },
+    {
+      "title": "Accenture acquires Spanish AI business",
+      "summary": "Accenture has announced the acquisition of a Spanish AI company, continuing its strategy of expanding AI consulting and implementation capabilities across Europe.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUUVWVUhnUmZSS0d5alhHazBKRndGclpLbkFPRHJFaC1QTWZpWVp2VW5xZlBXSUR2WXNLNTJSYnNZNGtyUGhWaXdEZE5rOEplRlg5MEUxQXFWSzhvcHdxaTR2d3F6U3ZYMXFhNmpjTU13aXpmNEV5VjM4LXh2M3hDcElYMGFkX19ZU3pWSG1FbUsyNzZaVTJ3?oc=5",
+      "topics": ["AI business", "Acquisitions"]
+    },
+    {
+      "title": "OpenAI backs Illinois bill that would limit when AI labs can be held liable",
+      "summary": "OpenAI is supporting an Illinois bill that would restrict the circumstances under which AI companies can face legal liability for harms caused by their models.",
+      "url": "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+      "topics": ["Legal", "OpenAI", "AI regulation"]
+    },
+    {
+      "title": "The Iranian Lego AI video creators credit their virality to 'heart'",
+      "summary": "The Verge follows up on the Iranian AI Lego video phenomenon, with the creators attributing their viral success to emotional resonance rather than technical sophistication.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
+      "topics": ["AI Video", "generative AI", "Content Policy"]
+    },
+    {
+      "title": "Why European B2B Companies Are Losing Visibility on the Web and in AI Searches",
+      "summary": "An analysis examines how European B2B companies are struggling to maintain discoverability as AI-powered search tools increasingly reshape how buyers find suppliers and services online.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2k4aXNvR1FkMjZKR2EzcEFCQ1RwTXJnWlBrT0djNFJFeG1JYkd3d3p2UjFXQVdMWlltYktuM2ZrN1M5allHTDZhZWNtYVdwaEJOZlM5SjFvTm1fVVJfaTl0azlUQ2tVZFdPN2pJOVlEejV4WWhrRV9IeE8xNGxSaHg3SXMxMUluVjJ2ZnVIWFpZZko4ZUY3SmwySGM3X1VH?oc=5",
+      "topics": ["AI business", "Advertising", "E-commerce"]
+    },
+    {
+      "title": "Trinity Launches InsightsEDGE™ | Digital Twins — Generative AI Unlocks Always-On Intelligence for Life Sciences Commercial Teams",
+      "summary": "Trinity has launched InsightsEDGE, a generative AI-powered digital twin platform aimed at giving life sciences commercial teams continuous market intelligence and strategic insights.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQlhabHJNd2NUOVZGeG9GdWJOazR6bmlwYy1wRWREMXFPSFY4RnpmNlBHWUNubHdXdmZ2UndmcGIyY1ZGcXN0TkdPNkJpbjYxNUxBWFN5NVp3MGwxS2xmZ09WLVBCTnprN2w5cmxvMmJUTG15bVBIQ1ctME4zRmNaSDBMUEFUSk1TTzlheTJjaWxETUFKdzhXRVMxNk1faDJlaDRxVk9FNFBuNi1LbnhOVF9n?oc=5",
+      "topics": ["generative AI", "AI business", "Market Research"]
+    },
+    {
+      "title": "Future of AI: How AI App Development is Transforming Business Operations",
+      "summary": "An analysis looks at how AI application development is reshaping core business operations, from workflow automation to customer engagement and decision-making processes.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbDR6OXFpa3hOU0tZOGNLU051aUpyTU9hLXQybm8tdXBoRjZ1aUtSS2l5ODFTeC1UNUpuV0dPOG1nSldoSUphZ0dxeGNxcWd0SXFVWHdOSll1SmNtWlZ0OTBHeXNaRk5qNlAwTEtHS1Z1WkdGajlIUjdrLWhqa0FRM1ZOc1RybmN0WDdQaUpOSUhQMGhLdWFV?oc=5",
+      "topics": ["AI business", "Business", "AI agents"]
+    }
+  ],
+  "ethan_mollick": null,
+  "all_urls": [
+    "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+    "https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/",
+    "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/",
+    "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
+    "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeEhXSG45N2hBcVZkNVhNZmhaY1NITkxhbFZXa2JHOEk1dHlSSUZVZnlRVHpmZ081aUpaM0hLQzNEWXNSTndZR1d0X2llX3hlaHoxSEJyTmFXZG1tUnNaZlBjQk1wdVNFM0NjSVlhT2FsVnRxRzZoSnJYcEpLM25Sb1hxVUZUMUpwSTd4SnpELUJzX3dV?oc=5",
+    "https://www.bbc.com/news/articles/cjd8jrd1vnyo",
+    "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
+    "https://www.wired.com/story/security-news-this-week-your-push-notifications-arent-safe-from-the-fbi/",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUUVWVUhnUmZSS0d5alhHazBKRndGclpLbkFPRHJFaC1QTWZpWVp2VW5xZlBXSUR2WXNLNTJSYnNZNGtyUGhWaXdEZE5rOEplRlg5MEUxQXFWSzhvcHdxaTR2d3F6U3ZYMXFhNmpjTU13aXpmNEV5VjM4LXh2M3hDcElYMGFkX19ZU3pWSG1FbUsyNzZaVTJ3?oc=5",
+    "https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/",
+    "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd2k4aXNvR1FkMjZKR2EzcEFCQ1RwTXJnWlBrT0djNFJFeG1JYkd3d3p2UjFXQVdMWlltYktuM2ZrN1M5allHTDZhZWNtYVdwaEJOZlM5SjFvTm1fVVJfaTl0azlUQ2tVZFdPN2pJOVlEejV4WWhrRV9IeE8xNGxSaHg3SXMxMUluVjJ2ZnVIWFpZZko4ZUY3SmwySGM3X1VH?oc=5",
+    "https://news.google.com/
