@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Read OpenAI's latest internal memo about beating the competition [Paywalled]",
+      "summary": "An internal OpenAI memo from its Chief Revenue Officer discusses strategies for competing against rivals including Anthropic. The document reveals internal thinking about competitive positioning in the rapidly evolving AI market. The Verge has obtained and published the memo's contents.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+      "topics": ["OpenAI", "AI competition", "business strategy"]
+    },
+    {
+      "title": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "summary": "OpenAI has announced a partnership with Cloudflare to enable enterprises to build and run agentic AI workflows through Cloudflare's Agent Cloud platform. The integration allows businesses to deploy OpenAI-powered agents at scale using Cloudflare's infrastructure. This marks a significant push by OpenAI into enterprise agentic computing.",
+      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "topics": ["OpenAI", "AI agents", "enterprise AI"]
+    },
+    {
+      "title": "AI plagiarised research that passed checks meant to spot it - then I recognised it was my work",
+      "summary": "A researcher describes discovering that AI-generated content had plagiarised their own published work and had passed through standard plagiarism detection tools undetected. The case highlights growing concerns about AI systems reproducing academic research without attribution and the inadequacy of current detection methods. The story raises urgent questions about research integrity and the limits of AI detection software.",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZzExa0h3dzY5RzlZNUNNeDQ4TGJMMTdtMDZqVjJSSXRZNHZ3dHcxQXQ4bVVJVzJWS3o2UGtTeHBVekYzRERySXZobF8tOVJsV0xIWjlMalE5RkVmRk1mUFdqQUVVTTNHQnY0RnYwWm5QX3BVSzUyb0g1ZHNTYUpNQ0V0ODlpQ1BCUXhhLTFXZ21oX0hjYVBIaGpXRE1DbHZqMFh6Tk8tWE5tX0VfMVdVeVU5d04wN3pvTThoVklpSk4xbnh0cVphV3l5RWUzS3h1QjhYNjVoYVhwMDdCX2NRWkZ1REk5SkNkN2lieFQ2cmtrdUpDREd4eXNoaTJRQQ",
+      "topics": ["academic publishing", "AI detection", "research integrity"]
+    },
+    {
+      "title": "Why opinion on AI is so divided",
+      "summary": "MIT Technology Review examines why public and expert opinion on AI remains so sharply polarised, exploring the psychological, political, and economic factors that shape attitudes toward the technology. The piece draws on data and research to explain the gap between AI optimists and pessimists. It offers a nuanced analysis of how people's existing beliefs and experiences colour their perceptions of AI's risks and benefits.",
+      "url": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
+      "topics": ["AI ethics", "public opinion", "technology"]
+    },
+    {
+      "title": "Want to understand the current state of AI? Check out these charts.",
+      "summary": "MIT Technology Review presents a data-driven overview of the current AI landscape using key charts and statistics covering model capabilities, investment trends, and adoption patterns. The piece provides a snapshot of where AI development stands across research, commercial deployment, and public use. It serves as a useful reference for understanding the scale and trajectory of the industry.",
+      "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
+      "topics": ["AI", "market research", "large language models"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "The AI code wars are heating up [Paywalled]",
+      "summary": "The Verge examines the intensifying competition between OpenAI, Google, and Anthropic in the AI coding tools space, with each company vying for developer adoption.",
+      "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+      "topics": ["AI coding", "OpenAI", "competition"]
+    },
+    {
+      "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings [Paywalled]",
+      "summary": "Meta CEO Mark Zuckerberg is said to be developing a personalised AI model trained on his own communications and style to represent him in certain meetings and interactions.",
+      "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
+      "topics": ["Meta", "AI agents", "business"]
+    },
+    {
+      "title": "The AI Layoff Trap",
+      "summary": "An arXiv paper analyses how companies using AI-driven layoffs may fall into a trap of reduced organisational capability, with findings suggesting workforce reductions tied to AI adoption can undermine long-term productivity.",
+      "url": "https://arxiv.org/abs/2603.20617",
+      "topics": ["layoffs", "AI", "business"]
+    },
+    {
+      "title": "Xero & Anthropic fuel AI battle in finance software",
+      "summary": "Xero has partnered with Anthropic to integrate Claude-powered AI features into its accounting software, intensifying competition in the AI-enhanced financial tools market.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVmFYM1V6Nm9mX0NXclVqekVpLWFhUWk1QTJmS1BSaG9Mb2g5bTFUeXBIN1B4MXF1QzJwUWxsdXZmb19ac3pUSFYxd0VhT25lTms2UFZneWVIWWFDVE8xSVlYYllhSk1LaEFueW03N01LLWhYU2xpLXJfbDd1U3lMX0xwUWE",
+      "topics": ["AI", "business", "ChatGPT"]
+    },
+    {
+      "title": "Import AI 453: Breaking AI agents; MirrorCode; and ten views on gradual disempowerment",
+      "summary": "Jack Clark's Import AI newsletter covers new research on vulnerabilities in AI agents, the MirrorCode project, and ten perspectives on the risk of gradual human disempowerment by AI systems.",
+      "url": "https://importai.substack.com/p/import-ai-453-breaking-ai-agents",
+      "topics": ["AI safety", "AI agents", "AI ethics"]
+    },
+    {
+      "title": "Meta Is Warned That Facial Recognition Glasses Will Arm Sexual Predators",
+      "summary": "Civil society groups have warned Meta that integrating facial recognition into its Ray-Ban smart glasses could enable stalking and sexual predation by allowing strangers to be identified in public without consent.",
+      "url": "https://www.wired.com/story/meta-ray-ban-oakley-smart-glasses-no-face-recognition-civil-society/",
+      "topics": ["AI ethics", "technology ethics", "Meta"]
+    },
+    {
+      "title": "Sam Altman reportedly targeted in second attack [Paywalled]",
+      "summary": "OpenAI CEO Sam Altman was reportedly the target of a second violent incident, raising fresh concerns about the personal security risks facing high-profile technology executives.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
+      "topics": ["OpenAI", "AI", "business"]
+    },
+    {
+      "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
+      "summary": "The Algorithmic Bridge argues that growing societal frustration with AI's economic and social disruptions is likely to manifest in violent backlash, and explores why such responses will not produce constructive outcomes.",
+      "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
+      "topics": ["AI ethics", "technology ethics", "AI safety"]
+    },
+    {
+      "title": "Microsoft is testing OpenClaw-like AI bots for Copilot [Paywalled]",
+      "summary": "Microsoft is internally testing a new generation of agentic AI bots for its Copilot platform that mimic the autonomous, multi-step task completion style associated with OpenAI's operator-style agents.",
+      "url": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
+      "topics": ["AI agents", "Microsoft", "enterprise AI"]
+    },
+    {
+      "title": "The Internet's Most Powerful Archiving Tool Is in Peril",
+      "summary": "Wired reports that the Internet Archive faces an existential threat from ongoing legal and financial pressures, jeopardising the preservation of vast swathes of digital history including AI training datasets.",
+      "url": "https://www.wired.com/story/the-internets-most-powerful-archiving-tool-is-in-mortal-peril/",
+      "topics": ["copyright", "AI", "content policy"]
+    }
+  ],
+  "ethan_mollick": null
+}
