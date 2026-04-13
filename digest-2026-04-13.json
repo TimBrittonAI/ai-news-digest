@@ -1,0 +1,109 @@
+{
+  "top_stories": [
+    {
+      "title": "Sam Altman reportedly targeted in second attack",
+      "summary": "The Verge reports that OpenAI CEO Sam Altman was targeted in a second attack, following the earlier Molotov cocktail incident at his San Francisco home. The incident underscores escalating personal security threats against prominent AI executives. Details of the second attack and the investigation are still emerging.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
+      "topics": ["OpenAI", "AI Ethics", "Technology Ethics"]
+    },
+    {
+      "title": "AI plagiarised research that passed checks meant to spot it - then I recognised it was my own work",
+      "summary": "A researcher describes discovering that AI-generated content had plagiarised their own published work and then passed through plagiarism detection systems designed to catch such copying. The case raises serious concerns about research integrity, the reliability of AI detection tools, and the risks of AI-generated content in academic publishing. It adds weight to growing calls for stronger safeguards in scholarly publishing workflows.",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZzExa0h3dzY5RzlZNUNNeDQ4TGJMMTdtMDZqVjJSSXRZNHZ3dHcxQXQ4bVVJVzJWS3o2UGtTeHBVekYzRERySXZobF8tOVJsV0xIWjlMalE5RkVmRk1mUFdqQUVVTTNHQnY0RnYwWm5QX3BWkzUyb0g1ZHNTakpOQ0V0ODlpQ1BCUXhhLTFXZ21oX0hjYVBIaGpXRE1DbHZqMFh6Tk8tWE5tX0VfMVdVeVU5d04wN3pvTThoVklpSk4xbnh0cVphV3l5RWUzS3h1QjhYNjVoYVhwMDdCX2NRWkZ1REk5SkNkN2lieFQ2cmtrdUpDREd4eXNoaTJRQQ?oc=5",
+      "topics": ["academic publishing", "AI detection", "Research Integrity"]
+    },
+    {
+      "title": "The AI code wars are heating up",
+      "summary": "The Verge examines the intensifying competition between OpenAI, Google, and Anthropic in AI-assisted coding, with each company racing to capture developer loyalty through increasingly capable coding tools. The piece analyses the strategic stakes involved as coding becomes one of the most commercially significant AI application areas. It covers recent product moves and what the battle means for the broader software development industry.",
+      "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+      "topics": ["large language models", "AI business", "generative AI"]
+    },
+    {
+      "title": "Xero & Anthropic fuel AI battle in finance software",
+      "summary": "Xero has partnered with Anthropic to integrate Claude into its accounting and finance software platform, intensifying competition in AI-powered financial tools. The deal signals growing enterprise adoption of frontier AI models embedded directly into business applications. It reflects a broader trend of established software companies partnering with AI labs rather than building models in-house.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVmFYM1V6Nm9mX0NXclVqekVpLWFhUWk1QTJmS1BSaG9Mb2g5bTFUeXBIN1B4MXF1QzJwUWxsdXZmb19ac3pUSFYxd0VhT25lTms2UFZneWVIWWFDVE8xSVlYYllhSk1LaEFueW03N01LLWhYU2xpLXJfbDd1U3lMX0xwUWE?oc=5",
+      "topics": ["AI business", "large language models", "Anthropic"]
+    },
+    {
+      "title": "AI Agents Are Coming for Your Dating Life",
+      "summary": "Wired investigates the emerging wave of AI agents being deployed in online dating, from automated profile management to AI-conducted conversations with potential matches on behalf of users. The piece explores the ethical implications of AI proxies in intimate social contexts and how dating platforms are responding. It raises questions about authenticity, consent, and what happens when both sides of a conversation may be AI-mediated.",
+      "url": "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/",
+      "topics": ["AI agents", "AI Ethics", "User Interaction"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "The Internet's Most Powerful Archiving Tool Is in Peril",
+      "summary": "Wired reports on the precarious state of a major internet archiving tool, with implications for the long-term preservation of digital content and AI training data provenance.",
+      "url": "https://www.wired.com/story/the-internets-most-powerful-archiving-tool-is-in-mortal-peril/",
+      "topics": ["Content Policy", "Technology Ethics", "copyright"]
+    },
+    {
+      "title": "Import AI 453: Breaking AI agents; MirrorCode; and ten views on gradual disempowerment",
+      "summary": "Jack Clark's Import AI newsletter covers new research on breaking AI agent systems, the MirrorCode project, and a range of perspectives on the risk of gradual AI-driven disempowerment of human institutions.",
+      "url": "https://importai.substack.com/p/import-ai-453-breaking-ai-agents",
+      "topics": ["AI agents", "AI Safety", "large language models"]
+    },
+    {
+      "title": "Mistral: European AI — A playbook to own it",
+      "summary": "Mistral has published a strategic document outlining a European approach to AI development and sovereignty, positioning Europe as a credible alternative to US and Chinese AI dominance.",
+      "url": "https://europe.mistral.ai/",
+      "topics": ["AI business", "AI regulation", "generative AI"]
+    },
+    {
+      "title": "Tech valuations are back to pre-AI boom levels",
+      "summary": "Apollo's analysis finds that technology company valuations have retreated to levels seen before the generative AI investment surge, raising questions about AI's near-term economic returns.",
+      "url": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels",
+      "topics": ["AI business", "Business", "generative AI"]
+    },
+    {
+      "title": "Why AI Sucks at Front End",
+      "summary": "A developer argues that current AI coding tools perform poorly at front-end web development tasks due to the visual, contextual, and iterative nature of the work.",
+      "url": "https://nerdy.dev/why-ai-sucks-at-front-end",
+      "topics": ["AI tools", "large language models", "AI coding tools"]
+    },
+    {
+      "title": "How Grok 3 compares to ChatGPT, DeepSeek and other AI rivals",
+      "summary": "A comparative analysis benchmarks xAI's Grok 3 model against leading competitors including ChatGPT and DeepSeek across a range of tasks and capabilities.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY3d6ZDVsZkVCQUVtLUhNTWh3SXpBNkpVR0Q5dHcwUHV6VG5RTUVrV0toUHc3c29ZS21pYjVtSjdJYnl5NnprYi12ZHptTV9JcUlLdlNfQ3h0UkxrNGcxUTFIUjBOUU9mZEJiUW5CaW5UUndmWWpaNVJNMFRWRzgwRmpMS1dtSXM?oc=5",
+      "topics": ["large language models", "ChatGPT", "AI business"]
+    },
+    {
+      "title": "Physical AI deployments in manufacturing, logistics to hit 400,000 by 2030",
+      "summary": "New forecasts predict that deployments of physical AI systems in manufacturing and logistics sectors will reach 400,000 units by 2030, reflecting rapid industrial adoption.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN0N4b0JTakRqcjdoa1FReUFjZXRQc3ZQYU15bDh6Wm5seGpCZVktVkJUc1FLRTZiZHppZnhMbkt4SWZGaEFxX3lpMkVZdTBYeWU2MGRKZHhERm1pelEzZWR2OVlqcE95SFVlRHJ0cm13RWphX1NBeDdueXpLSEJnNjM0TE9sbzFyWnBBeFdyQlhfMGFXT0VNQ2Z1dTFTa3pCaDFoYndROW5oSU9FTjk5Vw?oc=5",
+      "topics": ["AI business", "AI agents", "Defense"]
+    },
+    {
+      "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
+      "summary": "The Algorithmic Bridge essay examines the social conditions driving violent reactions to AI and its leading figures, arguing that neither side of the conflict is likely to benefit from escalation.",
+      "url": "https://www.thealgorithmicbridge.com/p/ai-will-be-met-with-violence-and",
+      "topics": ["AI Ethics", "Technology Ethics", "AI Safety"]
+    },
+    {
+      "title": "Apple's accidental moat: How the 'AI Loser' may end up winning",
+      "summary": "An analysis argues that Apple's cautious, privacy-first approach to AI could become a durable competitive advantage as user trust and on-device processing gain strategic importance.",
+      "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+      "topics": ["AI business", "generative AI", "Technology Ethics"]
+    },
+    {
+      "title": "Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",
+      "summary": "Y Combinator-backed Twill.ai has launched a platform allowing developers to delegate software engineering tasks to cloud-based AI agents, which return completed pull requests.",
+      "url": "https://twill.ai",
+      "topics": ["AI agents", "AI tools", "AI business"]
+    }
+  ],
+  "ethan_mollick": null,
+  "all_urls": [
+    "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
+    "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZzExa0h3dzY5RzlZNUNNeDQ4TGJMMTdtMDZqVjJSSXRZNHZ3dHcxQXQ4bVVJVzJWS3o2UGtTeHBVekYzRERySXZobF8tOVJsV0xIWjlMalE5RkVmRk1mUFdqQUVVTTNHQnY0RnYwWm5QX3BWkzUyb0g1ZHNTakpOQ0V0ODlpQ1BCUXhhLTFXZ21oX0hjYVBIaGpXRE1DbHZqMFh6Tk8tWE5tX0VfMVdVeVU5d04wN3pvTThoVklpSk4xbnh0cVphV3l5RWUzS3h1QjhYNjVoYVhwMDdCX2NRWkZ1REk5SkNkN2lieFQ2cmtrdUpDREd4eXNoaTJRQQ?oc=5",
+    "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVmFYM1V6Nm9mX0NXclVqekVpLWFhUWk1QTJmS1BSaG9Mb2g5bTFUeXBIN1B4MXF1QzJwUWxsdXZmb19ac3pUSFYxd0VhT25lTms2UFZneWVIWWFDVE8xSVlYYllhSk1LaEFueW03N01LLWhYU2xpLXJfbDd1U3lMX0xwUWE?oc=5",
+    "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/",
+    "https://www.wired.com/story/the-internets-most-powerful-archiving-tool-is-in-mortal-peril/",
+    "https://importai.substack.com/p/import-ai-453-breaking-ai-agents",
+    "https://europe.mistral.ai/",
+    "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels",
+    "https://nerdy.dev/why-ai-sucks-at-front-end",
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY3d6ZDVsZkVCQUVtLUhNTWh3SXpBNkpVR0Q5dHcwUHV6VG5RTUVrV0toUHc3c29ZS21pYjVtSjdJYnl5NnprYi12ZHptTV9JcUlLdlNfQ3h0UkxrNGcxUTFIUjBOUU9mZEJiUW5CaW5UUndmWWpaNVJNMFRWRzgwRmpMS1dtSXM?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN0N4b0JTakRqcjdoa1FReUFjZXRQc3ZQYU15bDh6Wm5seGpCZVktVkJUc1FLRTZiZHppZnhMbkt4SWZGaEFxX3lpMkVZdTBYeWU2MGRKZHhERm1pelEzZWR2OVlqcE95SFVlRHJ0cm13RWphX1NBeDdueXpLSEJnNjM0TE9sbzFyWnBBeFdyQlhfMGF
