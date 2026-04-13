@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Another judge agrees: AI-Created art isn't copyrightable",
+      "summary": "A US federal judge has again ruled that artwork generated solely by AI cannot receive copyright protection, reinforcing the emerging judicial consensus that human authorship is a prerequisite for copyright eligibility. The ruling adds to a growing body of case law shaping how AI-generated outputs are treated under US intellectual property law.",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CaC1sWDdDbXlrQmd5QWgtNm9YNE9fQkpVcm5iN081c2JFSXM1VzVEMW1uU0U4NHpCRkk0akg5OWkwOGJBbjZIa29hMkhSeTBfQXFxcFphVUZ4dnpVTExYQkZn?oc=5",
+      "topics": ["AI copyright", "litigation", "authorship"]
+    },
+    {
+      "title": "China Issues Draft Regulations on AI Copyright Infringement",
+      "summary": "China has published draft regulations addressing copyright infringement in the context of AI-generated content, signalling a move toward formal legislative frameworks governing AI and intellectual property. The proposed rules could have significant implications for how AI developers and users manage copyright liability in one of the world's largest technology markets.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQjI5aUotVDhmbXBRNV9qNmlRTlhNTjZHNk1qVDk3czNrMXVXUmNmVHE1S1JyWUd2NFlpWHVfYm1zbHZmNnc5emNZWDNjLUFZNEUyS3lfQ1lYTTA4QkpLMlFXTHE3cnhCV29JR2NGOUZEUERxX1l0T004ZFFaUXFTeDFHd2ZhQkpJZUV4QW05T3J1WmZVVkowNWw3dUtLbUU?oc=5",
+      "topics": ["AI copyright", "regulation", "international IP"]
+    },
+    {
+      "title": "Delhi HC sets deadline for copyright office to register AI artwork",
+      "summary": "The Delhi High Court has directed India's Copyright Office to decide within eight weeks whether AI-generated artwork can be registered under Indian copyright law, arising from a case brought by a US researcher. The ruling marks a significant moment for AI authorship jurisprudence in India and has broader implications for global IP frameworks.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeVlMOXg4ak5IZ0VTa0FBT1dfY25lV09OLTh0MHBVMzM2T0NhQWZPWVhJblBHdUJHbkZLSlI3NEtGZEhBNXg4UFo3elZ2T2hLVTc2d0lMeEplblFYX2FqOXg3UHZWS0NSM0FJd1g4cGxCeTFyWEdqdUE4Slg3UzBxMDFNMUFtVHpYSmhlTjBWZHc5Uk8tWGJiSlBfYXBRSTVRamdndkVWUlA0VFhhWWFENmF3eFlYUm5nR21GTVg3ZUxoUllYQkpXa29ORjRXVFJw0gHWAUFVX3lxTE40VzZtR0NzQ192bzFjZ0xwd040UWtWQWt4R2hCV1BNb1VUallncWJoRlljbmlHM1c1SklBNEVOZDRBVXVxSVl0SWZtUC1NTmFDX0JHZnBqbXJzbEFFUjV0U1RmY1JQR2xUbkZwQ1V5VVVNWnd3b3JrNWRQa3F3SE5tRXRhMjcwZm94aDk5OTU1TEg4VXpPdTVBNk1VbE5HbWpOME0zVTJjMXBUOVZiMENUdk16b1Z2MFFvTXpCVTlFdFEydVpaMUZQc05EQkxZUW9nNVd6X2c?oc=5",
+      "topics": ["AI copyright", "authorship", "international IP"]
+    },
+    {
+      "title": "Anthropic's Legal Overhang: Piracy Trial Could Unravel Ethical AI Premium",
+      "summary": "An upcoming copyright infringement trial involving Anthropic over alleged use of pirated training data could undermine the company's positioning as an ethical AI developer. Legal analysts suggest the outcome may have wider ramifications for how AI companies' training data practices are scrutinised and valued by investors and partners.",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSY0h3NmJzd0dKYVJVNTZYNXlLUjVYVEFrV3JubWhia3hLZF9INDZOZndmYXljRFhkandLOWNJYmlUYkhOMzZFbHdKcl9faHNHaWVONXUxdlRPNllLVnfSAWNBVV95cUxPNERvT2VoYWFJTmVjanZrMTlQMjVIYURlZ0NYcXlaWWFLbDNKT25uLW1VY0FVTnRMMThwZGdEczBuSzE3aDlJeDVDNEE5VmVheUo0TXVLb0gtUWtPNFJkaF9pRHc?oc=5",
+      "topics": ["AI copyright", "litigation", "training data"]
+    },
+    {
+      "title": "OpenAI Freezes UK Stargate Project: Energy Costs and Copyright Rules Delay 8,000-GPU Plan",
+      "summary": "OpenAI has paused its UK Stargate data centre project, with copyright regulations cited alongside energy costs as contributing factors to the delay. The development highlights the growing tension between the UK's IP framework and efforts to attract large-scale AI infrastructure investment.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUW5Hc00xdktaTDh3ekFxVkk4QVVIN2NFN1FsbkVISGJlZVhyR3JHYkNHYy1aeGFET0NBMFBMXzhPaTFoYkJtSTg2cUt4WnZhQ3dqbHVYRkpQX2RzWFFoTUtWQXJnOEhCb3MzdjBJN0lKZlJLQUpiU2p2ZnIxSkhVSmJXdjJXZ2Rib3RfTVRXQTVnUzFVNWluYVQ0WWVMS1M2S2dNcFZOdzBsTWZiMS1Ed3RQcUFFMU1tdmc?oc=5",
+      "topics": ["AI copyright", "regulation", "AI infrastructure"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Tech's AI Coding Boom On Collision Course With Copyright",
+      "summary": "The rapid growth of AI coding tools is raising urgent copyright questions about the use of open-source and proprietary code in training data, with potential legal conflicts on the horizon for developers and vendors.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNHFfVUJlMld6X1ZuRm5NckhDV1IyOW4tblJyOVF2dXF6cEhoOVh6ZEh1M1p0MWJ5MTFKU2pwR1J4QTZqSnpOb2VSd2FTSHFWWXdjay12cGcwVnpDRXFiQWZSUEVNTmxBOWVoUkRPQzVVcEFVZ2hCcTB3b3ZGZTFzdWFXZ01HT2ZlRThBazU1MWFqcFRCbldHeC1PWmRaSExfYmJOTEdwM0dKSjdNOXBVQmlRdlBkYTRiVnBYellLMGlzR2FUX3VveWs0ZXdPLTdsOXI00gHYAUFVX3lxTE9qNzEycFA0QzRSUXdUNjJfNmk0RTBDSzF3eDVaX29fVzFPUjFSQ2hZUXplRmo2cFhkR1M3MWdtNnVLbHh6enBvekhwakRPVEk0aFhzRGVFemdOWFFxUk56SDdzbGZGUTlYZjlvN3lLOU9iVE5zV2ZsMzBPSFY4OE1CQUtFenQxclNUOEtSRFIwRlBWdHNpVXNSOFNvNTFtdTloRzJDZGpGejA5ZGl5ZmFqOWpBSmZURUhLVUktNkxBaE5laHhzeWxvN3IySUdvbk9WUzJ4b0hWbg?oc=5",
+      "topics": ["AI copyright", "training data", "software"]
+    },
+    {
+      "title": "Cox v. Sony Music Comes to Hollywood",
+      "summary": "The Cox v. Sony Music secondary copyright liability case is drawing attention from the entertainment industry as its implications for internet service providers and content platforms become clearer.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9IOUpZNHlDZHBIWVlVYWp0d3NBTThjTUZXRzlDTmo5SDhUQ25fMV82ZUdIQ0pYY24zUXFDUlVMNlB4QmtlNDdWVGhZWVhEd3k2bzFra2JTTEk3empCdW5xeUhfN0RlVWxPN2Z6R0ZhcUt1RU1K?oc=5",
+      "topics": ["copyright", "litigation", "digital platforms"]
+    },
+    {
+      "title": "AI And Human Authorship Requirement: Reflections From The US Position And Implications For Indian Copyright Law",
+      "summary": "A legal analysis examines how the US Copyright Office's human authorship requirement compares with India's copyright framework and what the Delhi HC proceedings may mean for AI-generated works globally.",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORmdCNk5hWGFLVnBzaUlvUEppZkEyMEUzcWxXYXctTlpLbTVIWkY0YnZLaFlQOTFna0hNazVXWkJTaDNSaFowTGNORExRQWNWVldDRW1ZdGpEOEZyRG42VzlXcU5fWmZUVEVPeDMwQXhUVWY0S1FmWFlnejFiVFQ0eDVjQzN0MnlsbHUySkNZeWdjcllqRmFiLVUxLXhxYjZ1SW5ZTkljSkktOWUweDVja3ZYUldoUVFHcVRBNEF3Tm4yd2NXUFY4Y09GaURKZ2M5bUtVVjgxVWJDZGxpT3d6aUVoeVZfVENVeWoyYVh30gH2AUFVX3lxTE4xajdhMS1BZGFlazBDSDhFM2hGRDd6T2VMTzRvTHByakhyTWpHdWN5NEJJOVVWOG5rcHVPTVZFejdRcVAtajZ2V2dHUmJSYTdrSWxHek9kc2pjQ1VYTG1CbmJvano1SXZMbUtCYUpOQkQwZmxuUFdmT29RMWpWTWtfQ2dVSE1nT0xWM0hDR1ZrNkhQOWtkQ2VZVURMVkJlc29WdHd6SFNDOWo3UHlCVDNNX2hVT3M2S2ZBT2JGSDBrTkl4M2szRlRZcXg0bE0zTVNoME1rRE5LUWFMRVYxenBNT3loc2VTdV9yV0Z5MVA5YUE5R0VNZw?oc=5",
+      "topics": ["AI copyright", "authorship", "international IP"]
+    },
+    {
+      "title": "[Courting Controversy] Now You See Me, Now You Don't: The Illusion of Authorship",
+      "summary": "A legal commentary explores the philosophical and doctrinal tensions around AI authorship, examining how courts and legislators are grappling with the concept of creative agency in the age of generative AI.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOci1obEZPSlFNRGpCamxUOTBjUDV4aGRpc2lUcUpZRFdnTWpqS3kxU05YYkc4US1vd21US200czh6dWMwRE9uclVKb083TTNPQXJaUUJUX01fNTRzdkU1LVhUcDFnZ2xRWUdDa0Z6U3RJU0I0VEg2ZGd5N2lXVkNuMnhPWndya0ZHdnJFeTE1SnZOQWRoTlVocEstdmVfTFVDNzJDRElUQjRZVkl0UkxsZA?oc=5",
+      "topics": ["AI copyright", "authorship", "commentary"]
+    },
+    {
+      "title": "Fordham 33 (Report 2): Top 5 Takeaways: Data Governance, Privacy, & Cybersecurity in an AI World",
+      "summary": "A report from the Fordham IP Conference's 33rd edition summarises key discussions on data governance, privacy, and cybersecurity as they intersect with AI and intellectual property law.",
+      "url": "http://ipkitten.blogspot.com/2026/04/fordham-33-report-3-top-5-takeaways.html",
+      "topics": ["AI copyright", "data governance", "IP policy"]
+    },
+    {
+      "title": "AI-Generated Animation: Implement Legal Regulations to Protect Copyright Holders",
+      "summary": "A commentary calls for new legal regulations specifically addressing AI-generated animation and the risks this technology poses to the rights of original copyright holders in the creative industries.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTnBVRDBUaXZlY0xFMW52UW9nVjhHcEN0dll2VDRZbjh6azRRVEU0TVd4bkFZVGxQUTZaTlpCbXNWbk9IRUU0V2JadlNuZWNrMkRNdW9FZkJwd181NlItMXpUTlN5MnphendmSy1iSVRLTUNPT3RIYmNiLU9Lb1lGa0x3?oc=5",
+      "topics": ["AI copyright", "regulation", "creative industries"]
+    },
+    {
+      "title": "Book Industry Unites to Back Authors",
+      "summary": "Publishers Weekly reports that major book industry organisations are joining forces to support authors' rights amid ongoing pressures from AI and other industry changes.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100160-book-industry-units-to-back-authors.html",
+      "topics": ["academic publishing", "authors' rights", "AI copyright"]
+    },
+    {
+      "title": "Fordham 33 (Report 1): Government Leader's Perspective on IP",
+      "summary": "The first report from the Fordham IP Conference 2026 covers government leaders' perspectives on the evolving intellectual property landscape, including AI-related challenges.",
+      "url": "http://ipkitten.blogspot.com/2026/04/fordham-23-report-1-government-leaders.html",
+      "topics": ["IP policy", "AI copyright", "regulation"]
+    },
+    {
+      "title": "Cox v Sony: Infringers gonna infringe – unless service providers encourage them",
+      "summary": "IPKat analyses the Cox v Sony secondary liability ruling and its significance for how internet service providers may be held responsible for facilitating copyright infringement by their users.",
+      "url": "http://ipkitten.blogspot.com/2026/04/cox-v-sony-infringers-gonna-infringe.html",
+      "topics": ["copyright", "litigation", "digital platforms"]
+    },
+    {
+      "title": "ExchangeWire on OpenAI Acquiring TBPN, Agentic AI in Publishing, and Netflix Price Hikes",
+      "summary": "ExchangeWire covers OpenAI's reported acquisition of The Big Phone Number and examines the growing role of agentic AI in publishing workflows and its implications for the media industry.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSG9iOW9YOWs0aVk3azZLaFQ2b3J2LTR0TVpwYVh4TFEyR201YndmaDdqMzQyVllNT095QVJFS1p2SU9SVGRHNjAxTWFtREdNa2k3MUN3Uzk0SThsV1p5WUlUaGUwZG1uRVpJOVVHQ0pRc0xnbHNUSEdJajk4ZDFDNi15YWR0U1JhekhLbG4yTUhZUWNseklkczQtdWFtZWM0d2sxQURCalJOOG1peW1BTEx0QzlQTVotMlYtZW1ZbTZDTHZzMWFwVFgyNA?oc=5",
+      "topics": ["academic publishing", "AI tools", "media industry"]
+    }
+  ]
+}
