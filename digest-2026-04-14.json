@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "The AI Revolution in Math Has Arrived",
+      "summary": "Quanta Magazine reports that AI systems are now making genuine contributions to mathematics, moving beyond pattern recognition to assist with and sometimes drive original proofs and discoveries. The piece examines how tools like AlphaProof and collaborations between mathematicians and AI are reshaping the field. Experts debate whether this marks a fundamental shift in how mathematics is done.",
+      "url": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
+      "topics": ["AI research", "mathematics", "generative AI"]
+    },
+    {
+      "title": "Stanford Report Highlights Growing Disconnect Between AI Insiders and Everyone Else",
+      "summary": "A new Stanford report finds a widening gap between AI researchers and industry insiders — who tend to be optimistic about AI's trajectory — and the broader public, which remains far more cautious or sceptical. The disconnect spans views on safety, economic impact, and societal readiness. The findings come as the AI Index documents both rapid capability growth and mounting public concern.",
+      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+      "topics": ["AI safety", "public opinion", "AI ethics"]
+    },
+    {
+      "title": "6 Ways Agentic AI Will Reshape the Enterprise Software Market",
+      "summary": "A new analysis outlines how agentic AI — systems capable of taking multi-step autonomous actions — is poised to fundamentally alter the enterprise software landscape, potentially displacing traditional SaaS business models. The piece identifies shifts in how software is purchased, deployed, and valued as AI agents begin to handle tasks previously requiring dedicated applications. Enterprise vendors are already repositioning their offerings in response.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbzZBenBJckxSRzU5U1AzR09TbFB2WG0zbW93NWl5VGpPM2kzeXVfNk9ydTI2WkJSTUtGcFVUclJXbEZmTzhpN1lVWmV1Q0QyVzFvb0g4X0hTelk0T0Fqd2xXdzVNc2l6MlVKNkNLYXFpQXd3bFlSeThvMEFjekFadkdpUHhhOWd1YlA0UGdQRExreURLSS0wdjJPZl9Fd042U2p6LQ?oc=5",
+      "topics": ["agentic AI", "enterprise software", "business"]
+    },
+    {
+      "title": "How PR Teams Are Using AI Synthetic Focus Groups to Research and Test Messages",
+      "summary": "Communications and PR professionals are increasingly turning to AI-generated synthetic focus groups to pre-test messaging and creative ideas before investing in real-world research. The approach uses large language models to simulate audience responses across demographics, compressing research timelines and cutting costs. The trend raises questions about the accuracy and bias of AI-simulated consumer feedback.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ1VObG1HaGtoVGo3dUl0Z2V6UmJuSzlxOHZSSTJaa2lxT1BoQ3hES294SV9fVzFWaFZWVU1MbEtVaDJ1ZEZNbHBDeWFmMDFpU2h3QkozUS1vOEY0R2JxcEQ3bFAzaUpIdlF0a0dXQmd3YmxlR2hDdnBOQUJPTGFXLU92dlJFcmt5LXRWa3ZxYk9OYzNjclE1R0RIZjl1MHN1dk96bDd3Nm1VbUZnSGtqUjNSYnctd3RjdzV1MEhyUGU?oc=5",
+      "topics": ["advertising", "market research", "generative AI"]
+    },
+    {
+      "title": "SAP Business AI: Release Highlights Q1 2026",
+      "summary": "SAP has published its Q1 2026 Business AI release highlights, detailing a wave of AI-powered updates across its enterprise suite including enhanced AI agents, expanded Joule copilot capabilities, and new automation features embedded in finance, HR, and supply chain modules. The release reflects SAP's broader push to embed generative AI natively across its core business applications. The update positions SAP as a major player in the enterprise AI deployment race.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FbXdWNFhGX09WcDBkRTdkV0ZQdFF5YXcydmNLVmttUUNwWUtjUHZHbk1jT04zWHN2MzlwcGRuZUYwbVB4Y01ybHVPTjBkUUo1NU41X2lncHNnelRFZ1BQZ0taT05rWHZhZ0t6dFhuU3lXRmNhRm93Z3hXalA?oc=5",
+      "topics": ["enterprise AI", "generative AI", "business"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "The Tech Jobs Bust Is Real. Don't Blame AI (Yet)",
+      "summary": "The Economist examines the ongoing contraction in tech sector employment, arguing the current downturn is driven more by post-pandemic correction and rising interest rates than by AI-driven automation — though the long-term displacement risk remains an open question.",
+      "url": "https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet",
+      "topics": ["AI and employment", "technology industry", "labour market"]
+    },
+    {
+      "title": "The Human Cost of 10x: How AI Is Physically Breaking Senior Engineers",
+      "summary": "An essay argues that the pressure on senior engineers to use AI tools to dramatically multiply their output is leading to burnout, physical strain, and a degradation of craft knowledge across the profession.",
+      "url": "https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically",
+      "topics": ["AI and employment", "technology ethics", "software engineering"]
+    },
+    {
+      "title": "An AI Vibe Coding Horror Story",
+      "summary": "A developer recounts a cautionary tale of relying too heavily on AI-assisted 'vibe coding', detailing how accumulated errors and lack of oversight led to a project becoming unmaintainable.",
+      "url": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
+      "topics": ["AI coding tools", "software development", "generative AI"]
+    },
+    {
+      "title": "AI Influencers Are 'Everywhere' at Coachella",
+      "summary": "The Verge reports that AI-generated influencer personas were prominently featured at Coachella 2026, with brands using synthetic digital personalities for sponsored content and social media activations at the festival.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
+      "topics": ["AI video", "advertising", "generative AI"]
+    },
+    {
+      "title": "You Can Soon Buy a $4,370 Humanoid Robot on AliExpress",
+      "summary": "Wired reports that Unitree's R1 humanoid robot is set to go on sale via AliExpress at $4,370, marking a significant step toward consumer-accessible humanoid robotics at relatively low price points.",
+      "url": "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/",
+      "topics": ["robotics", "consumer AI", "physical AI"]
+    },
+    {
+      "title": "Celonis Expands Oracle Cloud Tie-Up for Enterprise AI",
+      "summary": "Process mining firm Celonis has deepened its partnership with Oracle Cloud, expanding integrations to deliver AI-powered process intelligence and automation capabilities to joint enterprise customers.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVnR4d0FucDJzRUVWOU84Q0VLU195dThxTE1ST0JRdDhCS0p4VjVRbnhaTDdYbW9rXzNmOXZsU1dtMGpxVjlhUE9jMXBiVWphWFgzanBxTk9XVlJJdlUyZ0pyUzMtSTNVbkZFNnJ1Y2R3Zi11MXVxX1RkQVR4Q3BPWHVjVjNwU2Rn?oc=5",
+      "topics": ["enterprise AI", "business", "cloud computing"]
+    },
+    {
+      "title": "GAIA – Open-Source Framework for Building AI Agents That Run on Local Hardware",
+      "summary": "GAIA is a newly released open-source framework designed to enable developers to build and run AI agents locally, without reliance on cloud infrastructure, targeting privacy-sensitive and edge deployment use cases.",
+      "url": "https://amd-gaia.ai/docs",
+      "topics": ["agentic AI", "open source", "large language models"]
+    },
+    {
+      "title": "Silicon Valley Is Spending Millions to Stop One of Its Own",
+      "summary": "Wired profiles New York State Representative Alex Bores and the tech industry lobbying effort to oppose his AI regulation legislation, illustrating the growing tension between state-level AI governance attempts and Silicon Valley interests.",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/",
+      "topics": ["AI regulation", "AI ethics", "technology policy"]
+    },
+    {
+      "title": "AI Could Be the End of the Digital Wave, Not the Next Big Thing",
+      "summary": "A blog post drawing on Carlota Perez's technology wave theory argues that AI may represent the maturation and conclusion of the digital revolution rather than the beginning of an entirely new technological era.",
+      "url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
+      "topics": ["AI futures", "technology economics", "innovation"]
+    },
+    {
+      "title": "Physical AI Deployments in Manufacturing and Logistics to Hit 400,000 by 2030",
+      "summary": "New research forecasts that deployments of physical AI systems — including robots and autonomous machines — in manufacturing and logistics will reach 400,000 globally by 2030, driven by labour shortages and falling hardware costs.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN0N4b0JTakRqcjdoa1FReUFjZXRQc3ZQYU15bDh6Wm5seGpCZVktVkJUc1FLRTZiZHppZnhMbkt4SWZGaEFxX3lpMkVZdTBYeWU2MGRKZHhERm1pelEzZWR2OVlqcE95SFVlRHJ0cm13RWphX1NBeDdueXpLSEJnNjM0TE9sbzFyWnBBeFdyQlhfMGFXT0VNQ2Z1dTFTa3pCaDFoYndROW5oSU9FTjk5Vw?oc=5",
+      "topics": ["physical AI", "robotics", "manufacturing"]
+    }
+  ],
+  "ethan_mollick": null
+}
