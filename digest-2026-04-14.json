@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "The AI Revolution in Math Has Arrived",
+      "summary": "Quanta Magazine reports that AI systems are now making genuine contributions to mathematical research, moving beyond pattern recognition to assist with and even drive new proofs and discoveries. The piece examines how tools built on large language models are being adopted by professional mathematicians and what this shift means for the field. Experts debate whether AI is a powerful assistant or something more transformative.",
+      "url": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
+      "topics": ["AI research", "mathematics", "large language models"]
+    },
+    {
+      "title": "Stanford Report Highlights Growing Disconnect Between AI Insiders and Everyone Else",
+      "summary": "A new Stanford report finds a widening gap between the views of AI researchers and industry insiders versus the general public on the risks, benefits, and trajectory of AI. TechCrunch reports that insiders tend to be significantly more optimistic about AI's near-term potential while public skepticism is growing. The findings raise questions about how AI policy and communication is being shaped.",
+      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+      "topics": ["AI public opinion", "AI research", "technology ethics"]
+    },
+    {
+      "title": "How PR Teams Are Using AI Synthetic Focus Groups to Research and Test Messages",
+      "summary": "PR and communications teams are increasingly deploying AI-generated synthetic focus groups to test messaging and creative ideas before launch, bypassing traditional consumer research methods. The approach uses large language models to simulate audience reactions, raising questions about the reliability and representativeness of such outputs. The trend reflects broader adoption of generative AI in marketing and advertising workflows.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ1VObG1HaGtoVGo3dUl0Z2V6UmJuSzlxOHZSSTJaa2lxT1BoQ3hES294SV9fVzFWaFZWVU1MbEtVaDJ1ZEZNbHBDeWFmMDFpU2h3QkozUS1vOEY0R2JxcEQ3bFAzaUpIdlF0a0dXQmd3YmxlR2hDdnBOQUJPTGFXLU92dlJFcmt5LXRWa3ZxYk9OYzNjclE1R0RIZjl1MHN1dk96bDd3Nm1VbUZnSGtqUjNSYnctd3RjdzV1MEhyUGU?oc=5",
+      "topics": ["market research", "generative AI", "advertising"]
+    },
+    {
+      "title": "The Tech Jobs Bust Is Real. Don't Blame AI (Yet)",
+      "summary": "The Economist examines the ongoing contraction in tech sector employment, arguing that while AI is frequently cited as a cause, the data does not yet support attributing widespread job losses to automation. The piece points instead to post-pandemic correction, rising interest rates, and over-hiring during the boom years as primary drivers. However, economists warn the AI impact on employment may still materialise in coming years.",
+      "url": "https://economist.com/finance-and-economics/2026/04/13/the-tech-jobs-bust-is-real-dont-blame-ai-yet",
+      "topics": ["AI and employment", "technology economy", "layoffs"]
+    },
+    {
+      "title": "AI Agents Are Coming for Your Dating Life",
+      "summary": "Wired reports that AI agent startups are now targeting online dating, with tools that autonomously manage profiles, initiate conversations, and screen matches on behalf of users. The piece raises significant questions about authenticity, consent, and what it means for human connection when the initial stages of courtship are delegated to software. Several apps are already live or in beta with these features.",
+      "url": "https://www.wired.com/story/ai-agents-are-coming-for-your-dating-life-next/",
+      "topics": ["AI agents", "AI ethics", "user interaction"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "AI Influencers Are 'Everywhere' at Coachella",
+      "summary": "Virtual AI influencers are reported to have had a significant presence at Coachella 2026, signalling growing mainstream normalisation of synthetic personalities in live cultural events.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
+      "topics": ["AI influencers", "generative AI", "advertising"]
+    },
+    {
+      "title": "Daniel Moreno-Gama Faces Federal Charges for Attacking Sam Altman's Home and OpenAI HQ",
+      "summary": "A man faces federal charges after allegedly targeting both Sam Altman's residence and OpenAI's San Francisco headquarters in separate incidents, according to The Verge.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
+      "topics": ["OpenAI", "AI safety", "technology ethics"]
+    },
+    {
+      "title": "You Can Soon Buy a $4,370 Humanoid Robot on AliExpress",
+      "summary": "Unitree's R1 humanoid robot is now listed for consumer purchase on AliExpress at $4,370, marking a significant step toward affordable consumer robotics.",
+      "url": "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/",
+      "topics": ["robotics", "AI hardware", "consumer technology"]
+    },
+    {
+      "title": "The Human Cost of 10x: How AI Is Physically Breaking Senior Engineers",
+      "summary": "A tech industry essay argues that pressure on senior engineers to dramatically boost output using AI tools is leading to burnout and physical health consequences.",
+      "url": "https://techtrenches.dev/p/the-human-cost-of-10x-how-ai-is-physically",
+      "topics": ["AI and employment", "technology ethics", "AI productivity"]
+    },
+    {
+      "title": "Celonis Expands Oracle Cloud Tie-Up for Enterprise AI",
+      "summary": "Process mining company Celonis has deepened its integration with Oracle Cloud to deliver expanded AI-powered workflow automation capabilities for enterprise customers.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVnR4d0FucDJzRUVWOU84Q0VLU195dThxTE1ST0JRdDhCS0p4VjVRbnhaTDdYbW9rXzNmOXZsU1dtMGpxVjlhUE9jMXBiVWphWFgzanBxTk9XVlJJdlUyZ0pyUzMtSTNVbkZFNnJ1Y2R3Zi11MXVxX1RkQVR4Q3BPWHVjVjNwU2Rn?oc=5",
+      "topics": ["enterprise AI", "business", "AI tools"]
+    },
+    {
+      "title": "Physical AI Deployments in Manufacturing and Logistics to Hit 400,000 by 2030",
+      "summary": "New research forecasts that physical AI systems deployed in manufacturing and logistics settings will reach 400,000 units globally by 2030, driven by automation demand.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzNRTHFxQ0NHWDJfS0k5clBVOHZXWWpXNnR1OVJFZFVQTGFPaXd0NThFbGNYWkNhZnlqUnZyelRXY0RrbS1Zb3NjLTl2cDVXTHAzcWVpMHEtc0NuS0NwMUVZaUV4ajZPQ1dwQ2xFa2UxaXl3ZXNVUzN2M1NmaHNCQWllazZkaDV3eF9HbXBPckF4WERaV01fLVEwUkpXQVc0dXlQcDZJdWRhbU03TEY1UA?oc=5",
+      "topics": ["robotics", "AI in manufacturing", "physical AI"]
+    },
+    {
+      "title": "As Physical AI Market Grows, New Research Identifies a Fundamental Safety Gap",
+      "summary": "New research highlighted in the National Law Review warns that rapid growth in physical AI deployments is outpacing the development of adequate safety standards and regulatory frameworks.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzNRTHFxQ0NHWDJfS0k5clBVOHZXWWpXNnR1OVJFZFVQTGFPaXd0NThFbGNYWkNhZnlqUnZyelRXY0RrbS1Zb3NjLTl2cDVXTHAzcWVpMHEtc0NuS0NwMUVZaUV4ajZPQ1dwQ2xFa2UxaXl3ZXNVUzN2M1NmaHNCQWllazZkaDV3eF9HbXBPckF4WERaV01fLVEwUkpXQVc0dXlQcDZJdWRhbU03TEY1UA?oc=5",
+      "topics": ["AI safety", "AI regulation", "physical AI"]
+    },
+    {
+      "title": "You Have No Choice in Reading This Article—Maybe",
+      "summary": "MIT Technology Review profiles neuroscientist Uri Maoz and his research into whether human free will exists, with implications for how AI decision-making systems should be ethically evaluated.",
+      "url": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/",
+      "topics": ["AI ethics", "technology ethics", "cognitive science"]
+    },
+    {
+      "title": "Legal AI Software Market Set for Explosive Growth",
+      "summary": "A new market report projects rapid expansion in the legal AI software sector, with companies like Neota Logic, LegalZoom, and DISCO positioned as key players driving adoption.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmE0aFF3TXpmOVVDUU9ybkQxR2xSYTR2NlJtSEs3ekdZdjR1aHc3ZWpyNjhTYWM3NnRxQWNXWWJndmE3M0lPR1J4OWhDTFFYMlpGNzE2c004TE83WlpjQ1g4TFpOdU10NVFCa3JyWVlVeElhanM3ZUtCdUwyWmx6VU1OUXRLMlhGcUo5dDVUdHNRNmhfRElaQVZFY1hlUQ?oc=5",
+      "topics": ["legal AI", "AI market", "business"]
+    },
+    {
+      "title": "AI Could Be the End of the Digital Wave, Not the Next Big Thing",
+      "summary": "A futures research blog argues that AI may represent the culmination of the current digital technology wave rather than the beginning of a new one, drawing on economist Carlota Perez's theory of technological revolutions.",
+      "url": "https://thenextwavefutures.wordpress.com/2026/04/07/ai-end-digital-wave-technology-innovation-perez/",
+      "topics": ["AI futures", "technology economics", "AI research"]
+    }
+  ],
+  "ethan_mollick": null
+}
