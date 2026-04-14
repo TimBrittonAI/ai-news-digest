@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "China Issues Draft Regulations on AI Copyright Infringement",
+      "summary": "China has issued draft regulations addressing copyright infringement by AI systems, marking a significant regulatory development in how the country intends to govern AI-generated content and liability. The move signals a growing international effort to establish formal legal frameworks around AI and intellectual property. Details of the draft's scope and enforcement mechanisms are under review.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQjI5aUotVDhmbXBRNV9qNmlRTlhNTjZHNk1qVDk3czNrMXVXUmNmVHE1S1JyWUd2NFlpWHVfYm1zbHZmNnc5emNZWDNjLUFZNEUyS3lfQ1lYTTA4QkpLMlFXTHE3cnhCV29JR2NGOUZEUERxX1l0T004ZFFaUXFTeDFHd2ZhQkpJZUV4QW05T3J1WmZVVkowNWw3dUtLbUU?oc=5",
+      "topics": ["AI copyright", "regulation", "international law"]
+    },
+    {
+      "title": "Delhi HC Examines Copyright Eligibility of AI-Generated Art in Landmark DABUS Case",
+      "summary": "The Delhi High Court is examining whether AI-generated art qualifies for copyright protection under Indian law, in a case linked to the DABUS AI authorship controversy. The court has given the copyright office eight weeks to decide on the matter. The ruling could have significant implications for how India and other jurisdictions treat AI authorship.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOci1obEZPSlFNRGpCamxUOTBjUDV4aGRpc2lUcUpZRFdnTWpqS3kxU05YYkc4US1vd21US200czh6dWMwRE9uclVKb083TTNPQXJaUUJUX01fNTRzdkU1LVhUcDFnZ2xRWUdDa0Z6U3RJU0I0VEg2ZGd5N2lXVkNuMnhPWndya0ZHdnJFeTE1SnZOQWRoTlVocEstdmVfTFVDNzJDRElUQjRZVkl0UkxsZA?oc=5",
+      "topics": ["AI copyright", "litigation", "international law"]
+    },
+    {
+      "title": "Anthropic's Legal Overhang: Piracy Trial Could Unravel Ethical AI Premium",
+      "summary": "Anthropic faces significant legal exposure as its upcoming piracy trial could undermine its positioning as an ethically minded AI company. The case centres on alleged use of copyrighted material in training data, with potential consequences for how the company is valued and perceived. Analysts suggest an adverse ruling could have broad implications for the AI industry's claims around responsible development.",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSY0h3NmJzd0dKYVJVNTZYNXlLUjVYVEFrV3JubWhia3hLZF9INDZOZndmYXljRFhkandLOWNJYmlUYkhOMzZFbHdKcl9faHNHaWVONXUxdlRPNllLVnfSAWNBVV95cUxPNERvT2VoYWFJTmVjanZrMTlQMjVIYURlZ0NYcXlaWWFLbDNKT25uLW1VY0FVTnRMMThwZGdEczBuSzE3aDlJeDVDNEE5VmVheUo4TXVLb0gtUWtPNFJkaF9pRHc?oc=5",
+      "topics": ["AI copyright", "litigation", "training data"]
+    },
+    {
+      "title": "Getty is suing a popular AI image generator for copyright infringement",
+      "summary": "Getty Images has filed a copyright infringement lawsuit against a popular AI image generator, alleging unauthorised use of its licensed photographs to train the AI model. The case is among a growing number of high-profile legal actions by rights holders against AI companies over training data practices. The outcome could set important precedents for image licensing and AI development.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQUlzZXprMWJiMmJlYkpZb3pIYllwMUZxM3FEYks4TGduVmtkdzBpc0RFTF9UbjNQMG13SGswcGo2WV9lNk9Kd0w1M29Pc29IeHdqT1JfaC1qbXBJOV9PSEswOHlLbHBmaWZwQjJiUWF1eXB0QjlWR0FPT2RLUnBYS3VSUlI5aWV0NEhN?oc=5",
+      "topics": ["AI copyright", "litigation", "image rights"]
+    },
+    {
+      "title": "Tech's AI Coding Boom On Collision Course With Copyright",
+      "summary": "The rapid growth of AI coding tools is raising serious copyright questions, as these systems are trained on vast repositories of publicly available code that may be subject to open-source licences and copyright protections. Legal experts warn that the industry is heading toward significant disputes over the use of developer-authored code in AI training. The piece examines the potential legal and commercial consequences for major AI coding platforms.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNHFfVUJlMld6X1ZuRm5NckhDV1IyOW4tblJyOVF2dXF6cEhoOVh6ZEh1M1p0MWJ5MTFKU2pwR1J4QTZqSnpOb2VSd2FTSHFWWXdjay12cGcwVnpDRXFiQWZSUEVNTmxBOWVoUkRPQzVVcEFVZ2hCcTB3b3ZGZTFzdWFXZ01HT2ZlRThBazU1MWFqcFRCbldHeC1PWmRaSExfYmJOTEdwM0dKSjdNOXBVQmlRdlBkYTRiVnBYellLMGlzR2FUX3VveWs0ZXdPLTdsOXI00gHYAUFVX3lxTE9qNzEycFA0QzRSUXdUNjJfNmk0RTBDSzF3eDVaX29fVzFPUjFSQ2hZUXplRmo2cFhkR1M3MWdtNnVLbHh6enBvekhwakRPVEk0aFhzRGVFemdOWFFxUk56SDdzbGZGUTlYZjlvN3lLOU9iVE5zV2ZsMzBPSFY4OE1CQUtFenQxclNUOEtSRFIwRlBWdHNpVXNSOFNvNTFtdTloRzJDZGpGejA5ZGl5ZmFqOWpBSmZURUhLVUktNkxBaE5laHhzeWxvN3IySUdvbk9WUzJ4b0hWbg?oc=5",
+      "topics": ["AI copyright", "training data", "software"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "AI And Human Authorship Requirement: Reflections From The US Position And Implications For Indian Copyright Law",
+      "summary": "An analysis of how the US stance on AI authorship — requiring human creative input for copyright eligibility — may influence the development of Indian copyright law amid growing pressure from AI-generated works.",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORmdCNk5hWGFLVnBzaUlvUEppZkEyMEUzcWxXYXctTlpLbTVIWkY0YnZLaFlQOTFna0hNazVXWkJTaDNSaFowTGNORExRQWNWVldDRW1ZdGpEOEZyRG42VzlXcU5fWmZUVEVPeDMwQXhUVWY0S1FmWFlnejFiVFQ0eDVjQzN0MnlsbHUySkNZeWdjcllqRmFiLVUxLXhxYjZ1SW5ZTkljSkktOWUweDVja3ZYUldoUVFHcVRBNEF3Tm4yd2NXUFY4Y09GaURKZ2M5bUtVVjgxVWJDZGxpT3d6aUVoeVZfVENVeWoyYVh30gH2AUFVX3lxTE4xajdhMS1BZGFlazBDSDhFM2hGRDd6T2VMTzRvTHByakhyTWpHdWN5NEJJOVVWOG5rcHVPTVZFejdRcVAtajZ2V2dHUmJSYTdrSWxHek9kc2pjQ1VYTG1CbmJvano1SXZMbUtCYUpOQkQwZmxuUFdmT29RMWpWTWtfQ2dVSE1nT0xWM0hDR1ZrNkhQOWtkQ2VZVURMVkJlc29WdHd6SFNDOWo3UHlCTTNNX2hVT3M2S2ZBT2JGSDBrTkl4M2szRlRZcXg0bE0zTVNoME1rRE5LUWFMRVYxenBNT3loc2VTdV9yV0Z5MVA5YUE5R0VNZw?oc=5",
+      "topics": ["AI copyright", "international law"]
+    },
+    {
+      "title": "[Courting Controversy] Now You See Me, Now You Don't: The Illusion of Authorship",
+      "summary": "A legal commentary examining the philosophical and practical tensions in attributing authorship to AI systems, and what this means for copyright doctrine.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNc1RmcVlhWkJmWHJQUVJYY3kxeW40TDlrTW9CbEtDSHNoN0RpaE1KMTM1aUpERGF2RUZrcGFxa3dDZ1lMTnhyT3FSZE9yaWJUZVJpM2tFTERjcEMtOUg3NmxIRXNwdERDT2tMeUhhbHRoMXRGVzZGbW80aDZlUmZGMnRXN0VhRVZOSXpJOGxKcV9JTlRMeE1uQkpwQTRDVWRGQ1ZzVDNrVmNFR0trR2hQTNIBvgFBVV95cUxOelAtT1JnYU9CSjVkMkgwR1NtY1g5WDI5SzBmUW1FMkhwaEpQNzhld3FoVEw0Zk8xN3VZdXdqOGI4T05GQ2pKV3FaTXAxMzMxRGVCSHJMU0I4bExRSFJ2LWF2RzNlbHltZWJOYUlIWW42MnZmaUFQQkt3bFl6VWlMVXFGMmJ0QklTSUVyTWtEU1JCVElybUxjd0xsNjBDaGkxU1JFTE5QVmNaYjRDcmRKQlZqTXAtSWUzRGZvQ3p3?oc=5",
+      "topics": ["AI copyright", "authorship"]
+    },
+    {
+      "title": "India AI Copyright Case: Delhi Court Review Impacts Global IP Value",
+      "summary": "Analysis of how the Delhi High Court's review of AI-generated art copyright eligibility could affect the global valuation of intellectual property in the age of generative AI.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPc1RiOG1Iem44VEdNSlZSVGM1RmFWeExxRTN2WVFjbmhkcjF3MTJmQnZZVzNNQnBZZ3JRVnZCZ01RWUdsVVR1OHRfQm5KRUlVbWFzenlrXzBxcG5EblI2dURWNVc3QnI4endyRm5Yb1BFRVhGN2lET3NWdDFiUzMzQldJdjVudVZ3R25NYThLLWpTdTVnVGV4am9taFg1azMzRzRFNm1YUDB0Ym9MMEtDOGJCMlVEWUpKSl92SHdJSnc1NGZjNWswVVd4ajFuUS1DZmUyako1TQ?oc=5",
+      "topics": ["AI copyright", "international law", "IP valuation"]
+    },
+    {
+      "title": "Fordham 33 (Report 2): Top 5 Takeaways: Data Governance, Privacy, & Cybersecurity in an AI World",
+      "summary": "Key takeaways from the Fordham IP Conference panel on data governance, privacy, and cybersecurity as they intersect with AI development and intellectual property frameworks.",
+      "url": "http://ipkitten.blogspot.com/2026/04/fordham-33-report-3-top-5-takeaways.html",
+      "topics": ["AI copyright", "data governance", "privacy"]
+    },
+    {
+      "title": "Fordham 33 (Report 1): Government Leader's Perspective on IP",
+      "summary": "Government officials at the Fordham IP Conference shared their perspectives on evolving intellectual property policy in the context of AI and global trade.",
+      "url": "http://ipkitten.blogspot.com/2026/04/fordham-23-report-1-government-leaders.html",
+      "topics": ["IP policy", "regulation", "AI copyright"]
+    },
+    {
+      "title": "Book Industry Unites to Back Authors",
+      "summary": "Publishers Weekly reports that multiple sectors of the book industry have united to support authors' rights, amid ongoing pressures from AI and market changes.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100160-book-industry-units-to-back-authors.html",
+      "topics": ["academic publishing", "authors' rights", "AI copyright"]
+    },
+    {
+      "title": "AI-Generated Animation: Implement Legal Regulations to Protect Copyright Holders",
+      "summary": "A commentary calling for formal legal regulations to protect copyright holders from the unauthorised use of their work in AI-generated animation.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTnBVRDBUaXZlY0xFMW52UW9nVjhHcEN0dll2VDRZbjh6azRRVEU0TVd4bkFZVGxQUTZaTlpCbXNWbk9IRUU0V2JadlNuZWNrMkRNdW9FZkJwd181NlItMXpUTlN5MnphendmSy1iSVRLTUNPT3RIYmNiLU9Lb1lGa0x3?oc=5",
+      "topics": ["AI copyright", "regulation", "creative industries"]
+    },
+    {
+      "title": "Guest Post — From Open Access to Preprints: Are We Repeating the Same Mistakes in Scholarly Publishing?",
+      "summary": "A guest post on The Scholarly Kitchen argues that the scholarly publishing industry risks repeating the structural mistakes of the open access movement as it navigates the rise of preprints.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/04/14/guest-post-from-open-access-to-preprints-are-we-repeating-the-same-mistakes-in-scholarly-publishing/",
+      "topics": ["academic publishing", "open access"]
+    },
+    {
+      "title": "ExchangeWire on OpenAI Acquiring TBPN, Agentic AI in Publishing, and Netflix Price Hikes",
+      "summary": "ExchangeWire covers OpenAI's acquisition of The Big Phone Number, the growth of agentic AI in publishing workflows, and broader market developments including Netflix pricing.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSG9iOW9YOWs0aVk3azZLaFQ2b3J2LTR0TVpwYVh4TFEyR201YndmaDdqMzQyVllNT095QVJFS1p2SU9SVGRHNjAxTWFtREdNa2k3MUN3Uzk0SThsV1p5WUlUaGUwZG1uRVpJOVVHQ0pRc0xnbHNUSEdJajk4ZDFDNi15YWR0U1JhekhLbG4yTUhZUWNseklkczQtdWFtZWM0d2sxQURCalJOOG1peW1BTEx0QzlQTVotMlYtZW1ZbTZDTHZzMWFwVFgyNA?oc=5",
+      "topics": ["academic publishing", "AI tools", "media"]
+    },
+    {
+      "title": "'Ahead of the curve': Sheppard expands AI industry team",
+      "summary": "Law firm Sheppard Mullin is expanding its AI-focused legal team, signalling growing demand for specialist counsel as AI intellectual property disputes multiply.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ0RXdUhQUnlyOU8wSmxrVGlkTEdrNng4WTZiYm9yQlhNMUk5LW5qUzVjaGh2c09fcnppVlJ4aVJyUDFkX3pTZlNCLUJpTjRMQ1BBc04zVUFQVE9STTVpb3VJR3MxOXlGUXNpak5qSTlHNlZwd1JLRy0yNmI4Rzc3ZFVSN0FPektsSG9fbURYMTg2V2ZQZFRZd1E0aXBFNXRpdzh4WU00ZklHM1RyNW42MHF4M0VPSGIz?oc=5",
+      "topics": ["AI copyright", "litigation", "legal services"]
+    }
+  ]
+}
