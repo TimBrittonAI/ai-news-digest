@@ -1,0 +1,73 @@
+{
+  "top_stories": [
+    {
+      "title": "Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed",
+      "summary": "Anthropic has come out in opposition to an AI liability bill that OpenAI previously backed, marking a notable split between two of the leading AI labs on a significant piece of legislation. The bill is described as 'extreme' in its liability provisions. The divergence highlights deepening disagreements within the AI industry over how legal accountability for AI systems should be structured.",
+      "url": "https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/",
+      "topics": ["AI regulation", "AI safety", "legal"]
+    },
+    {
+      "title": "Turn your best AI prompts into one-click tools in Chrome",
+      "summary": "Google has launched a new feature called 'Skills' in Chrome that allows users to save AI prompts as repeatable one-click tools powered by Gemini. The feature is designed to let users automate common tasks directly within the browser. It represents a significant step in embedding generative AI capabilities into everyday browsing workflows.",
+      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+      "topics": ["generative AI", "AI tools", "Google"]
+    },
+    {
+      "title": "OpenAI: Trusted access for the next era of cyber defense",
+      "summary": "OpenAI has published a blog post outlining a new initiative to expand trusted access to its AI systems for cybersecurity and defence purposes. The post describes how OpenAI aims to support cyber defenders by scaling access to its models for security applications. The announcement signals a continued push by OpenAI into the defence and national security sector.",
+      "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+      "topics": ["AI", "cybersecurity", "defense"]
+    },
+    {
+      "title": "Has Google's AI watermarking system been reverse-engineered?",
+      "summary": "A report from The Verge examines whether Google's SynthID AI watermarking system, designed to identify AI-generated content, has been successfully reverse-engineered. The story raises significant questions about the durability of watermarking as a tool for detecting AI-generated media. If confirmed, it would represent a meaningful setback for AI content provenance efforts.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
+      "topics": ["AI watermarking", "content policy", "AI ethics"]
+    },
+    {
+      "title": "Redefining the future of software engineering",
+      "summary": "MIT Technology Review examines how AI is fundamentally changing the role of software engineers, with AI coding tools reshaping what engineers spend their time on and what skills are most valued. The piece explores both the productivity gains and the professional disruptions that follow from AI-assisted development. It draws on industry perspectives to assess where software engineering is heading.",
+      "url": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
+      "topics": ["AI", "software engineering", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman's home and OpenAI's HQ",
+      "summary": "A man has been charged federally following attacks on Sam Altman's home and OpenAI's headquarters, raising wider questions about physical security risks facing prominent AI figures.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
+      "topics": ["OpenAI", "AI safety", "technology ethics"]
+    },
+    {
+      "title": "Coming soon: 10 Things That Matter in AI Right Now",
+      "summary": "MIT Technology Review previews an upcoming feature identifying the ten most consequential developments in AI at the current moment.",
+      "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
+      "topics": ["AI", "technology trends"]
+    },
+    {
+      "title": "The Download: the state of AI, and protecting bears with drones",
+      "summary": "MIT Technology Review's daily briefing covers the current state of AI development alongside a feature on conservationists using drones to protect bears.",
+      "url": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/",
+      "topics": ["AI", "technology trends"]
+    },
+    {
+      "title": "Getting Hired Is Too Hard, So They're Starting Companies Instead",
+      "summary": "A report explores how difficult hiring conditions in the tech sector are pushing more people to launch their own ventures rather than seek employment.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMVFkMG1UTmlyWF9Wandna2FZSTNJa2pDX3MzWTFYRzA1U3NnWnU3Rk9MdlJHLWE2TVZ2THNkQUNtSk1VSlp6UG5IRkRrbHZlUEZIQmd5a2pyTzRiblc1Vk9mSlB0WUJKaEs3Q1NLWTl2b09xWWkyYW9mNmg0TnRnYnVJWmJPXzRrV3J6N0ItdVZ0T19yZkFJcTFpemN4blE3elNpQ19JTkRBN29zQ1RxYnJWbXd4bUFjRjNHWTZBdmRhd3lv?oc=5",
+      "topics": ["business", "layoffs", "AI"]
+    },
+    {
+      "title": "6 ways agentic AI will reshape the enterprise software market",
+      "summary": "An analysis outlines six key ways that agentic AI systems are expected to transform how enterprise software is built, sold, and used.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbzZBenBJckxSRzU5U1AzR09TbFB2WG0zbW93NWl5VGpPM2kzeXVfNk9ydTI2WkJSTUtGcFVUclJXbEZmTzhpN1lVWmV1Q0QyVzFvb0g4X0hTelk0T0Fqd2xXdzVNc2l6MlVKNkNLYXFpQXd3bFlSeThvMEFjekFadkdpUHhhOWd1YlA0UGdQRExreURLSS0wdjJPZl9Fd042U2p6LQ?oc=5",
+      "topics": ["AI", "enterprise software", "agentic AI"]
+    },
+    {
+      "title": "Silicon Valley Is Spending Millions to Stop One of Its Own",
+      "summary": "Wired reports on how tech industry interests are mobilising significant financial resources to oppose a New York state lawmaker pushing for stricter AI regulation.",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/",
+      "topics": ["AI regulation", "technology ethics", "advertising"]
+    }
+  ],
+  "ethan_mollick": null
+}
