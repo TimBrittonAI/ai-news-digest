@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Adobe embraces conversational AI editing, marking a 'fundamental shift' in creative work",
+      "summary": "Adobe has announced a conversational AI editing assistant for its creative suite, describing the move as a fundamental shift in how creative work is done. The new AI-powered interface allows users to interact with editing tools through natural language. Adobe framed the announcement as a significant evolution in its product strategy.",
+      "url": "https://www.theverge.com/tech/912287/adobe-firefly-ai-assistant-announcement-editing",
+      "topics": ["generative AI", "AI tools", "creative software"]
+    },
+    {
+      "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you",
+      "summary": "A US federal judge has ruled that attorney-client privilege does not apply to conversations with AI chatbots, prompting warnings from lawyers across the country. The ruling, from the Southern District of New York, has significant implications for how legal professionals and individuals use AI tools. Lawyers are now advising clients to treat AI chat logs as potentially discoverable in legal proceedings.",
+      "url": "https://www.reuters.com/legal/government/ai-ruling-prompts-warnings-us-lawyers-your-chats-could-be-used-against-you-2026-04-15/",
+      "topics": ["Legal", "AI Ethics", "Content Policy"]
+    },
+    {
+      "title": "OpenAI announces the next evolution of the Agents SDK",
+      "summary": "OpenAI has published details of the next evolution of its Agents SDK, outlining new capabilities for building and deploying AI agents. The update expands the tools available to developers building agentic workflows on OpenAI's platform. The announcement signals OpenAI's continued push to establish its infrastructure as a foundation for enterprise AI agent development.",
+      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "topics": ["OpenAI", "AI agents", "large language models"]
+    },
+    {
+      "title": "Anthropic Opposes the Extreme AI Liability Bill That OpenAI Backed",
+      "summary": "Anthropic has come out in opposition to a proposed AI liability bill that OpenAI has supported, highlighting a significant split between two of the leading AI labs on regulatory questions. The bill in question has been described as extreme in its liability provisions. The divergence underscores ongoing disagreements within the AI industry about how far-reaching AI regulation should be.",
+      "url": "https://www.wired.com/story/anthropic-opposes-the-extreme-ai-liability-bill-that-openai-backed/",
+      "topics": ["AI regulation", "AI Safety", "Technology Ethics"]
+    },
+    {
+      "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+      "summary": "Google DeepMind has announced Gemini 3.1 Flash TTS, describing it as the next generation of expressive AI text-to-speech technology. The model is designed to produce more natural, expressive speech output than its predecessors. The announcement continues Google's rapid iteration on its Gemini model family.",
+      "url": "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+      "topics": ["large language models", "AI speech", "Google DeepMind"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Chrome now lets you turn AI prompts into repeatable 'Skills'",
+      "summary": "Google has launched an AI-powered 'Skills' feature in Chrome that allows users to save their best prompts as one-click tools for repeated use.",
+      "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+      "topics": ["AI tools", "User Interaction", "Google"]
+    },
+    {
+      "title": "Grok's sexual deepfakes almost got it banned from Apple's App Store. Almost.",
+      "summary": "xAI's Grok chatbot came close to being removed from Apple's App Store after it was found to be generating sexual deepfakes, raising questions about AI content moderation.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/912297/apple-app-store-ban-grok-x-deepfakes",
+      "topics": ["Content Policy", "AI Ethics", "Chatbots"]
+    },
+    {
+      "title": "The Deepfake Nudes Crisis in Schools Is Much Worse Than You Thought",
+      "summary": "Wired reports that the spread of AI-generated deepfake nude images targeting students in schools has become a far more severe global crisis than previously acknowledged.",
+      "url": "https://www.wired.com/story/deepfake-nudify-schools-global-crisis/",
+      "topics": ["AI Ethics", "Technology Ethics", "generative AI"]
+    },
+    {
+      "title": "Has Google's AI watermarking system been reverse-engineered?",
+      "summary": "Researchers have raised questions about whether Google's SynthID AI watermarking system has been successfully reverse-engineered, potentially undermining its ability to identify AI-generated content.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
+      "topics": ["AI Safety", "generative AI", "AI detection"]
+    },
+    {
+      "title": "AI Slop Is Making the Internet Fake-Happy",
+      "summary": "Wired examines how the proliferation of AI-generated content is reshaping online culture, producing a veneer of relentless positivity that distorts the texture of the internet.",
+      "url": "https://www.wired.com/story/ai-slop-is-changing-the-internet-just-not-how-you-might-think/",
+      "topics": ["generative AI", "Content Policy", "AI Ethics"]
+    },
+    {
+      "title": "Allbirds announces pivot from shoes to AI compute infrastructure, stock surges",
+      "summary": "Shoe brand Allbirds has announced it is pivoting to AI compute infrastructure, executing a $50M convertible financing facility, causing its stock to jump dramatically.",
+      "url": "https://ir.allbirds.com/news-releases/news-release-details/allbirds-inc-executes-50m-convertible-financing-facility",
+      "topics": ["AI", "Business", "generative AI"]
+    },
+    {
+      "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+      "summary": "Google's Gemma 4 model has been shown running natively on an iPhone, enabling full offline AI inference on consumer mobile hardware.",
+      "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
+      "topics": ["large language models", "AI tools", "Google"]
+    },
+    {
+      "title": "What Claude Code's Source Revealed About AI Engineering Culture",
+      "summary": "An analysis of Claude Code's source code offers observations about the engineering culture and values embedded in Anthropic's AI coding tool.",
+      "url": "https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude",
+      "topics": ["AI tools", "generative AI", "AI Ethics"]
+    },
+    {
+      "title": "MIT Technology Review: 10 things that matter in AI right now",
+      "summary": "MIT Technology Review publishes its latest roundup of the ten most significant developments and trends shaping the current state of artificial intelligence.",
+      "url": "https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-spacecraft-10-things-that-matter-in-ai-right-now/",
+      "topics": ["AI", "large language models", "AI Safety"]
+    },
+    {
+      "title": "Cyberscammers are bypassing banks' security with illicit tools sold on Telegram",
+      "summary": "MIT Technology Review reports that cybercriminals are using AI-powered tools sold via Telegram to defeat bank security systems, enabling a new wave of financial fraud.",
+      "url": "https://www.technologyreview.com/2026/04/15/1135898/cyberscammers-bypassing-bank-telegram/",
+      "topics": ["AI", "Technology Ethics", "Bias"]
+    }
+  ],
+  "ethan_mollick": null
+}
