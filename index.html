@@ -523,16 +523,14 @@
        async function loadDigest() {
             const today = todayStr();
             let stale = false;
-            let fetchError = '';
             try {
                 const res = await fetch(`digest-${today}.json?v=` + Date.now());
-                if (!res.ok) throw new Error('no json: ' + res.status);
+                if (!res.ok) throw new Error('no json');
                 const ipRes = await fetch(`digest-ip-${today}.json?v=` + Date.now());
                 const ipData = ipRes.ok ? await ipRes.json() : null;
                 currentDateStr = today;
                 await renderDigest(await res.json(), today, ipData);
-            } catch(e) {
-                fetchError = 'Primary: ' + e.message + ' (tried digest-' + today + '.json)';
+            } catch {
                 try {
                     const res2 = await fetch('digest.json?v=' + Date.now());
                     if (!res2.ok) throw new Error('no json');
@@ -554,6 +552,13 @@
                     }
                 }
             }
+            if (stale) {
+                const banner = document.createElement('div');
+                banner.style.cssText = 'background:#d4a017;color:#1a1a1a;text-align:center;padding:10px 16px;font-size:14px;font-weight:500;';
+                banner.textContent = "Mmm...something's not worked, today's digest hasn't arrived and so you are viewing an earlier edition";
+                document.body.insertBefore(banner, document.body.firstChild);
+            }
+        }
             if (stale) {
                 const banner = document.createElement('div');
                 banner.style.cssText = 'background:#d4a017;color:#1a1a1a;text-align:center;padding:10px 16px;font-size:14px;font-weight:500;';
