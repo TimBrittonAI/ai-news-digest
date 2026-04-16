@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Ronan Farrow on Sam Altman's 'unconstrained' relationship with the truth [Paywalled]",
+      "summary": "Ronan Farrow's New Yorker profile of Sam Altman is discussed in a Verge podcast, examining claims about Altman's honesty and his conduct as OpenAI's leader. The piece explores the broader culture of trust and accountability at the top of the AI industry.",
+      "url": "https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry",
+      "topics": ["OpenAI", "AI Ethics", "Technology Ethics"]
+    },
+    {
+      "title": "US v. Heppner: No attorney-client privilege for AI chats (S.D.N.Y. 2026)",
+      "summary": "A US federal judge ruled that communications between a defendant and an AI chatbot do not qualify for attorney-client privilege. The order has significant implications for how legal professionals and individuals use AI tools in sensitive legal contexts.",
+      "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
+      "topics": ["Legal", "AI Ethics", "ChatGPT"]
+    },
+    {
+      "title": "Why having 'humans in the loop' in an AI war is an illusion",
+      "summary": "MIT Technology Review argues that the concept of meaningful human oversight in AI-assisted military decision-making is largely illusory, given the speed and complexity at which AI systems operate. The piece raises serious concerns about accountability and AI safety in defence contexts.",
+      "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
+      "topics": ["Defense", "AI Safety", "AI Ethics"]
+    },
+    {
+      "title": "OpenAI announces initiative to accelerate cyber defense ecosystem",
+      "summary": "OpenAI has published a post outlining its efforts to support and accelerate the cybersecurity defence ecosystem, positioning AI as a tool for protecting critical infrastructure. The announcement details partnerships and initiatives aimed at bolstering cyber defences using AI capabilities.",
+      "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+      "topics": ["AI", "Defense", "OpenAI"]
+    },
+    {
+      "title": "Anthropic Plots Major London Expansion",
+      "summary": "Anthropic is planning a significant expansion of its presence in London, according to Wired, as the AI company grows its operations outside the United States. The move signals increased investment in European AI talent and infrastructure.",
+      "url": "https://www.wired.com/story/anthropic-plots-major-london-expansion/",
+      "topics": ["AI", "Business", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Google launches a Gemini AI app on Mac [Paywalled]",
+      "summary": "Google has released a dedicated Gemini AI application for Mac, expanding its AI assistant's reach to desktop users on Apple hardware.",
+      "url": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
+      "topics": ["AI", "large language models", "User Interaction"]
+    },
+    {
+      "title": "Canva's AI 2.0 update goes all in on prompt-powered design tools [Paywalled]",
+      "summary": "Canva has launched an AI 2.0 update that centres on prompt-based editing, allowing users to make design changes through natural language instructions.",
+      "url": "https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability",
+      "topics": ["generative AI", "AI", "User Interaction"]
+    },
+    {
+      "title": "SDL bans AI-written commits",
+      "summary": "The SDL open-source project has formally banned AI-generated code commits, citing concerns about code quality and contributor accountability.",
+      "url": "https://github.com/libsdl-org/SDL/issues/15350",
+      "topics": ["AI", "Content Policy", "Technology Ethics"]
+    },
+    {
+      "title": "Capacity Efficiency at Meta: How Unified AI Agents Optimize Performance at Hyperscale",
+      "summary": "Meta Engineering details how unified AI agents are being used to optimise infrastructure capacity and performance efficiency across Meta's hyperscale operations.",
+      "url": "https://engineering.fb.com/2026/04/16/developer-tools/capacity-efficiency-at-meta-how-unified-ai-agents-optimize-performance-at-hyperscale/",
+      "topics": ["AI", "Meta", "Business"]
+    },
+    {
+      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+      "summary": "Cloudflare has published details of its AI platform, describing an inference layer purpose-built to support AI agent workflows at scale.",
+      "url": "https://blog.cloudflare.com/ai-platform/",
+      "topics": ["AI", "large language models", "Business"]
+    },
+    {
+      "title": "Character.AI's new Books mode turns reading into roleplay [Paywalled]",
+      "summary": "Character.AI has introduced a Books mode that lets users interact with characters from books through AI-powered roleplay, blending reading with conversational AI.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode",
+      "topics": ["Chatbots", "AI", "User Interaction"]
+    },
+    {
+      "title": "The latest on Grok's gross AI deepfakes problem",
+      "summary": "Reports detail ongoing concerns about Grok, xAI's chatbot, generating inappropriate AI deepfake content and the challenges in moderating such outputs.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VdUFFT0M3QURXRHpXUW9jT3BMR2M3VGFuS2hOMmk2bkc4VzZUQnBtaTNiS0FRSnBQX2J6RFl6REdGN2lWNzcwc0dfUGVUMkxYOW5EU0d0N2t3MDVucVEzVWF5VEFDZWM?oc=5",
+      "topics": ["AI", "Content Policy", "AI Ethics"]
+    },
+    {
+      "title": "Sal Khan's AI revolution hasn't happened yet",
+      "summary": "An assessment of Sal Khan's vision for AI in education finds that despite high expectations for Khanmigo and AI-powered learning, widespread transformation in schools has yet to materialise.",
+      "url": "https://www.chalkbeat.org/2026/04/09/sal-khan-reflects-on-ai-in-schools-and-khanmigo/",
+      "topics": ["AI", "AI Ethics", "User Interaction"]
+    },
+    {
+      "title": "Making AI operational in constrained public sector environments",
+      "summary": "MIT Technology Review explores the specific challenges organisations face when deploying AI within public sector settings where resources, regulations, and risk tolerance are tightly constrained.",
+      "url": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
+      "topics": ["AI", "Business", "AI Safety"]
+    },
+    {
+      "title": "Allbirds Is Pivoting to AI Compute. Sure, Why Not",
+      "summary": "Wired reports on Allbirds' announcement that it is switching focus from footwear to AI compute infrastructure, a pivot that sent its stock up 600 percent.",
+      "url": "https://www.wired.com/story/allbirds-is-pivoting-to-ai-compute-sure-why-not/",
+      "topics": ["AI", "Business", "Market Research"]
+    }
+  ],
+  "ethan_mollick": null
+}
