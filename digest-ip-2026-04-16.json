@@ -1,0 +1,29 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Taylor & Francis and DataSeer extend partnership helping authors to follow journal data requirements",
+      "summary": "Taylor & Francis has announced an extended partnership with DataSeer aimed at helping authors comply with journal data-sharing requirements. The collaboration supports researchers in meeting data policies during the submission process. No further details on the scope of the extension were provided in the announcement.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObXBHekFSRl9UNGxVRF9TVF80MWM1ZmpKNjJWZ0t0dWsyckQ1OXFfX3ZtUE5ab09FOGJjLWFCU0JEVjJ3SnVRMTR2T3dkWW1kRmg0YTZpUmduNS0xY2M5UzB4YUVyaHcwMHpINkl2Vl9SbGlWclQxQ2ZOaDdoVkVlakNZS2ZIeDJQOFprNzhydHNBd0tUVEMzUGxR?oc=5",
+      "topics": ["academic publishing", "data sharing", "publishing policy"]
+    },
+    {
+      "title": "CJEU delivers pastiche-style judgment on … pastiche",
+      "summary": "The Court of Justice of the European Union has issued a significant ruling clarifying the scope of the pastiche exception under EU copyright law. The IPKat reports on the judgment, which has implications for how courts interpret creative borrowing and parody-adjacent uses of copyrighted works. The decision is relevant to ongoing debates about AI-generated content and permissible use of training data.",
+      "url": "http://ipkitten.blogspot.com/2026/04/cjeu-delivers-pastiche-style-judgment.html",
+      "topics": ["AI copyright", "EU law", "litigation"]
+    },
+    {
+      "title": "AI Tools Produce Thousands of Commercial Books",
+      "summary": "AI tools are reportedly being used to generate thousands of commercial books, raising significant questions about copyright ownership, market saturation, and the impact on human authors. The story highlights the growing scale of AI-generated content entering the commercial publishing market. Specific sourcing details were not available from the article metadata provided.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGZfbnJNRy1IbHY3UTRONU5WX0thak9zWHluMUp2TlI4NnYwYnE5cGxkajRjN0d4YVg3OENhcWpEakt0TGdjMEQ4NXNjTVZxMjhwMnZEOVd1TXg1T1VIUmVqVU9UUFB5R191ZWJfeEJ3MlJlT2NGaGJaTUkzZVpNQTdERGtmblVNZU5lbk5UREJSUQ?oc=5",
+      "topics": ["AI copyright", "publishing", "AI-generated content"]
+    },
+    {
+      "title": "Anthropic Code Crisis Creates Copyright Contradiction",
+      "summary": "A reported crisis involving Anthropic's code has surfaced a copyright contradiction, though full details are limited without access to the complete article. The story touches on the intersection of AI development practices and copyright obligations. Sourcing and publication details were not fully available from the metadata provided.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMFQyQUVpdG5FVUFLNmVjM21CSi1wa05raVo4X25mWkpfcDlkRTVEWEx5enNRek1XYkdCLUJSUm1TY3o1aG9ZenFLR2d3S3oydGMwVENDMnNEUzFEc3g2NG1TX0QwaWtIRl8tWVpxZ2w5Nzh0QVZhYXR1bGlLb05UUnI5X2NlNHU0T3lV?oc=5",
+      "topics": ["AI copyright", "litigation", "AI tools"]
+    }
+  ],
+  "ip_further_links": []
+}
