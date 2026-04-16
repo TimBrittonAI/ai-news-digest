@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Sony Copyright Suit Survives AI Music Generator's Dismissal Bid",
+      "summary": "A court has declined to dismiss Sony's copyright lawsuit against an AI music generator, allowing the case to proceed. The ruling is a significant development in ongoing litigation over AI-generated content and music copyright.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYTZMNXlEQXloYkJkbTBGRFJ4VGNsVDFraG1BMlR3SnpqY2xwRmowN2tPVnIxMEF2dkpCcHVDMFpZb3hmMkgzdTQwMEU4OFpQbXpiVnJEUExNa1NGT2lhdUxpVUNpcDM1UkV4VnhzR1d3M1RlN1UtdjlKaTBHV0ZQNjE1X2Q3VWFVVXV0QVEwNHRMQzIyUHRiazlnVGpWVFgxQWVnajl2U0hZLVlXLWNZZGk3LUk?oc=5",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "Copyright owners v AI developers: the emerging trends",
+      "summary": "An analysis of the evolving legal landscape between copyright holders and AI developers, examining emerging litigation trends and key legal questions being tested in courts. The piece surveys how rights owners are pushing back against AI training on protected works.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTHdMZTZSMUJ0Q2J0aG00djJqc1VxU0dvQ1hfbGJRNkVORWFJaTAwbExOSTlpU2FnSU9CT3R3V0RCSFJXcUFfUWZKLTNZdDgwNjFVZ1NSdmdNbG1YUWxwbFZ0U1BNUVVpSkVHSkNVdHZnLTM1VW1kU3A3aE8xZGdQT01rY2JVR1VsYUJZZ3FsWkRZX2JIOUhuVzBlWVhRMHpHVEE?oc=5",
+      "topics": ["AI copyright", "litigation", "IP law"]
+    },
+    {
+      "title": "Is the government's stance on AI copyright holding back the UK tech scene?",
+      "summary": "The article examines the UK government's position on AI and copyright, questioning whether its approach is hampering the domestic technology sector. It comes amid ongoing debate over proposed text and data mining exceptions and the rights of creators.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDhOOUltTlAyUHpIamxyS3RaMHoyOTJEYnpTV0pBZlE2ajhpSFMyNFFqNng0T1pqQlptdThIZ1NxRE5OUnBTeGJVc1dNdnItV0RIR3pwU2duU09BdnlMUHZ1NG90ZzFhdFBGQnVtTTJ6OTJlNDlEN0xFY1F6bEdlZE5xemFOMTEyYThTTGR1VFR0TmRtX2E5MS1BZ3FGbFk?oc=5",
+      "topics": ["AI copyright", "UK policy", "tech industry"]
+    },
+    {
+      "title": "Anthropic Code Crisis Creates Copyright Contradiction",
+      "summary": "Anthropic faces a copyright contradiction arising from its AI coding tools, with questions raised about ownership and infringement when AI systems generate code. The story highlights the unresolved legal tensions around AI-produced software.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYks1aFNXdUdQMFpDdGx1QW1mVUhNT1pjRUJsMU5YTWp5bHVLcmdZV0J5THdLa0xiLWktLVYtTk5mX0g0VlhKYzc5dko1MWpENVlxNG9DZ3lZSkEtdHBFT1lHU2lncTNYcTRKbUxCa3RzSlhvdTBCVjZSVEM5Qzl5THlLbw?oc=5",
+      "topics": ["AI copyright", "software code", "litigation"]
+    },
+    {
+      "title": "Bologna Children's Book Fair 2026: AI Takes Center Stage",
+      "summary": "At the 2026 Bologna Children's Book Fair, artificial intelligence emerged as a dominant topic, with publishers and creators debating its impact on children's publishing. The Publishers Weekly report covers industry sentiment and key discussions around AI-generated content.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100173-bologna-children-s-book-fair-2026-ai-takes-center-stage.html",
+      "topics": ["AI publishing", "children's publishing", "industry trends"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Can AI Legally Clone Open Source? Unpacking 'Clean Room As A Service' - Copyright - United Kingdom",
+      "summary": "An analysis of whether AI systems can legally replicate open source code under a 'clean room' approach, examining the copyright implications under UK law.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS1BVdXRqRnJiS1Jvc1RvOE1fY0xvWWlBalB5blNUeXljRHRET2ZVN25sZW5BY09FSUV0aG04Unc5N3B0TGtwSFFkX2RuYklibjhya3BTTVFaeFc3aTJ5YXM1RHJDUHlmY2NpYzZaQS1CeGt4YTZBaVZMTFBhb0xnVkRYMFlXbEFobnYtUzlMOFhCd0pDMS1LUXFlLVR1b0NJa2dvMHdvVU1Udy1MRjFR?oc=5",
+      "topics": ["AI copyright", "open source", "UK law"]
+    },
+    {
+      "title": "Delhi HC Directs Time-Bound Decision on AI Generated Artwork Copyright Plea",
+      "summary": "The Delhi High Court has directed authorities to reach a time-bound decision on a petition concerning copyright protection for AI-generated artwork.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRlJfU1pRMGQtc2tGenQ5eGdjZE1MQWRxTDhET0xzdjh2aWtaN0RuemhWUnRWTmpSU3pQb1U0blo4S3hYYlJJNVluRzhoVXJ5YW80SkdNdzhScVk1SVNNOFhVaGxCdTBzSGdZY3ItandDbzVSLXZjQWhvV1NMRWhoXzFfQzljM3VPaFBhQkZiS2Y5ZzQtZFJySXA5YjJZdGw1RHN4NTllT0dTelVoWGZ0WVo2RUNkUdIBuwFBVV95cUxQVTRNdHI1ZndKVEk1WmFkSmI4SWpRaFhKMjR3LU1ibERWcms5aHJXOFl5Z0hBYk84SWhPY1BrNVZmZUJSUmhPRWhkdTR6RWVaQnljQVVLM3B1MGY4c1gyNTVkWmg3LTNYZ2lJek10VDM2NXZMOUJ6MWJaTzgwOGlkTThRZ1ZzYm4xMUNabm9BX3l0TWFpQ250NUJ5cE9vYy13cl9zVE80VjJ2cW1tQUtOUElubjgxY082MzR3?oc=5",
+      "topics": ["AI copyright", "litigation", "India"]
+    },
+    {
+      "title": "MPA Chief On 'Going To The Mat' With Instagram, Copyright, AI & Pushing A Federal Film Tax Incentive",
+      "summary": "The Motion Picture Association's chief discusses the organisation's aggressive stance on copyright enforcement against AI platforms and social media, alongside advocacy for a federal film tax incentive.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQWlQTGFRSm5POGFqRFZ4WmR3WXRDM3lHSTZoWFZqWjlIajMtVmFEVlhhcmdOc21rWk1pdExSSkNFbElVS0lwaWRPMHdITnl3UFZla3c1QjloamxfZmxOYks2akVtaTVUaExfdmU5TGpEVV80TGNtMWtKRGMzVU1fZVVOUGdqMHBJYldzMEVoT3lfek9BVEJj?oc=5",
+      "topics": ["AI copyright", "film industry", "IP enforcement"]
+    },
+    {
+      "title": "AI in the patent industry: Don't believe the hype. Believe the data.",
+      "summary": "IPKat examines data-driven claims about AI's actual impact on patent prosecution and the patent industry, urging caution about inflated expectations.",
+      "url": "http://ipkitten.blogspot.com/2026/04/ai-in-patent-industry-dont-believe-hype.html",
+      "topics": ["AI", "patent law", "IP industry"]
+    },
+    {
+      "title": "Mexico's New AI Law Could Hinder USMCA Review, Warns AMITI",
+      "summary": "Mexico's technology industry association AMITI has warned that the country's new AI legislation could complicate the upcoming USMCA trade agreement review.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZUpScnVsLUQ4ZE9fX0tOUVJZbHZTTmRJNmlzbXI3eHdORm0yLWh1TTQtT2FfSlFhdjRvMk84ZU1sOE0xTHUxTkM5dXZmSTlUZzNSdTBIWXFsWkJfRkhfd1JXSEZMaVFSbDRseFBkdXRNZlQ0aElxRHpfTGZmdmE0QnI0LTJibDBhRDR2Tk12QTE3M1lUV1FZbVJB?oc=5",
+      "topics": ["AI regulation", "trade policy", "IP law"]
+    },
+    {
+      "title": "Is the internet's memory at risk? The world's most-used archiving tool is under threat",
+      "summary": "A report on threats facing the Internet Archive, a key tool for preserving digital content, with implications for access to information and copyright-related disputes.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQ21Tb3RGTzJsRHdOTTFlNHFLdm9IbFRaVk5kUkJBT3Yxb1BOVzVfX2hNejRpbFVWNjBBSEhMZTNpYk11TFpTcDVhYUVHSEVtOGdrZVIyMUE5aVJXQm5ZTmRCS29pLS1KRzZQV201cmRmUzJHME5zRzBERnRGN0U2UE4wY2dncUdjNUVWTkxFWlNNZW9BZ3l5bTVjV29WcGVIdHdiMFlrYXA5b1FRR1lGem96eGV1OWxFbTY5bUZ1cFl6MENSNU1GTGpSNGxFZ9IB0wFBVV95cUxOaTkzdEd0Z1E3aHRVbGw0eDR2X19OUi1pajFmQWpzSWN3MUhkdU1JcVdzUmY5YVZKdW40ZDQtckVCTzlkQWZZNnlQVjkycVZyaXE0cklyLURqSkhPX19IUXgxcE5JUlptekRjUmFSdURmQzlrTW9oTGc4R2FZNG5YVURIYzRHUUdmUngyN0hvWGdkZzd3NEdxVGVDM0dZVEtURjk5SUUtWkVCRWxDMzRyWnVrcFA1NDJUekhpekhlRzN6NXB2OEdyR3g4cHVnb21fNEZR?oc=5",
+      "topics": ["digital preservation", "copyright", "Internet Archive"]
+    },
+    {
+      "title": "Bloomsbury Reorganizes Its Global Publishing Business",
+      "summary": "Bloomsbury has announced a reorganisation of its global publishing operations, a development of note for the publishing industry amid ongoing pressures from AI and digital transformation.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100184-bloomsbury-reorganizes-its-global-publishing-business.html",
+      "topics": ["academic publishing", "publishing industry", "business"]
+    },
+    {
+      "title": "Guest Post — From Open Access to Preprints: Are We Repeating the Same Mistakes in Scholarly Publishing?",
+      "summary": "The Scholarly Kitchen publishes a guest analysis questioning whether the scholarly publishing community is making the same structural errors with preprints as it did during the transition to open access.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/04/14/guest-post-from-open-access-to-preprints-are-we-repeating-the-same-mistakes-in-scholarly-publishing/",
+      "topics": ["academic publishing", "open access", "preprints"]
+    },
+    {
+      "title": "GitHub Policy Update",
+      "summary": "GitHub has issued a policy update with potential implications for AI-generated code, open source licensing, and developer IP rights.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NOGJRa3Q0R19GN0Q3bjhKNUszMEtDclpwclg4V2cwRDdKWW5rMWNVSU5YcmtMQ0oxQURoZ1BVSEtBdVhLajR4eGk0X0FzRmJQdk02b3dkSWZCMlVOOG84MXBsbEJlcEhIdW5lTVp5c2I3dm9HY3FsTGJR?oc=5",
+      "topics": ["AI copyright", "open source", "software policy"]
+    },
+    {
+      "title": "Fordham 33 (Report 5): Trade secrets",
+      "summary": "IPKat reports from the Fordham IP Conference on key discussions around trade secrets law and its intersection with emerging technologies.",
+      "url": "http://ipkitten.blogspot.com/2026/04/fordham-33-report-5-trade-secrets.html",
+      "topics": ["trade secrets", "IP law", "conference"]
+    }
+  ]
+}
