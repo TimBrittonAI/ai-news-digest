@@ -6,7 +6,7 @@
     "defense": 2,
     "legal": 3,
     "ai video": 1,
-    "openai": 3,
+    "openai": 4,
     "business": 1,
     "consumer research": 1,
     "market research": 1,
@@ -35,6 +35,8 @@
     "ai detection": 1,
     "tiktok": 1,
     "leadership": 1,
-    "ai governance": 1
+    "ai governance": 1,
+    "ai coding tools": 1,
+    "large language models": 1
   }
 }
