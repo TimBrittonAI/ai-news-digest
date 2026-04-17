@@ -1,0 +1,85 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI's big Codex update is a direct shot at Claude Code [Paywalled]",
+      "summary": "OpenAI has released a major update to Codex, its AI coding agent, positioning it as a direct competitor to Anthropic's Claude Code. The update expands Codex's capabilities and is detailed in OpenAI's official announcement. The move signals intensifying competition in the agentic AI coding space.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
+      "topics": ["AI coding", "OpenAI", "large language models"]
+    },
+    {
+      "title": "Codex for (almost) everything",
+      "summary": "OpenAI's official blog post details the expanded ambitions of Codex, framing it as a tool capable of handling a broad range of tasks beyond just coding. The announcement outlines new features and use cases for the Codex agent. This is the primary source accompanying the competitive Codex launch.",
+      "url": "https://openai.com/index/codex-for-almost-everything",
+      "topics": ["AI coding", "OpenAI", "agentic AI"]
+    },
+    {
+      "title": "Anthropic releases a new Opus model amid Mythos Preview buzz [Paywalled]",
+      "summary": "Anthropic has released a new Claude Opus model, coinciding with wider speculation around a 'Mythos Preview' capability. The release keeps Anthropic competitive as rivals including OpenAI push updates to their own flagship models. The Verge reports on the timing and context of the release.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity",
+      "topics": ["large language models", "Anthropic", "AI safety"]
+    },
+    {
+      "title": "The UK Launches Its $675 Million Sovereign AI Fund",
+      "summary": "The UK government has announced a $675 million sovereign AI investment fund, aimed at building domestic AI capabilities. Wired reports the fund is part of a broader push by the UK to position itself as a leading AI nation. The announcement reflects growing government interest in state-backed AI infrastructure.",
+      "url": "https://www.wired.com/story/the-uk-launches-its-dollar675-million-sovereign-ai-fund/",
+      "topics": ["AI policy", "government investment", "AI infrastructure"]
+    },
+    {
+      "title": "Gemini can now pull from Google Photos to generate personalized images [Paywalled]",
+      "summary": "Google's Gemini AI assistant can now access users' Google Photos libraries to create personalized image generations. The feature, available via Gemini Nano, represents a step forward in personal AI context and on-device intelligence. The update deepens integration between Google's AI products and its existing consumer services.",
+      "url": "https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana",
+      "topics": ["generative AI", "Google", "AI image generation"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "The Battle for OpenAI's Soul",
+      "summary": "Wired examines the ongoing legal and philosophical conflict between Elon Musk and Sam Altman over the direction and control of OpenAI, as the Musk v. Altman trial approaches.",
+      "url": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
+      "topics": ["OpenAI", "AI ethics", "legal"]
+    },
+    {
+      "title": "Google's AI Mode Update Tries to Kill Tab Hopping in Chrome",
+      "summary": "Google's AI Mode update now lets users open source links in an inline panel without leaving the search page, reducing the need to switch browser tabs.",
+      "url": "https://www.wired.com/story/google-ai-mode-update-tries-to-kill-tab-hopping-in-chrome/",
+      "topics": ["AI search", "Google", "user interaction"]
+    },
+    {
+      "title": "Treating enterprise AI as an operating layer",
+      "summary": "MIT Technology Review explores how businesses are beginning to treat AI not as a standalone tool but as a foundational operating layer embedded across their entire technology stack.",
+      "url": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+      "topics": ["enterprise AI", "AI strategy", "business"]
+    },
+    {
+      "title": "Shares in shoe brand Allbirds rise 580% after it pivots from footwear to AI",
+      "summary": "Allbirds, the sustainable shoe company, saw its shares surge 580% after announcing a pivot away from footwear towards AI, in a dramatic strategic reversal reported by the BBC.",
+      "url": "https://www.bbc.com/news/articles/c98mrepzgj7o",
+      "topics": ["AI business strategy", "market reaction", "generative AI"]
+    },
+    {
+      "title": "George Orwell Predicted the Rise of \"AI Slop\" in Nineteen Eighty-Four",
+      "summary": "Open Culture draws parallels between Orwell's fictional 'proletarian literature' machine in Nineteen Eighty-Four and the modern phenomenon of low-quality AI-generated content flooding the internet.",
+      "url": "https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html",
+      "topics": ["AI content", "AI ethics", "generative AI"]
+    },
+    {
+      "title": "This Beanie Is Designed to Read Your Thoughts",
+      "summary": "Wired reports on a consumer-oriented brain-computer interface device embedded in a beanie hat, designed to detect and interpret neural signals for everyday use.",
+      "url": "https://www.wired.com/story/this-beanie-is-designed-to-read-your-thoughts/",
+      "topics": ["brain-computer interface", "consumer AI", "technology ethics"]
+    },
+    {
+      "title": "AI cybersecurity is not proof of work",
+      "summary": "Antirez argues that deploying AI in cybersecurity contexts does not inherently guarantee security or meaningful defence, cautioning against over-reliance on AI tools in this space.",
+      "url": "https://antirez.com/news/163",
+      "topics": ["AI cybersecurity", "AI safety", "technology ethics"]
+    },
+    {
+      "title": "We gave an AI a 3 year retail lease and asked it to make a profit",
+      "summary": "Andon Labs describes an experiment in which an AI agent was given a real retail lease and tasked with running a profitable business, detailing the outcomes and lessons learned.",
+      "url": "https://andonlabs.com/blog/andon-market-launch",
+      "topics": ["agentic AI", "AI business", "AI autonomy"]
+    }
+  ],
+  "ethan_mollick": null
+}
