@@ -186,4 +186,564 @@
     letter-spacing: 0.05em;
     transition: opacity 0.15s;
 }
-.nav-panel-link:hover { opac
+.nav-panel-link:hover { opacity: 0.7; }
+
+        .page-layout {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: grid;
+            grid-template-columns: 280px 1fr;
+            min-height: calc(100vh - 120px);
+        }
+
+        .flower-column {
+            position: sticky;
+            top: 57px;
+            height: calc(100vh - 57px);
+            overflow: hidden;
+            border-right: 1px solid var(--rule);
+        }
+
+        .flower-img { width: 100%; height: 100%; object-fit: cover; object-position: center; display: block; filter: saturate(0.9) brightness(0.97); }
+
+        .flower-tagline { position: absolute; bottom: 4px; left: 0; right: 0; text-align: center; font-family: 'DM Mono', monospace; font-size: 0.65rem; color: rgba(255,255,255,0.75); letter-spacing: 0.08em; font-style: italic; text-shadow: 0 1px 4px rgba(0,0,0,0.5); }
+
+        .main { padding: 40px 48px 80px; }
+
+        .section-header { display: flex; align-items: center; gap: 16px; margin-bottom: 12px; margin-top: 48px; }
+        .section-header:first-child { margin-top: 0; }
+        .section-number { font-family: 'Playfair Display', serif; font-size: 3rem; font-weight: 900; color: var(--rule); line-height: 1; }
+        .section-label { font-family: 'DM Mono', monospace; font-size: 0.7rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--accent); }
+        .section-title { font-family: 'Playfair Display', serif; font-size: 1.1rem; font-weight: 700; color: var(--ink); }
+
+        .section-note { font-family: 'DM Mono', monospace; font-size: 0.62rem; color: var(--muted); letter-spacing: 0.06em; margin-bottom: 20px; padding-left: 2px; }
+
+        .part-divider { border: none; border-top: 3px solid var(--accent); margin: 48px 0 32px; }
+
+        .story-card {
+            background: var(--card-bg); border: 1px solid var(--rule); border-left: 4px solid var(--accent);
+            padding: 24px 28px; margin-bottom: 16px;
+            transition: border-left-color 0.15s ease, transform 0.15s ease;
+            animation: fadeUp 0.4s ease both;
+        }
+        .story-card:hover { border-left-color: var(--ink); transform: translateX(3px); }
+
+        @keyframes fadeUp { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+
+        .story-number { font-family: 'DM Mono', monospace; font-size: 0.65rem; color: var(--accent); letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 8px; }
+        .story-title { font-family: 'Playfair Display', serif; font-size: 1.2rem; font-weight: 900; line-height: 1.3; margin-bottom: 8px; color: var(--ink); }
+        .story-source { font-family: 'DM Mono', monospace; font-size: 0.62rem; color: var(--muted); letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 12px; display: flex; align-items: center; gap: 6px; }
+        .story-source::before { content: ''; display: inline-block; width: 12px; height: 1px; background: var(--rule); }
+        .story-summary { font-size: 0.88rem; line-height: 1.75; color: #444; font-weight: 300; margin-bottom: 16px; }
+        .story-link { font-family: 'DM Mono', monospace; font-size: 0.7rem; color: var(--accent); text-decoration: none; letter-spacing: 0.05em; border-bottom: 1px solid transparent; transition: border-color 0.15s ease; }
+        .story-link:hover { border-bottom-color: var(--accent); }
+
+        .vote-row { display: flex; align-items: center; gap: 8px; margin-top: 14px; }
+        .vote-label { font-family: 'DM Mono', monospace; font-size: 0.58rem; color: var(--muted); letter-spacing: 0.08em; text-transform: uppercase; }
+        .vote-btn { background: none; border: 1px solid var(--rule); padding: 3px 8px; cursor: pointer; font-size: 0.75rem; border-radius: 3px; transition: background 0.15s, border-color 0.15s; line-height: 1.4; }
+        .vote-btn:hover { border-color: var(--muted); }
+        .vote-btn.active-up { background: rgba(40, 160, 80, 0.12); border-color: #28a050; }
+        .vote-btn.active-down { background: rgba(200, 67, 42, 0.1); border-color: var(--accent); }
+
+        .links-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 16px; }
+        .link-item { background: var(--card-bg); border: 1px solid var(--rule); padding: 14px 16px; transition: background 0.15s ease; animation: fadeUp 0.4s ease both; }
+        .link-item:hover { background: #faf9f7; }
+        .link-number { font-family: 'DM Mono', monospace; font-size: 0.6rem; color: var(--muted); margin-bottom: 5px; }
+        .link-title { font-family: 'Playfair Display', serif; font-size: 0.88rem; font-weight: 700; line-height: 1.4; color: var(--ink); margin-bottom: 5px; }
+        .link-source { font-family: 'DM Mono', monospace; font-size: 0.58rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; margin-bottom: 6px; }
+        .link-text { font-size: 0.8rem; line-height: 1.5; color: #555; font-weight: 300; margin-bottom: 8px; }
+        .link-url { font-family: 'DM Mono', monospace; font-size: 0.65rem; color: var(--accent); text-decoration: none; }
+        .link-url:hover { text-decoration: underline; }
+        .link-url::after { content: ' \2192'; }
+
+        .loading-state { text-align: center; padding: 80px 20px; color: var(--muted); }
+        .loading-state .big { font-family: 'Playfair Display', serif; font-size: 2rem; font-weight: 700; color: var(--rule); display: block; margin-bottom: 12px; }
+        .loading-state p { font-size: 0.85rem; }
+
+        .rule { border: none; border-top: 1px solid var(--rule); margin: 40px 0; }
+
+        footer { border-top: 3px solid var(--ink); padding: 20px 40px; background: var(--paper); }
+        .footer-inner { max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; }
+        .footer-text { font-family: 'DM Mono', monospace; font-size: 0.65rem; color: var(--muted); letter-spacing: 0.08em; text-transform: uppercase; }
+        .footer-signal { font-family: 'Playfair Display', serif; font-size: 1rem; font-weight: 900; color: var(--rule); }
+
+        .raw-content { font-size: 0.9rem; line-height: 1.8; white-space: pre-wrap; font-weight: 300; color: #333; }
+        .raw-content a { color: var(--accent); }
+
+        @media (max-width: 768px) {
+            .page-layout { grid-template-columns: 1fr; }
+            .flower-column { display: none; }
+            .main { padding: 24px 20px 60px; }
+            .links-grid { grid-template-columns: 1fr; }
+            .past-issues-panel { right: 20px; }
+            .nav-panel { display: none; }
+            .nav-panel-links { flex-direction: column; gap: 10px; }
+        }
+    </style>
+</head>
+<body>
+
+    <header class="masthead">
+        <div class="masthead-inner">
+            <div class="masthead-left">
+                <div class="title">Dispatches<span>: AI</span></div>
+                <div class="byline">By Tim Britton</div>
+            </div>
+            <div class="masthead-right">
+                <div class="masthead-date" id="header-date"></div>
+                <button class="past-issues-btn" id="past-issues-btn" onclick="togglePastIssues()">Past Issues</button>
+            </div>
+        </div>
+        <div class="past-issues-panel" id="past-issues-panel">
+            <div class="past-issues-header">
+                <div class="past-issues-header-label">Archive</div>
+                <div class="past-issues-header-title">Previous Editions</div>
+            </div>
+            <div class="past-issues-list" id="past-issues-list">
+                <div class="past-issues-empty">Loading&#x2026;</div>
+            </div>
+        </div>
+    </header>
+
+    <div class="past-issue-banner" id="past-issue-banner">
+        <div class="past-issue-banner-inner">
+            <div class="past-issue-banner-text">Viewing edition from</div>
+            <div class="past-issue-banner-date" id="past-issue-banner-date"></div>
+            <button class="back-to-today" onclick="loadToday()">&#x2190; Back to Today</button>
+        </div>
+    </div>
+
+    <div class="hero-band">
+        <div class="hero-inner">
+            <div class="hero-label">Daily Briefing</div>
+            <div class="hero-desc">What matters in AI, publishing and IP. No noise. No hype. Just signal. <span style="opacity:0.6;margin-left:1.5em;font-size:0.85em;">&#9679; Live and refreshed from 7am UK time daily</span></div>
+        </div>
+    </div>
+
+
+<div class="page-layout">
+        <div class="flower-column">
+            <img class="flower-img" id="flower-img" src="" alt="Today's flower" />
+            <div class="flower-tagline" id="flower-tagline-sub"></div>
+        </div>
+<main class="main">
+    <div class="nav-panel">
+        <div class="nav-panel-inner">
+            <div class="nav-panel-label">In today's digest</div>
+            <div class="nav-panel-links">
+                <a href="#part1" class="nav-panel-link">Part 1 — General AI News</a>
+                <a href="#ethan" class="nav-panel-link">Ethan Mollick — One Useful Thing</a>
+                <a href="#part2" class="nav-panel-link">Part 2 — AI &amp; IP</a>
+            </div>
+        </div>
+    </div>
+    <div id="main-content">
+        <div class="loading-state">
+            <span class="big">Loading&#x2026;</span>
+            <p>Fetching today's digest.</p>
+        </div>
+    </div>
+</main>
+    <footer>
+        <div class="footer-inner">
+            <div class="footer-text">Automated daily &#xB7; Sources monitored via RSS &#xB7; Curated by AI &#xB7; Edited by nobody</div>
+            <div class="footer-signal">Dispatches: AI</div>
+        </div>
+    </footer>
+
+    <script>
+        const GITHUB_TOKEN = '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';
+        const REPO = 'TimBrittonAI/ai-news-digest';
+
+        const now = new Date();
+        const opts = { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' };
+        document.getElementById('header-date').textContent = now.toLocaleDateString('en-GB', opts);
+
+        function formatDate(dateStr) {
+            const [y, m, d] = dateStr.split('-').map(Number);
+            const date = new Date(y, m - 1, d);
+            return date.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+        }
+
+        function todayStr() { return now.toISOString().slice(0, 10); }
+
+        let currentDateStr = null;
+
+        const flowers = [
+            'rose','tulip','dahlia','peony','lavender','sunflower','orchid','iris',
+            'poppy','magnolia','cherry blossom','wisteria','hydrangea','cosmos flower',
+            'ranunculus','anemone','sweet pea','foxglove','lupin','allium',
+            'delphinium','freesia','protea','anthurium','bird of paradise',
+            'agapanthus','celosia','zinnia','marigold','chrysanthemum',
+            'camellia','jasmine','gardenia','hibiscus'
+        ];
+
+        const dayOfYear = Math.floor((now - new Date(now.getFullYear(), 0, 0)) / 86400000);
+        const flowerKeyword = flowers[dayOfYear % flowers.length];
+        document.getElementById('flower-tagline-sub').textContent = 'pretty ' + flowerKeyword + ' for the pretty lady';
+
+        const PEXELS_API_KEY = 'dbwIwAOi3X5bTdA6lPjq7isKyM16T3Ma2r96LQ6CxwvfbuM8pntW8R7x';
+
+        async function loadFlower() {
+            try {
+                const page = (dayOfYear % 3) + 1;
+                const res = await fetch(
+                    `https://api.pexels.com/v1/search?query=${encodeURIComponent(flowerKeyword + ' flower')}&orientation=portrait&per_page=1&page=${page}`,
+                    { headers: { Authorization: PEXELS_API_KEY } }
+                );
+                const data = await res.json();
+                if (data.photos && data.photos.length > 0) {
+                    document.getElementById('flower-img').src = data.photos[0].src.large;
+                    document.getElementById('flower-img').alt = data.photos[0].alt || flowerKeyword;
+                }
+            } catch (e) { console.log('Flower image could not load:', e); }
+        }
+        loadFlower();
+
+        async function loadArchive() {
+            try {
+                const res = await fetch('archive.txt?v=' + Date.now());
+                if (!res.ok) throw new Error('no archive');
+                const text = await res.text();
+                const dates = text.split(',').map(d => d.trim()).filter(d => d.length === 10);
+                buildPastIssuesList(dates);
+            } catch {
+                document.getElementById('past-issues-list').innerHTML = '<div class="past-issues-empty">No archive available yet.</div>';
+            }
+        }
+
+        function buildPastIssuesList(dates) {
+            const list = document.getElementById('past-issues-list');
+            if (!dates.length) { list.innerHTML = '<div class="past-issues-empty">No past issues yet.</div>'; return; }
+            const today = todayStr();
+            list.innerHTML = dates.map(d => `
+                <button class="past-issue-item ${d === today ? 'current' : ''}" onclick="loadIssue('${d}')">
+                    ${formatDate(d)}${d === today ? ' \u2014 Today' : ''}
+                </button>`).join('');
+        }
+
+        function togglePastIssues() {
+            const panel = document.getElementById('past-issues-panel');
+            const btn = document.getElementById('past-issues-btn');
+            const isOpen = panel.classList.contains('open');
+            panel.classList.toggle('open', !isOpen);
+            btn.classList.toggle('active', !isOpen);
+        }
+
+        document.addEventListener('click', function(e) {
+            const panel = document.getElementById('past-issues-panel');
+            const btn = document.getElementById('past-issues-btn');
+            if (!panel.contains(e.target) && e.target !== btn) {
+                panel.classList.remove('open');
+                btn.classList.remove('active');
+            }
+        });
+
+        async function loadIssue(dateStr) {
+            document.getElementById('past-issues-panel').classList.remove('open');
+            document.getElementById('past-issues-btn').classList.remove('active');
+            currentDateStr = dateStr;
+            const today = todayStr();
+            const banner = document.getElementById('past-issue-banner');
+            if (dateStr === today) {
+                banner.classList.remove('visible');
+            } else {
+                document.getElementById('past-issue-banner-date').textContent = formatDate(dateStr);
+                banner.classList.add('visible');
+            }
+            document.getElementById('main-content').innerHTML = `
+                <div class="loading-state">
+                    <span class="big">Loading&#x2026;</span>
+                    <p>Fetching edition from ${formatDate(dateStr)}.</p>
+                </div>`;
+            try {
+                const res = await fetch(`digest-${dateStr}.json?v=` + Date.now());
+                if (!res.ok) throw new Error('not found');
+                const ipRes = await fetch(`digest-ip-${dateStr}.json?v=` + Date.now());
+                const ipData = ipRes.ok ? await ipRes.json() : null;
+                await renderDigest(await res.json(), dateStr, ipData);
+            } catch {
+                document.getElementById('main-content').innerHTML = `
+                    <div class="loading-state">
+                        <span class="big">Not found.</span>
+                        <p>The edition for ${formatDate(dateStr)} is not available.</p>
+                    </div>`;
+            }
+        }
+
+        function loadToday() { loadIssue(todayStr()); }
+
+        function getDomain(url) {
+            try { return new URL(url).hostname.replace(/^www\./, ''); }
+            catch { return ''; }
+        }
+
+        const VOTES_KEY = 'signal_votes';
+        const STORY_TOPICS = {}; // Map of url -> topics array, populated during renderDigest
+        function getVotes() { try { return JSON.parse(localStorage.getItem(VOTES_KEY)) || {}; } catch { return {}; } }
+        function getVote(url) { const v = getVotes()[url]; return v ? v.direction : null; }
+
+        async function writePendingVoteToGitHub(title, direction, isIP, topics) {
+            try {
+                const endpoint = isIP ? '/vote-ip' : '/vote';
+                await fetch('https://signal-news.t-britton-uk.workers.dev' + endpoint, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ title, direction, topics: topics || [], date: todayStr() })
+                });
+            } catch(e) { console.log('Could not write pending vote:', e); }
+        }
+
+        async function voteStory(url, title, direction, btnUpId, btnDownId, isIP) {
+            const votes = getVotes();
+            const current = votes[url] ? votes[url].direction : null;
+            if (current === direction) {
+                delete votes[url];
+            } else {
+                votes[url] = { direction };
+                const topics = STORY_TOPICS[url] || [];
+                writePendingVoteToGitHub(title, direction, isIP, topics);
+            }
+            try { localStorage.setItem(VOTES_KEY, JSON.stringify(votes)); } catch(e) {}
+            const btnUp = document.getElementById(btnUpId);
+            const btnDown = document.getElementById(btnDownId);
+            const newVote = votes[url] ? votes[url].direction : null;
+            if (btnUp) btnUp.classList.toggle('active-up', newVote === 'up');
+            if (btnDown) btnDown.classList.toggle('active-down', newVote === 'down');
+        }
+
+        function voteButtonsHTML(url, title, idSuffix, isIP) {
+            const vote = getVote(url);
+            const upId = `vote-up-${idSuffix}`;
+            const downId = `vote-down-${idSuffix}`;
+            const escapedTitle = title.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+            const ipFlag = isIP ? 'true' : 'false';
+            return `<div class="vote-row">
+                <span class="vote-label">Useful?</span>
+                <button id="${upId}" class="vote-btn ${vote === 'up' ? 'active-up' : ''}"
+                    onclick="voteStory('${url}', '${escapedTitle}', 'up', '${upId}', '${downId}', ${ipFlag})">&#x1F44D;</button>
+                <button id="${downId}" class="vote-btn ${vote === 'down' ? 'active-down' : ''}"
+                    onclick="voteStory('${url}', '${escapedTitle}', 'down', '${upId}', '${downId}', ${ipFlag})">&#x1F44E;</button>
+            </div>`;
+        }
+
+    // Helper: fetches JSON with sanitisation to strip hidden invalid characters
+async function fetchJsonSanitised(url) {
+    const res = await fetch(url);
+    if (!res.ok) throw new Error('fetch failed');
+    const text = await res.text();
+    // Strip C0/C1 control chars (except \t \n \r) and zero-width characters
+    const cleaned = text.replace(/[\x00-\x08\x0B\x0C\x0E-\x1F\x7F-\x9F\u200B-\u200D\uFEFF]/g, '');
+    return JSON.parse(cleaned);
+}
+
+async function loadDigest() {
+    const today = todayStr();
+    let stale = false;
+    try {
+        const data = await fetchJsonSanitised(`digest-${today}.json?v=` + Date.now());
+        let ipData = null;
+        try {
+            ipData = await fetchJsonSanitised(`digest-ip-${today}.json?v=` + Date.now());
+        } catch {
+            ipData = null;
+        }
+        currentDateStr = today;
+        await renderDigest(data, today, ipData);
+    } catch {
+        try {
+            const data2 = await fetchJsonSanitised('digest.json?v=' + Date.now());
+            currentDateStr = today;
+            stale = true;
+            await renderDigest(data2, today, null);
+        } catch {
+            try {
+                const res3 = await fetch('digest.txt?v=' + Date.now());
+                if (!res3.ok) throw new Error('no txt');
+                stale = true;
+                renderRaw(await res3.text());
+            } catch {
+                document.getElementById('main-content').innerHTML = `
+                    <div class="loading-state">
+                        <span class="big">No digest yet.</span>
+                        <p>Content will appear here once the first automated run completes.</p>
+                    </div>`;
+            }
+        }
+    }
+    if (stale) {
+        const banner = document.createElement('div');
+        banner.style.cssText = 'background:#d4a017;color:#1a1a1a;text-align:center;padding:10px 16px;font-size:14px;font-weight:500;';
+        banner.textContent = "Mmm...something's not worked, today's digest hasn't arrived and so you are viewing an earlier edition";
+        document.body.insertBefore(banner, document.body.firstChild);
+    }
+}
+        function renderRaw(text) {
+            const html = text
+                .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+                .replace(/\[Read more\]\((https?:\/\/[^\)]+)\)/g, '<a href="$1" target="_blank" rel="noopener">Read more &#x2192;</a>')
+                .replace(/\[(.*?)\]\((https?:\/\/[^\)]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>')
+                .replace(/^(\d+)\.\s+(.+)$/gm, (_, n, t) => `<div class="story-number">Story ${String(n).padStart(2,'0')}</div><div class="story-title">${t}</div>`)
+                .replace(/### (.*)/g, '<h3 style="font-family:\'Playfair Display\',serif;margin:32px 0 16px;font-size:1.3rem;font-weight:900;">$1</h3>')
+                .replace(/\n\n/g, '</p><p style="margin-bottom:12px;">');
+            document.getElementById('main-content').innerHTML = `
+                <div class="section-header">
+                    <div><div class="section-label">Today's Digest</div>
+                    <div class="section-title">AI News &#x2014; ${now.toLocaleDateString('en-GB', { day:'numeric', month:'long', year:'numeric' })}</div></div>
+                </div>
+                <div class="story-card"><div class="raw-content"><p style="margin-bottom:12px;">${html}</p></div></div>`;
+        }
+
+        async function renderDigest(data, dateStr, ipData) {
+            const isToday = dateStr === todayStr();
+            const displayDate = formatDate(dateStr);
+            let html = '';
+
+            // SECTION 01: Top Stories
+            if (data.top_stories && data.top_stories.length) {
+                html += `<div id="part1" class="section-header">
+                    <div class="section-number">01</div>
+                    <div>
+                        <div class="section-label">Part 1 — General AI News</div>
+                        <div class="section-title">${isToday ? 'Five things worth your time' : displayDate}</div>
+                    </div>
+                </div>
+                <div class="section-note">&#x1F44D; &#x1F44E; Use the thumbs on each story to help us learn what matters to you — your feedback shapes tomorrow's selection.</div>`;
+                data.top_stories.forEach((s, i) => {
+                    if (s.url && s.topics) STORY_TOPICS[s.url] = s.topics;
+                    const domain = s.url ? getDomain(s.url) : '';
+                    const idSuffix = `top-${i}`;
+                    html += `<div class="story-card" style="animation-delay:${i*0.07}s">
+                        <div class="story-number">Story ${String(i+1).padStart(2,'0')}</div>
+                        <div class="story-title">${s.title}</div>
+                        ${domain ? `<div class="story-source">${domain}</div>` : ''}
+                        <div class="story-summary">${s.summary}</div>
+                        ${s.url ? `<a href="${s.url}" target="_blank" rel="noopener" class="story-link">Read original &#x2192;</a>` : ''}
+                        ${s.url ? voteButtonsHTML(s.url, s.title, idSuffix, false) : ''}
+                    </div>`;
+                });
+            }
+
+            // SECTION 02: Ethan Mollick
+            let em = (data.ethan_mollick && data.ethan_mollick.title) ? data.ethan_mollick : null;
+            if (!em) {
+                try {
+                    const emRes = await fetch('https://signal-news.t-britton-uk.workers.dev/em-feed');
+                    const emData = await emRes.json();
+                    if (emData.title && emData.link) em = { title: emData.title, url: emData.link, summary: emData.summary || '' };
+                } catch(e) { console.log('Could not fetch EM from worker:', e); }
+            }
+            if (em && em.title) {
+                html += `<hr class="rule">
+                <div id="ethan" class="section-header">
+                    <div class="section-number">02</div>
+                    <div>
+                        <div class="section-label">One Useful Thing</div>
+                        <div class="section-title">Latest from Ethan Mollick</div>
+                    </div>
+                </div>
+                <div class="story-card">
+                    <div class="story-title">${em.title}</div>
+                    <div class="story-source">oneusefulthing.substack.com</div>
+                    <div class="story-summary">${em.summary}</div>
+                    <a href="${em.url}" target="_blank" rel="noopener" class="story-link">Read on Substack &#x2192;</a>
+                </div>`;
+            }
+
+            // SECTION 03: Further Links
+            if (data.further_links && data.further_links.length) {
+                html += `<hr class="rule">
+                <div class="section-header">
+                    <div class="section-number">03</div>
+                    <div>
+                        <div class="section-label">Also Worth Knowing</div>
+                        <div class="section-title">More links from the feed</div>
+                    </div>
+                </div>
+                <div class="section-note">&#x1F44D; &#x1F44E; Rate these too — the more you vote, the more personalised your digest becomes.</div>
+                <div class="links-grid">`;
+                data.further_links.slice(0, 10).forEach((l, i) => {
+                    if (l.url && l.topics) STORY_TOPICS[l.url] = l.topics;
+                    const domain = l.url ? getDomain(l.url) : '';
+                    const idSuffix = `further-${i}`;
+                    html += `<div class="link-item" style="animation-delay:${(i*0.05)+0.3}s">
+                        <div class="link-number">${String(i+1).padStart(2,'0')}</div>
+                        ${l.title ? `<div class="link-title">${l.title}</div>` : ''}
+                        ${domain ? `<div class="link-source">${domain}</div>` : ''}
+                        <div class="link-text">${l.summary}</div>
+                        ${l.url ? `<a href="${l.url}" target="_blank" rel="noopener" class="link-url">Read more</a>` : ''}
+                        ${l.url ? voteButtonsHTML(l.url, l.title, idSuffix, false) : ''}
+                    </div>`;
+                });
+                html += `</div>`;
+            }
+
+            // PART 2: AI & IP
+            if (ipData && (ipData.ip_top_stories || ipData.ip_further_links)) {
+                html += `<hr id="part2" class="part-divider">`;
+
+                if (ipData.ip_top_stories && ipData.ip_top_stories.length) {
+                    html += `<div class="section-header" style="margin-top:0;">
+                        <div class="section-number">04</div>
+                        <div>
+                            <div class="section-label">Part 2 — AI &amp; IP</div>
+                            <div class="section-title">What matters in AI &amp; intellectual property</div>
+                        </div>
+                    </div>
+                    <div class="section-note">&#x1F44D; &#x1F44E; Rate these stories to shape your AI &amp; IP coverage.</div>`;
+                    ipData.ip_top_stories.forEach((s, i) => {
+                        if (s.url && s.topics) STORY_TOPICS[s.url] = s.topics;
+                        const domain = s.url ? getDomain(s.url) : '';
+                        const idSuffix = `ip-top-${i}`;
+                        html += `<div class="story-card" style="animation-delay:${i*0.07}s">
+                            <div class="story-number">Story ${String(i+1).padStart(2,'0')}</div>
+                            <div class="story-title">${s.title}</div>
+                            ${domain ? `<div class="story-source">${domain}</div>` : ''}
+                            <div class="story-summary">${s.summary}</div>
+                            ${s.url ? `<a href="${s.url}" target="_blank" rel="noopener" class="story-link">Read original &#x2192;</a>` : ''}
+                            ${s.url ? voteButtonsHTML(s.url, s.title, idSuffix, true) : ''}
+                        </div>`;
+                    });
+                }
+
+                if (ipData.ip_further_links && ipData.ip_further_links.length) {
+                    html += `<hr class="rule">
+                    <div class="section-header">
+                        <div class="section-number">05</div>
+                        <div>
+                            <div class="section-label">AI &amp; IP — Also worth your attention </div>
+                            <div class="section-title">More from the AI &amp; IP feed</div>
+                        </div>
+                    </div>
+                    <div class="links-grid">`;
+                    ipData.ip_further_links.forEach((l, i) => {
+                        if (l.url && l.topics) STORY_TOPICS[l.url] = l.topics;
+                        const domain = l.url ? getDomain(l.url) : '';
+                        const idSuffix = `ip-further-${i}`;
+                        html += `<div class="link-item" style="animation-delay:${(i*0.05)+0.3}s">
+                            <div class="link-number">${String(i+1).padStart(2,'0')}</div>
+                            ${l.title ? `<div class="link-title">${l.title}</div>` : ''}
+                            ${domain ? `<div class="link-source">${domain}</div>` : ''}
+                            <div class="link-text">${l.summary}</div>
+                            ${l.url ? `<a href="${l.url}" target="_blank" rel="noopener" class="link-url">Read more</a>` : ''}
+                            ${l.url ? voteButtonsHTML(l.url, l.title, idSuffix, true) : ''}
+                        </div>`;
+                    });
+                    html += `</div>`;
+                }
+            }
+
+            document.getElementById('main-content').innerHTML = html ||
+                '<div class="loading-state"><span class="big">Empty digest.</span><p>No stories were returned in the last run.</p></div>';
+        }
+
+        loadArchive();
+        loadDigest();
+    </script>
+
+<div style="position:fixed; bottom:20px; right:20px; z-index:9999;">
+<elevenlabs-convai agent-id="agent_5301kkc9q2dqfyh98f5791dep1w4"></elevenlabs-convai>
+</div>
+<script src="https://unpkg.com/@elevenlabs/convai-widget-embed" async type="text/javascript"></script>
+</body>
+</html>
