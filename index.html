@@ -520,45 +520,57 @@
             </div>`;
         }
 
-       async function loadDigest() {
-            const today = todayStr();
-            let stale = false;
+    // Helper: fetches JSON with sanitisation to strip hidden invalid characters
+async function fetchJsonSanitised(url) {
+    const res = await fetch(url);
+    if (!res.ok) throw new Error('fetch failed');
+    const text = await res.text();
+    // Strip C0/C1 control chars (except \t \n \r) and zero-width characters
+    const cleaned = text.replace(/[\x00-\x08\x0B\x0C\x0E-\x1F\x7F-\x9F\u200B-\u200D\uFEFF]/g, '');
+    return JSON.parse(cleaned);
+}
+
+async function loadDigest() {
+    const today = todayStr();
+    let stale = false;
+    try {
+        const data = await fetchJsonSanitised(`digest-${today}.json?v=` + Date.now());
+        let ipData = null;
+        try {
+            ipData = await fetchJsonSanitised(`digest-ip-${today}.json?v=` + Date.now());
+        } catch {
+            ipData = null;
+        }
+        currentDateStr = today;
+        await renderDigest(data, today, ipData);
+    } catch {
+        try {
+            const data2 = await fetchJsonSanitised('digest.json?v=' + Date.now());
+            currentDateStr = today;
+            stale = true;
+            await renderDigest(data2, today, null);
+        } catch {
             try {
-                const res = await fetch(`digest-${today}.json?v=` + Date.now());
-                if (!res.ok) throw new Error('no json');
-                const ipRes = await fetch(`digest-ip-${today}.json?v=` + Date.now());
-                const ipData = ipRes.ok ? await ipRes.json() : null;
-                currentDateStr = today;
-                await renderDigest(await res.json(), today, ipData);
+                const res3 = await fetch('digest.txt?v=' + Date.now());
+                if (!res3.ok) throw new Error('no txt');
+                stale = true;
+                renderRaw(await res3.text());
             } catch {
-                try {
-                    const res2 = await fetch('digest.json?v=' + Date.now());
-                    if (!res2.ok) throw new Error('no json');
-                    currentDateStr = today;
-                    stale = true;
-                    await renderDigest(await res2.json(), today, null);
-                } catch {
-                    try {
-                        const res3 = await fetch('digest.txt?v=' + Date.now());
-                        if (!res3.ok) throw new Error('no txt');
-                        stale = true;
-                        renderRaw(await res3.text());
-                    } catch {
-                        document.getElementById('main-content').innerHTML = `
-                            <div class="loading-state">
-                                <span class="big">No digest yet.</span>
-                                <p>Content will appear here once the first automated run completes.</p>
-                            </div>`;
-                    }
-                }
-            }
-            if (stale) {
-                const banner = document.createElement('div');
-                banner.style.cssText = 'background:#d4a017;color:#1a1a1a;text-align:center;padding:10px 16px;font-size:14px;font-weight:500;';
-                banner.textContent = "Mmm...something's not worked, today's digest hasn't arrived and so you are viewing an earlier edition";
-                document.body.insertBefore(banner, document.body.firstChild);
+                document.getElementById('main-content').innerHTML = `
+                    <div class="loading-state">
+                        <span class="big">No digest yet.</span>
+                        <p>Content will appear here once the first automated run completes.</p>
+                    </div>`;
             }
         }
+    }
+    if (stale) {
+        const banner = document.createElement('div');
+        banner.style.cssText = 'background:#d4a017;color:#1a1a1a;text-align:center;padding:10px 16px;font-size:14px;font-weight:500;';
+        banner.textContent = "Mmm...something's not worked, today's digest hasn't arrived and so you are viewing an earlier edition";
+        document.body.insertBefore(banner, document.body.firstChild);
+    }
+}
         function renderRaw(text) {
             const html = text
                 .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
