@@ -4,9 +4,9 @@
     "e-commerce": 1,
     "chatbots": 1,
     "defense": 2,
-    "legal": 2,
+    "legal": 3,
     "ai video": 1,
-    "openai": 2,
+    "openai": 3,
     "business": 1,
     "consumer research": 1,
     "market research": 1,
@@ -34,6 +34,7 @@
     "research integrity": 1,
     "ai detection": 1,
     "tiktok": 1,
-    "leadership": 1
+    "leadership": 1,
+    "ai governance": 1
   }
 }
