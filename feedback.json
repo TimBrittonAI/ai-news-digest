@@ -6,7 +6,7 @@
     "Defense": 2,
     "Legal": 2,
     "AI Video": 1,
-    "OpenAI": 1,
+    "OpenAI": 2,
     "Business": 1,
     "Consumer Research": 1,
     "Market Research": 1,
@@ -35,6 +35,7 @@
     "Research Integrity": 1,
     "AI detection": 1,
     "TikTok": 1,
-    "advertising": 1
+    "advertising": 1,
+    "leadership": 1
   }
 }
