@@ -1,8 +1,10 @@
 {
   "topic_votes": {
-    "ai copyright": 2,
+    "ai copyright": 3,
     "testing": 1,
     "litigation": 1,
-    "licensing": 1
+    "licensing": 1,
+    "eu law": 1,
+    "policy": 1
   }
 }
