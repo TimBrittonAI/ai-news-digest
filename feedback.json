@@ -18,7 +18,7 @@
     "language translation": 1,
     "academic publishing": 2,
     "copyright": 1,
-    "generative ai": 1,
+    "generative ai": 2,
     "fair use": 1,
     "acquisitions": -1,
     "advertising": 3,
@@ -37,6 +37,8 @@
     "leadership": 1,
     "ai governance": 1,
     "ai coding tools": 1,
-    "large language models": 1
+    "large language models": 1,
+    "ai search": 1,
+    "google": 1
   }
 }
