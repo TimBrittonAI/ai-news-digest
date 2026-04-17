@@ -1,0 +1,67 @@
+{
+  "top_stories": [
+    {
+      "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
+      "summary": "Dairy Queen is deploying an AI chatbot system in its drive-thru lanes, joining a growing trend of quick-service restaurants experimenting with automated ordering technology. The move reflects broader interest from fast food chains in using AI to streamline customer interactions and reduce labour costs.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
+      "topics": ["AI in retail", "chatbots", "quick-service restaurants"]
+    },
+    {
+      "title": "The beginning of scarcity in AI",
+      "summary": "Analyst Tom Tunguz argues that AI compute is entering a period of genuine scarcity in 2026, with demand for inference and training capacity outpacing supply. The post examines the downstream implications for AI businesses and product development as access to compute becomes a competitive constraint.",
+      "url": "https://tomtunguz.com/ai-compute-crisis-2026/",
+      "topics": ["AI compute", "AI infrastructure", "AI industry"]
+    },
+    {
+      "title": "The 'AI is inevitable' trap",
+      "summary": "The Vergecast examines the framing around AI as an unstoppable force, including comments from OpenAI's Sam Altman, and questions whether the 'inevitability' narrative shapes public and policy responses in ways that foreclose meaningful debate. The episode explores technology ethics and how industry leaders position AI adoption.",
+      "url": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
+      "topics": ["AI ethics", "OpenAI", "technology ethics"]
+    },
+    {
+      "title": "The Download: bad news for inner Neanderthals, and AI warfare's human illusion",
+      "summary": "MIT Technology Review's daily briefing covers new research questioning how meaningful human oversight actually is in AI-assisted military decision-making, raising concerns about the 'human in the loop' assumption in defence applications. The piece highlights growing scrutiny of whether nominal human control provides genuine accountability in AI warfare systems.",
+      "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
+      "topics": ["AI safety", "defense", "AI ethics"]
+    },
+    {
+      "title": "Microsoft Expands Copilot and AI Agent Capabilities in Power Apps",
+      "summary": "Microsoft has announced expanded Copilot and AI agent functionality within its Power Apps platform, extending low-code AI tooling to a broader range of enterprise users. The update reflects Microsoft's continued push to embed generative AI capabilities across its business software suite.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVHRMdU5xVTZIMklyem5LMXlINGJSdkF1RWpIRFlEa0N1WHRyaUh1b1NtMTVhVkduRC15X3VpMzBFZnIyYmhycFl5b1JCdWM4S0Q4QjdCSzByZXJ2QXQ2bEFtMUtPVGxWYTRjSGh3TU1RcHlfZC03b3N6V1J5VFp2QWRQc0JrM3FyNHZHM09IdDF3NktKOEdQUXJJWTV6UQ",
+      "topics": ["generative AI", "AI coding tools", "large language models"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "AI Drafting My Stories? Over My Dead Body [Metered]",
+      "summary": "A Wired backchannel piece pushes back on the growing normalisation of AI-assisted writing in journalism, arguing that AI drafting fundamentally undermines the craft and integrity of reporting.",
+      "url": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
+      "topics": ["generative AI", "AI ethics", "content policy"]
+    },
+    {
+      "title": "xAI rolls out Grok 4.3 beta for SuperGrok Heavy subscribers",
+      "summary": "xAI has released a beta version of Grok 4.3 to its SuperGrok Heavy subscribers, continuing iterative updates to its large language model.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90MHJfNFB1a21EMVREMFhlcTRqNEJ2c2Nscm9EdkFFQ0pHWERndjBnbXZSSmdJZlFweUJySFdNTG12cXN4dVpZb2UtRURMXzhfUXZYT0JFaDdTWjlLV1J4M2xnLUFiZXhLWGNJd2g4a19OLUZQVHVF",
+      "topics": ["large language models", "AI industry", "generative AI"]
+    },
+    {
+      "title": "George Orwell Predicted the Rise of \"AI Slop\" in Nineteen Eighty-Four",
+      "summary": "Open Culture draws parallels between Orwell's fictional 'Versificator' machine in Nineteen Eighty-Four and the modern proliferation of low-quality AI-generated content, arguing Orwell anticipated the cultural consequences of automated content production.",
+      "url": "https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html",
+      "topics": ["generative AI", "AI ethics", "content policy"]
+    },
+    {
+      "title": "How robots learn: A brief, contemporary history [Metered]",
+      "summary": "MIT Technology Review traces the recent evolution of robot learning techniques, from reinforcement learning to large-scale data-driven approaches that have accelerated capabilities in the past few years.",
+      "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
+      "topics": ["AI research", "robotics", "large language models"]
+    },
+    {
+      "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
+      "summary": "Ars Technica reports on diverging approaches among major technology companies to post-quantum cryptography readiness, with some accelerating migration while others maintain existing timelines despite growing concern about quantum computing threats.",
+      "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
+      "topics": ["AI infrastructure", "technology ethics", "AI safety"]
+    }
+  ],
+  "ethan_mollick": null
+}
