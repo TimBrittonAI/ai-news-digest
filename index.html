@@ -146,6 +146,8 @@
         .hero-inner { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; gap: 24px; }
         .hero-label { font-family: 'DM Mono', monospace; font-size: 0.65rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--accent); white-space: nowrap; }
         .hero-desc { font-size: 0.85rem; color: #aaa; font-weight: 300; }
+        .hero-desc-mobile { display: none; }
+        .hero-desc-desktop { display: inline; }
 .nav-panel {
     position: sticky;
     top: 80px;
@@ -278,6 +280,37 @@
             .past-issues-panel { right: 20px; }
             .nav-panel { display: none; }
             .nav-panel-links { flex-direction: column; gap: 10px; }
+
+            /* Mobile masthead: compact two-row layout */
+            .masthead { padding: 0 20px; }
+            .masthead-inner {
+                flex-wrap: wrap;
+                padding: 12px 0 10px;
+                gap: 8px;
+            }
+            .masthead-left {
+                flex-direction: row;
+                align-items: baseline;
+                gap: 10px;
+                width: 100%;
+            }
+            .title { font-size: 1.6rem; }
+            .byline { font-size: 0.55rem; text-align: left; }
+            .masthead-right {
+                width: 100%;
+                justify-content: space-between;
+                gap: 10px;
+            }
+            .masthead-date { font-size: 0.62rem; }
+            .past-issues-btn { font-size: 0.6rem; padding: 4px 8px; }
+
+            /* Mobile hero band: single-line tagline, label hidden */
+            .hero-band { padding: 8px 20px; }
+            .hero-inner { gap: 0; }
+            .hero-label { display: none; }
+            .hero-desc { font-size: 0.72rem; line-height: 1.45; }
+            .hero-desc-desktop { display: none; }
+            .hero-desc-mobile { display: inline; }
         }
     </style>
 </head>
@@ -316,7 +349,10 @@
     <div class="hero-band">
         <div class="hero-inner">
             <div class="hero-label">Daily Briefing</div>
-            <div class="hero-desc">What matters in AI, publishing and IP. No noise. No hype. Just signal. <span style="opacity:0.6;margin-left:1.5em;font-size:0.85em;">&#9679; Live and refreshed from 7am UK time daily</span></div>
+            <div class="hero-desc">
+                <span class="hero-desc-desktop">What matters in AI, publishing and IP. No noise. No hype. Just signal. <span style="opacity:0.6;margin-left:1.5em;font-size:0.85em;">&#9679; Live and refreshed from 7am UK time daily</span></span>
+                <span class="hero-desc-mobile">What matters in AI and publishing. No noise. Just signal. Refreshed at 7am daily.</span>
+            </div>
         </div>
     </div>
 
