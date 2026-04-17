@@ -1,0 +1,85 @@
+{
+  "top_stories": [
+    {
+      "title": "Musk v. Altman Is a Battle for OpenAI's Soul",
+      "summary": "Wired examines the legal and ideological conflict between Elon Musk and Sam Altman as their trial over OpenAI's direction and structure approaches. The case centres on whether OpenAI has strayed from its founding mission as a nonprofit and what control, if any, Musk can assert over its future. The outcome could have significant implications for AI governance and the structure of major AI organisations.",
+      "url": "https://www.wired.com/story/musk-v-altman-trial-openai-xai/",
+      "topics": ["OpenAI", "AI governance", "legal"]
+    },
+    {
+      "title": "The 'AI is inevitable' trap [Paywalled]",
+      "summary": "The Vergecast examines the rhetoric of AI inevitability, exploring how the framing that AI progress is unstoppable shapes public discourse and policy decisions. The episode features discussion of Sam Altman's vision and how the 'inevitable' narrative affects scrutiny of AI companies. It raises questions about technology ethics and whether the assumption of inevitability forecloses meaningful debate.",
+      "url": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
+      "topics": ["AI ethics", "technology ethics", "OpenAI"]
+    },
+    {
+      "title": "The Download: bad news for inner Neanderthals, and AI warfare's human illusion",
+      "summary": "MIT Technology Review covers the growing debate around human oversight in AI-driven warfare, questioning whether the concept of a 'human in the loop' in autonomous weapons systems provides meaningful control or is largely illusory. The piece examines how speed and complexity in AI military decision-making can reduce human agency to a rubber-stamp function. This raises significant concerns for AI safety and defense ethics.",
+      "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
+      "topics": ["AI safety", "defense", "AI ethics"]
+    },
+    {
+      "title": "The beginning of scarcity in AI",
+      "summary": "Analyst Tom Tunguz argues that 2026 marks the start of a meaningful compute scarcity era in AI, as demand for AI infrastructure outpaces available supply. The post examines how this constraint will affect AI development timelines, competition among labs, and pricing dynamics. It suggests that scarcity could become a defining strategic factor for AI businesses in the near term.",
+      "url": "https://tomtunguz.com/ai-compute-crisis-2026/",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    },
+    {
+      "title": "Microsoft Expands Copilot and AI Agent Capabilities in Power Apps",
+      "summary": "Microsoft has announced expanded Copilot and AI agent features within its Power Apps platform, enabling users to build and deploy AI-assisted business applications with greater automation. The update reflects Microsoft's continued push to embed generative AI deeply into its enterprise productivity suite. The move is likely to accelerate adoption of AI agents in business workflows.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVHRMdU5xVTZIMklyem5LMXlINGJSdkF1RWpIRFlEa0N1WHRyaUh1b1NtMTVhVkduRC15X3VpMzBFZnIyYmhycFl5b1JCdWM4S0Q4QjdCSzByZXJ2QXQ2bEFtMUtPVGxWYTRjSGh3TU1RcHlfZC03b3N6V1J5VFp2QWRQc0JrM3FyNHZHM09IdDF3NktKOEdQUXJJWTV6UQ",
+      "topics": ["generative AI", "AI coding tools", "large language models"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "How robots learn: A brief, contemporary history",
+      "summary": "MIT Technology Review traces the evolution of robot learning, from early rule-based systems to modern reinforcement and imitation learning techniques that underpin today's most capable robotic AI.",
+      "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
+      "topics": ["AI", "robotics", "large language models"]
+    },
+    {
+      "title": "xAI rolls out Grok 4.3 beta for SuperGrok Heavy subscribers",
+      "summary": "Elon Musk's xAI has released a beta version of Grok 4.3 to its SuperGrok Heavy subscribers, continuing the incremental rollout of its large language model.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90MHJfNFB1a21EMVREMFhlcTRqNEJ2c2Nscm9EdkFFQ0pHWERndjBnbXZSSmdJZlFweUJySFdNTG12cXN4dVpZb2UtRURMXzhfUXZYT0JFaDdTWjlLV1J4M2xnLUFiZXhLWGNJd2g4a19OLUZQVHVF",
+      "topics": ["large language models", "AI industry", "generative AI"]
+    },
+    {
+      "title": "Forbes 2026 AI 50 List | Top Artificial Intelligence Companies",
+      "summary": "Forbes has published its 2026 AI 50 list, highlighting the most prominent and promising artificial intelligence companies across sectors.",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn",
+      "topics": ["AI industry", "AI", "business"]
+    },
+    {
+      "title": "AI Drafting My Stories? Over My Dead Body",
+      "summary": "Wired's Backchannel section features a journalist's strong rejection of AI being used to draft editorial content, raising broader questions about generative AI's role in professional writing and content authenticity.",
+      "url": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
+      "topics": ["generative AI", "AI ethics", "content policy"]
+    },
+    {
+      "title": "CIOs Struggle to Deliver Business Value as AI and Complexity Expose Gaps in Their Applications Strategy",
+      "summary": "A new Info-Tech Research Group report finds that many CIOs are finding it difficult to translate AI investment into measurable business outcomes, citing complexity and application strategy gaps.",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPN0lvVG9pWE1Gb2NYSi1ST0ROa0dreDRtZjNXV3VxNnFMTHFxMEZpUy1KRDRaUFZKNkJMMFE5U2dIQkdPcklBQi1UbGRCZTV0a2lPd201eGdHX0I3dFYzWFh1ZF9ocjhKczItR19ZTWZvbWFodnc2UGM0SHNEQ2FrVXREWWx2ZFl3ZGRIcXZRekd5cnlfRzVLalN5bG1pdHY4Q01aeW5WaE1ndFk4NVVaTnRiWEx0MGhHamdaX1hBRDkyaHVsTWVtTlIwejdsbGlZSm81WXByLVVXNmhWb1dTRWhvOV9ZaWs5eGc",
+      "topics": ["AI industry", "business", "ai"]
+    },
+    {
+      "title": "George Orwell Predicted the Rise of \"AI Slop\" in Nineteen Eighty-Four",
+      "summary": "Open Culture draws parallels between Orwell's fictional \"Versificator\" machine in Nineteen Eighty-Four and today's generative AI content, arguing Orwell anticipated the production of low-quality, mass-generated media.",
+      "url": "https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html",
+      "topics": ["generative AI", "AI ethics", "content policy"]
+    },
+    {
+      "title": "Recent advances push Big Tech closer to the Q-Day danger zone",
+      "summary": "Ars Technica reports that advances in quantum computing are accelerating timelines toward \"Q-Day\" — the point at which quantum computers could break current encryption — with major tech firms taking divergent approaches to post-quantum cryptography readiness.",
+      "url": "https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/",
+      "topics": ["AI", "technology ethics", "ai safety"]
+    },
+    {
+      "title": "2026 Logistics IT Trends: AI, Investment & Integration Challenges Accelerate",
+      "summary": "A new report outlines how AI adoption in logistics IT is accelerating in 2026, while integration complexity and investment pressures remain significant hurdles for the sector.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWmh2WEhKZU13MVVrVEE4MFUtOVpTRXM2c1B1S3BfZlh4Mk14TkpQbWowSzUxMVdmTHpRd0xZZW5PZzR6Z1dzSnI0bF9vVUV0R2RSNUJfeXd5dlhiTUhYWmwycWg3S1NfaDhZTVpVQjh6VEpZZXRrb09pYzFmYmlOU2hQcVhxT1Znb1ZSNTR0SW9RM3EwcTBoUnYzNnF0Rkt0UUphckhGTHo",
+      "topics": ["AI industry", "business", "ai"]
+    }
+  ],
+  "ethan_mollick": null
+}
