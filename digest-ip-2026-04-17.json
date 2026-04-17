@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Sony Copyright Suit Survives AI Music Generator's Dismissal Bid",
+      "summary": "A court has allowed Sony's copyright infringement suit against an AI music generator to proceed, rejecting the defendant's motion to dismiss. The case is among the growing body of litigation testing whether AI-generated or AI-assisted music products infringe existing copyrights. This ruling signals that DMCA claims against AI music platforms have legal traction.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYTZMNXlEQXloYkJkbTBGRFJ4VGNsVDFraG1BMlR3SnpqY2xwRmowN2tPVnIxMEF2dkpCcHVDMFpZb3hmMkgzdTQwMEU4OFpQbXpiVnJEUExNa1NGT2lhdUxpVUNpcDM1UkV4VnhzR1d3M1RlN1UtdjlKaTBHV0ZQNjE1X2Q3VWFVVXV0QVEwNHRMQzIyUHRiazlnVGpWVFgxQWVnajl2U0hZLVlXLWNZZGk3LUk?oc=5",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "AI Music Generator Can't Duck DMCA Claim",
+      "summary": "A court has ruled that an AI music generator cannot escape a DMCA copyright claim, in a decision that reinforces the applicability of existing copyright law to AI music tools. The ruling is significant for rights holders pursuing infringement actions against AI audio platforms.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONHA4Q0NMa2FrVU9jNkMzMEwwc29VSWd6V1JzYjNMb0N3eXh2WlNmOWVEOTRYbENvR1lublk3X3ZEb0xnYlZhSkZyMDBtOFVIYlhnQm9aTDROTU1CRVBjOUNMUDAzUmRsUHZLX1V0cklBMVFOa2ZOUmd2dVpsYWxrVThpZzkzSXVO0gFWQVVfeXFMTW1iR3U0UDBMQUN4Q0JMbjVBd3cwNFc1ZlBGcDR6RDc0RDlhdUN4ZlBoMmxYOFk2eHRoYnY0RkxRazJFay1yZUJ2Zml3ZU85aTVoQ2t4c2c?oc=5",
+      "topics": ["AI copyright", "litigation", "DMCA"]
+    },
+    {
+      "title": "Copyright owners v AI developers: the emerging trends",
+      "summary": "An analysis of the key emerging legal trends in disputes between copyright owners and AI developers, covering training data litigation, fair use arguments, and licensing negotiations. The piece maps the evolving landscape as courts and legislators begin to shape the boundaries of AI and copyright law.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTHdMZTZSMUJ0Q2J0aG00djJqc1VxU0dvQ1hfbGJRNkVORWFJaTAwbExOSTlpU2FnSU9CT3R3V0RCSFJXcUFfUWZKLTNZdDgwNjFVZ1NSdmdNbG1YUWxwbFZ0U1BNUVVpSkVHSkNVdHZnLTM1VW1kU3A3aE8xZGdQT01rY2JVR1VsYUJZZ3FsWkRZX2JIOUhuVzBlWVhRMHpHVEE?oc=5",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "EU copyright law roundup – first trimester of 2026",
+      "summary": "A comprehensive roundup from IPKat covering EU copyright law developments in the first three months of 2026, including updates relevant to AI and copyright. The piece tracks legislative and judicial activity across European jurisdictions affecting rights holders and AI developers.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU2ZkeGNRSXNFdEFKTGdOMFltYjREVE1ISFR2M3QwQUY5UDdMSE10UWtRcHhVOHp6M2tkSWJiUWtiMFcySHdoU0Ixd2NkSFN4YTVIdGpkeG1WTUR1ZUdaVHoyMjZoWEU1VEVMQUNqTFJzcWxKM09hazRjUERpM1dOblhYM0E5b0VBeHA1T0ZwcGYxLXc0NTRhR1A2S0pxOHRRVzdJ?oc=5",
+      "topics": ["AI copyright", "EU law", "policy"]
+    },
+    {
+      "title": "Monkey selfie from 15 years ago accidentally sets precedent for AI copyright dispute",
+      "summary": "The decade-old Naruto v. Slater monkey selfie case, which established that non-human authors cannot hold copyright, is now being cited in AI copyright disputes over machine-generated works. Legal commentators note the precedent creates significant obstacles for claims of copyright ownership in purely AI-generated content.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMUNqTHFWZW1QdXl6SEVXQ0hkUzBUNktQalNDa0JiVXk0Tzg0cjJNNmdVaUxoaHEzTDhlbHBKRkRGQ2VCTXo1WS1zVVR1UVdydFhqUjQyNFVQOXhINXQtNVF6d3R4bHRMaXFiZktCNFdPZ2ZHT213UU53YVBJNkFtTDR5NktmdzlEVmlmczY5aGFBTkxfYU5XbnNmNG1Uc1k?oc=5",
+      "topics": ["AI copyright", "legal precedent"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Is the government's stance on AI copyright holding back the UK tech scene?",
+      "summary": "An examination of whether the UK government's current position on AI and copyright law is creating uncertainty that disadvantages the domestic technology sector.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZDhOOUltTlAyUHpIamxyS3RaMHoyOTJEYnpTV0pBZlE2ajhpSFMyNFFqNng0T1pqQlptdThIZ1NxRE5OUnBTeGJVc1dNdnItV0RIR3pwU2duU09BdnlMUHZ1NG90ZzFhdFBGQnVtTTJ6OTJlNDlEN0xFY1F6bEdlZE5xemFOMTEyYThTTGR1VFR0TmRtX2E5MS1BZ3FGbFk?oc=5",
+      "topics": ["AI copyright", "UK policy"]
+    },
+    {
+      "title": "AI Startups Have These Copyright Lawyers on Speed Dial",
+      "summary": "A look at the specialist copyright attorneys increasingly retained by AI companies to navigate training data disputes and licensing negotiations.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT3owcFJCZDlMU3FiLTV4aVFkUEFFeUlyU0dJcjR2UHFYd2NLZHo0ODRhUGc5MmtyMzNRb1hFZ3BKcm1oVEdSa1owV1VRaE9TdVZLRnJad3hMY2JrbkpXOXM1dzE1b2JMX2lpOFUxU3JTa1dlVGVBeTRGdWw4VW5qSzdIbC04U09CWXluZlhUTTNlUG1nU2pQbkd6aUJnZw?oc=5",
+      "topics": ["AI copyright", "legal services", "litigation"]
+    },
+    {
+      "title": "Analysing China's stricter examination standards for AI-related patent applications",
+      "summary": "An analysis of China's tightened patent examination criteria for AI-related inventions and what this means for applicants seeking protection in that jurisdiction.",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMXVVLTl1LWgxVUQtaVJtRWVNWlRyNFFFRDgybUxRNlBjSUdHM05zMmIyTHZTZDZHRFltRkoxU3ZSSGx2dzc1MWtjdS1peWFJUThzMzRmZmFDd0pIc1lITlRneDdqcmxtb0VtbzdISi1IRV9PUk5rRkhQY0dwUV83dGIyV0Itd2wwZzVJUWxHOFk2U0FLeFcxelB1aS1TeTgtbTc5QUlubWxBUGpmLWIzX0ZKWDhCdE1zSEh4enVuSmNwWl9Tcm9GQTd2SktYN0l2MDd6WDd4WHVYZ0NUSk1KRWNUZ0lxaU1VMXBSaHl3?oc=5",
+      "topics": ["AI patents", "China", "policy"]
+    },
+    {
+      "title": "Delhi HC Directs Time-Bound Decision on AI Generated Artwork Copyright Plea",
+      "summary": "The Delhi High Court has directed authorities to reach a time-bound decision on a petition seeking copyright protection for AI-generated artwork, adding to global judicial scrutiny of machine authorship.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRlJfU1pRMGQtc2tGenQ5eGdjZE1MQWRxTDhET0xzdjh2aWtaN0RuemhWUnRWTmpSU3pQb1U0blo4S3hYYlJJNVluRzhoVXJ5YW80SkdNdzhScVk1SVNNOFhVaGxCdTBzSGdZY3ItandDbzVSLXZjQWhvV1NMRWhoXzFfQzljM3VPaFBhQkZiS2Y5ZzQtZFJySXA5YjJZdGw1RHN4NTllT0dTelVoWGZ0WVo2RUNkUdIBuwFBVV95cUxQVTRNdHI1ZndKVEk1WmFkSmI4SWpRaFhKMjR3LU1ibERWcms5aHJXOFl5Z0hBYk84SWhPY1BrNVZmZUJSUmhPRWhkdTR6RWVaQnljQVVLM3B1MGY4c1gyNTVkWmg3LTNYZ2lJek10VDM2NXZMOUJ6MWJaTzgwOGlkTThRZ1ZzYm4xMUNabm9BX3l0TWFpQ250NUJ5cE9vYy13cl9zVE80VjJ2cW1tQUtOUElubjgxY082MzR3?oc=5",
+      "topics": ["AI copyright", "litigation", "India"]
+    },
+    {
+      "title": "Anthropic Code Crisis Creates Copyright Contradiction",
+      "summary": "An analysis of the copyright contradictions arising from Anthropic's handling of code generated by its AI models, raising questions about ownership and liability.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYks1aFNXdUdQMFpDdGx1QW1mVUhNT1pjRUJsMU5YTWp5bHVLcmdZV0J5THdLa0xiLWktLVYtTk5mX0g0VlhKYzc5dko1MWpENVlxNG9DZ3lZSkEtdHBFT1lHU2lncTNYcTRKbUxCa3RzSlhvdTBCVjZSVEM5Qzl5THlLbw?oc=5",
+      "topics": ["AI copyright", "software", "licensing"]
+    },
+    {
+      "title": "AI Makes Securing Copyright Protection for Software Code Tricky Guide",
+      "summary": "A legal guide examining the difficulties in obtaining copyright protection for software code produced with AI assistance, given unresolved questions about authorship and human contribution.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWjQxaGdONnZ1MDFxTVQ5LWxFS3JPU3owc2tqSXluTERfVlVlU1ZRTlJHQ2pNTDk0V1dZYmFSd0JQTVdqOF8yQWE4TU13MlQwOS13ZDA3YW1laHJrdVA0MTBCYzBQODgyMUlKLXNLQmxRNnZ2UGFrNFlaUC1kQ3NqOVl2T2NESXRHVHM5dEoza2NXY0ZScW43QVdzREo3aTJMMjZqdy1sOWZOSHNDNUowMnVjUk0wT2h5aW1BR3VKa3ROLWpsSFdtVXFqNmM2YTkyRGNvSQ?oc=5",
+      "topics": ["AI copyright", "software", "legal guidance"]
+    },
+    {
+      "title": "AI-generated content should be clearly labelled to help people spot fakes, committee says",
+      "summary": "A parliamentary or regulatory committee has recommended mandatory labelling of AI-generated content to enable audiences to identify synthetic media, according to The Globe and Mail.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOS1DQ2JLNHFCcFppZW5FejZlYjZaY3l5Yy1tOURPQzhZUGpodmJkSlB3Q0ExLS1RUnRnd2ZqVnM1TFJCYU4zcFBwUm9ORHFDcFh0MUVKaW01WVg5ZVktNmx0T1hJZ3dNeXp1UTVpUWF6RU1jdW9FdjZUWW8xdDFwcUphSHY5NlFSSzN6Sm1DNlJ6Q1BRUlp2bEJ6bV96N05GdjJFSUttOHNna2RrcTJhb3ZTWjlTUE90?oc=5",
+      "topics": ["AI policy", "content labelling", "regulation"]
+    },
+    {
+      "title": "AI in the patent industry: Don't believe the hype. Believe the data.",
+      "summary": "An IPKat post presenting data-driven analysis of AI's actual impact on the patent industry, countering overstated claims about AI's transformative role in patent prosecution and examination.",
+      "url": "http://ipkitten.blogspot.com/2026/04/ai-in-patent-industry-dont-believe-hype.html",
+      "topics": ["AI patents", "patent industry", "data"]
+    },
+    {
+      "title": "Bologna Children's Book Fair 2026: AI Takes Center Stage",
+      "summary": "Publishers Weekly reports that AI in publishing was a dominant theme at the 2026 Bologna Children's Book Fair, with discussions spanning creative tools, rights concerns, and industry adaptation.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100173-bologna-children-s-book-fair-2026-ai-takes-center-stage.html",
+      "topics": ["AI publishing", "children's publishing", "industry trends"]
+    },
+    {
+      "title": "Mexico's New AI Law Could Hinder USMCA Review, Warns AMITI",
+      "summary": "Mexico's technology industry association AMITI has warned that the country's new AI legislation could complicate the upcoming USMCA trade agreement review, with IP provisions among the concerns raised.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZUpScnVsLUQ4ZE9fX0tOUVJZbHZTTmRJNmlzbXI3eHdORm0yLWh1TTQtT2FfSlFhdjRvMk84ZU1sOE0xTHUxTkM5dXZmSTlUZzNSdTBIWXFsWkJfRkhfd1JXSEZMaVFSbDRseFBkdXRNZlQ0aElxRHpfTGZmdmE0QnI0LTJibDBhRDR2Tk12QTE3M1lUV1FZbVJB?oc=5",
+      "topics": ["AI policy", "trade law", "regulation"]
+    }
+  ]
+}
