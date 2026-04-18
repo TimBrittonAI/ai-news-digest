@@ -1,0 +1,55 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI's former Sora boss and Chief Product Officer are leaving",
+      "summary": "Bill Peebles, who led OpenAI's Sora video generation project, is departing the company alongside Chief Product Officer Kevin Weil. The exits represent a significant leadership shake-up at OpenAI's product and research divisions.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+      "topics": ["OpenAI", "leadership", "AI video"]
+    },
+    {
+      "title": "Anthropic's new cybersecurity model could get it back in the government's good graces",
+      "summary": "Anthropic is developing a specialised cybersecurity AI model that could help position the company more favourably with the Trump administration. The move signals a strategic pivot toward government and defence use cases following recent tensions.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+      "topics": ["AI safety", "defense", "AI governance"]
+    },
+    {
+      "title": "Should you stare into Sam Altman's orb before your next date?",
+      "summary": "Tinder is partnering with Sam Altman's World identity verification project, which uses an iris-scanning orb to confirm users are human. The integration raises questions about biometric data use and identity verification in consumer applications.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
+      "topics": ["AI ethics", "user interaction", "technology ethics"]
+    },
+    {
+      "title": "xAI rolls out Grok 4.3 beta for SuperGrok Heavy subscribers",
+      "summary": "xAI has released a beta version of Grok 4.3 to its SuperGrok Heavy subscribers. The update continues xAI's iterative rollout of model improvements to its premium user tier.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90MHJfNFB1a21EMVREMFhlcTRqNEJ2c2Nscm9EdkFFQ0pHWERndjBnbXZSSmdJZlFweUJySFdNTG12cXN4dVpZb2UtRURMXzhfUXZYT0JFaDdTWjlLV1J4M2xnLUFiZXhLWGNJd2g0a19OLUZQVHVF",
+      "topics": ["large language models", "AI industry", "chatbots"]
+    },
+    {
+      "title": "Pie Day 2026 [Metered]",
+      "summary": "MIT Technology Review's regular links roundup covers notable recent developments across AI and technology. The edition highlights emerging research and industry trends relevant to the field.",
+      "url": "https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/",
+      "topics": ["AI industry", "generative ai", "research integrity"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "OpenAI Executive Kevin Weil Is Leaving the Company [Metered]",
+      "summary": "Wired's report on Kevin Weil's departure from OpenAI provides additional context on the executive exit alongside the Sora team leadership changes.",
+      "url": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+      "topics": ["OpenAI", "leadership", "AI industry"]
+    },
+    {
+      "title": "Gazing Into Sam Altman's Orb Now Proves You're Human on Tinder [Metered]",
+      "summary": "Wired reports on Tinder's adoption of WorldID biometric verification, exploring what it means for user identity and data privacy on dating platforms.",
+      "url": "https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/",
+      "topics": ["AI ethics", "user interaction", "content policy"]
+    },
+    {
+      "title": "The case for fixing everything [Metered]",
+      "summary": "MIT Technology Review reviews Stewart Brand's new book on maintenance and repair as a philosophy for addressing systemic problems in technology and society.",
+      "url": "https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/",
+      "topics": ["technology ethics", "AI industry", "research integrity"]
+    }
+  ],
+  "ethan_mollick": null
+}
