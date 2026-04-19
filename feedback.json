@@ -7,7 +7,7 @@
     "legal": 3,
     "ai video": 1,
     "openai": 4,
-    "business": 1,
+    "business": 2,
     "consumer research": 1,
     "market research": 1,
     "semiconductors": -1,
@@ -18,7 +18,7 @@
     "language translation": 1,
     "academic publishing": 2,
     "copyright": 1,
-    "generative ai": 2,
+    "generative ai": 3,
     "fair use": 1,
     "acquisitions": -1,
     "advertising": 3,
@@ -42,6 +42,6 @@
     "google": 1,
     "ai infrastructure": 2,
     "ai compute": 2,
-    "ai industry": 2
+    "ai industry": 3
   }
 }
