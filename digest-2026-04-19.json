@@ -1,0 +1,61 @@
+{
+  "top_stories": [
+    {
+      "title": "Governance mismatch threatens academic integrity in era of generative AI",
+      "summary": "A new report highlights how existing governance frameworks are failing to keep pace with the rapid adoption of generative AI in academic settings, creating significant risks to research and institutional integrity. The mismatch between policy development and AI deployment is seen as a growing challenge for universities and publishers. The piece calls for more coordinated and proactive approaches to AI governance in higher education.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd0o2TXI0emx5MEczazhrMDVtNTd3Ql9rWlVNdExiTEFNdEhaMFVBYjZpMEwwaVN2R1FqTEQxYnJNMVh6aUVtVXZtSFFPWkpDRnMzVmJCc2tMVVdmMlNibENwTmhnbnBwTjZXZXlqRmNIMzl4NjZjNmpEYjFIY2YzTXNXaXZIbGdOQl9HbUVnVVpxN1Rabnp5VVNyNm84TDQ2MGh5Q1VvelRUeFlqbll2Y0hxVGszR2otYnZkZ0ZuNVNtTURaS082Vjl2R3rSAcwBQVVfeXFMTXdKNk1yNHpseTBHM2s4azA1bTU3d0Jfa1pVTXRMYkxBTXRIWjBVQWI2aTBMMGlTdkdRakxEMWJyTTFYemlFbVV2bUhRT1pKQ0ZzM1ZiQnNrTFVXZjJTYmxDcE5oZ25wcE42V2V5akZjSDM5eDY2YzZqRGIxSGNmM01zV2l2SGxnTkJfR21FZ1VacTdUWm56eVVTcjZvOEw0NjBoeUNVb3pUVHhZam5ZdmNIcVRrM0dqLWJ2ZGdGbjVTbU1EWktPNlY5dkd6",
+      "topics": ["academic publishing", "generative AI", "AI governance"]
+    },
+    {
+      "title": "Graphs that explain the state of AI in 2026",
+      "summary": "IEEE Spectrum presents a data-driven overview of the AI landscape in 2026, drawing on the latest AI Index to visualise key trends in research, investment, capabilities, and adoption. The piece offers a broad snapshot of how the field has evolved and where momentum is building. It serves as a useful reference for understanding the scale and direction of AI development globally.",
+      "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
+      "topics": ["AI industry", "large language models", "AI research"]
+    },
+    {
+      "title": "Schematik Is 'Cursor for Hardware.' Anthropic Wants In [Metered]",
+      "summary": "Schematik, a startup building AI-assisted hardware design tools analogous to what Cursor has done for software coding, has attracted interest from Anthropic. The company aims to bring AI-native workflows to electronics and hardware engineering, a domain that has seen far less AI tooling than software development. Anthropic's involvement signals growing appetite among leading AI labs to expand into specialised professional design tools.",
+      "url": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
+      "topics": ["AI coding tools", "Anthropic", "AI industry"]
+    },
+    {
+      "title": "xAI rolls out Grok 4.3 beta for SuperGrok Heavy subscribers",
+      "summary": "xAI has released a beta version of Grok 4.3, made available to subscribers of its SuperGrok Heavy tier. The update continues xAI's rapid iteration on its Grok model family as competition among frontier AI labs intensifies. Few technical details have been disclosed publicly at this stage.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90MHJfNFB1a21EMVREMFhlcTRqNEJ2c2Nscm9EdkFFQ0pHWERndjBnbXZSSmdJZlFweUJySFdNTG12cXN4dVpZb2UtRURMXzhfUXZYT0JFaDdTWjlLV1J4M2xnLUFiZXhLWGNJd2g4a19OLUZQVHVF",
+      "topics": ["large language models", "AI industry", "AI product updates"]
+    },
+    {
+      "title": "The RAM shortage could last years",
+      "summary": "The Verge reports that a growing shortage of RAM, driven in part by surging demand from AI infrastructure buildout, could persist for several years. The supply crunch is expected to affect both consumer electronics and data centre expansion plans. Analysts point to constrained manufacturing capacity and AI's voracious memory requirements as the primary drivers.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Citizen developers are redefining enterprise AI development",
+      "summary": "Non-technical employees using low- and no-code AI tools are increasingly driving enterprise AI adoption, challenging traditional IT-led development models.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc3g4RHVpcFZoTFpoSVBkZEdrdlItZkpPdHlHaVRlSnRUMURsc09jYmxmMVNIRWJfMlQ0WFF3VFFDOFhvb0xOd3kycGhyMWU1YjNxUHZZWGx3V3hEWE53eFRXOXd2NXY1ajlla0pnRFBxQnE3X1VYQU1HczB3TTBhbEZrNUNjaFBqc0ZwVUpRbDdMTkFfVzNnRTU5Zi0yaFlXUnRpcWJfaDNVaEdBYlE",
+      "topics": ["generative AI", "AI industry", "business"]
+    },
+    {
+      "title": "In an already cutthroat Korean job market, AI raises the barrier to entry",
+      "summary": "AI is intensifying competition in South Korea's already highly competitive job market, raising expectations for applicants and displacing entry-level roles.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1id2Y1NDJoTENsSzlKYjB2elIyTWJUNmpLRFpDNExHc0xoSk85akpNZmt3NlZVSWJoal81bEpOTUZjWWd2NlVjTVR4dm40bmc2QjRXLWJHUGktWVVtaDdmWGg5Y2IwcFJxOUFTNmRsVWZ4ZEZrSS1vZnhIaw",
+      "topics": ["AI industry", "layoffs", "technology ethics"]
+    },
+    {
+      "title": "College instructor turns to typewriters to curb AI-written work",
+      "summary": "A US college instructor has introduced typewriters in the classroom as a low-tech countermeasure to AI-generated essay submissions, while also using the practice to teach broader life lessons.",
+      "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+      "topics": ["AI detection", "AI ethics", "technology ethics"]
+    },
+    {
+      "title": "It Takes 2 Minutes to Hack the EU's New Age-Verification App [Metered]",
+      "summary": "Security researchers found that the EU's newly launched age-verification application can be bypassed in under two minutes, raising serious questions about its fitness for purpose.",
+      "url": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
+      "topics": ["AI governance", "content policy", "technology ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
