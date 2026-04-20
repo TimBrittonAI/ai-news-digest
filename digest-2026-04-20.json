@@ -1,0 +1,85 @@
+{
+  "top_stories": [
+    {
+      "title": "Governance mismatch threatens academic integrity in era of generative AI",
+      "summary": "A new report warns that institutional governance frameworks are failing to keep pace with the rapid adoption of generative AI in academic settings, creating significant risks to research and publishing integrity. The mismatch between policy development and AI deployment leaves universities and publishers exposed. The findings highlight the need for coordinated governance responses across academic institutions.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaG9saHBkaE8zX01QOTZnR3FiSjdSZXBVNTRvYlhYMDQ5MDZhLUcyUlJoTHJMUTY3WkN3Yk8yVkx3T3hkVlVPYlNOVGJCd2xWMEgtTWswSDFYb3BxT0FlTWxVVEhuV01VMmVCekk4VnhlTUlMWEt4Z3dVd1ZSc1JIcnJacDZ4TF9sZ1VJajl4Z00zaVotRkY0OUJ2VkkzZEZzXzhYbHh2Z1dxb2xZYmwtNnhJdlhPU2hGY2RLbDBwZ3Y1Tnl6RVc40gHMAUFVX3lxTE13SjZNcjR6bHkwRzNrOGswNW01N3dCX2taVU10TGJMQU10SFowVUFiNmkwTDBpU3ZHUWpMRDFick0xWHppRW1Vdm1IUU9aSkNGczNWYkJza0xVV2YyU2JsQ3BOaGducHBONldleWpGY0gzOXg2NmM2akRiMUhjZjNNc1dpdkhsZ05CX0dtRWdVWnE3VFpuenlVU3I2bzhMNDYwaHlDVW96VFR4WWpuWXZjSHFUazNHai1idmRnRm41U21NRFpLTzZWOXZHeg",
+      "topics": ["generative AI", "academic publishing", "AI governance"]
+    },
+    {
+      "title": "CEOs admit AI had no impact on employment or productivity",
+      "summary": "A new study finds that thousands of CEOs report AI has not yet had a measurable impact on employment or productivity within their organisations. The findings challenge widespread assumptions about AI's near-term transformative effect on the workforce. The research adds to a growing body of evidence questioning the pace of AI's real-world business impact.",
+      "url": "https://fortune.com/article/why-do-thousands-of-ceos-believe-ai-not-having-impact-productivity-employment-study/",
+      "topics": ["AI industry", "business", "AI"]
+    },
+    {
+      "title": "Mohamed Omar: AI and the Future of Peer Review in Academic Publishing",
+      "summary": "An analysis explores how artificial intelligence is beginning to reshape peer review processes in academic publishing, raising questions about quality, bias, and the integrity of scholarly evaluation. The piece examines both the potential efficiencies AI could introduce and the risks of over-reliance on automated systems. It calls for careful, deliberate integration of AI tools into publishing workflows.",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKTUItSkNQY1ktb0FWTVFMWTBfQXlWcXNoSFY3clRLeXdTY1FzNWRHeGd4LW5DM0lVR0s4UHJONzBQZzVQTWxKdDBxS3dJbFhoSzZIZzhqVmdiOG5Q",
+      "topics": ["academic publishing", "AI", "research integrity"]
+    },
+    {
+      "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
+      "summary": "Dairy Queen has announced a partnership with Presto to deploy AI-powered chatbots in its drive-through lanes, joining a growing number of fast-food chains experimenting with automated ordering systems. The move aims to reduce labour costs and improve order accuracy. It reflects broader momentum in the quick-service restaurant sector toward AI-driven customer interaction.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
+      "topics": ["AI", "chatbots", "business"]
+    },
+    {
+      "title": "xAI rolls out Grok 4.3 beta for SuperGrok Heavy subscribers",
+      "summary": "xAI has released a beta version of Grok 4.3, made available initially to SuperGrok Heavy tier subscribers. The update represents the latest iteration of xAI's large language model offering, continuing the company's rapid development cadence. Details on specific capability improvements have not yet been fully disclosed.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90MHJfNFB1a21EMVREMFhlcTRqNEJ2c2Nscm9EdkFFQ0pHWERndjBnbXZSSmdJZlFweUJySFdNTG12cXN4dVpZb2UtRURMXzhfUXZYT0JFaDdTWjlLV1J4M2xnLUFiZXhLWGNJd2g4a19OLUZQVHVF",
+      "topics": ["large language models", "AI", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "The 'AI is inevitable' trap",
+      "summary": "The Vergecast examines the rhetoric of AI inevitability promoted by figures like Sam Altman, questioning whether framing AI development as unstoppable forecloses important societal and ethical debates.",
+      "url": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
+      "topics": ["AI ethics", "AI industry", "technology ethics"]
+    },
+    {
+      "title": "Citizen developers are redefining enterprise AI development",
+      "summary": "Non-technical employees are increasingly building AI-driven tools within enterprises, reshaping how organisations develop and deploy AI capabilities without relying solely on dedicated engineering teams.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc3g4RHVpcFZoTFpoSVBkZEdrdlItZkpPdHlHaVRlSnRUMURsc09jYmxmMVNIRWJfMlQ0WFF3VFFDOFhvb0xOd3kycGhyMWU1YjNxUHZZWGx3V3hEWE53eFRXOXd2NXY1ajlla0pnRFBxQnE3X1VYQU1HczB3TTBhbEZrNUNjaFBqc0ZwVUpRbDdMTkFfVzNnRTU5Zi0yaFlXUnRpcWJfaDNVaEdBYlE",
+      "topics": ["AI", "business", "ai coding tools"]
+    },
+    {
+      "title": "Ex-CEO, ex-CFO of bankrupt AI company charged with fraud",
+      "summary": "Federal prosecutors have charged the former CEO and CFO of a now-bankrupt AI company with fraud, in a case highlighting governance and accountability risks in the AI startup ecosystem.",
+      "url": "https://www.reuters.com/legal/government/ex-ceo-ex-cfo-bankrupt-ai-company-charged-with-fraud-2026-04-17/",
+      "topics": ["legal", "AI industry", "leadership"]
+    },
+    {
+      "title": "The Download: bad news for inner Neanderthals, and AI warfare's human illusion [Metered]",
+      "summary": "MIT Technology Review's daily briefing covers new research on AI in military decision-making, questioning whether human oversight in AI-assisted warfare is as meaningful as it appears.",
+      "url": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
+      "topics": ["defense", "AI safety", "AI ethics"]
+    },
+    {
+      "title": "AI Drafting My Stories? Over My Dead Body [Metered]",
+      "summary": "A Wired writer argues strongly against the use of AI to draft journalism, raising concerns about authenticity, craft, and the broader implications for the profession.",
+      "url": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
+      "topics": ["generative AI", "technology ethics", "AI"]
+    },
+    {
+      "title": "Uber's Anthropic AI push hits a wall",
+      "summary": "Uber's efforts to integrate Anthropic's AI into its operations have encountered significant obstacles, with reports suggesting the initiative has not yet delivered the expected results.",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/ubers-anthropic-ai-push-hits-223109852.html",
+      "topics": ["AI", "business", "large language models"]
+    },
+    {
+      "title": "In an already cutthroat Korean job market, AI raises the barrier to entry",
+      "summary": "South Korean job seekers face intensifying competition as employers increasingly expect AI proficiency, with those lacking these skills at a growing disadvantage in an already highly competitive labour market.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1id2Y1NDJoTENsSzlKYjB2elIyTWJUNmpLRFpDNExHc0xoSk85akpNZmt3NlZVSWJoal81bEpOTUZjWWd2NlVjTVR4dm40bmc2QjRXLWJHUGktWVVtaDdmWGg5Y2IwcFJxOUFTNmRsVWZ4ZEZrSS1vZnhIaw",
+      "topics": ["AI", "layoffs", "business"]
+    },
+    {
+      "title": "How robots learn: A brief, contemporary history [Metered]",
+      "summary": "MIT Technology Review traces the recent history of robot learning techniques, from early reinforcement learning approaches to the latest advances in AI-driven physical systems.",
+      "url": "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
+      "topics": ["AI", "AI industry", "large language models"]
+    }
+  ],
+  "ethan_mollick": null
+}
