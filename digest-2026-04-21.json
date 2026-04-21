@@ -1,0 +1,79 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI helps Hyatt advance AI among colleagues",
+      "summary": "Hyatt has partnered with OpenAI to deploy ChatGPT Enterprise across its workforce, marking a significant expansion of AI tools into the hospitality sector. The announcement details how Hyatt is using the platform to improve internal operations and colleague productivity. This is a primary source announcement from OpenAI's official blog.",
+      "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+      "topics": ["ChatGPT", "enterprise AI", "OpenAI"]
+    },
+    {
+      "title": "Tech CEOs Think AI Will Let Them Be Everywhere at Once",
+      "summary": "Wired reports on a growing trend of technology executives using AI tools to extend their presence and influence across organisations simultaneously. The piece examines how leaders are deploying AI to replicate their decision-making and communication at scale. It raises questions about the nature of leadership and accountability in an AI-augmented workplace.",
+      "url": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+      "summary": "Music streaming platform Deezer has revealed that nearly half of all tracks uploaded to its platform each day are AI-generated, highlighting the rapid proliferation of synthetic content in the music industry. The figure underscores growing challenges for platforms managing content authenticity and creator rights. The story was reported by TechCrunch.",
+      "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+      "topics": ["generative AI", "AI industry", "content policy"]
+    },
+    {
+      "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+      "summary": "MIT Technology Review reports on Chinese technology workers being asked to train AI systems modelled on their own work patterns and outputs — effectively creating AI versions of themselves. Some workers are resisting the practice, raising concerns about job displacement and exploitation of their professional knowledge. The piece highlights a new frontier of tension between AI adoption and labour rights.",
+      "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+      "topics": ["AI industry", "technology ethics", "large language models"]
+    },
+    {
+      "title": "Atlassian enables default data collection to train AI",
+      "summary": "Atlassian has quietly changed its settings to enable data collection from users by default to train its AI systems, according to a report from Let's Data Science. The move has drawn attention from privacy advocates and enterprise customers who may be unaware their data is being used. The change reflects a broader industry pattern of software companies leveraging customer data for AI development.",
+      "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
+      "topics": ["AI ethics", "generative AI", "user interaction"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Import AI 454: Automating alignment research; safety study of a Chinese model; HiFloat4",
+      "summary": "Jack Clark's Import AI newsletter covers the latest in AI safety research, including efforts to automate alignment research and a safety evaluation of a prominent Chinese AI model.",
+      "url": "https://importai.substack.com/p/import-ai-454-automating-alignment",
+      "topics": ["AI safety", "large language models", "AI governance"]
+    },
+    {
+      "title": "Fortnite developers can make AI characters now — just don't try to date them",
+      "summary": "Epic Games is enabling Fortnite developers to create AI-driven characters with conversational abilities, while setting content policy guardrails against romantic interactions.",
+      "url": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations",
+      "topics": ["generative AI", "content policy", "user interaction"]
+    },
+    {
+      "title": "The Download: murderous 'mirror' bacteria, and Chinese workers fighting AI doubles",
+      "summary": "MIT Technology Review's daily briefing covers the controversy over synthetic mirror bacteria research alongside the growing worker resistance to AI doubles in Chinese tech firms.",
+      "url": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
+      "topics": ["AI industry", "technology ethics", "ai agents"]
+    },
+    {
+      "title": "Silicon Valley has forgotten what normal people want",
+      "summary": "The Verge argues that tech industry priorities — from NFTs to the metaverse to AI — have consistently diverged from what mainstream users actually find useful or desirable.",
+      "url": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
+      "topics": ["AI industry", "technology ethics", "business"]
+    },
+    {
+      "title": "A Humanoid Robot Set a Half-Marathon Record in China",
+      "summary": "A humanoid robot completed a half-marathon in China, setting a new record and demonstrating significant advances in bipedal locomotion and endurance for robotics systems.",
+      "url": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
+      "topics": ["robotics", "AI industry", "generative AI"]
+    },
+    {
+      "title": "Cloud development platform Vercel was hacked",
+      "summary": "The Verge reports that Vercel, a widely used cloud development and deployment platform, suffered a security breach, raising concerns for developers and AI application builders who rely on its infrastructure.",
+      "url": "https://www.theverge.com/tech/914723/vercel-hacked",
+      "topics": ["AI infrastructure", "ai coding tools", "security"]
+    },
+    {
+      "title": "Musk claims Grok 5.0 will achieve AGI, but is he right?",
+      "summary": "Elon Musk has claimed that xAI's forthcoming Grok 5.0 model will reach artificial general intelligence, prompting scrutiny from researchers and commentators over what AGI means and whether such a claim is credible.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA0a1UyUXY0N041V0tyWk5qbWRaWFFOa3pYOEtpSkZxWEY2VmppcGhSV1pXQ2w4ZjBVZTFMSmhzLW5ZYmt4V1c0YlhpMXV5a3l0SUNNR0pxTzZYczZyaVlQVmJpOGpKYnktNm5qcUZXY2k0Q3VURDRUaQ?oc=5",
+      "topics": ["large language models", "AI industry", "generative AI"]
+    }
+  ],
+  "ethan_mollick": null
+}
