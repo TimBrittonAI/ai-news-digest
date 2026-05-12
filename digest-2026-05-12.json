@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Ilya Sutskever Stands by His Role in Sam Altman's OpenAI Ouster: 'I Didn't Want It to Be Destroyed' [Metered]",
+      "summary": "Ilya Sutskever testified in the Musk v. Altman trial, defending his decision to participate in Sam Altman's firing from OpenAI, stating he did not want the organisation to be destroyed. His testimony sheds new light on the internal dynamics that led to the November 2023 boardroom drama. The trial continues to surface revelations about OpenAI's governance and founding mission.",
+      "url": "https://www.wired.com/story/ilya-sutskever-testifies-musk-v-altman-trial/",
+      "topics": ["OpenAI", "AI governance", "legal"]
+    },
+    {
+      "title": "OpenAI just released its answer to Claude Mythos",
+      "summary": "OpenAI has released a new security-focused AI model called Daybreak, positioning it as a direct competitor to Anthropic's Claude Mythos. The release signals OpenAI's continued push into enterprise and safety-oriented AI applications. Further details on capabilities and intended use cases are outlined in The Verge's coverage.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+      "topics": ["OpenAI", "large language models", "AI safety"]
+    },
+    {
+      "title": "How ChatGPT adoption broadened in early 2026",
+      "summary": "OpenAI's official signals blog has published a Q1 2026 update showing that ChatGPT adoption expanded significantly across new user demographics and enterprise sectors in the first quarter of 2026. The report highlights shifts in how different industries are integrating the tool into workflows. This is a primary source update directly from OpenAI.",
+      "url": "https://openai.com/signals/research/2026q1-update",
+      "topics": ["ChatGPT", "AI industry", "generative AI"]
+    },
+    {
+      "title": "Here's what Mira Murati's AI company is up to",
+      "summary": "The Verge reports on Thinking Machines, the AI startup founded by former OpenAI CTO Mira Murati, detailing the company's emerging approach to human-AI interaction models. Murati's venture has been closely watched since her departure from OpenAI, and this piece offers one of the first substantive looks at the company's direction. The focus appears to be on rethinking how users engage with AI systems.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+      "topics": ["AI industry", "generative AI", "leadership"]
+    },
+    {
+      "title": "Google stopped a zero-day hack that it says was developed with AI",
+      "summary": "Google reports that it detected and stopped a zero-day exploit that it believes was developed with the assistance of AI tools, marking a notable escalation in AI-enabled cyber threats. The New York Times and The Verge both cover the story, with Google confirming criminal hackers used AI to identify a major software vulnerability. The incident raises fresh concerns about AI being weaponised for offensive security operations.",
+      "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+      "topics": ["AI", "cybersecurity", "technology ethics"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "GM just laid off IT workers to hire those with stronger AI skills",
+      "summary": "General Motors has laid off hundreds of IT workers as part of a shift towards hiring employees with stronger AI capabilities, reflecting growing corporate pressure to restructure workforces around AI competencies.",
+      "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-it-workers-to-hire-those-with-stronger-ai-skills/",
+      "topics": ["AI industry", "layoffs", "business"]
+    },
+    {
+      "title": "Three things in AI to watch, according to a Nobel-winning economist [Metered]",
+      "summary": "MIT Technology Review presents a Nobel-winning economist's perspective on the three most significant AI developments to monitor, covering economic impact, labour markets, and policy implications.",
+      "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+      "topics": ["AI industry", "AI governance", "business"]
+    },
+    {
+      "title": "Workday CEO Aneel Bhusri Says AI Will Replace Labor, Not Software",
+      "summary": "Workday's CEO has argued that AI's primary displacement effect will be on human labour rather than on software products, a position with significant implications for enterprise software valuations and workforce planning.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcVRHVUNVbjNCa3h6eUc5N0tfT1BFQUgxQWlrOFBhV3pHS25kdWl5STJmR21TRmxRLUplQmZaMlFFSUVaZ19WWExrbnZtaHZTa2ItSHQtVTZ5NnM5ODFJTWt3bWVod1VDZmxWZEtSaWRkVXhKTHFUMGNzck14eXlIcmxORkdXQXZCTGg2ZTVELWEtckRl?oc=5",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "I work in Hollywood. Everyone who used to make TV is now training AI [Metered]",
+      "summary": "Wired reports on how former Hollywood TV production workers have shifted to AI data labelling and training roles, offering a ground-level account of AI's disruption of the creative labour market.",
+      "url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+      "topics": ["AI industry", "generative AI", "technology ethics"]
+    },
+    {
+      "title": "Executive interview: Pros and cons of AI in academic research",
+      "summary": "An executive interview explores the benefits and risks of AI adoption in academic research environments, touching on issues of research integrity, efficiency, and potential misuse.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0pXald2Q3RjbEVOTXJOV3cydENDb1hMaDlOcUVUMnFOOUk2NmZKd2FMa0Z2ZVZ0a2JmQ010SEd1RjFpVWlzdWg3aXdHVjJYLXRHYm1ReE51ZndWRjJVdTRXV2hCTkF4OGduS21fTEJELXRCb1VBTERTZGhER0hhN3RXa3JnR1FlRVVVM2tEU2VpalNobkZYZEZtcFV3NUtQSVllX1dLZ0JUQQ?oc=5",
+      "topics": ["academic publishing", "AI", "research integrity"]
+    },
+    {
+      "title": "Import AI 456: RSI and economic growth; radical optionality for AI regulation; and a neural computer",
+      "summary": "Jack Clark's Import AI newsletter covers new research on AI's relationship to economic growth, discusses frameworks for AI regulation, and highlights a novel neural computer architecture.",
+      "url": "https://importai.substack.com/p/import-ai-456-rsi-and-economic-growth",
+      "topics": ["AI governance", "large language models", "AI industry"]
+    },
+    {
+      "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2 [Metered]",
+      "summary": "MIT Technology Review's daily briefing covers the second week of the Musk v. Altman trial alongside other major news, providing a concise overview of the latest courtroom developments.",
+      "url": "https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/",
+      "topics": ["OpenAI", "legal", "AI governance"]
+    },
+    {
+      "title": "Students boo commencement speaker after she calls AI next industrial revolution",
+      "summary": "University of Central Florida graduates booed a commencement speaker who compared AI to the industrial revolution, highlighting growing public ambivalence and student concern about AI's societal impact.",
+      "url": "https://www.404media.co/ucf-ai-commencement-speaker-booed/",
+      "topics": ["AI", "technology ethics", "AI industry"]
+    },
+    {
+      "title": "Google rolls out AI-powered financial platform to Europe",
+      "summary": "Google has expanded its AI-powered Google Finance tools to European markets, giving investors across the region access to AI-driven market analysis and financial intelligence features.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZVE1QnhFVU5sNmJsMHA0cVVmWW5iWXdXUXByY245QXgxcjBITFVNbjVfLTN4N0xtRzhDOTlELTdIM0RuQjJSdkZtS0R4TzRQcWprQ1ozWlEtOGpZWEkyMy00b3F1V3hRYXY4NWtrWElVY3pHTVpUM3Y2MEdfLTZoRm02Wlg5endzTXFUQTVWS0tjQQ?oc=5",
+      "topics": ["AI", "business", "advertising"]
+    },
+    {
+      "title": "Live updates from Elon Musk and Sam Altman's court battle over the future of OpenAI",
+      "summary": "The Verge's live coverage tracks the ongoing legal battle between Elon Musk and Sam Altman, which centres on OpenAI's transition from a non-profit to a for-profit structure and Musk's claims about its founding mission.",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "topics": ["OpenAI", "legal", "AI governance"]
+    }
+  ],
+  "ethan_mollick": null
+}
