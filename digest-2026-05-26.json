@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Sundar Pichai on AI, the future of search, and what's happening to the web",
+      "summary": "Google CEO Sundar Pichai discusses how AI is reshaping search, the future of the open web, and YouTube's role in the evolving information ecosystem. The interview covers Google's strategic bets on AI and what the shift means for publishers and users alike.",
+      "url": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
+      "topics": ["AI search", "Google", "AI industry"]
+    },
+    {
+      "title": "AI Agents Plunged the Tech World Into Chaos. Here's Exactly How That Happened",
+      "summary": "Wired traces how the rapid rise of AI agents has created significant disruption across the technology industry, from unexpected system behaviours to shifting business models. The piece examines the technical and organisational challenges companies face as autonomous AI systems become more widely deployed.",
+      "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+      "topics": ["AI agents", "generative AI", "AI industry"]
+    },
+    {
+      "title": "A reality check on the AI jobs hysteria",
+      "summary": "MIT Technology Review examines the evidence behind fears that AI is rapidly displacing workers, finding that the data paints a more nuanced picture than the headlines suggest. The piece cautions against both dismissing and overstating AI's impact on employment, while noting the genuine challenge posed to entry-level roles.",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "topics": ["AI", "layoffs", "AI industry"]
+    },
+    {
+      "title": "Pope Leo calls for being 'profoundly human' in the age of AI",
+      "summary": "In his first encyclical, Pope Leo XIV warns that opaque AI systems controlled by a small number of firms risk creating new forms of dehumanisation. He calls for AI to serve humanity broadly rather than powerful elites, and raises concerns about its use in warfare and labour displacement.",
+      "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+      "topics": ["AI ethics", "AI governance", "technology ethics"]
+    },
+    {
+      "title": "Uber president says AI spending is getting 'harder to justify'",
+      "summary": "Uber's president has publicly questioned the return on investment from AI expenditure, saying the costs are increasingly difficult to justify. The comments add to a growing conversation among major technology businesses about whether current levels of AI infrastructure spending are sustainable.",
+      "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+      "topics": ["AI infrastructure", "AI compute", "business"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Advertisers cautious about AI automation, report",
+      "summary": "A new report finds that advertisers are approaching AI-driven automation with caution despite widespread industry enthusiasm.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR1ZUV0hESTZPUFVIWTVYbWRGeUQ3RnVEQ1lOOHhEUWhEdm1oeDB4eTlHdnE4cnVuQmUyTjBYZjBWNlBvZGxsaFhtdmFkbnl4aGxhUXhEcENqZjZKT0NFeFQyWTJrNjlBRDZiLVZhMEk2MFh2WFNRd2xvOFUtc1ZKZUJCTzdJVW42T1JmaEZlWkRlRmY3dVQ3OUdwNm5SUQ?oc=5",
+      "topics": ["advertising", "AI automation", "AI industry"]
+    },
+    {
+      "title": "It's time to address the looming crisis in entry-level work",
+      "summary": "MIT Technology Review argues that AI's most acute near-term employment impact is on entry-level positions, and that businesses and policymakers need to act now to address the pipeline problem this creates.",
+      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "topics": ["AI", "layoffs", "AI industry"]
+    },
+    {
+      "title": "Google's new anything-to-anything AI model is wild",
+      "summary": "The Verge goes hands-on with Google's Gemini Omni, a multimodal model capable of processing and generating across a wide range of input and output types, including video.",
+      "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+      "topics": ["generative AI", "large language models", "Google"]
+    },
+    {
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "summary": "OpenAI has announced a content licensing partnership with two of Brazil's largest media groups, Grupo Folha and Grupo UOL, expanding its news publisher agreements into Latin America.",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "topics": ["OpenAI", "generative AI", "AI industry"]
+    },
+    {
+      "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model [Paywalled]",
+      "summary": "Chinese AI lab DeepSeek is making a steep price cut on its flagship model permanent, intensifying competitive pricing pressure across the global AI model market.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+      "topics": ["large language models", "AI industry", "generative AI"]
+    },
+    {
+      "title": "Using AI to write better code more slowly",
+      "summary": "Developer Nolan Lawson reflects on his experience using AI coding tools, arguing that deliberate, slower use of AI assistance can produce higher quality code than rushing with automation.",
+      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "topics": ["AI coding tools", "large language models", "AI industry"]
+    },
+    {
+      "title": "AI warfare is already here",
+      "summary": "The Verge examines the current state of AI use in military operations and debates over where red lines should be drawn in autonomous weapons deployment.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
+      "topics": ["defense", "AI ethics", "AI governance"]
+    },
+    {
+      "title": "Hackers are learning to exploit chatbot 'personalities'",
+      "summary": "The Verge reports on how hackers are developing techniques to manipulate AI chatbot personas in order to bypass safety guardrails and extract sensitive information.",
+      "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+      "topics": ["chatbots", "AI safety", "content policy"]
+    },
+    {
+      "title": "Notes on Pope Leo XIV's Encyclical on AI",
+      "summary": "Simon Willison provides a detailed breakdown of the key passages and arguments in Pope Leo XIV's encyclical addressing artificial intelligence, with commentary on its technical and policy implications.",
+      "url": "https://simonwillison.net/2026/May/25/encyclical-on-ai/",
+      "topics": ["AI ethics", "AI governance", "technology ethics"]
+    },
+    {
+      "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
+      "summary": "The Guardian reports on the growing trend of companies rebranding as AI-first businesses without substantive changes to their products or operations, raising concerns about misleading investors and customers.",
+      "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+      "topics": ["AI industry", "generative AI", "business"]
+    }
+  ],
+  "ethan_mollick": null
+}
