@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "AI Agents Plunged the Tech World Into Chaos. Here's Exactly How That Happened",
+      "summary": "Wired traces how the rapid rise of AI agents has disrupted the technology industry, creating unforeseen complexity and competition across major players. The piece examines the cascading effects of agentic AI systems being deployed at scale and why the transition has proven far more chaotic than anticipated.",
+      "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
+      "topics": ["AI agents", "AI industry", "generative AI"]
+    },
+    {
+      "title": "Microsoft reports AI is more expensive than paying human employees",
+      "summary": "Microsoft has flagged that the cost of running AI agents and token-based systems is exceeding what it would cost to employ humans for equivalent tasks. The finding raises significant questions about the near-term ROI of enterprise AI deployment and the economics of agentic workflows.",
+      "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+      "topics": ["AI industry", "AI agents", "business"]
+    },
+    {
+      "title": "Pope Leo calls for being 'profoundly human' in the age of AI",
+      "summary": "Pope Leo XIV has issued his first encyclical, calling for AI to serve humanity broadly rather than concentrating power among a few firms, and warning that opaque algorithmic systems risk new forms of dehumanisation. The document urges that AI development be guided by ethical principles and human dignity, marking a significant intervention from the Catholic Church on AI governance.",
+      "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+      "topics": ["AI ethics", "AI governance", "technology ethics"]
+    },
+    {
+      "title": "Advertisers cautious about AI automation, report",
+      "summary": "A new report finds that advertisers remain wary of fully automating their campaigns using AI, despite growing pressure to adopt the technology. The caution reflects concerns about brand safety, loss of creative control, and uncertainty over AI-driven outcomes in ad spending.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR1ZUV0hESTZPUFVIWTVYbWRGeUQ3RnVEQ1lOOHhEUWhEdm1oeDB4eTlHdnE4cnVuQmUyTjBYZjBWNlBvZGxsaFhtdmFkbnl4aGxhUXhEcENqZjZKT0NFeFQyWTJrNjlBRDZiLVZhMEk2MFh2WFNRd2xvOFUtc1ZKZUJCTzdJVW42T1JmaEZlWkRlRmY3dVQ3OUdwNm5SUQ?oc=5",
+      "topics": ["advertising", "AI automation", "generative AI"]
+    },
+    {
+      "title": "Google's new anything-to-anything AI model is wild",
+      "summary": "Google has unveiled Gemini Omni, a multimodal model capable of processing and generating across text, image, audio, and video in a single system. The Verge's hands-on assessment describes capabilities that raise both excitement and concerns, including deepfake video generation.",
+      "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+      "topics": ["large language models", "generative AI", "AI video"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Uber president says AI spending is getting 'harder to justify'",
+      "summary": "Uber's president has publicly questioned the returns on AI investment, saying it is becoming increasingly difficult to justify the scale of spending on the technology.",
+      "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+      "topics": ["AI industry", "business", "AI compute"]
+    },
+    {
+      "title": "DeepSeek to Make Permanent 75% Discount on Flagship AI Model [Paywalled]",
+      "summary": "Chinese AI lab DeepSeek has announced a permanent 75% price reduction on its flagship model, intensifying price competition in the global AI model market.",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-23/deepseek-to-make-permanent-75-discount-on-flagship-ai-model",
+      "topics": ["large language models", "AI industry", "generative AI"]
+    },
+    {
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "summary": "OpenAI has signed a strategic content partnership with two of Brazil's largest media groups, Grupo Folha and Grupo UOL, expanding its news licensing agreements in Latin America.",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "topics": ["OpenAI", "AI industry", "content policy"]
+    },
+    {
+      "title": "Google's AI search is so broken it can 'disregard' what you're looking for",
+      "summary": "The Verge reports that Google's AI Overviews search feature is producing results that actively ignore user search intent, raising questions about the reliability of AI-powered search.",
+      "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+      "topics": ["AI search", "google", "large language models"]
+    },
+    {
+      "title": "A reality check on the AI jobs hysteria [Metered]",
+      "summary": "MIT Technology Review examines the current evidence on AI's impact on employment, finding that the reality is more nuanced than either the most alarming or most optimistic predictions suggest.",
+      "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "It's time to address the looming crisis in entry-level work [Metered]",
+      "summary": "MIT Technology Review argues that AI is disproportionately displacing entry-level roles and calls for policy and industry action to address the resulting structural gap in career pipelines.",
+      "url": "https://www.technologyreview.com/2026/05/26/1137865/its-time-to-address-the-looming-crisis-in-entry-level-work/",
+      "topics": ["AI industry", "technology ethics", "business"]
+    },
+    {
+      "title": "'AI washing': firms are scrambling to rebrand themselves as tech-focused",
+      "summary": "The Guardian reports on the growing trend of companies rebranding themselves as AI-driven businesses without substantive underlying capability, drawing comparisons to dot-com era overclaiming.",
+      "url": "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+      "topics": ["AI industry", "generative AI", "business"]
+    },
+    {
+      "title": "Hackers are learning to exploit chatbot 'personalities'",
+      "summary": "The Verge reports that hackers are developing techniques to manipulate AI chatbots by exploiting their designed personas and conversational behaviours to extract sensitive information or bypass safety controls.",
+      "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+      "topics": ["chatbots", "AI safety", "user interaction"]
+    },
+    {
+      "title": "I'm a Professional Fact-Checker. AI Is Wrong More Often Than You Think [Metered]",
+      "summary": "A professional fact-checker writing for Wired details their experience testing AI tools for accuracy, finding that hallucinations and confident errors are far more frequent than AI providers typically acknowledge.",
+      "url": "https://www.wired.com/story/fact-checking-ai/",
+      "topics": ["large language models", "AI detection", "research integrity"]
+    },
+    {
+      "title": "AI keeps inventing fake cases. Lawyers keep citing them",
+      "summary": "Scientific American examines the ongoing problem of AI-generated legal hallucinations, documenting why lawyers continue to submit fabricated case citations produced by AI tools despite growing awareness of the risk.",
+      "url": "https://www.scientificamerican.com/article/why-lawyers-keep-citing-fake-cases-invented-by-ai/",
+      "topics": ["legal", "large language models", "AI ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
