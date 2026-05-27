@@ -1,0 +1,101 @@
+{
+  "top_stories": [
+    {
+      "title": "Fake academic journals are publishing AI-generated papers under real professors' names",
+      "summary": "Fraudulent academic journals are using AI to generate research papers and publishing them under the names of real professors without their knowledge. The trend raises serious concerns about research integrity and the difficulty of detecting AI-generated content in academic publishing. The issue highlights growing vulnerabilities in scholarly communication infrastructure.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQVdXUFQ1YW45MElNbTBxaXd2RGhubzJKYW9tb2VkYldUT3I5U2JGWnlfUzFQRFVzaGdXOGRaZ1o0RjdDUmV0aFJ1MFloU043WVVtOGJ1U1NMYlJDQWFVTnk4Z05pdnVXRExQZkZ2ZVRBR29VVXRjdlJaSzd1UzBUUG1ZSGpiejJZaERrUmpNeWRjOVgyYnE3X1pVRU9HaWoyanowOUpYamVqeXNORTZJ",
+      "topics": ["academic publishing", "AI detection", "research integrity"]
+    },
+    {
+      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+      "summary": "A critical security vulnerability has been discovered in a widely used open source package, putting millions of AI agents at risk. The flaw could allow attackers to compromise AI systems built on the affected software. The finding underscores growing concerns about the security of AI infrastructure as agentic deployments scale rapidly.",
+      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+      "topics": ["AI infrastructure", "AI safety", "large language models"]
+    },
+    {
+      "title": "Why the Vatican Invited Anthropic to the Pope's AI Encyclical Presentation",
+      "summary": "Anthropic's chief interpretability researcher Christopher Olah was among a small group of AI experts invited to the Vatican for the presentation of Pope Leo XIV's encyclical on AI. The document, the first papal encyclical to address artificial intelligence, calls for ethical guardrails and human dignity protections. The Vatican's outreach to AI safety-focused researchers signals a deliberate engagement with the technical community on AI governance.",
+      "url": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+      "topics": ["AI ethics", "AI governance", "AI safety"]
+    },
+    {
+      "title": "Rethinking organizational design in the age of agentic AI [Metered]",
+      "summary": "MIT Technology Review examines how the rise of agentic AI systems is forcing companies to reconsider fundamental aspects of organizational structure, workflows, and decision-making authority. As AI agents take on more autonomous roles, businesses must determine how to integrate them alongside human workers. The piece draws on research and executive perspectives to outline emerging design principles.",
+      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "topics": ["generative AI", "AI industry", "business"]
+    },
+    {
+      "title": "The AI fight brewing inside The New York Times",
+      "summary": "The New York Times Tech Guild is pushing back against management's use of AI tools to monitor employee performance, with the dispute set to become a key issue in upcoming union contract negotiations. Workers are concerned that AI-driven performance metrics could be used to discipline or dismiss staff. The standoff reflects broader labour tensions emerging across media and tech industries over AI deployment in the workplace.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract",
+      "topics": ["AI ethics", "technology ethics", "AI industry"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "YouTube is putting AI labels where you'll actually see them",
+      "summary": "YouTube is updating how it displays AI-generated content labels on Shorts and other videos, placing disclosures in more prominent positions so viewers are less likely to miss them.",
+      "url": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates",
+      "topics": ["content policy", "generative AI", "AI ethics"]
+    },
+    {
+      "title": "The Download: puncturing the AI jobs panic [Metered]",
+      "summary": "MIT Technology Review examines new data that challenges widespread fears about AI causing mass unemployment, suggesting the reality of AI's labour market impact is more nuanced than headlines suggest.",
+      "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "The AI bubble isn't like the internet bubble",
+      "summary": "Cory Doctorow at Pluralistic argues that the current AI investment bubble differs structurally from the dot-com era, with distinct dynamics around who bears the costs when it deflates.",
+      "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "What Pope Leo XIV's First Encyclical Says About the Power of AI [Metered]",
+      "summary": "Wired breaks down the key arguments in the papal encyclical on AI, which calls for international governance frameworks and warns against systems that undermine human dignity and autonomy.",
+      "url": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
+      "topics": ["AI governance", "AI ethics", "technology ethics"]
+    },
+    {
+      "title": "CIOs are enlisting business users to vibe code their own apps",
+      "summary": "Enterprise technology leaders are increasingly encouraging non-technical employees to build their own internal tools using AI-assisted coding platforms, a trend analysts are calling 'vibe coding' at scale.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONHMtNXdlLTl1dkoteEM3OV9TaDNyVUZ5S1hYNGYyZUcwVHFsNUhvSkJ2dlpmNUU4cE1nSVNMQUxUd183QUc5cTlwMHlsVURxMUxuWVduRzF2VDRhdUpMVmdPQzFuelhHa3pTZGxSLWpNWEFUOURYeGVnZlgteE56enRCb0I1Wk91N2tmaHMwcHNhN0JzZmpVdXByTnV2ZXpUa1QyVg",
+      "topics": ["AI coding tools", "business", "generative AI"]
+    },
+    {
+      "title": "AI Is Taking Over the Most Cursed Job in the World [Metered]",
+      "summary": "Wired reports on how AI systems are being deployed in debt collection, automating phone calls and negotiations with debtors in ways that raise ethical and regulatory questions.",
+      "url": "https://www.wired.com/story/ai-takes-over-debt-collection/",
+      "topics": ["AI industry", "technology ethics", "business"]
+    },
+    {
+      "title": "Mid-Market Companies Lose an Average of 25% of Their AI Budget Before Seeing a Single Return, New Freshworks Research Finds",
+      "summary": "New research from Freshworks finds that mid-market businesses are wasting a quarter of their AI investment before achieving any measurable return, citing poor implementation planning and unclear use cases.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbTVVUGd2OFp6NkV5dHNhbEVwXzhhc3ZKNkRHV2FsS2NPX09jZkItaUNRaHNkREdkLVhjUVFBRk9EQ1JyZ3JTLUtSVFk2cG9wTFpMb3l0eldZUVE4UVVXeUhTcE9ZMTZXc3BISWhlYjZiR1B2LWlGY0hUdXhtV3Z6QjdSeko0T2M1SEZWLWUyX1RmNUw1dGE4M0dHZ0Q2NFhjOWNycG0yWHhUN0ZvUHNmN0Z4MkZGR3A4dXB6NXQwUmNVOWtMWDBpNVVpRnhIcldQMTNqNF9ZZmdnalI1SjdZUWdn",
+      "topics": ["business", "AI industry", "market research"]
+    },
+    {
+      "title": "Bay Area mom out thousands after scammers use AI to mimic daughter's voice",
+      "summary": "A Bay Area mother lost thousands of dollars to scammers who used AI voice-cloning technology to impersonate her daughter in a fake kidnapping scheme, part of a growing wave of AI-enabled fraud.",
+      "url": "https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/",
+      "topics": ["AI ethics", "technology ethics", "generative AI"]
+    },
+    {
+      "title": "Import AI 458: Reckoning with the future; and a singularity story",
+      "summary": "Jack Clark's Import AI newsletter examines long-term forecasts for AI development and reflects on a short story exploring what a technological singularity might look like in practice.",
+      "url": "https://importai.substack.com/p/import-ai-458-reckoning-with-the",
+      "topics": ["AI industry", "large language models", "AI safety"]
+    },
+    {
+      "title": "I Spent a Week Recording Myself Doing Chores for Money. Who's the Robot Now? [Metered]",
+      "summary": "A Wired reporter describes the experience of doing paid data-labelling work for robotics AI training, collecting household activity footage in exchange for small payments in a growing gig economy sector.",
+      "url": "https://www.wired.com/story/household-chores-training-robots/",
+      "topics": ["AI industry", "generative AI", "business"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "Choosing to Stay Human",
+    "summary": "Ethan Mollick explores the tensions individuals face when deciding how much of their thinking and creative work to delegate to AI, and what it means to deliberately preserve human effort in an age of capable AI tools. He argues that choosing not to use AI for certain tasks is a valid and meaningful decision, not simply a failure to adopt new technology. The post encourages readers to be intentional rather than reflexive in how they integrate AI into their lives and work.",
+    "url": "https://www.oneusefulthing.org/p/choosing-to-stay-human"
+  }
+}
