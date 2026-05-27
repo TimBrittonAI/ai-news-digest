@@ -1,0 +1,101 @@
+{
+  "top_stories": [
+    {
+      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+      "summary": "Ars Technica reports a critical security vulnerability in a widely used open source package that puts millions of AI agents at risk. The flaw could expose AI systems to exploitation at scale, raising significant concerns about the security of agentic AI deployments. The story highlights growing risks as AI agent infrastructure becomes more widely adopted.",
+      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+      "topics": ["AI agents", "AI infrastructure", "security"]
+    },
+    {
+      "title": "Building self-improving tax agents with Codex",
+      "summary": "OpenAI's official blog details how Codex is being used to build self-improving tax agents, showcasing a practical enterprise application of AI coding tools in financial services. The post outlines how agents can iteratively improve their own performance, pointing toward autonomous AI workflows in professional domains. This represents a concrete example of agentic AI in a regulated industry.",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "topics": ["AI agents", "AI coding tools", "OpenAI"]
+    },
+    {
+      "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
+      "summary": "Robinhood is introducing an AI agent feature that will allow users to automate stock trading decisions, raising both excitement and concern about autonomous financial decision-making by consumers. The Verge reports the move represents a significant expansion of AI-driven automation into retail investing. The development raises questions about accountability and risk when AI agents act on users' behalf.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
+      "topics": ["AI agents", "AI industry", "business"]
+    },
+    {
+      "title": "Rethinking organizational design in the age of agentic AI",
+      "summary": "MIT Technology Review examines how the rise of agentic AI is forcing companies to fundamentally reconsider their organisational structures, workflows, and human roles. The piece argues that traditional hierarchies and job designs are ill-suited to environments where AI agents take on complex, multi-step tasks autonomously. It draws on business research to suggest new models for human-AI collaboration at the enterprise level.",
+      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "topics": ["AI agents", "AI industry", "generative AI"]
+    },
+    {
+      "title": "Why the Vatican Invited Anthropic to the Pope's AI Encyclical Presentation",
+      "summary": "Wired reports that Anthropic was among the AI companies invited to attend the Vatican's presentation of Pope Leo XIV's encyclical on artificial intelligence. Anthropic researcher Christopher Olah participated, reflecting growing engagement between the tech industry and religious institutions on AI ethics and governance. The encyclical is notable for its direct engagement with the power and risks of AI technology.",
+      "url": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+      "topics": ["AI ethics", "AI governance", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Fake academic journals are publishing AI-generated papers under real professors' names",
+      "summary": "A report reveals that fraudulent academic journals are using AI to generate papers attributed to real researchers without their knowledge, posing serious risks to research integrity and academic publishing.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQVdXUFQ1YW45MElNbTBxaXd2RGhubzJKYW9tb2VkYldUT3I5U2JGWnlfUzFQRFVzaGdXOGRaZ1o0RjdDUmV0aFJ1MaloU043WVVtOGJ1U1NMYlJDQWFVTnk4Z05pdnVXRExQZkZ2ZVRBR29VVXRjdlJaSzd1UzBUUG1ZSGpiejJZaERrUmpNeWRjOVgyYnE3X1pVRU9HaWoyanowOUpYamVqeXNORTZJ",
+      "topics": ["academic publishing", "generative AI", "research integrity"]
+    },
+    {
+      "title": "The AI fight brewing inside The New York Times",
+      "summary": "The Verge reports on tensions at the New York Times between management and the Tech Guild union over the use of AI tools for performance monitoring, highlighting broader workplace concerns about AI-driven surveillance and editorial labour.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract",
+      "topics": ["AI ethics", "technology ethics", "AI industry"]
+    },
+    {
+      "title": "YouTube is putting AI labels where you'll actually see them",
+      "summary": "YouTube is updating its approach to labelling AI-generated content, making disclosures more prominent on Shorts and other videos to improve transparency for viewers.",
+      "url": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates",
+      "topics": ["content policy", "AI detection", "generative AI"]
+    },
+    {
+      "title": "Former Google and Apple Researchers Launch a Startup to Build AI's Missing Feedback Loop",
+      "summary": "Ex-Google and Apple AI researchers have founded a new startup aimed at building AI systems that continuously learn and improve from user interactions, addressing what they see as a key limitation in current large language models.",
+      "url": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
+      "topics": ["large language models", "AI industry", "generative AI"]
+    },
+    {
+      "title": "The AI bubble isn't like the internet bubble",
+      "summary": "Cory Doctorow at Pluralistic argues that the current AI investment bubble differs structurally from the dot-com era, with distinct dynamics around monopoly, capital concentration, and the costs of failure.",
+      "url": "https://pluralistic.net/2026/05/26/the-ai-will-continue/#until-morale-improves",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "What Pope Leo XIV's First Encyclical Says About the Power of AI",
+      "summary": "Wired analyses the content of Pope Leo XIV's landmark encyclical, which directly addresses AI's societal power, risks to human dignity, and the responsibilities of technology developers.",
+      "url": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
+      "topics": ["AI ethics", "AI governance", "technology ethics"]
+    },
+    {
+      "title": "PostHog will train AI models with your data (opted-in by default)",
+      "summary": "Analytics platform PostHog has disclosed that user data will be used to train AI models by default, with users needing to actively opt out, raising questions about data consent and privacy in AI development.",
+      "url": "https://posthog.com/blog/training-ai-models",
+      "topics": ["AI ethics", "generative AI", "content policy"]
+    },
+    {
+      "title": "Bay Area mom out thousands after scammers use AI to mimic daughter's voice",
+      "summary": "ABC7 reports on a growing trend of AI-powered voice cloning scams in which criminals impersonate family members to extort money from victims.",
+      "url": "https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/",
+      "topics": ["AI ethics", "technology ethics", "generative AI"]
+    },
+    {
+      "title": "The Download: puncturing the AI jobs panic",
+      "summary": "MIT Technology Review examines the latest data on AI's impact on employment, questioning whether fears of mass AI-driven job displacement are supported by current evidence. [Metered]",
+      "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
+      "topics": ["AI industry", "large language models", "business"]
+    },
+    {
+      "title": "AI tried to bury this politician — now people have actually heard of him",
+      "summary": "The Verge reports on a New York politician whose campaign was reportedly targeted by AI-generated content designed to suppress his visibility, but the attempt backfired and raised his public profile.",
+      "url": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
+      "topics": ["AI governance", "AI ethics", "technology ethics"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "Choosing to Stay Human",
+    "summary": "Ethan Mollick explores the tension between using AI to augment human capabilities and the choice to preserve distinctly human ways of working, thinking, and creating. He examines when it makes sense to deliberately avoid AI assistance and what we risk losing if we outsource too much of our cognition and effort. The post encourages readers to be intentional about which tasks and experiences they choose to keep human.",
+    "url": "https://www.oneusefulthing.org/p/choosing-to-stay-human"
+  }
+}
