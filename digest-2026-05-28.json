@@ -1,0 +1,101 @@
+{
+  "top_stories": [
+    {
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "summary": "OpenAI and Cisco have announced a partnership to deploy Codex within enterprise engineering workflows, marking a significant expansion of OpenAI's agentic coding tools into large-scale business infrastructure. The collaboration aims to accelerate software development and operational efficiency across Cisco's engineering organisation. This represents one of the most prominent enterprise deployments of OpenAI's Codex platform to date.",
+      "url": "https://openai.com/index/cisco",
+      "topics": ["AI coding tools", "OpenAI", "enterprise AI"]
+    },
+    {
+      "title": "Illinois Lawmakers Just Passed America's Strongest AI Safety Bill [Metered]",
+      "summary": "Illinois has passed sweeping AI safety legislation that represents the most comprehensive state-level AI regulation in the United States. Governor Pritzker is expected to sign the bill, which covers algorithmic accountability and protections against AI-driven discrimination. The law could set a precedent for other states and influence federal AI policy discussions.",
+      "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+      "topics": ["AI regulation", "AI safety", "AI governance"]
+    },
+    {
+      "title": "YouTube is putting AI labels where you'll actually see them",
+      "summary": "YouTube is rolling out automatic detection and labelling of AI-generated video content, with labels placed prominently so viewers encounter them before or during playback. The update applies to both long-form videos and Shorts, and expands on the platform's existing creator-disclosure system by automating detection even when creators do not self-report. The move is part of broader efforts by the platform to improve transparency around synthetic media.",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "topics": ["AI video", "content policy", "generative AI"]
+    },
+    {
+      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+      "summary": "A critical security vulnerability has been discovered in a widely used open source package that underpins millions of AI agent deployments, potentially exposing them to exploitation. Ars Technica reports that the flaw could allow attackers to interfere with or hijack AI agent operations at scale. The disclosure raises significant concerns about the security foundations of the rapidly expanding AI agent ecosystem.",
+      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+      "topics": ["AI safety", "AI infrastructure", "large language models"]
+    },
+    {
+      "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
+      "summary": "Robinhood is introducing support for AI agents to autonomously execute stock trades on users' behalf, a significant step toward agentic AI in consumer financial services. The feature raises immediate questions about accountability, risk management, and the regulatory implications of autonomous financial decision-making. The Verge reports the move as part of a broader industry push toward AI-driven personal finance tools.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
+      "topics": ["AI agents", "generative AI", "AI industry"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Building self-improving tax agents with Codex",
+      "summary": "OpenAI details how Codex is being used to build tax agents capable of iteratively improving their own performance, illustrating a new frontier in applying agentic AI to professional services.",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "topics": ["AI coding tools", "OpenAI", "AI agents"]
+    },
+    {
+      "title": "Warp's big bet on building open source with GPT-5.5",
+      "summary": "OpenAI profiles how developer tool company Warp is integrating GPT-5.5 into its open source workflow, betting on the latest model to power a new generation of AI-assisted software development.",
+      "url": "https://openai.com/index/warp",
+      "topics": ["AI coding tools", "large language models", "OpenAI"]
+    },
+    {
+      "title": "OpenAI election information and safeguards in 2026",
+      "summary": "OpenAI has published its approach to handling election-related content and safeguards for its platforms ahead of 2026 elections, outlining policies to prevent misuse of its AI tools in political contexts.",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "topics": ["AI ethics", "content policy", "OpenAI"]
+    },
+    {
+      "title": "Rethinking organizational design in the age of agentic AI [Metered]",
+      "summary": "MIT Technology Review examines how companies are restructuring their organisations to accommodate agentic AI systems, with implications for management, workflows, and human-AI collaboration at the enterprise level.",
+      "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
+      "topics": ["AI industry", "generative AI", "business"]
+    },
+    {
+      "title": "Why the Vatican Invited Anthropic to the Pope's AI Encyclical Presentation [Metered]",
+      "summary": "Wired reports that Anthropic's Christopher Olah was among those invited to the Vatican for the presentation of Pope Leo XIV's encyclical on AI, reflecting the Catholic Church's serious engagement with AI safety and ethics researchers.",
+      "url": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+      "topics": ["AI ethics", "AI safety", "AI governance"]
+    },
+    {
+      "title": "The AI fight brewing inside The New York Times",
+      "summary": "The New York Times's tech union is pushing back against the company's use of AI tools to monitor journalist performance, with contract negotiations centring on AI oversight and worker protections.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract",
+      "topics": ["AI ethics", "technology ethics", "AI industry"]
+    },
+    {
+      "title": "Former Google and Apple Researchers Launch a Startup to Build AI's Missing Feedback Loop [Metered]",
+      "summary": "A new startup founded by ex-Google and Apple AI researchers aims to build systems that allow AI models to learn and improve continuously from user interactions, targeting what they see as a fundamental gap in current AI architectures.",
+      "url": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
+      "topics": ["large language models", "AI industry", "generative AI"]
+    },
+    {
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "summary": "DuckDuckGo's AI-free search engine saw a sharp spike in traffic in the week after Google publicly promoted its AI Mode feature, suggesting a meaningful segment of users are actively seeking alternatives to AI-driven search.",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "topics": ["AI search", "google", "user interaction"]
+    },
+    {
+      "title": "Fake academic journals are publishing AI-generated papers under real professors' names",
+      "summary": "A growing number of predatory and fake academic journals are being found to publish AI-generated research papers attributed to real academics without their knowledge, raising serious concerns about research integrity and the spread of misinformation in scholarly publishing.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQVdXUFQ1YW45MElNbTBxaXd2RGhubzJKYW9tb2VkYldUT3I5U2JGWnlfUzFQRFVzaGdXOGRaZ1o0RjdDUmV0aFJ1MFloU043WVVtOGJ1U1NMYlJDQWFVTnk4Z05pdnVXRExQZkZ2ZVRBR29VVXRjdlJaSzd1UzBUUG1ZSGpiejJZaERrUmpNeWRjOVgyYnE3X1pVRU9HaWoyanowOUpYamVqeXNORTZJ",
+      "topics": ["academic publishing", "research integrity", "generative AI"]
+    },
+    {
+      "title": "SilverTorch: Index as Model — A New Retrieval Paradigm for Recommendation Systems",
+      "summary": "Meta's engineering blog details SilverTorch, a new retrieval architecture that treats the index itself as a model, delivering significant improvements in recommendation system performance at scale.",
+      "url": "https://engineering.fb.com/2026/05/26/ml-applications/silvertorch-index-as-model-new-retrieval-paradigm-recommendation-systems/",
+      "topics": ["large language models", "AI infrastructure", "AI industry"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "Choosing to Stay Human",
+    "summary": "Ethan Mollick explores the question of when and why people might consciously choose not to use AI assistance, even when it could improve their output. He argues that there are legitimate human reasons to preserve certain tasks and experiences from AI involvement, beyond simple technophobia. The post reflects on the personal and social value of human effort and skill in an age of increasingly capable AI tools.",
+    "url": "https://www.oneusefulthing.org/p/choosing-to-stay-human"
+  }
+}
