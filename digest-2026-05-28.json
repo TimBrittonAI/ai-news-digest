@@ -1,0 +1,101 @@
+{
+  "top_stories": [
+    {
+      "title": "Illinois Lawmakers Just Passed America's Strongest AI Safety Bill [Metered]",
+      "summary": "Illinois has passed what is being described as the most significant AI safety legislation in the United States. The bill, signed by Governor Pritzker, sets new standards for AI accountability and safety requirements in the state. This marks a notable moment in US AI governance as federal legislation has remained limited.",
+      "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+      "topics": ["AI safety", "AI governance", "AI regulation"]
+    },
+    {
+      "title": "Cisco and OpenAI Redefine Enterprise Engineering with Codex",
+      "summary": "Cisco and OpenAI have announced a partnership to deploy OpenAI's Codex for enterprise engineering workflows. The collaboration aims to accelerate software development and engineering tasks at scale within Cisco's operations. This represents a significant enterprise adoption of OpenAI's coding agent technology.",
+      "url": "https://openai.com/index/cisco",
+      "topics": ["OpenAI", "AI coding tools", "enterprise AI"]
+    },
+    {
+      "title": "OpenAI and Warp's Big Bet on Building Open Source with GPT-5.5",
+      "summary": "Warp, the AI-powered terminal and development tool, has announced a deep integration with OpenAI's GPT-5.5 model to power its open source development features. The partnership signals growing reliance on frontier models for developer tooling. Warp is positioning AI-assisted coding as central to its product strategy.",
+      "url": "https://openai.com/index/warp",
+      "topics": ["OpenAI", "AI coding tools", "large language models"]
+    },
+    {
+      "title": "Millions of AI Agents Imperiled by Critical Vulnerability in Open Source Package",
+      "summary": "A critical security vulnerability has been discovered in a widely used open source package that underpins millions of AI agent deployments. The flaw could allow attackers to compromise AI agent systems at scale. Security researchers are urging immediate patching across affected platforms.",
+      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+      "topics": ["AI safety", "AI agents", "cybersecurity"]
+    },
+    {
+      "title": "OpenAI: Election Information and Safeguards in 2026",
+      "summary": "OpenAI has published details of its election safeguards policy for 2026, outlining how its models and products will handle election-related queries and content. The post describes measures to limit misuse of AI tools in electoral contexts and directs users to authoritative information sources. The announcement reflects ongoing industry efforts to address AI's role in democratic processes.",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "topics": ["OpenAI", "AI governance", "AI safety"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "YouTube Is Putting AI Labels Where You'll Actually See Them",
+      "summary": "YouTube is updating its approach to AI-generated content labels, moving them to more prominent positions so viewers are more likely to notice them on videos and Shorts.",
+      "url": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates",
+      "topics": ["AI video", "content policy", "generative AI"]
+    },
+    {
+      "title": "Why the Vatican Invited Anthropic to the Pope's AI Encyclical Presentation [Metered]",
+      "summary": "Anthropic's involvement in the Vatican's landmark AI encyclical presentation is examined, with the company's interpretability researcher Christopher Olah playing a notable role in discussions with the Holy See.",
+      "url": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+      "topics": ["AI ethics", "technology ethics", "AI governance"]
+    },
+    {
+      "title": "Robinhood Will Let Your AI Agent Trade Stocks and Make (or Lose) Lots of Money",
+      "summary": "Robinhood is introducing support for AI agents to autonomously execute stock trades on users' behalf, raising questions about accountability and financial risk.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
+      "topics": ["AI agents", "fintech", "AI industry"]
+    },
+    {
+      "title": "Building Self-Improving Tax Agents with Codex",
+      "summary": "OpenAI has published a case study on using its Codex model to build tax agents capable of iteratively improving their own performance, demonstrating a novel application of agentic AI in professional services.",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "topics": ["OpenAI", "AI agents", "AI coding tools"]
+    },
+    {
+      "title": "Former Google and Apple Researchers Launch a Startup to Build AI's Missing Feedback Loop [Metered]",
+      "summary": "Ex-researchers from Google and Apple have founded a new startup focused on building AI systems that improve continuously from user interactions, addressing what they describe as a fundamental gap in current AI development.",
+      "url": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
+      "topics": ["AI industry", "large language models", "AI research"]
+    },
+    {
+      "title": "The AI Fight Brewing Inside The New York Times",
+      "summary": "The New York Times Tech Guild is pushing back against management's plans to use AI for performance monitoring, with the dispute becoming a key battleground in ongoing union contract negotiations.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract",
+      "topics": ["AI ethics", "technology ethics", "AI industry"]
+    },
+    {
+      "title": "YouTube Will Let You Ask AI to Make a Custom Video Feed",
+      "summary": "YouTube is rolling out a feature that lets users prompt an AI to generate a personalised video feed based on their described interests.",
+      "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
+      "topics": ["AI video", "user interaction", "generative AI"]
+    },
+    {
+      "title": "DuckDuckGo Search Saw 28% More Visits After Google Said People Love AI Mode",
+      "summary": "DuckDuckGo reported a nearly 28% increase in visits in the week after Google publicly promoted its AI-powered search mode, suggesting some users are actively seeking AI-free search alternatives.",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "topics": ["AI search", "Google", "user interaction"]
+    },
+    {
+      "title": "Tech CEOs Are Apparently Suffering from 'AI Psychosis'",
+      "summary": "TechCrunch examines a growing pattern of tech executives making increasingly extreme and disconnected claims about AI's near-term capabilities, with commentators questioning whether hype has outpaced reality.",
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "topics": ["AI industry", "leadership", "generative AI"]
+    },
+    {
+      "title": "Meta's SilverTorch: Index as Model — A New Retrieval Paradigm for Recommendation Systems",
+      "summary": "Meta's engineering blog details SilverTorch, a new AI retrieval architecture that treats the index itself as a model, aiming to improve the efficiency and relevance of large-scale recommendation systems.",
+      "url": "https://engineering.fb.com/2026/05/26/ml-applications/silvertorch-index-as-model-new-retrieval-paradigm-recommendation-systems/",
+      "topics": ["large language models", "AI research", "AI industry"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "Choosing to Stay Human",
+    "summary": "Ethan Mollick explores the question of when and why people might consciously choose not to use AI assistance, even when it could help. He examines the personal, social, and philosophical dimensions of opting out of AI tools in specific contexts. The post reflects on what it means to preserve human effort and agency in an increasingly AI-assisted world.",
+    "url": "https://www.oneusefulthing.org/p/choosing-to-stay-human"
+  }
+}
