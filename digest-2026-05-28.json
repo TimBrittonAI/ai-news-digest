@@ -1,0 +1,101 @@
+{
+  "top_stories": [
+    {
+      "title": "Illinois Lawmakers Just Passed America's Strongest AI Safety Bill [Metered]",
+      "summary": "Illinois has passed what is being described as the most significant AI safety legislation in the United States. The bill, signed by Governor Pritzker, sets new standards for AI governance and safety requirements in the state.",
+      "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+      "topics": ["AI safety", "AI governance", "AI regulation"]
+    },
+    {
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "summary": "Cisco and OpenAI have announced a partnership to deploy Codex for enterprise software engineering workflows. The collaboration aims to accelerate coding and engineering tasks at scale across Cisco's operations.",
+      "url": "https://openai.com/index/cisco",
+      "topics": ["AI coding tools", "OpenAI", "enterprise AI"]
+    },
+    {
+      "title": "OpenAI: Building self-improving tax agents with Codex",
+      "summary": "OpenAI has published details on how Codex is being used to build self-improving AI agents for tax-related tasks. The post outlines how the agents iterate and improve their own performance over time, representing a new frontier in agentic AI for professional services.",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "topics": ["AI agents", "OpenAI", "generative AI"]
+    },
+    {
+      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+      "summary": "Ars Technica reports a critical security vulnerability in a widely used open source package that puts millions of AI agents at risk. The flaw could allow attackers to compromise agent pipelines built on the affected software.",
+      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+      "topics": ["AI agents", "AI safety", "cybersecurity"]
+    },
+    {
+      "title": "YouTube is putting AI labels where you'll actually see them",
+      "summary": "YouTube is rolling out automatic AI-generated content labels on videos and Shorts, placing them in more prominent positions so viewers are more likely to notice them. The platform's official blog confirms the update will use automatic detection to identify AI-generated content, reducing reliance on creator self-disclosure.",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "topics": ["AI video", "content policy", "AI detection"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Warp's big bet on building open source with GPT-5.5",
+      "summary": "OpenAI details how Warp is integrating GPT-5.5 into its open source developer tools, betting on AI-assisted coding as a core part of its product strategy.",
+      "url": "https://openai.com/index/warp",
+      "topics": ["AI coding tools", "large language models", "OpenAI"]
+    },
+    {
+      "title": "OpenAI: Election information and safeguards in 2026",
+      "summary": "OpenAI outlines its policies and technical safeguards for handling election-related content in 2026, detailing measures to prevent misuse of its tools during election cycles.",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "topics": ["OpenAI", "AI governance", "content policy"]
+    },
+    {
+      "title": "Why the Vatican Invited Anthropic to the Pope's AI Encyclical Presentation [Metered]",
+      "summary": "Wired reports on how Anthropic's Christopher Olah was invited to the Vatican for the presentation of Pope Leo XIV's encyclical on AI, offering insight into the relationship between the AI safety community and the Catholic Church's engagement with technology ethics.",
+      "url": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+      "topics": ["AI ethics", "technology ethics", "AI safety"]
+    },
+    {
+      "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
+      "summary": "Robinhood is launching a feature that allows AI agents to autonomously execute stock trades on behalf of users, raising both excitement and concerns about automated financial decision-making.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
+      "topics": ["AI agents", "fintech", "generative AI"]
+    },
+    {
+      "title": "Former Google and Apple Researchers Launch a Startup to Build AI's Missing Feedback Loop [Metered]",
+      "summary": "Ex-Google and Apple AI researchers have founded a startup aimed at building AI systems that continuously improve through user interaction, addressing what they see as a fundamental gap in current AI architectures.",
+      "url": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
+      "topics": ["AI research", "large language models", "AI industry"]
+    },
+    {
+      "title": "The AI fight brewing inside The New York Times",
+      "summary": "The New York Times Tech Guild is pushing back against management's use of AI tools to monitor employee performance, with the dispute becoming a focal point in ongoing union contract negotiations.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract",
+      "topics": ["AI ethics", "AI industry", "technology ethics"]
+    },
+    {
+      "title": "YouTube will let you ask AI to make a custom video feed",
+      "summary": "YouTube is testing a feature that lets users prompt an AI to curate a personalised video feed based on their described preferences, expanding AI-driven content discovery on the platform.",
+      "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
+      "topics": ["AI search", "generative AI", "user interaction"]
+    },
+    {
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "summary": "DuckDuckGo recorded a nearly 28% spike in visits in the week following Google's public claim that users embrace its AI-powered search mode, suggesting some users are actively seeking AI-free alternatives.",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "topics": ["AI search", "google", "user interaction"]
+    },
+    {
+      "title": "SilverTorch: Index as Model — A New Retrieval Paradigm for Recommendation Systems",
+      "summary": "Meta's engineering blog details SilverTorch, a new ML retrieval approach that treats the index itself as a model, aimed at improving recommendation system performance at scale.",
+      "url": "https://engineering.fb.com/2026/05/26/ml-applications/silvertorch-index-as-model-new-retrieval-paradigm-recommendation-systems/",
+      "topics": ["large language models", "AI research", "AI industry"]
+    },
+    {
+      "title": "Bay Area mom out thousands after scammers use AI to mimic daughter's voice",
+      "summary": "A Bay Area mother lost thousands of dollars to scammers who used AI to clone her daughter's voice in a fake kidnapping scheme, illustrating the growing threat of AI-enabled voice fraud.",
+      "url": "https://abc7news.com/post/bay-area-mom-thousands-scammers-use-ai-mimic-daughters-voice-fake-kidnapping-part-growing-trend/19154381/",
+      "topics": ["AI ethics", "technology ethics", "generative AI"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "Choosing to Stay Human",
+    "summary": "Ethan Mollick explores the question of when and why people choose to remain distinctly human in an age of increasingly capable AI. He examines the tension between leveraging AI tools for productivity and preserving human agency, judgment, and meaning in work and life.",
+    "url": "https://www.oneusefulthing.org/p/choosing-to-stay-human"
+  }
+}
