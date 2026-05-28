@@ -1,0 +1,101 @@
+{
+  "top_stories": [
+    {
+      "title": "Illinois Lawmakers Just Passed America's Strongest AI Safety Bill [Metered]",
+      "summary": "Illinois has passed what is being described as the most significant AI safety legislation in the United States. The bill sets new standards for AI governance and safety requirements in the state, representing a major development in US AI regulation at the state level.",
+      "url": "https://www.wired.com/story/illinois-pass-major-ai-safety-law-pritzker/",
+      "topics": ["AI safety", "AI governance", "AI regulation"]
+    },
+    {
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "summary": "OpenAI has announced a partnership with Cisco to deploy Codex for enterprise engineering workflows. The collaboration aims to transform how engineering teams work at scale using AI coding tools.",
+      "url": "https://openai.com/index/cisco",
+      "topics": ["OpenAI", "AI coding tools", "generative AI"]
+    },
+    {
+      "title": "Warp's big bet on building open source with GPT-5.5",
+      "summary": "OpenAI has published a case study on Warp, the developer tool company, and its decision to build open source infrastructure using GPT-5.5. The post details how Warp is integrating the latest OpenAI model into its development platform.",
+      "url": "https://openai.com/index/warp",
+      "topics": ["OpenAI", "AI coding tools", "large language models"]
+    },
+    {
+      "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
+      "summary": "A critical security vulnerability has been discovered in a widely used open source package that underpins millions of AI agents. The flaw could expose AI systems built on the affected package to significant risk, raising concerns about security in the rapidly growing AI agent ecosystem.",
+      "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/",
+      "topics": ["AI safety", "AI agents", "cybersecurity"]
+    },
+    {
+      "title": "OpenAI outlines election information and safeguards for 2026",
+      "summary": "OpenAI has published its approach to handling election-related content and safeguards across its platforms for 2026. The post details policies designed to protect electoral integrity and limit misuse of AI tools during election cycles.",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "topics": ["OpenAI", "AI ethics", "content policy"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "YouTube is putting AI labels where you'll actually see them",
+      "summary": "YouTube is rolling out automatic AI-generated content labels in more prominent positions so viewers can more easily identify synthetic media.",
+      "url": "https://www.theverge.com/streaming/937915/youtube-ai-labels-shorts-automatic-identification-updates",
+      "topics": ["AI video", "content policy", "generative AI"]
+    },
+    {
+      "title": "YouTube will let you ask AI to make a custom video feed",
+      "summary": "YouTube is launching a feature that allows users to prompt an AI to generate a personalised video feed based on their interests.",
+      "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
+      "topics": ["AI search", "user interaction", "generative AI"]
+    },
+    {
+      "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
+      "summary": "Robinhood is introducing support for AI agents to autonomously execute stock trades on behalf of users, marking a significant step in AI-driven consumer finance.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
+      "topics": ["AI agents", "business", "generative AI"]
+    },
+    {
+      "title": "Why the Vatican Invited Anthropic to the Pope's AI Encyclical Presentation [Metered]",
+      "summary": "Anthropic's Christopher Olah was among those invited to the Vatican for the presentation of Pope Leo XIV's AI encyclical, shedding light on the relationship between AI safety researchers and religious institutions engaging with AI ethics.",
+      "url": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+      "topics": ["AI ethics", "AI safety", "technology ethics"]
+    },
+    {
+      "title": "Building self-improving tax agents with Codex",
+      "summary": "OpenAI details how Codex is being used to build tax agents capable of iterative self-improvement, offering a concrete enterprise use case for AI coding and automation tools.",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "topics": ["OpenAI", "AI agents", "generative AI"]
+    },
+    {
+      "title": "Former Google and Apple Researchers Launch a Startup to Build AI's Missing Feedback Loop [Metered]",
+      "summary": "A group of ex-Google and Apple AI researchers have founded a startup aimed at building AI systems that continuously improve through user interaction, addressing what they see as a fundamental gap in current AI products.",
+      "url": "https://www.wired.com/story/ex-google-apple-ai-researchers-want-to-make-ai-that-gets-smarter-as-you-use-it/",
+      "topics": ["AI industry", "large language models", "user interaction"]
+    },
+    {
+      "title": "The AI Hype Index: AI gets booed in graduation season [Metered]",
+      "summary": "MIT Technology Review's AI Hype Index looks at the growing public scepticism around AI, including instances of AI being jeered at graduation ceremonies, as a barometer of shifting sentiment.",
+      "url": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+      "topics": ["AI industry", "technology ethics", "generative AI"]
+    },
+    {
+      "title": "The AI fight brewing inside The New York Times",
+      "summary": "The New York Times Tech Guild is pushing back against management's use of AI tools for performance monitoring, with the dispute shaping up as a key battleground in union contract negotiations.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract",
+      "topics": ["AI ethics", "technology ethics", "AI industry"]
+    },
+    {
+      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "summary": "DuckDuckGo recorded a nearly 28% increase in visits in the week after Google publicly claimed strong user enthusiasm for its AI search mode, suggesting some users are seeking AI-free alternatives.",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "topics": ["AI search", "google", "user interaction"]
+    },
+    {
+      "title": "Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved [Metered]",
+      "summary": "Amazon says it has solved a key technical challenge related to data centre infrastructure that it believes will be critical to scaling AI compute capacity going forward.",
+      "url": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "Choosing to Stay Human",
+    "summary": "Ethan Mollick examines the choices people face about how much to integrate AI into their lives and work, exploring what it means to deliberately maintain human agency in an AI-saturated world. The post reflects on the trade-offs between leveraging AI for productivity and preserving distinctly human ways of thinking and doing.",
+    "url": "https://www.oneusefulthing.org/p/choosing-to-stay-human"
+  }
+}
