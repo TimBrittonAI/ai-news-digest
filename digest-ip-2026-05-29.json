@@ -1,0 +1,90 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "CNN Sues Perplexity AI, Alleging 'Massive Copyright Infringement'",
+      "summary": "CNN has filed a copyright lawsuit against Perplexity AI, alleging the AI search company scraped and reproduced approximately 17,000 CNN news stories without authorisation. The case is being watched as a significant test of how copyright law applies to AI systems that summarise and reproduce news content. Perplexity has responded by arguing that facts cannot be copyrighted.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS0tOdnpYbXNCNVBWYW1LZWdjY19tdWl2cEpSTjVSMXZERnhqVDNaMFZldnVJY0Y3dFpIVTRKVlVndVR5ZGZSV1M3N1JRS2JNLVJWdWhUUk8wNG9mSE9sR1BSNEY3UFpvYUV1UHQ4Um1TQnZqcS1seGVHaFl4d1d2cjY2Y0hVUFh3bjY3Q3Y2bWd2ZWpGN2Z3aHR1VWhRZw?oc=5",
+      "topics": ["AI copyright", "litigation", "news publishing"]
+    },
+    {
+      "title": "VerticalScope Sues OpenAI Over Copyright Infringement in GPT Training",
+      "summary": "VerticalScope, a digital media company, has filed suit against OpenAI alleging that the AI giant scraped its online community content without permission to train GPT models, infringing copyright. The case adds to a growing body of litigation targeting AI developers over training data practices.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUTQ5UWVXMG5idE1LLVpMM0ktYjF6c25qRjVpbTJVeDk3OElMYmlyX0U4S0g3cFR5VzBXYVFtVlJrelk0LUtDbjFCZ2RZRU1oRGt2MVVyUU52cnoxajFmNGJKamRxVS1RMmt0VHJKaXlfTmxDdU5ob2JocjZWWkxZQVI3MGtidkxudkVYcllqakNwQ3dIWldjVkFCcEJMaW85UzRxUGtWWWJWTUo1SVg0a1A0UXQtNkttcXBWdG41TUszam1BSE5wRnd1X1diVl95b3Q0RkJUd3FhT1ZVYWN0OUNiaWg?oc=5",
+      "topics": ["AI copyright", "litigation", "training data"]
+    },
+    {
+      "title": "A Blind Spot at the Heart of EU Copyright and AI Policymaking?",
+      "summary": "A new analysis identifies a significant gap in EU copyright and AI policymaking, arguing that current regulatory frameworks fail to adequately address key tensions between AI training practices and rights holders' interests. The piece raises concerns about whether existing EU rules are fit for purpose as AI development accelerates.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX241bWlROGQ3Nk9ubkVnUlNsN2s2N3k1dzBSekd2MGp2Q1dhLUl2TjNnWm96SHhBMmVtZ081WGtBckRMQnp1cDh3YTQ3NzE3enNKdGZLbjlwVDN2OUl6Z0NvZFlzRWprZEotNF8td0c0OWVJbXpIMGZWTUpac1RMVlBJdTVvN0NETzlVWFU0SnBkQzNhNDRncFE2UnE5ZHVtRDJXUXpVS1h1VVZEQ285ZVhZTjU?oc=5",
+      "topics": ["EU law", "AI copyright", "policy"]
+    },
+    {
+      "title": "Taylor Swift Trademarking Her Voice and Likeness Points to New Legal Frontier in Combating AI Deepfakes",
+      "summary": "Taylor Swift has filed trademark applications covering her voice and likeness, a legal strategy being described as a novel approach to protecting against AI-generated deepfakes. Legal experts note the filings sit at the intersection of copyright, publicity rights, and trademark law, each addressing different dimensions of AI-generated impersonation.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQlFTcEhzenVlSjRPVVc0anFheWtGU0xVVGhra1JmMzA1djZWdkJCdFBMQURiSGhEVXdRU2haQk9nQWFHendZbjlFUWtoQnplblNCVDZxbWVlbnl5WkczRHBUYm01cXZOd2wtM0dGWGp1RmhqcDFfVHB0WEZFNGVrcFNSdzlZTndPcnFmZTk5aXYwMS13aHlXcDBn?oc=5",
+      "topics": ["AI copyright", "deepfakes", "trademark"]
+    },
+    {
+      "title": "Australian Creatives Urge Government to 'Hold the Line' on AI and Copyright Law",
+      "summary": "Australian creative industry groups are lobbying their government to maintain strong copyright protections in the face of AI industry pressure, urging policymakers not to introduce broad text and data mining exceptions that would allow AI training on copyrighted works without consent or compensation.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV2FzV1pkSmFZTG9lUkNGWjJDdWU2LUQycWNzVTJaN2JNSmt6ZG9JcEhSa1ZfZXdTckZaZ09WNmdsWE1zNU1SdWtVWWZjMDg1bHpjRmF1algyUzVJNWVqX29JaHlaZXJPSURKMnBKMFd4SGhSM2Q3WG9qTkR4UmhvRUkxWQ?oc=5",
+      "topics": ["AI copyright", "policy", "publishing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Perplexity AI Says 'You Can't Copyright Facts' in Defense Against CNN Copyright Suit",
+      "summary": "Perplexity AI has formally responded to CNN's copyright lawsuit by arguing that factual news content is not protected by copyright, setting up a key legal question about the scope of copyright protection in AI-generated news summaries.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVTRMWV95NHZFdmYyR3FDRFhacy1yRndCcmV6SUZuSUxQT3RtSDVna25oOS1PaElBYkNKRWpleUxuOGVESWV1OWpUdHJJeWloYV9rUlBoTWYyZUliQTZwdDN2R1pXT3VpY3ZqTU9KMmh0UHF3bDFBR20tbkt1VmNrWjk1azBpRHlG?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "MiniMax Loses Bid to End Disney Copyright Lawsuit Over AI System",
+      "summary": "A court has rejected AI company MiniMax's attempt to have Disney's copyright lawsuit dismissed, allowing the case to proceed and potentially setting precedent for how AI-generated content interacts with existing IP.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMRHZPZE1QVDlFVUNERXI0NERwV1JWd3VGeGZvM0QxV0xIMFJPWG16Q0pYRTRQUENBTnBLaklpVzFaUDgzTWVkdFp2dDFkUkcxdmNpWFlvMVduMmZMSVN3X19QbFk0UEh6LWJDZ2RIWFZIYzg?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Beyond the Article, Beyond the APC: What We Learned from 18 Months of R&D",
+      "summary": "The Scholarly Kitchen reports on findings from 18 months of publishing R&D exploring alternative models beyond the article and APC, with implications for how academic publishing may evolve in the AI era.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/05/28/beyond-the-article-beyond-the-apc-what-we-learned-from-18-months-of-rd/",
+      "topics": ["academic publishing", "licensing"]
+    },
+    {
+      "title": "UK AI Regulation: May 2026 Roundup of New Laws and ICO Guidance",
+      "summary": "A roundup of UK AI regulatory developments in May 2026, covering new legislation and Information Commissioner's Office guidance relevant to AI deployment and intellectual property.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWkU5eUQ1VUtoeTJzZDdPVGZjeEZrV1ZzQXAwc0pjS21PR01zY0pVZHp5R1RvMXZMOHAzTW9sM2JyNUZpdE1hQlRhLTJMa2QxRVlOVkNKcWYxeGlxVkVjc045RE1MLVpRZDJXWUJzcFExYTEzdzQ2d0tuVjBUYVpNckZOdm4?oc=5",
+      "topics": ["policy", "EU law", "AI copyright"]
+    },
+    {
+      "title": "ElevenLabs Adds 200k Audiobooks to Stream, Offers Premium Tier [Metered]",
+      "summary": "ElevenLabs has expanded its AI audio platform by adding 200,000 audiobooks and launching a premium subscription tier, raising questions about licensing arrangements with publishers.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100500-elevenlabs-adds-200k-audiobooks-to-stream-offers-premium-tier.html",
+      "topics": ["licensing", "AI tools", "academic publishing"]
+    },
+    {
+      "title": "Licensing Expo Highlights Publishers as Licensors and Licensees [Metered]",
+      "summary": "Publishers Weekly reports from the Licensing Expo on how publishers are increasingly operating on both sides of licensing deals, including in the context of AI content partnerships.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100508-licensing-expo-highlights-publishers-as-licensors-and-licensees.html",
+      "topics": ["licensing", "publishing"]
+    },
+    {
+      "title": "AI's Growing Role in Trademark Naming and Clearance",
+      "summary": "A new report examines how AI tools are being adopted by legal and brand teams to assist with trademark searches and clearance processes, changing workflows in IP practice.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTk5fS2lvMTJGQno0ajVCNmtFeTVhd2xHVzhhWE5NVnRwQ0Mza1JwS3NpaWkwSXNWRHpJUHUxR29OSmxfUDlwN2RidWNCWkU3SF91ci05ODZKWTVYZnhRRXVjT3VMaEhYUDdiNmh0dUpSbkNGSndKc1hiR0tjMERQejNQRjZzNlliQ09HN3VtZm5FX0Z2OUNLQ1hJZUJDMUdXMzlTR2dSS2ExQTJGQ19uMkJkTXRteEc2Rmc?oc=5",
+      "topics": ["AI tools", "trademark", "legal services"]
+    },
+    {
+      "title": "AI, Intellectual Property and Governance: Why the Real Conversation Belongs in the Boardroom",
+      "summary": "An analysis argues that decisions about AI and intellectual property are increasingly strategic rather than purely legal, and that corporate governance structures need to adapt accordingly.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWUtvempUUlhfN1JveHFnV0lQcUlSWVlYTUMwTVBZbENGNTlMNHZZOUNfajY3cmtIQzVnY1p4UmsyWmxKU0FLbDlSaTVMeGx1TGJzS0V2eTRUOVpnbThBRlhDTmc2UWlCOUNVS3ZDQUl5NHYtYTZuYURSaDZVTWpEU0pWX1ZQdll2MDVDQ0RYa0xFTzlJU293V2dmOUpXUTlEUVRETUpDRGhiTjFSLTJudXhWRGpXRXV0Y2FjTjVWdDBFeHFMX0xxYi03aFFuRDdj?oc=5",
+      "topics": ["policy", "AI copyright"]
+    },
+    {
+      "title": "IPKat: Thursday Thingies",
+      "summary": "IPKat's regular Thursday roundup covers recent IP law developments including AI-related copyright and patent news from across jurisdictions.",
+      "url": "http://ipkitten.blogspot.com/2026/05/thursday-thingies.html",
+      "topics": ["AI copyright", "policy"]
+    }
+  ]
+}
