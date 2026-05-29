@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI's Frontier Governance Framework",
+      "summary": "OpenAI has published its Frontier Governance Framework, outlining its approach to managing the development and deployment of its most advanced AI systems. The document sets out principles and processes for safety, oversight, and responsible scaling as models grow more capable. This represents a formal public commitment to AI governance from one of the industry's leading labs.",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "topics": ["AI governance", "AI safety", "OpenAI"]
+    },
+    {
+      "title": "Claude's new model is more 'honest' when it messes up",
+      "summary": "Anthropic's Claude 4 and Claude 8 Opus models have been updated with improvements to honesty, particularly around how the AI acknowledges errors and limitations in its responses. The update reflects Anthropic's ongoing focus on model behaviour and effort transparency. The Verge reports the changes are designed to make Claude more forthright rather than masking uncertainty.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
+      "topics": ["large language models", "AI ethics", "Anthropic"]
+    },
+    {
+      "title": "CNN sues Perplexity over 'verbatim' copycat articles",
+      "summary": "CNN has filed a copyright lawsuit against AI search startup Perplexity, alleging the company reproduced articles verbatim without authorisation. The case adds to a growing list of legal challenges facing AI companies that aggregate and summarise news content. The suit raises significant questions about fair use and the limits of AI-generated summaries of journalism.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
+      "topics": ["copyright", "AI search", "legal"]
+    },
+    {
+      "title": "AI sticker shock hits corporate America",
+      "summary": "Axios reports that enterprises are experiencing significant sticker shock as the costs of deploying AI at scale exceed initial expectations, raising questions about return on investment. Many companies are finding that infrastructure, compute, and integration costs are higher than anticipated. The piece highlights growing pressure on businesses to demonstrate measurable ROI from AI spending.",
+      "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
+      "topics": ["AI industry", "business", "AI infrastructure"]
+    },
+    {
+      "title": "Sam Altman and Dario Amodei are both walking back AI jobs apocalypse predictions",
+      "summary": "Fortune reports that both OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei have recently softened their earlier warnings about AI causing mass unemployment. The shift comes as both companies face increased public and regulatory scrutiny ahead of potential IPOs. The article notes the change in tone represents a notable reversal from previous statements about AI's disruptive impact on the workforce.",
+      "url": "https://fortune.com/2026/05/26/sam-altman-dario-amodei-walking-back-ai-jobs-apocalypse-prophecies-ipo/",
+      "topics": ["AI industry", "OpenAI", "leadership"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+      "summary": "Microsoft has rolled out a redesigned, faster version of its 365 Copilot assistant, improving performance and simplifying the interface for enterprise users.",
+      "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+      "topics": ["AI coding tools", "generative AI", "business"]
+    },
+    {
+      "title": "YouTube to automatically label AI-generated videos",
+      "summary": "YouTube has announced it will begin automatically applying labels to AI-generated videos, expanding its content disclosure policies for creators and viewers.",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "topics": ["AI video", "content policy", "generative AI"]
+    },
+    {
+      "title": "How Endava builds an agentic organization with Codex",
+      "summary": "OpenAI's blog details how software consultancy Endava is deploying its Codex AI coding agent across its organisation to automate and accelerate software development workflows.",
+      "url": "https://openai.com/index/endava",
+      "topics": ["AI coding tools", "generative AI", "OpenAI"]
+    },
+    {
+      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+      "summary": "A developer, frustrated with AI-assisted 'vibe coding' practices, embedded a malicious prompt injection into shared code designed to delete data, highlighting emerging security risks in AI-assisted development.",
+      "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+      "topics": ["AI coding tools", "technology ethics", "AI safety"]
+    },
+    {
+      "title": "AI is eating the academic publishing industry alive, but some good might come of it",
+      "summary": "A new report examines how generative AI is disrupting academic publishing, threatening traditional models while also potentially accelerating research dissemination and accessibility.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeC1rQWtTVE1NNkQ1blNkX1Q3djJKT2FsVl9LbUFlbHpfenNHTVl3SzJscV9SY28zR3RmUkJQYkhFTDdmMUxmdjI2WnFBWTl2dDNsTzc5TnA0SElYaXl3Q1g3Qi1rLWFzdV81UF9aYlEzUzdFNy1kNXNyNzQ1XzdjdjlJdnNiRjNLSjBlMGR2WWoxd0oyOUNMdS1QQTlEU0cyUEl2T0gySTVGNjE5bXZOUVVxM0tzUmZwVWZlejJyWHc5WkRENU5iVTQ2MndiUDAtRWdiUg?oc=5",
+      "topics": ["academic publishing", "generative AI", "AI industry"]
+    },
+    {
+      "title": "New Moms Are Returning to Coding Jobs Radically Reshaped by AI",
+      "summary": "Wired reports on women returning from parental leave to find their software development roles significantly transformed by AI coding tools, with new expectations and workflows now standard. [Metered]",
+      "url": "https://www.wired.com/story/women-parental-leave-return-office-ai/",
+      "topics": ["AI coding tools", "AI industry", "generative AI"]
+    },
+    {
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "summary": "TechCrunch explores the phenomenon of tech executives making increasingly grandiose and disconnected claims about AI capabilities, raising questions about hype and leadership judgment.",
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+      "topics": ["AI industry", "leadership", "technology ethics"]
+    },
+    {
+      "title": "A $2,000 AI-generated film will make its debut at Tribeca",
+      "summary": "An AI-generated feature film produced for just $2,000 has been selected for the Tribeca Film Festival, marking a significant moment for AI video in mainstream cinema.",
+      "url": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
+      "topics": ["AI video", "generative AI", "AI industry"]
+    },
+    {
+      "title": "AI tried to bury this politician — now people have actually heard of him",
+      "summary": "The Verge reports on how an AI-generated smear campaign against New York politician Alex Bores backfired, inadvertently raising his public profile ahead of an election.",
+      "url": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
+      "topics": ["AI ethics", "content policy", "AI governance"]
+    },
+    {
+      "title": "Training our own AI models — PostHog",
+      "summary": "Analytics platform PostHog shares a detailed account of building and training its own in-house AI models, offering a practical perspective on the challenges and trade-offs involved.",
+      "url": "https://posthog.com/blog/training-ai-models",
+      "topics": ["large language models", "AI infrastructure", "AI industry"]
+    }
+  ],
+  "ethan_mollick": null
+}
