@@ -1,0 +1,60 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "CNN sues Perplexity for copying 17,000 works in landmark AI copyright case",
+      "summary": "CNN has filed a copyright lawsuit against AI search company Perplexity, alleging it copied approximately 17,000 works verbatim. The case is being described as a landmark action in AI copyright litigation, with Perplexity responding that facts cannot be copyrighted. The suit centres on claims that Perplexity scraped and reproduced CNN news content without authorisation to generate AI-powered responses.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSDJ3NkVtaWlpaHJmc3BuSFdlQzFiNWJUaGZCQjE3WkppQ0QxenZfZ0E3a25VZzVzbDduOC1DWXN6Z3hiUkQ0LXpwYjZFbEFqTjZtaEd0VVRHVTVxdWc3cWc2VHA4S2YtdzBSeThfZFVPc2x5dGhTUldNR2Q0N2pxQjFITE54dWNkU1dZYUhaY3RDTkpRSEtV?oc=5",
+      "topics": ["AI copyright", "litigation", "media publishing"]
+    },
+    {
+      "title": "Perplexity AI Says 'You Can't Copyright Facts' in Defense Against CNN Copyright Suit",
+      "summary": "Perplexity AI has responded to CNN's copyright lawsuit by arguing that facts are not copyrightable, raising a foundational legal question about the nature of AI-generated content derived from news articles. The defence signals a potentially significant doctrinal dispute about what elements of journalism are protected under copyright law.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYWFST2ZpTklDOV9pb0ZSN0sxdFJBZWFjeGpaRV9Na2s0V0xpNEJKZUFvSVVudngwT3JZWGh1MG1UYW52UzVTbEU0R1NWV243bUU4TjNQaXJUVVQxcGlsR2lLNlBFTVdfNTc2SHdXSnYzQ3NVVFNhdDhyQ0xyWno2ZVdrbGJWN1ls?oc=5",
+      "topics": ["AI copyright", "litigation", "media publishing"]
+    },
+    {
+      "title": "VerticalScope sues OpenAI, claims AI giant infringed copyright by scraping content to train GPT models",
+      "summary": "VerticalScope, an online community platform operator, has filed a copyright lawsuit against OpenAI alleging that its content was scraped without authorisation to train GPT models. The case adds to the growing body of copyright litigation targeting AI training data practices.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUTQ5UWVXMG5idE1LLVpMM0ktYjF6c25qRjVpbTJVeDk3OElMYmlyX0U4S0g3cFR5VzBXYVFtVlJrelk0LUtDbjFCZ2RZRU1oRGt2MVVyUU52cnoxajFmNGJKamRxVS1RMmt0VHJKaXlfTmxDdU5ob2JocjZWWkxZQVI3MGtidkxudkVYcllqakNwQ3dIWldjVkFCcEJMaW85UzRxUGtWWWJWTUo1SVg4a1A0UXQtNkttcXBWdG41TUszam1BSE5wRnd1X1diVl95b3Q0RkJUd3FhT1ZVYWN0OUNiaWg?oc=5",
+      "topics": ["AI copyright", "litigation", "AI training data"]
+    },
+    {
+      "title": "Taylor Swift trademarking her voice and likeness points to a new legal frontier in combating AI deepfakes",
+      "summary": "Taylor Swift's trademark filings covering her voice and likeness are highlighting the complex intersection of copyright, publicity rights, and trademark law in the context of AI-generated deepfakes. Legal analysts note that existing frameworks address different aspects of the problem, with no single body of law providing comprehensive protection against AI misuse of an individual's identity.",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOalhsRWlNZ2M1TGVoRXdXaXRXYVBwRTVfTVN0c3QyY2pGSFJVYjZwNldpTGcwdXQ3bC1TMEFoTG1laDQ0andfaDYwSGc4cGczQXpQdW5WZS1yQnMxSVJ5M1RGSGt5OTNqOXd6MUs0XzFmU1ZjSzI2ZFBKelRxbXJMX1R0ck1oQXJ2RzljMklzY0VsR0Q4cVYxOGVWT1dWZVBVSGNoQlhMbEw0bVkzbXQxR0ZwNHJKTmY2bURNOVE5clNYS1JoVC02OXRybm5jdjJyTGxqU0RTOTFmd3ZyWXJSQ2pWY0NubFZHZXpLY0R3YnU0NjVoX1lCQjNmSDcyOGZJeEgzU2RENjhSMU9EdlRxNXUzQU5VeEU?oc=5",
+      "topics": ["AI copyright", "AI deepfakes", "trademark law"]
+    },
+    {
+      "title": "New Edition of Clark's Publishing Agreements Tackles AI",
+      "summary": "A new edition of the authoritative Clark's Publishing Agreements has been updated to address AI-related contractual issues, reflecting the growing need for publishing contracts to account for AI-generated content, training data licensing, and author rights in the AI era.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdXpfZVNxRVlwYzRXbWhaODZBM21KQk9qN25GZUNNaGtEaTVhYVNlSl95bFB3UVBqSHJRQTlYdFI0bS16Q0VJajFxS2ZfRXk3UlV5WGhYMi1fN0lXdWozdlRIQko5YmU2emlKYnNTX2Myb3dEeXN0U3N5VVk1WHNhMEhLZjBWY0c2dDlaeUx3NTlVZzNVRnBta09FUmhzTDg?oc=5",
+      "topics": ["licensing", "academic publishing", "AI copyright"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "AI Voice Co. Files Ch. 7 Amid Actors' Copyright Suit",
+      "summary": "An AI voice company has filed for Chapter 7 bankruptcy while facing a copyright lawsuit brought by actors over unauthorised use of their voices.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR1FDMnBjNXNyZ2Z4WVdzbl9KNVpJazV3NDNVZ2dBSkFCVmdpVGw1MFgzdUhILXlUWjZxTUl0UElQS09IY3pqX0JZeUxrcTRJTEkzdEdhSlFYU0w5R3p0NWlzdGZQbXpGVTBONVRtSDNSWGlSUVZiTXh5dUY5QWNKenVaUElBbTI3QkI3OTYzaXo2WEHSAVZBVV95cUxPTTlHN01GX1BIM1AtZWpldmluNEo3eTBTRGZrMUpiVjZISzBVOU9KMWVTNnFwMWVROGt3d0ZtdzJ6c2E0TU5lQjRweXdYYW9sR2lHSTFZQQ?oc=5",
+      "topics": ["AI copyright", "litigation", "AI voice"]
+    },
+    {
+      "title": "Council of Europe says \"Yes to Authors' Rights\" and \"No to the TDM exceptions for AI\" – but when will the European Commission ever see reason?",
+      "summary": "The Council of Europe has publicly backed authors' rights and opposed text and data mining exceptions for AI training, calling on the European Commission to take a stronger stance on copyright protections.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NYUdDVUQzY2ZqeGVUaUtvczFYRlY5TE93dkoxcVJ2YmVPS0lJQjhHRmVzWFdhS3lMakNnU19OcHExZHBIWU1lME9CTjA2N05RcWdzTWJlY2JEN2JuOXl5R0NFZkRxdnlC?oc=5",
+      "topics": ["EU law", "AI copyright", "policy"]
+    },
+    {
+      "title": "Use of Japanese anime and manga for AI training is a \"serious issue that undermines creators' rights,\" CODA warns tech companies",
+      "summary": "Japan's Content Overseas Distribution Association (CODA) has warned tech companies that using anime and manga for AI training without authorisation undermines creators' rights and constitutes a serious issue.",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOR1JqM2JzcjloYlpMbzBiZmJfRUlTQzlyS01yUGxPSkkzYVFuMDZZY3BzaURoM3JtcmplWWxkMlZtSDN2RC1rLUNuaDRZZk1QTTNWcGlGaDBLcFJnLXFFbldteUFaUU9OMXg0WDlrbERZLUtWenpPbFotbG55ZUxzYzlxNVE5Z2plSnhGNExxRHB5Sml5QWVXSEgyRGFVSmtadS0tRG9wODA0YXVNT1BBOU1mNXgycUxuelJ3dnhDRVgxTTdZNFhlY2NzSUZGQ0JOZmdyc0s1dk9TU2pEVkJVRktVT29YY2JjZElDMGxXS2ZiZ2c?oc=5",
+      "topics": ["AI copyright", "AI training data", "policy"]
+    },
+    {
+      "title": "Guest Post — Scholarly AI Search Shortcomings and the Need for Better Metadata",
+      "summary": "A guest post on The Scholarly Kitchen examines the limitations of AI-powered academic search tools and argues that improved metadata standards are essential for reliable scholarly discovery.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/05/29/guest-post-scholarly-ai-search-shortcomings-and-the-need-for-better-metadata/",
+      "topics": ["academic publishing", "AI tools", "software"]
+    }
+  ]
+}
