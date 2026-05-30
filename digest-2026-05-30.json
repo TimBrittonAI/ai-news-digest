@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Robinhood now lets your AI agents trade stocks",
+      "summary": "Robinhood has launched a feature allowing AI agents to execute stock trades autonomously on behalf of users. The move marks a significant step in integrating agentic AI into retail financial services, raising both opportunity and risk questions for investors.",
+      "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+      "topics": ["AI agents", "fintech", "generative AI"]
+    },
+    {
+      "title": "Boston Children's uses AI to unlock new diagnoses",
+      "summary": "OpenAI has published a case study detailing how Boston Children's Hospital is using AI to surface rare and previously missed diagnoses. The initiative demonstrates practical clinical applications of large language models in healthcare settings.",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "topics": ["AI in healthcare", "OpenAI", "large language models"]
+    },
+    {
+      "title": "Tech companies desperately want to film you doing chores",
+      "summary": "AI and robotics companies are seeking large volumes of real-world human activity data to train future robots, and are now offering payment to ordinary people willing to be filmed performing household tasks. The trend highlights the growing demand for diverse, embodied training data as the robotics industry scales.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
+      "topics": ["AI training data", "robotics", "AI industry"]
+    },
+    {
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "summary": "OpenAI has published guidance aimed at standardising how third-party organisations evaluate AI systems, with the goal of improving consistency and credibility in model assessments. The framework addresses growing concerns about the reliability and independence of AI safety evaluations.",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "topics": ["AI safety", "AI governance", "OpenAI"]
+    },
+    {
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "summary": "OpenAI has published a case study showing how AI startup Braintrust uses Codex to automatically convert customer feature requests into working code. The example illustrates the growing commercial use of AI coding agents in software development workflows.",
+      "url": "https://openai.com/index/braintrust",
+      "topics": ["AI coding tools", "OpenAI", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend [Metered]",
+      "summary": "Wired gets hands-on with Google's Gemini Spark AI agent, exploring what happens when the system is given broad access to personal data and communications.",
+      "url": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
+      "topics": ["AI agents", "Google", "user interaction"]
+    },
+    {
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "summary": "OpenAI outlines its collaboration with Rosalind Biodefense to apply AI tools toward improving biological threat detection and societal resilience.",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "topics": ["AI safety", "OpenAI", "AI industry"]
+    },
+    {
+      "title": "Liquid AI reveals 8B-A1B MoE trained on 38T tokens",
+      "summary": "Liquid AI has announced a new 8-billion-parameter mixture-of-experts model trained on 38 trillion tokens, signalling continued competition in the large language model space from smaller labs.",
+      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+      "topics": ["large language models", "AI industry", "generative AI"]
+    },
+    {
+      "title": "CAPTCHAs can still detect AI agents",
+      "summary": "New research from Roundtable AI finds that current CAPTCHA systems remain effective at distinguishing AI agents from human users, with implications for how agentic AI interacts with the open web.",
+      "url": "https://research.roundtable.ai/captchas-detect-ai/",
+      "topics": ["AI agents", "AI detection", "large language models"]
+    },
+    {
+      "title": "Notes from the Mistral AI Now Summit",
+      "summary": "A summary of key announcements and discussions from Mistral AI's Now Summit, covering product direction and the company's positioning in the European AI landscape.",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "topics": ["AI industry", "large language models", "generative AI"]
+    },
+    {
+      "title": "Amazon scraps AI leaderboard to stop workers chasing usage scores [Paywalled]",
+      "summary": "Amazon has discontinued an internal AI leaderboard after finding that employees were optimising for usage metrics rather than meaningful productivity gains from AI tools.",
+      "url": "https://www.ft.com/content/b1a62a7f-6df5-4c90-94ce-64ce9c9961b6",
+      "topics": ["AI in the workplace", "business", "generative AI"]
+    },
+    {
+      "title": "Microsoft data suggests using AI is more expensive than hiring people",
+      "summary": "Internal Microsoft data reportedly indicates that AI tools can cost more than human labour for certain tasks, complicating the business case for widespread AI adoption.",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-data-suggests-using-ai-225900743.html",
+      "topics": ["AI in the workplace", "business", "AI compute"]
+    },
+    {
+      "title": "The Vatican's Man Inside Anthropic [Metered]",
+      "summary": "Wired profiles a Vatican-connected figure working within Anthropic, exploring the intersection of religious ethics and AI safety research at one of the leading AI labs.",
+      "url": "https://www.wired.com/story/the-vaticans-man-inside-anthropic/",
+      "topics": ["AI ethics", "technology ethics", "AI safety"]
+    },
+    {
+      "title": "Amazon Is Making an AI-Animated 'Good Advice Cupcake' TV Show. Its Original Creator Is Furious [Metered]",
+      "summary": "Amazon is producing an AI-animated series based on the Good Advice Cupcake character without the involvement or apparent approval of the original creator, reigniting debates around copyright and AI-generated content.",
+      "url": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
+      "topics": ["AI video", "copyright", "generative AI"]
+    },
+    {
+      "title": "Adobe's conversational AI agent is a mediocre design intern",
+      "summary": "The Verge reviews Adobe's new conversational AI agent, finding it capable of basic design tasks but falling short of professional expectations in accuracy and usefulness.",
+      "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+      "topics": ["AI agents", "generative AI", "AI industry"]
+    }
+  ],
+  "ethan_mollick": null
+}
