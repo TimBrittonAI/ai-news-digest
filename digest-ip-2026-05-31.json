@@ -1,0 +1,48 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "CNN sues Perplexity AI over \"verbatim\" copies of articles",
+      "summary": "CNN has filed a copyright lawsuit against Perplexity AI, alleging the company copied approximately 17,000 of its news stories verbatim to train and power its AI systems without authorisation. The case is being watched as a landmark test of how copyright law applies to AI-generated content that reproduces journalism. Perplexity has responded by arguing that facts cannot be copyrighted.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSjNEUlpZcFFIWXhJYjZsUUdIRHBkaXhSaGRjX1pBZGtucThGYzBBUndldk9hdXl1UV9GaVpRSFZtZnBsbEs0WUlHYnFhdDRFU3dlalhocDFKTk9DUkdOMXFQM2xNY3VmXy1UN0pROVFqT2ZLYlJTZXdQMDEyd3VTaGRGQ2RTTjZrVFBKY1o2c3lnSUt1bmFwcER30gGfAUFVX3lxTE1iMUNTZXpWMVJObzRVNWVoZVlQNjhTaXFfR19GWlNRT2laekZESkJfcGVuLUZDRFNyUjZ2TTBpZUEyc3pYYVAzVzVJZG9Qb1JWZ0FybFNDTlozVkZ0akpKekxIQ203WDlzSDNFU1M3UnY2N1NrSnVZWDR3OGxSSHg3VThoeHRJeHRRcE9TdU8xU0xmVHFRaXdtejRaNjYyZw",
+      "topics": ["AI copyright", "litigation", "publishing"]
+    },
+    {
+      "title": "Perplexity AI Says 'You Can't Copyright Facts' in Defense Against CNN Copyright Suit",
+      "summary": "Perplexity AI has responded to CNN's copyright lawsuit by arguing that facts and information are not protected by copyright, a defence that could have broad implications for AI companies facing similar legal challenges. The case centres on whether AI systems that reproduce or summarise news content infringe on publishers' intellectual property rights. Legal observers are watching closely as the outcome could set precedent for how AI firms use journalistic content.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYWFST2ZpTklDOV9pb0ZSN0sxdFJBZWFjeGpaRV9Na2s0V0xpNEJKZUFvSVVudngwT3JZWGh1MG1UYW52UzVTbEU0R1NWV243bUU0TjNQaXJUVVQxcGlsR2lLNlBFTVdfNTc2SHdXSnYzQ3NVVFNhdDhyQ0xyWno2ZVdrbGJWN1ls",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "VerticalScope sues OpenAI, claims AI giant infringed copyright by scraping content to train GPT models",
+      "summary": "VerticalScope, an operator of online community forums, has filed a copyright lawsuit against OpenAI alleging the company scraped its content without permission to train its GPT language models. The suit adds to a growing wave of copyright litigation against major AI developers from content publishers and creators. The case highlights ongoing disputes over whether scraping publicly available web content for AI training constitutes infringement.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUTQ5UWVXMG5idE1LLVpMM0ktYjF6c25qRjVpbTJVeDk3OElMYmlyX0U4S0g3cFR5VzBXYVFtVlJrelk4LUtDbjFCZ2RZRU1oRGt2MVVyUU52cnoxajFmNGJKamRxVS1RMmt0VHJKaXlfTmxDdU5ob2JocjZWWkxZQVI3MGtidkxudkVYcllqakNwQ3dIWldjVkFCcEJMaW85UzRxUGtWWWJWTUo1SVg0a1A0UXQtNkttcXBWdG41TUszam1BSE5wRnd1X1diVl95b3Q0RkJUd3FhT1ZVYWN0OUNiaWg",
+      "topics": ["AI copyright", "litigation", "software"]
+    },
+    {
+      "title": "Use of Japanese anime and manga for AI training is a \"serious issue that undermines creators' rights,\" CODA warns tech companies",
+      "summary": "The Content Overseas Distribution Association (CODA) has issued a warning to technology companies that using Japanese anime and manga to train AI models is a serious infringement of creators' rights. The organisation stated that such use undermines the livelihoods of creators and called on AI developers to seek proper licensing agreements. The warning reflects growing international concern over the use of creative works in AI training datasets.",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOR1JqM2JzcjloYlpMbzBiZmJfRUlTQzlyS01yUGxPSkkzYVFuMDZZY3BzaURoM3JtcmplWWxkMlZtSDN2RC1rLUNuaDRZZk1QTTNWcGlGaDBLcFJnLXFFbldteUFaUU9OMXg0WDlrbERZLUtWenpPbFotbG55ZUxzYzlxNVE5Z2plSnhGNExxRHB5Sml5QWVXSEgyRGFVSmtadS0tRG9wODA0YXVNT1BBOU1mNXgycUxuelJ3dnhDRVgxTTdZNFhlY2NzSUZGQ0JOZmdyc0s5dk9TU2pEVkJVRktVT29YY2JjZElDMGxXS2ZiZ2c",
+      "topics": ["AI copyright", "licensing"]
+    },
+    {
+      "title": "Taylor Swift trademarking her voice and likeness points to a new legal frontier in combating AI deepfakes",
+      "summary": "Taylor Swift's move to trademark her voice and likeness is being cited as an indication of a new legal strategy for creators seeking protection against AI-generated deepfakes and unauthorised reproductions. The development points to an emerging frontier in intellectual property law as artists and public figures explore trademark rights as a complement to copyright protections. Legal experts suggest this approach could influence how IP law adapts to AI-generated content.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcURudWNSTDFaZFFNTjlDdDd5UHFhSUpGdGpHaHg0ZzVHODVoRmYwdmpHenNUdGNnUkZCbTNTZHc1QXpoNzdoTktyaW5QMEoxQlczNWFua2wydmo0X05uZkQzTFk3UXpfNGJMbGozTzQ0NGF6QWNhckRQdE9tM0lhalUydXV0RENDSDREM01BMDA2djBsTWhKQ0hJTDVncERnQVcybDlBWTFZc2p5TEZSNkFqeU1aeldwNDlkSFE1TlBaNGdDSmhsYTFGVlFBcGNZcnVlaGJQVQ",
+      "topics": ["AI copyright", "policy"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "CNN sues AI company Perplexity. Why?",
+      "summary": "An explainer on why CNN chose to file its landmark copyright lawsuit against Perplexity AI and what the case could mean for the broader relationship between news publishers and AI companies.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOU0dBUnJvNjltNVNLbmJlbTc0RUkxeXJMbU5wOWFTNGtNLUhDdlpWNkZaai1JMW5OS3c0dHl2RGF0cnUtVVpOYl9Pc3ktQW1INzczcnlfdExYYURMLVJndUJ2U0tZSkhRd1BKVldpQ016aXRGcEhReEJqWFJIdlYxU1d2MA",
+      "topics": ["AI copyright", "litigation", "publishing"]
+    },
+    {
+      "title": "Ceartas: The AI \"Internet Delete Button\" That Protects Creators Instantly.",
+      "summary": "A look at Ceartas, a new tool described as an \"internet delete button\" that claims to help creators instantly remove their content from AI training pipelines and protect their intellectual property online.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWXJvWkpJa0pmYnBUcldPNlZKTFd6bDNZVW9yUEQ0RE0yS3Vxa2lRYUN2TWllRkRNUlM0RjhRWjRDTmhQeUFCNS1wcWRtaVdwcDlqbW9OU0JrX2tRaTRUQUFQOXlaSV83NnlDa3A3aGRpellTd1h6Zk9KZXdxbU56YkFHSjd6T3ltanQwNlpCVmNIRjBnbFVWTQ",
+      "topics": ["AI copyright", "licensing"]
+    }
+  ]
+}
