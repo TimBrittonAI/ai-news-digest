@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Frontiers wins two awards at the 2026 EPIC Awards for pioneering work on AI in publishing and research integrity",
+      "summary": "Academic publisher Frontiers has received two awards at the 2026 EPIC Awards, recognising its work applying AI to publishing processes and research integrity. The recognition highlights growing institutional investment in AI-driven quality control within academic publishing. This is notable as the sector grapples with concerns around AI-generated content and peer review integrity.",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRFlOWDVBU0N5bWNJS2tNNlE2NjdEeUx0TlY3NlRCT1R5MnV4MDJzWjhudUtqblB4YjZZb3VIaGlFT1QxUHhHYXhvcGVfRUE4R2syVWluRzd3aV9jUkRMSTI5QWw3TndFbnRGWWJXMGM1RW00bFZWT2NHa2pKNnZUc0EwT3JZaWNkeGJ1U2E0OS10YUNLbE1mX2o1UHpCNW5pS2s2YlVlVUpHMEdmSFBSZzVjQ1NUNWp1Nk1IUnBOa0VPQWRVMnJxRkUzNVZ5Y2JiMm53RHB5SHp4cm5OV0JzWFVqZ2trVHpOeDRySg?oc=5",
+      "topics": ["academic publishing", "research integrity", "AI tools"]
+    },
+    {
+      "title": "Corporate America Is Starting to Ration AI as Cost Skyrockets [Paywalled]",
+      "summary": "Businesses across the US are beginning to limit employee access to AI tools as the costs of widespread deployment prove higher than anticipated. Companies are reassessing which use cases justify the expense, with some introducing usage caps or restricting access to certain teams. The trend signals a more cautious phase of enterprise AI adoption following early enthusiasm.",
+      "url": "https://www.wsj.com/tech/ai/corporate-america-is-starting-to-ration-ai-as-cost-skyrockets-1eb99d7a",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "AI is powering the loss of marketing jobs",
+      "summary": "A new report examines how AI tools are displacing marketing roles, with automation taking over tasks such as content creation, data analysis, and campaign management. The shift is accelerating across agencies and in-house teams, raising concerns about long-term employment in the sector. Industry observers note that while some roles are being lost, others are evolving to manage AI systems.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oVHUzeGpoWEN0MGUwR0RoSUpfeS1ScWk3d0t3cTZtc0I3T0lMc3U4Q2YteEJTUXZ1RHBpbFBULThabUpjYlQ5RkFnQkloalMxWnZWeG8xOFlHY3RHQW9aN1pNNWw5RVRNTHFibWRxZw?oc=5",
+      "topics": ["advertising", "AI industry", "layoffs"]
+    },
+    {
+      "title": "AI grifters are creating fake Black people to sell Shein junk",
+      "summary": "The Verge reports on a growing trend of AI-generated video content on TikTok Shop featuring synthetic Black personas used to market low-cost dropshipped products from Shein and similar retailers. The practice raises serious concerns about racial representation, deepfake misuse, and platform content moderation. TikTok's e-commerce ecosystem is proving particularly susceptible to this form of AI-enabled deception.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
+      "topics": ["AI ethics", "content policy", "TikTok"]
+    },
+    {
+      "title": "This AI startup will clean your home for free to train future robots",
+      "summary": "A startup is offering free home cleaning services in exchange for the right to collect training data from its robots as they operate in real domestic environments. The scheme addresses one of the key bottlenecks in robotics AI development: access to diverse, real-world physical data. The model raises questions about data consent and the long-term value exchange between consumers and AI companies.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "topics": ["AI infrastructure", "generative AI", "AI industry"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
+      "summary": "Anthropic has reportedly overtaken OpenAI in valuation to become the world's most valuable AI startup, reflecting surging investor confidence in the Claude developer.",
+      "url": "https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup",
+      "topics": ["AI industry", "OpenAI", "business"]
+    },
+    {
+      "title": "Amazon plans to make SpaceX's Grok models available on its flagship AI service",
+      "summary": "Amazon is reportedly planning to add xAI's Grok models to its Bedrock AI platform, expanding the range of large language models available to enterprise customers.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQUhnY0wyS3M5SDlINEtTU1pmUHhNOS1YNFNfLWZSbEc1akJWeUpXb3pSMzZoS1lUTF9hOG02SkF0RzNRQU5XUUJUbnRBSVNNazZrbE02WkRtVlNER0Q2RjhvVVhuY3NLVVJPMFBkd0o3STVTZldqTktYYmRRT2h4OGFjN2pqREx4R2NqTQ?oc=5",
+      "topics": ["large language models", "AI industry", "business"]
+    },
+    {
+      "title": "AI Is Transforming Scientific Research Into A Major Business Opportunity",
+      "summary": "A new analysis outlines how AI is reshaping the scientific research sector, creating significant commercial opportunities across drug discovery, materials science, and data analysis.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY2hTU2UzTGVrQW5hNE9XOWZLRGlycktUOXJ3bGd4MFJWVVZvYUY5YUh5aHNhRzA3c2xaUV94ek9QeGlQbzFnUGFRUFc0NFFFUmVNMXFNOFlkZHFTcVZxeG1DMlhRRkdQU1NWemlqcHpwbFotSXMtQ0tsc2RJekFvN0U4ckhBUWRDN2ZlRU5wQ1Zpei1ybV9WaTBiZHVxeHR1MTVqckh6ZHBQQQ?oc=5",
+      "topics": ["AI industry", "generative AI", "business"]
+    },
+    {
+      "title": "We Asked the 'Future of Truth' Author to Explain How He Used AI. It Didn't Go Well [Metered]",
+      "summary": "Wired confronted an author about his use of AI in writing a book on truth and misinformation, with the exchange raising uncomfortable questions about transparency and research integrity.",
+      "url": "https://www.wired.com/story/future-of-truth-ai-interview/",
+      "topics": ["AI ethics", "research integrity", "generative AI"]
+    },
+    {
+      "title": "The $500K AI Film That 'Premiered at Cannes' Was Not in the Official Festival",
+      "summary": "An AI-generated film marketed as having premiered at Cannes was not part of the official festival programme, highlighting misleading promotional claims around AI video content.",
+      "url": "https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/",
+      "topics": ["AI video", "AI ethics", "generative AI"]
+    },
+    {
+      "title": "How one founder's bet on 'the old school web' is paying off",
+      "summary": "The Verge profiles a founder whose website focused on traditional, human-curated content has thrived as AI-generated search results erode trust in automated sources.",
+      "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
+      "topics": ["AI search", "google", "AI industry"]
+    },
+    {
+      "title": "Expertise in the age of AI",
+      "summary": "An essay explores how AI tools are changing the nature and value of human expertise, arguing that the relationship between deep knowledge and AI assistance is more complex than commonly assumed.",
+      "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
+      "topics": ["AI industry", "large language models", "technology ethics"]
+    },
+    {
+      "title": "Is AI causing a repeat of frontend's lost decade?",
+      "summary": "A developer argues that AI coding tools risk repeating the mistakes of earlier frontend frameworks — prioritising speed and convenience over code quality and long-term maintainability.",
+      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "topics": ["AI coding tools", "large language models", "technology ethics"]
+    },
+    {
+      "title": "How the Pope's Magnifica Humanitas offers a template for individuals to meet the AI moment [Metered]",
+      "summary": "MIT Technology Review examines how the Pope's recent address on human dignity provides a philosophical framework for individuals navigating the ethical challenges posed by AI.",
+      "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+      "topics": ["AI ethics", "technology ethics", "AI governance"]
+    },
+    {
+      "title": "AI job grief: A psychological crisis hitting tech workers",
+      "summary": "An essay examines the emotional and psychological toll on technology workers facing job uncertainty or displacement due to AI automation, describing a distinct form of professional grief.",
+      "url": "https://jackmaguire.org/blog/ai-job-grief/",
+      "topics": ["AI industry", "layoffs", "mental health"]
+    }
+  ],
+  "ethan_mollick": null
+}
