@@ -1,0 +1,60 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "CNN Sues Perplexity, Accusing AI Company of Stealing Its Copyrighted Content",
+      "summary": "CNN has filed a landmark copyright lawsuit against Perplexity AI, alleging the company copied approximately 17,000 of its news stories without authorisation to train and power its AI systems. Perplexity has responded by arguing that facts cannot be copyrighted. The case is being widely watched as a significant test of AI copyright liability in the news industry.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHM2Z0JpNEliRGpUM1hjYkY0UGkyYUI4aGlWSU02Zk9NRGJrd3RkWTBzMXdhRkx5LUpiQlVSSGdwSTA5bmpsbjcwMEVMTk1OaXpwWjk2TTJZNFZDZm45SFA0b0NFX3hMWl9uY0NQd193NENYSkFXX19LOVJXZGdERUVlMS05a1VHTkkwSThR?oc=5",
+      "topics": ["AI copyright", "litigation", "media publishing"]
+    },
+    {
+      "title": "Perplexity AI Says 'You Can't Copyright Facts' in Defense Against CNN Copyright Suit",
+      "summary": "Perplexity AI has issued a formal response to CNN's copyright lawsuit, arguing that factual news content is not protected by copyright and that its AI systems do not infringe on protected expression. The defence echoes arguments previously raised in other AI copyright disputes and will likely become a key legal battleground in the case.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYWFST2ZpTklDOV9pb0ZSN0sxdFJBZWFjeGpaRV9Na2s4V0xpNEJKZUFvSVVudngwT3JZWGh1MG1UYW52UzVTbEU0R1NWV243bUU4TjNQaXJUVVQxcGlsR2lLNlBFTVdfNTc2SHdXSnYzQ3NVVFNhdDhyQ3J6NmVXa2xiVjdZbA?oc=5",
+      "topics": ["AI copyright", "litigation", "media publishing"]
+    },
+    {
+      "title": "VerticalScope sues OpenAI, claims AI giant infringed copyright by scraping content to train GPT models",
+      "summary": "VerticalScope, an online community platform operator, has filed a lawsuit against OpenAI alleging that the company scraped its forum content without permission to train GPT models, constituting copyright infringement. The case adds to a growing body of litigation targeting AI developers over training data practices.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUTQ5UWVXMG5idE1LLVpMM0ktYjF6c25qRjVpbTJVeDk3OElMYmlyX0U4S0g3cFR5VzBXYVFtVlJrelk4LUtDbjFCZ2RZRU1oRGt2MVVyUU52cnoxajFmNGJKamRxVS1RMmt0VHJKaXlfTmxDdU5ob2JocjZWWkxZQVI3MGtidkxudkVYcllqakNwQ3dIWldjVkFCcEJMaW85UzRxUGtWWWJWTUo5SVg4a1A0UXQtNkttcXBWdG41TUszam1BSE5wRnd1X1diVl95b3Q0RkJUd3FhT1ZVYWN0OUNiaWg?oc=5",
+      "topics": ["AI copyright", "litigation", "training data"]
+    },
+    {
+      "title": "Use of Japanese anime and manga for AI training is a \"serious issue that undermines creators' rights,\" CODA warns tech companies",
+      "summary": "Japan's Content Overseas Distribution Association (CODA) has issued a formal warning to tech companies over the use of anime and manga content for AI training, describing it as a serious violation of creators' rights. The statement signals increasing pressure from rights holders in creative industries beyond Western publishing.",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOR1JqM2JzcjloYlpMbzBiZmJfRUlTQzlyS01yUGxPSkkzYVFuMDZZY3BzaURoM3JtcmplWWxkMlZtSDN2RC1rLUNuaDRZZk1QTTNWcGlGaDBLcFJnLXFFbldteUFaUU9OMXg0WDlrbERZLUtWenpPbFotbG55ZUxzYzlxNVE5Z2plSnhGNExxRHB5Sml5QWVXSEgyRGFVSmtadS0tRG9wODA0YXVNT1BBOU1mNXgycUxuelJ3dnhDRVgxTTdZNFhlY2NzSUZGQ0JOZmdyc0s5dk9TU2pEVkJVRktVT29YY2JjZElDMGxXS2ZiZ2c?oc=5",
+      "topics": ["AI copyright", "training data", "creative industries"]
+    },
+    {
+      "title": "AI-Created IP: What Must Be Disclosed and What Can Stay Confidential",
+      "summary": "A legal analysis examines the disclosure obligations around AI-generated intellectual property, exploring what creators and companies must reveal about AI involvement in IP creation and what information can legitimately remain confidential. The piece addresses emerging compliance questions as AI use in creative and commercial work becomes widespread.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGxfRXNPS2dFRGFwblI4a0ZMUjNZVy1qTGw5Y1ppaVFEZ0haeE1OTnhJUGFmUVF0czA3Q0ZuTzVldTl3VnBOZXBPX2FlUG1SbHRXNlQxOVNOWnJRR0Y5bDFIN05QYkQ3YTM4TldwZHRqSUxuWXVJYTJ0YUFCYnF4U2ZQTGI5NEd1a3dtY0NCb2x2dw?oc=5",
+      "topics": ["AI copyright", "policy", "disclosure"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "The hidden copyright risk inside AI-generated content",
+      "summary": "An analysis of the underappreciated copyright risks embedded in AI-generated outputs, including potential liability for users and organisations that deploy AI-created content without understanding its training origins.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41MWlrTU5GSXVhbGRBdU9pSHBCWWE3VDh2TlBLT3lSaEVMeVktaTBVZ1AzUlUyS19nZHNYRDk1ZVRVTlJnRzRKSk45d21fd19LNjIzeHZ3YzIzT1pjLUlUY3JSUzY5bzQ?oc=5",
+      "topics": ["AI copyright", "legal risk", "AI-generated content"]
+    },
+    {
+      "title": "AI Regulation 2026 Opens Three Fronts: CNN Sues Perplexity as OpenAI Aligns With EU Rules",
+      "summary": "A roundup of the current AI regulatory landscape covering CNN's lawsuit against Perplexity, OpenAI's moves to align with EU rules, and other emerging policy fronts in 2026.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNk1ZMi05Vk8yVXQzcUZxX0RSdUdabmdLeS0wNnZ6UzdwRW0tcWNCRXdIdnppaWFXTExoTW5iTmh1Tzg3MExPUnBwMDZCYVNhb1ozcjZsdFM3bi1DaDU0OWV1TzAzR3NuNHBvX19FOVQxQkpyU1Awc21kcDdoN1UzS3BPZV9hdnhFNmh1UGV6ZU96NDczWVl3RWE3SXhXM1lrUGJTU2t4TU81R0F3Rlc4TEZEQ0hoVzZPZ3NkNVhrd1JtbnRWeV80T0IxS0IxOHhG?oc=5",
+      "topics": ["AI regulation", "EU law", "policy"]
+    },
+    {
+      "title": "Beyond the Article, Beyond the APC: What We Learned from 18 Months of R&D",
+      "summary": "The Scholarly Kitchen reports on findings from 18 months of research and development exploring new publishing models beyond the traditional article and article processing charge framework.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/05/28/beyond-the-article-beyond-the-apc-what-we-learned-from-18-months-of-rd/",
+      "topics": ["academic publishing", "open access", "publishing models"]
+    },
+    {
+      "title": "ABA Celebrates 'Banner Year' Despite 'Existential Threats' [Metered]",
+      "summary": "The American Booksellers Association reports a strong year for independent bookselling while acknowledging serious ongoing threats to the sector.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bookselling/article/100523-aba-celebrates-banner-year-despite-economic-disruptions-and-existential-threats.html",
+      "topics": ["bookselling", "publishing industry"]
+    }
+  ]
+}
