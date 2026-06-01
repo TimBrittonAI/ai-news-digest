@@ -1,0 +1,61 @@
+{
+  "top_stories": [
+    {
+      "title": "AI Cranks Out 380 Academic Finance Papers in 12 Hours That Could Fool Peer Review Checks",
+      "summary": "A demonstration showed AI generating 380 academic finance papers in just 12 hours, raising serious concerns about research integrity and the ability of peer review systems to detect AI-generated content. The story highlights growing vulnerabilities in academic publishing as generative AI tools become more capable. This has significant implications for the credibility of scholarly literature.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV0pkU2k4aWEtWXlYMWVPeXVjNEFGQzFCa05mRWV1ZEhnV2NYRHh0b0ZZZk11aUwwZVFHVkpaSW95WWRwWE9GLVAydGVJcFNNeGd4LWpvZkxzeEpJVWFKd0FmWTVUc2Z4aVhTS3dVaDF4cEJ2Qmx0REowZnNiRUJENVEtRnpIaWM",
+      "topics": ["academic publishing", "generative AI", "research integrity"]
+    },
+    {
+      "title": "Undisclosed addition in jqwik instructed AI coding agents to delete app output",
+      "summary": "A developer frustrated with 'vibe coders' secretly embedded a prompt injection into the open-source jqwik library that instructed AI coding agents to delete application output files. The undisclosed modification was a deliberate act of sabotage targeting developers relying on AI tools to write code without fully understanding it. The incident raises significant concerns about supply chain security and the risks of AI-assisted coding workflows.",
+      "url": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+      "topics": ["AI coding tools", "AI safety", "technology ethics"]
+    },
+    {
+      "title": "The people who actually want AI to replace humanity",
+      "summary": "Vox explores the ideology of AI successionism — a fringe but growing movement whose adherents genuinely believe AI replacing or superseding humanity would be a positive outcome. The piece examines the philosophical underpinnings of these views and how they relate to transhumanism and posthumanism. It places these ideas in the context of broader debates about AI's long-term trajectory.",
+      "url": "https://www.vox.com/future-perfect/489976/ai-successionism-transhumanism-posthumanism",
+      "topics": ["AI ethics", "technology ethics", "AI safety"]
+    },
+    {
+      "title": "Naver Targets Defense AI Market with 'Sovereign AI' Strategy",
+      "summary": "South Korean tech giant Naver is pursuing a 'sovereign AI' strategy aimed at entering the defense AI market, positioning its domestically developed large language models as a secure alternative to foreign platforms. The move reflects growing interest among governments and militaries in AI systems that keep sensitive data within national borders. Naver's approach highlights the intersection of AI industry competition and national security concerns.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSE5mN3N0Nk1nOWloeng3NktCOU91eXBTSzh1U2hqNWNLcldmOHlEY0ZzYXp5T05NRmxXX0ZSZ19hT25GNDlTVHdsanpHZnNQbkViQzBYdllMSEMtVXI5WlVsTUtoM2FLalBiZ1dOcVhXb2prREg1aTJUYnFYNkVqMDhNd3g1b25nZ1JWR0JYcDAxSV9XNTVDOTZIdmROSDNveTVhU3Zn",
+      "topics": ["AI governance", "defense", "large language models"]
+    },
+    {
+      "title": "Wolfe Research sees AI workloads expanding CPU market by 30% through 2028",
+      "summary": "Analyst firm Wolfe Research projects that rising AI workloads will drive a 30% expansion of the CPU market by 2028, as inference and edge AI deployments increasingly rely on general-purpose processors alongside GPUs. The forecast underscores the broad infrastructure investment being driven by AI adoption across industries. It signals continued growth in AI compute spending beyond the GPU-centric narrative.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeElYQ3Z4NV8tRmRMdExIZUNzWUNrU3diZk5RMXBrRGlmbG5GWFhSY3dPSzk0Z1BMeC14YzNoWmcxeXNOaWM2ZWFtNENFTzk3VUNuN25kNmw0RmQ1VzdfT09PRzVHbWFDLWEzNkdETlNiRi1zT0RtOEFOTUM4d0stMXpTcXpWZjl5ZXNIZ0FBaldKREZ6dmhUQzUwYWNHU2Vfemtn",
+      "topics": ["AI compute", "AI infrastructure", "AI industry"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "The Speed of Prototyping in the Age of AI",
+      "summary": "A developer reflects on how AI tools have dramatically accelerated the prototyping process, changing the pace and nature of early-stage software development.",
+      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+      "topics": ["AI coding tools", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Do You Actually Need to Pay for Transcription Software? [Metered]",
+      "summary": "Wired evaluates whether paid transcription tools offer enough advantage over free AI-powered alternatives to justify the cost.",
+      "url": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/",
+      "topics": ["AI tools", "large language models", "consumer research"]
+    },
+    {
+      "title": "India's AI Revolution Accelerates as Billion-Dollar Investments Reshape the Artificial Intelligence Market",
+      "summary": "India is seeing a surge in billion-dollar AI investments as domestic and international players race to reshape the country's artificial intelligence landscape.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZDVYRzA1ejdCbU1VQUtQSFpSbjR3OXJoSTczTWZQOExVTHBkSnFCUHJfeHhIM2FRakVYc0xvOWUtak93ZkNhSmNZTzl2VjZCTUNCRE1fbjF1U1lRcEplZG5TVWxTZTZ6dnl1WW9pcDFKNWZYdm5yblE1T0tJSkJrbDZ4alRLTkdQYVlPR2x0OEdBbHhka2JBZ01sdlVVUDNHZS1oUnRYa2h0bVFpQ2JsU01GbU8yWWNrb1dEdjY2WFVPdkRLYzRVS0RueXU4Ti1kblZkQ2tyZTBrYkd0bU8w",
+      "topics": ["AI industry", "AI infrastructure", "business"]
+    },
+    {
+      "title": "What if remote working, not AI, is to blame for weak junior hiring? [Paywalled]",
+      "summary": "The FT examines whether the decline in junior hiring is more attributable to remote work dynamics than to AI automation replacing entry-level roles.",
+      "url": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
+      "topics": ["AI industry", "business", "layoffs"]
+    }
+  ],
+  "ethan_mollick": null
+}
