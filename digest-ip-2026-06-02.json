@@ -1,0 +1,90 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "New York Times Publisher Warns That AI Companies Are Making Choices That 'Violate Settled Law' and Could Cause a 'Great Deal of Unnecessary Harm'",
+      "summary": "The publisher of The New York Times has publicly accused AI companies of committing 'brazen theft' by scraping news content without authorisation, warning that their practices violate settled law and threaten the future of journalism. The remarks represent a significant escalation in the dispute between major news publishers and AI developers over training data and content use. The NYT is already engaged in active litigation against AI companies over similar claims.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVnA4b1k2T3JEWl8wRVBzQmUtd2JUNGZua1F1N0dLX2JWc09ZaXZJZzJYUERueTNxZ1A0YjU0ZGVEanlJRHZPRHlwR0taenNEQUxUTjdkeC0zNGpxYUtCMUN3TEZfYXBQZ3Jxc1JkM29MWVBSNkRVT2tJdjVnU3RBSDBxUVRBRTZPUlVSWmlVeVFkVTVBVXVucF9NZEhVWk0",
+      "topics": ["AI copyright", "publishing", "litigation"]
+    },
+    {
+      "title": "CNN sues Perplexity for copying 17,000 works in landmark AI copyright case",
+      "summary": "CNN has filed a copyright infringement lawsuit against AI search startup Perplexity, alleging the company scraped approximately 17,000 of its assets without authorisation. The case adds CNN to a growing list of publishers suing Perplexity, which now faces six active publisher lawsuits. The scale of the alleged copying makes this one of the most significant AI content-scraping cases to date.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSDJ3NkVtaWlpaHJmc3BuSFdlQzFiNWJUaGZCQjE3WkppQ0QxenZfZ0E3a25VZzVzbDduOC1DWXN6Z3hiUkQ4LXpwYjZFbEFqTjZtaEd0VVRHVTVxdWc3cWc2VHA4S2YtdzBSeThfZFVPc2x5dGhTUldNR2Q0N2pxQjFITE54dWNkU1dZYUhaY3RDTkpRSEtV",
+      "topics": ["AI copyright", "litigation", "publishing"]
+    },
+    {
+      "title": "Cox and Effect: Why Volitional Conduct Is AI Copyright's Next Battleground",
+      "summary": "A legal analysis argues that the doctrine of 'volitional conduct' — which determines whether a party is sufficiently involved in an act of copying to be held liable — is set to become a central issue in AI copyright disputes. Drawing on the Cox Broadcasting precedent, the piece examines how courts may apply this standard to AI training and output generation. The outcome could significantly shape the liability landscape for AI developers.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05cXE0LS1SakVyWmlTZG16Q3BqYUJrMEZobXFSdE5BY3UxYUhUd001clQ5R1otTXd0eHo4V1BKNW1YTUVscVkwV2ZCRF9qbzgycExEcldKNi01WTBzUjEwN3BseThJVHhKNzhxaUlSdG1UNGlVRTN3",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "States Seek to Define Ownership of AI-generated Works in Absence of Federal Standard",
+      "summary": "With no federal framework in place, individual US states are moving to establish their own rules on who owns works created by artificial intelligence. The divergent approaches being taken risk creating a patchwork of inconsistent state laws, complicating rights management for creators and AI developers alike. The trend reflects growing legislative pressure to address AI authorship questions that copyright regulators have so far left unresolved.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSFRuVDN1ZTA2blpkbFF4UmZkVG4wMDFSZ05iMndoQjl1RG9vZzVVeGVHNzQwVXNrYWJHZFY3MGdxNUNFMmQ5X3QyUHZqd3ZVUHdHR2EzWFp6SnFLdHBzNUxsSFNRNEREckk3N18zRDdFcWpCNC1oTGxsMnJNUFFiU2NWUEhySFFZdmdFR0IyRThBNHNITTZRYlF0OHZNd3NUVUNCTV3UWhDN29nMlF5Vk9RNGp1UjFjdlE",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Running a Tintin model locally on your laptop might just transform copyright",
+      "summary": "IPKat examines the copyright implications of running locally hosted AI models fine-tuned on copyrighted works such as the Tintin series, exploring how private use exceptions and the absence of network transmission may challenge existing infringement frameworks. The piece questions whether current copyright doctrine is equipped to handle AI models that operate entirely on a user's own hardware. The analysis highlights a significant and underexplored gap in IP law.",
+      "url": "http://ipkitten.blogspot.com/2026/06/running-tintin-model-locally-on-your.html",
+      "topics": ["AI copyright", "software", "policy"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "3rd Circ. Preview: AI Copyright Spat, NJ Gun Law Battle",
+      "summary": "The Third Circuit Court of Appeals is set to hear an AI copyright dispute among its upcoming cases, signalling continued judicial engagement with AI intellectual property questions at the appellate level.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcmtXdEFFRlZjVFQyZWJRaUpSVWdlMmJRbHh6bEJMaGpqcHpIN1Voc01hWGpkTzdNMlg2dkhiN1JNNnRVNjQ5YzNBMWFzTV8wa2dnZ0tuY2VQUDNKek9CX0dfU25GbVZucDlPZzNteDhCcDUzSE5KeDFJbjVPeENvQWZJQmJlTkVrNi1tQnhFeEZ2eGJqRHJB0gFWQVVfeXFMUGd4aElZT1JyS2VjOGlQbTNSeTUtRlE1RV8xWUZEQUY3YmJNYmpsNy13S29DUThQMEp1UEVETHF5ZGFSUE41SXN1ZnZsYW1IZ2tkUXhueUE",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "AI Mapping Co. Says Rival's Copyright Suit Is Too Vague",
+      "summary": "An AI mapping company is seeking to have a copyright infringement suit brought by a rival dismissed on the grounds that the complaint lacks sufficient specificity.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcmlxZGNoRE1KeGktNjQ1WGxQWnd2eG5uNkZCdjJNYVNQWkdtVUF3MXYtNjlTSkV6SFdlZFR2eHRVNF9wRE95T0FxZkZVd2IwWHR6dVpENnA1SFBlSlJQbzVnRUpPV2pyQ0N2WmpsRGh5SnNxZXYxRlJZRThOZ08zNEYweVEtS1dMMFZDRVROOGFZOUN4cW9oVlc4U0o2V3lELXdhdWdEOXhhaXFaMmww0gFWQVVfeXFMTnZhejN4amg5Ym5oUHZXN2pYNVFPUjZEaWdrWnNMY1F4RjZVN1FDUlpSd19OTVhTdlNoSzFQYmgtUng2d1U1clJLbmdJMXNwWVdUd2I0Tnc",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "New Edition of Clark's Publishing Agreements Tackles AI",
+      "summary": "The latest edition of the authoritative Clark's Publishing Agreements has been updated to address AI-related clauses, reflecting the growing need for contract frameworks that account for AI use in publishing.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdXpfZVNxRVlwYzRXbWhaODZBM21KQk9qN25GZUNNaGtEaTVhYVNlSl95bFB3UVBqSHJRQTlYdFI0bS16Q0VJajFxS2ZfRXk3UlV5WGhYMi1fN0lXdWozdlRIQko5YmU2emlKYnNTX2Myb3dEeXN0U3N5VVk1WHNhMEhLZjBWY0c2dDlaeUx3NTlVZzNVRnBta09FUmhzTDg",
+      "topics": ["publishing", "licensing", "AI copyright"]
+    },
+    {
+      "title": "Generative AI in India – Litigation over legislation?",
+      "summary": "An analysis of the emerging legal landscape for generative AI in India, examining whether copyright litigation is outpacing legislative efforts to regulate AI-generated content.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05cXE0LS1SakVyWmlTZG16Q3BqYUJrMEZobXFSdE5BY3UxYUhUd001clQ5R1otTXd0eHo4V1BKNW1YTUVscVkwV2ZCRF9qbzgycExEcldKNi01WTBzUjEwN3BseThJVHhKNzhxaUlSdG1UNGlVRTN3",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "Infringement risks of generative AI in the entertainment industry (Part 1)",
+      "summary": "A legal overview of the copyright infringement risks posed by generative AI tools in the entertainment sector, covering training data, output, and performer rights issues.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90NXYwUUcwdUNkMDgySmhISXNLTks3UmhNZkV6b2licXhpMVJYUlZaaUtKOUFYY0pBc1ZDRGtfTTBmSWtsRVNYTC1EdVlQaGhSc3N0Nk5aZG1WeUdsYm1zT3J2ZFg",
+      "topics": ["AI copyright", "licensing", "publishing"]
+    },
+    {
+      "title": "Taylor Swift just exposed a blind spot in AI law — and it's bigger than copyright",
+      "summary": "An opinion piece argues that the Taylor Swift deepfake controversy has highlighted legal gaps around AI-generated likenesses that existing copyright law is ill-equipped to address.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSMHliOUNJUDA1WlljSC1IOUdGNmFHSzFjcHlhdUM1b0xXeG5OMHVVYmxBVlh0Sk5SM2c1bGxubHMxMEg0d2F3bEhueE10azhCTy0tVGF4WE1EdzNMMHRwZXVrSXZNLWtLMzZHNm1HSmdXa2pLQjZPMFFn",
+      "topics": ["AI copyright", "policy", "software"]
+    },
+    {
+      "title": "Guest Post — Scholarly AI Search Shortcomings and the Need for Better Metadata",
+      "summary": "A guest post on The Scholarly Kitchen identifies significant deficiencies in AI-powered academic search tools and argues that improved metadata standards are essential for reliable scholarly discovery.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/05/29/guest-post-scholarly-ai-search-shortcomings-and-the-need-for-better-metadata/",
+      "topics": ["academic publishing", "AI tools", "software"]
+    },
+    {
+      "title": "Who's suing AI and who's signing: CNN latest to sue Perplexity",
+      "summary": "A roundup charting which publishers are pursuing litigation against AI companies and which are opting for licensing deals, using CNN's lawsuit against Perplexity as a focal point.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA",
+      "topics": ["AI copyright", "licensing", "publishing"]
+    },
+    {
+      "title": "Guest Post — Proposed Uniform Guidance Revisions Would Eliminate Journal Subscriptions and APCs as Allowable Federal Grant Costs",
+      "summary": "A Scholarly Kitchen guest post examines proposed US federal rule changes that would remove journal subscriptions and article processing charges as allowable costs under federal research grants, with significant implications for academic publishing funding.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/06/01/guest-post-proposed-uniform-guidance-revisions-would-eliminate-journal-subscriptions-and-apcs-as-allowable-federal-grant-costs/",
+      "topics": ["academic publishing", "policy", "licensing"]
+    }
+  ]
+}
