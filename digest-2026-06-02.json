@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever [Metered]",
+      "summary": "Anthropic has confidentially filed an S-1 with the SEC, setting the stage for what could be one of the largest IPOs in history. The AI safety-focused company, which has raised billions from Amazon and Google, is now moving toward a public market debut. The filing signals a major milestone for the generative AI sector.",
+      "url": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
+      "topics": ["generative AI", "AI industry", "IPO"]
+    },
+    {
+      "title": "Alphabet Announces $80 Billion Equity Capital Raise to Expand AI Infrastructure and Compute",
+      "summary": "Alphabet has announced a proposed $80 billion equity capital raise specifically aimed at expanding its AI infrastructure and compute capacity. The move underscores the massive capital requirements of the current AI arms race among big tech. The announcement comes from Alphabet's official investor relations page.",
+      "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+      "topics": ["AI infrastructure", "AI compute", "Google"]
+    },
+    {
+      "title": "OpenAI Frontier Models and Codex Are Now Available on AWS",
+      "summary": "OpenAI has announced that its frontier models and Codex coding assistant are now available through Amazon Web Services, expanding access to its AI tools via a major cloud platform. The move deepens the OpenAI-AWS partnership and broadens enterprise deployment options for OpenAI's most capable models. This follows OpenAI's ongoing efforts to distribute its technology across multiple cloud providers.",
+      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "topics": ["OpenAI", "AI coding tools", "large language models"]
+    },
+    {
+      "title": "OpenAI Outlines Its Views on AI Policy and Political Advocacy",
+      "summary": "OpenAI has published an official statement setting out its positions on AI policy and political advocacy, offering insight into how the company intends to engage with governments and regulators. The post addresses topics including AI safety, governance, and the company's stance on how policy should shape AI development. It represents a significant public statement from one of the most influential players in the AI industry.",
+      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+      "topics": ["AI governance", "AI policy", "OpenAI"]
+    },
+    {
+      "title": "AI Cranks Out 380 Academic Finance Papers in 12 Hours That Could Fool Peer Review Checks",
+      "summary": "A new report highlights that AI systems produced 380 academic finance papers in just 12 hours, with the outputs capable of passing automated peer review checks. The finding raises serious concerns about research integrity and the potential flooding of academic publishing pipelines with AI-generated content. The story has significant implications for the future of scholarly publishing and fraud detection.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV0pkU2k4aWEtWXlYMWVPeXVjNEFGQzFCa05mRWV1ZEhnV2NYRHh0b0ZZZk11aUwwZVFHVkpaSW95WWRwWE9GLVAydGVJcFNNeGd4LWpvZkxzeEpJVWFKd0FmWTVUc2Z4aVhTS3dVaDF4cEJ2Qmx0REowZnNiRUJENVEtRnpIaWM",
+      "topics": ["academic publishing", "research integrity", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Florida Sues OpenAI and Sam Altman Over AI Risks",
+      "summary": "Florida has filed a lawsuit against OpenAI and its CEO Sam Altman, marking a significant legal challenge from a US state over the risks posed by AI systems.",
+      "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+      "topics": ["legal", "OpenAI", "AI regulation"]
+    },
+    {
+      "title": "Hackers Used Meta's AI Support Bot to Seize Instagram Accounts",
+      "summary": "Researchers found that Meta's own AI support chatbot was exploited by hackers to hijack Instagram accounts, exposing a significant vulnerability in AI-powered customer support systems.",
+      "url": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+      "topics": ["AI safety", "chatbots", "technology ethics"]
+    },
+    {
+      "title": "Gemini's New AI Agent Is About as Good as Google's Demo",
+      "summary": "The Verge offers a hands-on assessment of Google's new Gemini AI agent, finding its real-world performance closely matches what was shown in official demonstrations.",
+      "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+      "topics": ["AI", "Google", "large language models"]
+    },
+    {
+      "title": "OpenAI Stargate: Building AI Infrastructure in Michigan",
+      "summary": "OpenAI has announced the construction of a new Stargate data centre in Michigan as part of its broader push to build out infrastructure for the 'Intelligence Age'.",
+      "url": "https://openai.com/index/stargate-michigan-data-center",
+      "topics": ["AI infrastructure", "OpenAI", "AI compute"]
+    },
+    {
+      "title": "Microsoft to Unveil New AI Models and Windows Improvements at Build",
+      "summary": "Microsoft is expected to announce new AI models and significant Windows updates at its upcoming Build developer conference, signalling continued investment in AI-integrated software.",
+      "url": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
+      "topics": ["AI", "large language models", "AI coding tools"]
+    },
+    {
+      "title": "DuckDuckGo Makes Its 'No-AI' Search Engine Easier to Access as Its Traffic Booms",
+      "summary": "DuckDuckGo is expanding access to its AI-free search offering as it reports a surge in traffic, suggesting growing user demand for search experiences without AI-generated results.",
+      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "topics": ["AI search", "user interaction", "AI industry"]
+    },
+    {
+      "title": "Salesforce Returns to Growth Focus as Agentforce Propels Q1",
+      "summary": "Salesforce has reported a return to growth momentum in Q1, driven in part by its Agentforce AI product, highlighting enterprise demand for agentic AI tools.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU3pEbk5sdE9KclIxSnQ1TGlyaXBzSTEwUHh3d0V5UXBaVm5sZkQ3MWtlQTlEMmVTUGhGYnRPb2ZZVllhMG1PQTluYXlNbVhoNUZuaG04cWNtTE05VXdWcnZVcUxRSnlySUQwVDBlSXlVM2tER2JvOFpQY0xZb0V1aXlQTnljemZSb2JhMloyWDAtZm5GbXZkSzgzZFRma1hlQUE",
+      "topics": ["AI", "business", "generative AI"]
+    },
+    {
+      "title": "Import AI 459: AI Oversight Is Difficult; Scaling Laws for Protein Folding; Pricing Extinction Risk",
+      "summary": "Jack Clark's Import AI newsletter covers the difficulty of AI oversight, new scaling law findings for protein folding models, and attempts to quantify the financial risk of AI-related extinction scenarios.",
+      "url": "https://importai.substack.com/p/import-ai-459-ai-oversight-is-difficult",
+      "topics": ["AI safety", "AI governance", "large language models"]
+    },
+    {
+      "title": "Global AI Infrastructure Spending to Hit $600bn in 2026 — Report",
+      "summary": "A new report projects that global spending on AI infrastructure will reach $600 billion in 2026, reflecting the scale of investment flowing into data centres, chips, and compute capacity.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbHZSQU9YZ2RIQ3lKbXVwUFE4MkNwdUR0el96ZlR0Wk1fekFVY2d0NGRCSnhPMVFSWGk5WFBMVEduejdnVnZhRmFXR3NZcHc1ZUFnRVAySXI2WllfLWdxcm9nWlVJWURzWnNwX2JIcXU2S2x3bC1YdVZJU2VLLWtqVjZkZE5TR0R3cHFVTw",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    },
+    {
+      "title": "Strava Blames Zero-Code AI Apps and Scrapers as It Tightens API Access",
+      "summary": "Strava is restricting access to its API, citing the proliferation of zero-code AI applications and data scrapers as the primary reason for the policy change.",
+      "url": "https://www.theverge.com/gadgets/940854/strava-restricts-api-access-ai-apps",
+      "topics": ["AI", "content policy", "technology ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
