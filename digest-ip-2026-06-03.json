@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Wiley Buys Emerald Publishing for $452 Million [Metered]",
+      "summary": "Wiley has acquired Emerald Publishing for $452 million, a significant consolidation in the academic publishing sector. The deal adds Emerald's portfolio of journals and books to Wiley's existing scholarly publishing operations.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/industry-deals/article/100538-wiley-buys-emerald-publishing-for-452-million.html",
+      "topics": ["academic publishing", "publishing deals"]
+    },
+    {
+      "title": "Exclusive: Bipartisan members introduce new bill to protect creators from AI style theft",
+      "summary": "Bipartisan US lawmakers have introduced new legislation aimed at protecting creators from having their style misappropriated by AI systems. The bill represents a fresh congressional effort to address AI copyright concerns beyond existing law.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNME50QlhMVGZnS3JidXEzQ2w4S1V4ZGU0NU1pak9QaEZ0d19YUWlPU01aUW53azBYbk00dzBsWmVUaVRvR3NVRmsxZEhCc3JnSTI1bjRENU04c2toLUtDNHdhZWVzTC1CeW5EUWIyamZHUHZBSVc0MUdUYWVuOUlwag?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "CNN sues AI platform Perplexity over alleged copyright theft",
+      "summary": "CNN has filed a copyright lawsuit against AI search platform Perplexity, alleging it reproduces news content without authorisation. The case is among the most prominent media copyright actions against AI search tools to date.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUUptOTJjWHFvRTctZ3RVc2FGUWhMRzYtRkxyMGlyMkJZZ1hXVG9YaUFWZFlsVFV6RmZMNl9OMW9yQmo0aWE5RF9hd2lKcS12UDljaTJQRE5MUGI3N0xQMng1eENpUU5xRGh5Ti1tUTJ3aTJjRU5KQU90aGFIa2tBQnlxUzNnQ3dfdTM3S1VfX2RZRm80N2RfOFowMnpocjF5Z3dPVm5KZk5Ua28?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Creative industry, EU Commission clash over AI copyright review",
+      "summary": "Creative industry groups and the EU Commission are in open conflict over the direction of the EU's review of AI and copyright rules. The dispute centres on text and data mining exceptions and whether creators should be entitled to remuneration when their works are used to train AI.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLWRETzZfVkhUOEJJTWx0cV84ek9iNGIwTTlSVi05dXR3MHRIU0NwYS1NME5kY1hIRXpUSHNhREVsMDNGYUQ4dzlUYkV5RzVvdWJiT2YtUzl0UThEdkNVQkhsY240TGU1b25NWTczdGlydVJJdFdWcHlnX0J5bU9lNXV0NldRT29qM1U3UTZwNFRZandHRDZpTU1wZXBkM3J4Mmt3OWdwbUJCazFaenFKdVVUakI1ZVFNRjg4ZnJJYlI3QkNBR2c?oc=5",
+      "topics": ["AI copyright", "eu law", "policy"]
+    },
+    {
+      "title": "Suno moves to keep size of its AI training data sealed in UMG and Sony's copyright case, citing 'competitive harm'",
+      "summary": "AI music company Suno has sought to seal details of its training dataset in the ongoing copyright lawsuit brought by Universal Music Group and Sony, arguing disclosure would cause competitive harm. The move highlights tensions between transparency and commercial confidentiality in AI copyright litigation.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQnc5eHlqeDB6dzhNaGFxSnY1eEQ1MHRFTktzMENvajAzWXl4ajI3a2tOZklWWW91RF9mbTFjWWV5YkMxN1dPLUdQX3Zwc0lubkdkVWpaajFzLVlBbzRKcUUyYXB0VFlMcFluOUZzX1pQRzhfZVlzUmpPR2pPeFNvQ1RTa1lqaTZSa1ZmbzFNbTM3SU9nNVRTcTBmT0k3b1RXb0Qwd0p4bmhENDlaR182aEI1azN0bUZiOHVwXzl3YU1henZwZWxnV2tzTU10WFJQZEdGaWwtQmthX0kycHVjLXYtbWY?oc=5",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "New York Times publisher slams AI companies' 'brazen theft' from news outlets",
+      "summary": "The publisher of the New York Times publicly accused AI companies of intellectual property theft and warned of serious risks to journalism's future from AI firms' use of news content.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMkNDSVJjUkZhQVVKTXRUMjdYQVRndlI3ZFhqQzFCV2VkUGZoSVhvdm53ZVE5WTFjb1ZPa29jb0NRaHZTby01anQ5T21KdjRQd2VTWTJBSDBpN2FfdllmM0JPOHRnZmR2Y2puVzlZWE9FQ29ONFc0aWttRmh0YUk3a3dXNHdwTXpOOG5qaWp5WmYtNnhTaXozbFIxZU9PMkx3Q2Jva2taRWt3MWJlOTZUcGlyVXZpMS1WOUE?oc=5",
+      "topics": ["AI copyright", "publishing", "policy"]
+    },
+    {
+      "title": "Tech group warns EU copyright overhaul could put €600B in AI value at risk",
+      "summary": "A tech industry group has warned that proposed EU copyright reforms could jeopardise up to €600 billion in AI-related economic value.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRm5paTRlRExBVThYNURZc2Z4MlMwVkhoV2FtMk42ZE94MFA0WkhmMTlKS1BYSmJ6M1QwbjZocF9lMlVkQndUd2hXZWlZOWhRY0VwWmNLYy1Da3RhNG9iX0ZKMExWRXJ5RUZkd1ZlNDZ2cU95aUExeXU4czNWWmNyR3Z1N3JfSmE5eDdReTR1QldqWmRERVZIRlNRT1VDa3UwVS02V0tiUENfN3BVY1BfUklQa2RNbXRBRUppSjZ6QVRWSnFEV1l4T2xFTWRacXphRDNRYQ?oc=5",
+      "topics": ["eu law", "AI copyright", "policy"]
+    },
+    {
+      "title": "Suno accused of using millions of copyrighted tracks to train its AI software",
+      "summary": "An AI music company faces accusations of using millions of copyrighted music tracks without authorisation to train its AI software.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQnVmLWZxbWRxdHBKeEZqWEk3bXEzeDQzdXRqWWJZMUhlNFdJalRtc2VSWkwtcy13V2dnOXduMUY2Y2Q2b1B3WmZaY1U4VURRemlsNUtBZ2h6bEJzVTJLaUx0cDh6RTkzdGNzRkdZLVBfejRPVHZuNmNfNS00cnBQUThjTmNfQQ?oc=5",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "Music licensing and AI: a tale of two superpowers",
+      "summary": "An analysis of how the US and China are diverging in their approaches to music licensing and AI, with significant implications for global rights holders.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeHJpVkp0bTNBZ056ZDdieDc1RG5tb0pyalA1b2N3YmtzajRlbUkxRG1xeHNnbnc1X3dpaGFrT2M4UUdxVHJpeHR1QUVWU2Y2WS1Sc3lGZUh4U2ZYcmNIeHRxb0ZuMGpQaExlMmdlYlllNmNfRERMRF9xT0tvbGYxTzdiWVkyek9ZYUJ4bmRSbHMyTHZ6TkRIVWc5NzRHWGs4bFdJUGM4SUd2dE1XRkhMdzdtU1NaUQ?oc=5",
+      "topics": ["licensing", "AI copyright", "policy"]
+    },
+    {
+      "title": "States Seek to Define Ownership of AI-generated Works in Absence of Federal Standard",
+      "summary": "US state legislatures are moving to establish ownership rules for AI-generated works as Congress has yet to set a federal standard.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSFRuVDN1ZTA2blpkbFF4UmZkVG4wMDFSZ05iMndoQjl1RG9vZzVVeGVHNzQwVXNrYWJHZFY3MGdxNUNFMmQ5X3QyUHZqd3ZVUHdHR2EzWFp6SnFLdHBzNUxsSFNRNEREckk3N18zRDdFcWpCNC1oTGxsMnJNUFFiU2NWUEhySFFZdmdFR0IyRThBNHNITTZRYlF0OHZNd3NUVUNTV2VRV2hDN29nMlF5Vk9RNGp1UjFjdlE?oc=5",
+      "topics": ["AI copyright", "policy", "software"]
+    },
+    {
+      "title": "Data Reuse is the Sincerest Form of Flattery",
+      "summary": "The Scholarly Kitchen examines the complexities of data reuse in academic publishing and the implications for copyright and AI training datasets.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/06/02/data-reuse-is-the-sincerest-form-of-flattery/",
+      "topics": ["academic publishing", "AI copyright", "licensing"]
+    },
+    {
+      "title": "Keeping records to respond to an AI authorship challenge: Lessons from SURYAST",
+      "summary": "An analysis of the SURYAST case examines the practical steps creators should take to document their work in order to defend against AI authorship challenges.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWlRvZV9MdFIwcHNMcFIyRllHNC1EalZHMXBCaU92UDFuY0w3R2tOdGR3b3g4b1Nmd01BcTBoTGRKYTN5MFRlNWVZbVgyOTRKMG1QMzdZQmpQRmVKWUlpU011cmtCQmc4ZHEtM3V5Y2hKN1ljcTBnQTBZRHRmT2FtdVN5NEhnV0ZVYlIydVlRS2JjeWVqWjlHQWUtbjVWSlVKZkVSc1A0aVZkVS11VW1NNGo0bmVHMkR5a2xCNEJPdmlvMFRrZUJQd3lESTBmU2Y3MmdPXzFwcVFHQ01YQVIzb3Fn?oc=5",
+      "topics": ["AI copyright", "testing", "policy"]
+    },
+    {
+      "title": "3rd Circ. Preview: AI Copyright Spat, NJ Gun Law Battle",
+      "summary": "The Third Circuit court is set to hear an AI copyright dispute in an upcoming session, marking another step in the judicial development of AI and intellectual property law.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcmtXdEFFRlZjVFQyZWJRaUpSVWdlMmJRbHh6bEJMaGpqcHpIN1Voc01hWGpkTzdNMlg2dkhiN1JNNnRVNjQ5YzNBMWFzTV8wa2dnZ0tuY2VQUDNKek9CX0dfU25GbVZucDlPZzNteDhCcDUzSE5KeDFJbjVPeENvQWZJQmJlTkVrNi1tQnhFeEZ2eGJqRHJB?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "US Copyright Office To Address AI, Copyright And Music Publishing At AIMP Summit",
+      "summary": "The US Copyright Office will participate in the AIMP Summit to discuss the intersection of AI, copyright, and music publishing.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdXd0dDV0WEtIeWVHN2N1eERhNktPR3hybmFuNy0zNDJmZVRSOEFTbXY2dmsxRnAtTGZ0T1BOeGtWWm5QLUFFWVNDaExOSFk4bjJzZWFmSDk2R01GM21SMDJsbEI3R2hLSXVXM2ZNbmJvNU5BS0p2NVdOenRLYmwtcnI4Z21tT0dwU21qN1dtb2hUbE0ySmQ5QU9oaE51Tzd4MDJOM0N4bjVmb0NXamhUN3QtQU1naXJ5WE5V?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "Infringement risks of generative AI in the entertainment industry (Part 1)",
+      "summary": "A legal analysis of the copyright infringement risks posed by generative AI tools in the entertainment industry.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90NXYwUUcwdUNkMDgySmhISXNLTks3UmhNZkV6b2licXhpMVJYUlZaaUtKOUFYY0pBc1ZDRGtfTTBmSWtsRVNYTi1EdVlQaGhSc3N0Nk5aZG1WeUdsYm1zT3J2ZFg?oc=5",
+      "topics": ["AI copyright", "litigation", "software"]
+    }
+  ]
+}
