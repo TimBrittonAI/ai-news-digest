@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
+      "summary": "OpenAI and Anthropic have signed a letter calling for measures to prevent AI from being used to develop biological weapons. The letter reflects growing concern among leading AI labs about the misuse of frontier AI systems for mass-casualty threats. This marks a notable moment of cross-competitor collaboration on AI safety.",
+      "url": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+      "topics": ["AI safety", "generative AI", "OpenAI"]
+    },
+    {
+      "title": "OpenAI's Blueprint for Democratic Governance of Frontier AI",
+      "summary": "OpenAI has published a blueprint outlining principles for democratic governance of frontier AI systems. The document sets out OpenAI's view on how governments and institutions should oversee the development and deployment of the most powerful AI models. It follows the release of OpenAI's public policy agenda and signals an intensifying focus on AI governance frameworks.",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "topics": ["AI governance", "OpenAI", "AI safety"]
+    },
+    {
+      "title": "Microsoft and OpenAI Broke Up — Now They're Ready to Fight",
+      "summary": "The Verge reports that the relationship between Microsoft and OpenAI has shifted from close partnership to emerging rivalry, particularly following Microsoft Build where Microsoft showcased its own AI agent capabilities. As OpenAI pursues greater independence, the two companies are now competing directly in the enterprise AI market. The piece examines the strategic implications of this split for both firms and the broader AI industry.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
+      "topics": ["AI industry", "OpenAI", "generative AI"]
+    },
+    {
+      "title": "Meta Launches Enterprise-Focused AI 'Business Agent' to Automate Daily Operations",
+      "summary": "Meta has entered the enterprise AI market with a new 'business agent' designed to automate tasks such as customer support, appointment booking, sales, and marketing. Mark Zuckerberg has stated his ambition for Meta agents to eventually 'run your whole business'. The launch puts Meta in direct competition with Microsoft, Salesforce, and other enterprise AI platforms.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTzBkNjNreF81aDFTWjVRaTZFOHp1WUxCV05naEQ1LURvQlJYMUI2dHN1Y1lSSXhLbm1jcjlybUoyNXViSzkwZjlRZkpINERUQ1BfaWdGQzFSOEo5dWRsMDFoWnozaFdnQzJUMHVIb3dwcnNaOEhvOWhuam9HN1E3UGNaNUdnUUNIQUhBMWw2MnUxMExmVXVXWE1KZVJSNHI1Ync5eFVxWmF5cDJ5TVMzN2FvV3R6Smk2Y0xlMS1lMHlFcE02c0RpVEhKUnd6U21xYXhJeElzdUxqZWfSAdsBQVVfeXFMT08wZDYza3hfNWgxU1o1UWk2RTh6dVlMQldOZ2hENS1Eb0JSWDFCNnRzdWNZUkl4S25tY3I5cm1KMjV1Yks5MGY5UWZKSDREVENQX2lnRkMxUjhKOXVkbDAxaFp6M2hXZ0MyVDB1SG93cHJzWjhIbzlobmpvRzdRN1BjWjVHZ1FDSEFIQTFsNjJ1MTBMZlV1V1hNSmVSUjRyNWJ3OXhVcVpheXAyeU1TMzdhb1d0ekppNmNMZTEtZTB5RXBNNnNEaVRISlJ3elNtcWF4SXhJc3VMamVn",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "xAI Asks Court to Strip Alleged Grok Deepfake Nudes Victims of Anonymity",
+      "summary": "Elon Musk's xAI has filed a legal request to remove the anonymity of alleged victims of Grok-generated deepfake nude images. The move has drawn sharp criticism from legal observers and advocates, who argue it could deter victims from coming forward. The case raises significant questions about AI ethics, platform responsibility, and content policy.",
+      "url": "https://www.wired.com/story/xai-asks-court-to-strip-alleged-grok-deepfake-nudes-victims-of-anonymity/",
+      "topics": ["AI ethics", "content policy", "legal"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "OpenAI Public Policy Agenda",
+      "summary": "OpenAI has published its formal public policy agenda, outlining the company's positions on AI regulation, safety standards, and government engagement.",
+      "url": "https://openai.com/index/public-policy-agenda",
+      "topics": ["AI governance", "OpenAI", "AI regulation"]
+    },
+    {
+      "title": "This Is How Trump Finally Signed the AI Executive Order",
+      "summary": "Wired reports on the circumstances and content of the Trump administration's long-awaited AI executive order, detailing what it mandates and its implications for US AI policy.",
+      "url": "https://www.wired.com/story/this-is-how-trump-finally-signed-the-ai-executive-order/",
+      "topics": ["AI governance", "AI regulation", "AI industry"]
+    },
+    {
+      "title": "Mathematicians Issue Warning as AI Rapidly Gains Ground",
+      "summary": "Mathematicians have published a warning about the pace at which AI is encroaching on mathematical research, raising concerns about rigour, verification, and the future role of human mathematicians.",
+      "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+      "topics": ["AI research", "academic publishing", "large language models"]
+    },
+    {
+      "title": "How Wasmer Used OpenAI Codex to Build a Node.js Runtime for the Edge",
+      "summary": "OpenAI's blog details how developer tools company Wasmer leveraged Codex to build a Node.js-compatible runtime for edge computing, showcasing a practical AI coding tools application.",
+      "url": "https://openai.com/index/wasmer",
+      "topics": ["AI coding tools", "OpenAI", "large language models"]
+    },
+    {
+      "title": "Uber's $1,500/Month AI Limit Is a Useful Signal for AI Tool Pricing",
+      "summary": "Simon Willison analyses Uber's reported cap on AI tool spending per employee, arguing it provides a rare concrete data point for understanding how enterprises are valuing and constraining AI usage.",
+      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+      "topics": ["AI industry", "AI tools", "business"]
+    },
+    {
+      "title": "Failing Grades Soar With AI Usage and Dwindling Math Skills in Berkeley CS Classes",
+      "summary": "UC Berkeley professors report a surge in failing grades in computer science courses, linking the trend to over-reliance on AI tools and declining foundational mathematics skills among students.",
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "topics": ["AI ethics", "academic publishing", "AI tools"]
+    },
+    {
+      "title": "As AI Gets Better, It Reveals an Empty Promise",
+      "summary": "The Verge argues that as AI capabilities improve, the gap between what the technology promises and what it delivers in practice is becoming more visible, not less.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+      "topics": ["AI industry", "generative AI", "technology ethics"]
+    },
+    {
+      "title": "How Virtual Power Plants Could Provide Energy for Data Centers",
+      "summary": "MIT Technology Review examines how aggregated networks of distributed energy resources — so-called virtual power plants — could help meet the surging electricity demands of AI data centres.",
+      "url": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+      "topics": ["AI infrastructure", "AI compute", "data centres"]
+    },
+    {
+      "title": "Market-Research Firm AlphaSense Clinches $7.5 Billion Valuation in New Funding Round",
+      "summary": "AI-powered market research platform AlphaSense has secured a new funding round valuing the company at $7.5 billion, reflecting continued investor appetite for AI tools in financial and business intelligence.",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNU9XZzBkcnMwWkpvSDJOdTJKR0ZxQ3dXTVhpVUFlcE94WTE0MW1UTnJaQU05TF9ib0dtR0JER0dYQkZ6RkZtOWlOZ3dpTjdMc2liT1JjUDhNTUlLVVFkWVN5ZkJuaThKVV9Xd2NJLVpiZU1VbTAxYmk5a2VYMzUzVTRya0Y5RXFOM1RMdUZNb1NmU2swVlBibUsyN1ZVdDU5WEFIc1AtQmhSX2NFSlVxcjUwbFpPcUI4MWtPckNVeFJlMFdkMkZ0ZW1iekFpYVhYTnh4Z0I3aXZqX2RvNWs4TWJJSkVEeWdKUlZMa3lOZGk",
+      "topics": ["AI industry", "market research", "generative AI"]
+    },
+    {
+      "title": "Introducing New Capabilities to GPT-Rosalind",
+      "summary": "OpenAI has announced new capabilities for GPT-Rosalind, its AI model tailored for life sciences and biomedical research applications.",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "topics": ["OpenAI", "large language models", "AI research"]
+    }
+  ],
+  "ethan_mollick": null
+}
