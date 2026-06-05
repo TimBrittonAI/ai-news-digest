@@ -1,0 +1,101 @@
+{
+  "top_stories": [
+    {
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "summary": "Anthropic has published a detailed assessment of its progress toward recursive self-improvement — where AI systems help design and train successor models. The post outlines current capabilities, limitations, and the safety considerations Anthropic is tracking as this frontier advances. It represents one of the most significant near-term AI safety questions the lab is publicly addressing.",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "topics": ["AI safety", "generative AI", "large language models"]
+    },
+    {
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "summary": "OpenAI has announced a new memory feature for ChatGPT called 'Dreaming', which improves how the model retains and surfaces relevant information across conversations. The update is designed to make ChatGPT more personalised and contextually aware over time. OpenAI describes it as a step toward a more helpful, long-term AI assistant experience.",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "topics": ["ChatGPT", "large language models", "OpenAI"]
+    },
+    {
+      "title": "Biodefense in the Intelligence Age",
+      "summary": "OpenAI has published a policy position on AI and biodefense, calling for stronger safeguards against AI-assisted development of biological weapons. The post outlines OpenAI's view of the threat landscape and the measures it believes governments and AI developers should adopt. This follows an open letter to Congress from AI leaders also urging tougher bioweapons protections.",
+      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
+      "topics": ["AI safety", "AI governance", "OpenAI"]
+    },
+    {
+      "title": "How courts are coping with a flood of AI-generated lawsuits",
+      "summary": "MIT Technology Review examines how the US legal system is struggling to handle a surge in AI-generated court filings, including fabricated citations and automated complaint generation. Judges and legal experts are grappling with how to detect and penalise abuse while avoiding overly broad restrictions on legitimate AI use in law. The piece highlights systemic pressures the technology is placing on judicial infrastructure.",
+      "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
+      "topics": ["legal", "generative AI", "AI ethics"]
+    },
+    {
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "summary": "OpenAI's blog profiles Endava, a global technology services firm, which is rebuilding its software delivery model around AI agents. The company is using OpenAI tools to automate significant portions of its development pipeline, with agents handling tasks from code generation to testing. The case study illustrates how professional services firms are restructuring operations around agentic AI.",
+      "url": "https://openai.com/index/endava-frontiers",
+      "topics": ["AI agents", "generative AI", "AI industry"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "AI leaders call for tougher protections against AI-aided bioweapons",
+      "summary": "A coalition of AI leaders has written to the US Congress urging stronger legislative protections to prevent AI from being used to develop biological weapons.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
+      "topics": ["AI safety", "AI governance", "defense"]
+    },
+    {
+      "title": "Google employees internally share memes about how its AI sucks",
+      "summary": "Internal communications at Google reveal employees sharing memes mocking the quality of the company's AI products, raising questions about internal confidence in its AI strategy.",
+      "url": "https://www.404media.co/google-employees-internally-share-memes-about-how-its-ai-sucks/",
+      "topics": ["Google", "AI industry", "generative AI"]
+    },
+    {
+      "title": "Amazon develops a warehouse robot that workers can speak to",
+      "summary": "Amazon has unveiled a next-generation warehouse robot called Proteus that can understand and respond to spoken instructions from human workers.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+      "topics": ["AI industry", "large language models", "business"]
+    },
+    {
+      "title": "Meta rolls out AI Business Agent to manage customer chats and business tasks",
+      "summary": "Meta is expanding its AI Business Agent across its apps, enabling businesses to automate customer conversations and operational tasks at scale.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY0RaMnRYS19wRWllc2tFYXBFaDZaY0lYZEtyaFFKdzZBaFF0VkJhMGthLTg4YWxFVFBoS25pRWtKajlpWThnWlJ6SVJkUVNHckFDLXYzcXNDdkRNSzRwMVNGNU8tYzJ5bExnak1iU0kzekgwbWU1WHJWWnd6QVQ5aVZpZTFtQXFlYTBuUTdlLTFsYlJTN2tiR0FGRnZIdw?oc=5",
+      "topics": ["AI agents", "advertising", "business"]
+    },
+    {
+      "title": "Let us filter AI slop, you cowards",
+      "summary": "The Verge argues that major platforms including Google, YouTube, Meta and TikTok should give users the ability to filter out AI-generated content from their feeds.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
+      "topics": ["content policy", "AI ethics", "generative AI"]
+    },
+    {
+      "title": "TSMC struggles to keep up with AI demand: 'We can only support so much'",
+      "summary": "TSMC has acknowledged it is struggling to meet surging demand for AI chips, with capacity constraints limiting how much it can supply to customers.",
+      "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
+      "topics": ["AI infrastructure", "AI compute", "chip manufacturing"]
+    },
+    {
+      "title": "UK lawmaker sues Elon Musk's xAI for creating fake sexualised images of her",
+      "summary": "Labour MP Jess Asato is suing xAI after AI-generated deepfake sexualised images of her were produced, in a case that raises significant questions about AI liability and content moderation.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUtUYUhOajJoQzY5bUczc3d1WjdTT1AtLU5FNXZSc29XWWIwa0JEWmRmb1p4Njk4bDB4ZWhUWi03WmwxQTVDa1VnMi1yZFRybFdPZFctZHRxb2FwMXhRSGJrcUdja2Uzc2x2NUs0anVaYTIzdU1xejBYUUk0NC16SzdzX2JBdVBsVGxtbTVn0gGTAUFVX3lxTE8weGlPbmM1ZEpfTGctRnotSWExREU2MDlhYmZOVlNZYkNibUN3SzAyQzdTLW9LMVRfdWRlZVV4SmVYeUQtUFBfWC1ZV3hoRGdNdEE0VDctSkRBUU94VWdFc1FFaUI1VC1MRWxmVkNsZ3JoN1lNRG15N0pnaXZTZWM5d0FjRlF2RS03VFZkVmRyNHJ4QQ?oc=5",
+      "topics": ["AI ethics", "legal", "technology ethics"]
+    },
+    {
+      "title": "Jeff Bezos Is Funding a Wild Hunt for the Brain's 'Core Algorithm' [Metered]",
+      "summary": "Jeff Bezos is backing research aimed at identifying a fundamental algorithm underlying human cognition, with the goal of applying insights to AI development.",
+      "url": "https://www.wired.com/story/jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
+      "topics": ["AI research", "large language models", "AI industry"]
+    },
+    {
+      "title": "AI, Ashby Engineering, and the future",
+      "summary": "Ashby's engineering team publishes a candid account of how they are integrating AI coding tools into their development workflow and what they expect the future of software engineering to look like.",
+      "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
+      "topics": ["AI coding tools", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "summary": "Anthropic has released an open-source harness on GitHub designed to benchmark and evaluate AI systems for discovering security vulnerabilities in code.",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "topics": ["AI safety", "AI coding tools", "generative AI"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "Co-Existence and the End of Co-Intelligence",
+    "summary": "Ethan Mollick reflects on how the relationship between humans and AI is evolving beyond simple collaboration, arguing that the framing of AI as a 'co-intelligence' may already be giving way to something more complex and less symmetrical. He explores what it means for work, identity, and society as AI becomes more capable and autonomous. The post grapples with both the opportunities and the unsettling implications of this shift.",
+    "url": "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence"
+  }
+}
