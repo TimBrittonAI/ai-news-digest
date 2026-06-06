@@ -30,7 +30,7 @@
     "ai safety": 1,
     "bias": 1,
     "user interaction": 1,
-    "ai ethics": 1,
+    "ai ethics": 2,
     "research integrity": 2,
     "ai detection": 1,
     "tiktok": 1,
@@ -42,6 +42,8 @@
     "google": 1,
     "ai infrastructure": 2,
     "ai compute": 2,
-    "ai industry": 3
+    "ai industry": 3,
+    "ai personal assistant": 1,
+    "microsoft": 1
   }
 }
