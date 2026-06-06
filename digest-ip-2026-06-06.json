@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "US judge sides with Meta in AI training copyright case",
+      "summary": "A US judge has ruled in favour of Meta in a copyright case concerning the use of copyrighted works for AI training, in a significant decision for the ongoing debate over fair use and AI. The ruling adds to a growing body of case law on whether training large language models on protected content constitutes infringement. The outcome is likely to be closely watched by publishers and rights holders pursuing similar claims.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV0tkZWtZZ2F3Ni1XNzJHNXpKeDNXazh2VkhkMlZnNXd4MWNUc1FDYlVRNDgtcExvVHRYRVpCNlpwcVlrbGxlSDNfQ1VHVkJTNURUNDNsUW9wNEltSGlpTEE2SERaWmFhRXNXSHdiWk5wREQwSmM4eUFzd3p4TG1Wd2RWZEZWY1JHNUpRRVhWRDVzSjlOd2x1SHhn?oc=5",
+      "topics": ["AI copyright", "litigation", "fair use"]
+    },
+    {
+      "title": "UK Directs Google to Strengthen AI Search Attribution and Provide Publisher Opt-Out Controls",
+      "summary": "The UK's Competition and Markets Authority has imposed world-first controls on Google's AI search product, requiring it to attribute and link out to publisher sources and provide opt-out mechanisms for publishers. The CMA's intervention marks a significant regulatory step in protecting publishers' content from being used in AI-generated search results without consent. Multiple sources confirm the ruling, which follows growing pressure from news organisations over unlicensed use of their content.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMHVCMFRKZ0dERDZXaVY3UllKRU9PdGVWSzY3QVE1OVBhWERXcEluZFYxTFNhclp1bkFfd1luT0RXNzJkdDdUeW10NDFyc0dpdHh1enhjWnhRaEdhNU8taXFiWFhuUXVRZ0htZWZVcTQ0VUJrOGtIdjJVQnRIRV9ZTHN2SlVCWEtjRWY1WkZ6TDVPX2Z4TXBfM1hKZ0R0NDJ5THFfUl9DemVPQ2x5TjlodllvRGw0OTYxMXlVNVhubEduSzg?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "Publishers step up AI copyright fight as SPUR coalition adds 30 new members",
+      "summary": "The SPUR global coalition, which campaigns for publishers' rights in the context of AI, has added 30 new members including leading Canadian news organisations, significantly expanding its international reach. The coalition is pushing for enforceable frameworks to govern how AI companies use journalistic and published content. The growth of SPUR reflects mounting coordinated pressure from the publishing industry on AI developers and policymakers.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaHRvTzRDU0xJMlB1ckE5Z0ZwRV90NmJTdFNNQUw5NjNUb054eGVqalctLUJaWWZoUy1EVFNYa3hBNjRRM3dQUjB0RXplZWRHdFZpQnNmNlpuQ1RqV2JIczQ1RXB4M3JzRHNqWE1VSHRPeC1QTFI3c3FtUU1zQk1rREFtM2o1aWFoczlUUmstNFlBQl9ycGoyejBPVGhDS1h5QlpORHpIaDItNDY4dUJObVhKbWMxb1EtOUZleDhfUlFNbXNQQlJN0gHMAUFVX3lxTE81cDBVamNpN0ZaV3psRmJsTm83aFBaSkFqLTFVbGFRa2d1cDJGa0JuRDBScGNTd0FlaWhleG9QSEZvNG9xOGg5LVdmSnhsSTlQYVNKTDlSNElfZUs4YmJya0ppdWhzRVR1NmFfM2VNUXA2dGQ3dF9mcG56SzhrS29tUnN3WHpMVjBaazMxb0pvcjRxT0RCRnpQMWFrOElha1BOT01BLWJlN1U5emk5cjFZaGV3M2QzdkEyTXh0aWZXU0I5U01SQkN1M0R2MA?oc=5",
+      "topics": ["AI copyright", "licensing", "publishing"]
+    },
+    {
+      "title": "NYT's Sulzberger condemns AI giants for 'brazen theft of intellectual property'",
+      "summary": "New York Times publisher A.G. Sulzberger has publicly condemned AI companies for what he describes as the brazen theft of intellectual property, intensifying the newspaper industry's confrontation with technology firms over unlicensed use of published content. Sulzberger's remarks reflect the broader stance of major news organisations that are pursuing both legal and policy remedies. The statement comes as the NYT's own litigation against AI developers remains ongoing.",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jT3MwV2FudHFoemlVYUdfNk9yUHgyMGFaLTF0ZlFUODNVR0Z1Q0FuNnNWWUtQN3QzSm5qM09vRWZwTzNhUU9Md0VDVmhCLXZQT3RsdjVOXzdKTFl1UHhrNHNWRl9IUQ?oc=5",
+      "topics": ["AI copyright", "publishing", "litigation"]
+    },
+    {
+      "title": "Sony Invests in AI Copyright-Protection Firm Midnight Labs",
+      "summary": "Sony has made a strategic investment in Midnight Labs, a firm developing technology to protect copyrighted content from unauthorised AI use. The investment signals growing commercial interest in technical solutions to AI copyright infringement, alongside legal and regulatory approaches. Sony's move reflects the music and entertainment industry's active search for tools to defend intellectual property against AI systems.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWEJVc2N3NzFVbUd6ay15bDNSNm8zN1FSWVJESjM5cVRYZUxXaW4yUE5nZ0FGOENUNXpYYWZ5aUpRUjY0dVhXVHhURnJlM1FfN2FmTkhNLWRrQk9wM2RseXB6cHhBMk52MmdXYnRfSVVDQlBpb01xSHhpNUxJY3RhcFRDMUhnRDJYZFZtNXNBQVNhUlAxVVQxN3JjbDlIWTFEU3RtdzJZb3Q?oc=5",
+      "topics": ["AI copyright", "licensing", "software"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Can AI Author Copyrightable Work? The Supreme Court Just Declined to Say Yes",
+      "summary": "The US Supreme Court has declined to affirm that AI-generated works can attract copyright protection, leaving the question unresolved and maintaining significant uncertainty for creators and AI developers alike.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaHBfM2Iwc20zekYxMk5wSlNLcHRfV1ZVYkl0NGpCcHVKcFVyYnJ2MFlaVGxPcG5kTFczd1FSZUY0VUlLT1drM0JHVVdZcDdKMVBRb2l0d1JJNkRBNnN6RUJhZ09JY3JEUlB5T2JRTnNwbTRxVGdUWVgwMFBwZkdvbXItbnc3Zw?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "CISAC sets out objectives for protecting human creativity amid 'rapid advancements in AI'",
+      "summary": "The global authors' rights society CISAC has published objectives for safeguarding human creators in the face of rapid AI development, calling for stronger protections and fair remuneration frameworks.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSzVHZ3NnQnBib1BydXNROWdfRHdERkFDVkhlRjkyUzFQNU1pUEQwLS11S1hTaG12MkdESVh3SEdocVZtbjY1SDF6UnluR0NHMklRQ0s0dUlrckRNZ0pZLWtJZ1pfUnBLZHhtMDFEUUJLQV93Zll5bkc2ZW5TeUNjblMyUzRDY2NLc0ktbXNJc1VJY3VFYm1UdzlvTFJLNE1vVjE5alVjTlBhWm9rUGlnVEFQOHJvd3NWeUFsZw?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "Björn Ulvaeus Addresses AI, Copyright and Licensing",
+      "summary": "ABBA's Björn Ulvaeus has spoken out on AI's impact on copyright and licensing, lending a high-profile creative voice to debates over how AI companies should compensate rights holders.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaGVsRFlTNTMxZ3o1OEE2ekgyLWxabUlaaUotZTlremFUTk5VR2xabTZ2eUpnM3EzMzl5SGFkVjNVMVpjRjRKMGhoUVVEMjQxRFNkaHlHdUNfUGkwRGNNa2J6QWRic2JRVGhUd3YwcUswaHhfcWVPeWo4VWxpdzJqelQ3d1BYMGRCZlF0MHZyQy00OGllLTNn?oc=5",
+      "topics": ["AI copyright", "licensing"]
+    },
+    {
+      "title": "If AI needs your work to function, it's not 'fair use'",
+      "summary": "A commentary piece argues that when AI systems are fundamentally dependent on copyrighted works to operate, this dependency undermines any fair use defence that AI developers might assert.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ0UycFZKY3RzS0dabVVzeF9kZDdqU2xPbFBqdXk4dFU3dTRqUmM3NFphQ1dwS2hpYUVmb1dCb3JlOU1FU284TWVBSlo4UzFDcjl6N2FUZlZlMEFLOUVIbTJfa1U3czdCQ2t5amNYakhmTk1SV2h4d1ZDTmFRUXQzRl93NldSZi13NHVGbzJDbVM0bk5tVE83MkpaUFl0UFJhb0oya2dIdTJST1ZTNFo3U2d6dlFSZzBVak1WUGRJdw?oc=5",
+      "topics": ["AI copyright", "fair use"]
+    },
+    {
+      "title": "Clear legal 'teeth' in AI copyright policy",
+      "summary": "A report calls for AI copyright policy to be backed by enforceable legal mechanisms rather than voluntary commitments, arguing that without clear penalties existing frameworks will be ineffective.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zTHZBMGsteEFJZ1dwUHU3SXdMUEd2dDJ1MUM2WUJvMlNhRWtuRkNUeWlmSExtWU81QUpLRGJrbjIyY3pSLXM2bE9Rb0xzenk3X1hNdm9fZFVSWlF1Ry16TXQ2STNRWjVSUW5jZXJn?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "California's AB 412 Still Demands Developers Do The Impossible",
+      "summary": "Analysis of California's proposed AI transparency bill AB 412 argues that its requirements for AI developers to disclose training data sources are technically unworkable as currently drafted.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObC1yZm0yOXp2OHBnZTctRmc2U1hzTEJNYm4zRm0yQ2YxeXhFWko2U0VwQW5JN0tfZEt1bk5fMnd2QVdZTUM2VkhDaHdYdW04MTZwRS1vRDJBNUd3UzV4aFU0N1p6ZmJ2VnNKWkltZmFTcmg0U0lWVEV0S09wWno4cTQ4a0w3QXR1TDd3TzFFT0k5SWh1dXMxaS1LQQ?oc=5",
+      "topics": ["AI copyright", "policy", "software"]
+    },
+    {
+      "title": "'Nonsense': Scott Farquhar AI claims mauled by music industry",
+      "summary": "Music industry figures have strongly rejected comments by Atlassian co-founder Scott Farquhar minimising AI's copyright impact on creators, with rights holders disputing his characterisation of the issue.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX0xKYlF3eWt3WXVMdjBEUmNPQ0plVk1zLW9pd0VRQWhVd3FSQ0swM2xWcXJGSjFQUlpWLXpfbHFMQUFlaGtQc0ZGaHkyTlUySkxlLVl5ZjZfaTVQcVF4cDlPUWkxNW9JRnJQM3VoWXZqY2FXNUxxQXAxVkFJa1BHODQyNzNkSVR6RlhfQmY5QmR2aDBROXpYeVF0TVg1LVhoX0RLQ3ozQWZNQWtzY3hqTEhqS1hCbkV5OE9kN24xN0w?oc=5",
+      "topics": ["AI copyright", "licensing"]
+    },
+    {
+      "title": "Japan patent panel to revisit AI, cross-border invention rules",
+      "summary": "Japan's patent advisory panel is set to re-examine rules on AI-generated inventions and cross-border patent applications, signalling potential reform to how AI contributions to innovation are recognised legally.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcF9UMTNUTDQxRktZTkJGbnZZNC16VzhzLW9JNUI0X1dGSEZySjBZMnlBcVR3N19sTHBBa1NCSnRmT004OFRQb1BhUU5tMjJjRkd2QlR4Ynp6VGpMS2RQQnhMaU5PcEV6UnMxdDhYazRILWxNZXQzRzhrV3dwdVBFX0R2MDZOY28xQ1ZLVGYxNnUzV1dURHU5My1jZ0xCbTZyWGJlajRHQk9XajFBd1piSUlXZnVDek8waG5UR2RvbnRvaEtQ0gFaQVVfeXFMUG9RS2ZDZ05XX3VobzJFTDZpVXMxdGxQTFB4aGtTMHhqU1ktT1lUWnpLVnQ1TjVpT0oyZFVOYk82czZjRU5DR1VWNzg1MVQzMDZ0MngxSFp0NjdR?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "The good, the bad and the interesting in the Australian IP Report 2026",
+      "summary": "IPKat reviews Australia's IP Report 2026, highlighting key findings relevant to AI and intellectual property developments in the Australian jurisdiction.",
+      "url": "http://ipkitten.blogspot.com/2026/06/the-good-bad-and-interesting-in.html",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "USBS 2026: Experts Tackle Publishing's Hottest Topics [Metered]",
+      "summary": "Publishing industry experts at the US Book Show 2026 addressed the sector's most pressing issues, with AI copyright and licensing among the central topics under discussion.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/trade-shows-events/article/100574-usbs-2026-experts-tackle-publishing-s-hottest-topics.html",
+      "topics": ["publishing", "AI copyright"]
+    }
+  ]
+}
