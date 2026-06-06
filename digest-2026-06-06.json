@@ -1,0 +1,91 @@
+{
+  "top_stories": [
+    {
+      "title": "Microsoft wants users to be addicted to Scout, their AI personal assistant",
+      "summary": "Internal documents reveal Microsoft is designing its AI personal assistant Scout with the explicit goal of making users 'addicted' to the product. The strategy centres on deep integration into users' daily lives, positioning Scout as an always-on personal AI companion. The leak raises questions about the ethics of intentionally habit-forming AI design.",
+      "url": "https://disassociated.com/microsoft-users-addicted-ai-personal-assistant/",
+      "topics": ["AI ethics", "AI personal assistant", "Microsoft"]
+    },
+    {
+      "title": "Are AI chatbots making us lose control of our brains? [Metered]",
+      "summary": "MIT Technology Review examines emerging research into the cognitive effects of heavy AI chatbot use, exploring whether reliance on tools like ChatGPT is altering how people think and reason. Scientists are concerned that offloading cognitive tasks to AI may reduce users' independent critical thinking over time. The piece surveys current studies and expert opinion on the neurological and psychological implications.",
+      "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+      "topics": ["chatbots", "mental health", "AI ethics"]
+    },
+    {
+      "title": "The Meta hack shows there's more to AI security than Mythos [Metered]",
+      "summary": "MIT Technology Review reports on a significant hack targeting Meta's AI systems, arguing that the incident exposes broader vulnerabilities in AI security that go beyond the well-publicised Mythos framework. The piece contends that the industry has focused too narrowly on one set of attack vectors while leaving other exploits unaddressed. It calls for a more comprehensive approach to securing large-scale AI deployments.",
+      "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "topics": ["AI safety", "AI security", "generative AI"]
+    },
+    {
+      "title": "OpenAI and Anthropic May Be Rivals, but Their Investors Aren't Picking Sides [Metered]",
+      "summary": "Wired reports that many prominent venture capital firms and investors have placed bets on both OpenAI and Anthropic simultaneously, despite the two companies being direct competitors in the generative AI space. This dual-investment strategy reflects investor uncertainty about which firm will dominate, as well as the enormous capital requirements of frontier AI development. The trend raises questions about competitive dynamics and potential conflicts of interest.",
+      "url": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
+      "topics": ["OpenAI", "generative AI", "AI industry"]
+    },
+    {
+      "title": "New York lawmakers pass one-year ban on new data centers",
+      "summary": "New York state legislators have approved a one-year moratorium on the construction of new data centers, citing concerns over energy consumption and environmental impact. The move comes amid surging demand for AI compute infrastructure, which has driven a wave of data center construction across the US. The ban could have significant implications for AI companies planning to expand capacity in the region.",
+      "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+      "topics": ["AI infrastructure", "AI compute", "AI governance"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Labour MP Jess Asato sues Elon Musk's xAI over deepfake bikini picture",
+      "summary": "A UK Labour MP is pursuing legal action against Elon Musk's xAI after a deepfake image of her was circulated, in a case that could set a precedent for AI-generated non-consensual imagery.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORDl3Q2RZaHl4UmVWbS1PUVhkNEJuZFBwbkNGbldCamRDVUt1NGpIWnhwNVRTMHhfczM3UXdhbVBybWNqQ0xhSER3UGFIMmduTWg1RmhXNnhpeVBrNENWX3JxRnVsYXl5WmJhVFZLaUNzZVJ0bEFQVWRYTmgwU1dxUFJyWnpIekJTa0JkaTJoRkR1UEs0MUwwN0s5dnY2T2dwQXhQNFZYT1jSAa4BQVVfeXFMTVVHUm9XMUU4bVh3MlpUaC02NDAzUTdiZnlVX1lBaXBEYVlxbmJ0WkloVkdEVGR2SkZoWWpveW5EVHRMNXZxaTdzbzhkU2NHa1ZRUTg3WmF3aVZOVVJFejYxdWtBYmNZM1JPSi1ReWc3R1JCTEFzZnhvXzVFT20tVVRseDFRUGVrYUxDeW03Slo1UkhIV1pIbWo2SngwczVvUWQ4eXFNR01vMmhzMERB",
+      "topics": ["legal", "AI ethics", "generative AI"]
+    },
+    {
+      "title": "New claimants seek to sue Elon Musk's xAI after Labour MP's test case",
+      "summary": "Following the Labour MP's legal action against xAI, additional claimants are coming forward seeking to join or bring similar suits related to AI-generated deepfake content.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQnY4R25fdTUtcnNMOWZ6T3RtWGNRU1JaY29nRVFhZWJXNUFZeDJVYTdJWE9nNlpxNEprUGR6eG16WTZ5QjB2RWZlbzJvVjNwUUhLbnk0ZDNlcHdEN1ZoUGI0cGJDdWtXX1NRd05RMU0zQmFoZnhBQjRuYUZENGFPWFVPYUR2aFNBOWwydzRYbzB2ZVctYnJmU3JxZFBCdw",
+      "topics": ["legal", "AI ethics", "technology ethics"]
+    },
+    {
+      "title": "The Pentagon is running an AI propaganda mill targeting Latin America",
+      "summary": "The Intercept reports that the US Department of Defense is using AI tools to generate and disseminate propaganda content aimed at audiences in Latin America, raising significant concerns about AI use in information warfare.",
+      "url": "https://theintercept.com/2026/06/02/la-tilde-propaganda-latin-america-pentagon/",
+      "topics": ["defense", "AI governance", "AI ethics"]
+    },
+    {
+      "title": "Has Microsoft Lost Its Mojo (Again)? [Metered]",
+      "summary": "Wired examines whether Microsoft is struggling to maintain its AI momentum, questioning whether its heavy investment in OpenAI and Copilot products is translating into genuine competitive advantage or market leadership.",
+      "url": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "This AI startup says it can tell if a script will make a hit film",
+      "summary": "The Verge profiles Quilty, an AI startup claiming its models can predict the commercial success of film scripts by analysing narrative and structural data.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
+      "topics": ["generative AI", "AI industry", "large language models"]
+    },
+    {
+      "title": "The AI IPO Race Heats Up [Metered]",
+      "summary": "Wired's Uncanny Valley podcast discusses the intensifying race among AI companies to go public, the implications for the broader tech investment landscape, and other major stories including the DOGE whistleblower lawsuit.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-ai-ipo-race-elon-musk-doge-whistleblower-instagram-hacking-incident/",
+      "topics": ["AI industry", "business", "OpenAI"]
+    },
+    {
+      "title": "This is your laptop… on AI — The Vergecast",
+      "summary": "The Vergecast explores how AI is being integrated into consumer laptops, examining announcements from NVIDIA, Google's Gemini, and other players shaping the next generation of AI-enabled personal computing.",
+      "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+      "topics": ["AI compute", "large language models", "AI industry"]
+    },
+    {
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "summary": "Alibaba has open-sourced a command-line AI code review tool, offering developers an automated way to analyse and critique code quality using large language models.",
+      "url": "https://github.com/alibaba/open-code-review",
+      "topics": ["AI coding tools", "large language models", "generative AI"]
+    },
+    {
+      "title": "Kevin O'Leary agrees to downsize massive Utah data center",
+      "summary": "Investor Kevin O'Leary has agreed to scale back plans for a large AI data center in Utah following local opposition, in a sign of growing pushback against large-scale AI infrastructure projects.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
+      "topics": ["AI infrastructure", "AI compute", "AI governance"]
+    }
+  ],
+  "ethan_mollick": null
+}
