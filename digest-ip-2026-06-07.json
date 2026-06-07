@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "UK mandates Google to attribute, link out to publisher sources in AI search results",
+      "summary": "The UK's Competition and Markets Authority has imposed new rules requiring Google to attribute and link to publisher sources in AI search results, giving publishers stronger rights over how their content is used. The measures represent a world-first regulatory intervention in AI search, allowing publishers to opt out of having their content used in AI-generated answers. The CMA's action marks a significant shift in the balance of power between AI companies and content creators.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPai1LeU5KLS1mYWlfQU4xaDhpMER4X2VPQTNGaVBEQlRfcG4tS2haS3I3MDlOblYydXVjZm5fNHJMWVdaUmVULTctbFhCZV9rZjlUU0NFQklWTWg1dDFTWUpMdFVoaVptdGhIYTEyUnJJS1RnYmVwWnNkVmRvNmFFaUNob3ZHUHFSSGZHb2ItSTZYUzU1WWdkeE0tQlA?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "Copyright watchdog calls for tribunal to handle AI disputes",
+      "summary": "A copyright regulatory body has called for the establishment of a dedicated tribunal to resolve disputes arising from AI and copyright conflicts. The proposal reflects growing concern that existing legal frameworks are ill-equipped to handle the volume and complexity of AI-related intellectual property cases. The move would create a specialist forum for adjudicating claims between AI developers and rights holders.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUlJHRzVhaW1CR25hQjJ0ZE0wNFpIbkRRVzdScXpFMk5Ed3Z6eEh4RGdqZ294RTVwTm5WT0ljUFBMR2V2NmppTi1pXzBfMVFMNlJmVHRqZXdlSHdFRENMMjMyNFc2Y3BhN1NDOWRmQUVFOEN6SWZsX09CQy1QWUNQVEprVjJHOWlEb1dFb196Vmg4TjQ0RmR4R1ZKRQ?oc=5",
+      "topics": ["AI copyright", "policy", "litigation"]
+    },
+    {
+      "title": "Why publishers want AI companies to pay",
+      "summary": "This piece examines the growing push from publishers to secure financial compensation from AI companies that train on their content. It outlines the core arguments from the publishing industry around copyright, licensing, and the commercial value of their works. The article sets out why licensing frameworks — rather than litigation alone — are increasingly seen as the preferred route for resolving the conflict.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DUHVVcjJYaDNqa3M1bjBGRzY1VkZ3QmpTSnhVY05oVnE0QjFOZHZVTkUwUG11b2dtbEZhSjNiaDNnbVRyM2VOcERMUjlpQnhJeFFKVlJnakU3ZlQ0eXpPTzVNMDc1ZGZlUkg2QXRWNE5uaDdXdnF3VnB2MVpKRFE?oc=5",
+      "topics": ["AI copyright", "licensing", "academic publishing"]
+    },
+    {
+      "title": "Mickey is free! It may not be as free, though… (IPKat)",
+      "summary": "IPKat examines the complexity surrounding Mickey Mouse's entry into the public domain, noting that while certain early versions of the character are no longer protected, trademark rights and later copyrights on derivative works substantially limit what the public can actually do with the character. The analysis highlights the layered nature of IP protection and the gap between public domain status and practical freedom of use.",
+      "url": "http://ipkitten.blogspot.com/2026/06/mickey-is-free-it-may-not-be-as-free.html",
+      "topics": ["AI copyright", "IP law"]
+    },
+    {
+      "title": "Leading Canadian news organizations join SPUR's global coalition to shape the future of AI and journalism",
+      "summary": "Major Canadian news outlets have joined SPUR's international coalition aimed at establishing standards and norms for how AI interacts with journalism. The coalition seeks to give news publishers a collective voice in shaping AI policy and licensing arrangements globally. The move reflects broader industry efforts to assert rights over journalistic content used in AI training and outputs.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVjBHOW5ENG9kUDB5RmNFaHlRWVBRN0hTREk4UUE3Tk0teHBTbXktVVdvQWZRNUpFUzNrSDdma2J2VXlQWDI4RU5PVWpxMmFra3lUX2V0cTdIeVppTlJsWklrV25pSEx6QWN1TFNxREtDVmhES3FiY29NbEJOSUNhY2ItWTFUbldSZHFZZFNyTk9IQjQySm8wSkpTcnhvZGZiUTI3VkhScS0tX0NISlhGZUxPNA?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "CMA imposes 'world-first' AI search controls on Google in the UK",
+      "summary": "The UK's CMA has introduced first-of-its-kind regulatory controls on Google's use of publisher content in AI search, a story closely related to the publisher opt-out rules covered above but with additional detail on the CMA's broader market intervention rationale.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeTg0YzFuTzRXTHhyY05fLTNRY01DMmg1S1E3VWlUVUJSVEVkWGhsRlhoQWo3VTZ2OGJDVGduNnhjeE5heE5GQmVodk9QRzNHalRXVFZKZTF2Nm56TnRMQkJ3dVNlRjZ0Ym1sOEZvTlBUSW50emczZ3dvZDRyem5pbW04Z2tjYTVPX0wxVHpnWnh4ZmZYYW5qa0xIS1R2LVgxNVpIeG5ncGZ5QQ?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "California's AB 412 Still Demands Developers Do The Impossible",
+      "summary": "Analysis of California's proposed AI transparency bill AB 412 argues that its disclosure requirements for training data are technically unworkable for AI developers.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObC1yZm0yOXp2OHBnZTctRmc2U1hzTEJNYm4zRm0yQ2YxeXhFWko2U0VwQW5JN0tfZEt1bk5fMnd2QVdZTUM2VkhDaHdYdW04MTZwRS1vRDJBNUd3UzV4aFU0N1p6ZmJ2VnNKWkltZmFTcmg4U0lWVEV0S09wWno4cTQ4a0w3QXR1TDd3TzFFT0k5SWh1dXMxaS1LQQ?oc=5",
+      "topics": ["AI copyright", "policy", "software"]
+    },
+    {
+      "title": "NZ AI copyright law gap creates commercial risk for businesses",
+      "summary": "New Zealand's failure to update its copyright legislation for the AI era is creating legal uncertainty and commercial risk for businesses operating in the country.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTkgxRkdsVWs2eF9mQUtBNE4wZ3FqNDNmd1NtWVJ4NDlyLW5VSVMweXJOQjgyLWRCR0ozVDZ0aHVvU3dlVU5KU29TM3N2V1V6RjJiLTZQVjJFNkNyTU1RMVRvMjR2WTlzZE9DZ3A2MG1idW5NaC1zVjljYVExN1dKNkZSV0lScWlEMzByRGJfd1Rkb2Vz?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "'Nonsense': Scott Farquhar AI claims mauled by music industry",
+      "summary": "Music industry figures have strongly rejected claims by tech entrepreneur Scott Farquhar regarding AI and copyright, describing his arguments as factually unfounded.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS2VpZWtHSVZ6TGRpamQ1YzFoLUdicmJVckoyNndrbzV4WU9UUU10czBNOF9iX2FJSW11R20zSDM0bXRZSEhQb3kxNFk2aDFrdFFQSUJUU2cyclR5bHh1eTFsV0djcGgtLVQteUNsN2hySnJTUEhMMm5ZelNsaXV1X3pkVTlmelV4al8zdkNFbG1tUHFsbGdhaUt2SVhvdG1wRTBKVWRxck9ib000UjRxaXRBY3dpMmlQMUZFWUVXclZ3Y2Jqdmc?oc=5",
+      "topics": ["AI copyright", "licensing"]
+    },
+    {
+      "title": "Japan patent panel to revisit AI, cross-border invention rules",
+      "summary": "A Japanese government panel is set to review patent rules relating to AI-generated inventions and cross-border patent disputes, signalling potential legislative change.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcF9UMTNUTDQxRktZTkJGbnZZNC16VzhzLW9JNUI0X1dGSEZySjBZMnlBcVR3N19sTHBBa1NCSnRmT004OFRQb1BhUU5tMjJjRkd2QlR4Ynp6VGpMS2RQQnhMaU5PcEV6UnMxdDhYazRILWxNZXQzRzhrV3dwdVBFX0R2MDZOY28xY1ZLVGYxNnUzV1dURHU5My1jZ0xCbTZyWGJlajRHQk9XajFBd1piSUlXZnVDek8waG5UR2RvbnRvaEtQ0gFaQVVfeXFMUG9RS2ZDZ05XX3VobzJFTDZpVXMxdGxQTFB4aGtTMHhqU1ktT1lUWnpLVnQ1TjVpT0oyZFVOYk82czZjRU5DR1VWNzg1MVQzMDZ0MngxSFp0NjdR?oc=5",
+      "topics": ["AI copyright", "policy", "software"]
+    },
+    {
+      "title": "Eight legal questions for your AI company",
+      "summary": "A practical overview of the key legal issues AI companies currently face, spanning copyright, liability, data protection, and contractual risk.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQjNnZEJhSXpHMS1RZ1Z1b2lMQWJJZ1JEbllZeVgySGJjVFVFSnpkOVo5UlNfd3dLMXRXZ2tmTkFwYmlkLXBScmR6VWNqX1k3NXpqU21jX2V4bTYwMDVYYUtnTUcxUmt5ZWdIeDMxSjVrQm1odkd0dHZxN1ViaGxrNTJZcGhYSk0zUTQyUk1MZW05NFFIZEdxaXRWU3ZsUXNPN0pN?oc=5",
+      "topics": ["AI copyright", "legal services", "software"]
+    },
+    {
+      "title": "The Rise of China's Scholarly Publishing System Part 2: Navigating China's Publishing Ambition — Strategic Options for International Publishers (The Scholarly Kitchen)",
+      "summary": "The second instalment of a Scholarly Kitchen series examines how international publishers can strategically respond to China's rapidly expanding scholarly publishing infrastructure.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/06/04/the-rise-of-chinas-scholarly-publishing-system-part-2-navigating-chinas-publishing-ambition-strategic-options-for-international-publishers/",
+      "topics": ["academic publishing", "licensing"]
+    },
+    {
+      "title": "Who Owns the Machine's Mind? Rethinking Creativity, Copyright, and Provenance with AI",
+      "summary": "A conceptual exploration of how AI challenges foundational copyright principles around authorship, creativity, and the provenance of generated works.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb1lXWWxsakdvOW5sMFNTbDBNSlRveEdsb1haR1ZEX1ZxQ3ZyMG5RTzhzQUF5X3Y5WUE1bkY5OWI4bmg0VDZFVk92aGNKUW11aDVLRlNFSEZNQ1Z1bll2N0JYRUg0cHY5UXJWMER2MWJXYWtubi1xM0hoUklPZWtyNXhBYXpCZTR3SHJJbVliNC1qMFdKT3gyUEtKV2JoN1JzZXRSZQ?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Can Bangladesh's copyright law keep up with AI?",
+      "summary": "An examination of whether Bangladesh's existing copyright framework is adequate to address the challenges posed by AI-generated content and AI training on protected works.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd1NzWGxmWE5mLTJpNkphZVJVX01BYlByeU1nWThVXzhmSHFQVUJ0TXJLa1FVREtKLXdEOTdZQkNldGswUl85bjB5dmJ1RGdOQ1VfMEhGQ01WNXpzVTJhQlBqb3g2TDFVTWxkb29uUzZlcURqSl9xMzdaMm1YbjhBUlkxazVURGRZZmRkaElCZndPelFuSExFZw?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Ask the Chefs: SSP 2026 Annual Meeting (The Scholarly Kitchen)",
+      "summary": "A roundup of key themes and discussions from the Society for Scholarly Publishing's 2026 annual meeting, including perspectives on AI's impact on academic publishing.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/06/05/ask-the-chefs-ssp-2026-annual-meeting/",
+      "topics": ["academic publishing", "AI copyright"]
+    }
+  ]
+}
