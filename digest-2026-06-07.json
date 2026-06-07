@@ -1,0 +1,85 @@
+{
+  "top_stories": [
+    {
+      "title": "Meta Launches Paid AI Business Agent Across Messaging Apps",
+      "summary": "Meta has launched a paid AI business agent across its messaging platforms, enabling businesses to interact with customers via AI across its suite of apps. The move marks a significant expansion of Meta's commercial AI ambitions into enterprise customer engagement. This follows Meta's broader push to monetise its AI infrastructure through business-facing tools.",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObllZcjJUb0JsamIwV3JlWlBaNDVGeElpcHBqZ19mN1RTTG5MUnl6QVhZNlZ5b1RYbVJvTFlMOFl6WVc2cHFDb3NaRGg3aE9xMGhYeE95QVg4N0dCeVdOZmZhaHgtaXNUMFZxRVZPSjMtR0ZMQ1dodTVwMGE4cmd0SktHQUducXg1ZVZGYUZ3MEZoc1ZsNmtZa0NDV3pFUWdRNk9VelVEbHBuc2N4YlpXWWtHSWpDeHRlbmFrRXFnZE9seF9nejdKX290Z203X3NNa0x3UDMxV3lzamNyM2RPZ0RzU0xNVWE5TUQ2RUE4ZmE2WXRh",
+      "topics": ["AI business tools", "Meta", "messaging apps"]
+    },
+    {
+      "title": "US House lawmakers release draft bill to prohibit state AI rules",
+      "summary": "US House lawmakers have released a draft bill that would prohibit individual states from enacting their own AI regulations, seeking to establish federal primacy over AI governance. The proposal is likely to be contentious, as several states have already passed or are advancing their own AI legislation. The draft reflects ongoing tensions between federal and state authority in regulating emerging technologies.",
+      "url": "https://www.reuters.com/business/us-house-lawmakers-release-draft-bill-regulate-ai-2026-06-04/",
+      "topics": ["AI governance", "AI regulation", "legal"]
+    },
+    {
+      "title": "Wiley Acquires Emerald For $452 Million, Expanding Research Publishing Scale And AI Content Assets",
+      "summary": "Academic publisher Wiley has agreed to acquire Emerald Publishing for $452 million, significantly expanding its research publishing portfolio and its holdings of AI-relevant content assets. The deal reflects growing strategic interest among publishers in consolidating research content as AI training data becomes an increasingly valuable commodity. The acquisition has direct implications for the academic publishing landscape and AI content licensing.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZTdlOVRrUURmUlAybzcxbGEwZjUzSV9oaGdWaDNPa2FUeDVGMHN5UjVSY1hFYjJ3SHFWX3pROG5IeGloMGpOd1kzQlhJcV93UnFia2RkR1lUc19DTWJHV1dwQnVqSS1jaXJ0a29xcHB5N2EwdzRsQy13SlliNVg3MkhOOF9GMDI1Q1RGMnlURE9Wc19zbExYR0xTZVFKWXpPYjhqZURWWmU3aXZMakFhbHVVMVQ1S1k",
+      "topics": ["academic publishing", "AI content assets", "acquisitions"]
+    },
+    {
+      "title": "Here comes new Siri again",
+      "summary": "Apple is preparing a significant overhaul of Siri ahead of WWDC 2026, with reports indicating the company may integrate Google's Gemini model to bolster its AI capabilities. The move would represent a notable shift for Apple, which has struggled to keep pace with rivals in the generative AI space. The update is expected to be a centrepiece of Apple's developer conference announcements.",
+      "url": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+      "topics": ["AI personal assistant", "generative AI", "large language models"]
+    },
+    {
+      "title": "Meta made its own AI-generated clickbait news feed",
+      "summary": "Meta has been found to have created an AI-generated content feed on its apps that surfaces clickbait-style articles, raising concerns about content quality and misinformation. The feature appears to have been developed internally and uses AI to generate or curate low-quality news-like content. The revelation adds to scrutiny of Meta's AI content policies.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+      "topics": ["generative AI", "content policy", "Meta"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Police in England and Wales told to halt AI use in court statements",
+      "summary": "Police forces in England and Wales have been instructed to stop using AI tools to draft statements for court proceedings, following concerns about accuracy and legal integrity.",
+      "url": "https://www.ft.com/content/229e5949-3ebc-4151-8a86-a01b5e259241",
+      "topics": ["AI ethics", "legal", "AI governance"]
+    },
+    {
+      "title": "Meta Keeps Delaying the Release of Its New AI Model to Developers [Paywalled]",
+      "summary": "Meta has repeatedly pushed back the release of its next AI model to third-party developers, with the delays raising questions about the company's AI development timeline.",
+      "url": "https://www.wsj.com/tech/ai/meta-keeps-delaying-the-release-of-its-new-ai-model-to-developers-f8569c8c",
+      "topics": ["large language models", "Meta", "AI industry"]
+    },
+    {
+      "title": "Leak Reveals Microsoft Wants Its AI to Be 'Addictive'",
+      "summary": "An internal leak reported by 404 Media suggests Microsoft has been discussing making its AI products, including Copilot, more 'addictive' to users, prompting ethical questions about AI design.",
+      "url": "https://kotaku.com/microsoft-ai-scout-addictive-satya-nadella-404-media-copilot-2000702924",
+      "topics": ["AI ethics", "Microsoft", "user interaction"]
+    },
+    {
+      "title": "New claimants seek to sue Elon Musk's xAI after Labour MP's test case",
+      "summary": "Additional claimants are joining legal action against Elon Musk's xAI following a test case brought by a Labour MP, expanding the scope of litigation against the AI company.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRmFfR2doTU9EY05KYXdsYUJCc0EwLUNRWnRyVTFURDJwZW9tcGpvNV94WkdJaHdrUy1Yc2tBT1hvSjctYUJTaHZLN2w0amRkTzJUUEk0WVVacmIyUUFSZFExT05TTl9ZeTNtWmdfaVNRc2hEZzBLcld5X0RwMXlpNlVmc3dmbno4aC1iMFlsc253QlVwNjVsYlE5WUhwUQ",
+      "topics": ["legal", "AI industry", "AI ethics"]
+    },
+    {
+      "title": "The Download: AI hacking beyond Mythos, and chatbots' impact on our brains [Metered]",
+      "summary": "MIT Technology Review covers the expanding use of AI in offensive hacking beyond known tools like Mythos, and examines emerging research on how chatbot use may be affecting cognitive patterns.",
+      "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
+      "topics": ["AI safety", "chatbots", "mental health"]
+    },
+    {
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "summary": "Meta has confirmed that thousands of Instagram accounts were compromised by attackers who exploited its AI chatbot as part of the attack vector.",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "topics": ["AI safety", "chatbots", "technology ethics"]
+    },
+    {
+      "title": "Why Smart CEOs Are Choosing 'DIY AI' Instead of Build or Buy",
+      "summary": "A growing number of enterprise leaders are opting for a 'DIY AI' approach — customising and assembling their own AI stacks — rather than building from scratch or buying off-the-shelf solutions.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbFNjWE5OMGlNeDBtOUlKRVhBN3JuNDFPSGtLUFM4TElDelMteEFjRWNwUUF1U0N1Mkc2Y2hvQm5pT0tadkRRVE1sbmI5VlJRdFJ4WXVFcHFya1dPUFRzeFpVbFV1NExma3R1UTY5Ulo2SGpVSk80SWwwWHRCWUFvWGozd1h3dlVwSVUzQUc4a25MT0J3bW52b1BlRGtZQ0U",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "South Korean forums will need to scan every image with AI censorship tools",
+      "summary": "South Korean online communities are set to be required by law to scan all uploaded images using AI-based censorship tools, raising concerns about surveillance and content moderation at scale.",
+      "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+      "topics": ["content policy", "AI governance", "technology ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
