@@ -1,0 +1,35 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "UK Tightens Rules On Google's AI Content Use, Gives Publishers Stronger Rights",
+      "summary": "The UK government has introduced new rules requiring Google to allow publishers to opt out of having their content used in AI-generated search results. The measures are designed to give publishers stronger rights over how their material is used by AI systems, representing a significant policy shift in the UK's approach to AI and copyright.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQzRYSHhlSGNyV19WM0hXVHFyZThWcTB0dDNUTkYwRnNzVkhMQUpMUjNVVzhRY0pWOVU0c0pZc0RLZmtpM1Nuc1lOOGg0ellYZ2pxd2t2Y19LU0hoS0x2MUcybjEyek84TnVKV0ROZXNFb1hGQU9jMUh6eFRDd0VQVHJMb1IySmlDNFE?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Google must let UK publishers opt out of AI search under new rules",
+      "summary": "UK regulators have mandated that Google provide publishers with a formal opt-out mechanism from AI-powered search features that draw on their content. This development marks a concrete regulatory step toward protecting publisher rights in the context of AI-generated search summaries.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYWV1SDltTURkejMwcllwSUI4cDN5SXhBSW1ka2oycUpVVTdEMm82TEtUZ0Z0MEdZdTBhVWZyZlVoU1ZCbjFrald1T0ZTSHhPMWMzNGU1RDA1WDQtTC1aa1JhWUdidmtnSjV3SE9RXzJIWE55dmhzV2Q3WTUxd1k1RmNjaU1nWkhja3dFLVQ4UWJvM2FiaUlwcG5BdmVRcGRKQXhHYjh2aE9la010WlMzUzFvODVRQ3hU?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "USBS 2026: Publishing CEOs Warn Against AI 'Witch Hunt' [Metered]",
+      "summary": "Senior publishing executives speaking at USBS 2026 cautioned against what they described as an AI 'witch hunt,' signalling a more nuanced industry stance on AI adoption alongside copyright concerns. The remarks reflect ongoing tension within the publishing sector between protecting intellectual property and embracing AI-driven opportunities.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/bea/article/100571-usbs-2026-publishing-ceos-warn-against-ai-witch-hunt.html",
+      "topics": ["AI copyright", "academic publishing", "policy"]
+    },
+    {
+      "title": "Can Bangladesh's copyright law keep up with AI?",
+      "summary": "An analysis examines whether Bangladesh's existing copyright framework is equipped to address the challenges posed by artificial intelligence, including questions around AI-generated works and training data. The piece highlights the broader global challenge facing jurisdictions with older copyright statutes as AI capabilities rapidly advance.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd1NzWGxmWE5mLTJpNkphZVJVX01BYlByeU1nWThVXzhmSHFQVUJ0TXJLa1FVREtKLXdEOTdZQkNldGswUl85bjB5dmJ1RGdOY1VfMEhGQ01WNXpzVTJhQlBqb3g2TDFVTWxkb29uUzZlcURqSl9xMzdaMm1YbjhBUlkxazVURGRZZmRkaElCZndPelFuSExFZw?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "'Nonsense': Scott Farquhar AI claims mauled by music industry",
+      "summary": "The music industry has strongly rejected comments made by Atlassian co-founder Scott Farquhar regarding AI and copyright, with representatives describing his claims as 'nonsense.' The dispute underscores continuing friction between the tech sector and creative industries over AI training and intellectual property rights.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS2VpZWtHSVZ6TGRpamQ1YzFoLUdicmJVckoyNndrbzV4WU9UUU10czBNOF9iX2FJSW11R20zSDM0bXRZSEhQb3kxNFk2aDFrdFFQSUJUU0cyclR5bHh1eTFsV0djcGgtLVQteUNsN2hySnJTUEhMMm5ZelNsaXV1X3pkVTlmelV4al8zdkNFbG1tUHFsbGdhaUt2SVhvdG1wRTBKVWRxck9ib000UjRxaXRBY3dpMmlQMUZFWUVXclZ3Y2Jqdmc?oc=5",
+      "topics": ["AI copyright", "licensing"]
+    }
+  ],
+  "ip_further_links": []
+}
