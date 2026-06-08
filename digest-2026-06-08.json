@@ -1,0 +1,89 @@
+{
+  "top_stories": [
+    {
+      "title": "Wiley Acquires Emerald For $452 Million, Expanding Research Publishing Scale And AI Content Assets",
+      "summary": "Academic publisher Wiley has acquired Emerald Publishing for $452 million, significantly expanding its research publishing portfolio and AI content assets. The deal grows Wiley's scale in the academic publishing market at a time when AI training data derived from research content is increasingly valuable. This acquisition is notable for the intersection of academic publishing and generative AI content strategies.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUnkzVUdfdnhIeG11MXVncUVZZ2dRUFZvXy1VV0Z3RHFuQzFRZ05tWGpXWWxvbEZrOXZsVVlPLTNKQVpXYnBPZ2REN2hnRzBQTERWczJ4eW5XanVuWDVkWUlZblhfTzd4ZE9DaERFZUw3a2s2TGY5c25SUTRreFdqQ0xmQm1qN1F0b0dXVXllZUNseVVIaG1XZGdPNWNwelBoY1VsV2hUUU1mYk1EbFA4V3h4VHZJT01ndXU2Uw",
+      "topics": ["academic publishing", "AI content assets", "acquisitions"]
+    },
+    {
+      "title": "OpenAI Investor Day: AI's Business Transformation",
+      "summary": "OpenAI held an Investor Day focused on how AI is transforming business operations, signalling the company's push to deepen enterprise adoption. The event highlighted OpenAI's strategy for monetising its technology beyond consumer products and into large-scale commercial deployments. Details from the day underscore the growing competition among AI labs to capture enterprise customers.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb05iVy1xQ3EwTzNaUzBVM2ZfWk1QbExST0FLeHFucXA3YmVjY2RpVl9iLUwzQ3J0Nk1KWXdqc201MnI1T0RvdkdtZWN0Z1FBZzFPNGJQaFY5cDEwWVZ2WGJVV1JyX0wzOGNPc3ZQMnZUSHFpYkFVVU1xUE03cjJ5dVdRS2Q5RWpFeXVkVU9WczVLYl9SNFlYMWwwdlJUdG9CNUpxTWF5WnI1b1hOWDhqbg",
+      "topics": ["OpenAI", "AI industry", "generative AI"]
+    },
+    {
+      "title": "AI 'content creators' are getting harder to spot",
+      "summary": "The Verge reports on the growing difficulty in distinguishing AI-generated content creators from human ones, as synthetic personas become increasingly convincing across social media platforms. The piece examines how AI-generated influencers and content are proliferating and the implications for audiences, advertisers, and platform trust. The trend raises significant questions around transparency, content policy, and advertising ethics.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
+      "topics": ["AI content creators", "advertising", "content policy"]
+    },
+    {
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "summary": "Anthropic has published an open-source framework called the Defending Code Reference Harness on GitHub, designed to support AI-powered discovery of software vulnerabilities. The release reflects Anthropic's investment in using AI for cybersecurity defence and contributes tooling to the wider security research community. It represents a concrete application of large language models to code security at scale.",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "topics": ["AI safety", "AI coding tools", "large language models"]
+    },
+    {
+      "title": "Do AI Markets Face a Circular Financing Problem? Enterprise Applications Will Determine the Answer.",
+      "summary": "This analysis explores whether the AI industry faces a self-referential financing problem, where AI companies invest in infrastructure funded by capital that itself depends on AI's future success. The piece argues that enterprise adoption — not consumer use cases — will be the deciding factor in whether the current AI investment cycle is sustainable. It frames the stakes clearly for investors and business leaders evaluating AI's long-term commercial viability.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUjUwY0cyb2VQWldVRkQyYXFHQlhPT0pid1VTZ1BBaHlzX0ZFZlQwN2NUWnBtV0ZfMVgyVlVwaUFmeVNGb3pEdXItYnlHZTVla0hrdDZ5LWNSeUZ6d0FzbDlYekpENFh6cjFFMlJoVUFXYW9VR3FuVFF4NVV2Q0V2MmU3RVlTaEIxMFpWbjJ0SnB0bG9aU2NGQ24ybHZwMWVnMjdEdm1lYk1kOHo1d2ctSlJ6TkowUE5zVmx4UUxB",
+      "topics": ["AI industry", "AI infrastructure", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "New claimants seek to sue Elon Musk's xAI after Labour MP's test case",
+      "summary": "Additional claimants are joining legal action against Elon Musk's xAI following a test case brought by a Labour MP, expanding the scope of litigation against the AI company.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRmFfR2doTU9EY05KYXdsYUJCc0EwLUNRWnRyVTFURDJwZW9tcGpvNV94WkdJaHdrUy1Yc2tBT1hvSjctYUJTaHZLN2w0amRkTzJUUEk0WVVacmIyUUFSZFExT05TTl9ZeTNtWmdfaVNRc2hEZzBLcld5X0RwMXlpNlVmc3dmbno4aC1iMFlsc253QlVwNjVsYlE5WUhwUQ",
+      "topics": ["legal", "AI ethics", "xAI"]
+    },
+    {
+      "title": "Why Smart CEOs Are Choosing 'DIY AI' Instead of Build or Buy",
+      "summary": "A growing number of business leaders are opting for a 'DIY AI' approach — customising existing models internally — rather than building AI from scratch or buying off-the-shelf solutions.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbFNjWE5OMGlNeDBtOUlKRVhBN3JuNDFPSGtLUFM4TElDelMteEFjRWNwUUF1U0N1Mkc2Y2hvQm5pT0tadkRRVE1sbmI5VlJRdFJ4WXVFcHFya1dPUFRzeFpVbFV1NExma3R1UTY5Ulo2SGpVSk80SWwwWHRCWUFvWGozd1h3dlVwSVUzQUc4a25MT0J3bW52b1BlRGtZQ0U",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "Synthetic data is everywhere, but is it any good?",
+      "summary": "An examination of the rapid proliferation of synthetic data in AI training pipelines and the open questions around its quality, reliability, and downstream effects on model performance.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZUgwRm9KTUk0N25lSzlSajkxUjZ6MmFta1NlSWNYX2toWU0yOXpzbGlmanQtX184ME9nVVdoc0VhQ0hlMUtrVGVjdzQ1YzhqVklnUmdib0xYbEVqMmlsOU5fWkVzU0h4ZEZ1NTNfOHEzc014RVFpSWMtZENyMUlXYTVVX3ZIdW53OVVxUw",
+      "topics": ["large language models", "AI research", "generative AI"]
+    },
+    {
+      "title": "Concept Testing with Digital Twins",
+      "summary": "An article exploring how AI-powered digital twins of consumer segments are being used to conduct concept testing, offering a synthetic alternative to traditional market research panels.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZXpJNTcyT3hkUmZaWkFkbkNlNkFqTi1yWnJxYmRSSHU2OGVwd05HSy10NnJRbWVNMEdualhnN3RiWC1UcjBoVnlGbXhwOVlfdk9DYzdmcGZJYW5fV095RFp1OHpQNGJkX2xHdHpwN0lNM0pTcXRkcFR2NXY4WXUxZXpPWnVoUVhr",
+      "topics": ["consumer research", "market research", "AI tools"]
+    },
+    {
+      "title": "Agentic AI in scientific research market to reach $2.4B by 2030",
+      "summary": "A new market report forecasts the agentic AI in scientific research sector will grow to $2.4 billion by 2030, driven by demand for automated hypothesis generation, data analysis, and drug discovery applications.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONmZQZjlxdURYSzl0Yjd3R0FaRVZmNmFRTmE0UnJvZThJOWlIUEhkd2ZZa1lkbXhKNTk0TzdWSTJkaUtkdXRxNWNfQWtranNzNGd3d09DYnIwZTF2d1lFbzEzMWRRYWpNUl92dWl0Qk5RMUpqemQ4UzRoeWlxUjV6UF80bkQzMDNkU2F5MXgxeE12cWhMQm1zVGR3b3BmSlkxSXJv",
+      "topics": ["AI research", "agentic AI", "academic publishing"]
+    },
+    {
+      "title": "The mayor of Shelbyville, Indiana, says only people who live in 'shitty houses' oppose data center",
+      "summary": "The mayor of Shelbyville, Indiana made controversial remarks dismissing community opposition to a planned data centre, highlighting the social and political tensions around AI infrastructure development in smaller communities.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+      "topics": ["AI infrastructure", "AI compute", "technology ethics"]
+    },
+    {
+      "title": "Microsoft partners set to further AI execution as tech giant readies for MCAPS Start for Partners",
+      "summary": "Microsoft is preparing its partner network for an AI-focused push at its MCAPS Start for Partners event, signalling expanded go-to-market strategies for AI product deployment through its channel ecosystem.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEstamdPbEM3c3ZXcl94b3B0d1drdEZjUEdkMWdNMk5MeEhBYnNBUUtlVk1vZFRnRUgxYkpZQWpQdGl2MGNjN2dWNDg4b1Q2UllRNndsWlpDYW1aZE9LcXVxNjc4RS1hQllzc1hYNXZ6R0Mwd1liZ1Z3aW9TVzNpNjFMZW9ueVRJMWFTdnA2ZlFCV2kwV01RczZwT3JuVW1sLTE4ZDktNVp1d0VjenpfNTd2WHczV3Rt",
+      "topics": ["microsoft", "AI industry", "business"]
+    },
+    {
+      "title": "AI Has Come for Serif Fonts [Metered]",
+      "summary": "Wired reports on how generative AI tools are disrupting the typography and graphic design industry, with AI-generated fonts increasingly encroaching on traditionally human-crafted design work.",
+      "url": "https://www.wired.com/story/ai-has-come-for-serif-fonts/",
+      "topics": ["generative AI", "AI industry", "advertising"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "Co-Existence and the End of Co-Intelligence",
+    "summary": "Ethan Mollick reflects on the evolving relationship between humans and AI, revisiting themes from his book Co-Intelligence as AI capabilities have advanced significantly since it was written. He explores how the nature of working alongside AI is changing and what it means for human agency, skill, and collaboration. The post grapples with the tension between AI as a tool and AI as something closer to a co-worker or peer.",
+    "url": "https://www.oneusefulthing.org/p/co-existence-and-the-end-of-co-intelligence"
+  }
+}
