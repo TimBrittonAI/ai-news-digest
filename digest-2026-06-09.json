@@ -1,0 +1,91 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI files for IPO, submits confidential S-1 to the SEC",
+      "summary": "OpenAI has confidentially submitted a draft S-1 registration statement to the SEC, marking a significant step toward a public offering. The move follows similar filings by Anthropic and comes as OpenAI continues its structural transition from a nonprofit-controlled entity. OpenAI confirmed the filing on its official blog.",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "topics": ["OpenAI", "IPO", "AI industry"]
+    },
+    {
+      "title": "OpenAI launches Economic Research Exchange and outlines broad benefit plan",
+      "summary": "OpenAI has published two new announcements: a plan detailing how it intends to benefit society broadly as it restructures, and the launch of an Economic Research Exchange aimed at studying AI's impact on the economy. The initiatives accompany OpenAI's IPO filing and reflect the company's efforts to address public concerns about its mission as it pursues commercial growth.",
+      "url": "https://openai.com/index/economic-research-exchange",
+      "topics": ["OpenAI", "AI governance", "generative AI"]
+    },
+    {
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "summary": "Apple has announced a new AI architecture that integrates Google Gemini models as part of its expanded Apple Intelligence platform, revealed at WWDC 2026. The company also published documentation for a new Core AI Framework for developers. The move signals a deeper partnership with Google for on-device and cloud AI capabilities.",
+      "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+      "topics": ["AI infrastructure", "large language models", "AI personal assistant"]
+    },
+    {
+      "title": "Microsoft's AI chief says superintelligence is near, but won't take your job",
+      "summary": "Microsoft AI CEO Mustafa Suleyman told The Verge podcast that superintelligence is approaching but argued it will not result in widespread job displacement. Suleyman addressed concerns around automation and AGI timelines, while positioning Microsoft's AI strategy in the context of rapid industry advancement.",
+      "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleiman-superintelligence-agi-openai-automation",
+      "topics": ["AI industry", "AI governance", "Microsoft"]
+    },
+    {
+      "title": "Meta deletes face-recognition system from its smart glasses app after WIRED report",
+      "summary": "Meta removed a face-recognition feature from its Meta AI smart glasses app after WIRED reported on its existence and raised privacy concerns. The feature had not been publicly disclosed and was capable of identifying individuals in real time. Meta confirmed the removal following the report.",
+      "url": "https://www.wired.com/story/meta-removes-face-recognition-code-meta-ai-app-smart-glasses/",
+      "topics": ["AI ethics", "technology ethics", "content policy"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "NotebookLM's Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+      "summary": "Google has updated NotebookLM with Gemini 3.5, adding a cloud-based computer tool and improved source discovery features.",
+      "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+      "topics": ["large language models", "AI tools", "Google"]
+    },
+    {
+      "title": "Apple announces next-generation Siri AI and Apple Intelligence at WWDC",
+      "summary": "Apple unveiled a significantly upgraded Siri and expanded Apple Intelligence features at WWDC 2026, including more personalised and context-aware capabilities.",
+      "url": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+      "topics": ["AI personal assistant", "generative AI", "large language models"]
+    },
+    {
+      "title": "The UK is betting on a billion-dollar AI supercomputer to reduce dependence on US tech [Metered]",
+      "summary": "The UK government is investing in a major domestic AI supercomputer project as part of a strategy to reduce reliance on US technology infrastructure.",
+      "url": "https://www.wired.com/story/uk-supercomputer-investment-ai-homegrown-semiconductor/",
+      "topics": ["AI infrastructure", "AI compute", "AI governance"]
+    },
+    {
+      "title": "Import AI 460: Reward hacking society, RSI data from Anthropic, and RL-based quadcopter racing",
+      "summary": "Jack Clark's Import AI newsletter covers new research on reward hacking risks in AI systems, reinforcement learning data from Anthropic, and advances in RL-trained autonomous drones.",
+      "url": "https://importai.substack.com/p/import-ai-460-reward-hacking-society",
+      "topics": ["AI safety", "generative AI", "large language models"]
+    },
+    {
+      "title": "IBM research illuminates capacity concerns amid accelerated agent AI adoption",
+      "summary": "New IBM research highlights infrastructure and capacity challenges emerging as enterprises accelerate adoption of agentic AI systems.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObHZyMmJuRmJqenlmSDVvUloydUxUVzJ5OVNvT21yUTRtU3BjMVFpWmVZelhfMGRqY1ZKOGNIcnVKSDRCWFpTQmg2RkNraWFJeTJ1MnBnNlpLdi1xdm5IVldvUzI1V3dyQUxqdXdHbFpRUUNwcHBmVXNBcDVRbjVQN1RuaWhwYzNWdEotYmJpczA3NnpYUXlZUXlKemdPUzd2Y1F4OG1zVHhaQmRfTHNkSWU1VmpHeG5OUHdqSA?oc=5",
+      "topics": ["AI infrastructure", "AI industry", "large language models"]
+    },
+    {
+      "title": "SDSU wired its dorms with 1,300 AI cameras without telling students",
+      "summary": "San Diego State University installed over 1,300 AI-enabled surveillance cameras including in student dormitories without informing residents, raising serious privacy and ethics concerns.",
+      "url": "https://reclaimthenet.org/sdsu-adds-1300-ai-cameras-330-in-student-dorms",
+      "topics": ["AI ethics", "technology ethics", "bias"]
+    },
+    {
+      "title": "Amazon is launching AI-generated custom merch",
+      "summary": "Amazon is rolling out a service that uses generative AI to create and print custom merchandise designs for shoppers.",
+      "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+      "topics": ["generative AI", "e-commerce", "AI tools"]
+    },
+    {
+      "title": "The Download: OpenAI's 'super app' ambitions and World Cup ball aerodynamics [Metered]",
+      "summary": "MIT Technology Review's daily briefing covers OpenAI's reported plans to build a comprehensive super app alongside its IPO filing.",
+      "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
+      "topics": ["OpenAI", "AI industry", "generative AI"]
+    },
+    {
+      "title": "Apple is using AI to fix Safari's extension problem",
+      "summary": "Apple is deploying AI tools within Safari to improve the discovery and management of browser extensions for users.",
+      "url": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
+      "topics": ["AI tools", "AI personal assistant", "large language models"]
+    }
+  ],
+  "ethan_mollick": null
+}
