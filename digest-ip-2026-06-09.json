@@ -1,0 +1,78 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "220+ rights orgs worldwide urge France's National Assembly to adopt bill that would force AI firms to prove copyrighted content wasn't used to train their tech",
+      "summary": "More than 220 rights organisations globally are pressing France's National Assembly to pass the Darcos Bill, which would require AI companies to demonstrate that copyrighted material was not used in training their systems. The campaign reflects growing international pressure on legislators to impose transparency and accountability obligations on AI developers regarding training data. A separate related story from Publishers Weekly also reports on rights groups urging passage of the bill.",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPQVNtaVBSMkcwUTBZbkRZZE4zZ1RzeTBkLUx3dWE2ZGZaTGFxQURJdGdYd3RDNEh4X3lRVV90SG15MUdMQktwMFhOZFhfS2tWUDJDN1A0MXpWQ1dJV2ViVHJUMUJsUkVqcWJyTnNVVFQ0QzZqU3RDSmJBbldwOU14NzlJalZ1VjZCNkRCOFZFWHJhZE85THozM2VTQUFaV05WaWxMUzhHcl8zNFlzc2JNVXhocVEyNWl1ZVhRUGl5eDhrdGJ1WDMwSU5OSy10bXhBQV9xclJpYjdKRU9qejRpX3BZMkhuSFpkUUZ5dE1oUnNrdW5lY0FCNVR0a1otYW1tcXlqMU8zNDBsN0J4U3l3cFRHSGtReHNOdmhtaXlHZnFqZw",
+      "topics": ["AI copyright", "policy", "eu law"]
+    },
+    {
+      "title": "US judge sides with Meta in AI training copyright case",
+      "summary": "A US judge has ruled in favour of Meta in a copyright case concerning the use of copyrighted works to train AI models, representing a significant development in the ongoing legal debate over fair use and AI training data. The decision is likely to be closely watched by other AI companies facing similar litigation. Details of the court's reasoning are expected to influence pending cases across the industry.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV0tkZWtZZ2F3Ni1XNzJHNXpKeDNXazh2VkhkMlZnNXd4MWNUc1FDYlVRNDgtcExvVHRYRVpCNlpwcVlrbGxlSDNfQ1VHVkJTNURUNDNsUW9wNEltSGlpTEE2SERaWmFhRXNXSHdiWk5wREQwSmM4eUFzd3h4TG1Wd2RWZEZWY1JHNUpRRVhWRDVzSjlOd2x1SHhn",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Suno asks court to block UMG and Sony from expanding copyright lawsuit to over 61,000 recordings",
+      "summary": "AI music generation company Suno has filed a motion asking a court to prevent Universal Music Group and Sony from broadening their copyright infringement lawsuit to encompass more than 61,000 recordings. The move marks a significant escalation in the legal battle between major record labels and AI music platforms over training data and reproduction rights. The outcome could set a precedent for the scope of copyright claims in AI-related litigation.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRFd4Q0xNYk13U0RsVnpoSWtvS2dSZ1R5Ml9NVTlWbXFkbFplSVZyMHJxckdwdnc2ZXg5d09lbURkd2dWMzJBbjk4cjNGcElXT2tIbHljUnNtVVhvTm1ERHB0WjJpUXV6Zk9mU3V5cC1qc1RPdF9zU0p3b213NG13bmVrQTh6NHZmNDFEWVl2T3dxR2h4SGZyWDFCMmFRQVlrR3duRWhhbGlfdkhjSkZYalhyWE1IMjBQME9nMS1xX1ExU1BIREJKQVdHQzJFQjc",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "Musicians union sues record labels over AI licensing",
+      "summary": "A musicians union has filed a lawsuit against major record labels over the licensing of music for AI training and development, raising questions about whether existing licensing arrangements adequately compensate performers. The case highlights tensions between AI companies, rights holders, and the creative workforce over how revenues from AI products should be distributed. It adds to a growing body of litigation targeting the intersection of AI and music rights.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS1h6SHRPdnA4ekQ0cHJrU0czUl9BaXctQkxpWF9VR281Ql9YRmlqcEVmWUdkaHE3SjNOZ0tfNmNrdzBfZXUySEpuakpNTEVFU0FLOEU2Q3A1UVZMWG83MzRRcVp5QVpZRDQzZ1RVallmZ2h0b0lSSW50bXNnOHR6TDNDQ3JwVy1EUjh3ZmlfekdwSlJ6ank4ZDRXMk9kZGxzOTg5dC02Yw",
+      "topics": ["licensing", "AI copyright", "litigation"]
+    },
+    {
+      "title": "Hollywood widens copyright war against AI firms across courts, Congress, and trademarks",
+      "summary": "Hollywood studios and entertainment industry groups are expanding their intellectual property offensive against AI companies, pursuing actions simultaneously through federal courts, Congressional lobbying, and trademark enforcement. The broadened campaign reflects the industry's determination to establish legal boundaries around the use of copyrighted and trademarked material in AI training and outputs. The multi-front strategy signals a long-term conflict between the entertainment sector and AI developers.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRODF5WEtISDdFVWJpSUt2c2cyUTdFWk4yRnZpQWd6TDRKYlY2TlBGdVJvUXJ1VnZFU2VPOFdhTDhqOGplZXVseXZlbzBBdjlCN1JsVXMxbGdyeUlwR0tYcXJDcnVybEx1c0VDRzd6R2o",
+      "topics": ["AI copyright", "litigation", "policy"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "If AI needs your work to function, it's not 'fair use'",
+      "summary": "An opinion piece argues that when AI systems are fundamentally dependent on copyrighted works for their operation, that use cannot be justified as fair use under copyright law.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ0UycFZKY3RzS0dabVVzeF9kZDdqU2xPbFBqdXk4dFU3dTRqUmM3NFphQ1dwS2hpYUVmb1dCb3JlOU1FU284TWVBSlo4UzFDcjl6N2FUZlZlMEFLOUVIbTJfa1U3czdCQ2t5amNYakhmTk1SV2h4d1ZDTmFRUXQzRl93NldSZi13NHVGbzJDbVM0bk5tVE83MkpaUFl0UFJhb0oya2dIdTJST1ZTNFo3U2d6dlFSZzBVak1WUGRJdw",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Canada's AI strategy doesn't mention copyright. Ottawa says 'stay tuned'",
+      "summary": "Canada's newly released AI strategy contains no reference to copyright, prompting concern among rights holders and observers, with the government indicating that guidance on the issue is forthcoming.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObVVRMGpybGRCN1VFYXEwd2FCSVZLTXJNeEQ1R0tmUGZkeDZsUUhkUmJEdnhZSlAtdzBjMEdLTWJBRE9LcmpiS0VCNGFHeXpTWmIzVmdaTFZGaGZOeDd3eHhob2ljekxkV25HMC1OdzZ1WFlzZDVPT3ZLdGpJMUN6NUFvalRaZzFWYVQ0SFlZOVA2bG5kaEVtNTlHSzRsQlVMQ3NoM2ctbWc3amxMTFdGMVM1ZU1WNzE3ZkNvMlRn",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Navigating AI Liability Under the Revised NO FAKES Act",
+      "summary": "An analysis of the revised NO FAKES Act examines how the proposed US legislation would allocate liability for AI-generated synthetic likenesses of individuals, with implications for both AI developers and rights holders.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ2dOcklfb3pfNjhhQy0zVk11aGltb3NEeHBpR0UzejIyczV6Tmk4Q3lnY1ZuN3ZYMV84NDg0NndFb2xrQjcyZlc0SmxMb1Y3QnhIYjAwRVRVMG13dE1ac3NwdFFHaVpLLWtEZlI0Z09yYnZrX1VKeGtqTmcwSzg0VjVB",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Who Owns AI? The Global Battle Over Data, Copyright and Sovereignty",
+      "summary": "A broad overview of the international debate over data ownership, copyright, and national sovereignty as governments and rights holders contest the terms on which AI systems are built and deployed.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX0xKYlF3eWt3WXVMdjBEUmNPQ0plVk1zLW9pd0VRQWhVd3FSQ0swM2xWcXJGSjFQUlpWLXpfbHFMQUFlaGtQc0ZGaHkyTlUySkxlLVl5ZjZfaTVQcVF4cDlPUWkxNW9JRnJQM3VoWXZqY2FXNUxxQXAxVkFJa1BHODQyNzNkSVR6RlhfQmY5QmR2aDBROXpYeVF0TVg1LVhoX0RLQ3ozQWZNQWtzY3hqTEhqS1hCbkV5OE9kN24xN0w",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Clear legal 'teeth' in AI copyright policy",
+      "summary": "A commentary calls for enforceable legal mechanisms in AI copyright policy, arguing that voluntary frameworks and guidelines are insufficient to protect rights holders from AI-related infringement.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zTHZBMGsteEFJZ1dwUHU3SXdMUEd2dDJ1MUM2WUJvMlNhRWtuRkNUeWlmSExtWU81QUpLRGJrbjIyY3pSLXM2bE9Rb0xzenk3X1hNdm9fZFVSWlF1Ry16TXQ2STNRWjVSUW5jZXJn",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "ChatGPT can write like us, copy our smiles. Indian copyright law must catch up",
+      "summary": "An opinion piece argues that India's copyright framework is ill-equipped to address AI systems that can replicate individual writing styles and likenesses, calling for legislative modernisation.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMnAzaUtGN084OFpVSWo2WEFoY0RmLUh4X3piYzdQZkZmcW8yNDZaSzNsXzdfYThFT3NOYmZ2cWhreDFicjNPYkNrWDlydGRLNk1MSThuc2kwQ2JleU5UVG5EMGJCcTNWbkhlcklVRTNFaFA3dmpGa2hyQnpBZHlLel81Q0lUTVFrS0w4T3duT3lDdWk2Q2dLT0paMWhLSGFqLUR0ZE43VmtKeG1hUGZ1ZEY1TQ",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "AI and the future of IP law",
+      "summary": "A discussion of how artificial intelligence is reshaping intellectual property law, covering emerging questions around authorship, ownership, and enforcement as AI-generated content becomes more prevalent.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT0p1aDZJeVVwYTFEYnZ0eGlZVGhrcm9JOWRNMkdaM3VpNnRlVFY3NzhGTi1xbUQ4NEw2emRFU0NhSjVRV1dlTVFwT3UtREFId2FCUGNZRlR6c3AyWG1Rc2VYYk02VUJvRkhGQ0ZzUDJsYlNQdGdUQXRRYll1ejdPT3ZFT3lnRnpRaDN3MHZZWDhvR3dGRGlOeFcwNlh2aWxfQ2w2UA",
+      "topics": ["AI copyright", "policy", "licensing"]
+    }
+  ]
+}
