@@ -1,0 +1,101 @@
+{
+  "top_stories": [
+    {
+      "title": "Anthropic releases its first Mythos-class model Claude Fable",
+      "summary": "Anthropic has released Claude Fable, its first model in the new Mythos class, representing a significant step up in capability. A separate 'safe' version is also available for general users, while cyber partners receive access to an upgraded Mythos tier. The release marks a major product milestone for Anthropic in the competitive large language model market.",
+      "url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
+      "topics": ["large language models", "generative AI", "Anthropic"]
+    },
+    {
+      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+      "summary": "Microsoft AI chief Mustafa Suleiman publicly criticised Anthropic for what he described as treating their Claude model as if it were conscious, raising questions about AI ethics and corporate responsibility. Suleiman separately walked back earlier comments suggesting AI would take over white-collar work. The episode highlights growing tensions around how AI companies communicate about their models' nature and capabilities.",
+      "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleiman-anthropic-claude-conscious",
+      "topics": ["AI ethics", "large language models", "Microsoft"]
+    },
+    {
+      "title": "German ruling declares Google liable for false answers in AI Overviews",
+      "summary": "A landmark German court ruling has found that Google's AI Overviews feature constitutes Google's own speech, making the company legally liable for false or misleading answers it generates. The decision could have significant implications for how AI-generated search results are treated under defamation and misinformation law across Europe. It represents one of the first major legal rulings directly targeting AI-generated search content.",
+      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "topics": ["AI search", "legal", "AI governance"]
+    },
+    {
+      "title": "Judge Learns Both Sides Used AI, Cancels Trial, Kicks Everyone Off the Case",
+      "summary": "A judge cancelled a trial and removed all lawyers from the case after discovering that attorneys on both sides had used AI tools in their legal filings, raising serious concerns about accuracy and professional conduct. The incident underscores growing judicial alarm about the use of generative AI in legal proceedings. It follows a series of high-profile cases where AI-generated citations and errors have drawn court sanctions.",
+      "url": "https://www.404media.co/judge-learns-lawyers-on-both-sides-of-case-used-ai-cancels-trial-kicks-everyone-off-the-case/",
+      "topics": ["legal", "generative AI", "AI ethics"]
+    },
+    {
+      "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+      "summary": "Google DeepMind has announced Gemini 3.5 Live Translate, a new voice translation capability designed to produce fluid, natural-sounding real-time translations. The feature is powered by the Gemini 3.5 model and aims to remove language barriers in live conversations. The announcement comes from Google DeepMind's official blog, positioning it as a significant advance in AI-driven language translation.",
+      "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+      "topics": ["language translation", "large language models", "Google"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+      "summary": "Google DeepMind has released Gemma 4 12B, a new open multimodal model that processes text and images without a separate encoder, aimed at researchers and developers.",
+      "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+      "topics": ["large language models", "generative AI", "Google"]
+    },
+    {
+      "title": "AI misidentification results in wrongful arrest; man seeks justice",
+      "summary": "A man is seeking justice after being wrongfully arrested due to an AI facial recognition misidentification, highlighting ongoing concerns about bias and reliability in AI-powered law enforcement tools.",
+      "url": "https://www.wsoctv.com/news/local/ai-misidentification-results-wrongful-arrest-man-seeks-justice/I7UQJWV33FBN3LMKHCSXI6FIVA/",
+      "topics": ["AI ethics", "bias", "technology ethics"]
+    },
+    {
+      "title": "Apple's AI promises are finally, almost, sort of here",
+      "summary": "Apple's long-anticipated AI features, branded as Apple Intelligence, are beginning to roll out in iOS 27 ahead of WWDC, though the company's ambitions remain only partially realised so far.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here",
+      "topics": ["AI personal assistant", "generative AI", "consumer technology"]
+    },
+    {
+      "title": "How engineers at Nextdoor use Codex to build without limits",
+      "summary": "OpenAI's official blog details how Nextdoor engineers are using OpenAI Codex to accelerate software development and expand what their teams can build.",
+      "url": "https://openai.com/index/nextdoor",
+      "topics": ["AI coding tools", "generative AI", "OpenAI"]
+    },
+    {
+      "title": "'Sloppenheimer:' Amazon employees mock the company's AI on Slack",
+      "summary": "Internal Slack messages reveal Amazon employees mocking the quality of the company's own AI outputs, dubbing poor-quality AI-generated content 'Sloppenheimer' in a sign of internal scepticism.",
+      "url": "https://www.404media.co/sloppenheimer-amazon-employees-mock-the-companys-ai-on-slack/",
+      "topics": ["generative AI", "AI industry", "business"]
+    },
+    {
+      "title": "Apple's best AI idea looks a lot like vibe coding",
+      "summary": "Apple's new Shortcuts-based AI feature in iOS 27 allows users to automate tasks using natural language in a way that resembles the emerging 'vibe coding' trend.",
+      "url": "https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code",
+      "topics": ["AI coding tools", "AI personal assistant", "consumer technology"]
+    },
+    {
+      "title": "Learning to lead in a hybrid human-AI enterprise [Metered]",
+      "summary": "MIT Technology Review examines the leadership challenges facing executives as organisations increasingly integrate AI into workflows alongside human workers.",
+      "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "topics": ["AI industry", "business", "AI governance"]
+    },
+    {
+      "title": "AI use is behind a boom in solo founders, Nasdaq finds",
+      "summary": "Nasdaq research finds that AI tools are driving a significant rise in solo business formation, with one-person startups increasing across the US as founders use AI to replace traditional team functions.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Za3Q2N0hCZVRJZU5CN2dQVlozdzdwSXVrSTRJOWxUdFZIeDRGUE0tNE52YlNCN3hnMFd4bi1ERHlaNW5NR2dvZm13c2VHNk1HejZCV2Exb2tZVjVYNzF0aHV6NXZaTzV3YmFaX2FoZEZLc0E?oc=5",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "Where is the AI jobs crisis?",
+      "summary": "Apollo Research examines why the widely predicted wave of AI-driven job displacement has not yet materialised in employment data, despite rapid advances in AI capabilities.",
+      "url": "https://www.apollo.com/wealth/the-daily-spark/where-is-the-ai-jobs-crisis",
+      "topics": ["AI industry", "business", "large language models"]
+    },
+    {
+      "title": "Apple's AI pitch will live or die by its privacy promise",
+      "summary": "Apple's differentiated AI strategy hinges on its Private Cloud Compute architecture, which processes sensitive requests off-device in a privacy-preserving way — a promise that will be critical to user trust.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc",
+      "topics": ["AI personal assistant", "AI infrastructure", "technology ethics"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "What it feels like to work with Mythos",
+    "summary": "Ethan Mollick shares his hands-on experience working with Anthropic's new Mythos-class model, exploring what it feels like to collaborate with a significantly more capable AI system. He reflects on how the increased capability changes the nature of human-AI interaction and what it signals for the near future of AI-assisted work.",
+    "url": "https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos"
+  }
+}
