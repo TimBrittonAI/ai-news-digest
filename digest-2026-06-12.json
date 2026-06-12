@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "summary": "Google DeepMind has raised concerns about the emergent risks that could arise when millions of AI agents begin interacting with each other at scale. The research highlights complex coordination and safety challenges that current frameworks may not be equipped to handle. The piece explores what oversight mechanisms might be needed as agentic AI systems proliferate.",
+      "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+      "topics": ["AI safety", "AI agents", "Google DeepMind"]
+    },
+    {
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "summary": "Anthropic has issued an apology after it emerged that its Claude Fable model contained hidden content restrictions that were not disclosed to users. The undisclosed guardrails prevented the model from answering certain questions, including basic biology queries, sparking criticism over transparency. The incident raises broader questions about AI content policy and user trust.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "topics": ["AI ethics", "content policy", "large language models"]
+    },
+    {
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "summary": "Spanish banking group BBVA has announced a deep partnership with OpenAI to integrate AI across its core banking operations. The deal positions AI as central to the bank's products and internal workflows rather than a peripheral tool. The announcement is one of the most significant enterprise AI commitments from a major financial institution to date.",
+      "url": "https://openai.com/index/bbva",
+      "topics": ["OpenAI", "generative AI", "AI industry"]
+    },
+    {
+      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "summary": "A new lawsuit alleges that xAI dismissed an engineer after they raised internal safety concerns about the Grok AI system. The case adds to ongoing scrutiny of xAI's approach to AI safety and governance. It follows separate reporting that Grok has continued to host sexualised deepfakes of women despite public attention on the issue.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRUxlVG1tT2ZVcTBpZ3VHWnB2dnBIbkZoU0V4ekhhS1dHYWFXYUtsajFmSVNCSUh5WHp3TndMMEF6VmNqQlVTaktZZ1dXYl9rOWYtWjBRMW5Oa0Ywa3FJWnlZcU44NlJnSFhMT29yU05qRzRDdm1kRjNjcXplNVBSX2dkVXJ3alZoQ0ZvOG10MHo4U0VMVUx5Z3lLZmxnY05zV0pfTVRtT0Z4SUJ2dnpkeA?oc=5",
+      "topics": ["AI safety", "AI ethics", "technology ethics"]
+    },
+    {
+      "title": "Meet the OpenAI Engineer Leading ChatGPT's Biggest Transformation Yet",
+      "summary": "Wired profiles Tibo Sottiaux, the OpenAI engineer heading up the development of Codex and what the publication describes as ChatGPT's most significant evolution to date. The interview covers how AI coding tools are being repositioned as autonomous agents rather than assistants. Sottiaux outlines OpenAI's vision for how Codex will change software development workflows.",
+      "url": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
+      "topics": ["OpenAI", "AI coding tools", "chatgpt"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+      "summary": "A Business Insider report finds employees are spending more than six hours weekly monitoring and correcting AI outputs — a phenomenon dubbed 'botsitting' — leading to growing frustration and concerns that AI is adding workload rather than reducing it.",
+      "url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
+      "topics": ["AI industry", "generative AI", "business"]
+    },
+    {
+      "title": "OpenAI to acquire Ona",
+      "summary": "OpenAI has announced the acquisition of Ona, continuing its expansion through targeted acquisitions to bolster its product and research capabilities.",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "topics": ["OpenAI", "AI industry"]
+    },
+    {
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "summary": "OpenAI has announced that its models, including Codex, will be accessible through Oracle Cloud Infrastructure, allowing enterprise customers to apply existing Oracle cloud spend to OpenAI services.",
+      "url": "https://openai.com/index/openai-on-oracle-cloud",
+      "topics": ["OpenAI", "AI infrastructure", "AI compute"]
+    },
+    {
+      "title": "Grok Is Still Hosting Sexualized Deepfakes of Famous Women",
+      "summary": "Wired reports that xAI's Grok platform continues to generate and host sexualised AI-generated images of well-known women, despite previous public attention on the problem and apparent inaction by the company. [Metered]",
+      "url": "https://www.wired.com/story/grok-is-still-hosting-sexualized-deepfakes-of-famous-women/",
+      "topics": ["AI ethics", "content policy", "technology ethics"]
+    },
+    {
+      "title": "Supporting Europe's work in ensuring a trustworthy AI ecosystem",
+      "summary": "OpenAI has published a post outlining its support for the EU's efforts to build a trustworthy AI framework, detailing the company's commitments and engagement with European policymakers.",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "topics": ["AI governance", "OpenAI", "AI regulation"]
+    },
+    {
+      "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
+      "summary": "Microsoft has internally restricted employee use of Anthropic's Claude Fable model, citing concerns about the model's data retention practices.",
+      "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+      "topics": ["Microsoft", "large language models", "AI governance"]
+    },
+    {
+      "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+      "summary": "The Verge examines the unusual political coalitions forming around AI regulation ahead of the 2026 US midterms, as tech companies, civil society groups, and legislators with conflicting interests converge on the issue.",
+      "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+      "topics": ["AI governance", "AI regulation", "AI industry"]
+    },
+    {
+      "title": "Amazon's data centers used 2.5 billion gallons of water last year",
+      "summary": "Amazon has disclosed that its data centres consumed 2.5 billion gallons of water in 2025, raising environmental concerns as AI-driven demand for compute infrastructure continues to grow.",
+      "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    },
+    {
+      "title": "Deezer launches an AI music detector for other streaming services",
+      "summary": "Deezer has unveiled an AI-powered tool capable of detecting AI-generated music, which it is making available to other streaming platforms in an effort to help the industry distinguish between human-created and machine-generated content.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+      "topics": ["AI detection", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Why AI hasn't replaced software engineers, and won't",
+      "summary": "An analysis from Normal Tech argues that despite rapid advances in AI coding tools, structural and organisational factors mean software engineers are unlikely to be displaced, with AI instead reshaping the nature of engineering work.",
+      "url": "https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers",
+      "topics": ["AI coding tools", "large language models", "AI industry"]
+    }
+  ],
+  "ethan_mollick": null
+}
