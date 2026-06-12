@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "3rd Circuit Mulls Fair-Use Defense in Westlaw's Copyright Suit Against AI Startup",
+      "summary": "The Third Circuit Court of Appeals is examining whether an AI startup's use of scraped Westlaw legal data qualifies as fair use. The case raises significant questions about the transformative use doctrine as applied to AI training on proprietary legal datasets. A parallel article reports the AI company argued its use was transformative in nature.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT2RJMW05VWdjRFRfMFdxNVNucVVyUUxrZkYxcGFsbWRUWUpNYlFHVW1xMWZFYU1lVU5yaFpvc3cwYkRnUVRMODJBTlh5RUoxODVNcm1qS0VsU3doQVR6cEhzS3BEZFpsNE9MOHF4S2F0S01WVlZjcGFaeVAxRlNqUWZGdmdneU5Ud014clROdlVVUVduMXRjVXJlTzc5cmVxSWpYMkFOaF9CRklIZVVnZ2MySDB6MjVJUGVwdG80QXJoNlFMWW1nUldGYw?oc=5",
+      "topics": ["AI copyright", "litigation", "fair use"]
+    },
+    {
+      "title": "Google cites YouTube terms in AI music copyright lawsuit",
+      "summary": "Google is arguing that independent artists consented to AI training on their music by agreeing to YouTube's terms of service when uploading content. The case involves Google's Lyria AI model and has prompted a class action lawsuit from indie artists alleging copyright infringement and unauthorised training. The outcome could have broad implications for platform ToS as a defence against AI training claims.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSHBYMk42QVgtSncyeEVwZkNOWVUxMDVwT21GdzlGbV96RmU3RC1QYkgtZmo3VmszNy16S25CZmN5S3pnRGFSTU1YSkJGa3pYSVN3TXBScHJJNVlzV3REaFNxMFNnYnNsVkR1a3M4YkZvM0k0blVON0lLa2U0OEppSjUtUERhY1drSDBuRzRrbnFzWFgxNElEMA?oc=5",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "Meta Fails to Escape Porn Maker's AI-Training Copyright Lawsuit",
+      "summary": "A court has declined to dismiss a copyright lawsuit brought by an adult content producer against Meta over the use of its content for AI training. The ruling allows the case to proceed, adding to the growing body of litigation challenging tech companies' AI training practices under copyright law.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd0tGWkVTeHFSYXJ1UzZ2dDZSb3A1UEt2T2hTSzVfZG8zMGdJRXYxUlVtSnRUYmVqdVpUeEZkbTdYUjV4d2JvdEwzcHktX1R1MHROdGVPWUJvT3pzcjY2QXF0LW81NnJrNmxYZFlVdzJEd3VoMDdHQVFaNUFJWHlvUngySl8tbVZMbmxkZTFZTEZaT2ctRDl5dUt4cjdEc2xRYTlvMVZBMA?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "First AI Copyright Appeal's Reach Hinges on Market Impact Issue",
+      "summary": "The first AI copyright appeal is centring on the question of market impact, a key factor in fair use analysis, which could determine how broadly the ruling applies to future AI training cases. The outcome is expected to set significant precedent for how courts assess economic harm to rights holders from AI training.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa1J0c1A1d0NZaElYZlJlV1ltUklsRjNnX3owUnRxa2VqSzNQN1Z0LTQ4OHdESFhtYWRDNWZKTlBGV0V0V1ZaejF3MzdYaG1na3k0S3daeU44bThQeUtTMl9FNThFTnBmcHlFS215bnNCRWNOTUNrbEdWMHRPNnhnT3pvNlU4ZlBJZjhId3l2Rl9CdlN1VExvSDJCd1pqeUZKMmxqNS1uTEpsZExZa2NqNXA2SlE?oc=5",
+      "topics": ["AI copyright", "litigation", "fair use"]
+    },
+    {
+      "title": "Beijing International Book Fair to Focus on AI, IP Licensing [Metered]",
+      "summary": "The Beijing International Book Fair has announced that AI and IP licensing will be a central focus of this year's event, reflecting the growing importance of these issues to the global publishing industry. The fair is expected to bring together publishers and rights holders to discuss frameworks for licensing content to AI developers.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/trade-shows/article/100610-beijing-international-book-fair-to-focus-on-ai-and-ip-licensing.html",
+      "topics": ["licensing", "academic publishing", "AI copyright"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "SACEM renews call for French AI copyright bill",
+      "summary": "French music rights society SACEM has renewed its push for dedicated legislation in France to protect copyright holders from unauthorised AI training on their works.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORE00NG9wVmtfSG9FWDIwYUhRdFcweWo1MnZ2LTlLUk9lUDR3Z3JWaHRRNTBVVWVwOHJ2T25GVERHZjQ0RFItTndUUWliWC0xcFBXLTFEa3ExNHNHWHBHS2FRVXRvOXM2X1FpX1AwejM4ZGNNbzJYUThWNVdaNEhTMTF0bjBEZlF6?oc=5",
+      "topics": ["AI copyright", "policy", "eu law"]
+    },
+    {
+      "title": "You Think Your AI Content Is Protected. The Supreme Court Disagrees",
+      "summary": "An analysis of how US Supreme Court jurisprudence limits copyright protection for AI-generated content, leaving creators with less IP protection than many assume.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRW5zazlBMkpHSnJxTVZEdW1uM2dhUVVGNlBrYmc0MFhHXzJuQk5OR0lsN1pRWVN3R1R6QlNPMnQ0aVZNMFlhUk5NVUN0NVJDcHY1WTFfZUJoUDFsUjRPSEZJb2d2QzBaQ2RKUjhHRGpnQlBwRFFjSl81RElIOG1KUHJBRDZJc3U3RWFzT0RpRHl3YzJoSTBuTVhDUHNNbjlyejhWYWdIZjNyRmsyYlJaOXNRRU9ON28yMzdqS2t3?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Paul Deegan: 'AI for All' must protect Canadian journalism copyright",
+      "summary": "News Media Canada CEO Paul Deegan argues that any Canadian AI policy framework must include robust protections for journalism copyright to prevent uncompensated use of news content in AI training.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LYS01Sm5aOUUyclZ2MTVsalAtVWI2aWVfaUhpWGY2cWJJRl9tY1NEb0ZXR25KanNRVkozX0xyVG1wa0Ztd29nRWtSS2Y2Q21TdFhjbXlDdm5wVFZOa05tY0ZNa1o?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "How Brands Are Managing Intellectual Property in the Age of AI",
+      "summary": "An overview of strategies brands are adopting to protect and manage their intellectual property as AI tools increasingly interact with, reproduce, and generate brand-related content.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRVBab2xfeE5vSDlqTUswTjR5THpyejczejVCR0tYeUg1c0R4SDI5MVdWVXRtWlE4bmRiSmZhVHNnSlRqYXJKUUZ3Mlg0TmlGWG5OQjh3UU5MT2N5bkVNdk9Ca0hadGJFandjZjRRZlNtallubHJJUHdkUkNCQWZ4NjcwUEgyaHN3QlB0VFY3OEZ3ZXJPWExOTjRQREc4NzRwOVBGMU85TzVINEliMkxQakFRVzY?oc=5",
+      "topics": ["AI copyright", "licensing"]
+    },
+    {
+      "title": "Wolters Kluwer expands its Libra AI workspace with authoritative Swiss legal content from leading publisher Stämpfli",
+      "summary": "Wolters Kluwer has announced a content licensing agreement with Swiss legal publisher Stämpfli to integrate its authoritative legal texts into the Libra AI legal workspace platform.",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZ3liRENqV0x5SW80anBHbFE3aEpBejRJTlFXaE5kdjNvbXlCYmJ1REVucHpTVG8xYWptUUR0V2Jic1d3R3ZlY1Funcm5SYXF6ajE3NkdvUk9UbXRTOFluSWJlX2tQajZ3Q25JZnVhaERWQzBSa1E4YzlvZ1dEUTZGTHNSTzFNR0VXdTVzV1dGcWowZkU0UkFzaGxaNHFNWG9QQTJMaDBacDdKaGFrWUV0bndQMEs2OG9yNldUdW95c3pHeF80T2xVQkRzMXctZzAtQkdGZWZ6U05YTDhod3JCZWVmS25JSE13?oc=5",
+      "topics": ["licensing", "legal services", "AI tools"]
+    },
+    {
+      "title": "Artists need visibility, but not at the cost of control",
+      "summary": "A commentary piece examining the tension between artists seeking online visibility and maintaining control over how their work is used in AI training and distribution.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeXp5NFAyT1ktbW9YVXBQbVRuS3N3OW15MjNKYzg4YkZlYjlPb0Zwa2tHczRnYlExdUtZeTJ6OEJNeE5oR2Y0TG5wTXRjSkM4UXpYdUExNUU3Nk9IWW44cHd2RDBpNHZhbGJMWGlJTkxhdngzUktHNC1YcEhWZnJveHFlTUxTZTdXdjJqZFRKZ3lpTnpnVWt1NGJtV3dZT2NjVmc?oc=5",
+      "topics": ["AI copyright", "licensing"]
+    },
+    {
+      "title": "German court find Google responsible for AI overview errors",
+      "summary": "A German court has ruled that Google can be held liable for inaccurate information generated and displayed in its AI Overview search feature.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSkJXWXQtSVdWRFhOdzNCNV9sR3B4anpEbG94cElPOTR1TF82MHd3WEVkelRmLXg1a3JiS0ZJVnQyT2hIU2d2Y3ZvWTFQZFZ4b21PMk42QU5pSDc0ZU90Z0k0Q1FNRDRoeWlIQmlpWkZ2eXNjQUtOeFhPOE5vQzh0SGlNUjNYQUZvbVR6R0dR?oc=5",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "Can Bangladesh's copyright law keep up with AI?",
+      "summary": "An examination of whether Bangladesh's existing copyright framework is equipped to address the challenges posed by generative AI and AI training on locally produced creative works.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd1NzWGxmWE5mLTJpNkphZVJVX01BYlByeU1nWThVXzhmSHFQVUJ0TXJLa1FVREtKLXdEOTdZQkNldGswUl85bjB5dmJ1RGdOY1VfMEhGQ01WNXpzVTJhQlBqb3g2TDFVTWxkb29uUzZlcURqSl9xMzdaMm1YbjhBUlkxazVURGRZZmRkaElCZndPelFuSExFZw?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Guest Post — Fixing the Leaky Metadata Pipeline: A Conversation with the Creator of Research Nexus Score",
+      "summary": "The Scholarly Kitchen publishes a conversation about improving metadata infrastructure in academic publishing, which underpins rights management and licensing workflows for AI-era content discovery.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/06/11/guest-post-fixing-the-leaky-metadata-pipeline-a-conversation-with-the-creator-of-research-nexus-score/",
+      "topics": ["academic publishing", "licensing"]
+    },
+    {
+      "title": "AI In the Public Interest: Authorship & Copyright in the Age of AI",
+      "summary": "A policy-focused discussion on how authorship and copyright doctrines should adapt to address the challenges raised by generative AI systems.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQT1JxVmRXZXp6NGJZQTBOai1SUGYxQzBvVTVXYWFadWdXc1JMdFlGaVNLeGphTXEtaldZNGRfRllHZ2UtcXVCU1U3aVF6RlFUR2h5a08xZEpVT0dEVjhrcmp0SWd5bkNyalZSektQLWFZVW5FMDR2UkZLbTViQXBwQ0RkUQ?oc=5",
+      "topics": ["AI copyright", "policy"]
+    }
+  ]
+}
