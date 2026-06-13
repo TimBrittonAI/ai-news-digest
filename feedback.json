@@ -18,7 +18,7 @@
     "language translation": 1,
     "academic publishing": 3,
     "copyright": 1,
-    "generative ai": 4,
+    "generative ai": 5,
     "fair use": 1,
     "acquisitions": -1,
     "advertising": 3,
@@ -44,6 +44,8 @@
     "ai compute": 2,
     "ai industry": 3,
     "ai personal assistant": 1,
-    "microsoft": 1
+    "microsoft": 1,
+    "ai regulation": 1,
+    "anthropic": 1
   }
 }
