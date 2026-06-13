@@ -1,0 +1,84 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Google Claims YouTube ToS Enables It to Train AI in Uploaded Music: New Artists Lawsuit",
+      "summary": "Independent artists have filed a class action lawsuit against Google alleging copyright infringement through unauthorised use of YouTube content to train its Lyria AI music models. Google is defending its position by arguing that YouTube's Terms of Service grant it the right to use uploaded content for AI training. The case raises significant questions about whether platform terms of service can override copyright protections for creators.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbTE0a3c0M1FKOEN6TWV3d2NsaVhNX0dpRWgxeG40S04xQUtlamlfT1J4SWRLZTlkaUJQNW9pVVQ5M0EzVUFOc1FhSjNVTXNKcXg2N25VdklPLWZvRDVUSFpVRkJLa0htX01xV095SDMwVGp6NUdJclVOLUpnYnEwNmZSdVc0UFdsRFM0SWtFM1VucG5NSDVNTEdrS0dvZF8zRUJ3dmxXSjZBeXp2TkFMMQ?oc=5",
+      "topics": ["AI copyright", "music", "litigation"]
+    },
+    {
+      "title": "AI company argues its use of scraped Westlaw legal data was transformative",
+      "summary": "An AI company has argued in court that its scraping and use of Westlaw legal data for AI training constitutes transformative use and therefore does not infringe copyright. The case is being closely watched as a key test of how fair use and transformative use doctrines apply to AI training on proprietary databases. The outcome could have broad implications for the legal data and AI industries.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONXFqcHBRbk5pdXgwNWdmQUZUZ2ZfcC1JSVE4N0hjaGJQOExSLTFQbXZuQW4tNXMtM2pkdUtBeTNaMmlPVWlaSDE3Z3BXcERXaW95anc5dF8zU2twdWFWeVhoY1NZU1VseWZwckpsTjF4cEkxdWJFdTdCX2N3WWl5RkhaNG96UUo2LUx3aG9VQVNPWjdDUGRTVlNkNjM4Wi0yaUNfSHN6SVVXUQ?oc=5",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "Meta will face US claims of pirating pornographic content for AI",
+      "summary": "A US court has ruled that Meta must face claims that it pirated pornographic content for use in training its AI systems. The case adds to the growing volume of copyright litigation targeting major AI developers over their training data practices.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNlBrUVk3QmpWb19WX3U2V29fWlg0SkFUZ2NQYldIbHRSRzNmQTZoZkF6eHE3STVDV0RaQ0RKUmlpc0hfMGxwWll4WncxWFQ0WllxREMwcVI5OHgyLTNOUWJCLUstTmxFZFdnYy01alZ5UEl2WTd5RW5XV0diMFVGcXZBa3pnSFNiRWU5SU03allxbFcyMzk5MDk1MVJmeExaUzNVLXZTR2NZN241dVNEVEZSMHV3c3JuQXE1VnNwUlpxTDhzdGZwV0dEONIBWkFVX3lxTE5RVHZ6TlZ6ck9xc2hBQzVvQVhVdXg5cnZHRnhENVd5YXVISkNuSWlGQUJUN010M3BzTmdWdi1WNlM3dGJUUy1IeFl1S0VJRWFLeFZOV0toM3FPdw?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Japan to Draw Up Rules to Protect Intellectual Property in AI Age",
+      "summary": "Japan has announced plans to develop new rules to protect intellectual property in the context of AI development and use. The move signals a shift in Japan's regulatory approach, which had previously been regarded as permissive towards AI training on copyrighted material.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM0dteXVZQV9aMXFJdlNNclBWMW9EYmFjYUU3ZGlvbnBST2F0bGN1QnQtWjNMOTk3c2NZbktwclp6Y013MlAxWkI3T18tRnFGZk0yRkVUNjVBZDFjWlQ0NlRsM0taVFA0N3RIeUstNEplTHhqT0hySmVhY1M1N1hMbzJ6bTgxMnNBUm9YWjhCenNxU2poT21WZlZVcGI3dVRGNGN0U3E3TnpXejVEWHdLM1NNNkFMQkhxd3c?oc=5",
+      "topics": ["policy", "AI copyright", "licensing"]
+    },
+    {
+      "title": "'Fake AI Album Scam Made Me Realise We Need Stronger Copyright Laws': Award-Winning Artist Emily Portman",
+      "summary": "Award-winning folk artist Emily Portman has spoken out after discovering a fake AI-generated album was being distributed under her name, calling for stronger copyright protections for musicians. Her case illustrates the practical harms artists face from AI-generated content and identity misappropriation. Portman argues that existing copyright laws are insufficient to protect creators in the current AI landscape.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWVZBYzJ5TzU0YjB3WGpYY1pfRjVSa3l2eElETFBqQW16Y1JLTTBKZkVVcllvYXJsUFRoMjMyYXVGc2JuaGluLWJBZzJhdC1xRkk5MDNUNTRsaEhFaE1ORFdWbnJqSmw0WXBILWlHTFZuNGlYdUtETjY4WWE5T0FGQlpmQjFucW1Yb0ltX3hzdmpIZ0RQamYtQjZMTzg5QWpTb1BxX2RNYW52aUFOS0MzTjFyOHgzd1pVOGVBRUoyWkVJVThsMjItZnppdw?oc=5",
+      "topics": ["AI copyright", "music", "policy"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "UK Forces Google to Change Course on AI News Summaries in Historic Decision Backing Independent Publishers",
+      "summary": "The UK has compelled Google to alter how its AI-generated news summaries operate, in a decision described as a landmark win for independent publishers.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVGZyVWkxY1E1OXYweDJadDE1endoRUoyXzhPM0REY3ZjN2dCVE12blhudVlVN196Y0NtU3V1cGdCMGJNZFRXWjNPSHlsakVfa0kxQ0FqcHFIeURhblBCdHdVOThiRUVWTnVWS18xZFJCZEJiZlNBalBYdXRkTGNLSA?oc=5",
+      "topics": ["AI copyright", "publishing", "policy"]
+    },
+    {
+      "title": "Paul Deegan: 'AI for All' must protect Canadian journalism copyright",
+      "summary": "News Media Canada's Paul Deegan argues that Canada's AI strategy must include robust copyright protections for journalism to prevent further erosion of the news industry's economic base.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tTm4yMDNWcHVNYVpicDJXSUdpdno3MlVoZzJUTF9wRFRIT0hoQnVsZlFYQVFiLXBzTGp1SFV2c21yNXkxLW1FNFMwbmJ0NFNsNTdkSENlLUNMS25Wa2R5V3c0RHVzWWZ3dUVKV2F5VHBtXzZyX2dB?oc=5",
+      "topics": ["AI copyright", "policy", "publishing"]
+    },
+    {
+      "title": "German court find Google responsible for AI overview errors",
+      "summary": "A German court has ruled Google liable for factually incorrect answers generated by its AI Overview feature, with implications for AI accountability and publisher rights.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSkJXWXQtSVdWRFhOdzNCNV9sR3B4anpEbG94cElPOTR1TF82MHd3WEVkelRmLXg1a3JiS2ZJVnQyT2hIU2d2Y3ZvWTFQZFZ4b21PMk42QU5pSDc0ZU90Z0k0Q1FNRDRoeWlIQmlpWkZ2eXNjQUtOeFhPOE5vQzh0SGlNUjNYQUZvbVR6R0dR?oc=5",
+      "topics": ["AI liability", "policy", "publishing"]
+    },
+    {
+      "title": "How a small Canadian publisher is resisting the AI book wave",
+      "summary": "A small Canadian publisher describes its editorial and ethical stance against AI-generated content and the practical steps it is taking to protect the integrity of its catalogue.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeUlqVkVhUGdCVjE5aTNqZnlFSTZJVEtDc24tTkhrazVjSHpiQjVHTUZ5SWtDRnZMc2NKcW9vMlYyTEZIWjBFUGc0eGp2MlZpME5wZzVGN0xNbGxVZzhoVUttbWoyVFdDdXFkd0Q3OXV4S0dWU2pkUVNJSFVaY3Vna0t0NU56M1BmN1o2anRBQQ?oc=5",
+      "topics": ["publishing", "AI copyright"]
+    },
+    {
+      "title": "Rockefeller University Press Collaborates with Cashmere to Enhance Responsible AI Discoverability",
+      "summary": "Rockefeller University Press has partnered with Cashmere to improve how its content is discovered and used responsibly by AI systems, signalling growing interest in licensing frameworks for academic publishers.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbTNMcGNmR1Y4dnVFMEkxeW9jUFVvUmZZM3hrLU9GTDdCOWZqV2k5ZW81c2hIUDZvbGs1bDJpLUh2akowUnoxYXZsYzhvVXBqa1hBQkVpZGJjMkZYdGl5MzdTU1luVndiMlYxQ2RoMW5MRDRVNThybjZMYXA2SEN3UHU1bEZSWnJKWW5MazNMdG52ZFphejg3cU5TZ2hfM0YybFJZbWgwTkFaZVhheW45MHk2d3FudmM0NC1abV9XUQ?oc=5",
+      "topics": ["licensing", "academic publishing", "AI tools"]
+    },
+    {
+      "title": "Copyright body hires PR agency to 'capitalise on AI opportunities'",
+      "summary": "A copyright body has engaged a PR agency to help it position itself to take advantage of commercial opportunities arising from AI, raising questions about the priorities of rights organisations in the current landscape.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcVN6T0E0T2lfYk1sdlkteVBnaFhBbTFHSEZPMzltVUhvSzdqSUpkQ3JJTG5WNm85cWtvTlFOVGNhcG9yX0NMemx1cGstaHg0R0FNR0Fwb1k4NlRVcGF0MFpMN3dHbURTd2xReVVjdk1tblo1bkRlQjdoaFBhQ3RwclRoc3lpR1lwb0c3RjNDNktER3FDcVdSLVVfSi1lekNn?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "[Guest post] Can performers' rights be bought out at all? Brazil's new Dance Professionals Act revives a 1978 assignment ban for the streaming age",
+      "summary": "IPKat examines Brazil's new Dance Professionals Act, which revives a decades-old prohibition on the assignment of performers' rights and its implications for streaming and AI-era content exploitation.",
+      "url": "http://ipkitten.blogspot.com/2026/06/guest-post-can-performers-rights-be.html",
+      "topics": ["AI copyright", "performers' rights", "policy"]
+    },
+    {
+      "title": "Ask the Community: Takeaways from SSP 2026",
+      "summary": "The Scholarly Kitchen reports on key themes from the Society for Scholarly Publishing 2026 annual meeting, including discussions around AI, licensing, and the future of academic publishing.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/06/12/ask-the-community-takeaways-from-ssp-2026/",
+      "topics": ["academic publishing", "AI tools", "licensing"]
+    }
+  ]
+}
