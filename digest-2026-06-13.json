@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Anthropic Says It's Taking Claude Fable 5 Offline to Comply With US Government Order [Metered]",
+      "summary": "Anthropic has announced it is taking its Claude Fable 5 models offline following an order from the US government. The move raises significant questions about government oversight of AI model deployments and the regulatory environment for AI companies.",
+      "url": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
+      "topics": ["AI regulation", "Anthropic", "generative AI"]
+    },
+    {
+      "title": "Jeff Bezos' AI Startup Aims to Build an 'Artificial General Engineer'",
+      "summary": "Jeff Bezos has backed a new AI startup called Prometheus with the stated goal of building an 'artificial general engineer' — a system capable of performing engineering tasks at a broadly capable level. The announcement signals continued high-profile investment in frontier AI development beyond existing lab incumbents.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+      "topics": ["AI industry", "generative AI", "large language models"]
+    },
+    {
+      "title": "New OpenAI Academy Courses for the Next Era of Work",
+      "summary": "OpenAI has launched a new set of Academy courses designed to help workers apply AI tools in professional settings. The courses are aimed at upskilling individuals across industries as AI becomes more embedded in workplace workflows.",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "topics": ["OpenAI", "AI education", "generative AI"]
+    },
+    {
+      "title": "Forrester Warns OpenAI Could Become AI's BlackBerry, Urges Avoiding Vendor Lock-In",
+      "summary": "Analyst firm Forrester has cautioned that OpenAI risks becoming obsolete like BlackBerry if the AI landscape shifts rapidly, and urges enterprises to avoid deep vendor lock-in with any single AI provider. The warning reflects growing concern among enterprise buyers about long-term strategic risk in AI procurement.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS1FWVGFfcm9ic3M3ZHVnSlNlQXpsTC1ZWDVQM3BLWVFBMVJOSkpTSENEVVY3emxoaHpVVVZuWGxlQVdWV19Pb1plOEJia2NlajQ3TzREZ1ltVlRHQlZyT0hIa3RacFlMWmY0eGZtdk1QR3h0d0dqMUNQakNhUFpCcl9qdTBHRmpmT3ZkQ2h6TW9IZjU4UE0wSk1naGluRXRSVFdfS0FkLTVUWUtBcm9tYVFYWEl5b2M3d3NiT0Z3bw?oc=5",
+      "topics": ["OpenAI", "AI industry", "AI governance"]
+    },
+    {
+      "title": "Meta's New AI Unit Is a Total Mess as Employees Clash With Zuckerberg",
+      "summary": "Internal reporting reveals significant dysfunction within Meta's newly formed AI unit, with employees openly frustrated at Mark Zuckerberg's management approach, including a companywide hackathon mandate that was widely unpopular. The reports paint a picture of cultural and organisational strain as Meta attempts to accelerate its AI ambitions.",
+      "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+      "topics": ["Meta", "AI industry", "leadership"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Rockefeller University Press Collaborates with Cashmere to Enhance Responsible AI Discoverability",
+      "summary": "Rockefeller University Press has partnered with Cashmere to improve how its academic content is discovered and used responsibly by AI systems, reflecting growing engagement between academic publishers and AI infrastructure providers.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcHJud2pRSGZWWDFyMjR4anR0SzByYi0yZlkzTzZWczRLaXMzcTJpLWl6cl83cTFKOWp5WmtoV0hDRExxVnE3T243Q1daLTVjUHkySmtIb3VtbnhHVUdzeWxySGtMVGl0OWVDMXVnLW9ZRlFlX0tacFZWcndsaHVkYktMNWZlLTBRRGJYcVp6aGp5Y2Z3SGhlVVBoMmNnblFsTXRHUTBuNE9KTVJxVnhkQjJRNGVNc1BkZGJPbXNkQQ?oc=5",
+      "topics": ["academic publishing", "AI discoverability", "research integrity"]
+    },
+    {
+      "title": "Claude Overtakes Gemini in South Korea AI App Revenue, Reshapes Market",
+      "summary": "Anthropic's Claude has surpassed Google's Gemini in South Korea by AI app revenue, marking a notable shift in the competitive landscape of consumer AI applications in a major Asian market.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Ebm80REZCS1FIZGh3ZEk1RnVVa3RPZndYRmN6VHd3bHNTYTRtSDVkNHV0NFRoRG5RYktDRlFUSVF3RjBNN1BZOWc3dEdsSVVDdVZVTjBuTjJER1VaNnE3TjFaYVNWaGE3Wk9NUzFGMkVHVVRuQnIzd2V30gGOAUFVX3lxTE1DbThHSGRGN3Bjc2VpNkg1RjVyck9WWGlMMlRGNnpsSUEybDZKbzRjTGxpTk95UUdXOGxZNjJ6Znl1SU1NUkNTTE01eER5VHh0eXd6SXpock5VVmRfV0d3Ukd6Z0pfMGlrcVhvaGlBdG0zUFVOVFRLV2tIWmNUa01pZXlRLVN3ckVoY1B4UEE?oc=5",
+      "topics": ["AI industry", "large language models", "generative AI"]
+    },
+    {
+      "title": "Oracle Wades Into Outcome-Based AI Billing Waters",
+      "summary": "Oracle is exploring outcome-based pricing models for AI services, a shift that could reshape how enterprise customers pay for AI capabilities and signal a broader industry move away from usage-based billing.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZnBfY1ZNOUpxM1dWUm9SVnpfZ2NUZlphdUM3S2xENHdldWhLVmJ4YS1vbk1xY0pLY1RORUdyYWF0aXhDQ0hvSjR0WjJjTnFzdW1DdldWWnBqOUpsNXpDZE5lRHJiSHRhaTgzcjZYT3ppbGh4ZW82MzBncWZWRGRmTFJpUWdVaDNEcWFJdUF5ZzNYWW8t?oc=5",
+      "topics": ["AI industry", "business", "AI infrastructure"]
+    },
+    {
+      "title": "xAI Ships Grok Build Plugin Marketplace With MongoDB, Vercel, Sentry and Others at Launch",
+      "summary": "xAI has launched a plugin marketplace for its Grok platform, partnering with developer tools including MongoDB, Vercel, Sentry, Chrome DevTools, and Cloudflare to expand the ecosystem around its AI assistant.",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMEVtN09hZU05cjJ0Ni1Sdks2VjZGQ0tYTGRvNTQ0NlJVTFJoV3hlMWpzNjd6U2lselBkTWJWVmdoTlNEX1NqbUR0NEdkM3VBTnZ2OHpWWHBjV3RGa0tUR3hrdENtYk5MR280ZGo3c1VGa2dOeGxmNVUxc3lSUlBCSi1GNU5SOHU4VGpTOFg4bVNuS0kwaEFnbEd4QXJNb1FQT29qeWYyV3NLdnNIYVYwWTM1V0F2a2kyeGRHaHI2RFh3MzNNNFpPcjlxSmFDaVdMMksxZmtON3h6RUwybURzbllRZk11X2Y3OExOaldtYW5tQldoTzhzTUR4UGE?oc=5",
+      "topics": ["generative AI", "AI infrastructure", "large language models"]
+    },
+    {
+      "title": "Siri Won't Be Your AI Girlfriend",
+      "summary": "Apple has confirmed that Siri will not be designed to serve as a companion or romantic AI persona, drawing a clear line around the assistant's intended use cases as Apple expands its AI capabilities.",
+      "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "topics": ["AI personal assistant", "AI ethics", "content policy"]
+    },
+    {
+      "title": "How Preply Combines AI and Human Tutors to Personalize Learning",
+      "summary": "OpenAI has published a case study on how language learning platform Preply uses AI alongside human tutors to deliver personalised education experiences, illustrating a hybrid model for AI deployment in EdTech.",
+      "url": "https://openai.com/index/preply",
+      "topics": ["OpenAI", "AI education", "generative AI"]
+    },
+    {
+      "title": "The New Software Stack: How AI Is Changing SaaS, Apps, and Enterprise Workflows",
+      "summary": "A new analysis examines how AI is restructuring the enterprise software stack, displacing traditional SaaS tools and reshaping how businesses build and deploy applications and workflows.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX210RGV5aElmU21fUXUyM3FfUVVsWlZfZC1sN3AxaWdVWXhYWWhnQnByM0JBQ3Q5RHo2T3Q2aWh3UHEwS0FQUEdrQjRkYWtZU0FDbHcwMHdZWlVBLXdmWTB1SmVOcXlzM3JxbmZXRW5xU1FTNHBzZzVWbFdLSWdwa2tfa3pKMnVtcFN1Z0dHWTRMRTdiWTNMTHk0V3hINFVvb2VlejhsSXFqd2RmWk1JWHJ2S0Y0SDliSEHSAboBQVVfeXFMTV9tdERleWhJZlNtX1F1MjNxX1FVbFpWX2QtbDdwMWlnVVl4WFloZ0JwcjNCQUN0OUR6Nk90Nmlod1BxMEtBUFBHa0I0ZGFrWVNBQ2x3MDB3WVpVQS13ZlkwdUplTnF5czNycW5mV0VucVNRUzRwc2c1VmxXS0lncGtrX2t6SjJ1bXBTdWdHR1k0TEU3YlkzTEx5NFd4SDRVb29lZXo4bElxandkZlpNSVhydktGNEg5YkhB?oc=5",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "AI Agent Bankrupted Its Operator While Trying to Scan DN42",
+      "summary": "A blog post describes a cautionary incident in which an autonomous AI agent ran up massive costs by making uncontrolled API calls while attempting to scan a network, highlighting real-world risks of agentic AI systems operating without adequate safeguards.",
+      "url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
+      "topics": ["AI safety", "AI ethics", "large language models"]
+    },
+    {
+      "title": "Shall We Play a Game? My AI Nuclear Simulation",
+      "summary": "A researcher describes using AI models to simulate nuclear deterrence and geopolitical scenarios, exploring what the exercise reveals about AI reasoning, decision-making under uncertainty, and the limits of LLMs in high-stakes contexts.",
+      "url": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+      "topics": ["AI ethics", "defense", "large language models"]
+    },
+    {
+      "title": "eToro Integrates Grok-Powered Real-Time Market Sentiment Into AI Assistant Tori",
+      "summary": "Trading platform eToro has integrated xAI's Grok model into its AI assistant Tori to provide real-time market sentiment analysis, marking a notable deployment of frontier AI in consumer financial services.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ3I1eENIYmJZRHNfWDVSRGRuc2k5THlQcGpTNldlMVRsejY4c3V1eldhRVNmekk5TUQxX3lsWHN3VzR2U185TXdNQjVrdTJoaVd4RFIxRk9QOTV4VllUWGhsREFsV2JzbHJjdTdDazljRVpRQXZtT0FIbXZXSWlQbXIyRFlCbEItdjIxdURBRU9CaEN6eG5HbGpjNjh4NUpLc1NFUmJ4eWM5US0zNmgyOUFFNA?oc=5",
+      "topics": ["generative AI", "AI industry", "business"]
+    }
+  ],
+  "ethan_mollick": null
+}
