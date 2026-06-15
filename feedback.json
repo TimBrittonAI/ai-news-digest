@@ -27,7 +27,7 @@
     "technology ethics": 1,
     "wikipedia": 1,
     "content policy": 1,
-    "ai safety": 2,
+    "ai safety": 3,
     "bias": 1,
     "user interaction": 1,
     "ai ethics": 3,
@@ -35,7 +35,7 @@
     "ai detection": 1,
     "tiktok": 1,
     "leadership": 1,
-    "ai governance": 1,
+    "ai governance": 2,
     "ai coding tools": 1,
     "large language models": 2,
     "ai search": 1,
@@ -46,6 +46,6 @@
     "ai personal assistant": 1,
     "microsoft": 1,
     "ai regulation": 1,
-    "anthropic": 1
+    "anthropic": 2
   }
 }
