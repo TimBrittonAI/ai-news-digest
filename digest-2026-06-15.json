@@ -1,0 +1,67 @@
+{
+  "top_stories": [
+    {
+      "title": "China may have accessed Mythos",
+      "summary": "The Verge reports that China may have gained access to Mythos, an internal Anthropic system. The story raises significant concerns about AI security and the protection of sensitive AI infrastructure from foreign state actors.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+      "topics": ["AI safety", "Anthropic", "AI governance"]
+    },
+    {
+      "title": "Introducing the OpenAI Partner Network",
+      "summary": "OpenAI has launched a formal Partner Network, establishing a structured programme for businesses and developers to collaborate with and build on OpenAI's technology. The announcement signals a significant expansion of OpenAI's commercial ecosystem and go-to-market strategy.",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "topics": ["OpenAI", "AI industry", "business"]
+    },
+    {
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "summary": "KPMG has withdrawn a published report on AI usage after it was found to contain apparent AI-generated hallucinations, undermining the credibility of the findings. The incident highlights the risks of using generative AI in professional research and publishing contexts.",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "topics": ["generative AI", "research integrity", "AI ethics"]
+    },
+    {
+      "title": "Not everyone is using AI for everything",
+      "summary": "Gabriel Weinberg argues that AI adoption is more uneven than headlines suggest, with many people using AI selectively rather than integrating it into all aspects of their work or life. The post draws on consumer research to challenge narratives of universal AI uptake.",
+      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+      "topics": ["AI", "consumer research", "generative AI"]
+    },
+    {
+      "title": "AI is code – and can't be prompted into being smarter",
+      "summary": "The Register examines the common misconception that prompt engineering can fundamentally increase an AI model's capabilities, arguing that AI is ultimately code with fixed underlying behaviour. The piece has implications for how businesses set expectations around AI deployments.",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/14/ai-is-code-and-cant-be-prompted-into-being-smarter/5254141",
+      "topics": ["large language models", "AI", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "KPMG's AI report turns into a demo of AI hallucinations",
+      "summary": "The Register's earlier coverage of the KPMG hallucination incident, detailing how errors in the firm's AI-generated report were identified.",
+      "url": "https://www.theregister.com/ai-and-ml/2026/06/12/kpmgs-ai-report-turns-into-a-demo-of-ai-hallucinations/5255029",
+      "topics": ["generative AI", "research integrity", "AI ethics"]
+    },
+    {
+      "title": "AI coding at home without going broke",
+      "summary": "A developer shares practical advice on how to use AI coding tools affordably for personal projects without incurring high API costs.",
+      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+      "topics": ["AI coding tools", "generative AI", "AI compute"]
+    },
+    {
+      "title": "My yard is dying, so I made an app for that",
+      "summary": "The Verge profiles a user who built a gardening management app using vibe-coding AI tools, illustrating growing accessibility of AI-assisted software development for non-professionals.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+      "topics": ["AI coding tools", "generative AI", "user interaction"]
+    },
+    {
+      "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
+      "summary": "A developer shares an experiment creating a text-based game using Claude, exploring the creative and generative capabilities of the model in an interactive context.",
+      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+      "topics": ["generative AI", "large language models", "AI"]
+    },
+    {
+      "title": "Open source AI must win",
+      "summary": "A manifesto-style piece arguing for the strategic and ethical importance of open-source AI models winning out over closed proprietary systems.",
+      "url": "https://opensourceaimustwin.com/?share=v2",
+      "topics": ["AI", "AI governance", "AI ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
