@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "UK publishers bill AI scrapers £500 per article using county courts",
+      "summary": "UK publishers are using county courts to bill AI companies £500 per article for unauthorised scraping of their content. The approach represents a novel legal tactic by publishers seeking compensation for AI training data use without licensing agreements.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQW4yM0ktNzZGLXMwOFRCNHdNU05QU1pDOHZEVnI0ZGR2elZ4eEs4X2RyRlc5TXpzalhrdlQtRmprM1VCNXRPUlRsWHNaTGRDdUpxZkNMLVctSW84ako0XzBpRE4wUTFMZ3dIaGpYbUhQWVdDbGtTcDI2T2RLUTFQS05fR2pSZTlaZFI2dQ?oc=5",
+      "topics": ["AI copyright", "licensing", "litigation"]
+    },
+    {
+      "title": "Porn company can sue Meta for torrenting its adult films for AI training, judge rules",
+      "summary": "A US judge has ruled that a pornography producer can proceed with copyright claims against Meta, finding the company allegedly torrented adult films to use as AI training data. The ruling is a significant development in litigation over AI training data and copyright infringement.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBySlg0RkVTMzRNWnNiUzNHQ0RrNnBWSHRzbi1XOXBTT04yM0t0cHZlMWlUQlgySFhlUkpGckdpdU1NX2pHYS1uSTU0YVp6UGlvVGlNbVZWaGNaY2t5bUtXdE5SWG51eEE5akdRcXFrR0haWXl1U2E0XzhBc0Q?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Yale researchers propose 'copyleft' rules for generative AI",
+      "summary": "Researchers at Yale have proposed applying 'copyleft' principles to generative AI, suggesting that AI models trained on open or licensed content should be required to share outputs under similar terms. The proposal aims to create reciprocal obligations for AI developers around the use of creative works.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWnd2a0ctWW50cndUcGZEeHNwS0VwMGx1Mll1bDZwblEyZTNXTnFGNFczQUlTaHJJdDR0YldLbW53eWFjT1dMbUJQSjZTdFExeWFEc3hhTklkXzg2b29IS3oxMDdZS2VoZmE3NFVzaXptVVIyN0hucmRzRXFfWjMtZUsxQnFVX284bDZPRXpaUQ?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Publishers to bill AI firms for unwanted scraping – and take them to court if they don't pay",
+      "summary": "Publishers are moving to formally invoice AI companies for unauthorised content scraping, with legal action threatened against those who refuse to pay. The story elaborates on the emerging strategy by publishers to monetise or deter AI training data harvesting through legal mechanisms.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbDFudU9CVV9uYU1JNFRvcFNGMTR0a2ZtYU0wdjh6TnMwLUV6cHk4bGE4cTM0YXA3aE9yNlpWVV9NakVhbE5YRVdVbDRLZVhvSkRYODltR1RQbmR2OFQwOEFsczluMWl5bTBTYzhPMy1LTGp0b0o3SkxQdzhSd2hwOG1ESVlNNUdJRGhmR3FsVVpLMERUVUtVRHc4ckFMcUsxZjVYOGJaZXNxbXVMRDBOenpEMjFreUZ1YzJRaWZ3cw?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "Can an AI platform hold a music copyright?",
+      "summary": "This article examines the legal question of whether an AI platform can be the rights-holder of a musical copyright, exploring the boundaries of copyright ownership in the context of AI-generated content. The piece addresses ongoing debates about authorship and ownership when AI systems produce creative works.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOempVQWt4a0lWc3U3NGIwNkFPbTQyMUJKNVBsOE1BTm10OTgtTm80VW9ITWROa2Rwal9LVWc5MHpORU1WRVVqY20xd2twUW1KNnRkdTExcnRYbElrMXRjdExrODN5MG52TC1EM2J1U283RWJYdjFtcmhFSlVsMlJzVXYyV09xaFRMNmV1X2lwWkxubERGQ0p2MzlZSmVadHN2eWxHRFQ4U1RYX1XSAbIBQVVfeXFMTzJXR21BakF6c1g4aktQVEdSRm5uSmVPRG5hUElvYzZfRFdndDNQcXN4OFF3bnJyR0tmQVI5VGxxWUx4UENCYW9DTmwtZ1h1RXJ3aWpiTG9nSlpSa29SekV0eWV6cUFkTTVJNWRJS0tJbV9uN2FFb0c3NnFzZWh6QndPaHRrZDZvRUR5anB0LVVFeTdXYk9yMVhfaHJvX3huM2FWdVd5SlBFd0tFbHl1Ml9YUQ?oc=5",
+      "topics": ["AI copyright", "licensing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Movement for Open Web (MOW) launches 'Search only Contract' over AI Harvesting",
+      "summary": "The Movement for Open Web has launched a new contractual mechanism aimed at separating search engine indexing rights from AI training data harvesting, giving publishers more control over how their content is used.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbDlBclo3QmhrQUwwMWlGNEFNU2FoeVI2NWhWUVczR3J5MGU3TF9rSFAySXJOUmVXRHVzU1h3RVl2VkdCOV9RX1R5aHNqMGdXb3h2bnlyX09oWkhyWENUSzh4NjdkaUcyZ00zTkVFYTRXcF9DSDhDcGtnZ3VWOVhTc2ItRmJkejZrb0VmbXNnRllzeXo3S1E0?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "Who Owns the Code Claude Wrote?",
+      "summary": "This article explores the copyright implications of AI-generated code, asking whether developers who use tools like Anthropic's Claude own the outputs and what legal risks may arise.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xY2k5ZHpHbXRYcXVuN1hRNnZxSUctLU1VMnV3NDVOM1d4d1NuWjVObUZReGk5UU9CS3ZSN0NwaG5iZ2F4X1VIc2Zja3RfRm9oQ1FWdWNlQlFDdW5ZbF9wSlRJUWFjVmg0eWlWM1Rn?oc=5",
+      "topics": ["AI copyright", "software"]
+    },
+    {
+      "title": "Anthropic Settles an AI Copyright Case for $1.5 Billion as Ruvi (RUVI) Ties 5B Supply to AI Revenue",
+      "summary": "Reports indicate Anthropic has reached a $1.5 billion settlement in an AI copyright case, marking one of the largest known settlements in AI training data litigation.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ0ZZeTZ5cllIdktma1g1U21kZWI5UmxTeHhVdjk2XzdOWTJZQ0hOc01NU21YNHFIeDlUYjg3RWJjSE5XZVFIMDRlaUl6dnN2N09tVkt4RTVZNXZRS0EyV0kwbDhnMVBLanY2X0Ezdl9fNUtjRDdKWmFoNHIwOHFsZzNDbEdKM1BBQ0dZckdDQ2xTcnRBR0wzX2dwdkVPcjQ?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "AI Deepfakes and Copyright Law: Key Risks Explained",
+      "summary": "An explainer on the intersection of deepfake technology and copyright law, outlining the key legal risks for creators, businesses, and platforms.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaWl2Z1g3a3d4ajBibGR0UnF1SjY5ZWJOQ1ZKZzhjRS1jcnppTkFpRzVZZXlzQ2dHMnE2Rm9tVDBGeXpUS2IyVWNSN21uSWNkX1Q4bEFCdHdMMDVxM1Nxa0hvekhubDJ0THJ2T1dRQTNtUy12azlXYVJpRTZvM0xDdlBVcXROZlQ4bjVDQk9qVQ?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "[Guest post] Can performers' rights be bought out at all? Brazil's new Dance Professionals Act revives a 1978 assignment ban for the streaming age",
+      "summary": "IPKat publishes an analysis of Brazil's new Dance Professionals Act and its implications for performers' rights assignment in the streaming era.",
+      "url": "http://ipkitten.blogspot.com/2026/06/guest-post-can-performers-rights-be.html",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "Press Council Urges Revision of Copyright Law to Protect Journalism from AI",
+      "summary": "A press council has called for copyright law reform to better protect journalism from AI scraping and unauthorised use of news content in AI training datasets.",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9jeUJhV1FvOEt1RmVTSEVEcS02ZlJ5TTR5ZGVqUFA4YU9Va0xxR3dCV3pBcHVrR1UzN0Y0NWVMbUdMaXPSAUJBVV95cUxPTTdqMURuVk1ZZ3FRUWM2LV9zUGlJZUNBdUhnVVdRdGRnOHE0RnRrRHQ1MjRvT2RfNEc4d25lakJ6V3c?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Lionel Richie Files Trademarks to Protect His Voice From AI",
+      "summary": "Musician Lionel Richie has filed trademark applications in an effort to protect his voice and likeness from unauthorised AI replication.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVUVBOUpXb0M1Xzg3Y1BtS2JTOHZzWW8xUWVZdEpxcloybHotcTgtMUdDUkprY0o3V0NIZnluQUgzZ2hTZDl3Mkk4eEtUSU5MVzZpVWpkWktid2lUdm9mWFJlYUxJaWNJVDNPanIxSE12bVNSV25HcUNGQlU0M2RPamdQS3ZVSGtMbFlFVEdrcnFZcVNucXc?oc=5",
+      "topics": ["AI copyright", "licensing"]
+    },
+    {
+      "title": "'Fake AI Album Scam Made Me Realise We Need Stronger Copyright Laws': Award-Winning Artist Emily Portman",
+      "summary": "Folk artist Emily Portman describes how discovering a fake AI-generated album using her style prompted her to call for stronger copyright protections for musicians.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWVZBYzJ5TzU0YjB3WGpYY1pfRjVSa3l2eElETFBqQW16Y1JLTTBKZkVVcllvYXJsUFRoMjMyYXVGc2JuaGluLWJBZzJhdC1xRkk5MDNUNTRsaEhFaE1ORFdWbnJqSmw0WXBILWlHTFZuNGlYdUtETjY4WWE5T0FGQlpmQjFucW1Yb0ltX3hzdmpIZ0RQamYtQjZMTzg5QWpTb1BxX2RNYW52aUFOS0MzTjFyOHgzd1pVOGVBRUoyWkVJVThsMjItZnppdw?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Rockefeller University Press Collaborates with Cashmere to Enhance Responsible AI Discoverability",
+      "summary": "Rockefeller University Press has partnered with Cashmere to improve how its academic content is discovered and used responsibly by AI systems.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbTNMcGNmR1Y4dnVFMEkxeW9jUFVvUmZZM3hrLU9GTDdCOWZqV2k5ZW81c2hIUDZvbGs1bDJpLUh2akowUnoxYXZsYzhvVXBqa1hBQkVpZGJjMkZYdGl5MzdTU1luVndiMlYxQ2RoMW5MRDRVNThybjZMYXA2SEN3UHU1bEZSWnJKWW5MazNMdG52ZFphejg3cU5TZ2hfM0YybFJZbWgwTkFaZVhheW45MHk2d3FudmM0NC1abV9XUQ?oc=5",
+      "topics": ["academic publishing", "AI tools", "licensing"]
+    },
+    {
+      "title": "Famous but not distinctive: ANIMAL FARM and 1984 failed as trade marks because they were successful as books",
+      "summary": "IPKat reports on a ruling that the titles Animal Farm and 1984 could not be registered as trade marks because their fame as literary works made them descriptive rather than distinctive as brand identifiers.",
+      "url": "http://ipkitten.blogspot.com/2026/06/famous-but-not-distinctive-animal-farm.html",
+      "topics": ["AI copyright", "policy"]
+    }
+  ]
+}
