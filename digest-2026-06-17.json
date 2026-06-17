@@ -1,0 +1,91 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI: Predicting model behavior before release by simulating deployment",
+      "summary": "OpenAI has published details of a new method for simulating model deployment before release, aimed at predicting how models will behave in real-world conditions. The approach is designed to catch safety and alignment issues earlier in the development pipeline. This represents a significant step in OpenAI's pre-deployment safety evaluation work.",
+      "url": "https://openai.com/index/deployment-simulation",
+      "topics": ["AI safety", "OpenAI", "generative AI"]
+    },
+    {
+      "title": "SpaceX to buy Cursor AI coding agent operator Anysphere for $60B",
+      "summary": "SpaceX has announced it will acquire Anysphere, the company behind the popular Cursor AI coding tool, in a deal valued at $60 billion. The acquisition marks one of the largest deals in the AI tools space to date. The move signals growing corporate appetite for AI-powered developer productivity software.",
+      "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+      "topics": ["AI coding tools", "acquisitions", "AI industry"]
+    },
+    {
+      "title": "'Pretty Crazy' Token Usage Is Testing Bosses' Bet on AI [Metered]",
+      "summary": "Companies deploying AI models, particularly Anthropic's Claude, are encountering unexpectedly high token usage that is driving up compute costs significantly. The surge is being linked to expanded use of AI agents and coding tasks that consume far more tokens than typical chat interactions. Business leaders are being forced to reassess the economics of their AI investments.",
+      "url": "https://www.wired.com/story/claude-tokens-compute-cost-code-8x8/",
+      "topics": ["AI compute", "generative AI", "AI industry"]
+    },
+    {
+      "title": "'Dangerous' AI Models Are Coming No Matter What [Metered]",
+      "summary": "Wired reports on the growing consensus among researchers and policymakers that increasingly capable and potentially dangerous AI models are likely to be released regardless of regulatory efforts. The piece examines the structural incentives driving AI labs to push capabilities forward, and the limitations of current governance frameworks. It raises questions about whether safety measures can keep pace with development.",
+      "url": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
+      "topics": ["AI safety", "AI governance", "AI regulation"]
+    },
+    {
+      "title": "All the news about Anthropic's new AI fight with the White House",
+      "summary": "The Verge rounds up developments in a growing dispute between Anthropic and the White House, involving AI safety commitments, model shutdown policies, and a fictional story called 'Mythos' that sparked controversy. The conflict centres on whether AI companies can or should retain the ability to shut down their models. The story touches on key tensions between AI governance, safety, and government oversight.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+      "topics": ["AI safety", "AI governance", "Anthropic"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "summary": "Google DeepMind describes a new AI system designed to speed up the UK's planning permission process, potentially helping to address the country's housing shortage.",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "topics": ["AI industry", "generative AI", "AI infrastructure"]
+    },
+    {
+      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA codes from users",
+      "summary": "A serious security flaw in Microsoft Copilot was discovered that could have allowed attackers to intercept two-factor authentication codes from targeted users.",
+      "url": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+      "topics": ["AI safety", "Microsoft", "AI ethics"]
+    },
+    {
+      "title": "Meta CTO Andrew Bosworth Admits the Company's AI Reorg Was 'Atrocious' [Metered]",
+      "summary": "Meta's CTO Andrew Bosworth publicly acknowledged that the company's recent AI reorganisation was handled poorly, amid reported employee unrest over the restructuring.",
+      "url": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
+      "topics": ["Meta", "AI industry", "leadership"]
+    },
+    {
+      "title": "Wolfram Language and Mathematica Version 15: Built-in AI Assistant and New Core Functionality",
+      "summary": "Stephen Wolfram announces version 15 of Wolfram Language and Mathematica, featuring a built-in AI assistant, symbolic music capabilities, and a wide range of new core functionality.",
+      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+      "topics": ["large language models", "AI tools", "generative AI"]
+    },
+    {
+      "title": "xAI Launches Grok Build Agent Dashboard for Developers",
+      "summary": "xAI has released a new developer-facing dashboard called Grok Build Agent, aimed at making it easier to build and deploy applications using its Grok AI models.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yckFST1ZSZXpSQzVkcHVKY3o3ekNrZkp5dVJpMXp2VGlaY0loUTg5cnRab3h4VzhSTjB0QThMQVZJR1g1d2tfa3E1THZyU2JhMUFaYmFpNXlScDBPVFRMdDZ5OGljR3J6dnpV?oc=5",
+      "topics": ["large language models", "AI coding tools", "AI industry"]
+    },
+    {
+      "title": "Achieving success with AI — Microsoft Blog",
+      "summary": "Microsoft publishes a post outlining key findings and recommendations for businesses seeking to successfully adopt and scale AI across their organisations.",
+      "url": "https://blogs.microsoft.com/blog/2026/06/16/achieving-success-with-ai/",
+      "topics": ["AI industry", "Microsoft", "business"]
+    },
+    {
+      "title": "The Download: the first brain implant power user and South Korea's AI obsession [Metered]",
+      "summary": "MIT Technology Review covers the story of the first intensive user of a brain-computer implant and examines South Korea's national push to embed AI across society and industry.",
+      "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
+      "topics": ["AI industry", "technology ethics", "generative AI"]
+    },
+    {
+      "title": "Want to get a data center online quickly? Give it some flex [Metered]",
+      "summary": "MIT Technology Review reports on a new approach to grid flexibility that allows data centres to come online faster by agreeing to modulate their power consumption in response to grid conditions.",
+      "url": "https://www.technologyreview.com/2026/06/16/1138591/data-center-online-quickly-electric-grid-flex/",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    },
+    {
+      "title": "AI is rewriting brand marketing strategies. Here's how to stay ahead",
+      "summary": "A report examines how generative AI is fundamentally changing brand marketing, forcing companies to rethink content creation, targeting, and audience engagement strategies.",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5nVjBqb19Id0M4ZmtHdzJLWkZlUTJXaVpubGEtU3ZSRmhaUW5oaEFUNEZHMFBlUTlob3JRbkY2R2t6TzFSd2RSMVNtaFp3U19CNC1QOWRmcGRsTXJZclkyRHFLT1JRQQ?oc=5",
+      "topics": ["advertising", "generative AI", "AI industry"]
+    }
+  ],
+  "ethan_mollick": null
+}
