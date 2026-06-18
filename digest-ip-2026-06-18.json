@@ -1,0 +1,84 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "'Big Five' sue AI-linked library over 'massive' copyright infringement",
+      "summary": "The five largest publishers have filed a lawsuit against an AI-linked library, alleging massive copyright infringement. The case represents a significant escalation in publishing industry legal action against AI-related entities over unauthorised use of copyrighted works.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM3BLN1lJNElHN2NsekoyRVlGaWkwV3piNTE2M0ZTQmYwQmhHSFkwaFBqdkhOTzFESEFvbU1YbmpVc3pkb05aTy1iMk1kQlE3eWNMQXVyejctZXVNN3d3UmlHSEhoZ09xcTV2SDR2TlBMaXBxU1d2VlBDdU01RmszQUdZUnFOVmFHY2xLZVJIOGhmZUhlT2hkX0haMDlDZlpzUUt1RXlJTy1WYnpqOFZ3b2djYU81U0x0VDd2ejFZQ3BkUQ?oc=5",
+      "topics": ["AI copyright", "litigation", "publishing"]
+    },
+    {
+      "title": "Investors sue Adobe execs over AI copyright statements",
+      "summary": "Investors have launched a lawsuit against Adobe executives over statements made regarding AI and copyright, with derivative claims also filed for AI copyright infringement. The cases raise questions about corporate disclosures and liability related to AI training data practices.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWnVJc2xfdEMxUlUxT0pDbHlVN0FFc1l6WEtpZHc0blVMeFExTjd0MXN0UG5xNEFmend0RmE5ZzBQZ2tHWUtXeFZ3dmR2N0RfMElJOHlIYzY1NUlxNGJNblBoTGVXMWdQTWZzaTZQMmVpLXFGZTlHUjNBa2t1cnJtdDZCaFhaNEpHS2c?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "AI Music Copyright Lawsuit: Suno Discovery Shows Millions of Songs, July Ruling Nears",
+      "summary": "Discovery in the Suno AI music copyright lawsuit has revealed that Suno generated millions of songs, with a key ruling expected in July. The case is being closely watched as a bellwether for AI-generated content and music copyright liability.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaXBaZFZ3bHFiTkhacVNvTG01bDA5YXQxOV9Obk9JSk5EZDBaYk53bnl6Z2dTZFQ5TjQyUlBYaEtUd2Q4QnlXUjB4VnY1V0NSTjBUYzdScE5lU2Q4M3RmN2NQMWZhZzFYX1hrc004Q0ZDZHNmSmRGbDhaNGJVOHVCT1Q3ZWdQMFc5NkxNQUhlRDM4UmV1enNIektsemFmc2VIWmlTaVNmZ2xPcWZIYnEzank4TWxaLTJkS3JRRjN0RlYxY3dFblIwd29yWHdZd1ZC?oc=5",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "Calif. Senate Votes to Advance AI Copyright Bill Backed by Voice Actors",
+      "summary": "The California Senate has voted to advance a copyright bill backed by voice actors that addresses AI-generated content. The legislation reflects growing legislative momentum at the state level to regulate AI's use of human creative work.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZEJvd2UxQWFuQ2lVTF9NOWUxMFZOZmN6M284c3BWVmZHRkV3NmxJZXBncW9fLWwyTm1jbUV0bWZWOC1vRTlmVVlWVXJMMlpGVHhZb0FLUjB2czg1RG54UUhKMWduV0RSNXBKZ0htQkkzcXE1MmdQZWFyOFpER3dRRnJwUC00dWtQOTJrQ2JvNGtKOUE0LURWRFpvb2x2ajFIWWtTLUNCVU5KeWNKRTQ1N29jZk1yRjFpUU5IbVhtOFFtQTZtMjVHclNuMA?oc=5",
+      "topics": ["AI copyright", "policy", "legislation"]
+    },
+    {
+      "title": "An Atlantic investigation just blew open the AI music industry's data provenance problem",
+      "summary": "An investigation by The Atlantic has revealed significant data provenance issues within the AI music industry, raising questions about the origins and licensing of training data used to build AI music generation systems. The findings add to mounting scrutiny over whether AI companies obtained rights to the content used in training.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcjJTSWhzWjNSekFDVzNjeWdabTE0ZjRLR3UzQXZ3QXJwSUJNbUotX1lBMjFQVkJUcnZubHJVdTQ3ZnNQWXZUMWJRMC1uSFBReFR0b3NfOVhubmtTd2I0OUo0Qjhqa3hXQ0FTRjlPdTFNcUlpd2p2cXdvLXBkTDEzUDBkeHpVMGFFSzcwUGoxZVJXaUR4ZVB4MW5ZN3lMZWdRSFZocmJVYmJNa3JrVkkzQW5yU1VHZw?oc=5",
+      "topics": ["AI copyright", "music", "data provenance"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Meta Humiliated in Court Over Claims It Mass-Downloaded 2,300 Pirated X-Rated Movies to Train Its AI",
+      "summary": "A court hearing revealed allegations that Meta mass-downloaded thousands of pirated films to use as AI training data, resulting in a damaging courtroom moment for the company.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90TDZTaml6ZnhRLUNFSlYwM2JvUC1vdG5rclhfTmtKR2QyY1ZMdVQ0YS1pd0szUkRSdC15RVVLZTI2WkxWSm5jN0lHZE8zWTN3RTVNdTZjWFNQanBGY3FxQnBsR1RuV1hHSHdKRlFIY3ptV1FxTU9v?oc=5",
+      "topics": ["AI copyright", "litigation", "training data"]
+    },
+    {
+      "title": "Google AI Overviews Defamation Ruling Ends Search Safe Harbor for Every AI Answer Engine",
+      "summary": "A court ruling on Google AI Overviews defamation has been interpreted as eliminating search safe harbour protections for AI answer engines, with broad implications for AI-generated content liability.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOWdOZ25ZMTgxYnB6aG5TWnl2MVFEN2RwUjJyTzVZcG5OY2N2MjRFaWdNTTJMYlRtYU1QaWRoSHZCNXBZcWdCczRmNWttOHQ3WnpvcTFWbnJwbDVaN2dCajkxbm1VcURnWDFMRmExQ0lMVmhURGJYMnpGX3cxQkRXRzNPMzYyR0ZGNTJOcnR1ZENVMFJpREhkNzRUVTlXLTR4VEMxSVlvc0dwNWZ1ZEFMaGVMb2xwYm1IaFhhYUxZRnN1OFhscXVEcHlrdEh1R1dnR2s3dGpB?oc=5",
+      "topics": ["AI copyright", "policy", "litigation"]
+    },
+    {
+      "title": "AI Copyright Law Lags; Parliament Must Act on AI-Generated Content",
+      "summary": "A commentary piece argues that existing copyright law is failing to keep pace with AI-generated content and calls on Parliament to introduce new legislation.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTXZFeHFPcEhvdnNiY3dtUU1QYVkzdWlzNUNMMmZSR2ItT1I2aGJpeGhIbmJVUy1SZFJXUnFrRzFVN3d6TE1Vdm1DMVhaZmRKLXlBMk84Zkh1RkxjdzZHMGJrbzN1eFUyXzBQN2c4WUNNUnNndkFpWFZGcV9wUmh2ckRVN0xQUzFMMFdGWmFmUXJuaC16MlhaVVY3UU9rT2RpOEk2WFMzMWRubkp5UGJ5SkhsS3NOQTRHNDZCNHUxbXRNb3JvaVN1dW9pb21BTEhodjRpQndR?oc=5",
+      "topics": ["AI copyright", "policy", "legislation"]
+    },
+    {
+      "title": "Adobe Faces Derivative Claims For AI Copyright Infringement",
+      "summary": "Derivative claims have been filed against Adobe alleging AI copyright infringement, adding to the legal pressure on the company alongside the separate investor lawsuit.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbjFyb3ppR1lraDg1bVFIaHB3LUpzU2R2Nms2TUlZZ0RsVXBVWkNRMG5Dc0hmVFhMQjg1UHBHVnVIaUR3dEhaYjd5TEd1YVJ1QUtYeUozOXJOaUEwa255OXhOZ0JvX2pVUFVsNFdJcm05TnJscU15a0JiUnlYampOaGp1dHMxTTF5S1M0ejlMaE9HWE9oQUxLRHNOX1RDd2Nn0gFWQVVfeXFMTXpGbXVVODhpUnZhRjU2Znh6ZFJiNEFXRzdMZXZfX0NCVnA2cGpuYTFKRmN1LXk4OUJMVkpLYkpGUV8xNlpKX2VEMk5sNHpQSE9HUUc0OXc?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Attribution, Provenance, Reference, Citation, and AI for Research Applications",
+      "summary": "The Scholarly Kitchen examines the distinctions between attribution, provenance, reference, and citation in the context of AI tools used for academic research, with implications for publishing integrity.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/06/17/attribution-provenance-reference-citation-and-ai-for-research-applications-understanding-the-differences/",
+      "topics": ["academic publishing", "AI tools", "data provenance"]
+    },
+    {
+      "title": "Bombay High Court Allows Preity Zinta To Pursue Suit Against Google, Meta Over AI Deepfakes",
+      "summary": "The Bombay High Court has permitted actor Preity Zinta to proceed with her lawsuit against Google and Meta over AI-generated deepfakes, in a notable IP ruling from India.",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMDItN1I4NllDTm9Ja3hBVVRaWjBHczBGanEyZWZ4NG9XMDcwYl9aR2doWW5uOVhGTWN4UUpFVUU5WEhELU16ZE9tcnYyaGtUV2YySDQ2dElXUy00OXFnX0RhRjlseWZjUkVBVWNQTm54czdwbm4yUDJ5MGpwVVBPa19XQ01IMGNkVktNdG55WVpNMlRRNW1oZGtoMkdqYVFZT25wRnFhU2RTSXhjT3J1OFUtMnkxQkRmVkhNcGdfeWV0Yl8tUDZCaExBR2NpVTVteTJJaXZtal9WVnRIVUV4NHZuVW01aXY2LUkzSXpmLWxsajRMTU4w0gH8AUFVX3lxTE53WVh2WkVEd19CVmNlLWkzamdQM1dxZXdOZDRTU0wtaHlfc3doWm5GcGFoNThkczA4dTlyRXhpaUYyaktHSG5UcjBZTUNSOGhmWUk1dk1lcm94YUVCaUkyTk1xLTgyaVBrb3BPY3BDUzhqUTYtQUprS2ZCcmtUQkVlZVo1MXN0SC1QTV90VXVlZzY3NG1QQjRrNWNlTDR6b3RiU3QzVGxQTklzTEtBY1pKZExhdWVIX01sWWkxTkFnT1ExbzZjVHEyc0ZGdjlFcVVhXzhETWxIM08yWTV2UjVaN29VTFZ2VUExTzVVMlZjUEV5ZER5YnZzMXl0cQ?oc=5",
+      "topics": ["AI copyright", "litigation", "deepfakes"]
+    },
+    {
+      "title": "Legal AI startup Eve hit with patent infringement lawsuit",
+      "summary": "Legal AI startup Eve has been sued for patent infringement, adding to the growing number of IP disputes involving AI software companies.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeC13U1l6NkhycTZLUllMeU91VFB1RTZSdHF0LXY2MHc5dzZRa3lvckQ3LUNYV19MZzBnLXV1aF91Tl9RSElRTi1sbEotMVpuYV9rREhJa05jMmR1eU5DTUFxdXRxVEZJdk13MUZJc1hoQTVVbnlRczJLTVJFa3U4V0NWOVNrWVVJLVRncXdKVVlQaS1zWEoweGl4Tk5BajMyWHhHSFliNXVRNDhaOXFRS3BnWQ?oc=5",
+      "topics": ["litigation", "software", "AI tools"]
+    },
+    {
+      "title": "Spotlight: Opportunities for AI in Publishing Operations",
+      "summary": "An industry piece examines the growing opportunities for AI adoption within publishing operations, covering workflow, content production, and distribution.",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPclRwVHdBSU9GaVFHWm16b0g1c1hMMmNaejVxclFCYVZkR2lRX3VzNTJPeE1zZmpvMHVuSmpqcTluS1NGc1VpMjJGZW15aElGcHBqRHowWWVZMWFpN0VtNHUtSnphQzlRV3hHRDZCa0lVSHROb3VydFRQdjBWTVlFckYyVnZVSGstMlVNQ29mR1BaNEFGazNheGRvTkE5X0Vna2czVXdzdk5CT0s2YTNVNVpjOFg4blJrQXd6NDNidTBHWFF6Z0xadG82UGVpT0I1c1JGOEhwQllfM0o0Q0JtSw?oc=5",
+      "topics": ["academic publishing", "AI tools"]
+    }
+  ]
+}
