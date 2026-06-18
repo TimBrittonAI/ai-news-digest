@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Anthropic Got Hit by Export Rules Nobody Understands",
+      "summary": "Anthropic's AI model was caught up in US export control rules in a case that has left even experts confused about how the regulations apply to AI software. The situation highlights the growing complexity of applying traditional export control frameworks to AI systems and models. The story has broader implications for how AI companies navigate government regulation.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
+      "topics": ["AI regulation", "Anthropic", "AI governance"]
+    },
+    {
+      "title": "The White House Wants Anthropic to Block All Jailbreaks. That May Not Be Possible",
+      "summary": "The White House has demanded that Anthropic prevent all jailbreaks of its AI models as part of an ongoing dispute over the Mythos/Fable AI project and export controls. AI safety researchers argue that completely blocking all jailbreaks is technically infeasible given the current state of AI alignment. The standoff underscores the tension between government security demands and the practical limits of AI safety engineering.",
+      "url": "https://www.wired.com/story/the-white-house-wants-anthropic-to-block-all-jailbreaks-that-may-not-be-possible/",
+      "topics": ["AI safety", "Anthropic", "AI governance"]
+    },
+    {
+      "title": "\"Dangerous\" AI Models Are Coming No Matter What",
+      "summary": "Ars Technica examines the argument that increasingly capable and potentially dangerous AI models will be developed regardless of safety measures or regulatory intervention. The piece explores the structural incentives pushing labs toward more powerful systems and what, if anything, can realistically slow or shape that trajectory. It draws on expert views on the limits of voluntary commitments and current governance frameworks.",
+      "url": "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/",
+      "topics": ["AI safety", "AI regulation", "generative AI"]
+    },
+    {
+      "title": "MDPI Implements AI-Driven Ethics Screening for All Manuscript Submissions",
+      "summary": "Open-access publisher MDPI has rolled out AI-powered ethics screening across all manuscript submissions, marking a significant step in automating research integrity checks at scale. The system is designed to flag potential ethical violations before peer review begins. The move raises questions about the reliability and consistency of AI-based gatekeeping in academic publishing.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWHRUUS1BZEJydnFFUVN6M0h3N1p5c2xtRVIyVGNzZXdpSmNlZFFXTS16bk5GUUhDeUt2UGp2em5Vc0hMWjYtWUpwVTUwamJXTVhJcmRqY015S18xOEJoVVlvREVBbV9Xa3dWangteE92bmQ4VDJZYkFueEJjUmxLcmpLeFBlaURaNUhEaVYwcGxNd21BY0pHN1h1b29tWU0",
+      "topics": ["academic publishing", "research integrity", "AI ethics"]
+    },
+    {
+      "title": "A Near-Autonomous AI Chemist Improves a Challenging Reaction in Medicinal Chemistry",
+      "summary": "OpenAI has published a case study describing how a near-autonomous AI chemist was used to improve a difficult reaction in medicinal chemistry, with the system proposing and iterating on solutions with minimal human intervention. The project demonstrates generative AI being applied to real-world scientific discovery rather than just text or code. OpenAI positions the result as an example of AI accelerating drug development workflows.",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "topics": ["generative AI", "OpenAI", "AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "The Korean Telecom Giant at the Center of Anthropic's Mythos Controversy",
+      "summary": "Wired examines SK Telecom's role in the Anthropic Mythos export controls dispute and what it reveals about the international partnerships at the heart of advanced AI development.",
+      "url": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+      "topics": ["Anthropic", "AI governance", "AI regulation"]
+    },
+    {
+      "title": "Pentagon Boasts of Using AI to Write Reports Mandated by Congress",
+      "summary": "The US Department of Defense says it is now using AI to draft congressionally mandated reports, with 1.5 million users across its AI tools, raising questions about accountability and oversight.",
+      "url": "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
+      "topics": ["AI", "defense", "AI governance"]
+    },
+    {
+      "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
+      "summary": "A new study finds that just 16% of Americans believe AI will have a positive societal impact, with two-thirds also saying the technology is advancing too quickly.",
+      "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+      "topics": ["AI", "consumer research", "technology ethics"]
+    },
+    {
+      "title": "Midjourney Medical Goes From Generating 'Cat Images' to Full-Body Ultrasound Scans",
+      "summary": "Midjourney's medical AI division is moving into generating full-body ultrasound scans, a significant expansion from its origins in general image generation into clinical imaging territory.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+      "topics": ["generative AI", "AI", "AI ethics"]
+    },
+    {
+      "title": "The Founder's Playbook: Building an AI-Native Startup",
+      "summary": "Anthropic's Claude blog publishes a practical guide for founders on building AI-native startups, covering product strategy, model integration, and common pitfalls.",
+      "url": "https://claude.com/blog/the-founders-playbook",
+      "topics": ["AI", "generative AI", "business"]
+    },
+    {
+      "title": "Databricks Launches LTAP to Unify AI and Enterprise Data",
+      "summary": "Databricks has announced LTAP, a new platform aimed at bringing together AI workloads and enterprise data in a single unified architecture.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOUtrNjg2T1hVZFBsWF9fSXhVbTQ5clR1ZEtmdEtLM2U2MEFqZk5IZVB5bjJSRUNQREVhVUhiOURma24tbDV5Y2VwZEdBb09DaEFoMVVWQ1NjN0dmaGJlQ0tKU09VZWs5S0VPdHROSjF1eWtNbHFwZzYxSXFDN2RzUDVuV2YxWk5DbktNZU9Kaw",
+      "topics": ["AI infrastructure", "AI compute", "business"]
+    },
+    {
+      "title": "Introducing Amazon Bedrock Managed Knowledge Base for Faster, More Accurate Enterprise AI Applications",
+      "summary": "Amazon has launched a managed knowledge base service within Bedrock designed to make enterprise AI applications faster and more accurate by improving retrieval-augmented generation capabilities.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRGdhOXg1OTItenc1TlJybHg2WjhhNFdUOVFhVHltQnFEVlJ2SlV4dk80VFVrSllwcU54RHIzalBHaWtmcmFrMG14VEM5SmV6dTMtZXpGQWRZV05LRF9rTDFTRmhtQ1lrbVpZeXV3WFo0RWNhUWVZcFA3VFc3a3gwa3BFcEJWaVNVTGN5bUMxM2VGNlZzdkNQTWx3Nm5QVWk0Q0p2YmVrUlR5NFlHY0NNNWNMMGR0R2NPRm5MVmphNVpPYmxROVVBZGo0UVRHbUNN",
+      "topics": ["AI infrastructure", "large language models", "business"]
+    },
+    {
+      "title": "Sixty Percent of US Consumers Say 'AI' in Brand Messaging Is a Turnoff",
+      "summary": "New research from WordPress VIP finds that 60% of US consumers are put off when brands prominently feature 'AI' in their marketing, complicating how companies communicate AI-powered products.",
+      "url": "https://wpvip.com/future-of-the-web-2026/",
+      "topics": ["advertising", "consumer research", "AI"]
+    },
+    {
+      "title": "AI Search Grounded in Facebook Posts? What Could Go Wrong?",
+      "summary": "The Verge goes hands-on with Meta's new AI search mode, which draws on Facebook posts as a data source, examining accuracy issues and the risks of mixing social content with search results.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
+      "topics": ["AI search", "generative AI", "AI ethics"]
+    },
+    {
+      "title": "The Next Humanoid Robot Might Not Look Human at All",
+      "summary": "Genesis AI has unveiled Eno, a humanoid robot that deliberately departs from conventional human-like design, reflecting a growing debate in robotics about whether human form is the optimal shape for working robots.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+      "topics": ["AI", "generative AI", "business"]
+    }
+  ],
+  "ethan_mollick": null
+}
