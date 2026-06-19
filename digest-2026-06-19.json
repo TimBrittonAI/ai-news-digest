@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "The White House Is Making Up Its Rules for AI in Real Time [Metered]",
+      "summary": "Wired reports on the White House's ad hoc approach to AI export controls and regulation, centred on the dispute between the Trump administration and Anthropic over its Mythos framework. The piece examines how AI governance is being shaped without clear, consistent rules, raising concerns about how safety and security considerations are being weighed. The story reflects broader uncertainty about the direction of US AI policy.",
+      "url": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
+      "topics": ["AI regulation", "AI governance", "Anthropic"]
+    },
+    {
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "summary": "OpenAI has announced new usage analytics dashboards and updated spend controls for ChatGPT Enterprise customers, giving organisations greater visibility into how employees are using AI tools and the ability to set spending limits. The update is aimed at helping enterprises manage costs and usage at scale. This follows growing demand from large organisations for more administrative control over AI deployments.",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "topics": ["OpenAI", "ChatGPT", "AI infrastructure"]
+    },
+    {
+      "title": "Improving health intelligence in ChatGPT",
+      "summary": "OpenAI has published details on improvements to health-related capabilities in ChatGPT, aimed at providing users with more accurate and clinically relevant health information. The update reflects OpenAI's continued push into consumer health applications. The announcement highlights both the potential and the responsibility involved in deploying AI for health guidance.",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "topics": ["OpenAI", "ChatGPT", "generative AI"]
+    },
+    {
+      "title": "Who decides when AI is too dangerous?",
+      "summary": "The Verge's podcast examines the conflict between the White House and Anthropic over the Fable AI model and the Mythos safety framework, exploring the broader question of who has authority to determine when an AI system poses unacceptable risks. The episode covers the Pentagon's involvement, AI regulation under the Trump administration, and the tensions between commercial AI development and safety oversight. It is one of the most substantive public discussions of the Anthropic-White House dispute.",
+      "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+      "topics": ["AI safety", "AI regulation", "Anthropic"]
+    },
+    {
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "summary": "OpenAI has detailed a project using AI to assist physicians in diagnosing rare childhood genetic diseases, where delays in diagnosis can be life-altering. The system helps analyse complex clinical and genomic data to surface potential diagnoses that might otherwise be missed. The announcement is part of OpenAI's broader effort to demonstrate real-world medical applications of its models.",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "topics": ["generative AI", "AI ethics", "OpenAI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Authors, reviewers and editors should not be left to endure AI anxiety alone",
+      "summary": "A commentary arguing that academic publishing institutions must do more to support researchers and editors grappling with the ethical and practical challenges posed by AI tools in scholarly work.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVnRxLXR5TWptZ2ZWSFpTOUlpSi04WW5rRk85Y01IaXRHQjJpaFlaRmxMeUJMUVhxaG9sNG5hejRRQi1sNlBydWhtLXJIYUdhT3BDUlN0QTNKTVgtZUsxb0tUNEs1NEhtUllndDRkN2hYbWZZT0lEbXhkREFuM0xpSlNNOW1NbThtaTNhemZsbXk5aDhCcl9VdHRyMWFLYzZoTTNfdmIzTUN2dmtEU3k3Z3NKRDFRQ0tj?oc=5",
+      "topics": ["academic publishing", "AI ethics", "research integrity"]
+    },
+    {
+      "title": "Vibe-decoding the White House-Anthropic fight over Fable",
+      "summary": "The Verge unpacks the political and technical dimensions of the feud between the Trump White House and Anthropic over the Fable AI model and what it signals about the state of AI safety governance in the US.",
+      "url": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
+      "topics": ["Anthropic", "AI safety", "AI governance"]
+    },
+    {
+      "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety [Paywalled]",
+      "summary": "The Wall Street Journal profiles the Anthropic researcher dispatched to work with US government officials on AI safety concerns, amid the broader dispute over export controls and the Mythos framework.",
+      "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
+      "topics": ["Anthropic", "AI safety", "AI regulation"]
+    },
+    {
+      "title": "Using AI to improve a challenging reaction in medicinal chemistry",
+      "summary": "OpenAI details how AI was used to optimise a difficult chemical reaction in drug discovery, illustrating the potential for large language models and AI tools to accelerate pharmaceutical research.",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction/",
+      "topics": ["generative AI", "OpenAI", "AI industry"]
+    },
+    {
+      "title": "Two-thirds of Americans think AI is advancing too quickly",
+      "summary": "New Pew Research data shows that a large majority of Americans believe AI is developing faster than it should, with concerns spanning job displacement, safety, and the use of AI chatbots.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
+      "topics": ["AI ethics", "technology ethics", "chatbots"]
+    },
+    {
+      "title": "Meta Launches Global AI Business Agent Across Messaging Apps",
+      "summary": "Meta has rolled out an AI-powered business agent across its messaging platforms globally, enabling businesses to automate customer interactions at scale.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR0pnS2JRUE82NFg3TmlkSkdaUFJPY3hKVHlQTmZ2ZFhWOVc2Ym9McFNKa3FFWFVCTko5UEoyYzQ5N01URTdkTUN0M1k1VF9iY0YwZHhIZUVJZ2ptM3VsS0tuVzZkbjNJRGVpdGNveDVLY2k0QnZCanpXUUhjVkE1dmhPRTVfUVZhUTlyNjR0TWJvU19TdmJCM3BzcWxDdGxBbjdZNE5xdmI0SjV1a05ycw?oc=5",
+      "topics": ["generative AI", "AI personal assistant", "business"]
+    },
+    {
+      "title": "Photoshop and Premiere now have AI assistants",
+      "summary": "Adobe has launched AI assistant features in beta for Photoshop and Premiere Pro, allowing users to interact with the apps using natural language to complete creative tasks.",
+      "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+      "topics": ["generative AI", "AI tools", "large language models"]
+    },
+    {
+      "title": "Amazon employees say they're facing termination for backing data center limits",
+      "summary": "Amazon workers who publicly supported a Seattle moratorium on new data centres say they are now facing disciplinary action and potential termination, raising questions about employee rights and corporate AI infrastructure expansion.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+      "topics": ["AI infrastructure", "AI compute", "business"]
+    },
+    {
+      "title": "The UK Will Scan Asylum-Seekers' Faces for Age Checks—Despite Knowing the Tech Is Flawed [Metered]",
+      "summary": "Wired reports that the UK government plans to use facial recognition technology to estimate the age of asylum seekers, despite internal acknowledgement that the technology carries significant bias and accuracy concerns.",
+      "url": "https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/",
+      "topics": ["AI ethics", "bias", "AI regulation"]
+    },
+    {
+      "title": "Race heats up for AI agent platform that knows the company best",
+      "summary": "An examination of the intensifying competition among vendors to build enterprise AI agent platforms that can deeply integrate with company-specific knowledge and workflows.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOElhbUhOZ1RKS0l1TWFTMC1kdGlqZThWSDVMZDBTeXVKcXRObU9GdlowcTVuWjVsZUwtVGlnWi11TVpwYU44ai1EZXVjaEVUOUlvTFROUHdJR25hcEc3bGpXMXRPU01OZTRDQnVMWDBUaXNMdHFSb0NlTmwxRVU0STFzcW14TXo3TEczUHl4RnkzYU9NQ19JZzJRbkFadWZ6?oc=5",
+      "topics": ["AI personal assistant", "large language models", "AI industry"]
+    }
+  ],
+  "ethan_mollick": null
+}
