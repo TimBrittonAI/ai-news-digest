@@ -1,0 +1,84 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "California Senate votes to advance AI Copyright bill",
+      "summary": "The California Senate has voted to advance a bill addressing AI and copyright, marking a significant step in state-level legislative action on the use of copyrighted material in AI systems. The bill's progress reflects growing momentum among US lawmakers to regulate AI training practices. Details of the specific provisions are covered in the linked report.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRDVhUzBrODM0d2dGQ0Fldy16Q0d6X01tSzBRZVRZN3NiT2kxN1ZRZk9ISmhYZW16bDNxNkpSQTl4dm9ROGZCTlRzVVptU0dCSlB1ZmZiSUM1a3hWYkotamtiM253aEstYVFyckZFRGVyelVTcV9CWjgteG82ZS1zdzByQy0tSzEwUlYtZjNGVDJNc2wy",
+      "topics": ["AI copyright", "policy", "legislation"]
+    },
+    {
+      "title": "How US courts are addressing fair use questions in AI training and copyright disputes",
+      "summary": "A detailed overview of how US courts are currently handling fair use arguments in the context of AI training data and copyright infringement claims. The piece examines the evolving legal landscape as multiple high-profile cases work through the judicial system. It provides context on the key legal questions judges are being asked to resolve.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX3hXazBYcjc2dXZHblZJSHFGRkcwNnNNZUZxekhoQmt2OXRGZVJ2aDktM3FkWEozYW5YRVp0QXNsV3hJN2RnZmt1WVkyeEhTNkU0dm82SFJnSGMwT1pEdXBoZFlyRmFaMUxGc2xHOTlHZmJmVTA3WnJMcUJ1NlA4NHUzTGw2MnFYanJMSnBrQlMxUnc5Yk9iVWV6YmwtTkUxTHRRb3djdEpqeUdCNjJNT2NHWV96MnAxZTVr",
+      "topics": ["AI copyright", "litigation", "fair use"]
+    },
+    {
+      "title": "The novel legal strategy that Taylor Swift, Matthew McConaughey are using to fight AI - Straight Arrow News",
+      "summary": "Taylor Swift, Matthew McConaughey, and other high-profile figures are reportedly employing a new legal approach to protect their likenesses and creative works from unauthorised AI use. The strategy goes beyond traditional copyright claims, drawing on personality rights and related legal doctrines. The report outlines how this approach could set precedents for celebrity and creator protections against AI.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaTF6dEY5R0NlZzhRX2xxRlhVdWtSN19xc0V2MHBpVGFEQWRpUF9MWHM4dHZNVVdWYlBxblFlVl9UVVk1UFN5RXNJcGI1VzNsdkNkQ2xoX09SYW94d2dUaXYwMHR0VjQyQUpXTEJiNlJiZS1JNGVRUjNEVi11WTRYeVppT0h3U2kxQ3FZZGJqU2h1eWpnODZieDNRMVlVZw",
+      "topics": ["AI copyright", "personality rights", "litigation"]
+    },
+    {
+      "title": "AI Deepfake Law NO FAKES Act Advances in Congress With Key Senate Committee Vote",
+      "summary": "The NO FAKES Act, which would create federal protections against AI-generated deepfakes of individuals' voices and likenesses, has cleared a key Senate committee vote. The legislation represents a significant step toward establishing a national framework for digital likeness rights in the United States. Its advancement comes amid growing pressure from entertainers and rights holders over AI-generated content.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrWHotZWhLay1GcGozVlE5MGxrUTV2N3dLUUJ6RTVsYm5WbE8tVlVLV3BQTDIzRS1aWXFFcG8wdjhzOWZVdUpYcDZJamFXaFFnT2hVSjVIcGFUMm01UEI2bmdlcFZua0QtZThndnlyYTdtbzA2Smc",
+      "topics": ["AI copyright", "policy", "deepfakes"]
+    },
+    {
+      "title": "German court holds Google liable for AI hallucination: Read the full decision here",
+      "summary": "A German court has found Google liable for an AI-generated hallucination, in a ruling that could have significant implications for AI platform accountability across Europe. The full decision has been published, providing detailed legal reasoning on the responsibilities of AI search providers for false or misleading AI-generated content. The case is being closely watched by legal experts in the AI and IP space.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN0pqTzRpLTRGN0lROGVZVjMxTi1mZ2pqaWdqLWpKQktvX2Nicm9aZVBzN3drUjBRVEVmZkVsUEcwVTB4bEhqMHZTY3dJVHRudWdqNllOU01YSGdqTnB2Q1JuSlNfX3BBTUV0dXhWOEZGT3FIdnF1SDEzVnhiTGZ1SWFuWTJOMTRXWjNjVWV0aEhkZE85Y3FEWWV4UXhkenE1RHhlVXg3ZHk5cWJJcF9aMV9FbXRIVWh1Z2liM29BYlM",
+      "topics": ["AI liability", "litigation", "EU law"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "News Orgs Must Give Cohere AI Use Policies",
+      "summary": "A court ruling requires news organisations to provide their AI use policies in the context of a copyright dispute with AI company Cohere, in a development that could affect how media companies' content policies are scrutinised in AI litigation.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdHNYSmVhbmI0anY5eGZ6QmltSTY4TDJBeVBMYUx3TFBRZFFyQ1pjQlYtYTBUTE8yN3NIZVhCSnlOX0tROXFUeWsyT1Z3RjFjV2lobUpDcUZueWlMOVVaT2x6U1Vndy1IMGYzaS05Z3E3Q1c2SmRjajVoa0tfN3hHWGlaQWMxRndmR25F0gFWQVVfeXFMTktuQmhVbmNoUXkzTHdRZ0J2a0d6eGZMMkJPRGoxc1I2X2p1djRtR0RUZkh5SDNfaHhLUGItNE9HUGozYXRIaHNsdGM3ZjFQTXNPeTRyYmc",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "Bombay High Court allows Preity Zinta to sue online platforms for infringement of content produced with AI",
+      "summary": "The Bombay High Court has granted Bollywood actress Preity Zinta permission to pursue legal action against major online platforms including Google and Meta over AI-generated deepfakes that infringe her personality rights.",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOU29xelF5UVA5WllzVmdvRVRUZEdIQmJQbjBOSnBHM1ZIcWFUcXdMLTBaOTFzUWFldW1WN2U0ODUxaThwcng2cURxcFhWWU1zUmRfd1NkbEdKa2xxdGxwRmxfQVdvYnF2Y3kzVzFJVzZNNDZESXdDNFozUnNGaS1nMDdZZ1FERnpYdE9WQkYxd2JZZU5zZUtnRjFobFE2bENVRU9TcjFWbHllVUp1UzdPMlIwSk0xazNWNU9RLXpva0Q2amNaRi1XemFqclE1T1FtdERSSmVScHdIemVKYkVzS2Ria0Jhd9IB6wFBVV95cUxPM2djaGM4X3ZQZnlpRVpJeDdZUi1CM0RVQm9UbVlvTXFHQTJ6TlRpcHRfQ2tfWHJEY2NhYWtZaTVSV1RWTjdDYWUtRG5VMVRLaU1NM0JGb2p2b1dUTTZaRXVDRTkyZzFtNlBHQ2R0bGF2QTF1bkJwTmVXR2JxRm1fQm5Fb3VQVnZ6aFZtY25xSkx0VGo4aG1NMUwtV3cySHpJZVlwN3pTZ013SkRocGIyZmtfQjZUWUgxcDdtVGtRTDQyNUYzQ1ZqRjhjaENKTGgwTWtpLURjbXg0RWRLVlNCeEpPMVVvNl94b2dj",
+      "topics": ["AI copyright", "personality rights", "litigation"]
+    },
+    {
+      "title": "Can an AI platform hold a music copyright?",
+      "summary": "An analysis of the emerging legal question of whether AI platforms can themselves hold or claim music copyrights, as courts and legislators grapple with AI's role in creative authorship.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOempVQWt4a0lWc3U3NGIwNkFPbTQyMUJKNVBsOE1BTm10OTgtTm80VW9ITWROa2Rwal9LVWc5MHpORU1WRVVqY20xd2twUW1KNnRkdTExcnRYbElrMXRjdExrODN5MG52TC1EM2J1U283RWJYdjFtcmhFSlVsMlJzVXYyV09xaFRMNmV1X2lwWkxubERGQ0p2MzlZSmVadHN2eWxHRFQ4U1RYX1XSAbIBQVVfeXFMTzJXR21BakF6c1g4aktQVEdSRm5uSmVPRG5hUElvYzZfRFdndDNQcXN4OFF3bnJyR0tmQVI5VGxxWUx4UENCYW9DTmwtZ1h1RXJ3aWpiTG9nSlpSa29SekV0eWV6cUFkTTVJNWRJS0tJbV9uN2FFb0c3NnFzZWh6QndPaHRrZDZvRUR5anB0LVVFeTdXYk9yMVhfaHJvX3huM2FWdVd5SlBFd0tFbHl1Ml9YUQ",
+      "topics": ["AI copyright", "music", "licensing"]
+    },
+    {
+      "title": "AI-generated search summaries and trade marks: Berlin court refuses injunction over perfume \"dupes\"",
+      "summary": "A Berlin court has declined to grant an injunction in a case involving AI-generated search summaries and trade mark rights related to perfume dupe products, in a ruling with implications for AI search liability and brand protection.",
+      "url": "http://ipkitten.blogspot.com/2026/06/ai-generated-search-summaries-and-trade.html",
+      "topics": ["AI copyright", "trade marks", "litigation"]
+    },
+    {
+      "title": "AI.Law Sues Eve Legal and Butler Labs Over AI Patent",
+      "summary": "Legal AI company AI.Law has filed a patent infringement lawsuit against competitor Eve Legal and Butler Labs, in a dispute over AI-related patent rights in the legal technology sector.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXE1dzBhTFJTcGsyNnJxODFQUDF3UFpsMWp3bHVTT2lZbXlJazcyZ29rYTFDUk5oeXZETVkyQThfNEFkUUphNXVuR2hqaWtJUVpKUm45UkRsemphdjNUajVRak9MUHJCSTRMVElIV2dERFRsLWgwTmN0TUh2WndRd0Y4X3hTdi1td2FJd29WMA",
+      "topics": ["software", "litigation", "AI patent"]
+    },
+    {
+      "title": "YouTube AI Lawsuit, Lionel Richie Trademark, Diddy Case Ruling & More Top Music Law News",
+      "summary": "A roundup of recent music law developments including a YouTube AI lawsuit, highlighting the growing intersection of AI, copyright, and the music industry.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd3NBZEVIcnQyZjFVVUNNWjJtbFRPZll5NFJYNHlEMlhvOFNwMVFoUDF1bnZDSGR2YTV5dFdfUjJtN1h3MU5OMnRUcjlfQVlERV80Uy1mcE5EaHdfNG1pU3MteEZjYjA3VVF3UUp3eUt1bnJvZnpJQzA1eE1nRGpVbzlJYjJwOF9yWXQ3emdGaG5Udw",
+      "topics": ["AI copyright", "music", "litigation"]
+    },
+    {
+      "title": "AI-Driven Drug Development Spurs New Patent Law Challenges",
+      "summary": "The use of AI in pharmaceutical drug development is generating novel patent law challenges, as courts and regulators grapple with questions of inventorship and patentability for AI-assisted discoveries.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHNPSUs2S2ZGblBadzZJdXRnaTBIM3FlUkF5LXVlQjhOTFJxdzNDRWRZWFV2OTlvdmZsb21zUFVzVlVDVzVPSXlzX3M3cEtCR3lnQ3czbFdIeXNvWmxYV3hGTkZLdHhTaFFlVTFLcVBJRWFRTDFJWGVTdlRsVVY5cWxiTjFJUk52MTYxampuOVpBQV9QekNxeVNjNA",
+      "topics": ["AI patent", "software", "policy"]
+    },
+    {
+      "title": "Ask the Fellows: SSP's 2026 Annual Meeting",
+      "summary": "A report from the Society for Scholarly Publishing's 2026 annual meeting in which SSP Fellows discuss key issues facing academic publishing, including the impact of AI on the industry.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/06/18/ask-the-fellows-ssps-2026-annual-meeting/",
+      "topics": ["academic publishing", "AI tools", "licensing"]
+    }
+  ]
+}
