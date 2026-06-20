@@ -1,0 +1,85 @@
+{
+  "top_stories": [
+    {
+      "title": "Is AI ruining our skills? Early results are in",
+      "summary": "New research examines whether reliance on AI tools is degrading human skills across various domains, with early findings beginning to shed light on the cognitive and professional trade-offs involved. The study represents some of the first empirical data on skill atrophy linked to AI usage. The results have significant implications for how organisations and individuals should approach AI adoption.",
+      "url": "https://www.nature.com/articles/d41586-026-01947-1",
+      "topics": ["AI ethics", "generative AI", "technology ethics"]
+    },
+    {
+      "title": "Generative AI Is Having Its Herbalife Moment",
+      "summary": "An analysis argues that generative AI is showing warning signs similar to the Herbalife multi-level marketing controversy, where hype and investment outpaced genuine sustainable value creation. The piece draws parallels between dot-com era bubble dynamics and current AI investment patterns. It suggests that a reckoning may be approaching as costs mount and ROI remains elusive for many enterprises.",
+      "url": "https://www.whatwelo.st/p/generative-ai-is-having-its-herbalife",
+      "topics": ["generative AI", "AI industry", "business"]
+    },
+    {
+      "title": "A startup claims it broke through a bottleneck that's holding back LLMs [Metered]",
+      "summary": "A startup says it has developed a technical breakthrough addressing a fundamental architectural bottleneck that limits the performance and efficiency of large language models. The claim, if verified, could have significant implications for the pace of LLM development and deployment costs. MIT Technology Review examines the nature of the bottleneck and the evidence behind the startup's assertion.",
+      "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "topics": ["large language models", "AI compute", "AI infrastructure"]
+    },
+    {
+      "title": "Barret Zoph is out at OpenAI again after just five months",
+      "summary": "Barret Zoph, a senior research leader, has departed OpenAI for the second time, leaving after only five months in his most recent role to join Thinking Machines Lab. His exit is the latest in a series of high-profile departures from OpenAI. The Verge reports the move adds to ongoing questions about leadership stability at the company.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "topics": ["OpenAI", "AI industry", "leadership"]
+    },
+    {
+      "title": "Companies rein in AI usage as costs strain budgets [Paywalled]",
+      "summary": "Businesses are scaling back AI deployments as the financial burden of running AI tools proves higher than anticipated, according to the Financial Times. Budget pressures are forcing firms to reassess which AI use cases deliver sufficient return on investment. The trend signals a broader maturation phase in enterprise AI adoption following a period of rapid, sometimes uncritical, expansion.",
+      "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
+      "topics": ["AI industry", "business", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Norway imposes near ban on AI in elementary school",
+      "summary": "Norway has introduced restrictions that amount to a near-ban on AI use in elementary schools, citing concerns about child development and learning outcomes.",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "topics": ["AI regulation", "AI governance", "technology ethics"]
+    },
+    {
+      "title": "Amazon investigating engineers who criticized AI data center expansion",
+      "summary": "Amazon is reportedly investigating employees who spoke out internally against the company's plans to expand its AI data centre infrastructure.",
+      "url": "https://www.cnbc.com/2026/06/18/amazon-engineers-ai-data-center-opposition.html",
+      "topics": ["AI infrastructure", "AI industry", "business"]
+    },
+    {
+      "title": "3 Amazon Workers Say They're Under Investigation for Speaking Out About Data Centers [Metered]",
+      "summary": "Wired reports that three Amazon employees say they face internal investigations after raising concerns about the environmental and operational implications of the company's AI data centre expansion.",
+      "url": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
+      "topics": ["AI infrastructure", "technology ethics", "AI industry"]
+    },
+    {
+      "title": "Adobe's redesigned AI studio remembers what your creations look like",
+      "summary": "Adobe has updated its Firefly AI studio with a new agent and project memory features that allow the tool to retain context about a user's creative work across sessions.",
+      "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+      "topics": ["generative AI", "AI personal assistant", "AI tools"]
+    },
+    {
+      "title": "xAI releases Grok Imagine Video 1.5",
+      "summary": "Elon Musk's xAI has released a new version of its AI video generation model, Grok Imagine Video 1.5, as competition in the AI video space continues to intensify.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIalZSU0dGWXU4R0hLNXNFVExNbUdiS2lzR1hDQ25SdEtWRC1iU09CSmZJWWh2UEMzVEFrTXYxaFhlaThuelJJd0lmXzJOTThkZTM5dHpjaVl0amZCalZWVEQ1VXFCSVo0YjNHdg?oc=5",
+      "topics": ["AI video", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Authors, reviewers and editors should not be left to endure AI anxiety alone",
+      "summary": "A commentary argues that academic publishing institutions must provide better support and clearer guidance to help authors, reviewers, and editors navigate uncertainty around AI use in research workflows.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVnRxLXR5TWptZ2ZWSFpTOUlpSi04WW5rRk85Y01IaXRHQjJpaFlaRmxMeUJMUVhxaG9sNG5hejRRQi1sNlBydWhtLXJIYUdhT3BDUlN0QTNKTVgtZUsxb0tUNEs1NEhtUllndDRkN2hYbWZZT0lEbXhkREFuM0xpSlNNOW9NbThtaTNhemZsbXk5aDhCcl9VdHRyMWFLYzZoTTNfdmIzTUN2dmtEU3k3Z3NKRDFRQ0tj?oc=5",
+      "topics": ["academic publishing", "AI ethics", "research integrity"]
+    },
+    {
+      "title": "Databricks Unleashes Wave Of Product Launches At Data And AI Summit",
+      "summary": "Databricks announced a series of new product releases at its annual Data and AI Summit, targeting enterprise data and AI infrastructure needs.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ0pBY1pnXzBibHY5QnZaZl96THFNM2ZRMk1NVE54cmlqeC1SWXZNTWQxR0o1R2VhQkJzbmJ5b1lZU2tTeWlYaWF1ZWhnSHBta3hPdTlhV0FPZGEweVRwWWg2Q1c1YmJxYVo4blVZaTlfMkZoVFpqS0xVNXFIYzFhamx2UkNySV9Lc0x1RExQZVZiRHhzV1FR?oc=5",
+      "topics": ["AI infrastructure", "generative AI", "AI industry"]
+    },
+    {
+      "title": "The film about Sam Altman has been dropped by Amazon MGM",
+      "summary": "Amazon MGM has dropped a planned documentary film about OpenAI CEO Sam Altman, ending the project before release.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+      "topics": ["OpenAI", "AI industry", "leadership"]
+    }
+  ],
+  "ethan_mollick": null
+}
