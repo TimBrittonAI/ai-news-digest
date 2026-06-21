@@ -1,0 +1,61 @@
+{
+  "top_stories": [
+    {
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "summary": "The Atlantic has launched a searchable database revealing what music was used to train AI models, adding transparency to the ongoing debate over AI training data and copyright. The tool allows users to look up specific tracks or artists included in training datasets. This follows growing pressure from creators and rights holders for greater disclosure around AI training practices.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "topics": ["AI training data", "copyright", "generative AI"]
+    },
+    {
+      "title": "Agency stole bestselling author's book, used AI to relaunch as their own",
+      "summary": "An investigation by Waxy.org reveals that a literary agency wholesale plagiarised 'The Dictionary of Obscure Sorrows' by John Koenig, using AI tools to repackage and relaunch the book under a different name as their own work. The case is a stark example of AI-assisted plagiarism targeting published authors. It raises serious questions about content theft, AI ethics, and the vulnerability of authors to AI-enabled fraud.",
+      "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
+      "topics": ["AI ethics", "copyright", "generative AI"]
+    },
+    {
+      "title": "The Download: AI bottleneck debates, and BCI trials take off [Metered]",
+      "summary": "MIT Technology Review's daily briefing covers a key debate about whether large language models are hitting fundamental bottlenecks in capability improvements. The issue examines arguments from researchers on both sides of whether current LLM architectures can continue scaling effectively. The edition also covers rapid growth in brain-computer interface clinical trials.",
+      "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+      "topics": ["large language models", "AI industry", "AI research"]
+    },
+    {
+      "title": "Siri AI Hands On: A Smart, Helpful Assistant [Metered]",
+      "summary": "Wired provides a hands-on assessment of Apple's updated Siri with new AI capabilities, evaluating how it performs as a personal assistant across a range of tasks. The review finds the updated Siri to be noticeably smarter and more helpful than previous iterations. The piece positions Apple's AI assistant within the broader competitive landscape of AI-powered personal assistants.",
+      "url": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+      "topics": ["AI personal assistant", "consumer AI", "Apple"]
+    },
+    {
+      "title": "Temporary Cloudflare accounts for AI agents",
+      "summary": "Cloudflare has published a blog post detailing a new feature that allows AI agents to create temporary accounts, enabling them to access services and perform actions on the web with scoped, short-lived credentials. The feature is designed to support the emerging wave of agentic AI systems that need to interact with external services autonomously. Cloudflare frames this as infrastructure for safely managing AI agent identity and permissions.",
+      "url": "https://blog.cloudflare.com/temporary-accounts/",
+      "topics": ["AI infrastructure", "AI agents", "AI compute"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "When I reject AI code even if it works",
+      "summary": "A developer reflects on the criteria they use to reject AI-generated code on quality, maintainability, and comprehension grounds — even when the code technically functions correctly.",
+      "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+      "topics": ["AI coding tools", "software development", "AI ethics"]
+    },
+    {
+      "title": "AI Engineer Claims to Have Cracked Linear A",
+      "summary": "An AI engineer claims to have used machine learning techniques to partially decipher Linear A, the undeciphered ancient Minoan writing system, though the claim is treated with cautious scepticism.",
+      "url": "https://aiclambake.com/clamtakes/linear-a/",
+      "topics": ["AI research", "language translation", "generative AI"]
+    },
+    {
+      "title": "Brain-computer interface trials are taking off [Metered]",
+      "summary": "MIT Technology Review reports on a surge in clinical trials for brain-computer interfaces, with multiple companies now running human studies following early high-profile successes.",
+      "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+      "topics": ["AI research", "technology ethics", "neurotechnology"]
+    },
+    {
+      "title": "Microsoft discovers new lightweight backdoor that steals cryptocurrency",
+      "summary": "Microsoft has identified a new self-propagating malware strain that installs a lightweight backdoor on infected systems and targets cryptocurrency wallets.",
+      "url": "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/",
+      "topics": ["cybersecurity", "Microsoft", "malware"]
+    }
+  ],
+  "ethan_mollick": null
+}
