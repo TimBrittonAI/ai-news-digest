@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Over 100 Authors Sue Anthropic, Claim AI Firm Used Pirated Books",
+      "summary": "More than 100 authors have filed suit against Anthropic, alleging the AI company used pirated books to train its AI systems without authorisation. The lawsuit represents a significant escalation in litigation between the publishing and creative communities and AI developers. This adds to a growing wave of copyright litigation targeting major AI firms over training data practices.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbXFyUVRTSVZ3b1Z4X0xRRkxwX2wwd19JQmpQWlpGeEd1MXhYRXhidHIzNTFMVWs5a2VrVXlMUG4zc0ZOZjNZY29KOGhqMEo4a0FhdmJ1SEh0S21DMHl3b1FvQkkyTnEwc1pYcVpWTVVKSV9SZjdpYVBJcjNNNURNc0psYUpSNFdHN1hwcGVTcWktQ0hHay05eW9YeUFtdWZJRFZsQXNIRkV5c003YzBXLVRPOUtUYWFaa3p0MExRM0htRG5p0gHKAUFVX3lxTE5najdudTFOVHpzakVxZHRlWXpCSnpQV0o4cWFqV0RBWjhMQk4tUjBwcEg0eEx1R01HcjVTSVBOSHJrNmhYNGMtMzFRcHFwNVdENHlDQ0VsTU13VXZoQ0ZaLWgzYW5BeGtyekFIRDlrT2FzaTBnY20xYmFDWTBuUGtXQ3NpdHBXcFg3TXRlQmVnUVFEY2dYQmRVcXl2amRBMU94eDZUT2VNYkczYWVmM2x5bTBTcy1wbFFTVE9TUE5KV2ZwWWdmMGRXSVE",
+      "topics": ["AI copyright", "litigation", "publishing"]
+    },
+    {
+      "title": "Eleonora Rosati, lawyer: 'Artists are already thinking about how to protect themselves from AI; Taylor Swift has registered her voice'",
+      "summary": "IP lawyer Eleonora Rosati discusses how artists are proactively pursuing legal strategies to protect their work and likeness from AI exploitation, citing Taylor Swift's registration of her voice as a notable example. The interview covers the evolving landscape of AI and intellectual property protection for creative professionals. Rosati notes the legal tools available to artists are expanding as the industry responds to AI-related threats.",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNMFAwb2hwRVN6YXdkM0pIelJ3d1JlclRIY2QwWlByZkVLdUpTV2lHbTlGekRxTlZiU3dNSnpmMWJrVEh2Q1lDTUpaYXRkT1ZUbGpic2NCeG40SUZSdGxNVzlkM081bUo0eHRmNmY3V2FweUdubnZyTHhRd3B1ZzFNQlB3TWsyM2hoRWdWVmZ0MDBfU3gzZmJXc2tUS2o3dGRsUjFmcjhxSURFMW9IRXZ3RC1qSHNNZzFZeGpCdFNJaXd5bDBnS2NhTERaVThaWm5rcU1fSm16YXRjVEkwRDBMZi1Rdjh3bW9sOE1qR2pFMGdyUTUzUkk5YndxWUtRcU1TdVRFNWZxZlNzRE1PZUVvMdIBpAJBVV95cUxPbTI2SE9RWi1hSU0tblFMWkhJdUtkRF9MRC01OFNuMnRlVU1pRHhKZU5DTkVpNS1FZWg0ZzJJNHRHSHFwVXJNY1JubFJ2MmwtQzVOQmRZNG9vYTJiZHNEMlJQcF9ieTJMWW91MGRGRmlyWVN2WXpzR09XUFZ2ODJheF91b09nbTNoWFVyUDlfUURBVE5SQ1U2Y29FZGFDd09weGtpT3pRQnJwRzZNckdqaWFVZjBLV3VMVGl4NjFZdGZSSzFIWGVDVnlGOGtvYktFdWJsUXVHZjZFUU5GZkJ1cXZTSElvajJZT2pBT0k3bjVXREh3U012MDQzZm1OSEJsYS1hSlh5aGxGTUlkb3ZVUWx6MmVqUkl1amRpd05BZVJEOG16",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "Investors sue Adobe execs over AI copyright statements",
+      "summary": "Investors have filed a lawsuit against Adobe executives alleging that the company made misleading statements regarding the copyright compliance of its AI training data. The case raises questions about corporate disclosure obligations around AI intellectual property practices. It follows broader scrutiny of Adobe's AI products and the sourcing of training materials.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSGlDS29TZHAtWU9ackJLNHpwWTJBUUU0RkpfRjFTbm9ZbDBRbWpETGlTQk85T0pYaWdMLUlrdTdDaHU5NjB6VlV2SXBWRklEN1FxQS03ZllnZ3gza04taXRhSG5FNndhRFQ1bzR3TEk2dU9PUjRKWjVadEhOTVJoNDVvUTJDVGpSYkF2WHlFOA",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "New Law Would Give Artists Sweeping Protections Against AI Stealing Their Work",
+      "summary": "A proposed piece of legislation would extend broad intellectual property protections to artists against unauthorised use of their work in AI training and generation. The bill reflects growing legislative momentum to address AI-related copyright concerns at the federal level. Specific provisions aim to give creators enforceable rights over how their work is used by AI systems.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MXy1XdHFyUnhIa1JaMEZubDEwV0E4aGtadzNIc3hlZTdJaklZNi11UmpMc0tMTWY5bTN6TkI4SG9qNXhXY1ZXRkU5cjNxRXdRNTBPWW9RREpMWkpwNEZKb3VVajlEcU1xd2ZnNFdIUmQ0aWtZZFE",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "How US courts are addressing fair use questions in AI training and copyright disputes",
+      "summary": "An analysis of how US courts are navigating fair use doctrine in the context of AI training data and copyright infringement claims. The piece examines emerging judicial reasoning across multiple cases involving AI developers and rights holders. It highlights the lack of settled precedent and the divergent approaches being taken by different courts.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX3hXazBYcjc2dXZHblZJSHFGRkcwNnNNZUZxekhoQmt2OXRGZVJ2aDktM3FkWEozYW5YRVp0QXNsV3hJN2RnZmt1WVkyeEhTNkU0dm82SFJnSGMwT1pEdXBoZFlyRmFaMUxGc2xHOTlHZmJmVTA3WnJMcUJ1NlA4NHUzTGw2MnFYanJMSnBrQlMxUnc5Yk9iVWV6YmwtTkUxTHRRb3djdEpqeUdCNjJNT2NHWV96MnAxZTVr",
+      "topics": ["AI copyright", "litigation", "policy"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "AI Deepfake Law NO FAKES Act Advances in Congress With Key Senate Committee Vote",
+      "summary": "The NO FAKES Act, which targets AI-generated deepfakes and digital replicas, has cleared a key Senate committee vote, advancing federal legislation to protect individuals' likenesses and voices from AI misuse.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrWHotZWhLay1GcGozVlE5MGxrUTV2N3dLUUJ6RTVsYm5WbE8tVlVLV3BQTDIzRS1aWXFFcG8wdjhzOWZVdUpYcDZJamFXaFFnT2hVSjVIcGFUMm01UEI2bmdlcFZua0QtZThndnlyYTdtbzA2Smc",
+      "topics": ["AI copyright", "policy", "litigation"]
+    },
+    {
+      "title": "The novel legal strategy that Taylor Swift, Matthew McConaughey are using to fight AI",
+      "summary": "Taylor Swift and Matthew McConaughey are among celebrities adopting a new legal approach — registering their voices and likenesses as intellectual property — to protect against unauthorised AI use.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaTF6dEY5R0NlZzhRX2xxRlhVdWtSN19xc0V2MHBpVGFEQWRpUF9MWHM4dHZNVVdWYlBxblFlVl9UVVk1UFN5RXNJcGI1VzNsdkNkQ2xoX09SYW94d2dUaXYwMHR0VjQyQUpXTEJiNlJiZS1JNGVRUjNEVi11WTRYeVppT0h3U2kxQ3FZZGJqU2h1eWpnODZieDNRMVlVZw",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "APRA AMCOS Reveals Australian And New Zealand Songs Found In AI Training Datasets",
+      "summary": "Australian and New Zealand music rights body APRA AMCOS has disclosed that songs by local artists have been identified within AI training datasets, intensifying calls for licensing frameworks to protect musicians.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdml6VlMxeTVZc3QtOGlNTnktakZVT3hjTmFjR3diM3R0Qi0yeVh2WG1VQVpEdTRYQ2hVMUppTE4zM21ZdEUxWTIyMzNzMmlBYkxzNFVqcVVDTHdrc3J4OHV5OWdmS1gtTHhMbFRqUE9zdFFKTTd5MHU0STE5dTBEX1BTZWt6Zk9CVC13QVhoUnNJckxoQ2k5NVV3SWhnSms",
+      "topics": ["AI copyright", "licensing", "publishing"]
+    },
+    {
+      "title": "Big Tech Is a Thief and Liar, Says NYT Publisher",
+      "summary": "The publisher of The New York Times has publicly accused Big Tech companies of stealing content and acting dishonestly in their use of journalism to train AI systems, amid ongoing litigation between the NYT and AI developers.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSVpPS0VOTC1abmJndjUxank1b1F5WkhOeUltSXF4V200bVZzN0xibzhZZUJMM3Z1X0JPNnNPcEF3MncxQWQzRm5TZkx4MmY3RzlQTHhybXljNnBmZVZleEdoZjVkWWJFQ0JkTXNhY0tFWXJyVXBEZlBiQmlHbmxQbnhMN1VkZUp4c3QtVEdMdGtZZjZvZ054Vg",
+      "topics": ["AI copyright", "litigation", "publishing"]
+    },
+    {
+      "title": "Calif. Senate Votes to Advance AI Copyright Bill Backed by Voice Actors",
+      "summary": "The California Senate has voted to advance a bill supported by voice actors that would provide expanded copyright protections against AI replication of performers' voices and likenesses.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZEJvd2UxQWFuQ2lVTF9NOWUxMFZOZmN6M284c3BWVmZHRkV3NmxJZXBncW9fLWwyTm1jbUV0bWZWOC1vRTlmVVlWVXJMMlpGVHhZb0FLUjB2czg1RG54UUhKMWduV0RSNXBKZ0htQkkzcXE1MmdQZWFyOFpER3dRRnJwUC00dWtQOTJrQ2JvNGtKOUE0LURWRFpvb2x2ajFIWWtTLUNCVU5KeWNKRTQ1N29jZk1yRjFpUU5IbVhtOFFtQTZtMjVHclNuMA",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "German court holds Google liable for AI hallucination: Read the full decision here",
+      "summary": "A German court has found Google liable for an AI-generated hallucination, publishing the full decision and setting a notable precedent for AI-related liability in European jurisdictions.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN0pqTzRpLTRGN0lROGVZVjMxTi1mZ2pqaWdqLWpKQktvX2Nicm9aZVBzN3drUjBRVEVmZkVsUEcwVTB4bEhqMHZTY3dJVHRudWdqNllOU01YSGdqTnB2Q1JuSlNfX3BBTUV0dXhWOEZGT3FIdnF1SDEzVnhiTGZ1SWFuWTJOMTRXWjNjVWV0aEhkZE85Y3FEWWV4UXhkenE1RHhlVXg3ZHk5cWJJcF9aMV9FbXRIVWh1Z2liM29BYlM",
+      "topics": ["AI copyright", "litigation", "eu law"]
+    },
+    {
+      "title": "Adobe Faces Derivative Claims For AI Copyright Infringement",
+      "summary": "Adobe is facing derivative legal claims related to AI copyright infringement, compounding the investor lawsuit over alleged misrepresentations about training data compliance.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbjFyb3ppR1lraDg1bVFIaHB3LUpzU2R2Nms2TUlZZ0RsVXBVWkNRMG5Dc0hmVFhMQjg1UHBHVnVIaUR3dEhaYjd5TEd1YVJ1QUtYeUozOXJOaUEwa255OXhOZ0JvX2pVUFVsNFdJcm05TnJscU15a0JiUnlYampOaGp1dHMxTTF5S1M0ejlMaE9HWE9oQUxLRHNOX1RDd2Nn0gFWQVVfeXFMTXpGbXVVODhpUnZhRjU2Znh6ZFJiNEFXRzdMZXZfX0NCVnA2cGpuYTFKRmN1LXk4OUJMVkpLYkpGUV8xNlpKX2VEMk5sNHpQSE9HUUc0OXc",
+      "topics": ["AI copyright", "litigation", "software"]
+    },
+    {
+      "title": "Weighing up AI prompts with copyright law",
+      "summary": "An analysis of how copyright law applies to AI prompts, examining whether prompts themselves can attract copyright protection and how they interact with AI-generated output.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VMmhYMUpENkRrcS12ckYxaEx0b1dZQ1hYR2NNWkg1VXlhbVJnWU55aWZKSVMwTmw2YXZEWUJnUXVuMm1QQjhmUFNhQk9SaGFKbDFfMW9yS2VpZw",
+      "topics": ["AI copyright", "policy", "software"]
+    },
+    {
+      "title": "Attribution, Provenance, Reference, Citation, and AI for Research Applications",
+      "summary": "The Scholarly Kitchen examines the distinctions between attribution, provenance, citation and reference in the context of AI tools used for research, with implications for academic publishing integrity.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/06/17/attribution-provenance-reference-citation-and-ai-for-research-applications-understanding-the-differences/",
+      "topics": ["academic publishing", "AI copyright", "licensing"]
+    },
+    {
+      "title": "AI-generated search summaries and trade marks: Berlin court refuses injunction over perfume \"dupes\"",
+      "summary": "A Berlin court has declined to grant an injunction against AI-generated search summaries referencing perfume dupes, in a decision with implications for trade mark enforcement in AI-driven search contexts.",
+      "url": "http://ipkitten.blogspot.com/2026/06/ai-generated-search-summaries-and-trade.html",
+      "topics": ["AI copyright", "litigation", "eu law"]
+    }
+  ]
+}
