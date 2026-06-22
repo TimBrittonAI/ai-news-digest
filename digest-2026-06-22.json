@@ -1,0 +1,67 @@
+{
+  "top_stories": [
+    {
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "summary": "OpenAI has announced a deployment partnership with Samsung Electronics, bringing ChatGPT and Codex to Samsung's workforce. The move signals continued enterprise expansion of OpenAI's tools into major global corporations, including AI coding capabilities via Codex.",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "topics": ["OpenAI", "ChatGPT", "enterprise AI"]
+    },
+    {
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "summary": "OpenAI has rolled out new usage analytics dashboards and updated spend controls for ChatGPT Enterprise customers. The changes give organisations greater visibility into AI usage and more granular control over costs across teams.",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "topics": ["OpenAI", "ChatGPT", "enterprise AI"]
+    },
+    {
+      "title": "Who decides when AI is too dangerous? [Metered]",
+      "summary": "The Verge's podcast examines the regulatory landscape around AI safety following reports that the Trump administration is developing AI export controls and governance rules largely on the fly. The episode covers Anthropic's Claude, the Mythos ban, and Pentagon AI regulation, raising questions about who holds authority over dangerous AI deployment.",
+      "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+      "topics": ["AI safety", "AI regulation", "Anthropic"]
+    },
+    {
+      "title": "The White House Is Making Up Its Rules for AI in Real Time [Metered]",
+      "summary": "Wired reports that Anthropic's Mythos export controls and broader White House AI regulations are being improvised without a coherent framework, creating uncertainty for the AI industry. The piece examines how ad hoc rulemaking is shaping which AI tools can be exported and to whom.",
+      "url": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
+      "topics": ["AI regulation", "AI governance", "Anthropic"]
+    },
+    {
+      "title": "Amazon employees say they're facing termination for backing data center limits",
+      "summary": "Amazon employees who signed a petition calling for limits on the company's data center expansion say they are facing disciplinary action, including potential termination. The situation highlights growing internal tension at major tech firms over AI infrastructure growth and its environmental impact.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+      "topics": ["AI infrastructure", "AI ethics", "technology ethics"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Building reliable agentic AI systems",
+      "summary": "Martin Fowler's site publishes a detailed technical piece on the architectural and engineering challenges of building reliable agentic AI systems with large language models.",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "topics": ["large language models", "AI coding tools", "generative AI"]
+    },
+    {
+      "title": "Meta's AI Workers Are Revolting, Peter Thiel's Secret Society, and SBF's Plea to Trump [Metered]",
+      "summary": "Wired's podcast covers internal dissent among Meta's AI workforce, alongside other technology and politics stories of the week.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/",
+      "topics": ["Meta", "AI industry", "technology ethics"]
+    },
+    {
+      "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level [Metered]",
+      "summary": "Wired offers a practical guide to improving prompting techniques for ChatGPT users, covering strategies to get more accurate and useful outputs.",
+      "url": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+      "topics": ["ChatGPT", "user interaction", "generative AI"]
+    },
+    {
+      "title": "Korean Knowledge Sovereignty Depends on Academic Journals in AI Era",
+      "summary": "A report highlights concerns that South Korea's academic knowledge base is at risk in the AI era if domestic journals are not adequately digitised and integrated into AI training datasets.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRV9jWUJXVmxEVy03X3RJRVdmemtVSnpEWVdVeEd6bDRaRFVQLTllb1N6N3JueVJDZXpBYW54cGV1MkE1QjY2ZUpiU19mV0JCS1hidDJVTWZhQi1IMnB4MEFCVnkyaXVreHN0X2xSTm91NDJRcTBMcFhjVFVsWHZRNUw2Yl9Fb1U?oc=5",
+      "topics": ["academic publishing", "AI", "research integrity"]
+    },
+    {
+      "title": "The inevitable weakness of metrics [Metered]",
+      "summary": "MIT Technology Review reviews a book on the limits of quantification, a theme with direct relevance to how AI systems are evaluated and benchmarked.",
+      "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
+      "topics": ["AI ethics", "research integrity", "bias"]
+    }
+  ],
+  "ethan_mollick": null
+}
