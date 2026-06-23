@@ -1,0 +1,91 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic's Mythos",
+      "summary": "OpenAI has launched a major initiative called 'Patch the Planet' and an associated security product called 'Daybreak', aimed at finding and fixing vulnerabilities in open-source software used by organisations worldwide. The effort is framed as both a cybersecurity mission and a competitive move against Anthropic's safety-focused reputation. OpenAI says it will support open-source maintainers as part of the initiative.",
+      "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+      "topics": ["OpenAI", "AI safety", "open source"]
+    },
+    {
+      "title": "Three things to watch amid Anthropic's latest feud with the government",
+      "summary": "MIT Technology Review outlines key tensions between Anthropic and US government bodies, examining regulatory, legal, and policy flashpoints in their ongoing dispute. The piece identifies specific areas of concern — including AI safety oversight and government procurement — that could have broader implications for how AI companies interact with federal institutions.",
+      "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "topics": ["Anthropic", "AI governance", "AI regulation"]
+    },
+    {
+      "title": "Scientific images faked with AI tricking academic journals",
+      "summary": "AI-generated fake images are increasingly being used to deceive academic peer review, with journals struggling to detect manipulated or entirely fabricated research figures. The trend raises serious concerns about research integrity and the ability of existing editorial systems to catch AI-assisted fraud at scale.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZlRhMlN0cGVkTE5WU2ZJYzk2NnF3RTlkNGhQRmJ5ck9JNDdqY1lvYjlyVUVPbnR4R3A5VUFLRnljLTBCYkQxSERMYW1JWTRlVTh2OVUwWDB2ZjgxcElQQjV5Q1VnVnhJdTVyREtubkNaQVc0Tk54SDNzdVpyNEVka0hjSkh1dDRuX1NPUEN0MEU4MEVqSVdQNnd5azFTMFBWcjF1LTBtY3lKWktsWUFGeGhB0gG3AUFVX3lxTFBRNVM5amdQQkZLZ3BUZm5uSF9YWS0xZ1piVDVzTUhWOXltVUV4RlVPanBlVGxjSVBFc1pUaVJrY0FBalFjOHdmN2tMa1o5WnZJVnp6ZXdIREpIeVA3UVMwNDJSSE1OT1J2ZDFDVno1bmh5Tm5RVFNZcjBvNEo4cHBWWi1iM1pNVUZoRHZyNWNkNnE4eVhRX19XMXFuU3MwZjVUamhOWUc0U2o3dGRoRTRHd25aY3Mwcw?oc=5",
+      "topics": ["academic publishing", "research integrity", "generative AI"]
+    },
+    {
+      "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak [Metered]",
+      "summary": "Meta has suspended an internal programme that used AI to monitor employee keystrokes after a security breach exposed staff activity data across the company. The leak allowed employees to inadvertently access one another's tracking data, raising significant concerns about the ethics and security of internal AI-powered surveillance tools.",
+      "url": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+      "topics": ["AI ethics", "technology ethics", "Meta"]
+    },
+    {
+      "title": "Is AI ruining our skills? Early results are in",
+      "summary": "Nature reports on emerging research examining whether reliance on AI tools is causing human skills to atrophy, including cognitive, professional, and creative capabilities. Early findings present a mixed picture, with some studies suggesting measurable skill degradation in certain tasks while others show AI augmenting human performance.",
+      "url": "https://www.nature.com/articles/d41586-026-01947-1",
+      "topics": ["AI ethics", "generative AI", "user interaction"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "summary": "OpenAI's official announcement of Daybreak, a new security-focused initiative offering tools to help organisations of all sizes identify and patch vulnerabilities.",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "topics": ["OpenAI", "AI safety", "cybersecurity"]
+    },
+    {
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "summary": "OpenAI outlines its Patch the Planet programme, which will fund and support open-source maintainers to address security vulnerabilities at scale.",
+      "url": "https://openai.com/index/patch-the-planet",
+      "topics": ["OpenAI", "open source", "AI safety"]
+    },
+    {
+      "title": "Codex-maxxing for long-running work",
+      "summary": "OpenAI publishes guidance on using Codex for extended, complex coding tasks, highlighting techniques for getting the most out of the AI coding tool on long-running workflows.",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work",
+      "topics": ["OpenAI", "AI coding tools", "large language models"]
+    },
+    {
+      "title": "Companies rein in AI usage as costs strain budgets [Paywalled]",
+      "summary": "The Financial Times reports that businesses are scaling back AI deployments as the financial burden of licensing, compute, and integration costs becomes difficult to justify against returns.",
+      "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "Read this before you vibe-code another app",
+      "summary": "The Verge examines the security risks introduced by AI-assisted 'vibe coding', warning that apps built rapidly with generative AI tools frequently contain serious vulnerabilities.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+      "topics": ["AI coding tools", "generative AI", "technology ethics"]
+    },
+    {
+      "title": "Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI",
+      "summary": "Jack Clark's Import AI newsletter covers new research on AI's potential for superpersuasion, the concept of self-sustaining AI systems, and competing theoretical paths toward artificial superintelligence.",
+      "url": "https://importai.substack.com/p/import-ai-462-superpersuasion-self",
+      "topics": ["AI safety", "large language models", "AI industry"]
+    },
+    {
+      "title": "Powering the next wave of AI: Expanding capacity with our new datacenter in Pecos",
+      "summary": "Microsoft announces a new datacenter in Pecos, Texas, as part of its ongoing expansion of AI infrastructure capacity to support growing demand.",
+      "url": "https://blogs.microsoft.com/blog/2026/06/22/powering-the-next-wave-of-ai-expanding-capacity-with-our-new-datacenter-in-pecos/",
+      "topics": ["AI infrastructure", "Microsoft", "AI compute"]
+    },
+    {
+      "title": "How AI agents are turning enterprise apps into decision systems",
+      "summary": "An analysis of how AI agents are being embedded into enterprise software to automate and augment business decision-making processes.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOXlmeElCY19IZ1FSWEpxRkRNdk52aWxtYy1vR1lmLVRITFM0ZXFraTk5Y1ZoWmpUWS0xeHdoUmVJdlhaZEZlS2VHR25WQlJjZzNRZFF3czh1M29GNi01WXpDNmRkalFueC00MUthNnZnSDA1RW1PbWNzSEhXbzJDVWoyVUEtbEJXSU5UcEJNV2piUVdZNGZ0V1JIVm0tTFJHQ3pBdDRUZw?oc=5",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "AI is cursing renters with the promise of impossible homes",
+      "summary": "The Verge reports on how AI virtual staging tools are misleading prospective renters with photorealistic but inaccurate depictions of apartments in property listings.",
+      "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+      "topics": ["generative AI", "AI ethics", "technology ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
