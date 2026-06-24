@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "summary": "OpenAI details how immunologist Derya Unutmaz used GPT-5 to help resolve a long-standing research puzzle, offering a concrete example of generative AI being applied to real scientific investigation. The post describes the collaborative process between the researcher and the model in analysing complex immunological data. It represents one of OpenAI's clearest case studies yet of frontier AI contributing to academic research.",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "topics": ["generative AI", "OpenAI", "AI research"]
+    },
+    {
+      "title": "Helping build shared standards for advanced AI",
+      "summary": "OpenAI has published a post outlining its efforts to contribute to shared international standards for advanced AI development. The piece describes the company's engagement with standards bodies and other stakeholders to establish common frameworks for AI safety and governance. It signals OpenAI's push to shape the regulatory and technical norms emerging around frontier AI systems.",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "topics": ["AI safety", "AI governance", "OpenAI"]
+    },
+    {
+      "title": "Hollywood is bending the knee to OpenAI",
+      "summary": "The Verge reports that major Hollywood figures and studios are increasingly aligning themselves with OpenAI, with directors including Luca Guadagnino and platforms such as Amazon, A24, Neon, and Mubi engaging with the company and its tools. The piece frames this as a broader capitulation by the entertainment industry to AI, following earlier resistance from writers and actors. The trend raises questions about the future of creative labour and AI's role in film production.",
+      "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+      "topics": ["generative AI", "OpenAI", "AI ethics"]
+    },
+    {
+      "title": "AI promised to democratise academic publishing – the evidence says otherwise",
+      "summary": "A piece from the London School of Economics examines evidence on AI's actual impact on academic publishing, finding that rather than democratising access and opportunity, AI tools may be reinforcing existing inequalities in the sector. The analysis challenges optimistic narratives about AI levelling the playing field for researchers and institutions. The findings have implications for how AI is deployed and governed within scholarly communication.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU1oxTjJ4eUhXWmIwTDN5UEF3WmRtQkN1QXNKMTZLWVRPU3Y2UVExWDZVWHlHUGhfN043SlJNOFdPYmZuVzktS3hsR1NWWGZvam00OEpPZEFYWDMtLXZsSUIyeXZwVUFheUdnU1Z6TXVWN0ZtazN6LWoyaVVkdHZ6R2RkRU0zUF9QQ1RZRFduemdaNEZNN0owWjRWLV9DNU5JN3V6U053WHZHVEktenFSaVZzaFlDSkJBS2dDUjc1VUd4NUJlUmxHM1VBanBJdw?oc=5",
+      "topics": ["academic publishing", "generative AI", "AI ethics"]
+    },
+    {
+      "title": "AI Hiring Tools Yield Racial Bias and Systemic Rejection; 26% Black & 15% Asian",
+      "summary": "Research from Stanford's HAI finds that AI-powered hiring tools exhibit significant racial bias, with Black candidates facing a 26% higher rate of systemic rejection and Asian candidates 15% higher, compared to other groups. The study raises serious concerns about the fairness and legal compliance of AI screening tools now widely used in recruitment. The findings add to a growing body of evidence that automated hiring systems can entrench discrimination at scale.",
+      "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+      "topics": ["AI ethics", "bias", "AI industry"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Oracle's 21,000 layoffs help drive its debt-fueled AI investments",
+      "summary": "Ars Technica reports that Oracle has cut 21,000 jobs while taking on significant debt to fund its expanding AI infrastructure ambitions.",
+      "url": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
+      "topics": ["AI infrastructure", "layoffs", "AI industry"]
+    },
+    {
+      "title": "Rethinking cloud operations with agentic observability",
+      "summary": "Microsoft's engineering blog outlines how agentic AI systems are being used to improve observability and automation in cloud operations.",
+      "url": "https://blogs.microsoft.com/blog/2026/06/23/rethinking-cloud-operations-with-agentic-observability/",
+      "topics": ["AI infrastructure", "large language models", "Microsoft"]
+    },
+    {
+      "title": "Why corporate AI super PACs spent $27 million on a local election",
+      "summary": "The Verge examines how AI-industry-backed super PACs poured $27 million into a New York congressional district race, raising questions about the influence of AI companies on politics.",
+      "url": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
+      "topics": ["AI governance", "AI industry", "AI regulation"]
+    },
+    {
+      "title": "The Download: the future of chipmaking and Anthropic's government clash",
+      "summary": "MIT Technology Review's daily briefing covers ASML's role in next-generation chip manufacturing and a reported clash between Anthropic and the US government over AI policy.",
+      "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/",
+      "topics": ["Anthropic", "AI regulation", "AI industry"]
+    },
+    {
+      "title": "Something's off with Midjourney's pivot to body scanners",
+      "summary": "The Verge investigates Midjourney's move into AI-powered medical body scanning, finding limited evidence for the efficacy of the technology.",
+      "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
+      "topics": ["generative AI", "AI ethics", "research integrity"]
+    },
+    {
+      "title": "How Omio is building the future of conversational travel",
+      "summary": "OpenAI's blog details how travel platform Omio is integrating conversational AI to improve the booking and customer experience for travellers.",
+      "url": "https://openai.com/index/omio",
+      "topics": ["AI personal assistant", "OpenAI", "large language models"]
+    },
+    {
+      "title": "AI's Affordability Crisis",
+      "summary": "A blog post examines the growing gap between the cost of running advanced AI systems and the revenue they generate, questioning the long-term economic sustainability of current AI deployment models.",
+      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+      "topics": ["AI industry", "AI compute", "business"]
+    },
+    {
+      "title": "Roughly 350,000 jobs in Greater Boston are vulnerable to AI. These charts show which ones are most exposed.",
+      "summary": "An analysis identifies around 350,000 jobs in the Greater Boston area as at risk from AI automation, with data visualisations showing which sectors and roles face the greatest exposure.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCTHMyUzVEemV4eWpTNDdDQ2dSZl93cldjbGJFX25lcWZld2UxOWt2eWpXZENQUHdfNHpCUkxMcUtwQV9LMENTNEtETUtQYkZ5MzJ6bW9kejVJa1J3ODQ3WlVVclVOV0lKTlZ3WXhXeGRiNWJ2VTBfSnJ3M2Y?oc=5",
+      "topics": ["AI industry", "layoffs", "large language models"]
+    },
+    {
+      "title": "New Study: 36% of Americans Have Punished a Brand for Using AI — and the Wealthiest Customers Punish Hardest",
+      "summary": "A new consumer study finds that more than a third of Americans have actively avoided or penalised a brand they felt was over-relying on AI, with higher-income consumers showing the strongest backlash.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOby16TGt2dXJJVUdjT251QUlSNUlja3gzMVQ1bEVlQ28xMVY1LVpRR2M2NmtGR0J2S1FYSHV5S0FnbmZrSWFPWU9BUHZmSzIwOGRTMElMeEZ3UkZDdWdyT0NBRFJYSVdVdzVHdGlpN3NLTHBKaFFJYlBfWDRpMjR5eGZoXy1EcENMeTM5OGpFNFV0elg3ZGdoVlcwYnpwLWFydVNvaDg4TDlTa08yMEd2S3hZVHJvQ2UwTXF1dXd4UklMVG53eEx3?oc=5",
+      "topics": ["AI ethics", "business", "consumer research"]
+    },
+    {
+      "title": "Elephant alert! AI warning systems aim to avoid deadly clashes",
+      "summary": "MIT Technology Review reports on AI-powered early warning systems being deployed in India to detect and alert communities to approaching elephants, reducing fatal human-wildlife conflicts. [Metered]",
+      "url": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/",
+      "topics": ["AI", "technology ethics", "AI industry"]
+    }
+  ],
+  "ethan_mollick": null
+}
