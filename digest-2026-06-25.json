@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "summary": "Anthropic has accused Alibaba of illicitly extracting capabilities from its Claude AI model, raising serious concerns about model security and intellectual property. The allegation marks a significant escalation in tensions around AI model protection and potential misuse. This story touches on AI ethics, legal liability, and the competitive dynamics between US and Chinese AI firms.",
+      "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+      "topics": ["AI ethics", "Anthropic", "AI safety"]
+    },
+    {
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "summary": "OpenAI has revealed its first custom AI processor, codenamed Jalapeño, developed in partnership with Broadcom and optimised for large language model inference workloads. The chip represents OpenAI's push to reduce reliance on third-party silicon and build dedicated AI compute infrastructure. This is a significant step in the broader trend of AI labs developing proprietary hardware.",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "topics": ["AI compute", "OpenAI", "large language models"]
+    },
+    {
+      "title": "The Trump White House Is Over Anthropic CEO Dario Amodei [Metered]",
+      "summary": "Wired reports that the Trump administration has soured on Anthropic CEO Dario Amodei, reflecting growing tensions between the White House and one of the leading AI safety-focused labs. The falling out has implications for AI governance and the relationship between the US government and frontier AI developers. The story sheds light on shifting political alignments in the AI industry.",
+      "url": "https://www.wired.com/story/the-trump-white-house-is-over-anthropics-dario-amodei/",
+      "topics": ["AI governance", "Anthropic", "AI regulation"]
+    },
+    {
+      "title": "Big AI labs are hiring philosophers",
+      "summary": "The Economist reports on a notable trend of major AI laboratories recruiting academic philosophers to work on ethics, alignment, and the implications of advanced AI systems. The hiring wave reflects growing institutional recognition that technical development alone is insufficient to address the fundamental questions raised by powerful AI. Labs including OpenAI and Anthropic are among those bringing in humanities scholars.",
+      "url": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
+      "topics": ["AI ethics", "AI safety", "AI industry"]
+    },
+    {
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "summary": "Google DeepMind has announced computer use capabilities in Gemini 3.5 Flash, enabling the model to interact directly with desktop interfaces and applications. The feature positions Gemini as a more capable AI agent able to complete complex, multi-step tasks across software environments. This is a significant product update in the competitive race to build practical AI personal assistants.",
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "topics": ["generative AI", "AI personal assistant", "large language models"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "I Met With China's Top AI Experts. They're Freaking Out, Too [Metered]",
+      "summary": "Wired reports that leading Chinese AI researchers share many of the same anxieties as their Western counterparts about the pace and risks of AI development, suggesting potential common ground for US-China cooperation on AI safety.",
+      "url": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/",
+      "topics": ["AI safety", "AI governance", "AI industry"]
+    },
+    {
+      "title": "Congresswoman denies staff used AI to write defense funding amendment",
+      "summary": "Florida congresswoman Anna Paulina Luna denied that her staff used Anthropic's Claude to draft a defense funding amendment after the AI company flagged the incident, raising questions about AI use in legislative drafting.",
+      "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+      "topics": ["AI ethics", "Anthropic", "AI governance"]
+    },
+    {
+      "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
+      "summary": "A broad sell-off in AI-related stocks rattled global markets, with declines felt from Wall Street to Asian exchanges, reflecting investor nervousness about AI valuations.",
+      "url": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
+      "summary": "LinkedIn co-founder and prominent AI investor Reid Hoffman made pointed remarks about Elon Musk's ventures, dismissing xAI and drawing distinctions between genuine AI companies and others claiming the label.",
+      "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
+      "topics": ["AI industry", "generative AI", "business"]
+    },
+    {
+      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections [Metered]",
+      "summary": "A coalition including Stripe, Anthropic, and OpenAI is funding a new initiative aimed at using technology to prevent respiratory infections, marking an expansion of AI lab philanthropic and public health activity.",
+      "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+      "topics": ["AI industry", "Anthropic", "OpenAI"]
+    },
+    {
+      "title": "How to Opt Out of Google Search's New AI Data Training Feature [Metered]",
+      "summary": "Wired explains how users can opt out of Google's new feature that uses their Search activity to train AI models, following growing concerns about data privacy and consent.",
+      "url": "https://www.wired.com/story/how-to-opt-out-of-google-search-new-ai-data-training/",
+      "topics": ["AI ethics", "Google", "content policy"]
+    },
+    {
+      "title": "For most of the world, open-source AI is the only way forward",
+      "summary": "An analysis argues that for countries and organisations without access to frontier proprietary AI, open-source models represent the only viable path to meaningful AI adoption and sovereignty.",
+      "url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
+      "topics": ["AI industry", "generative AI", "AI governance"]
+    },
+    {
+      "title": "How to burst the AI bubble: Strike at its roots",
+      "summary": "Ars Technica examines the structural dependencies underpinning AI investment and infrastructure, exploring what forces could deflate the current AI market boom.",
+      "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
+      "topics": ["AI industry", "AI compute", "business"]
+    },
+    {
+      "title": "The emergence of the web data infrastructure layer for AI [Metered]",
+      "summary": "MIT Technology Review analyses how a new layer of web data infrastructure is forming to support AI training pipelines, with implications for how AI companies access and manage large-scale data.",
+      "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "topics": ["AI infrastructure", "generative AI", "large language models"]
+    },
+    {
+      "title": "Figma now has AI motion graphics and shader tools",
+      "summary": "Figma announced new AI-powered motion graphics and shader tools at its Config 2026 conference, expanding its design platform's generative capabilities for product and interface designers.",
+      "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+      "topics": ["generative AI", "AI coding tools", "business"]
+    }
+  ],
+  "ethan_mollick": null
+}
