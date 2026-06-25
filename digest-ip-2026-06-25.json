@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Nearly 400 local newspapers sue OpenAI, Microsoft over alleged copyright theft",
+      "summary": "Close to 400 local newspapers have filed a lawsuit against OpenAI and Microsoft, alleging the companies used their copyrighted content without permission to train AI systems. The case represents one of the largest collective actions by news publishers against AI companies to date.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcGlRd05fNFhxbTR3QkxldmQ5ay00OG1mWDZpLU1oQXNJTnRFSkxsVVNkcld0VXpBSmh3UFE0SWZLOFZxTzNYZGgwYkZZVlV6MzJ1OUw3SGhwZXM4RXQ5ay1ZX2llanVJVk5mUmNiQzctR1NScUVmRzUyOTBQNE1NVWNFSE0tUV9kbzlUR01tc1RmU1ZWQlRqalE5WXUyb3ZYUTg3SmhVLXRHSWhNN0I4WA?oc=5",
+      "topics": ["AI copyright", "litigation", "news publishing"]
+    },
+    {
+      "title": "Nvidia Sued by Music Platform Jamendo Over AI Training on Songs: 'A Blatant Violation'",
+      "summary": "Music licensing platform Jamendo has filed a lawsuit against Nvidia, alleging the company used its catalogue of licensed songs without authorisation to train AI models. Jamendo describes the alleged use as a blatant violation of copyright.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTU9UT2l3bnZSbUNWWHdDZDBIRXVOODFPZDJfZllfYm4yenREY21TeVBuU0FRVEdhN3dwdzhQRF93Qm1qOXpfYm5uNkdVU2hyeUxCaFM3RUphUmhMRjBRODgyREVUTWhEYlNuaV9hSzRObFRaMjIzOXZDYlRXSHBlTlMybGF5NjF5c2QtMnZB?oc=5",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "Artist-Led Udio and Suno Copyright Lawsuits Add New Law Firm",
+      "summary": "The copyright lawsuits brought by artists against AI music generators Udio and Suno have gained additional legal representation, with a new law firm joining the cases. The development signals growing legal resources being directed at AI music copyright litigation.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObHJQdW9QYVQ3TEpHT0ZLNTJXR1U1OW9ZVVRLYzhJdDBRYTF6RVFhWWVYY3FjWnlQWjVJUjY4LWdEMWZFckVLZ25IcWswUjJBNDVkX0lUM042Yzh2S1FXOFVxWFliTGdfMXgtVWpYLUw3SklBSzA5eG15M2hkMW9RTzNn?oc=5",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "'We will not stand for it': Coalition warns of 'fight' over any Labor plan to allow an AI copyright law carve-out",
+      "summary": "Australia's Coalition has warned it will oppose any Labor government move to introduce a copyright carve-out for AI training, amid reports of internal cabinet discussions about such a policy. The dispute follows a whistleblower claim that secret AI copyright concessions were being considered within the Albanese government.",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNN0FaZDhvd1RMbkw1bVlqTkVYUEc2WWhwblNIenZIbzMzTXdMSlViSm0tcFNaZkw2cXo5TXNWaGtzalhZY3Q0VXh1U3lRczdralZ1WWVDZjNKMVJ4QzNBSUg4bmtvdm1aUFEtZ1dLS2tvOFI1eVhVUGc1MGIzVEFvb0VXblRwaHhkT2xnMmJSUWpmUTA4MmUyZDhsX1ZXNnNwclVhcmpfNnZZUzNRZXB1RzhsRjN5WWUteU12dnpxRExldE55Vm5hV1RrbzFpLU94NklDaFpHOTMwYUtQall5d00wVjFCNElNc0pzY2t3TzdZandBTURPOFRjNkFyTE1IWjFfZHFrcl8ycW5VYlZxSjNoaUZSVF9DSGVLdDFQeEVNYTFPeE0wekh30gGvAkFVX3lxTE1IcVdyd240WnJfU0tWemhGQXRIdWFNYjZDNFdKa2FrOWxNTmhNLWdjZ2UzeXV5WEU5LWtJeTdjd3ByRVF1T0NLSVRfX0tCM2QtSkNrNTZYbmsxVU8xbkc1bmdJWGlCaFhjcERkLXpLNDg3R3FIQUNxSDgwUVhwaE9sMlJaNXBtY3d5SmlPemtWd3hYek5XcXQ4d0d2S0ZJV2tXVDVzRTZYcmllb2x4YnVyNElrdmgtOS1jUlZTQ283TTFkRktQU2MyRlFTb0kyMk1FYVZOc2o4V3pKeTFaZVhURWl2NWRPZm9LVGpJNVd5Y1Z4bkZVdjJwQmJZX05IeFhUUW5QNzZ3d2E1R0xVaHZ6ZlRZRTU5eTFhdHVYaXIwUjZ2TDBwMlRXc0t6LVdGSQ?oc=5",
+      "topics": ["AI copyright", "policy", "Australia"]
+    },
+    {
+      "title": "Copyright Law Revision is Driven to Protect Creators without Inhibiting Creativity",
+      "summary": "A report examines current efforts to revise copyright law in response to AI, with policymakers seeking to balance the protection of creators' rights against the risk of stifling innovation. The piece surveys legislative and policy developments shaping how copyright frameworks may be updated.",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0xa1NqWUpZc0F0ZENONXBId2d5SUdZX2gwYmpZa09BTEJRUkdNbFNBZDA2UDZkTl9vaURCYzVSdlpHLV9Udk1sZXhn0gFCQVVfeXFMTmJBNHFQc3VmSnRBNHl1Y3NZZmFDaXEzWi1QQ2RGNUhBWmlIeHI0Qk5VTkFmZjRyU3E2Ym1vQ0R5bFln?oc=5",
+      "topics": ["AI copyright", "policy", "legislation"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Whistleblower Exposes Secret AI Copyright Concessions in Albanese Cabinet",
+      "summary": "A whistleblower has alleged that the Australian Albanese cabinet was secretly considering AI copyright concessions, adding fuel to a broader political controversy over the country's approach to AI and copyright law.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXU1clhZM3RGREIwNFFHRVJXay1oQVQ4MVpHZzF2VWpsUkRhQmRfeWt3SXZGaDRrRmVwUjVYcVBTVzRtSTNKYUNhaFhJNnlVS1FrVmhNenJXVk9oUmlFZkFWWFNqN3RuRnJxU2NJRGhVN09iRU1sUXMyVjBHS1NTLUIteEtUb24tSHpBMzhlQk9VZ0s0RTBsRmRkOG9rcjdoZDJNSkctN0tZa1U?oc=5",
+      "topics": ["AI copyright", "policy", "Australia"]
+    },
+    {
+      "title": "We won't go soft on copyright: minister",
+      "summary": "An Australian minister has publicly stated the government will not weaken copyright protections in response to AI industry pressure, amid ongoing political debate over a potential AI training carve-out.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVDNyT0RWd3FNdTRZWEx5U0RLaDBkczJmUVhqYy0tSWx3eURXOWYwdl9CbUtjZjBiS05hTTU1WHdWUTdxaDZscHBQcnhDLW9xT0psdXdlandsRF85eW94MHVnbk5HQndVeE5FT19teF92Tmp1YjdWMVI1ODNDWFBBOVZ4aUxLR0FSeENPaDlTRVY3NHVyeFd0eXRHVU9tUG9tbWhYcTJIREQ3RVZ3N1BEMDNnaE1nQi1CWHFrUkZ1UnpZME9DX1ISAcsBQVVfeXFMTmozbnE4M2h5dDhBVURndTdWMUgyODRoUFRwNVdnY1V5Zjc4SXBpQ1lXZUZ0MF85SHZtSEhrbkhUSkxxSEZqQTJMVDBRbnhUaENpdkI3OTJnQ3N0dUlGcWlscFJnZUJPWExidzZTU3hHdGN2MDZhRTJ1bWRMczhFdWNTeUFaVHk1UXc0cUR3VUJGeHpZbzRSYWhPRGxzdWd3LVhkNnRhUUc2TFg5cG81UU9HanNPSEVGZW1pRGtoUEFLT21uQUdUUXlJUkk?oc=5",
+      "topics": ["AI copyright", "policy", "Australia"]
+    },
+    {
+      "title": "We grew up fearing piracy laws, now AI is rewriting them in Australia",
+      "summary": "An opinion piece examines how Australia's copyright debate has shifted dramatically with AI, exploring the tension between historic anti-piracy frameworks and the new pressure to permit AI training on copyrighted material.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVWdtLTZOSWJsRUw0ZDlOdW5saXNJcldObDVkOGdSWE83QTBIeHRTUnp6dTk5clMzSk1raWM1XzRFdlVtUG4wT2Q2YlE0WUZiS0gtejE5b2RpLU5HT0RGMTVHOXN6a2s4dzhZX28zbHdqdUdCanNHZ0NCb3BTaWVqcWQzLU1LUG8xSHc1eFVwXzZha2VYR1pkWkJMV3NOdGZI?oc=5",
+      "topics": ["AI copyright", "policy", "Australia"]
+    },
+    {
+      "title": "10 Years since Brexit: What has happened in IP since? Part 1",
+      "summary": "IPKat reviews the changes to the UK intellectual property landscape in the decade since Brexit, examining divergence from EU IP law across key areas.",
+      "url": "http://ipkitten.blogspot.com/2026/06/10-years-since-brexit-what-has-happened.html",
+      "topics": ["IP law", "EU law", "Brexit"]
+    },
+    {
+      "title": "10 Years since Brexit: What has happened in IP since? Part 2",
+      "summary": "The second part of IPKat's Brexit IP retrospective continues the analysis of how UK intellectual property law has evolved and diverged from European frameworks since 2016.",
+      "url": "http://ipkitten.blogspot.com/2026/06/10-years-since-brexit-what-has-happened_0124859643.html",
+      "topics": ["IP law", "EU law", "Brexit"]
+    },
+    {
+      "title": "SS&C Advent sues software company Advent AI for trademark infringement",
+      "summary": "Financial software firm SS&C Advent has filed a trademark infringement lawsuit against a company called Advent AI, alleging the name causes market confusion.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPblE0M0xOendLNlhaSTlGR3pXTzB1aFVrQ3ZkdnF4NW0tcGF6dGVPZUNPSVVaTHkxUUNtLVlQZTFobHdCMkRIMWRfaWVuejdvQ1o3UzNnMXk3NHNjLXRLbkplRFhmUjQ2cHcybk9EUEZ5M1BWNUVnMWF4dWh3T3hDSGtDOGhoWXA5U25IWW92emd2aE1Kc3c1RW5XalJnN3p3TzFkUHdTa0JlOVlYTVFXSl9lWjFpQ0ZVWF9fUjh3?oc=5",
+      "topics": ["trademark", "litigation", "software"]
+    },
+    {
+      "title": "YulChon and LG AI Research launch Korea AI training data verification partnership",
+      "summary": "South Korean law firm YulChon and LG AI Research have announced a partnership to develop a verification system for AI training data, aimed at ensuring legal compliance with copyright requirements.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVDlxTFFQbG5oLUpqbGl0WkJDNUo3WC1VRENVVHpWcDAzYmh3YUpoVjR6ck1FR000ZG5YUi12U3hFZ0lKanh6SEh6b3hOZzdjN2h0Ti13NTdYMVhpSW1yRXRaYXd6R2YzR2x6Y0txcjQ0N293blJocHhzTjFFcTdGMtIBlAFBVV95cUxPN0ZHXzdoajR2M2JqWGJvOEczOFNSVGFRMTBDSi1vT2xCMm93djBrRklEam40Y1FjS1lpS3dYLV9uMk5WYmwzemE0OWFlRTJHaTlJSW5KeFVndE0xV2Y5aUJHYkQxVDZqOWMzd2MxUjhQUFVabGIxeWs0SnZ5cXFXdFVXOERyLWkyQnpDbU0wOVdUOVlL?oc=5",
+      "topics": ["AI copyright", "licensing", "legal services"]
+    },
+    {
+      "title": "Fish & Richardson Launches FishStream AI to Support Patent Prosecution Workflows",
+      "summary": "Law firm Fish & Richardson has launched an internal AI tool called FishStream to assist with patent prosecution workflows, marking another step in AI adoption within legal services.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTG1ZNDVHS2VUalBSZm5FQzdyelFlYURxVGJtcWN5dXZ5WS1XTHpJLVBScUdxTWhDNG5uZjE0MThWZ3V1dC1NQktfRzhEU05SRW5CVVhJeG9IZ3B0ek5BMUZEQm9lbFZWaEtrUVlNLXM3eWhDek1qR3N6UVQ4M3BJY2ZjVDZTekp1ZXpVbGxMM3Bwc1p2bkxzeGJSc2FmUWZfM01mdTY2N2twY1NJakY1Z2M0RHBqOWNa?oc=5",
+      "topics": ["AI tools", "legal services", "patent"]
+    },
+    {
+      "title": "Unboxing Tetra Pak: General Court declares iconic carton shape invalid",
+      "summary": "The EU General Court has ruled that Tetra Pak's iconic beverage carton shape is invalid as a trademark, in a significant decision on three-dimensional shape marks.",
+      "url": "http://ipkitten.blogspot.com/2026/06/unboxing-tetra-pak-general-court.html",
+      "topics": ["IP law", "trademark", "EU law"]
+    },
+    {
+      "title": "Cory Doctorow on the Right — and Wrong — Way to Criticize AI",
+      "summary": "Author and activist Cory Doctorow sets out his view on how critics of AI should and should not frame their arguments, including in relation to copyright and creator rights.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KSjFwVlA2QkRBajlzaTc2RDNFVUJ2SFIyY3I5RDhsaFlKaFpZQXpQQXIyN3JlNWRsM0dJN212aTZDNGNuSGpMbFd0bHpLYmE5Y2MzenV5RlNtRkd1c2JhR3dscDlUY0sxRVNIRU5hTDQ?oc=5",
+      "topics": ["AI copyright", "policy", "creator rights"]
+    }
+  ]
+}
