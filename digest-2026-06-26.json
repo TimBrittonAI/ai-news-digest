@@ -1,0 +1,85 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+      "summary": "OpenAI has agreed to delay the release of GPT-5.6 following a request from the Trump administration. The move highlights the growing intersection of AI development timelines and government influence over major AI model releases.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+      "topics": ["OpenAI", "AI governance", "AI regulation"]
+    },
+    {
+      "title": "Anthropic Thinks Its Own Success Is Key to Making AI Safe [Metered]",
+      "summary": "Anthropic's strategy is built on the belief that only by becoming the dominant AI company can it ensure AI safety — a position that critics say creates a conflict of interest. The article examines the tension between Anthropic's commercial ambitions and its stated safety mission.",
+      "url": "https://www.wired.com/story/anthropic-thinks-ai-can-only-be-safe-under-its-control/",
+      "topics": ["AI safety", "Anthropic", "AI ethics"]
+    },
+    {
+      "title": "How agents are transforming work",
+      "summary": "OpenAI's official blog outlines how AI agents are being deployed across enterprise workflows, automating complex multi-step tasks previously requiring human coordination. The post details real-world use cases and signals OpenAI's strategic focus on agentic AI as the next major product frontier.",
+      "url": "https://openai.com/index/how-agents-are-transforming-work",
+      "topics": ["OpenAI", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+      "summary": "Ford has been rehiring experienced 'gray beard' quality inspectors after AI-powered automated systems made errors that hurt the company's quality rankings. The case illustrates the limits of AI in replacing specialist human judgment in manufacturing quality control.",
+      "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn't Be Trusted [Metered]",
+      "summary": "An investigation reveals that British police developed a large-scale predictive crime system whose outputs were found to be unreliable in some cases. The story raises significant concerns about AI bias, accountability, and the use of algorithmic tools in law enforcement.",
+      "url": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
+      "topics": ["AI ethics", "bias", "AI governance"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+      "summary": "Notion is shutting down its email app, citing a shift in user behaviour toward AI agents as the primary reason the product failed to gain traction.",
+      "url": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+      "topics": ["AI personal assistant", "business", "generative AI"]
+    },
+    {
+      "title": "A24 Knows You're Mad About the Google AI Collab [Metered]",
+      "summary": "A24 is facing backlash over its collaboration with Google on AI, and the studio is publicly acknowledging audience frustration with the partnership.",
+      "url": "https://www.wired.com/story/a24-knows-youre-mad-about-the-google-ai-collab/",
+      "topics": ["AI ethics", "generative AI", "AI industry"]
+    },
+    {
+      "title": "World Cup Teams Are in a Race for AI Dominance [Metered]",
+      "summary": "Football teams competing in the 2026 FIFA World Cup are deploying a range of AI tools for performance analysis, scouting, and tactical planning.",
+      "url": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "The $27 million AI proxy war over Alex Bores ends in a draw",
+      "summary": "A high-spending congressional primary race in New York's 12th district, framed as a contest over AI policy and influence, ended without a decisive winner.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
+      "topics": ["AI governance", "AI regulation", "AI industry"]
+    },
+    {
+      "title": "Facebook's Creator Studio has been revived as an AI companion app",
+      "summary": "Meta has relaunched Facebook's Creator Studio as an AI-powered companion app, marking a significant repositioning of the tool.",
+      "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+      "topics": ["generative AI", "AI personal assistant", "business"]
+    },
+    {
+      "title": "IBM has unveiled chip technology that could help extend Moore's Law another decade [Metered]",
+      "summary": "IBM has announced a sub-1nm chip technology it says could keep Moore's Law viable for another ten years, with significant implications for AI compute capacity.",
+      "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+      "topics": ["AI compute", "AI infrastructure", "semiconductors"]
+    },
+    {
+      "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data [Metered]",
+      "summary": "A podcast roundup covering Amazon's decision to drop an OpenAI-linked film project, labour disputes among data centre workers, and a Meta employee data leak.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
+      "topics": ["OpenAI", "AI infrastructure", "AI industry"]
+    },
+    {
+      "title": "Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study",
+      "summary": "Meta's engineering blog details how the company is approaching privacy-aware infrastructure design as AI becomes central to its product stack.",
+      "url": "https://engineering.fb.com/2026/06/security/privacy-aware-infrastructure-in-the-ai-native-era-an-asset-classification-case-study/",
+      "topics": ["AI infrastructure", "AI ethics", "technology ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
