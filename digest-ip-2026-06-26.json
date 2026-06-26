@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Making AI Use of Scholarly Content Traceable, Measurable, and Trustworthy: A Meeting Report from Cambridge Scholarly AI Workshop",
+      "summary": "A workshop report from Cambridge examines how the scholarly publishing community is working to make AI use of academic content traceable and measurable. The meeting brought together stakeholders to explore frameworks for trustworthy AI engagement with scholarly material, addressing licensing and attribution challenges. The report reflects growing momentum in the academic publishing sector to establish standards for AI training data governance.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/06/25/making-ai-use-of-scholarly-content-traceable-measurable-and-trustworthy-a-meeting-report-from-cambridge-scholarly-ai-workshop/",
+      "topics": ["academic publishing", "AI copyright", "licensing"]
+    },
+    {
+      "title": "Publishers sue OpenAI, Microsoft over alleged copyright infringement",
+      "summary": "A coalition of publishers has filed a lawsuit against OpenAI and Microsoft alleging mass copyright infringement through the scraping of articles for AI training purposes. The case adds to a growing body of litigation targeting AI companies over unauthorised use of copyrighted content. Multiple news groups are among the plaintiffs.",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNalMwcmRPeDgtXzhpcGRNTVpPd3NNMGk0RkFrbFB6ck1jdlpBWmRoeFF5MFNJRG1IN3I1MDdrcFdvVk1WQ0FiMGFjLUN4RTRMbnRQTnhybUJmZUlDUEM3cl9sSW5wbmFnSnBVc1VvY3RPdUpFbUY1WnVIWWZoZFZpTzRWekVTempfenBRZlJselFtR29Od1NhNXJLbFFrSkpxMGFwdkgtcVJpZUt4dzU3M2NPbUkxQ3hoZi1xT0JlaEpPcEthd2txc1pWdkswbWQtUDNqbEROSlUwbVpKUUZOSmF3eGQ5VHZOV281bWJzN0lUTmxa0gH0AUFVX3lxTE1qUzByZE94OC1fOGlwZE1NWk93c00waTRGQWtsUHpyTWN2WkFaZGh4UXkwU0lEbUg3cjUwN2twV29WTVZDQWIwYWMtQ3hFNExudFBOeHJtQmZlSUNQQzdyX2xJbnBuYWdKcFVzVW9jdE91SkVtRjVadUhZZmhkVmlPNFZ6RVN6al96cFFmUmx6UW1Hb053U2E1cktsUWtKSnEwYXB2SC1xUmllS3h3NTczY09tSTFDeGhmLXFPQmVoSk9wS2F3a3FzWlZ2SzBtZC1QM2psRE5KVTBtWkpRRk5KYXd4ZDlUdk5XbzVtYnM3SVRObFo",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "The New York Times Amends Lawsuit Against OpenAI and Microsoft",
+      "summary": "The New York Times has filed an amended complaint in its ongoing copyright lawsuit against OpenAI and Microsoft, updating its legal claims against the two AI companies. The amendment signals a continued escalation of one of the most closely watched AI copyright cases in the United States. No further details on the specific changes to the complaint are provided in the article.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNkt5bzEyVlJtRUxPRHp1N21EUjd2NVhvTm9heUFZRWRUMmwyYUJxZVNqQWhrbmFxSDhDOGZkOWFBTHJ0b0JWV1pfTFNOa2N1N05pbkFZcDg4MmdhUi04TTJ0eTMyamQ3M09UOUtWcmJNdjlQZDNwNGVtenRINHZmWGhfTVRyN1VM",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Nvidia sued by music company Jamendo over AI training",
+      "summary": "Music licensing company Jamendo has filed a lawsuit against Nvidia alleging that the chipmaker used its licensed music catalogue without authorisation to train AI models. The case broadens the scope of AI copyright litigation beyond text and images to encompass music. It represents a notable challenge to a major AI infrastructure company rather than a generative AI platform provider.",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTW1Fa0tuR1ZrRHBndXk5bl9BRHRRVXd6MUJQYlNocDdHRzFlOXdQeXQtdGtvbUxzY21RV2oxYVNHazZYWFYzODB2b2Q5MlVzalJMWUViNElBTTVwMHl0dXlNUC16QnJaekxGdkNTUHNJQndObUJuYlpySXhZaTNVMy1HR3NLY2lCbG1FakdlenIwanRqRjZoVE5EaUNFcDFtdEpkcDdKUjRwRVFvZ2NSNkFHSzRtVTVBYV9BUUlYTXU0WUV3akpGc0xwZUlfTXpTeGdVc1IzUklWU1JibGJSRXpkVUpmWmvSAewBQVVfeXFMTVRCRDZCeEt0dkdQd2N6NTZic3k0Z2Y4anlGRHlIN0Q0NEx3R0s0Szc4RG1pTlFYdUJmLW9fd0dHZDI4WEREVG1lZzItaGd1dHBkUHQ3THR1YnBEY2VTQmNZYjl2aEhLa3pEczh3clYzSzZUbUVTbC1TWnY0U3JXVXAtN0IzT2lIOE1vNVh4Sm9EODBfMkh3Ukg4eWdfWnk1YUJoaHRSRUIxR0JzMzBXVDdueWtmZEFUOF9taHllQ3g5cThJcU1WUjlEd2l5TGdReVh3ZlVLbm1TdHRNb19Iak9pN1dnWGgzWHVFSE8",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Canadian groups seek copyright clarity after AI strategy",
+      "summary": "News and cultural organisations in Canada are calling for clearer copyright protections following the release of Ottawa's national AI strategy, arguing the strategy fails to adequately address how AI companies may use copyrighted content. The groups are pressing the government to establish explicit rules around AI training data and rights holders. The issue mirrors similar policy debates underway in the US, EU, and UK.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcGNsSWRmQ1Y2b0ZoRkFfdzdBNk4ydlhieGdZZmVweWF6RU44N1ZjeDFZVUxGWTU4bDVzcmdsNk1NOTJ2Q3VsRXd4enotanRKSmk4dksyU1E4V3FiUjgyV2dUZzczbnQxc2lRYVB3X3JUTzdleXA0SmFNWEFSdmxpTlNkR2ltRUJHaUE",
+      "topics": ["AI copyright", "policy", "licensing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Everyone Wants to Build AI Using Someone Else's Work",
+      "summary": "A broad examination of the tension between AI developers seeking to train models on existing content and rights holders demanding compensation or consent, surveying the current legal and commercial landscape.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcGNsSWRmQ1Y2b0ZoRkFfdzdBNk4ydlhieGdZZmVweWF6RU44N1ZjeDFZVUxGWTU4bDVzcmdsNk1NOTJ2Q3VsRXd4enotanRKSmk4dksyU1E4V3FiUjgyV2dUZzczbnQxc2lRYVB3X3JUTzdleXA0SmFNWEFSdmxpTlNkR2ltRUJHaUE",
+      "topics": ["AI copyright", "licensing"]
+    },
+    {
+      "title": "AI and Copyright – Judicial Landscape in Germany",
+      "summary": "An overview of how German courts are approaching AI copyright questions, examining the current judicial framework and key cases shaping the legal landscape in Germany.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNGZvX0k0V3RmV1g5bTdSUUp6V2xZNE8xa0ZTQW9jczRWdzBmeVJMcWVsWVR0d3p6c2FkLVlKRy1BT20wVWJFdGpEcmNZWTNrZHpHMUVrb2tjbTlOZVI1U2I1UXBFUm1xbGV3ZV90Yk5ESVRJdjV2dWpDTHpMdHBSclRTLVFiUjR1QjJ1aWZwTms",
+      "topics": ["AI copyright", "eu law"]
+    },
+    {
+      "title": "Is \"fair use\" enough to save Microsoft and OpenAI from the courtroom?",
+      "summary": "An analysis of whether the fair use doctrine can provide a viable legal defence for Microsoft and OpenAI against the wave of copyright infringement lawsuits they face over AI training data.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZkpDbFpZcDRaWkNXUmxvMEw0dktpM1c4V0V3Z2o1Si11ZzNjZW5EaU9LdEdTcW1kZVBxU3Vwa1ZBSlZBdDlxaGJoWUZsU1RkRHpKQVpLRlY1OXZWRUdLWFdCVGlXdWxRcnJTMWhqVFhEbzBkVGt0N21MblBzZVByQy1yRXkxZzVUN29DRHNfWmtCQUdmVXdqNXFueUcyV1pQRDRZWU85YkxHM0w4YlFJbw",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "This New Law Could Finally Give Artists Legal Protection Against AI Theft",
+      "summary": "A report on proposed legislation in the United States that would create new legal protections for artists whose work has been used without consent to train AI systems.",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yTVR6MjlRQjVtbkNEclg4Z1A1NURJYThxdUlEb3RydmJlUHowZkVoNGc4ckl4WjNXN3ZZQlp4RnR6Ulp3MW9HMEswcEpxR0Rjb0E",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Patent Danger in the Age of Free AI Tools",
+      "summary": "An examination of the patent risks that arise when businesses and individuals use free AI tools, particularly around disclosure of proprietary information and prior art implications.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTG1hZHZCUzAyN2Z1bVZFLTMwLXhpVE9aNHUtN2V3dG1Nb1h6d0FLWkJ5dnk1WlV1dlJVYTZ3T1dQNDFIT1VOUWtrcllIVW92YUl2b21iZVBxaHFqRXBEQnpKX0MyamVDanp0djdZUEVXVkltd3M5VlZvZTdlTjE0Uy1vN0lOYjBWM0x0NHZlOFBtZU1NV0FGZTgtaw",
+      "topics": ["AI copyright", "software"]
+    },
+    {
+      "title": "Time and Axios turn AI into ad revenue | Law against deceptive AI scraping backed",
+      "summary": "A news roundup covering Time and Axios monetising AI licensing deals through advertising revenue, alongside legislative support for a law targeting deceptive AI web scraping practices.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KdG41ajZFVDkwQlZVR0JQM0lZMW9QNnp2c2Q1SFVNbzJkV0ZrUHBZR2Y2LVdEUFBpVk52U2M2blNNTVMxV2s1XzFzMHI2djBZQl9kdmdVT2tJcjhFeXFwbmVBM3BFdGlkcWd6VUdVZkp3QVZYYW9RUUltRXBrdms",
+      "topics": ["licensing", "AI copyright", "policy"]
+    },
+    {
+      "title": "At the Beijing International Book Fair, Rights Trading Gives Way to IP Licensing",
+      "summary": "A report from the Beijing International Book Fair noting a shift in focus from traditional rights trading towards broader IP licensing arrangements, reflecting changing commercial dynamics in international publishing.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVVYxLUttaEhkX054NE1jMkZDYlZwWVRwWlQ5NHNzX3M0Y0czWWZWTkxmSDNmeVJydlBsdXpGeFdvWTVpV1Ywcy1YM3dFWXNZXzlUSEhoN1R3RmxVcTVTT2pXNzhCUFh4WTNqdllaVFVIWktiQlRSUjVQeHJzZVVET0hyUWhKMmRjaUx6TC03MVVKYkVTTDhlVW0wY0lacUtPdHU1SlozenZRVnNhWVdYTF9HUHpCLWZBNHhKWkp0Mmo",
+      "topics": ["licensing", "academic publishing"]
+    },
+    {
+      "title": "Never Too Late: If you missed the IPKat last week!",
+      "summary": "IPKat's weekly roundup of intellectual property law developments, covering key cases, commentary, and policy updates from the past week.",
+      "url": "http://ipkitten.blogspot.com/2026/06/never-too-late-if-you-missed-ipkat-last_02039479206.html",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Artificial Intelligence From A Copyright Perspective: Global Developments And Reflections In Türkiye",
+      "summary": "An analysis of global AI copyright developments viewed through the lens of Turkish law, examining how international trends are reflected in Türkiye's evolving legal framework.",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQT3VKaWo1X0xLWk1WaWhjQWZJSXkyY0VlT2I0bW41c2d2czNCOEJ3aDV5d2N5Y3ktclJBVGNKYWQ4WGhMVVktT3dvcXBIWFYtU2QzSEFHRUlNNVR2X3pKaUV3TVhZeGdKX01SQjRFX3VQcUp1aGt0WFdTN3djU3U1c1Aybm5JXzl4M2RySUpqUFlpbWhuMDFsNkNhWGNjQlM0OW8wVHFfRFZra1g1MVlQQjdKNEZtMVJaQzFfUXBYS1dPcHJUazBpZjZ5LU8zeFR5R1V6d2RmbHdqam15NXZYdklwSGFkN00",
+      "topics": ["AI copyright", "eu law"]
+    },
+    {
+      "title": "Poll: Americans reject legal rights, 'personhood' for AI",
+      "summary": "A new poll finds that a majority of Americans oppose granting legal rights or personhood status to artificial intelligence systems, with implications for how AI liability and copyright ownership debates may unfold.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUGM0MnpPMHBpNGFBdXF0cjlqWDZqWmJaWFhTN2xRUjZXTlpRRnJETDJ3VGRlWXp1cTBqeXpCeThCSUFZUmdrOVYxakFzcEFoT0UzNU9ON01tR1lGSUxRTjFHZ0haVktXTTVTUTl2NXp4ck1OajFLQmtRYVdDaFpUV1kxWi0",
+      "topics": ["AI copyright", "policy"]
+    }
+  ]
+}
