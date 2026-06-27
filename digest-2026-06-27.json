@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI Previews GPT-5.6 Sol: A Next-Generation Model",
+      "summary": "OpenAI has announced GPT-5.6 Sol, a next-generation model, but its release is being held back amid US regulatory and administrative processes. The model preview highlights ongoing tension between AI companies and Trump administration oversight of AI releases. OpenAI published details on its official blog ahead of broader availability.",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "topics": ["OpenAI", "large language models", "AI regulation"]
+    },
+    {
+      "title": "U.S. Allows Anthropic to Release Mythos AI to 'Trusted' US Organizations",
+      "summary": "The Trump administration has permitted Anthropic to release its powerful Mythos 5 model, but only to select, trusted US organizations. The move follows days of regulatory drama in which the model's release was blocked, raising broader questions about government oversight of frontier AI. The situation reflects the administration's growing role in controlling access to advanced AI systems.",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "topics": ["Anthropic", "AI regulation", "AI governance"]
+    },
+    {
+      "title": "OpenAI Has New AI Models. Here's Why You Can't Use Them [Metered]",
+      "summary": "Wired reports that OpenAI's newest models, including GPT-5.6, are being withheld from general release due to requirements from the Trump administration to vet AI model releases. The piece explores the unprecedented regulatory dynamic in which the US government is directly influencing the timing and scope of commercial AI product launches.",
+      "url": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
+      "topics": ["OpenAI", "AI regulation", "large language models"]
+    },
+    {
+      "title": "AI in Mathematics Is Forcing Big Questions",
+      "summary": "IEEE Spectrum examines how AI is reshaping mathematics, from automating proofs to challenging what it means to understand or discover mathematics. The piece explores philosophical and practical implications as AI tools increasingly participate in mathematical research, raising questions about verification, credit, and the future of the discipline.",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "topics": ["generative AI", "AI ethics", "research integrity"]
+    },
+    {
+      "title": "The AI Backlash Is Only Getting Started",
+      "summary": "The Economist argues that public and institutional skepticism toward AI is growing, driven by concerns over job displacement, misinformation, and the gap between AI hype and real-world utility. The piece contends that this backlash will intensify rather than fade, with significant implications for the industry and policymakers.",
+      "url": "https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started",
+      "topics": ["AI industry", "AI ethics", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Anthropic's Mythos Mess Is Only Getting Worse",
+      "summary": "The Verge details the escalating regulatory complications surrounding Anthropic's Mythos model, including a chaotic back-and-forth with the Trump administration over release permissions.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+      "topics": ["Anthropic", "AI governance", "AI regulation"]
+    },
+    {
+      "title": "Europe Is Fed Up and Wants Its Own AI [Metered]",
+      "summary": "Wired reports on growing European frustration with US-dominated AI development and increasing momentum behind building sovereign European AI capabilities and infrastructure.",
+      "url": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
+      "topics": ["AI industry", "AI governance", "generative AI"]
+    },
+    {
+      "title": "Ford AI Hiccups Push Carmaker to Rehire 'Gray Beard' Inspectors [Paywalled]",
+      "summary": "Bloomberg reports that Ford has been rehiring experienced quality inspectors after AI-based inspection tools fell short of expectations, highlighting real-world limitations of deploying AI in industrial settings.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "Political Bias in AI: Where the AI Models Stand",
+      "summary": "An analysis from Trakkr examines political bias across leading AI models, measuring where different systems fall on the political spectrum based on their outputs.",
+      "url": "https://trakkr.ai/bias",
+      "topics": ["bias", "AI ethics", "large language models"]
+    },
+    {
+      "title": "What Happened After 2,000 People Tried to Hack My AI Assistant",
+      "summary": "A developer recounts findings from a public red-teaming exercise in which over 2,000 users attempted to jailbreak and manipulate a personal AI assistant, revealing practical lessons about AI safety and content policy.",
+      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+      "topics": ["AI safety", "content policy", "user interaction"]
+    },
+    {
+      "title": "JMIR Publications Invites Submissions on Technology in Scientific Publishing",
+      "summary": "JMIR Metascience and Research Integrity, a new journal, is inviting submissions on the role of technology — including AI — in scientific publishing and research integrity.",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TcWxKWFhSenU4N2RDNmdBTnNJV1JVVmlBZlBTODBBQWpfaDRLU2owVU5TYmduaU9wZGxOUzZFRUZqVkxINVhjZ0dld3ljazdsX2Y5SEZzUUx2c08z",
+      "topics": ["academic publishing", "research integrity", "AI tools"]
+    },
+    {
+      "title": "Privacy-Aware Infrastructure in the AI-Native Era: An Asset Classification Case Study",
+      "summary": "Meta's engineering blog details how the company is approaching privacy-aware infrastructure design as AI becomes central to its systems, using asset classification to manage data risks.",
+      "url": "https://engineering.fb.com/2026/06/25/security/privacy-aware-infrastructure-in-the-ai-native-era-an-asset-classification-case-study/",
+      "topics": ["AI infrastructure", "AI ethics", "technology ethics"]
+    },
+    {
+      "title": "Why Does Everyone Hate AI?",
+      "summary": "Paul Krugman's Substack examines the roots of growing public antipathy toward AI, exploring economic anxieties, distrust of technology companies, and the disconnect between industry promises and everyday experience.",
+      "url": "https://paulkrugman.substack.com/p/why-does-everyone-hate-ai",
+      "topics": ["AI industry", "AI ethics", "business"]
+    },
+    {
+      "title": "The Download: Brain-Melting Heatwaves and Unprecedented OpenAI Restrictions [Metered]",
+      "summary": "MIT Technology Review's daily briefing covers the Trump administration's unprecedented restrictions on OpenAI model releases alongside other science and technology news.",
+      "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+      "topics": ["OpenAI", "AI regulation", "AI governance"]
+    },
+    {
+      "title": "Publishing in the Era of AI",
+      "summary": "China Daily explores how AI is transforming academic and commercial publishing, from content generation to editorial workflows and questions of authorship.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUzNmb2RmblNETVNRZGF2V3NNMFRWdHhUNE1HaEVLU1NONU9UbVZ5bm5MS18xaFJvOXptbnhGejRZWkI5cy10RjNFRkxhT21ObXpoQW1aZXFidThyVjFWVFhla0t5dkNSTWtwOGV6UlRwaHVVX2t4UVFEUjIwbXdHbUpR",
+      "topics": ["academic publishing", "generative AI", "AI ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
