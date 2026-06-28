@@ -1,0 +1,85 @@
+{
+  "top_stories": [
+    {
+      "title": "Anthropic's Mythos 5 is back after Trump administration negotiations",
+      "summary": "Anthropic's Mythos 5 model has been restored following negotiations with the Trump administration, which had previously restricted its release. The Verge reports the model is now available again after the export ban was lifted for select US organisations.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+      "topics": ["Anthropic", "AI regulation", "AI governance"]
+    },
+    {
+      "title": "Asian AI startups launch Mythos-like models as Anthropic's export ban drags on",
+      "summary": "As Anthropic's export restrictions on Mythos continued, Asian AI startups moved quickly to release comparable models to fill the gap in markets that lost access. TechCrunch reports the episode is accelerating the development of competitive AI models outside the US.",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "topics": ["Anthropic", "AI industry", "AI regulation"]
+    },
+    {
+      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
+      "summary": "OpenAI has released GPT-5.6, a new model update, as regulatory discussions around AI intensify in the United States. The Verge reports the announcement comes during a period of heightened government scrutiny of leading AI developers.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+      "topics": ["OpenAI", "large language models", "AI regulation"]
+    },
+    {
+      "title": "Ford hired AI and sacked humans. It backfired badly",
+      "summary": "Ford's attempt to replace human workers with AI-driven automation has reportedly produced poor outcomes, with the company facing operational setbacks as a result. The Independent reports the case as a cautionary example of over-reliance on AI in manufacturing workflows.",
+      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "The AI industry is pouring millions into US elections",
+      "summary": "Blood in the Machine reports that AI companies and their backers are channelling significant funds into US electoral politics, raising concerns about the industry's growing influence over policymakers. The piece examines which candidates and causes are receiving AI-linked money and what donors may expect in return.",
+      "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
+      "topics": ["AI industry", "AI governance", "technology ethics"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations [Metered]",
+      "summary": "Wired reports that the Trump administration has permitted Anthropic to restore access to its Mythos model for a limited set of US organisations following an export ban.",
+      "url": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+      "topics": ["Anthropic", "AI regulation", "AI governance"]
+    },
+    {
+      "title": "Margaret Atwood says the problem with AI is 'garbage in, garbage out'",
+      "summary": "Author Margaret Atwood has weighed in on AI, arguing that the quality of AI outputs is fundamentally limited by the quality of data used to train models.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+      "topics": ["generative AI", "AI ethics", "large language models"]
+    },
+    {
+      "title": "Why is Apple asking me to pay more for Big Tech's AI obsession?",
+      "summary": "The Verge examines why Apple and other major tech companies are passing the costs of their AI infrastructure investments on to consumers through price increases.",
+      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+      "topics": ["AI infrastructure", "AI industry", "business"]
+    },
+    {
+      "title": "JMIR publications invites submissions on technology in scientific publishing in its newest journal JMIR Metascience and Research Integrity",
+      "summary": "JMIR has launched a new journal, JMIR Metascience and Research Integrity, inviting submissions on the role of technology — including AI — in scientific publishing and research quality.",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TcWxKWFhSenU4N2RDNmdBTnNJV1JVVmlBZlBTODBBQWpfaDRLU2owVU5TYmduaU9wZGxOUzZFRUZqVkxINVhjZ0dld3ljazdsX2Y5SEZzUUx2c08z?oc=5",
+      "topics": ["academic publishing", "research integrity", "AI tools"]
+    },
+    {
+      "title": "77% of small businesses now use AI regularly. Here's where they're starting.",
+      "summary": "A new report finds that a large majority of small businesses have adopted AI tools regularly, with most beginning their AI use in customer service and marketing functions.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1hVDVoSnVaNXBSeW5ha0UxVl9UMVE3VTVSdGZnTVRueFoyUmE4ZHZUMTZ1SjlfaWRHQ0o2SW9sQlJBeVVfUzRuQlhuWXRlUDBldFNMUFJ1RVZzdFJEU28yVzkwQk12UWlUbm5ITzhocFJPWXhQUld5SHV3?oc=5",
+      "topics": ["business", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Is AI Good at Stock-Market Timing? A New Study Casts Doubt",
+      "summary": "A new study questions the effectiveness of AI tools for predicting stock market movements, finding limited evidence that current models can reliably time markets.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11Sml5YzBWcENmQlZUSUxlTktCazJWUk9HMWRVX1A3MjAwYVBSTkktcklPUzBjQW1aazFBWm4yTXVEcExZeDlfcU9mbkJmWTZfbmp3a1JPd0VXTnFrQy1NcW0xd0tjY2lxOUdPY2N2QWVyaDVpUldxbg?oc=5",
+      "topics": ["AI industry", "large language models", "business"]
+    },
+    {
+      "title": "F5 Launches AI Security Platform to Protect Enterprise AI Applications and Agents",
+      "summary": "F5 has announced a new security platform designed to protect enterprise AI applications and autonomous agents from threats and vulnerabilities.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbGZnSWUycGh2a3pSYkdJTmpvMVZkczBXOXBBdUlsZl8zNG1mTGJiTkRQYTJVTU5aTWhqVWh4U25mZDRTdGVZNkFnc0lDdF9wU2RXUDg4YkU1TTMyeHV6Z2xDd2RFb0FwaUNUd0V5TVpuY2ZWZENOcHFJUVliTElmMjZES2JRalRKM1E2RnRNY3JsTzFOTGpKR010WUNaTng0MWU0T19vTy0wV3RaaDNuYzZLVmZaVmMtRHNfSFQ2bm41dld5bGk1Z281MnVZaldSMGc?oc=5",
+      "topics": ["AI safety", "ai infrastructure", "business"]
+    },
+    {
+      "title": "AI Sales Justify Data Center Spending Boom",
+      "summary": "Strong AI-driven revenues are being cited by technology companies to justify continued heavy investment in data centre infrastructure.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOei1ZODBJY29ZSGh0NlFiUGlMeXRndDFRMVg4bV95endxYVhOb2UyMWM1MlBldm9rX09obkxjTy1oUy03UFFkRktOcU41eWdXbGVtb1FJYlUyWVNwYk5PbXl5ekFfWUdZNmZoNHNqMkdSZ2VTemtWY3AwZ3h4ak5XaGYtaW1rOEhocC1rYkNoTDRWejRLNENQNEVMVVFR?oc=5",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    }
+  ],
+  "ethan_mollick": null
+}
