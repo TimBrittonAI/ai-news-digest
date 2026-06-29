@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "New York Times reframes OpenAI suit, sharpens focus on Microsoft",
+      "summary": "The New York Times has amended its copyright lawsuit against OpenAI to sharpen its focus on Microsoft's role in the alleged infringement. The reframing signals a strategic shift in one of the highest-profile AI copyright cases currently before the courts.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYktUSi1IVHIxblhyRWtnOFFBcm5IZ2RySnpiZFpVSGZEb2Z1RGZ6czNhZi1tR3B2Y2p1dTk2Y3BrVXdMTmh2UkVha05jU2wxampoZEJRX0dacjhJRjNHaHVWemNRNDdPVFczNDh2UTBqU2tDR1dkSDBJQ2p2VWU3WXJHMFNBS05UTUpNM3ZyWmk2RzI2WnNyQVE5WFVrNXZITHY3TTFZOHFNTEtPMnNMc01Va3VWckYzLUZwY0NyLU05Yk0wQUE?oc=5",
+      "topics": ["AI copyright", "litigation", "publishing"]
+    },
+    {
+      "title": "Anthropic court rulings could shape AI copyright future",
+      "summary": "Recent court rulings in cases involving Anthropic are being closely watched as potential precedent-setters for AI copyright law. Legal analysts suggest the outcomes could define how training data use and fair use defences are treated across the industry.",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWFlGb2REbW9VSkstZjhaR0xTMTBvU0Y0Vk9qeUlfTlhKSzZ1c19PU3lkVmN6cFg0QlZYazNQanJQeWJvclRsTVR3ODRJSng0QVZya1JPMmhBb2c4RElOTGFGQ2tudkxVbEtnRmc0bmMwNjFTRXdRbWZMUFV6RVc4NGJYY3c4M0h3RXhINndpQnlGUW5TZzJBaVQzTmtQYnEwTi1CZTVteURES2t4WUZ6VkhMbE1tVTRfNUlXLXR0MWlkMkNCejI2eGM1WVByYy1HbXJISHZlU09ZSUs5bDFmLWd6eFhnQQ?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "AI-generated search summaries and personality rights: Munich court grants preliminary injunction against Google",
+      "summary": "A Munich court has granted a preliminary injunction against Google over AI-generated search summaries, finding they may infringe personality rights. The IPKat reports the ruling raises significant questions about the legal boundaries of AI-generated content in search contexts.",
+      "url": "http://ipkitten.blogspot.com/2026/06/ai-generated-search-summaries-and.html",
+      "topics": ["AI copyright", "personality rights", "litigation"]
+    },
+    {
+      "title": "Creative sector urges Government to draw a line on AI and copyright",
+      "summary": "The UK creative sector has called on the government to establish clear limits on AI use of copyrighted material, intensifying pressure ahead of expected policy decisions. Industry groups argue that without firm boundaries, creators' rights and livelihoods are at risk.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaUdvejVROFFPVGVWZVFOeTlKc056azd4N29acFdUZVQ2SnZlRGlYYjB1cXB1bUVzTW1MNmU1SWhCSm9SanVwNWN0U2tEQ1l1WDlwMXBROFpwcm9YZTA1SFFkQVZCelozUzJfQ0hlazZYdjI5ckFMM29EakpROHdRbmdsa0w2SktYaE9IQ01IemdfTE1nNDNUZHpTSjZwQU93NXZHeVhNZVVYZmF4?oc=5",
+      "topics": ["AI copyright", "policy", "creative industries"]
+    },
+    {
+      "title": "San Antonio musicians surface in AI training databases as copyright questions grow nationwide",
+      "summary": "Musicians in San Antonio have discovered their work appearing in large AI training datasets, highlighting growing concerns about the use of copyrighted creative works without consent or compensation. The case reflects a nationwide debate over artists' rights in the age of AI.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONllteGJQWEd4YkdyRjZYNTA3WUZHeHp3Q3VjUU1rYm1EOVdpdHl1NEE5dUltaFVBam1jSnJZM1BnVkRNYmk2Mk5EYkctN1hucEhsUjNjZVhiNG5VSWtha2dIcEhDdVFXSUkzWGdwZVozaTVuMnB3dktmR1RPUDFMdUdMbm01elFPendGZUl4Yw?oc=5",
+      "topics": ["AI copyright", "music", "training data"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "AI Copyright Lawsuits Are Becoming a Business Risk—What Every Company Using AI Needs to Know",
+      "summary": "A business-focused overview of how the rising wave of AI copyright litigation is creating tangible legal and financial risk for companies deploying AI tools.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcFl2VWJWbWdUcUJlVnRCckIyYUt4WXcxaTV6VFZwaEw0Y1N4MFRuWjVMWlJmTG05WTFtM0RkVmFnZEJMR1N1R3U0RzdZc0x2Um96SnZIZlVuaVhncF9qX2FKZEhGV242dnc2YVpQbzZFclZVZDJLekpoSjNHNE1FOTdFZVNiQ0JzN1BsbjkzLWZPbTBYZzJKQUUxMGxGTXdKdXU1dURZS1FybFBOLTFXNjBNSFRfUQ?oc=5",
+      "topics": ["AI copyright", "litigation", "business risk"]
+    },
+    {
+      "title": "Lights, camera, AI: For entertainment companies, a prompt may come with copyright headache",
+      "summary": "Entertainment companies are grappling with copyright uncertainty as AI-generated content becomes embedded in production workflows.",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNEVKQnhhcDFxM0o4OTlXR2NZdjBrbHMwanRCODdvQmI4cHUtVjRKenI1Y0pla2Exc19teHRkS2pEZ3d5Q043a0hOSXg1UXpFZUU0YWZNQzVESTFDRWhkQ1VkbVJVbEc3azNpSi0yQWVBVkxBWUthOWNVakc0Q3NZa3pDQkdfMURGeXBrVmxlNjBxT3hteW01bmUxX1FQVFRiWm5adlRQV0NlUVRsSUJ6cDl3YXhYTDNiUUxyQlpBZEh0WDJpWFU3ZGFqcGRWSE9XbUhwUlpwSWswSnhYSkkzMlBCN2o1QkZDX1pQM3E3WG42d1Y4eDZlYVVIRjBiUdIBgwJBVV95cUxQMlFmckt3N2ZlLVVTYUNfeFRnLVVkcWZSd2J0dmRZbVdKZ18tcTR1NTdVOGV2cjZKLTQ4N3VPeDBTZ2p0alFJZFRYbWNTMTlLalJvc0ZmNlIzYm9MbUNvZzI1bHhNWllUR08xUkdvWG04el9FTnBDVTc0OThWTmdWamF5OTcxVWx0MkFPVjA4MlBLdjcwMFFZQm4tdDAzMDZMeUd5ejFHTm1kcGNjeTAxM1JpQ0FKVWdaZ0lTRHA4N1BEZkI3QV9ZRHBkVXVPd19FWUU0SWpkWDNycmM4Y2FrTE9obTVCTHpwTlZEVTdHOXkyZGhVX1NFaEhaaWNVczA3VHZF?oc=5",
+      "topics": ["AI copyright", "entertainment", "licensing"]
+    },
+    {
+      "title": "AI Has Already Cost Tech Giants $3.5 Billion in Fines But The Biggest Legal Fight Ahead Is Daunting",
+      "summary": "An analysis of the cumulative regulatory and legal costs already borne by major tech companies over AI, with a warning that the most consequential battles over copyright and liability are still to come.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPb1hMejN4ZUhoV2VnZFhqWHFJeXVfQW5CMEsyMUpHYzNGM1JaQ0J2XzhzN1QtRWN2dG15YUMyQTlld1Jha0tUMGI4VUVSOHNhSGdjNlFKZmJRVjNkR0w2eF9XWTYzUTVRUFl1ZFlNQlFndzJTbHhCOHpWZjBFaldBbWRrRzJlSjZSUUotb2RUQkdkZXhwRWxpVlZYcFNCa2pLNDJsNVpETlJkejg4c3RTTlBJSQ?oc=5",
+      "topics": ["AI copyright", "litigation", "regulation"]
+    },
+    {
+      "title": "A hybrid path: how India might balance AI innovation and creative rights",
+      "summary": "An analysis of potential policy frameworks India could adopt to reconcile AI development with the protection of creators' intellectual property rights.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdzl0SjRYcnYxOFhnOGcxZVVtRWtDS0tZSG5oT3pHaTR0WHlTeVl0LVBrTEVPRWotUTNIUC1OTG1qbDNJTXctblBpc2dTQUhCdFRxYVAtX3hNei1sRzZ2ekYzZHNrWVVEZTZ0a0d3d25XQmQwenREWTk1a0c1UlJjMVROZEp5RVlKRGp1bVR5SXUySHNKczNDajFHcEJqTjR0Nm80U2hqWk1Pa1FvZjgtTG1oWEtycDhnRm1sMTZuRDJvU252TEdIdmdzVEhNd1Q5V1hJUmNoNy1KVFJfMDU4?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Can AI Companies Rely On Section 52 Of Copyright Act To Train Large Language Models?",
+      "summary": "A legal analysis examining whether Section 52 of India's Copyright Act provides a viable fair-use defence for AI companies using copyrighted works to train large language models.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdEhPWmZIU2MtTTlGRVpWRHNLZ3llOTl5YUY2aVBka3BUNy1rTGZaYkRhSlI3WXI4TE83aXcybzFCX2t6RWx0N2V1VnNlWVFsdHVaaS1ub0dGS3pIMjJTaVVpWnVPT1hOREdMUFk5ckVHQXR2R2Q1dVM2OUxKNExheXljWkV3UndkUTN4bEE3RXJkUlVKaTZ5LWxhQjBnWUhEb1lWSURZQTVVWDZ20gGyAUFVX3lxTE5MSl9hcUpxYUtXZktNYVpIQjNMTW9oaGxTbmlkQWFvZktaVTJvdU0tNXMxbEltS1RtMTJlYk9iSUpOTlc3d3RVeWdEODVrUkpYSVNaTmduZC16MS1vX2o0VldpU3E0dFlyeEw0UWdnYWFEYU5DYXhQbWpBRzJERWY0RTBFRXBDc2pPSzU1ekNWUEd5RzFXX3lGWjEwSEpOaDRCakM3ZE1mZXVmaTIwejVHMXc?oc=5",
+      "topics": ["AI copyright", "licensing", "training data"]
+    },
+    {
+      "title": "AI Doesn't Rewrite Trade-Secret Law, but It Is Rewriting How Legal Departments Protect It",
+      "summary": "Legal departments are adapting trade-secret protection strategies in response to AI, even as the underlying law remains unchanged.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ2ZIWGlsLXI4emF5eUp6V2k4R1RrNjM4amRWNjR6emZpS05qV3h1STRZR056SWVGYW82bXlwVzJGSkt5SV9NS01qdEVGUlhNZTZ5VFU1N0dDRGdVQWtaTUpXbVlMVzR0RlpHaXh2MUY4R21BTjVhTkcteXVhVk5TRWdjMHJJb3dLNzhlVFZ4TXd4aXo1Zm1OZWJYcHlmVDlIa0ZpRm5PQy1kdHBMZnIzSTQxazJHSENtX2M1UlFOT3o0aTlZMmw1Z19pbw?oc=5",
+      "topics": ["AI copyright", "trade secrets", "legal services"]
+    },
+    {
+      "title": "Indian Media Firms Face Copyright Risks As AI Content Adoption Rises",
+      "summary": "Indian media companies are increasingly exposed to copyright risk as AI-generated content becomes more prevalent across their operations.",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdFQ3ekJWSENac0NNck5CczZXSHhZWWpzeG5NbU5heFdaR0dhSk91enFVdHU5QUtjSnZvUW16d3owYjBUUEJsMk1QQ1ZRUzhwZTgzSVpxd3Ryd0VYb09hcnVJVjRXTWplZWNCTnBNOWFqenVQQnRCOURPSDFNZzgtZTBpVUZXTXQ2dzAxTHZ0WjJULURvcWFXMFd4XzJWZUlPWDNBM0NDMWdqYWxuaUtCOUl4NldPdFA3eWxCbWNIaVZacjdrS2FFSmVLc25xb01TOTRHQXZ0OE9hMkJJcUJTZTE4a1RqTm5ITVJXWG9R?oc=5",
+      "topics": ["AI copyright", "media", "licensing"]
+    },
+    {
+      "title": "Here Are 4 Major Lawsuits That Have Shaped The Artificial Intelligence Debate",
+      "summary": "A round-up of four landmark AI copyright and IP lawsuits that have most significantly influenced the legal and policy debate around artificial intelligence.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZmZWcDZadVBJT2hmZlpBVmNRbU5Td0FtZVpPaXd5bnNvX21yRjJ4NmlabnhDc01vNFJaNjM2RWxYbEItcXRSaGt0cDczMFBkVElWUlpfRkZ1UkNCZkRLSXJaRDdmWEpteDI5LWFlXzFhYXZjY0pvS0RPMXVXakt5ZGdFX1MzUHNlc3lCQTR0Zmh1dHJZeEJKeDAxTFk0VFI5eF9POQ?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "ISAMRA Highlights Performers Rights, ₹100 Crore in Royalties and the Future of AI at NMACC Symposium",
+      "summary": "At the NMACC Symposium, ISAMRA discussed performers' rights, reported ₹100 crore in royalty collections, and addressed the implications of AI for music licensing and creator compensation.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVEs3UncwNVFobTN0czRPTUxsRXVuQ3RwbV9PMlRzRTFYeWI0dUxvaVJ2STI0eVJveUVwMTdab2dnTzNkcks4VFctWUtMdjVFUDEzVWk2LUh5d0Y2Z1pMWkk4OXgyV1BzQnZfTG1EZkN2cUo1UUtsTUFidVQ4TUY0RkdiSnF3Nm55UHJUZ29yQVl4cHJ5MXItYlM3RGVwMm50TDZ2VUh1bG03NEc0MEJEUTFZVFRYTUJKZnhzWG54SzByd0FtdEZ6TUdSZXJQMWxBVEhGd3lXcXQwRnNSUWpB0gHkAUFVX3lxTE9aSk5yTUJKYk5FR1ZNN0dkR2FiNlQ1M2pRN056UVlRZjN3OWxMX2lQbi16OWdNZUlWRXd6VGdhOW5wbjJUUGNfenN3eWh3OS1wck12czNHNWNKcGhFd244WEdQcXVkcDNtd1gtbll1c1JUNWZyZlZzV244NmZlRXhBdlFrYmRKMUNvQU9KU0ZtVHVRbTlaZkpDQzRWZVpZclhBLXdNU1JXSmhVaWRQdkZta2g5Y0dpbEdVRjFlU0xYV3NzbVVWS3BJN2RxVERjOWx0LWwxU1BkVDZGREY4MHZnVjAzVw?oc=5",
+      "topics": ["licensing", "music", "AI copyright"]
+    },
+    {
+      "title": "Publishers Are Riding The Red Wave [Metered]",
+      "summary": "Publishers Weekly reports on how publishers are responding to and capitalising on current market and political trends affecting the book industry.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100738-publishers-are-riding-the-red-wave.html",
+      "topics": ["publishing", "industry trends"]
+    }
+  ]
+}
