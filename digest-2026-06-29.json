@@ -1,0 +1,67 @@
+{
+  "top_stories": [
+    {
+      "title": "Ford rehires 'gray beard' engineers after AI falls short",
+      "summary": "Ford has brought back experienced retired engineers after discovering that AI tools were unable to adequately replace their institutional knowledge and technical expertise. The move highlights real-world limitations of AI in complex manufacturing and engineering contexts. It raises broader questions about the pace at which companies can substitute human expertise with AI systems.",
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "topics": ["AI in business", "generative AI", "technology ethics"]
+    },
+    {
+      "title": "Professor denounces mass AI fraud on an exam at Brown",
+      "summary": "A Brown University professor has publicly accused students of widespread AI-assisted cheating during an exam, raising urgent concerns about academic integrity in the age of generative AI. The incident illustrates the growing challenge universities face in detecting and deterring AI misuse in assessments. It adds to a mounting debate about AI policy in higher education.",
+      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+      "topics": ["academic publishing", "research integrity", "generative AI"]
+    },
+    {
+      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+      "summary": "Prosecutors in the Palisades wildfire arson case introduced ChatGPT conversation logs as evidence, marking a notable use of AI-generated data in a criminal trial. The case ended in a mistrial, but the episode raises significant questions about the legal admissibility and implications of AI interaction records. It highlights the emerging intersection of AI tools and the justice system.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "topics": ["legal", "ChatGPT", "AI ethics"]
+    },
+    {
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "summary": "HP Inc. has announced a strategic partnership with OpenAI called Frontier, aimed at integrating OpenAI's AI capabilities into HP's products and enterprise solutions. The deal signals continued momentum in OpenAI's push to embed its technology into major hardware and enterprise ecosystems. Further details on the scope of the collaboration are outlined in OpenAI's official announcement.",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "topics": ["OpenAI", "AI industry", "business"]
+    },
+    {
+      "title": "Google limits Meta's use of its Gemini AI models",
+      "summary": "Google has placed restrictions on Meta's access to its Gemini AI models, according to a report cited by CNBC. The move underscores growing tensions between major AI players over the terms on which frontier models are shared or licensed to competitors. It reflects broader competitive dynamics shaping access to large language models across the industry.",
+      "url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+      "topics": ["large language models", "AI industry", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "AI boom risks global financial crash, warn central bankers",
+      "summary": "Central bankers have warned that the rapid AI investment boom could pose systemic risks to global financial stability if the technology fails to deliver on its economic promises.",
+      "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
+      "topics": ["AI industry", "business", "ai governance"]
+    },
+    {
+      "title": "China's Z.ai claims it can match Mythos on cybersecurity",
+      "summary": "Chinese AI company Z.ai has released its GLM-52 model, claiming it can rival Mythos in cybersecurity benchmarks and signalling intensifying competition in specialised AI capabilities.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "topics": ["large language models", "AI industry", "generative AI"]
+    },
+    {
+      "title": "xAI unveils Grok 4.5, a significant upgrade powered by 1.5 trillion parameter V9 model",
+      "summary": "xAI has announced Grok 4.5, a major new model version reportedly built on a 1.5 trillion parameter architecture, marking a significant step up in the company's frontier AI capabilities.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1va1lHaG5wdVhfTlVhNWhhTTdHc1ZDeGN2SmJYdktEM2ZnTDBYSjRkRk54bXFHMjZ2QVZQX19MLXpsa1FRaHdNb3kzWVlzenZBeWt2S1g4UDR2TTNxSVNtNFRWRkpXRWxH?oc=5",
+      "topics": ["large language models", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+      "summary": "AI music platform Suno has launched an incubator programme called Spark that recruits independent artists, raising questions about how their work may be used to train or enhance its AI systems.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+      "topics": ["generative AI", "AI ethics", "copyright"]
+    },
+    {
+      "title": "Reflections on software engineering in the age of AI",
+      "summary": "A software engineer reflects on how AI coding tools are reshaping the practice of software development, including changes to workflows, skills, and the nature of engineering work itself.",
+      "url": "https://adiamond.me/2026/06/software-engineering-in-the-age-of-ai/",
+      "topics": ["AI coding tools", "generative AI", "technology ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
