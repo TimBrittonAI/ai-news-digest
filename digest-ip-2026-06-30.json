@@ -1,0 +1,90 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Microsoft, OpenAI Face Copyright Lawsuit From Nearly 400 Newspaper Publishers",
+      "summary": "Nearly 400 newspaper publishers have filed a copyright lawsuit against Microsoft and OpenAI, alleging unauthorised use of their content to train AI systems. The case represents one of the broadest collective actions by news publishers against AI companies to date. It adds significant momentum to the growing wave of litigation from the media industry over AI training practices.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeGItMS1wTkdVMmdSQUxvMkYzVDd2MldBbHhmWVNRSzItcFdXY29UUlFneS1KQUlKYWRHcVpFV3cwbHFhN2hJOGRQWmxqa3BuYmpuZnF5X2FDQWxDSkpVVXk4UDQ2UDJqNHhoTEViSDBkYWhGdWJ5OHEtUVJ3cU5QVHJLWXkyQUNwUkVNQVdZNWFLVnp3ZTl6dVVhVUE2MlAyd1lmME1oOFo2YlBBZ1UzOTF3?oc=5",
+      "topics": ["AI copyright", "litigation", "news publishing"]
+    },
+    {
+      "title": "Google says AI training is fair use and copyright should be policed on outputs, not inputs",
+      "summary": "Google has publicly argued that using copyrighted material to train AI models constitutes fair use, and that copyright enforcement should focus on AI-generated outputs rather than training inputs. The position, likely submitted as part of a policy process, sets out a clear industry stance that conflicts with the arguments of many rights holders and publishers. It is a significant statement that could influence regulatory and judicial outcomes.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd19UWVpCU0VhWGI3dkloa19RMlJzM0xBX0VZZ1ZMNEJUMGpSZnMyZi01S0RVOEpFSThaWGNVRDk1SUlVVzdHcWpCUThmdWwtZGJPY1J0eDNnZHRtWGdDYXJGNWx6NHl6WnYwb2xrRlFTU3h0WGRaZmlqX3BFVmc1b2xDMWd2SnZyTE9odnBSdzRSRzZUWUJHMzBWa2pBM3d2c0FnOHhHR3lldmo3X3VXQlJVV0w2MVZIT0pLc1RhRHZYeUhiVkNMeQ?oc=5",
+      "topics": ["AI copyright", "policy", "fair use"]
+    },
+    {
+      "title": "Crawlers to Courtrooms: Why publishers say the AI fight is existential",
+      "summary": "This piece examines why publishers regard the battle over AI training data as an existential threat to their business models, tracing the journey from web crawlers harvesting content without consent to the current wave of courtroom battles. It draws on publisher perspectives to explain how unchecked AI scraping undermines the economics of original content creation. The article provides important context for the escalating conflict between the publishing industry and AI developers.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbzQxSHdDNWZ0VWx4WlM1Sk92aGYtX28tY2U2Ujg0cUtNMmM4cjFmRzJHVEhraUhONTI2S0RhNldZdDQ1eTI3SWxLbV9UN2lNc2ZFSkJxNG9WbkNXald5VlNVdTk4SVhqa1FIS2tRR1ZWRVFYTXBCTWtjZlJUVWhuUFlLN082ZUFTY2ZPU0dTRTRnUWNlaW5rWjBJQURHN2NxeWFybmFMSGotLUFIQjQxemx6WnU1M29BZzlhUENIVdIBxAFBVV95cUxNUGNzcXRkY1FRQzFJeU1lb2NUbW1wSjVQTXFCVDFfQ0JmNXE2b2w4TlY4YXA5Tl9EVTVOSTJKNHhiaG1KaE1vLUs3TGIyX3pUWEVmU2dlYVIza3o1Wm11QjYzdW53VXRXVl9YQm9iUmtrckFuU1ZwaTR4NmctR2ZGVlltaXlBZUV0eURWdGFlLTZQSGNmTE9iWmhNZklPb2RsQ3pNOFlwV1dUWUxSOXJnWmlEZEtydDdPNlBBY3dYTTZRRkZ6?oc=5",
+      "topics": ["AI copyright", "news publishing", "litigation"]
+    },
+    {
+      "title": "Fact Check Team: Anthropic court rulings could shape AI copyright future",
+      "summary": "Court rulings involving Anthropic are being closely watched as potential precedents for how AI copyright cases will be decided more broadly. The piece fact-checks claims about what the rulings mean for AI companies and rights holders. The outcomes could have wide-ranging implications for how training data use is treated under copyright law.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS1RVZmlmYTBjVWc0RFdzQ1dWTndFcFVSNDVGd0VCQW9NWHpTR3pwN3ZjU0xNZlZrNFRWc2RhMDliYm5vVzJFUlppRVZIR2xkUVc4dlktdTVrcUdsX09YLWZRZTZaR2lScWM5NVMwNFZZamE0a1hmYzFGTkk1eDBhYm5vMEFKRU53RHc0TWFucnVkbkpVM29rOUwzMkdoOU5GYjZHeTVYLVdQTDR3eldpR1N6OEJ3ZElReU1lRDgzSDJLNGZLMm9FMVRCR0RpeW1rdHc?oc=5",
+      "topics": ["AI copyright", "litigation", "fair use"]
+    },
+    {
+      "title": "New UK bill seeks to address AI copyright issues",
+      "summary": "A new UK legislative bill has been introduced with the aim of resolving outstanding tensions between AI development and copyright protection. The bill is part of ongoing efforts by the UK government to establish a legal framework that balances innovation with the rights of content creators. Details of the bill's specific provisions and their reception by the publishing and creative industries are under discussion.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ1ZrdExWaGlwczhnbWl6SjJ4UGxfS3BEWHYtVzFKQlBSNVg2RUlscXZkQXN4Nzd5MVZvWHRMc2RtNjc4WlNGM09FOXdHQXlxdnkwbktkUHdnMEFMRU5WaHAzX1YyVmd4MV9yWXFpbGo4OF9ZUGIyLUdvLWlKLVJ0cGwtN2lXVVZORlRfYWdaVVgyM0dydmc?oc=5",
+      "topics": ["AI copyright", "policy", "UK law"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Lights, camera, AI: For entertainment companies, a prompt may come with copyright headache",
+      "summary": "Entertainment companies are grappling with unresolved copyright questions as they adopt AI tools for content creation, with legal uncertainty over ownership and infringement risks growing across the sector.",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNEVKQnhhcDFxM0o4OTlXR2NZdjBrbHMwanRCODdvQmI4cHUtVjRKenI1Y0pla2Exc19teHRkS2pEZ3d5Q043a0hOSXg1UXpFZUU4YWZNQzVESTFDRWhkQ1VkbVJVbEc3azNpSi0yQWVBVkxBWUthOWNVakc0Q3NZa3pDQkdfMURGeXBrVmxlNjBxT3hteW01bmUxX1FQVFRiWm5adlRQV0NlUVRsSUJ6cDl3YXhYTDNiUUxyQlpBZEh0WDJpWFU3ZGFqcGRWSE9XbUhwUlpwSWswSnhYSkkzMlBCN2o1QkZDX1pQM3E3WG42d1Y4eDZlYVVIRjBiUdIBgwJBVV95cUxQMlFmckt3N2ZlLVVTYUNfeFRnLVVkcWZSd2J0dmRZbVdKZ18tcTR1NTdVOGV2cjZKLTQ4N3VPeDBTZ2p0alFJZFRYbWNTMTlLalJvc0ZmNlIzYm9MbUNvZzI1bHhNWllUR08xUkdvWG04el9FTnBDVTc0OThWTmdWamF5OTcxVWx0MkFPVjA4MlBLdjcwMFFZQm4tdDAzMDZMeUd5ejFHTm1kcGNjeTAxM1JpQ0FKVWdaZ0lTRHA4N1BEZkI3QV9ZRHBkVXVPd19FWUU0SWpkWDNycmM4Y2FrTE9obTVCTHpwTlZEVTdHOXkyZGhVX1NFaEhaaWNVczA3VHZF?oc=5",
+      "topics": ["AI copyright", "entertainment", "licensing"]
+    },
+    {
+      "title": "Preventing music theft by AI firms",
+      "summary": "The article examines efforts to prevent AI companies from using musicians' recordings without authorisation, as concerns about unlicensed training data grow across the music industry.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVlaMndVdWN3eHNUZHlhRDZESF80YnhqX0Q1WG9fZEcxYzhiSVZWWFlKODI3alBIdmFaWGNvNjFYOUJGTFN2UjdKT0tSTm9aQjljYlBDMjM3VUdTVk94NDFqVV9INmVyXzktRDlUTUtLRnMyZ3ZtcDVzZXBucHBmczJFZ2FiUQ?oc=5",
+      "topics": ["AI copyright", "music", "licensing"]
+    },
+    {
+      "title": "San Antonio musicians surface in AI training databases as copyright questions grow nationwide",
+      "summary": "Musicians in San Antonio have been found in large AI training datasets without consent, highlighting how the unauthorised use of creative works in AI training is a widespread issue affecting individual artists across the US.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONllteGJQWEd4YkdyRjZYNTA3WUZHeHp3Q3VjUU1rYm1EOVdpdHl1NEE5dUltaFVBam1jSnJZM1BnVkRNYmk2Mk5EYkctN1hucEhsUjNjZVhiNG5VSWtha2dIcEhDdVFXSUkzWGdwZVozaTVuMnB3dktmR1RPUDFMdUdMbm01elFPendGZUl4Yw?oc=5",
+      "topics": ["AI copyright", "music", "AI training data"]
+    },
+    {
+      "title": "AI and Copyright – Judicial Landscape in Germany",
+      "summary": "An overview of how German courts are approaching AI and copyright disputes, outlining the key legal questions being tested and how Germany's judicial framework is evolving in response to AI-generated content issues.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVG1qYlBOdmpNUGptUlpzQ1kwb1p1NjBoZUVybmdxNFhNQldVa1JlZnBfaC1MLUdLaENzeFc5N3JLd1ZLbnRkOE9Ma1BuRG1YNGF4dkR4d3F5cUdxWEl2dVhSWnhvU01lWGpoZXYzMl9QbGxzSGpZSUZTVGI5dm9GVkFMWmRlaEJ2?oc=5",
+      "topics": ["AI copyright", "litigation", "EU law"]
+    },
+    {
+      "title": "A hybrid path: how India might balance AI innovation and creative rights",
+      "summary": "The article explores possible legislative and policy approaches India could adopt to balance the interests of AI developers with the copyright protections owed to creators, amid growing international debate on the issue.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdzl0SjRYcnYxOFhnOGcxZVVtRWtDS0tZSG5oT3pHaTR0WHlTeVl0LVBrTEVPRWotUTNIUC1OTG1qbDNJTXctblBpc2dTQUhCdFRxYVAtX3hNei1sRzZ2ekYzZHNrWVVEZTZ0a0d3d25XQmQwenREWTk1a0c1UlJjMVROZEp5RVlKRGp1bVR5SXUySHNKczNDajFHcEJqTjR0Nm80U2hqWk1Pa1FvZjgtTG1oWEtycDhnRm1sMTZuRDJvU252TEdIdmdzVEhNd1Q5V1hJUmNoNy1KVFJfMDU4?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Indian Media Firms Face Copyright Risks As AI Content Adoption Rises",
+      "summary": "Indian media companies are increasingly exposed to copyright risk as AI-generated content becomes more prevalent, with legal frameworks yet to catch up with the pace of adoption.",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdFQ3ekJWSENac0NNck5CczZXSHhZWWpzeG5NbU5heFdaR0dhSk91enFVdHU5QUtjSnZvUW16d3owYjBUUEJsMk1QQ1ZRUzhwZTgzSVpxd3Ryd0VYb09hcnVJVjRXTWplZWNCTnBNOWFqenVQQnRCOURPSDFNZzgtZTBpVUZXTXQ2dzAxTHZ0WjJULURvcWFXMFd4XzJWZUlPWDNBM0NDMWdqYWxuaUtCOUl4NldPdFA3eWxCbWNIaVZacjdrS2FFSmVLc25xb01NOTRHQXZ0OE9hMkJJcUJTZTE4a1RqTm5ITVJXWG9R?oc=5",
+      "topics": ["AI copyright", "media publishing", "policy"]
+    },
+    {
+      "title": "Before the Guardrails: Why AI Governance in Research Must Start with Purpose",
+      "summary": "The Scholarly Kitchen argues that effective AI governance in academic research contexts must be grounded in a clear articulation of purpose before technical or regulatory guardrails are designed.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/06/29/before-the-guardrails-why-ai-governance-in-research-must-start-with-purpose/",
+      "topics": ["AI governance", "academic publishing", "policy"]
+    },
+    {
+      "title": "Material Re-Expression Test: Combating Generative AI-Driven Refurbishment of Content That Has Normalised Intellectual Camouflage",
+      "summary": "This piece proposes a 'material re-expression test' as a legal tool to identify when generative AI outputs have sufficiently reworked source material to evade copyright detection, addressing a growing challenge for rights holders.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM29DM3ptb0laSmJSbXBlbXF1YjJVbGtzdUU1a0kwSFRKUm5xcXgyaEZ5UDhIN29Nc1JqNE5ta2VuUElNUVdlM0JDWUtxcUEtT21lN2V1NXlfakt1bGNLcm9kNUNGLXZGWlIyVC1ycE0yVjUwVDNLSUF6VEZsUWhsTHRlMDQyYnhLRkI0ZXo4dGxmWTBiclJlVllnVGZkcU1WWVR3ZmVGMkFjTElIYTE4?oc=5",
+      "topics": ["AI copyright", "legal analysis", "generative AI"]
+    },
+    {
+      "title": "10 Best AI Music Generators in 2026: Tested, Ranked, and Copyright-Cleared",
+      "summary": "A roundup of leading AI music generation tools, assessed in part on whether their outputs are cleared for copyright use — a growing consideration for commercial users of AI-generated content.",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53MTRJb29JRVhFTldnZVY5VENVM0pNN1ZmU3V3TnBiOTFMVGplYnB2MGVZZVF0NXRUWFVldGVyRTFhZW8xME1id3Vud3VrenNKekgzSkxEQ1k?oc=5",
+      "topics": ["AI copyright", "music", "testing"]
+    }
+  ]
+}
