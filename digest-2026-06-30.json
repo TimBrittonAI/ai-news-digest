@@ -1,0 +1,85 @@
+{
+  "top_stories": [
+    {
+      "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+      "summary": "Meta hired contractors who impersonated teenagers to prompt competitor chatbots with sensitive queries about suicide, sex, and drugs, according to Wired. The practice raises significant questions about AI ethics, competitive intelligence tactics, and content safety testing methods in the industry.",
+      "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+      "topics": ["AI ethics", "chatbots", "content policy"]
+    },
+    {
+      "title": "OpenAI is teasing new hardware… for Codex",
+      "summary": "OpenAI has teased upcoming hardware designed specifically for its Codex AI coding product, hinting at a push into purpose-built AI infrastructure beyond software. The announcement suggests OpenAI is expanding its ambitions into the hardware space to support autonomous coding agents.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "topics": ["OpenAI", "AI coding tools", "AI infrastructure"]
+    },
+    {
+      "title": "AI agents are not your "coworkers"",
+      "summary": "MIT Technology Review examines the growing trend of companies framing AI agents as collaborative colleagues, arguing the analogy is misleading and potentially dangerous. The piece explores what distinguishes AI agents from human workers and the implications for how organisations deploy and trust these systems.",
+      "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "topics": ["AI agents", "AI ethics", "generative AI"]
+    },
+    {
+      "title": "Mapping Europe's AI Workforce Opportunity",
+      "summary": "OpenAI has published research mapping AI-related job transitions across the EU, identifying which roles and regions face the greatest disruption and opportunity from AI adoption. The report is framed as an assessment of how European workers can benefit from the AI economy.",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "topics": ["OpenAI", "AI industry", "generative AI"]
+    },
+    {
+      "title": "Grok 4.5 Undergoing Internal Testing at SpaceX and Tesla, Musk Says Performance May Exceed Claude Opus",
+      "summary": "Elon Musk announced that xAI's Grok 4.5 is being tested internally at SpaceX and Tesla, with Musk claiming it may match or exceed Anthropic's Claude Opus in performance. xAI also plans to release new models on a monthly cadence through the end of the year.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSVFXVjY4VElZT0lQWG1MRm5KbkJJVHljay1XSEZiSG5yVTFON3V5eDVaSVc4QXNEMWhSUDVQLWNOQmtTMERyakpLbEpHb1ViMFFKQW9PelMycU16bDdnbnpMcVlCWGltVURVZ0VIWENGVTFpRWRoWjRJdTduUkpZbVc4U3ZaaXBWd0s1NWEwOGtsOTVZNXcxdXhYeXJBQkd3R1pjbXo0Q1E0b3Nt",
+      "topics": ["large language models", "AI industry", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Agent confidence on the technical frontier",
+      "summary": "MIT Technology Review explores how AI agents assess their own confidence levels when operating at the edge of their capabilities, with implications for reliability and deployment in high-stakes settings.",
+      "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+      "topics": ["AI agents", "large language models", "AI safety"]
+    },
+    {
+      "title": "Lawmakers want to ban AI companies from selling your health data",
+      "summary": "US senators Elizabeth Warren and others have proposed legislation that would prohibit AI companies from selling consumers' health and location data.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+      "topics": ["AI regulation", "AI governance", "technology ethics"]
+    },
+    {
+      "title": "Tidal won't pay royalties on AI-generated music but isn't banning it outright",
+      "summary": "Streaming platform Tidal has announced it will not pay royalties on AI-generated music tracks, while stopping short of an outright ban on such content on the platform.",
+      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "topics": ["AI ethics", "generative AI", "copyright"]
+    },
+    {
+      "title": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
+      "summary": "Import AI's latest newsletter covers advances in self-improving robotics, a large-scale Chinese GPU cluster deployment, and a reflective essay on the implications of the current AI era for humanity.",
+      "url": "https://importai.substack.com/p/import-ai-463-self-improving-robots",
+      "topics": ["AI industry", "AI compute", "generative AI"]
+    },
+    {
+      "title": "This Humanoid Robot Is a Terrifyingly Competent Office Intern",
+      "summary": "Wired profiles Flexion, a humanoid robot designed to perform office tasks, reporting it can handle a surprisingly broad range of real-world workplace activities with growing competence.",
+      "url": "https://www.wired.com/story/this-robot-is-going-to-replace-your-interns-flexion/",
+      "topics": ["AI industry", "generative AI", "technology ethics"]
+    },
+    {
+      "title": "Elon Musk says SpaceX is putting top Starship and Starlink engineers to work on Grok",
+      "summary": "Elon Musk has confirmed that senior engineering talent from SpaceX's Starship and Starlink programmes are being redirected to work on xAI's Grok, signalling a major internal resource commitment to the AI project.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSnk2UjdBMlRTMkNsZ19GVmx5bkFmNWNmaUEwNzA0SnV0bUo2QmNQTFUxckVENVQ1aGd3dl8takpQOWRrYWZHQXdMWXdPcmxRbXpTR3VEMUZRa290LU1QdVpaaEJKVkdoV0JJdi02R0s0XzFYT3FhUUFtYTZGWHJqX2lEb2steEJraUQ5OHFqMzVleTAtSEtrV2IwVQ",
+      "topics": ["AI industry", "large language models", "leadership"]
+    },
+    {
+      "title": "French research thrown into turmoil by a multifaceted crisis",
+      "summary": "French scientific research is facing a significant crisis driven by funding cuts, structural issues, and the pressures of AI integration, raising concerns about research integrity and the future of academic institutions in France.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOclp4Vzh6Sm9DTkZhNW5xVXRuOG80VWEtV3VEUnBxQWN3M2N0alY1anEwUkxpNUxSRzhab2xIeWZLQ0JPMU1fenRmTjZsTVVBWk1qaEJtV0JfWFV5UjVNdEI0UXhaVjZkSzJvcWxLRU5fNktxXzJRMndJTUMtY2lWd1JsQWI2V2dHUjBWSVlPNTlkYVRVd1dIcTZKdmY1TDU4VHpydGFVcXJENzhKWUREaGlBLWstQjJ1Z1Z6OVBhd0RKYmt0NUNsVA",
+      "topics": ["academic publishing", "research integrity", "AI industry"]
+    },
+    {
+      "title": "Working With AI: A concrete example",
+      "summary": "A detailed practical essay from htmx.org walks through a real-world example of collaborating with AI on a coding task, offering a grounded perspective on where AI coding tools help and where they fall short.",
+      "url": "https://htmx.org/essays/working-with-ai/",
+      "topics": ["AI coding tools", "generative AI", "large language models"]
+    }
+  ],
+  "ethan_mollick": null
+}
