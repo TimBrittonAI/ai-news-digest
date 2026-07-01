@@ -1,0 +1,95 @@
+{
+  "top_stories": [
+    {
+      "title": "Claude Science is Anthropic's newest flagship product [Metered]",
+      "summary": "Anthropic has launched Claude Science, a new flagship product aimed at scientific research applications. The product represents a targeted expansion by Anthropic into specialist professional domains beyond general-purpose AI assistance.",
+      "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "topics": ["Anthropic", "generative AI", "AI industry"]
+    },
+    {
+      "title": "How ChatGPT adoption has expanded",
+      "summary": "OpenAI has published data on the growth and expansion of ChatGPT adoption, providing an official look at how usage of the platform has developed over time. The post offers insights into how the product has spread across different user groups and use cases.",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "topics": ["ChatGPT", "OpenAI", "AI industry"]
+    },
+    {
+      "title": "The twilight of the chatbots",
+      "summary": "Ethan Mollick's latest post examines how the chatbot era may be giving way to a new paradigm in AI interaction and deployment. The piece explores what comes after the conversational AI model that has dominated recent years.",
+      "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+      "topics": ["chatbots", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs [Metered]",
+      "summary": "Meta contractors reportedly impersonated teenagers to test competing chatbots on sensitive topics including suicide, sexual content, and drug use. The report raises significant questions about AI ethics, content safety, and competitive practices in the AI industry.",
+      "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+      "topics": ["AI ethics", "content policy", "chatbots"]
+    },
+    {
+      "title": "New attack provides one more reason why AI browsers are a bad idea",
+      "summary": "Security researchers have demonstrated a new attack technique against AI-powered browsers, showing that they can be manipulated into a state where safety guardrails no longer apply. The findings add to growing concerns about the security implications of embedding AI agents into web browsing environments.",
+      "url": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+      "topics": ["AI safety", "AI ethics", "technology ethics"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "summary": "Google DeepMind announces new lightweight and flash variants of its Gemini model family, aimed at developers building with efficient AI compute.",
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+      "topics": ["large language models", "AI infrastructure", "generative AI"]
+    },
+    {
+      "title": "Introducing GeneBench-Pro",
+      "summary": "OpenAI introduces GeneBench-Pro, a new benchmarking tool focused on genomics and biological research applications.",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "topics": ["OpenAI", "AI research", "generative AI"]
+    },
+    {
+      "title": "Anthropic's long-sidelined Fable 5 is greenlit to return",
+      "summary": "Anthropic has approved the return of its previously halted Fable 5 project, following the Trump administration lifting export controls on Anthropic's AI models.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "topics": ["Anthropic", "AI governance", "AI regulation"]
+    },
+    {
+      "title": "Google's NotebookLM can sum up your research in a TikTok-style clip",
+      "summary": "Google has added a new feature to NotebookLM that can condense research into short-form vertical video clips, expanding the tool's output formats.",
+      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "topics": ["AI personal assistant", "Google", "generative AI"]
+    },
+    {
+      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+      "summary": "Netflix has employed an AI-generated voice cloning of the late Gene Wilder for its Willy Wonka-themed reality series, reigniting debate around AI-generated likenesses and consent.",
+      "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+      "topics": ["AI ethics", "generative AI", "technology ethics"]
+    },
+    {
+      "title": "Libby will filter out AI content, kind of",
+      "summary": "The Libby digital library app is introducing a filter for AI-generated content, though the implementation has notable limitations.",
+      "url": "https://www.theverge.com/column/959270/libby-ai-filter",
+      "topics": ["AI detection", "content policy", "generative AI"]
+    },
+    {
+      "title": "Agriculture is ready for AI, but its data isn't [Metered]",
+      "summary": "Despite strong interest in applying AI to agriculture, the sector's fragmented and inconsistent data infrastructure is a major barrier to effective deployment.",
+      "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+      "topics": ["AI industry", "generative AI", "research integrity"]
+    },
+    {
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "summary": "OpenAI's engineering team details how they used AI-assisted methods to track down and fix an 18-year-old software bug through epidemiological analysis of crash data.",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "topics": ["OpenAI", "AI coding tools", "large language models"]
+    },
+    {
+      "title": "Meet the lawyer who beat Elon Musk",
+      "summary": "The Verge profiles Bill Savitt, the attorney who successfully represented OpenAI against Elon Musk's legal challenge.",
+      "url": "https://www.theverge.com/column/959433/elon-musk-open-ai-bill-savitt-twitter",
+      "topics": ["legal", "OpenAI", "AI industry"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "The twilight of the chatbots",
+    "summary": "Ethan Mollick's post explores the possibility that the chatbot paradigm that has defined consumer AI is beginning to give way to new forms of AI interaction and deployment. The piece reflects on what this transition means for how people use and think about AI tools going forward.",
+    "url": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots"
+  }
+}
