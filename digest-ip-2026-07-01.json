@@ -1,0 +1,84 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Suno Faces Another AI Training Copyright Lawsuit From Production Music Firm Jamendo",
+      "summary": "Music licensing platform Jamendo, a subsidiary of Winamp, has filed a new copyright lawsuit against AI music generator Suno over its use of music for AI training. The suit follows Winamp's separate action against Suno filed just a week earlier, and comes amid a broader wave of litigation targeting AI companies over training data practices.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTlA3YklYVnlNOGlsWm9CWWN6cWpJUUxSYjRMU05wekp6c0pJaHE0Y0RXcm0yQ0ZodmpWR09YOGFrYTFTaldlUnJNQmctaXRCUVBJV3JYSEtLVklHQVAySnpjNzJTaGpMelNCY2M5bWR2NWM4Vll3MzBaZ1RLSjhwdzY1R3F5b2p0X2JfNEE3VkM?oc=5",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "Authors Ask Calif. Court For Win In AI Training Copyright Case",
+      "summary": "Authors have filed a motion seeking a court ruling in their favour in a California copyright case centred on AI training data. The case is among several active US lawsuits testing whether using copyrighted works to train AI models constitutes infringement.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVk94eURDd21XZXdvTndjaDJfcm9DXzJmeFdUTFM2bWNjU1FVNE10RXZmRHc3cnF1OHdYSlpUb0JkUEJGSUJWTE5BaHZMNUo4T0VRcDlJT0x4cjB6MnppRVNDUW5LY3QxSVNNM0NXaU1QN05BS2w4S2d0UTBXLTVpZFZZMEd2ZlVLeEpGWUZvbVRCbmt1SGVZcHNRT2NhZTBVLWRr0gFWQVVfeXFMUGJkVUJ6MWZrYnIxVVY1TW5wTUVvbjYtUHJwU3dYejZSd3ZyTmhKc2FROXBHWndRNGFlYkdYV0IwSVY3ekV3dWc4dW9EamxBR1hfbV9UVHc?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Google Defends AI Training As Fair Use In Governance Paper",
+      "summary": "Google has published a governance paper asserting that AI training on copyrighted material constitutes fair use under US law, while also arguing that UK copyright law places a ceiling on the sophistication of the British AI sector. The submission signals Google's formal policy position ahead of legislative debates in both jurisdictions.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYW9hc2hiQkNLSTZucU92Q2EwR3JVR3VxYmZxUUI0TEtHZnh6U0swUXRYczZkZlp2WHQ1R044MXAtOXN1ZDVVRFZLUWZzQ1hmSlJ6WHJKeTJGQVh3NDhUejlJb2dOZkhtTll3ZzRwUms0OFNXRmxDZV83Q0RwWDNQMGhfaEs1bWdkUEpwYVU0SEVXWjZNSVFhbHhzMlFXMlJibmVudw?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "US judge rejects Sony's request to expand AI copyright case against Udio",
+      "summary": "A US district court has denied Sony's motion to broaden the scope of its copyright infringement case against AI music generator Udio. The ruling limits the claims Sony can pursue, representing a procedural setback for one of the major record labels in its AI litigation efforts.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNG5wbGc1bjB1aVFSVTJ1ZU1GTjNNWGNfUk1UVVByb3RBX1FOOVRuVmZTSkRlUnR2ZXZ6dEpCb21scXBlSGpoTDlGY2xXYmRrLVAxczVvSGV3WkIwaEdCUEdaTnU3b1g2WlIxYVFpNXdvbE40SThGTFp4YXFWc0lzWnRYTjdrUlF0bDdDeFJmVGEtbGxlTGRWOU1lUlNLUlhueG1sQ0FINUtLelNiUzVUU0tULWtEWnJSa0VvSzJRUHVTeUEtSWZNdW5IUFQzM0lST2Fr0gFaQVVfeXFMTW44b0N0NVBBSmdYOXRvWkNUTG5tSF9nd0NhbF8wdmoxWjF5b2Y2ZVF1dzBNU0Q3V0VGNkdqNkZJYlBKMXpkSjAyRXJyTlNyYTFfUXFUZXRwT0VR?oc=5",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "Four attorneys disqualified and fined by a US district court after submitting AI-fabricated legal authorities",
+      "summary": "A US district court has disqualified four attorneys and imposed financial penalties after they submitted AI-generated legal citations that turned out to be fabricated. The case, reported by IPKat, adds to a growing line of judicial sanctions targeting lawyers who rely on AI tools without verifying their outputs.",
+      "url": "http://ipkitten.blogspot.com/2026/06/four-attorneys-disqualified-and-fined.html",
+      "topics": ["AI copyright", "legal services", "litigation"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Australian Music Industry Unites to Fight AI Copyright Threat",
+      "summary": "Australian musicians and music industry bodies have issued an open letter calling for legal protections against unauthorised AI training on their works, highlighting that existing law currently offers them limited recourse.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMTkza0M2ODZoY1JFbm1UZDJyVlhSS09xRkVlV1NKVnJYV3kyVE42UGpLaXZTdDRBNjUxWGpZanIyaVNrVGRSMnFodTNfbHFST25LZ2I2SXZmcFpWUmtoMGV6TTRNSzRlbVY5VTAxRHhNMGhud3ViWmQ2NDVJUWItNllpeUo0QWFtXzRUYl9iYkJhUUNISlE?oc=5",
+      "topics": ["AI copyright", "music", "policy"]
+    },
+    {
+      "title": "Google demands changes to AI copyright laws",
+      "summary": "Google has formally called for amendments to copyright law to facilitate AI training, framing existing restrictions as a barrier to AI development in markets such as the UK.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYjZuY19ITEFuN0NRU0xpZk5nOFdQLWdtc0NMX3BqX2gtQU5CcWZUY2RnMWZ5Qk1FdmVHSlNzZU9KVmJCX2c4VXBXNHBSVmpKdmlLSURUZEQtdnBKdS1EREZta05kNTBIa1U0VGlTYWg1TldHY3NnNkxqbVZka2owSDRCZjZnWlpqckZ6Zll4VjRMbURqdy1z?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Winamp Escalates AI Battle With New Suno Copyright Lawsuit",
+      "summary": "Winamp has filed its own copyright suit against Suno over AI training, separate from the Jamendo action, escalating the legal pressure on the AI music generation company.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeEE2MFdvWThEZkVZYUg4eFFKdEZVdGo2VWVxY0VEb0NDWmRBYWp2VThEZVMxMWhOMDlLcXo1UWRkOEF6cE5seENOWHp3TU51and6c3BDZ2w5V3RrcENrMHNMN0p1TmlpcUQtcGJaVGQtbVNYeTVMMDAzMG90blZPbk82NGpHZzdqdUtWMkJtRTJENDdGRFZrb0F3d3RTNnM?oc=5",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "Ranking Member Raskin's Opening Statement at Subcommittee Hearing on Protecting Creators in the Age of AI and the Internet",
+      "summary": "US House Judiciary Committee Democrats published Ranking Member Raskin's opening statement from a subcommittee hearing on creator protections in the age of AI, signalling ongoing Congressional attention to AI copyright reform.",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOSEpTMUx4ZDliRjVORUdQaHQxcjhJcVVLMlY4cHVIei15Q0hpVDNQRHZXV1RISVdZUDlZdkh5ckFEOEJkdmQ0LUVfZjBaU29ubTZENW5IXzJHOFZ6NERUVlpXT01vMEdUc1NmTjVSVjF3NDk5V090ODYtWjVkc01XWjRVLUdoWUdTM0lqQ0kyVHU4UnlRcjdDYkYybTVZeEZEQ3ZnTHlTVDVKQ2xxNTNvS21MbGFfMnN2WXRjSnFOWFV6aV90MUhaN29aVHQ3UUhBMVBuUVBjWE5QNTVCMmlXd2tGcTlJSHdIenlKbWpyODF2YzBtS0JhNTZlQjVQeXZrYzZ2VEtxZUd1SEhNOG5iamlKTWRJRUU?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Guest Post — Now is the Time for AI in Peer Review, and Publishing Policies Need to Recognize This",
+      "summary": "A guest post on The Scholarly Kitchen argues that AI use in peer review is already widespread and that academic publishing policies must be updated to formally acknowledge and govern this practice.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/06/30/guest-post-now-is-the-time-for-ai-in-peer-review-and-publishing-policies-need-to-recognize-this/",
+      "topics": ["academic publishing", "AI tools", "policy"]
+    },
+    {
+      "title": "Inside the hilarious official court filings for the internet's first-ever 'Brainrot lawsuit'",
+      "summary": "A report examines the court documents in what is being described as the internet's first 'Brainrot' copyright lawsuit, offering a look at how internet culture and IP law are intersecting in novel litigation.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTHN4X1YyT2IweGhFblJzR3FoeXY1bkVTeVg0ZW5zbE1Pd0hPTFZUYXdUNGR6TGUyaDgyQ1RuMzNDOF9JUjRJbUJyV2VyZkdNT0UtQjljZklvNnNJQ05DaV9wVkVtMVNBbGlCZTZuQ2hLX1hwNVJVNEZldVNpZWtLRnVrcFpnVzZ6LWhQaWllb1JRc2hFR09STXlQZw?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "AI Authorship and Copyright: Can Machines Be Authors?",
+      "summary": "An analysis examines the legal and philosophical questions surrounding whether AI systems can hold authorship status under copyright law, surveying current frameworks across different jurisdictions.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOU12dmZEWVQ5MEQ1dXhoZ25rT2psNGVOa0NtTVRIc21ielBUbkxERlpYcGxwRGJnUXRINm1JVnZCTmxxTzVZOE5NNUJ4ZVdCTUNicGZHSUpZT3JzcmpUUzNDZHZEdC1rUGZPZW5CSGdaRFhQSUQ4V3NwTFE5T0REc216UklkRmFFX210UzduRFV1YnZwcDBCdGZUeWxuSDNYM0HSAagBQVVfeXFMTnZuczl6bW9SN0FBQUxzc2JtaHZ6bExtUEd3V3pWajJiZW56amcwU3NwRHRtc3BfYzlmbi13RkdsX0JtVHBrTnJnUlNuQ3RWRGhDSEFwQmFfVHRKUUJ5dUd4dGdiUDZ5SDROdTUzelJFbUc4UEgxZjZaOVVOcEhKUjAwaENDN0ZqbEVubjlLUVdQVm0xYmxmbzRFTnF6aU5tcjNlbkpVYWtW?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Legal AI Is Only as Smart as the System Behind It",
+      "summary": "An article argues that the effectiveness of AI tools in legal practice depends fundamentally on the quality of the underlying systems and data, cautioning against over-reliance on AI in legal workflows.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmo4LXRodHR1MVI5YmVnWGM5NkhUWVZrNXRYZEhsT3RrcHRJTHJxaHEtQkRheVNQUl9nWXI1dFAzVlJNMG5aVmhXVDRBZjZyNkc2Q2wyWER5V1VFaXkzSzVSZVFpM2hGTklCZkNoRHRiUkRDZzY5eGIwU3FSU2ZoZ3ZWeGViWG5rcENPYXZSeUh5WmY1cUJWTg?oc=5",
+      "topics": ["legal services", "AI tools"]
+    }
+  ]
+}
