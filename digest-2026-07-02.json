@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Anthropic Added a New Security Measure to Get Back Into the Trump Administration's Good Graces",
+      "summary": "Anthropic has introduced a new security measure as part of efforts to restore its standing with the Trump administration. The move comes amid broader tensions between AI companies and the current US government over export controls and AI policy. The story touches on the intersection of AI governance, national security, and corporate strategy.",
+      "url": "https://www.wired.com/story/anthropic-added-a-new-security-measure-to-get-back-into-the-trump-administrations-good-graces/",
+      "topics": ["AI governance", "Anthropic", "AI regulation"]
+    },
+    {
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "summary": "MIT Technology Review reports on a startup tackling the problem of large language models producing homogeneous, consensus-driven outputs — a phenomenon described as groupthink. The company is developing techniques to introduce more diverse reasoning into LLM responses. The piece raises questions about the reliability and intellectual diversity of current AI systems.",
+      "url": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "topics": ["large language models", "AI research", "generative AI"]
+    },
+    {
+      "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic's Mythos and Fable AI Models",
+      "summary": "The Trump administration is removing export restrictions it had placed on two of Anthropic's AI models, Mythos and Fable. The lifting of controls signals a shift in the administration's approach to regulating AI exports from this company. The development is closely related to Anthropic's broader efforts to re-establish good relations with the current US government.",
+      "url": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+      "topics": ["AI regulation", "Anthropic", "AI governance"]
+    },
+    {
+      "title": "Claude Helped a Hacker Find a Way to Issue Tickets to Almost Every US Music Festival",
+      "summary": "A hacker used Anthropic's Claude to identify a vulnerability that allowed them to generate tickets for nearly every major US music festival. The story highlights ongoing concerns about AI models being used to assist in security exploits and potential misuse scenarios. It raises questions about the responsibilities of AI developers when their tools are leveraged for hacking.",
+      "url": "https://www.wired.com/story/claude-helped-a-hacker-find-a-way-to-issue-tickets-to-almost-every-us-music-festival/",
+      "topics": ["AI safety", "AI ethics", "Anthropic"]
+    },
+    {
+      "title": "How employment changes when firms adopt generative AI",
+      "summary": "Ramp has published data examining how employment patterns shift when companies adopt generative AI tools. The analysis draws on real-world business data to track changes in hiring and workforce composition following AI adoption. The findings offer concrete evidence about generative AI's impact on the labour market.",
+      "url": "https://ramp.com/data/ai-jobs-impact",
+      "topics": ["generative AI", "AI industry", "business"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "With Claude Science, Anthropic Targets Another Application",
+      "summary": "Anthropic has launched Claude Science, a new product aimed at scientific research applications, expanding its footprint beyond general-purpose AI assistance.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWlNzVDJaaWlYQ1pkcUg1Z3ZwN3ZmM09BZTRkRWotdmhjMWcwemFVS2Z3aW5NYjYtdVhSalFUUkdKUkJUSk8xN1E5SUlVeXpyQmtUOWVWWHRaOV8xSk1RM01kVFZRdElZdFRBeVdqNE1CYk5BelZDOGJWcWpRUkxxaGZiang2QUpWeXRTMXd2VQ?oc=5",
+      "topics": ["Anthropic", "AI research", "generative AI"]
+    },
+    {
+      "title": "Agentic AI may put $234bn of SaaS spending at risk by 2030: Gartner",
+      "summary": "Gartner warns that the rise of agentic AI could put $234 billion of SaaS revenue at risk by 2030, as autonomous AI systems increasingly perform tasks previously handled by software applications.",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQeVJ2dkd0T050aUtBS2k2SU5QSGI2aER3RUJ0QmNIT1RlMjNCcTdEbDgzY1ppR2VtSFVMU01Mem4zaTEwUDJ4b1V0OHZoVHM5bkw4U3FMQmY2WDF3dzVNOFlXQTRqMUktaE9RV05ycjAydlRDWkQyYVJTdTBUS3FINkgtR241MGRlaVBLcnRlY0dzZWh2WHQyWG9kbDNxcm9zaTNFMHU1QWliblRVYWc2NDZUYXdtNXd0cDFraTV3cE1jRzF4bWZrQTZFWlVfaTJwVktiVnZ4MktSZFJGU1pTOVhkeVJhLUV2TmpOVWFCbE0yUDhYbEw5N2ZLcHNXNnZKejE0S3BpVS0yQdIBigJBVV95cUxQeVJ2dkd0T050aUtBS2k2SU5QSGI2aER3RUJ0QmNIT1RlMjNCcTdEbDgzY1ppR2VtSFVMU01Mem4zaTEwUDJ4b1V0OHZoVHM5bkw4U3FMQmY2WDF3dzVNOFlXQTRqMUktaE9RV05ycjAydlRDWkQyYVJTdTBUS3FINkgtR241MGRlaVBLcnRlY0dzZWh2WHQyWG9kbDNxcm9zaTNFMHU1QWliblRVYWc2NDZUYXdtNXd0cDFraTV3cE1jRzF4bWZrQTZFWlVfaTJwVktiVnZ4MktSZFJGU1pTOVhkeVJhLUV2TmpOVWFCbE0yUDhYbEw5N2ZLcHNXNnZKejE0S3BpVS0yQQ?oc=5",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "SAP Reorganizes AI Leadership, Creates Dedicated Business AI Platform and Autonomous Suite",
+      "summary": "SAP has restructured its AI leadership and created a dedicated Business AI Platform and Autonomous Suite, signalling a major strategic commitment to embedding AI across its enterprise software products.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaXhSM3ZKRERLUUNReC0yTkR1YXFkTWNYMkxQMnBJcWRZYk92bzRuMGlVTVVFWDBQQkJYVzkwRk5hN1JQZ21JeG9sWWFmNGRMZnhkLW44aDVPVno0OVBia1dWRjVnLVpQNWIxcEZJX2h3R2hhZjdSLURrQmlqLS00cnhpQWk0RllvVVJjbXpRa0J0bUVqYWJEZVVRQ0tnUGI5VzgyZzVNU1ctTS1GWEFFZ3ZtRUVyTGN5bHk1QkpWSHpSN3k3UGpVbw?oc=5",
+      "topics": ["AI industry", "business", "leadership"]
+    },
+    {
+      "title": "You Can Now Sound the Alarm on AI Behaving Badly",
+      "summary": "Wired reports on Flare, a new website that allows users to flag AI safety and behaviour issues, creating a structured channel for reporting problematic AI outputs.",
+      "url": "https://www.wired.com/story/flare-website-ai-flaw-reporting-safety/",
+      "topics": ["AI safety", "AI ethics", "content policy"]
+    },
+    {
+      "title": "Godot will no longer accept AI-authored code contributions",
+      "summary": "The open-source Godot game engine has announced it will reject code contributions generated by AI tools, citing concerns that heavy AI users cannot reliably understand or fix the code they submit.",
+      "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+      "topics": ["AI coding tools", "AI ethics", "technology ethics"]
+    },
+    {
+      "title": "Libby will filter out AI content, kind of",
+      "summary": "The Libby e-book app is introducing a filter to help users avoid AI-generated content, though the implementation has notable limitations.",
+      "url": "https://www.theverge.com/column/959433/libby-ai-filter",
+      "topics": ["AI detection", "content policy", "generative AI"]
+    },
+    {
+      "title": "Meta's AI Storage Blueprint at Scale",
+      "summary": "Meta's engineering blog details the storage architecture underpinning its AI infrastructure, explaining how the company manages data at the enormous scale required for training and serving AI models.",
+      "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/",
+      "topics": ["AI infrastructure", "AI compute", "generative AI"]
+    },
+    {
+      "title": "Google built a great smart speaker, but Gemini isn't ready for it",
+      "summary": "The Verge reviews Google's new Home speaker and finds the hardware impressive but concludes that the Gemini AI assistant is not yet capable enough to fulfil its potential as the device's core feature.",
+      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+      "topics": ["AI personal assistant", "Google", "large language models"]
+    },
+    {
+      "title": "Scammers Sell Seeds for Exotic AI-Generated Flowers That Don't Exist",
+      "summary": "404 Media reports on scammers using AI-generated imagery of fantastical flowers to sell fake seeds online, exploiting the realism of generative AI to deceive consumers.",
+      "url": "https://www.404media.co/scammers-sell-seeds-for-exotic-ai-generated-flowers-that-dont-exist/",
+      "topics": ["generative AI", "AI ethics", "technology ethics"]
+    },
+    {
+      "title": "Meta caps internal AI token spending after costs approach billions in 2026",
+      "summary": "Meta has introduced internal caps on AI token usage after the company's spending on generative AI compute approached billions of dollars, reflecting the escalating costs of running large-scale AI systems.",
+      "url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
+      "topics": ["AI compute", "AI infrastructure", "business"]
+    }
+  ],
+  "ethan_mollick": null
+}
