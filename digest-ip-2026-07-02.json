@@ -1,0 +1,84 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Courts Split on Whether AI Training Is Fair Use",
+      "summary": "US courts are issuing divergent rulings on whether using copyrighted material to train AI models constitutes fair use, creating significant legal uncertainty for the AI industry. The split reflects differing judicial interpretations of existing copyright doctrine as applied to large-scale machine learning. The question remains unresolved at the appellate level.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZmxOX1pUdkxYSW1kVjZWY3ZPbTZTWEFVdFhPQmVsa3NNeVZhR0VRWHBEcnl6SWhTMk5CRXVXbGxUREEtcmJXWERneElXQzNaSGl2NzVha08wRTd4RnlrQ2MxbWQ3eHo0bmVkeU1hRzlLQ0VxWDNkVTdNbDByZWZzRG12eFNXdDZQbUE3UDB0cElNc1U4Tjc0OEJJZHBRRS1aekUwWmRqRF8",
+      "topics": ["AI copyright", "litigation", "fair use"]
+    },
+    {
+      "title": "Microsoft Shareholder Sues Top Brass for AI Copyright Claims (1)",
+      "summary": "A Microsoft shareholder has filed a lawsuit against the company's senior executives over their handling of AI copyright liability, alleging mismanagement of legal risks arising from AI training practices. The suit adds to growing corporate governance pressure over AI intellectual property exposure. This is a notable escalation of copyright risk from litigation against AI developers to their leadership.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV29BNzFBSlBGRmZoNFhnR0R2aG1fYVFnZUUtYlU2NmFtRkF3VmNhaF9fMEp3YXRmbzNEeEF5bThWcGdYOHJOdG9sNzRLSjcxVS1LZVVEMlg0c3o0cUd4Q0sxYzdQNEhRUlZxMExsMHRmQjFOcUY0TFl1YWFUS2p6c1BIa1RmSHUtbGRLU2x3U0xPaUF1LVM0NnVQZElxb0tpOTFrRGtXUGtGdThYWXc",
+      "topics": ["AI copyright", "litigation", "corporate governance"]
+    },
+    {
+      "title": "Suno sued by Winamp subsidiary Jamendo over AI training, as firm files new copyright suit just a week after suing Nvidia",
+      "summary": "Music platform Jamendo, a subsidiary of Winamp, has filed a copyright infringement lawsuit against AI music generator Suno alleging unauthorised use of its catalogue for AI training. The suit comes just one week after Jamendo filed a separate action against Nvidia, signalling an aggressive litigation strategy by the company. The cases add to a growing wave of music industry copyright claims against AI firms.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYWR5eXZ2dXJqRl8tTWl2SUF0NjZQd0dLb3dTeVNxaVktNWJ1RllTdG1ZNlpEOWFiQ3BtLUpNV1hEbjZja2EtLUZ2akNoRDVFcTZRVTBxMzN5cDdzTTYyZk1wdUdYVzZQWlAxcFJ0eVFUaUNzSU90Mk1IR3pyYUUtTXVyNkNQcFV3NEV3ZTR5MXhkRDNlSC1MdXhWcTFhUHVmM0U3YnlxdEJFWl9rSUQ1SUVHTGJxMmZVbjQ4b2U3TWMxVFN5TDN0alpLeUtqTVBlMGxMdXo1ZmJiZw",
+      "topics": ["AI copyright", "litigation", "music industry"]
+    },
+    {
+      "title": "Google says AI training is definitely fair use, while UK copyright law \"puts a ceiling on the sophistication\" of the British AI sector",
+      "summary": "Google has publicly asserted that AI training on copyrighted material constitutes fair use, while also arguing that current UK copyright law constrains the competitiveness of Britain's AI industry. The statement reflects the position of major AI developers as governments consider legislative reform. The UK government is weighing changes to its copyright framework amid pressure from both the creative sector and the tech industry.",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOVkc5ZDVUSlBmalM2N0pJbzV2RXNHN1Z6a3lMOFVBVlAyRUhqSXFCY091SjFEN3l2UUh3dUZGWVVpV3k3Sk1qMFBxNExwZWV4YWlKQ3pvRExDSGdib0tKUGExQWJCNUVKSU9pb0YtN3k1eGNZRzdvX1R2clBKRWhXUWFDZlpOa1pxV2xlU3pSbGZHTUhLaklpcXhIcTZ3cldlYWRVM3VLaWd5bWJBbWVsNGEwWlFQaXhXVjR4VGpsMlV5TWdQVnlZeDVEZmROSE9NR3FHU1BJbDRyT3habU16UXU3Sk5qcFpvZ25kUXRaZWEtVHRmdHUw",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Publishers sue South Korea over AI textbook shift, test trust-protection limits - CHOSUNBIZ",
+      "summary": "Publishers have filed a lawsuit against South Korea in response to the government's move to shift to AI-generated textbooks, arguing the policy threatens their intellectual property and contractual protections. The case tests the limits of trust-protection principles in the context of state-mandated digital education reform. It marks a significant publisher challenge to government AI adoption in the education sector.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbVlsU21EbzFlaEtaaFF3eVZyVDRuWmM5R2xmNnZ2SUtXcDBnd3UwMnlSVFkwNE1kRnRZUGU0ZUVDYWNuRzZlaXdHUTZYa1cwRldlVlc4NnN1bEMzTzJXTVczOHA2UFMtZXVVQ3lvR2hOMU5TWmVDQW56THFRbDVxRdIBlAFBVV95cUxPenFkWWswNDFndk5EY25yVW9FNUFkbm5qdHhIbDdKLWV1cThYUW96LVlIaWJfTzhjWlRBaUJTdnhMUkdJVjJlWVBldVpBekprN1psYkJSV1haUU9ocjNSMDNTX052RXhRSmFGRTNhN0xEQ0Y0dWU0V3NBNTBMdkcyS1d6VnBYSkFFVGpjakRRcTJSUGpG",
+      "topics": ["AI copyright", "publishing", "litigation"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "US judge rejects Sony's request to expand AI copyright case against Udio",
+      "summary": "A US judge has denied Sony's motion to broaden the scope of its copyright infringement case against AI music platform Udio, limiting the legal claims that can proceed.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUmFUTG9hUzZjMWc0TlF0aFBDbDhad3RKc1BSU2pBSU9hOHlhOTJ5cHFhZ2NUcGtvN2l5YWJsMjNFOHEyV25wWjhpZk5WejU3VWdaaGJPTkgySXl5S3BaemFRSi1WVjhabUgzcGFPSUhiM1UwRGh4Y3l3WEhSYlNzQ2g5VWIxbm9BM0xfaVJYSjk2U21UeTRNS1QzQVY1MW9wUXFSVmdIdmxQTGN4SHB0RHBvQndZTjE0R2VYVi1BT1laOHoxNEhDbzY3U2p5TEszUlZOeXBR0gFaQVVfeXFMTW44b0N0NVBBSmdYOXRvWkNUTG5tSF9nd0NhbF8wdmoxWjF5b2Y2ZVF1dzBNU0Q3V0VGNkdqNkZJYlBKMXpkSjAyRXJyTlNyYTFfUXFUZXRwT0VR",
+      "topics": ["AI copyright", "litigation", "music industry"]
+    },
+    {
+      "title": "Artists' united front in battle against feared AI sellout",
+      "summary": "Creative artists are presenting a unified opposition to proposed policy changes that they fear would weaken copyright protections in favour of AI developers.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV29BNzFBSlBGRmZoNFhnR0R2aG1fYVFnZUUtYlU2NmFtRkF3VmNhaF9fMEp3YXRmbzNEeEF5bThWcGdYOHJOdG9sNzRLSjcxVS1LZVVEMlg0c3o0cUd4Q0sxYzdQNEhRUlZxMExsMHRmQjFOcUY0TFl1YWFUS2p6c1BIa1RmSHUtbGRLU2x3U0xPaUF1LVM0NnVQZElxb0tpOTFrRGtXUGtGdThYWXc",
+      "topics": ["AI copyright", "policy", "creative industries"]
+    },
+    {
+      "title": "Creatives demand Labor holds the line on its copyright pledge",
+      "summary": "Australian creative industry groups are pressing the Labor government to honour its commitment to strengthen copyright protections against AI training on their work.",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOSjk1YnFhc094dlJVV3l2ZlRPRUoyRmpHbVIwbjVwMU1zQ1h5QXliVXNFV3NjSFRyQVZHVGFCZURiOUV3YVF0VVF6Zi1qdWVEY2N6WHhzOE1WZHVUeDYxMnpSWDBpMkhVckJhRVB0aElkQ1BHY0xYSmZ5cUY2Q1lGb1VPSGkwbzBSZU00eW5wejNpWF9jeFdhTUtGUDhLMUxJMFNMTWNIUktWWGRzWllTeDM5Mkl0QVhYOV94UXplSnRuZ0QxSmRaYkI4UHFqdE44dzJhY08zZWlUWjI1WnhRZTRlcVpuUHR1bWNkNU45SXNsTENwYngxT20xemZTdzJwcXRFdW5hRXBsbERl0gGSAkFVX3lxTE1iV0dLUFFXNDlFYU1nbW0yY0lZX3BzTUNZejFpMmVFVmhGWUpmS01mNE1oY2JvbDVDOG9JbTZHckxmdkN0NmlpOFVJZGFYVnZnT09EZTY3SGEtNkN4SkJCRWd1Ym80c05tVFRFVTRtWjAyZTZLdEFoYWpFeW9LQ21FbFM1bE5YeWVLbUp2WEh5WGsxbHg0UG4ydElkZDZDQVpKREctQlh6NmZFQnZFLUVWQlFMV1l1UGttZUpPZ29TWEExTDRhWE9ZbDZlNTlwaTBEYzdxWUszRTE4bHU2UHVGb3RjZFRwWmNWZjl5WHlieDRQamxqWjVkejhSYVpaZGlqQkhlR0dfTTg1RzgwODJnd0E",
+      "topics": ["AI copyright", "policy", "music industry"]
+    },
+    {
+      "title": "8 Demands for a sustainable future of Authors' Right in the era of so-called AI: EWC response on the CALL FOR EVIDENCE",
+      "summary": "The European Writers' Council has published eight formal demands for protecting authors' rights in the AI era, submitted as part of an official call for evidence.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oMi1VOGMwMHQteDZlcVhtN3BkaWk5Q3p2UFJqbVpuVkhFV3FwM0RCMG9ET3V0TjJfVWlXbGk3QVBkX0FiR0VyOEZSUmo1d0NhMEpCTzIyYm5pM1BLTTd0VWFTczN5T3YycG1obkhDMHFGTFp4bFpaekhKZ3A",
+      "topics": ["AI copyright", "policy", "EU law"]
+    },
+    {
+      "title": "Google demands changes to AI copyright laws",
+      "summary": "Google has publicly called for reforms to copyright law to explicitly permit AI training on copyrighted content, framing the issue as critical to AI development.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR0pUOHRrRmZHS0xGamdEeC1DUWxNMGFwdV9qQkNwMDhsTmVwbWhURWtlM3lOV1Q1Mmh3WTVWX0lXQTVBcjhoeGVkS0hzYm9Sd2JBTE5NSUxQblFJb0FlekJrMUV6Wmx4bTJSQ0NUS0kwMW1iRmxkZEN3UjFQUkFpY0JJM1NseHVhV3B4WUNfc1hMams4MkdFSHktRQ",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Plagiarism and Defamation—Two More Bad Things LLMs Are Good At",
+      "summary": "An analysis examines how large language models are capable of generating plagiarised and defamatory content, raising further intellectual property and legal liability concerns for AI developers and deployers.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdlFvb0M4cDdvR3ozUm83Q3RLTmJEem11ZW15UDdaQUFfanRZTEtQdVZ1aXlzMVQ1d25Wb3JiaVRhN0hoTlJiOXZ3Y09hYlByV0VIR091Vm1kbEVwRzdDcnRhZE51RW14UXNWYklFMVFtMWVDOFJDbWZ2OFlmb2trUjRaQ1FpLUpTZWJlVDBJVXFDVmlCOWhmcXVB",
+      "topics": ["AI copyright", "software", "litigation"]
+    },
+    {
+      "title": "Australian musicians hate AI using their songs, but have little legal protection",
+      "summary": "Australian musicians are expressing strong opposition to AI systems training on their music but face significant gaps in existing copyright law that leave them with limited legal recourse.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTlB0dzNxbzdqMzU2X2ZadWYzd1BQaW5sVmt4eGFac2Y5UmkyMHA1YnlyVmt6bHNBY3IxQnFscDNKM3NQOG1WRjZDZTQtdWdIUkE4ZFZhTGN4OWRTNFBBQjBCZWhDT1h3WG9zaWJ1MnowUWstbWd0RXdyc2p3cmpxZ2Q1TXNmamJlZlp0WE1SN05MYzhnT2kxazJmamJyZVN3ZEtkQjNWMmVKVFE4MFBiaUUtcEc",
+      "topics": ["AI copyright", "music industry", "policy"]
+    },
+    {
+      "title": "AI Watch: Global regulatory tracker - United States",
+      "summary": "A regulatory tracker update covering the latest US federal and state-level developments in AI law and policy, including copyright and intellectual property considerations.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbnFCYmQ4ZElvUk9tUFQ0Z210S2hrNmtMaGhid3IxZmozUnVDUm8tZ0FrY05nNlR5bXZLOUk5WWJkcHVjMzhvazJ6M3I2bGtCUlZFWlBBT2l1MGdGbExWY09kWXZZNlQxTW16VjJzSC1McDZ2N21oTjdqclZnVHZTN1VpbmRacC10NjZNYVNIWnBOUGRpblNsRURZbw",
+      "topics": ["policy", "AI copyright", "licensing"]
+    }
+  ]
+}
