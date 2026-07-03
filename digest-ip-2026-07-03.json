@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Midjourney Seeks to Reveal Studios' Use of AI in High-Stakes Copyright Battle",
+      "summary": "Midjourney is seeking to uncover whether Hollywood studios are themselves using AI in an ongoing copyright dispute, a move that could expose tensions between major entertainment companies that are simultaneously suing AI firms and deploying AI tools. The case represents a significant moment in AI copyright litigation, raising questions about the consistency of studios' legal positions. The outcome could have broad implications for how AI use by rights holders affects copyright claims.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcmxrVlh0ZG14MUFxTDJqRllWa3RjeU90UmVBN3Z6dnJ6cmg5Mk5FYm5aT0ZhZU41RzRMZm1XaUR1RDlBclVqSnkybEhmbzMtMlNvWjN1WUN3SmNoTUR6RnF4enJuYTlTRkYxdnhlRXpQSl9BVlpTR2dETGtNUmpjLWFjUkc5WVlRQ1dkZzVpVHZBdw",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "Courts Split on Whether AI Training Is Fair Use",
+      "summary": "US courts are issuing divergent rulings on whether using copyrighted material to train AI models constitutes fair use, creating significant legal uncertainty for the industry. The split decisions reflect differing judicial interpretations of existing copyright doctrine as applied to AI training datasets. The issue is expected to require higher court or legislative resolution.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZmxOX1pUdkxYSW1kVjZWY3ZPbTZTWEFVdFhPQmVsa3NNeVZhR0VRWHBEcnl6SWhTMk5CRXVXbGxUREEtcmJXWERneElXQzNaSGl2NzVha08wRTd4RnlrQ2MxbWQ3eHo0bmVkeU1hRzlLQ0VxWDNkVTdNbDByZWZzRG12eFNXdDZQbUE3UDB0cElNc1U4Tjc0OEJJZHBRRS1aekUwWmRqRF8",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Newspapers take on AI giants in court, warn of 'death knell for local journalism'",
+      "summary": "Newspaper publishers are pursuing legal action against major AI companies, arguing that the use of their journalism to train AI models without compensation threatens the viability of local news. Publishers warn that unchecked AI scraping represents an existential threat to journalism as a profession and business. The case adds to a growing body of media-sector copyright litigation against AI developers.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFBtY1ZGVjlPY19oZmdEbjZpdnBabmN0d3JPb1c4c3dtQ3FuV2tuZXZTUGlXcV82MFJkOFRwYkVjMTI0TFRMZlc2NnpCYTVEbk1xZVYwSlRJUHV6VVhMX25mcGlKaHZJSnJwSmUySFhkZFF4R3drY2MyVTdSLXZleHVVUHE2Y2c0U3J4bFhmNTFGRkNUaFVmSjA4UTQ4OXlWRkZPZmM1Y1MzeDdWSFVpSGpEVnM3QQ",
+      "topics": ["AI copyright", "litigation", "publishing"]
+    },
+    {
+      "title": "Microsoft Shareholder Sues Top Brass for AI Copyright Claims",
+      "summary": "A Microsoft shareholder has filed suit against the company's senior leadership over its handling of AI copyright liability, alleging executives failed to adequately manage the legal and financial risks arising from AI systems trained on copyrighted content. The case marks an escalation of AI copyright concerns into corporate governance and shareholder accountability territory. It reflects growing investor attention to AI-related intellectual property exposure.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV29BNzFBSlBGRmZoNFhnR0R2aG1fYVFnZUUtYlU2NmFtRkF3VmNhaF9fMEp3YXRmbzNEeEF5bThWcGdYOHJOdG9sNzRLSjcxVS1LZVVEMlg0c3o0cUd4Q0sxYzdQNEhRUlZxMExsMHRmQjFOcUY0TFl1YWFUS2p6c1BIa1RmSHUtbGRLU2x3U0xPaUF1LVM0NnVQZElxb0tpOTFrRGtXUGtGdThYWXc",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "Publishers sue South Korea over AI textbook shift, test trust-protection limits",
+      "summary": "Publishers have launched legal action against the South Korean government over its move to replace traditional textbooks with AI-generated materials, arguing the policy undermines contractual protections and publisher rights. The case tests the limits of trust-protection and intellectual property law in the context of state-driven AI adoption in education. It represents a rare instance of publishers suing a government directly over AI-related content displacement.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbVlsU21EbzFlaEtaaFF3eVZyVDRuWmM5R2xmNnZ2SUtXcDBnd3UwMnlSVFkwNE1kRnRZUGU0ZUVDYWNuRzZlaXdHUTZYa1cwRldlVlc4NnN1bEMzTzJXTVczOHA2UFMtZXVVQ3lvR2hOMU5TWmVDQW56THFRbDVxRQ",
+      "topics": ["AI copyright", "publishing", "litigation"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Apple Says YouTube AI Scraping Suit Fails Under DMCA",
+      "summary": "Apple has argued in court that a lawsuit targeting YouTube AI scraping should be dismissed on DMCA grounds, in a case with potential implications for how digital copyright law applies to AI data collection.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ3FzbmpBLVBCQVhiUlJkNHFJMEJpRllmNXo4U0xFS2lrSURlTy1WSHlmWVR6Nk1OakVzLWY5TEpaTndoWkwzTWRwbHpJT21TSU1CVFZFMXo1dDFvTE9xR0pFZkxTXzkxTmlPUGJncHpXYUxWNFlqN183X0pvTWx4aUNMQmtOcmNtWW51cmlHZFhhM2hQR2ww",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Client Alert: AI Copyright Showdown: Can Hollywood Challenge AI While Using It?",
+      "summary": "A legal analysis examines the contradiction facing Hollywood studios that are simultaneously pursuing AI copyright claims and deploying AI tools in their own productions, questioning the consistency of their legal standing.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcGtLcEhfQU9SRFh5eWJZeDZGSXZXUDEzdk5MZjhpQXMwZFRheExVT3ZqQWh4Zm53TGF6QXBBWE42WVlxSGdSZWRYSjQwaWRveTNqWUUyeTZ1UF9idVRLZkI5T2JnRVdSekZ5bVZuLXc4al92Y2tKcDZ0UkcxN1hqUy1hX1Y4SGs1",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "8 Demands for a sustainable future of Authors' Right in the era of so-called AI: EWC response on the CALL FOR EVIDENCE",
+      "summary": "The European Writers' Council has published eight demands for protecting authors' rights in the AI era, submitted as a formal response to an official call for evidence on AI and copyright policy.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oMi1VOGMwMHQteDZlcVhtN3BkaWk5Q3p2UFJqbVpuVkhFV3FwM0RCMG9ET3V0TjJfVWlXbGk3QVBkX0FiR0VyOEZSUmo1d0NhMEpCTzIyYm5pM1BLTTd0VWFTczN5T3YycG1obkhDMHFGTFp4bFpaekhKZ3A",
+      "topics": ["AI copyright", "policy", "publishing"]
+    },
+    {
+      "title": "Creatives demand Labor holds the line on its copyright pledge",
+      "summary": "Australian creative professionals are pressing the Labor government to honour commitments on copyright protection in the face of a proposed major AI data centre deal that critics say would expose local content to unconsented AI training.",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOSjk1YnFhc094dlJVV3l2ZlRPRUoyRmpHbVIwbjVwMU1zQ1h5QXliVXNFV3NjSFRyQVZHVGFCZURiOUV3YVF0VVF6Zi1qdWVEY2N6WHhzOE1WZHVUeDYxMnpSWDBpMkhVckJhRVB0aElkQ1BHY0xYSmZ5cUY2Q1lGb1VPSGkwbzBSZU00eW5wejNpWF9jeFdhTUtGUDhLMUxJMFNMTWNIUktWWGRzWllTeDM5Mkl0QVhYOV94UXplSnRuZ0QxSmRaYkI4UHFqdE44dzJhY08zZWlUWjI1WnhRZTRlcVpuUHR1bWNkNU45SXNsTENwYngxT20xemZTdzJwcXRFdW5hRXBsbERl",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Plagiarism and Defamation—Two More Bad Things LLMs Are Good At",
+      "summary": "An analysis highlights how large language models present compounding legal risks beyond copyright infringement, including generating plagiarised and potentially defamatory content at scale.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdlFvb0M4cDdvR3ozUm83Q3RLTmJEem11ZW15UDdaQUFfanRZTEtQdVZ1aXlzMVQ1d25Wb3JiaVRhN0hoTlJiOXZ3Y09hYlByV0VIR091Vm1kbEVwRzdDcnRhZE51RW14UXNWYklFMVFtMWVDOFJDbWZ2OFlmb2trUjRaQ1FpLUpTZWJlVDBJVXFDVmlCOWhmcXVB",
+      "topics": ["AI copyright", "software", "litigation"]
+    },
+    {
+      "title": "Write us a cheque: Australian authors, musicians want AI forced to pay for using their work",
+      "summary": "Australian authors and musicians are calling for legislation requiring AI companies to pay licensing fees when using creative works for AI training, amid a broader national debate over a proposed AI infrastructure deal.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNb2dBcmRSVHNBZXFvWFdUbjByd1RCU00wUkhVZjNRYVhCMmtfVVM0VVNna1hhYkdzTVRMZVhwNExyWXI0U1FrMndEbkx4WHJFSndrQlQtR0d1THhCZVBzMkZRSU53QkRRZndpaXhRdnluZ3VYaHFVQnBGaEpIQlZjV1hnS21RNHV1aElZdmdwRDIteVAxTlgwMGJuMmJyRmJ1TkdPZVJ1ZmM1ekhwZzJoa0RDbE5OSWFNWmRVdnRYVmtXZ3dMTHZuR1VRWFo0VGxJX3NhS29aLXlMLUVMUWFNZzY0ZWk",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "How creative workers' own work trained AI that replaces them",
+      "summary": "An investigation examines how the creative output of writers, artists and other workers has been used without consent to train AI systems that now compete directly with them for work.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15WEJZaUV0bXZLU0dlYjlEb3ZDWXdHV1ItS0N1U1B2LU9lTGM4UzItTElSMVkxWTVTTk9fUmIwX0lWTmZNUDNzVmRlc2ZObG9PUlNWTXdMU3RVS2paSmE1ZFo2aGJBVFUtUzl4VF9uNmNxZnlDbXg1Ug",
+      "topics": ["AI copyright", "publishing", "policy"]
+    },
+    {
+      "title": "U.K. Book Trade Seeks EU Tariff Exemption for Books [Metered]",
+      "summary": "UK publishing industry bodies are lobbying for an exemption from EU tariffs on books, in a post-Brexit trade development with potential implications for cross-border publishing economics.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100762-u-k-book-trade-seeks-eu-tariff-exemption-for-books.html",
+      "topics": ["publishing", "policy"]
+    },
+    {
+      "title": "Pocket Books Relaunched as Home for Self-Published Authors [Metered]",
+      "summary": "Simon & Schuster has relaunched the Pocket Books imprint as a dedicated platform for self-published authors, marking a structural shift in how a major publisher is engaging with independent creators.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100756-pocket-books-relaunched-as-home-for-self-published-authors.html",
+      "topics": ["publishing", "licensing"]
+    },
+    {
+      "title": "Everyday philosophy: Will AI kill off the writer?",
+      "summary": "A philosophical commentary examines whether the rise of AI-generated text poses a genuine existential threat to professional writing as a craft and livelihood.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42SURaSE51R2U1eWNKWkdGWUdaUkNndUs5UHNJQ2RmQ1h5WEZvN1FnaHFIVEkySUZycEI3dURLc0xsWGlLVlhFNkNjSGNtMVJvOWdUVUdlbUtzUFVmZGtSanVreDhrUmdaTHhfang5dXJjSzZZOFVYUUVoTkxnZmc",
+      "topics": ["AI copyright", "publishing"]
+    }
+  ]
+}
