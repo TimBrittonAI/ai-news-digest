@@ -1,0 +1,85 @@
+{
+  "top_stories": [
+    {
+      "title": "Anthropic wants to develop its own drugs",
+      "summary": "Anthropic is moving beyond AI tooling into direct drug development, using its Claude models to pursue pharmaceutical research. The Verge reports this marks a significant expansion of Anthropic's ambitions beyond being an AI platform provider. The move signals growing confidence among frontier AI labs in applying generative AI to high-stakes scientific domains.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "topics": ["generative AI", "Anthropic", "AI industry"]
+    },
+    {
+      "title": "Why Academic Publishing Needs Purpose-Built AI, Not Just General LLMs",
+      "summary": "A new analysis argues that general-purpose large language models are insufficient for the specific demands of academic publishing, calling for dedicated AI tools tailored to research workflows. The piece highlights risks around accuracy, citation integrity, and research standards when off-the-shelf AI is applied to scholarly contexts. It adds to a growing debate about the appropriate deployment of AI in knowledge-production industries.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRDBuRWg5WGg1U25nVjdrczZhTXFqb3M5TVEwNTYwU01UcUpwMUlNTGpqZGl6OVVQVzlBSDk0V25aR1hnWHNhRno1OXpfZFFmNlgxTkRENzVKcWtkdkYtUjZIeE1BTkhUTmRLb1ZnNE9tcndXeWtYWDdiZnJHTExIenlOTXo5bFU0ZW5VWEdFUUE0b1pOek9TbUpCN1JFS1hyUnpzbVZldDBQUQ",
+      "topics": ["academic publishing", "large language models", "AI ethics"]
+    },
+    {
+      "title": "AI didn't kill academic publishing. It exposed the body",
+      "summary": "This piece argues that AI has not caused the crisis in academic publishing but has instead laid bare pre-existing structural failures around peer review, incentives, and research integrity. The author contends that the real challenge is not AI-generated content itself but the systems that were already broken before it arrived. The article is a pointed commentary on the state of scholarly communication in the generative AI era.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNE1lYTVuSkppUUt6cnZfbGJSSkhUMFE0ancyc0pabzZaOVNnUEszVmVzVmFfMnU3T3NhUDFzWmFzV1FSazl2alRYZVg1OU1PZzBYY3F0ZnZqdDgtVWtEMm1GZHlIZzZ1OE5YZDJnSXhhNkZsSEpIbU1zbWlYWkNCZC1rUm0",
+      "topics": ["academic publishing", "generative AI", "research integrity"]
+    },
+    {
+      "title": "Zuckerberg says AI agent development going slower than expected",
+      "summary": "Meta CEO Mark Zuckerberg acknowledged that the development of AI agents is progressing more slowly than anticipated, according to Reuters. The admission is notable given Meta's heavy public investment and rhetoric around agentic AI. It reflects broader industry challenges in moving from LLM capabilities to reliable autonomous AI systems.",
+      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
+      "topics": ["AI industry", "generative AI", "large language models"]
+    },
+    {
+      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+      "summary": "Google DeepMind has announced a research partnership with film studio A24, described as the first of its kind between a frontier AI lab and a major creative studio. The collaboration is intended to explore how AI research can intersect with filmmaking and storytelling. Details on specific projects remain limited but the announcement signals growing AI-entertainment convergence.",
+      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "topics": ["generative AI", "AI industry", "AI ethics"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start [Metered]",
+      "summary": "Wired reports that early unionization efforts at Google DeepMind are encountering significant friction, highlighting tensions around labour organising within a top AI research lab.",
+      "url": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
+      "topics": ["AI industry", "technology ethics", "leadership"]
+    },
+    {
+      "title": "AI saves about 3% of your hours, and almost none of it reaches the money",
+      "summary": "A new study finds that while AI tools do reduce time spent on tasks, the productivity gains amount to roughly 3% of working hours and rarely translate into measurable financial returns for organisations.",
+      "url": "https://okaneland.com/study/ai-productivity-roi-at-work/",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "Please stop the AI confidence theater",
+      "summary": "Elena Verna argues that businesses are performing confidence in AI adoption without achieving real outcomes, calling out a gap between AI announcements and actual organisational change.",
+      "url": "https://www.elenaverna.com/p/please-stop-the-ai-confidence-theater",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "A behind-the-scenes look at Midjourney's medical scanner leaves many questions unanswered",
+      "summary": "The Verge examines a promotional video from Midjourney about its medical ultrasound scanner project, finding that the footage raises more questions than it answers about the product's actual capabilities and development stage.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "topics": ["AI industry", "technology ethics", "generative AI"]
+    },
+    {
+      "title": "AI Data Centers Use More Water Than Most Tech Giants Report [Paywalled]",
+      "summary": "The Wall Street Journal reports that water consumption at AI data centres significantly exceeds what most major technology companies disclose publicly, raising concerns about environmental transparency.",
+      "url": "https://www.wsj.com/tech/ai/ai-data-centers-water-use-901e2902",
+      "topics": ["AI infrastructure", "AI compute", "AI governance"]
+    },
+    {
+      "title": "Instead of banning AI, I made a classroom contract with my students",
+      "summary": "A Science.org contributor describes developing a classroom AI use policy collaboratively with students rather than imposing a blanket ban, offering a practical model for AI governance in education.",
+      "url": "https://www.science.org/content/article/instead-banning-ai-i-made-classroom-contract-my-students",
+      "topics": ["AI ethics", "AI governance", "generative AI"]
+    },
+    {
+      "title": "LinqAlpha raises US$22 million to expand AI agents for public-market research",
+      "summary": "LinqAlpha has secured $22 million in funding to scale its AI agent platform designed for public equity market research and analysis.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX3prc0dXSDQyZUlGNFFQRk9raFBDcmxpV3NMX0xCSXVTQW1aZExyRGFSb2pmMG55dVdPU0gwNkRjNWpQY1htYkFWNmZySTdBUTR4eHNkY1g3eWpnNl84eEcwa0RsaWVzZVVKdU9TRU5aR1JreEtULUhuTXlxUmtLbFVfblI1cHdfS1RhRVFkaWx4cEx0UzB5UTZKQVNaa29qM2c",
+      "topics": ["AI industry", "market research", "business"]
+    },
+    {
+      "title": "These celebrities are protecting their likenesses from AI — one trademark at a time",
+      "summary": "Celebrities are increasingly turning to trademark law as a strategy to protect their voices, images, and likenesses from unauthorised AI-generated reproductions.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWEcwcEJqdDhKbGtFWHF0TFIwZ0w3aG9tMkxwVXRBWUhsYnVSNUU2aWhIdklFbWNCWkV1djEzUHpJZjRpTWh2elEtRW9EYXdGQlBoN2RJR0ZRZEgtMFlVSzRPblM3UGh6Mi1MZjlQeWVDc0dBaWZBVDdtSjRLcnF0WEZ5NkhTZ3ZGVzIyOURIb2Yxd1U1ZWRGRHpTM1lhQW9mZW9CQVhQWDdpbkE",
+      "topics": ["AI ethics", "copyright", "legal"]
+    }
+  ],
+  "ethan_mollick": null
+}
