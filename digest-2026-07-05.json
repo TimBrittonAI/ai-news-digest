@@ -1,0 +1,85 @@
+{
+  "top_stories": [
+    {
+      "title": "Why Academic Publishing Needs Purpose-Built AI, Not Just General LLMs",
+      "summary": "A new analysis argues that general-purpose large language models are insufficient for the specific demands of academic publishing, calling for dedicated AI tools tailored to research workflows. The piece highlights the gap between off-the-shelf AI capabilities and the precision, citation integrity, and domain knowledge required by scholarly publishing. This follows growing debate about AI's disruptive role in academic publishing infrastructure.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMU44YlBZX1BiSEVtNWlYWnBYY1ZEOG1TaEtDa3ZZd0R6NWN6R0h3c3UtX04xY1hMSlJGX3o0TW5qLVgyWUMxVmlXejEzb2w2aWc1c0dPbWY4ZWNGM0dqbExDc0dydWFhbVNSdW5ZTHVhTXZpLTNIbDM4eUNzbWhHcG5GeVZIcGpac25LeDQ1VEdOaktRX1cwX3hrOGdiaXNQeEFwWW530gGmAUFVX3lxTFAxTjhiUFlfUGJIRW01aVhacFhjVkQ4bVNoS0Nrdll3RHo1Y3pHSHdzdS1fTjFjWExKUkZfejRNbmotWDJZQzFWaVd6MTNvbDZpZzVzR09tZjhlY0YzR2psTENzR3J1YWFtU1J1bllMdWFNdmktM0hsMzh5Q3NtaEdwbkZ5Vkhwalpzbkt4NDVUR05qS1FfVzBfeGs4Z2Jpc1B4QXBZbnc",
+      "topics": ["academic publishing", "large language models", "generative AI"]
+    },
+    {
+      "title": "AI didn't kill academic publishing. It exposed the body",
+      "summary": "This analysis argues that AI has not caused the crisis in academic publishing but has instead revealed pre-existing structural weaknesses in the industry. The piece contends that issues around peer review quality, predatory journals, and research integrity were already present before AI arrived. AI tools have simply made these problems more visible and harder to ignore.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNE1lYTVuSkppUUt6cnZfbGJSSkhUMFE0ancyc0pabzZaOVNnUEszVmVzVmFfMnU3T3NhUDFzWmFzV1FSazl2alRYZVg1OU1PZzBYY3F0ZnZqdDgtVWtEMm1GZHlIZzZ1OE5YZDJnSXhhNkZsSEpIbU1zbWlYWkNCZC1rUm0",
+      "topics": ["academic publishing", "AI ethics", "research integrity"]
+    },
+    {
+      "title": "Researchers need dedicated tools, not \"off the shelf\" AI - LSE",
+      "summary": "The London School of Economics argues that academic researchers require purpose-built AI tools rather than generic consumer-facing products. The piece highlights how general AI tools fail to meet the methodological rigour, reproducibility, and transparency standards expected in research contexts. It calls on institutions and developers to invest in research-specific AI infrastructure.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWp6a1RIX1F3OWNfaXFGTUpGeVZkOFZNLXI0a2gtcTFtaFJ2MGtJZHdZUXRuckZ3c1FJdW9zcnBQSjE4V2hHZ0NGV2EyckhFc05GaFpsczBTdDlOOUhva1BZYWNtQkg0U284cDZlSFFSTDRjLUVUQTZibUs1SWQydG9kX1lSOURrUjBCVHRNZlNVT2hZd3JVS24zRE93LXhfY3FaSGJBaE5zQUVsR01JOXpR",
+      "topics": ["academic publishing", "AI tools", "research integrity"]
+    },
+    {
+      "title": "The fanfiction community is at war with AI",
+      "summary": "The Verge reports on growing conflict within the fanfiction community, particularly on Archive of Our Own (AO3), over AI-generated content being submitted and the use of AI detection tools like Claude to identify it. Fans and moderators are divided over how to handle AI-written works, with debates around authenticity, community standards, and the reliability of detection methods. The dispute reflects broader tensions in creative communities about AI's role in human-led creative spaces.",
+      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "topics": ["generative AI", "AI ethics", "content policy"]
+    },
+    {
+      "title": "AI has torched the market for junior programmers",
+      "summary": "A detailed analysis on seldo.com argues that AI coding tools have significantly reduced demand for entry-level software engineering roles, with companies hiring fewer junior developers as AI handles tasks previously assigned to them. The piece draws on job market data and industry trends to show a structural shift, not a temporary dip. It raises concerns about how new developers will gain the experience needed to advance their careers.",
+      "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
+      "topics": ["AI coding tools", "AI industry", "layoffs"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "These celebrities are protecting their likenesses from AI — one trademark at a time",
+      "summary": "Celebrities are increasingly filing trademarks on their names, voices, and likenesses as a legal strategy to protect themselves from unauthorised AI-generated content.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWEcwcEJqdDhKbGtFWHF0TFIwZ0w3aG9tMkxwVXRBWUhsYnVSNUU2aWhIdklFbWNCWkV1djEzUHpJZjRpTWh2elEtRW9EYXdGQlBoN2RJR0ZRZEgtMFlVSzRPblM3UGh6Mi1MZjlQeWVDc0dBaWZBVDdtSjRLcnF0WEZ5NkhTZ3ZGVzIyOURIb2Yxd1U1ZWRGRHpTM1lhQW9mZW9CQVhQWDdpbkE",
+      "topics": ["AI ethics", "legal", "generative AI"]
+    },
+    {
+      "title": "LinqAlpha raises US$22 million to expand AI agents for public-market research",
+      "summary": "LinqAlpha has secured $22 million in new funding to scale its AI agent platform focused on public equity market research and analysis.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX3prc0dXSDQyZUlGNFFQRk9raFBDcmxpV3NMX0xCSXVTQW1aZExyRGFSb2pmMG55dVdPU0gwNkRjNWpQY1htYkFWNmZySTdBUTR4eHNkY1g3eWpnNl84eEcwa0RsaWVzZVVKdU9TRU5aR1JreEtULUhuTXlxUmtLbFVfblI1cHdfS1RhRVFkaWx4cEx0UzB5UTZKQVNaa29qM2c",
+      "topics": ["AI industry", "market research", "business"]
+    },
+    {
+      "title": "AI turns data center power into an enterprise challenge",
+      "summary": "Growing AI workloads are placing unprecedented demands on data center power infrastructure, creating a significant operational and strategic challenge for enterprises.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRDBuRWg5WGg1U25nVjdrczZhTXFqb3M5TVEwNTYwU01UcUpwMUlNTGpqZGl6OVVQVzlBSDk0V25aR1hnWHNhRno1OXpfZFFmNlgxTkRENzVKcWtkdkYtUjZIeE1BTkhUTmRLb1ZnNE9tcndXeWtYWDdiZnJHTExIenlOTXo5bFU0ZW5VWEdFUUE0b1pOek9TbUpCN1JFS1hyUnpzbVZldDBQUQ",
+      "topics": ["AI infrastructure", "AI compute", "business"]
+    },
+    {
+      "title": "Forbes 2026 AI 50 List | Top Artificial Intelligence Companies",
+      "summary": "Forbes has published its annual AI 50 list highlighting the most prominent and promising artificial intelligence companies of 2026.",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5uUGIzcFRTdFZwdkxZTnpHdUpfVmhCQ21iczlSQjJrMnlSa19sYzB4S2JuVC1wSWo1UFhRWnlpVWtrb0NIN1RmS2Nn",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "Protect your right to run local AI — Right to Intelligence",
+      "summary": "A new advocacy initiative is calling for the legal right of individuals and organisations to run AI models locally on their own hardware, free from mandatory cloud dependencies or government restriction.",
+      "url": "https://righttointelligence.org/",
+      "topics": ["AI regulation", "AI governance", "technology ethics"]
+    },
+    {
+      "title": "2026 Unslop AI-Written Fiction Contest Results",
+      "summary": "Hypersti­tion AI has published results from its Unslop contest, which challenged participants to produce AI-written fiction that avoids the flat, formulaic prose typical of large language models.",
+      "url": "https://www.hyperstitionai.com/unslop-results",
+      "topics": ["generative AI", "AI ethics", "large language models"]
+    },
+    {
+      "title": "Cashew Raises New Funding To Double Down On Human Insight In The Age Of AI",
+      "summary": "Consumer research startup Cashew has raised fresh funding to grow its platform that emphasises human-sourced qualitative insight as a complement or alternative to AI-generated market research.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KQW94N0hzMVVjQ0FOaEJRaW1MdmVBX1VnNC1UUzg3WHRjMFlXUjVWbXlrcWJqT0V3ZlNDSUNPSF91bWZRdzRIcG5qR29DSm9hM0dCWE5SSVRxYWt5YTFVaHE5NG9pc3dBMGc",
+      "topics": ["consumer research", "AI industry", "business"]
+    },
+    {
+      "title": "Newly discovered PamStealer isn't your typical macOS malware",
+      "summary": "Ars Technica reports on PamStealer, a newly identified macOS malware that uses sophisticated tradecraft to evade detection, raising fresh concerns about AI-assisted or AI-targeted cyberattacks on Apple systems.",
+      "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+      "topics": ["technology ethics", "AI safety", "bias"]
+    }
+  ],
+  "ethan_mollick": null
+}
