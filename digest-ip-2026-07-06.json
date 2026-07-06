@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Anthropic Faces a New $75 Million Lawsuit for Pirating Books to Train Claude AI",
+      "summary": "A group of approximately 100 authors has filed a $75 million lawsuit against Anthropic, alleging the company used their copyrighted books without permission to train its Claude AI system. The suit marks a significant escalation in litigation by authors against AI developers over training data practices.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcDlnbnhmeGJuendxZjh1WTdOWjRlQTJKTmpyWFZfbVFxV2xGZXY1ajM0LWVjRFVrWDUwVDFkVl90bzRvY3NGeGlmZEFEdm9CZHlVWXByUE1uRFJkVWp5Vmc5aEZGSUdod0FTdlVGX3FCQUU3VWhyVUk5c1hVbXV4N2tKYmg",
+      "topics": ["AI copyright", "litigation", "ai training data"]
+    },
+    {
+      "title": "Midjourney pushes to expose studios' own AI practices in copyright fight",
+      "summary": "Midjourney has filed a motion in federal court seeking to compel Disney, Universal, and Warner Bros. to disclose their own internal AI training and usage practices as part of the ongoing copyright lawsuit brought by artists against the image-generation platform. The move is seen as an attempt to highlight potential hypocrisy among the major studios, which are both plaintiffs in related AI copyright actions and users of AI tools themselves.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMmNha2hiZGtiTG9XLVM3T3dTUnJic2pkQzVEWGx6bldOTy1ManJxZHpDSHlQNnpMWHFuZHhUTnVSQ0lvNlg3WnEzRHFEamhEbmIxRzlWTjdaRHQ2TFZNQ2hZaXFweks1VzF2Q0tDT2JMaTFzZ3dueHN3QjgwQll2RDBJc2c",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "Nine-Microsoft deal puts heat on AI giants",
+      "summary": "A licensing deal between Australian media company Nine and Microsoft over AI use of news content is drawing attention as it increases pressure on AI companies to negotiate content agreements with publishers. The deal comes amid broader debates in Australia over a proposed $50 billion datacentre investment and its implications for copyright.",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNSXlHNmM4aUNoWEhBaU9Xb25Zc2wwdUg2NHJUWkNlcFZwVmFTaVI4dGQxd3oyc3ZSWVh2a0hDQ3BuS1N3QlNzZFRGdS1OcUdGUW1HejFWZzA0djZnaDdPa1o4aC1RQTVHbE41WFdQNUItM0JOVmF5MERuR1JBRl9KZ3FhcWNUYTYxVk15cmd2YW54em5mUDA2RDUwTG5YMEhtY3BrQWZqMVA4dGZQRWloWEk1dDdLaTV4TUVUdlFyNDMzUUNqbF9YX2xEb3VfTlVBWEoyNmVQZUlfSDVpT1VyNllDcDJ5SDNuSnV1UlNmSEhMSEJ1WHZXeFZuM01CREnSAYQCQVVfeXFMT1kzeGpCU1FMR2Q1SDRBRFMwUWtoUXZCcDh6QTZyRXRfX1U1T1g4dk1mbGxGR1l1MnA3NnVrZHNGZWZabTh4VUZTOG12SlBGYVJ2Yjh4S2NybXQ4a3MtaXVMVnRtaFNfLWxGakFPVUNkS3F4aEdNT0NFUE43VTNnMXJNbXdrMERFYlVQRElaQUQ1OGFtNU04aEM3QTczejZOMlhJVnYxd2txLXVCWGoxNGlIdUthR1QyaEpUZUFFY1Z6VjRpc3ZlWW5rV0pGdEkzVklwRGpqc1pJb0ZGSl8zekxLNXowcVNWV1hWZHlaMl9DZGdqc3Q3empEM2R4SDM4bERGUXU",
+      "topics": ["licensing", "AI copyright", "publishing"]
+    },
+    {
+      "title": "47 Million AI Crawls in Six Hours Took stupidDOPE Offline. Publishers Deserve Protection.",
+      "summary": "Independent publisher stupidDOPE reports being taken offline after its servers were overwhelmed by 47 million AI crawling requests within a six-hour period, highlighting the tangible harm that aggressive AI data scraping can cause to smaller publishers. The incident is being cited as evidence that publishers need stronger legal and technical protections against AI training crawlers.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeGVOd0ZzZHZBOVRVbVRreGVyajhnVTlaTV9DeE8zNVllN21DT1ZtVTVQbUZyWWI1dUo5bUxiRWtDQmNhWDZmZ3dCelZ6dk9iWmQ0TzJMem5KRlZEWmJhV2tCUW5YZTdEZUx5SlUzUlVOSVpRRmQ1bElaWHducVNHSjFaUXFJaXliVFdoeXdiMGdxeE14U2JLbUQzem04bW9SUTRnV000RURpTkY0WDBUMTBOLVU2WktFbkcw",
+      "topics": ["AI copyright", "publishing", "policy"]
+    },
+    {
+      "title": "Newspapers take on AI giants in court, warn of 'death knell for local journalism'",
+      "summary": "US local newspapers have filed lawsuits against major AI companies, warning that the unauthorised use of their content for AI training threatens the survival of local journalism. The suits add to a growing wave of news publisher litigation against AI developers over copyright and licensing issues.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFBtY1ZGVjlPY19oZmdEbjZpdnBabmN0d3JPb1c4c3dtQ3FuV2tuZXZTUGlXcV82MFJkOFRwYkVjMTI0TFRMZlc2NnpCYTVEbk1xZVYwSlRJUHV6VVhMX25mcGlKaHZJSnJwSmUySFhkZFF4R3drY2MyVTdSLXZleHVVUHE2Y2c0U3J4bFhmNTFGRkNUaFVmSjA4UTQ4OXlWRkZPZmM1Y1MzeDdWSFVpSGpEVnM3QdIBygFBVV95cUxPSEVPRHloT0ZSSkFCdkFhZFJDVklQYVpRdlZfTEplY3Z2V2pYTEFlR0RDemhHQ3Brb3l5OThkN043SlJLNl9hUFRxMzBtczVXSmZ1Z19LQncxeUItVTlYam5CXzF6VG1haENNcW0yZGhLX3pyTkN2UlZBNzJmeW8zNjlWeEsxeWV0RUJ5SjNQS0ZrSldkUDgxMzQyTVIxeVpXbUx6ZjU4a3JiTUw3czNJb19LNFBBZGlPX2pqajNjVHJrTzlPV3d3b3RR",
+      "topics": ["AI copyright", "litigation", "publishing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Meta Hit With Textbook Authors' IP Suit Over AI Training",
+      "summary": "Textbook authors have filed an intellectual property lawsuit against Meta, alleging the company used their copyrighted works without authorisation to train its AI systems.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbU9oZUNtcldURWEya1ZkSzhnQzgyd2xkZUJtaEFBc0EtaG1tZ1RhTkdsRUZDU3I2OHBpUE04c2FBOUVOaVgtNzV2T0ZHeVFKOWJFX21nc3QtbjY5akxGMGxUZXBpT09vQUdDeDVmR1NONXp4RDJORnhZQ0oteS1rUVlXcjJyRHdvQWRGTzRWNFBCUHRSXzB1N0lKNNIBVkFVX3lxTE5MRWJQS041US1OQm5GU1BGSVBqQjZUZ2gzYVliT3ZXa3NJbmZzQl9FSGdVVkQ0QnJSLXBZdlQ1bUloVHdfVnFkOHRlWGlnZkpLNktfVThR",
+      "topics": ["AI copyright", "litigation", "academic publishing"]
+    },
+    {
+      "title": "Apple Defends Scraping YouTube Videos For AI Training In Copyright Case",
+      "summary": "Apple has sought dismissal of a copyright lawsuit over its alleged scraping of YouTube videos for AI training, arguing the claims fail under the DMCA.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9USzNYLWNSdWY1UWxNdWlWakhCYXVCYVdCSXZVRVZHVndycnBqbjlTUDRwaUl2NG5valRkN2JMOGJXRFdfRFk3b3hxeVoxdmFuUXdzZHpaRzF2VHhrR05JQlI0Y185aTFNWi1tNUpNV2dPT3dkTjZOWQ",
+      "topics": ["AI copyright", "litigation", "software"]
+    },
+    {
+      "title": "Google White Paper Says Only AI Outputs Infringe Copyright",
+      "summary": "A Google white paper argues that copyright infringement in AI contexts should be assessed only at the output stage, not at the training data stage, a position with significant implications for pending litigation.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVjV2TkRKM1JFc1FDM2liRklOa2gxTDktVHBmTklRNkhEb0FPZjVfUzZCbTZtbE90NExBbkZIdjJhMnRkZXdDSXhPYlg4RlAxNU1OOEJrZkc5eTRtbVhaLTljVkszdHcwNmFBVmZpbjBRUlJUNHBQQW1qRkMyNHpHaGhFT19jSGZFQ2FnREJJZWhGQ2I3UDhmQ0JhQ20zYzUwSzNKVGdGUW1qYnZZSFJRWkhSajVyeS04ZUJDUFk4ZEdRek1PVGFPMmZTNU5PRnFHYTB6cElCdmtwdk0wdmcw",
+      "topics": ["AI copyright", "policy", "litigation"]
+    },
+    {
+      "title": "Who's suing AI and who's signing: Microsoft signs Australian Copilot deal, US local newspapers sue",
+      "summary": "A roundup contrasting publishers pursuing litigation against AI companies with those opting for licensing agreements, including Microsoft's Copilot deal in Australia.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA",
+      "topics": ["licensing", "AI copyright", "publishing"]
+    },
+    {
+      "title": "Creatives sound alarm on copyright as Pocock calls $50bn datacentre proposal 'ultimate dirty deal'",
+      "summary": "Australian creatives and politicians are raising copyright concerns over a proposed $50 billion datacentre investment, with Senator Pocock warning the deal could undermine protections for artists and authors.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORUg5TlRhR0haSFVBdGlqY3Q0enBDVjBUOG1SaWRUeDhYcU1iMlFnUXlJZU83b01zWG1LYzVia1d0eFlqY2kxOUtiNFk0eWI4QnlOSlhSN0l1bGJhczhOaWF6UWpRQmc1cmFrSnVNUTNvQVZqMmdHRFlZTTlIS2xnTXZFbFh3YWpEZzNzdXBCcTNuYzBzUGd0Tmx2dHVFYVNzcHd3RS14d2JwOVc0OFFEWW9ncUN4N0FEQm93OGE4Y2podFg5enM2NnI2T3ZNVGNkSVE",
+      "topics": ["AI copyright", "policy", "publishing"]
+    },
+    {
+      "title": "ByteDance Seedance 2.5 Launches This Week: 30-Second AI Video Carries Copyright Cloud",
+      "summary": "ByteDance's new AI video generation tool Seedance 2.5 has launched amid questions about the copyright status of its training data and the outputs it produces.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOF95dWhVVEpHZEZ6LW10UVVJUmYtUllxNUx2WjlpMG1WZ3o5X292NEZNeWlYMjY0YTZGdHRBVE1IalJBb1Y1WWlaaVJPRWc1M29Va2Fta19iTnhDWWdFNFl0bVZuUlhGV2hlb3hPTDB2SjAxTU9Tc0ZyU0RoYVlvN0NnVldRQUdJQVdoVkxBeWtZTDZhOG1yQzRFaUVvcEcyel9Db05XTFNHelh6X2RJaHNWR3JsZjM2eUFBVDNSZ2loU1pkcHVLMHFUNXFhTnlxRXB3cg",
+      "topics": ["AI copyright", "software", "licensing"]
+    },
+    {
+      "title": "Reframing copyright for the AI age: Delhi HC ruling, generative AI disputes & Parliament's role",
+      "summary": "An analysis of how courts and legislatures globally, including a recent Delhi High Court ruling, are being called upon to reframe copyright law in response to generative AI disputes.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcUUybzFWd1A1blB4VENTTVlHODlBVGhWVHU1Z3NKSk9PRkI0bVgzY0pIOUhPTTNkZUw0cV9uNDNZVXc0blFLaElJQVBQZ0JnS3l2ZWFzSDc1cWl1QmJzY09lQmRlVXlWYlN4WWI5WnJCUWhoemJHMldOQmJaZjQ4T0hnRkxEZw",
+      "topics": ["AI copyright", "policy", "eu law"]
+    },
+    {
+      "title": "How creative workers' own work trained AI that replaces them",
+      "summary": "An investigation into how creative professionals' published work has been used without consent to train AI systems that now compete directly with them in the market.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15WEJZaUV0bXZLU0dlYjlEb3ZDWXdHV1ItS0N1U1B2LU9lTGM4UzItTElSMVkxWTVTTk9fUmIwX0lWTmZNUDNzVmRlc2ZObG9PUlNWTXdMU3RVS2paSmE1ZFo2aGJBVFUtUzl4VF9uNmNxZnlDbXg1Ug",
+      "topics": ["AI copyright", "publishing", "ai training data"]
+    },
+    {
+      "title": "Client Alert: AI Copyright Showdown: Can Hollywood Challenge AI While Using It?",
+      "summary": "A legal analysis examining the tension facing Hollywood studios that are simultaneously suing AI companies over copyright infringement while reportedly deploying AI tools in their own productions.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcGtLcEhfQU9SRFh5eWJZeDZGSXZXUDEzdk5MZjhpQXMwZFRheExVT3ZqQWh4Zm53TGF6QXBBWE42WVlxSGdSZWRYSjQwaWRveTNqWUUyeTZ1UF9idVRLZkI5T2JnRVdSekZ5bVZuLXc4al92Y2tKcDZ0UkcxN1hqUy1hX1Y4SGs1",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "Authors like me must have faith that Australia, where fairness is fundamental, won't gut our copyright for big tech",
+      "summary": "An Australian author argues that proposed changes to copyright law that would benefit AI companies represent a threat to creators' livelihoods and calls on the Australian government to resist pressure from the technology industry.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOXhmQlZ6M3ZCU0ZjNThaY0t6ckpWV1pzQmllTEZZMmhTeTg2VTg0WUNQX1hNekNZalMxSU9WN05yekhEVW9jZEdBUWlyOFR4aGR3V0ZuTVRxY1EtUllhSFJjUFktTEpNOWR4N2EtV0dpT2NEZnF1NE1RTnhacDg1RkZLMTVkTHdtTkJQN1ZUZmhfaldZZHc3ai1OS2VYMllkLXRmcy1jNW9zVjhxaTAzNFR5YmdjY3B2TE9hRW9JZDlFaW9ERjlN",
+      "topics": ["AI copyright", "policy", "publishing"]
+    }
+  ]
+}
