@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Your family's $300 stake in OpenAI [Metered]",
+      "summary": "MIT Technology Review examines the public funding dimension of OpenAI's rise, calculating that American families effectively hold a financial stake in the company through government research grants, tax policy, and public infrastructure that underpinned its development. The piece raises questions about who benefits from AI's commercial success given the extent of public investment involved.",
+      "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "topics": ["OpenAI", "AI industry", "AI ethics"]
+    },
+    {
+      "title": "The AI Deluge Upending Academia",
+      "summary": "A new report examines how the flood of AI-generated and AI-assisted research is straining the academic publishing ecosystem, raising serious concerns about research integrity, peer review capacity, and the reliability of published findings. The piece explores how journals and institutions are struggling to adapt their processes to detect and manage AI-produced content.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZbXlHcEdPQ1JTRDdlX1NNNm40TDV2WVc2RmxvdWUzWEVvS282aU55cFlsTk5DYmo5T1NaQUtMRHZuOUE5d2dIV3dNMUItSnVNWkFaZXlYQ0NBTVhLNlB1TWNpODNXRWh3OWNySGVR?oc=5",
+      "topics": ["academic publishing", "research integrity", "generative AI"]
+    },
+    {
+      "title": "Big Tech Has Suddenly Flipped on the AI Jobs Wipeout Scenario [Paywalled]",
+      "summary": "The Wall Street Journal reports that major tech CEOs who previously downplayed AI's impact on employment are now openly acknowledging that AI will displace significant numbers of workers. The shift in messaging from figures across the industry marks a notable change in how tech leadership is communicating about automation and job losses.",
+      "url": "https://www.wsj.com/tech/ai/ai-workers-tech-ceos-job-losses-afc71e15",
+      "topics": ["AI industry", "layoffs", "business"]
+    },
+    {
+      "title": "The latest in our company transformation — Microsoft Blog",
+      "summary": "Microsoft has published an official update on its ongoing company transformation, coinciding with an announcement that it is laying off approximately 4,800 employees across sales and Xbox divisions. The post outlines the strategic rationale behind restructuring as the company continues to integrate AI across its product lines.",
+      "url": "https://blogs.microsoft.com/blog/2026/07/06/the-latest-in-our-company-transformation/",
+      "topics": ["Microsoft", "AI infrastructure", "layoffs"]
+    },
+    {
+      "title": "Guiding Cambridge through publishing's AI revolution",
+      "summary": "Cambridge University Press is navigating significant disruption to academic publishing brought on by generative AI, with leaders discussing how the press is adapting its editorial processes, author policies, and business model. The piece highlights the growing tension between maintaining research integrity and embracing AI-assisted tools across scholarly communication.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUkpPOG9LQnJwczhMNU5mTnVVc25FZGw4YnlOcEFBbXVQRS1Jemd0Q0lfcFhWazBPSEphdTlfeHg0X0ZMSEE1cS1uNW40bFVydG5VemhuYTlIRDgybjNpVnIzc2xyN3JFWENyWG4xclVCRWk4THd0NERfNWNRNDdQMFJpUmd6emdjUG9GSzNDdHBCNWs5aTV1SHl6MDJBWUgtRDUyXzBPejJqdw?oc=5",
+      "topics": ["academic publishing", "generative AI", "AI ethics"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Import AI 464: Fable writes GPU kernels; AI automation; and analog computation",
+      "summary": "Jack Clark's Import AI newsletter covers Fable's work on AI systems that can write GPU kernels, broader trends in AI automation, and developments in analog computation as an alternative AI hardware approach.",
+      "url": "https://importai.substack.com/p/import-ai-464-fables-writes-gpu-kernels",
+      "topics": ["AI compute", "generative AI", "AI industry"]
+    },
+    {
+      "title": "The AI Superforecasters Are Here",
+      "summary": "Astral Codex Ten examines the emergence of AI systems being applied to probabilistic forecasting, assessing how well large language models perform against human superforecasters and what this means for prediction markets and decision-making.",
+      "url": "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here",
+      "topics": ["large language models", "AI industry", "AI safety"]
+    },
+    {
+      "title": "New Microsoft 365 pricing live, some products up by 42% due to AI",
+      "summary": "Microsoft has implemented new pricing for Microsoft 365, with some products rising by as much as 42%, as the company bundles Copilot AI features into its business subscriptions.",
+      "url": "https://www.windowslatest.com/2026/07/05/microsoft-365-just-got-a-price-hike-over-continuous-innovation-but-copilot-is-the-ai-tax-on-businesses/",
+      "topics": ["Microsoft", "AI infrastructure", "business"]
+    },
+    {
+      "title": "When AI Costs More Than the Engineer",
+      "summary": "Tom Tunguz analyses projections suggesting that AI tooling costs for some companies could surpass the cost of equivalent human engineering labour by 2029, with significant implications for enterprise AI adoption economics.",
+      "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
+      "topics": ["AI compute", "AI industry", "business"]
+    },
+    {
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "summary": "A detailed analysis argues that the release of capable, low-cost models like GLM 5.2 from Chinese labs signals an impending collapse in AI profit margins, as competition drives inference costs toward zero and commoditises frontier model capabilities.",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "topics": ["large language models", "AI industry", "generative AI"]
+    },
+    {
+      "title": "I spy — The Verge on smart glasses and AI surveillance",
+      "summary": "The Verge examines the privacy implications of AI-enabled smart glasses and wearables, exploring how devices from Meta and others are blurring the line between personal assistant and surveillance tool.",
+      "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+      "topics": ["AI ethics", "technology ethics", "AI personal assistant"]
+    },
+    {
+      "title": "The AI Marketing Backlash: Why 'AI-First' Brands Are Starting to Fall Flat",
+      "summary": "Analysis from Breef finds that consumers are increasingly sceptical of brands that lead heavily with AI-first messaging, with research suggesting the label is starting to signal inauthenticity rather than innovation.",
+      "url": "https://www.breef.com/breefingroom/articles/the-ai-marketing-backlash-why-ai-first-brands-are-starting-to-fall-flat",
+      "topics": ["advertising", "generative AI", "consumer research"]
+    },
+    {
+      "title": "New AI tutor achieves 0.71–1.30 SD effect size in Dartmouth course [PDF]",
+      "summary": "A workshop paper reports that a new AI tutoring system deployed in a Dartmouth course produced learning gains of between 0.71 and 1.30 standard deviations, representing a substantial measured improvement in student outcomes.",
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "topics": ["AI tools", "generative AI", "research integrity"]
+    },
+    {
+      "title": "Small AI Models Gain Traction In Places with Unreliable Networks",
+      "summary": "IEEE Spectrum reports on the growing use of small language models in pharmaceuticals and other sectors where network connectivity is unreliable, highlighting practical deployment advantages over larger cloud-dependent systems.",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "topics": ["large language models", "AI infrastructure", "AI industry"]
+    },
+    {
+      "title": "Microsoft is laying off 4,800 employees",
+      "summary": "The Verge reports that Microsoft is cutting approximately 4,800 roles across its sales and Xbox teams as part of the broader company restructuring announced alongside its AI transformation strategy.",
+      "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+      "topics": ["Microsoft", "layoffs", "AI industry"]
+    }
+  ],
+  "ethan_mollick": null
+}
