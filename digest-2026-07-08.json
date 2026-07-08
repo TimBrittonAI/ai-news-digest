@@ -1,0 +1,85 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI's Chief Futurist Is Leaving the Company [Metered]",
+      "summary": "Joshua Achiam, OpenAI's Chief Futurist, is departing the company. The exit marks another senior leadership change at OpenAI as the organisation continues to evolve its structure and priorities.",
+      "url": "https://www.wired.com/story/openai-chief-futurist-joshua-achiam-is-leaving-the-company/",
+      "topics": ["OpenAI", "leadership", "AI industry"]
+    },
+    {
+      "title": "Anthropic is launching Claude Cowork on mobile and web",
+      "summary": "Anthropic is expanding its Claude Cowork agentic product to mobile and web platforms. The move broadens access to the collaborative AI agent beyond its initial release, allowing more users to work alongside Claude on tasks.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "topics": ["Anthropic", "AI personal assistant", "large language models"]
+    },
+    {
+      "title": "Beijing is looking at curbing overseas access to China's top AI models",
+      "summary": "Chinese authorities are reportedly considering restrictions on foreign access to China's leading AI models, according to sources cited by Reuters. The move would represent a significant shift in how China manages the international reach of its AI industry.",
+      "url": "https://www.reuters.com/world/beijing-is-looking-curbing-overseas-access-chinas-top-ai-models-sources-say-2026-07-07/",
+      "topics": ["AI governance", "AI regulation", "AI industry"]
+    },
+    {
+      "title": "Meta's new Muse Image model can pull other Instagram users into AI photos",
+      "summary": "Meta has introduced a new Muse Image model that allows users to generate AI images incorporating other Instagram users' photos, with an opt-out mechanism rather than opt-in consent. The feature raises significant privacy concerns as it defaults to allowing third-party use of personal images.",
+      "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+      "topics": ["generative AI", "AI ethics", "content policy"]
+    },
+    {
+      "title": "AI is the easy villain in a brutal job market. Researchers see more at play.",
+      "summary": "Researchers are pushing back on narratives that attribute widespread job losses primarily to AI, arguing that broader economic forces are also significantly at play. The story examines the complexity of attributing labour market disruption to automation versus other structural factors.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY25jbjFLdG8xVWt4QV9Zam5EMXB0alF2dU55SGUybjhBd1h0REZQYkdGY3Y3VmhsekNfMUVBZ2VLQ0pXWEhNZWRNMER0S2E0NG9yaDNhVEFjdTZJQTVfbE10U3RraU0zMFRsQUk5YWRQN1U2TlF2NUMwX0lKbzVDWUpzVE42NGx0ZlI2OFZtNFpnd3NabDhwTHBJdzJPZEstb3RzREF3cWRFYW10cmdTZml4bGw",
+      "topics": ["AI ethics", "technology ethics", "AI industry"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Shut Those Laptops! Anthropic Puts Its Claude Cowork Agent on Your Phone [Metered]",
+      "summary": "Wired's take on Anthropic's Claude Cowork mobile launch, focusing on the implications of bringing agentic AI to smartphones.",
+      "url": "https://www.wired.com/story/shut-those-laptops-anthropic-puts-its-claude-cowork-agent-on-your-phone/",
+      "topics": ["Anthropic", "AI personal assistant", "generative AI"]
+    },
+    {
+      "title": "The Download: your stake in OpenAI, and the Treasury's AI warning [Metered]",
+      "summary": "MIT Technology Review rounds up news on OpenAI's ownership structure and a warning from the Treasury regarding AI-related risks.",
+      "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+      "topics": ["OpenAI", "AI regulation", "AI governance"]
+    },
+    {
+      "title": "YC CEO says he ships 37K LoC AI code per day. A developer looked under the hood",
+      "summary": "A developer examined the claims made by Y Combinator CEO Garry Tan about shipping large volumes of AI-generated code daily, raising questions about code quality and the realities of agentic AI coding tools.",
+      "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
+      "topics": ["AI coding tools", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Erling Haaland Is Everywhere at the World Cup. Most of It Is AI [Metered]",
+      "summary": "Wired examines how AI-generated content featuring footballer Erling Haaland has proliferated during the World Cup, illustrating the scale of synthetic media in major sporting events.",
+      "url": "https://www.wired.com/story/erling-haaland-is-everywhere-at-the-world-cup-most-of-it-is-ai/",
+      "topics": ["generative AI", "AI ethics", "AI video"]
+    },
+    {
+      "title": "AI Meets Cryptography: What AI Found in Cloudflare's Circl",
+      "summary": "A technical blog post details how AI tools were used to identify bugs in Cloudflare's open-source cryptography library Circl, demonstrating a practical application of AI in security research.",
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "topics": ["AI", "generative AI", "large language models"]
+    },
+    {
+      "title": "SpaceXAI gearing up for upcoming Grok 4.5 release",
+      "summary": "Reports indicate that xAI is preparing to release Grok 4.5, the next iteration of its large language model.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM0xrMmpVTlVVQWhialU1MXpnMUVkejlrRWZ2WXB4bEdSb0l4T3pMTjZxWmJoVG9WdWhNaExGbFpIc0tVaDlFZmUwb0wwcHVUQUpJTnlrMmprUkotUGpTRVA2eXc5a0sxOFB1ZER4Z1dETWVTbXRnM0FBNDlxR3YxN0hWZHNGcmNZ",
+      "topics": ["large language models", "AI industry", "generative AI"]
+    },
+    {
+      "title": "The foundational elements of AI architecture that IT leaders need to scale [Metered]",
+      "summary": "MIT Technology Review outlines the core infrastructure and architectural considerations IT leaders must address to successfully scale AI deployments across organisations.",
+      "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    },
+    {
+      "title": "'It's provocative': Can this university create a fully AI marketing team?",
+      "summary": "A university is experimenting with building an entirely AI-staffed marketing operation, raising questions about the future of creative and strategic roles in organisations.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wbHJDODFoWFlvc19wb2YyUmJRRzZsZUFURkRmMWtDTERnTU1nVERwT1IzTVJhaEh3eUh5VTZRaXp4dnBKelp6eDBqVU8zeVptMHMtMFZSUVJvMUt3LUw5cUg1OUNwXzlCX3JoSQ",
+      "topics": ["generative AI", "advertising", "AI industry"]
+    }
+  ],
+  "ethan_mollick": null
+}
