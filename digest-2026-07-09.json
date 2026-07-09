@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Introducing GPT-Live",
+      "summary": "OpenAI has launched GPT-Live, an upgraded voice mode for ChatGPT that improves conversational naturalness, including better judgment about when to stop speaking. The update is detailed in an official OpenAI announcement. A companion Verge article notes the new mode is notably better at knowing when to stay quiet.",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "topics": ["ChatGPT", "AI voice", "OpenAI"]
+    },
+    {
+      "title": "Introducing Grok 4.5",
+      "summary": "xAI (operating under the SpaceXAI brand) has officially released Grok 4.5, positioning it as an 'Opus-class' model with a focus on coding and finance tasks. The model is available for public access and has been developed in partnership with Cursor. Elon Musk described the release as a significant step in xAI's competition with OpenAI and other frontier labs.",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1ocVZvX1U2SU4zazFwWW5SbTZiaEhlX3FVcGh0Y2lSMXRhc1FyYnBpamVEOWtnLWctYlZjUlByOA?oc=5",
+      "topics": ["large language models", "AI coding tools", "generative AI"]
+    },
+    {
+      "title": "Our approach to government and national security partnerships",
+      "summary": "OpenAI has published an official blog post outlining its approach to working with governments and national security agencies, signalling a notable shift toward defence and intelligence use cases. The post details the principles guiding these partnerships and the types of applications OpenAI is willing to support. This marks a significant policy statement from one of the world's leading AI labs.",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "topics": ["OpenAI", "AI governance", "defense"]
+    },
+    {
+      "title": "Separating signal from noise in coding evaluations",
+      "summary": "OpenAI has released a detailed post examining how to design meaningful benchmarks for AI coding tools, arguing that many current evaluations are noisy and misleading. The piece offers methodological guidance for distinguishing genuine capability improvements from benchmark gaming. It is directly relevant to how the industry should interpret claims about coding model performance.",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "topics": ["AI coding tools", "large language models", "OpenAI"]
+    },
+    {
+      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+      "summary": "Ars Technica reports that researchers have found serious security vulnerabilities in nine widely used AI tools that could allow malicious actors to commandeer them for botnet assembly. The findings raise significant concerns about the security posture of mainstream AI products. The story comes alongside a separate report of GitHub's AI agent being tricked into leaking private repositories.",
+      "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+      "topics": ["AI safety", "AI ethics", "technology ethics"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "ChatGPT's upgraded voice mode is better at shutting up",
+      "summary": "The Verge reports on OpenAI's GPT-Live update, highlighting improvements to conversational pacing and the model's ability to yield the floor more naturally during dialogue.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+      "topics": ["ChatGPT", "AI personal assistant", "OpenAI"]
+    },
+    {
+      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+      "summary": "Security researchers at Noma detail how they manipulated GitHub's AI agent into exposing private repository data, illustrating prompt injection and agentic AI security risks.",
+      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+      "topics": ["AI safety", "AI coding tools", "technology ethics"]
+    },
+    {
+      "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
+      "summary": "Wired profiles Verity Harding, a former DeepMind executive, who warns in a new anthology that the competitive dynamics of the AI industry risk catastrophic outcomes if left unchecked. [Metered]",
+      "url": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
+      "topics": ["AI safety", "AI ethics", "AI industry"]
+    },
+    {
+      "title": "I Built a Self-Improving AI, and So Can You",
+      "summary": "Wired reports that self-improving AI systems are no longer the exclusive domain of frontier labs, with developers outside major research organisations now building and experimenting with recursive self-improvement pipelines. [Metered]",
+      "url": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
+      "topics": ["generative AI", "AI safety", "large language models"]
+    },
+    {
+      "title": "Helping K–12 educators build practical AI skills",
+      "summary": "OpenAI announces a programme aimed at equipping K–12 teachers with hands-on AI skills, reflecting a push to embed AI literacy into primary and secondary education.",
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "topics": ["OpenAI", "AI education", "generative AI"]
+    },
+    {
+      "title": "AWS Launches AI Agent Desktop Access for Enterprise Applications",
+      "summary": "Amazon Web Services has launched a new capability allowing AI agents to directly access and interact with desktop enterprise applications, expanding agentic AI use cases for business customers.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MQXh2Yjdickxxc1FkM2tXS3hYTjdqRUp1UjNsM3g2ZFQ2enVnakpONEh4YUl3YlE3V19uWjhVaWpaSnViS0xpdEU3bl9zY1FBTlNob3hGVER1a2JCM3QyN1hMR3REVkU?oc=5",
+      "topics": ["AI infrastructure", "AI personal assistant", "business"]
+    },
+    {
+      "title": "Meta Now Lets Anyone Use Your Instagram Photos in AI Images—Unless You Opt Out",
+      "summary": "Wired reports that Meta has updated its policy to allow Instagram users' photos to be used in AI-generated images by default, with an opt-out mechanism available but not prominently surfaced. [Metered]",
+      "url": "https://www.wired.com/story/meta-now-lets-anyone-use-your-instagram-photos-in-ai-images-unless-you-opt-out/",
+      "topics": ["AI ethics", "content policy", "generative AI"]
+    },
+    {
+      "title": "EmTech AI 2026: The Rise of the AI Platform",
+      "summary": "MIT Technology Review covers the EmTech AI 2026 conference, examining how AI is evolving from a collection of discrete tools into integrated platforms reshaping entire industries. [Metered]",
+      "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+      "topics": ["AI industry", "generative AI", "AI infrastructure"]
+    },
+    {
+      "title": "We charge $10k a week to delete AI-generated code",
+      "summary": "A developer blog post describes a consulting service that charges premium rates to identify and remove low-quality AI-generated code from production codebases, highlighting growing concerns about code quality in the age of AI coding tools.",
+      "url": "https://odra.dev/slopfix/",
+      "topics": ["AI coding tools", "generative AI", "business"]
+    },
+    {
+      "title": "SpaceXAI, Cursor Unveil Grok AI Model for Coding, Finance Tasks",
+      "summary": "xAI and Cursor have jointly unveiled a version of Grok 4.5 tailored specifically for coding and financial analysis, marking a commercial partnership aimed at enterprise and developer markets.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ01IWUk2UlM5bkZXSFRER1c4X0huc0MyOFF3UkVSRkppTTViUVRyWlVzSlQ3TzlhU1dQUkc2aDBWSnNLdHVPSVA4dnpjYklNc2RndklLeXdIb3pkUkpncTQxZkpxQ0pxYlI3UDZqM0JNak1zUmpNZlVfV0lRSWN2SkZIQTVOQ2pjTnRVMTl1WGZLZTRfdDNIWlZheDE2RjdSc2UzSl9TWlVKTG5jVTBxRg?oc=5",
+      "topics": ["AI coding tools", "large language models", "business"]
+    }
+  ],
+  "ethan_mollick": null
+}
