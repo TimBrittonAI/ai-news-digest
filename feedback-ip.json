@@ -1,12 +1,13 @@
 {
   "topic_votes": {
-    "ai copyright": 4,
+    "ai copyright": 5,
     "testing": 1,
-    "litigation": 1,
+    "litigation": 2,
     "licensing": 3,
     "eu law": 1,
     "policy": 1,
     "legal services": -1,
-    "software": 1
+    "software": 1,
+    "book publishing": 1
   }
 }
