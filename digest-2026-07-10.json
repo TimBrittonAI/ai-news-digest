@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "summary": "OpenAI has launched GPT-5.6, positioning it as their latest frontier model. The release coincides with GPT-5.6 becoming the preferred model in Microsoft 365 Copilot, following government regulatory clearance, marking a significant step in OpenAI's enterprise deployment strategy.",
+      "url": "https://openai.com/index/gpt-5-6",
+      "topics": ["large language models", "OpenAI", "generative AI"]
+    },
+    {
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "summary": "Anthropic researchers have discovered an internal representational space within Claude where the model appears to process and reason about concepts before generating responses. The finding offers new insight into how large language models organise information internally, with implications for AI interpretability and safety research.",
+      "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "topics": ["AI safety", "large language models", "Anthropic"]
+    },
+    {
+      "title": "Fidji Simo steps down from leading OpenAI's AGI work due to illness",
+      "summary": "Fidji Simo, who was appointed CEO of AGI Deployment at OpenAI, is stepping down from the role due to illness. She will transition to an advisory position, representing a notable leadership change at a critical time for OpenAI's commercialisation of advanced AI systems.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+      "topics": ["OpenAI", "AI industry", "leadership"]
+    },
+    {
+      "title": "Anthropic Wants You to Pay Up for Claude Fable 5",
+      "summary": "Anthropic is planning to charge consumers an additional premium to access its upcoming Claude Fable 5 model, introducing a tiered pricing structure beyond existing subscription plans. The move reflects a broader industry trend of monetising frontier model access at higher price points.",
+      "url": "https://www.wired.com/story/model-behavior-anthropic-will-charge-consumers-extra-to-use-claude-fable-5/",
+      "topics": ["Anthropic", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Google will now tell you if an ad was made with AI",
+      "summary": "Google is introducing labels on advertisements to disclose when the creative content was generated using AI tools. The policy applies across Google's advertising platforms and is part of broader efforts to improve transparency for consumers around AI-generated content.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+      "topics": ["advertising", "AI ethics", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "The ChatGPT browser is already dead",
+      "summary": "OpenAI has shut down its Atlas AI browser product shortly after launch, sunsetting the experimental tool.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+      "topics": ["OpenAI", "ChatGPT", "AI industry"]
+    },
+    {
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "summary": "OpenAI published an official blog post outlining expanded capabilities for ChatGPT aimed at supporting complex, long-horizon work tasks.",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "topics": ["ChatGPT", "OpenAI", "generative AI"]
+    },
+    {
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "summary": "OpenAI confirmed that GPT-5.6 is now the default model powering Microsoft 365 Copilot following government approval of the release.",
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "topics": ["OpenAI", "Microsoft", "AI infrastructure"]
+    },
+    {
+      "title": "Say hello to Claude Wrapped",
+      "summary": "Anthropic has launched a 'Claude Wrapped' feature giving users a personalised reflection of their AI usage patterns, similar to Spotify Wrapped.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+      "topics": ["Anthropic", "user interaction", "AI personal assistant"]
+    },
+    {
+      "title": "Meta says its new AI model is ready to compete on coding",
+      "summary": "Meta has announced a new AI model via its Muse Spark API that it claims is competitive on coding benchmarks.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+      "topics": ["large language models", "AI coding tools", "generative AI"]
+    },
+    {
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "summary": "OpenAI has launched a bug bounty programme specifically targeting biosecurity risks associated with its GPT-5.5 model.",
+      "url": "https://openai.com/index/bio-bug-bounty",
+      "topics": ["AI safety", "OpenAI", "AI ethics"]
+    },
+    {
+      "title": "The $28 Million Mistake That Inspired Estonia's AI 'Fuckup Finder'",
+      "summary": "Estonia developed an AI tool to identify costly government policy errors after a single administrative mistake cost the country $28 million, offering a novel model for AI governance in the public sector.",
+      "url": "https://www.wired.com/story/the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/",
+      "topics": ["AI governance", "AI regulation", "ai ethics"]
+    },
+    {
+      "title": "Character.AI wants a piece of the microdrama pie",
+      "summary": "Character.AI is moving into short-form vertical video content, launching a microdrama series format to expand beyond its chatbot roots.",
+      "url": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
+      "topics": ["AI industry", "generative AI", "ai video"]
+    },
+    {
+      "title": "AI content is everywhere on social media, especially LinkedIn",
+      "summary": "A study by Pangram finds that AI-generated content has become pervasive across social media platforms, with LinkedIn seeing particularly high rates of AI-assisted posts.",
+      "url": "https://www.pangram.com/blog/ai-in-your-feed",
+      "topics": ["generative AI", "AI detection", "content policy"]
+    },
+    {
+      "title": "Report: AI skills could add £69bn to UK economy",
+      "summary": "A new report claims that upskilling the UK workforce in AI could contribute £69 billion to the national economy, highlighting the scale of potential economic impact from AI literacy.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNFJiY1VvTFlYMFpJa0RQTmVHU1Bhc0NJcW1YLWNxTjZqLWFtd1RoSEhuUEZZR2ZhbkpfWkZfdnJzbnNwVjEtV0J1QV9jQVYwQy1yODl6WHFvU0FvdXZyX3pvbnlubDRxTXRZNlExSzdYZ0tsN19yTTdBQ1I0NlRkZGpxZlBIMUQxVjV2SmRYVzZPS2VVT2xoNi1Ldw?oc=5",
+      "topics": ["AI industry", "business", "generative AI"]
+    }
+  ],
+  "ethan_mollick": null
+}
