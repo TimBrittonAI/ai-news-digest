@@ -18,7 +18,7 @@
     "language translation": 1,
     "academic publishing": 3,
     "copyright": 1,
-    "generative ai": 6,
+    "generative ai": 7,
     "fair use": 1,
     "acquisitions": -1,
     "advertising": 3,
@@ -42,10 +42,10 @@
     "google": 1,
     "ai infrastructure": 2,
     "ai compute": 2,
-    "ai industry": 3,
+    "ai industry": 4,
     "ai personal assistant": 1,
     "microsoft": 1,
     "ai regulation": 1,
-    "anthropic": 3
+    "anthropic": 4
   }
 }
