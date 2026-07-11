@@ -1,0 +1,66 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "New York Times-Led Publishers Escalate Copyright Fight, Seek Court Sanctions Against OpenAI",
+      "summary": "A coalition of news publishers led by the New York Times has filed for court sanctions against OpenAI, alleging the company deliberately withheld or concealed evidence in the ongoing copyright litigation. The legal battle has reportedly surpassed $28 million in costs. Publishers claim OpenAI's conduct amounts to an evidence cover-up that warrants judicial intervention.",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTEFKT1hUY0kxb2ZGeTdfY3l4ZXBpemRzYWlTWnk1MUZKeEpFVXFwWDBEUUd3ZlphMXZBMzFsM01CMzZUNi1CN0Zrclh3eFpKU3dpUFpnd1UwNW1kUkE0a3dJMlpudjJleTRHUGRxenRCc3JOSjZSeXk5U2c0ck85S2pYUTdlOHE3eE04MUlUOEpEcEpQY3pwN0kyUUtNYTFJWVFzX2lUQXBSMU90VlhzYXJfdGJtanc2OFNRcExVVHhsVjJidG1tYUNXNDk2b3BtbFBOeDVqdXR5bk9pVkRORmw2Wm01OXl4Smc",
+      "topics": ["AI copyright", "litigation", "news publishing"]
+    },
+    {
+      "title": "AI Music Training Hits Two Courts in July: Suno Faces Verdicts in Munich and Boston",
+      "summary": "AI music generation company Suno is facing simultaneous copyright proceedings in two jurisdictions this month — a court in Munich and a federal court in Boston. The cases centre on whether Suno's use of recorded music to train its AI models constitutes copyright infringement, making July a potentially pivotal month for AI training liability in the music industry.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX2lPQkZIaFk5dTdnUG1LQ0xnWV9vN3hoSGc2R19UbndoOV9sSzhVdWNEeTMzZXQwdXUzT0tDS0JPY1ZPYW1MbU9uMF9tb3l2MkJzazBsMFYzRUd5b25pa3JtTnF2UUxIUTR1OGNUaFpNU2Z1YVBkYVZVV3phNTI3aEs0dEFFd0dldzd2MXp5Z0ZLTFRBa0QyRks0V3FJWmVCRkJ5V1JobXFTN2I5S2VFRWV5bUMxaF9WNW9MOU93bHJYM0RGR2c",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "Google Accused Of Plundering Car Photos To Train AI Ad Tool",
+      "summary": "Google is facing accusations that it used car photographs without authorisation to train an AI-powered advertising tool. The allegations raise fresh questions about corporate use of third-party visual content for AI training purposes and the scope of copyright protection for photographic works.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN0hKQlBQMWZoQ2QzMThrM1lQVUx0dkFnQnVtRXRiZmpDM3lQQThuMnI4RUN3S1ZYNWJUQXFjQ0JZemJSeGhjeEFQY2tSTGVvX25PSHdHbEVRUWtNaS1jWk9qMXJOZW02SVZoUWpIT3VkRHBjdHFZUWtYR2c2UmkzQ21KdXk5U1BtbUU0dHpkenZYZ3NvUnI2WUtsY09WZFhkTkt4TVZvdGp2TzY5a3d3",
+      "topics": ["AI copyright", "litigation", "training data"]
+    },
+    {
+      "title": "AI Copyright Wars Shift To Main Street",
+      "summary": "Reporting indicates that AI copyright disputes are moving beyond high-profile cases involving major publishers and record labels to affect smaller, everyday creators and businesses. The piece examines how the legal and policy battles over AI-generated content and training data are beginning to have wider commercial and creative implications.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUDhYbF85d3pWcDhhOE9fUFM2b1JTdG5zeFVRdjhRTnFPZ1VxTmszLUhaSF9MMkpRTzBRdVRHQXpvN2Z5SkdTdVpJN2YyYVljNm0wLVoydkwyeHNCMW9nNEhfRzFYN2MzZDJsLUZCRnMtN3BnczM1Xy0zc1lxN1ZkbzJlTDhWWG40b2ppUmNyNkVQMWZoMXc",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Global AI Data Analytics Startups Promise Publishers an Edge [Metered]",
+      "summary": "Publishers Weekly reports on a new wave of AI data analytics startups pitching their tools to book publishers, claiming to offer competitive advantages in areas such as audience analysis and rights management. The piece raises questions about how publishers are navigating AI adoption amid ongoing concerns about data use and copyright.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100778-global-ai-data-analytics-startups-promise-publishers-an-edge.html",
+      "topics": ["book publishing", "AI tools", "licensing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Part 1 - The NO FAKES Act Moves Forward: How AI Voice and Likeness Rights Could Reshape Entertainment Deals",
+      "summary": "An analysis of the advancing NO FAKES Act and its potential implications for how AI-generated voice and likeness rights are handled in entertainment industry contracts.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNDhIeFNHc0RkQ2o3WExGVklMZFlXLWl1RV9LOVVISWRtYUE4amdBcTB1eHFkREROamVsOGFvQWNYbEZqTm9ZTjlsQURhZ25RYVBrTGRKR3RsQ2Q0M0ljTGVHQnFHRnN3UXFodjhtVHJlcS1KTU94cUM1N3VZbHVvTGxhWWRkdlE",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "The government's secretive AI threat to creatives",
+      "summary": "An investigation into government-level AI policy developments that could undermine the intellectual property rights of creative professionals, with sources raising concerns about a lack of transparency.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGdDbU9qbEpyQXgtM3R0RGF5S1ltcmhmZ1Q1UEtSYXdFWl85c0xOV0M5NUpwZlIwczJzZjcwWmZjTE81bEM5TktGRGpNY09OSGlEcXpTZ0NtWjltWEJTRmNuemhsUjZVcTBxMzFsTGxqaTA0aEJMTms5WFdWS2lqVDY5c29xTE95ZjdmZWZ2VnROUU92dVhKcWwxMGt5TGNDRzFiQ1JiUmc",
+      "topics": ["AI copyright", "policy", "creative rights"]
+    },
+    {
+      "title": "Clearer rules needed in the age of AI, say experts",
+      "summary": "Legal and industry experts are calling for clearer regulatory frameworks governing AI and intellectual property, citing growing uncertainty around training data, copyright liability, and licensing.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTzdsQ2V3MVhCRFAtTnpkanY4Nnd3VzFpbm9aRkFaYnhJTTBHV1JxTEM2NlVNTk9oNnlRQ2ctZmhrVGRTVFBrVmtnaDZjSE5YalBSWkFwdm1vOC16SFV3OWtUVmt5Y0NPdmJmUTZFcmNTQmtVbldGdHZTSDEzbjRiUmVhWWxDa2JsdXJaQkx2czV1OUFjbEdZSTVFLUlGY0NH",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "The OMB Guidance Revision Threatens All Research",
+      "summary": "The Scholarly Kitchen reports that proposed revisions to US Office of Management and Budget guidance could have significant consequences for research funding and data-sharing rules, with potential knock-on effects for academic publishing.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/07/10/the-omb-guidance-revision-threatens-all-research/",
+      "topics": ["academic publishing", "policy", "research"]
+    },
+    {
+      "title": "NewsWrap: Crunch-time for data centre, AI and copyright policy",
+      "summary": "A news roundup covering converging policy pressures around AI infrastructure, data centres, and copyright legislation at a critical juncture for regulators and industry.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUDhYbF85d3pWcDhhOE9fUFM2b1JTdG5zeFVRdjhRTnFPZ1VxTmszLUhaSF9MMkpRTzBRdVRHQXpvN2Z5SkdTdVpJN2YyYVljNm0wLVoydkwyeHNCMW9nNEhfRzFYN2MzZDJsLUZCRnMtN3BnczM1Xy0zc1lxN1ZkbzJlTDhWWG40b2ppUmNyNkVQMWZoMXc",
+      "topics": ["AI copyright", "policy", "licensing"]
+    }
+  ]
+}
