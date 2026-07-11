@@ -1,0 +1,91 @@
+{
+  "top_stories": [
+    {
+      "title": "Apple Sues OpenAI for Allegedly Stealing Hardware Secrets",
+      "summary": "Apple has filed a lawsuit against OpenAI, alleging that the company stole hardware trade secrets. The case centres on claims of intellectual property theft related to hardware, marking a significant legal clash between two major technology players.",
+      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "topics": ["OpenAI", "legal", "AI industry"]
+    },
+    {
+      "title": "OpenAI's Head of Safety Is Leaving the Company",
+      "summary": "OpenAI's head of safety is departing the company, continuing a pattern of high-profile exits from the organisation's safety-focused roles. The departure raises fresh questions about the company's commitment to AI safety at a critical period of development.",
+      "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+      "topics": ["OpenAI", "AI safety", "AI ethics"]
+    },
+    {
+      "title": "OpenAI's CEO of AGI Deployment, Fidji Simo, Is Stepping Down",
+      "summary": "Fidji Simo, who held the role of CEO of AGI Deployment at OpenAI, is stepping down from the position. The departure adds to a series of leadership changes at the company.",
+      "url": "https://www.wired.com/story/fidji-simo-ceo-agi-deployment-openai/",
+      "topics": ["OpenAI", "leadership", "AI industry"]
+    },
+    {
+      "title": "The Download: Claude's Inner Workings and OpenAI's 'Super App' [Metered]",
+      "summary": "MIT Technology Review covers new research into Anthropic's Claude, examining what is happening inside the model's hidden computational space, alongside reporting on OpenAI's ambitions to build a 'super app'. The piece brings together two significant developments in frontier AI product and research.",
+      "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+      "topics": ["Anthropic", "OpenAI", "large language models"]
+    },
+    {
+      "title": "How Deutsche Telekom Is Rewiring Telecommunications with AI",
+      "summary": "OpenAI has published a case study detailing how Deutsche Telekom is deploying AI across its telecommunications operations. The partnership illustrates the growing adoption of frontier AI tools in large enterprise and infrastructure contexts.",
+      "url": "https://openai.com/index/deutsche-telekom",
+      "topics": ["OpenAI", "AI industry", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "How the Terrorist Group Boko Haram Uses Frontier AI",
+      "summary": "A report from CASP examines how the terrorist organisation Boko Haram is leveraging frontier AI tools, raising significant concerns about AI misuse for violent extremism.",
+      "url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "topics": ["AI safety", "AI ethics", "defense"]
+    },
+    {
+      "title": "Robot Dogs, Teslas, and Rescue Helicopters: The UN AI Summit Was a Lot [Metered]",
+      "summary": "Wired reports on the UN AI Summit, describing a spectacle-heavy event featuring robot dogs and Teslas alongside substantive discussions about international AI governance.",
+      "url": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
+      "topics": ["AI governance", "AI regulation", "AI industry"]
+    },
+    {
+      "title": "Microsoft's Carbon Emissions Went Up 25 Percent Last Year",
+      "summary": "Microsoft's 2026 sustainability report reveals its carbon emissions rose 25 percent year-on-year, a trend widely attributed to the surging energy demands of its AI infrastructure expansion.",
+      "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+      "topics": ["Microsoft", "AI infrastructure", "AI compute"]
+    },
+    {
+      "title": "Meta Turns Off the Instagram Feature That Let Users Make AI Deepfakes of Public Accounts",
+      "summary": "Meta has disabled an Instagram feature that allowed users to generate AI deepfakes of public figures, citing concerns over misuse.",
+      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "topics": ["generative AI", "content policy", "AI ethics"]
+    },
+    {
+      "title": "Would You Host Part of an AI Data Center in Your Home?",
+      "summary": "The Verge reports on Sunrun's proposal to distribute AI data centre workloads across domestic solar and battery installations, presenting a novel model for decentralised AI compute.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    },
+    {
+      "title": "Instagram's Adam Mosseri: If You Don't Like AI, 'Then You Shouldn't Have It in Your Feed'",
+      "summary": "Instagram head Adam Mosseri has said users who dislike AI-generated content will be given controls to remove it from their feeds, framing AI integration as an opt-out rather than opt-in feature.",
+      "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+      "topics": ["generative AI", "content policy", "user interaction"]
+    },
+    {
+      "title": "AI-Generated Videos to Maximally Drive a Target Brain Region",
+      "summary": "Researchers at EPFL's NEVO project have developed a method using AI-generated videos specifically designed to maximally activate targeted brain regions, with implications for neuroscience research.",
+      "url": "https://nevo-project.epfl.ch/",
+      "topics": ["generative AI", "AI research", "large language models"]
+    },
+    {
+      "title": "Building a Real-Time AI Tutor for 5-Year-Olds",
+      "summary": "Ello's engineering blog details the technical challenges of building a real-time AI reading tutor responsive enough to work with young children, targeting a latency of under 1000 milliseconds.",
+      "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+      "topics": ["generative AI", "AI personal assistant", "large language models"]
+    },
+    {
+      "title": "A New Experiential Gallery Just Might Change Your Mind About AI Art [Metered]",
+      "summary": "Wired profiles a new gallery experience designed to shift public perception of AI-generated art by immersing visitors in the creative process behind it.",
+      "url": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
+      "topics": ["generative AI", "AI ethics", "technology ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
