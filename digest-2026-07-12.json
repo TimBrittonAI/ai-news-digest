@@ -1,0 +1,85 @@
+{
+  "top_stories": [
+    {
+      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+      "summary": "Apple has filed a lawsuit against OpenAI, alleging that the company stole hardware trade secrets. The case adds to the growing legal scrutiny facing OpenAI and raises questions about IP boundaries in the AI industry.",
+      "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+      "topics": ["OpenAI", "legal", "AI industry"]
+    },
+    {
+      "title": "Meta Pulls New AI Image Feature After Days of Backlash",
+      "summary": "Meta removed a newly launched AI image feature following swift and widespread public criticism. The episode highlights ongoing tensions around AI-generated content and platform content policy decisions.",
+      "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
+      "topics": ["generative AI", "content policy", "AI ethics"]
+    },
+    {
+      "title": "Microsoft Latest Report Shows 25% Emissions Raised Due to AI Data Centers",
+      "summary": "Microsoft's latest environmental report reveals a 25% jump in emissions, attributable to the rapid expansion of AI data centres and the dropping of greenwashing credits. The disclosure puts a spotlight on the environmental cost of AI infrastructure growth.",
+      "url": "https://www.windowscentral.com/microsoft/dropping-greenwashing-credits-and-expanding-ai-datacenters-caused-microsofts-25-percent-emissions-jump",
+      "topics": ["AI infrastructure", "Microsoft", "AI compute"]
+    },
+    {
+      "title": "Mesh LLM: Distributed AI Computing on Iroh",
+      "summary": "Iroh has published a technical blog post detailing Mesh LLM, a system for running distributed AI inference across multiple nodes using its peer-to-peer networking library. The approach aims to make large language model compute more decentralised and accessible.",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "topics": ["large language models", "AI compute", "AI infrastructure"]
+    },
+    {
+      "title": "Salesforce-Databricks Alliance Strengthens Enterprise AI with Trusted Data",
+      "summary": "Salesforce and Databricks have announced a deepened partnership aimed at combining their platforms to deliver more reliable, data-grounded enterprise AI solutions. The alliance is positioned to accelerate AI agent and generative AI adoption in business workflows.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNkNTa2ktMnNVUUwwQUpwdFUtd29kMnBURDU0eEZQa1dOUjVFNDB3dEVKRnlWX01MNmdlYWpINnN3V2ZNU3FCNU91YmtVSjdNY1ZwWE0zWjFlWDc2bjU4M3FCb3FDbk9xMUY1M0Z6ajlPSXNlUWxPaFJEV2ZUaDVRNFFjQU5CaTlKLWFIaFJudURMdG5pdExhYnF1M3FNZFZGYmNNeEQtbWZUYjh5ZUlFcVAySXY0Zw?oc=5",
+      "topics": ["generative AI", "business", "AI industry"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Reverse Centaurs Are the Answer to the AI Paradox (2025)",
+      "summary": "Pluralistic argues that 'reverse centaurs' — humans supervised by AI systems rather than the other way around — represent a key dynamic in understanding and addressing the productivity paradox of AI adoption.",
+      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+      "topics": ["AI ethics", "technology ethics", "generative AI"]
+    },
+    {
+      "title": "Ghost Font: A Font That Humans Can Read but AI Cannot",
+      "summary": "A designer has created Ghost Font, a typeface engineered to be legible to human readers while evading AI optical character recognition systems.",
+      "url": "https://www.mixfont.com/ghost-font",
+      "topics": ["AI detection", "generative AI", "technology ethics"]
+    },
+    {
+      "title": "AI 2040 and the Cult of Intelligence",
+      "summary": "George Hotz publishes a long-form essay speculating on the trajectory of AI development through 2040, examining hype, risk, and the cultural forces shaping the industry.",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "topics": ["AI industry", "AI safety", "generative AI"]
+    },
+    {
+      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
+      "summary": "A developer documents attempts to use AI coding tools to recreate the classic Thrust game, finding that while AI cannot replicate it faithfully, it proves useful for code archaeology and understanding legacy software.",
+      "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
+      "topics": ["AI coding tools", "large language models", "generative AI"]
+    },
+    {
+      "title": "Enterprise AI Agent Adoption Market Driven by Workflow Automation and Generative AI Innovation",
+      "summary": "A new market report finds enterprise adoption of AI agents is accelerating, driven by demand for workflow automation and advances in generative AI capabilities.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEhQa3RfQ3NiZlVxTGhON2RVdFo5bDh3ZXRGa3ZLOEI3TE8tZmI1dkZlMUlzVEgxZkJRQS1JT2JuTnhtQ3FtSnlxazJMeURkS2pxcVRUREdTZ2tzbDZ3RDFDVDlYQW80YUkyZHNuRXRwNXQ2a3NJWGVQTTFZSlBDSWVQdnNVWDk5SE1hcU1jc0hEbkVU?oc=5",
+      "topics": ["generative AI", "business", "AI industry"]
+    },
+    {
+      "title": "AI Model Risk Management Market Expands as Organizations Strengthen AI Governance Frameworks",
+      "summary": "Growing enterprise focus on AI governance is driving expansion in the AI model risk management market, as organisations look to manage compliance and safety risks from deployed AI systems.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbE5VMDJhck9FNVVsVWt4SGJnVHVyeVQwLWdPbHZibTZXSGJ0Sl9Oc2pKS3dWb0hoTWRDZ3ZUR3FVVTZoZzhsbmQ0MnhTdUNmcmJ5emJXaGxGR2dDdDVTdTJxYThBdFY3Q2s5dWhVeXhzRXpiMERQZVV0QkJweEUtcGdiRUUxdElkbWpFOVpnOGctSkJ4bFFj?oc=5",
+      "topics": ["AI governance", "AI safety", "ai regulation"]
+    },
+    {
+      "title": "Prompt: AI's Next Challenge Is Making Better Use of Compute",
+      "summary": "A report examines how the AI industry is shifting focus toward improving computational efficiency, with companies looking to extract more value from existing infrastructure rather than simply scaling up.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX1R1elh4anhlTFdHcFNGckFScjlSYnFxUjdET0RkUUh1MUZadWhhYzlXZHZxT2xldlhxakhIdXNMOV9aSDdtdno2UU5IOE9SOFJ3MHFaczNFR2o1YkdKcVdoUFItbTQ1R3NncTlGQ1hOZjlqekpWbmFxQkkwaVNxMjNraEtaQWZQVTNFT1hjV3FyM0U?oc=5",
+      "topics": ["AI compute", "AI infrastructure", "AI industry"]
+    },
+    {
+      "title": "Voxpopme Tool to Connect to Research Through AI Platforms",
+      "summary": "Consumer research platform Voxpopme has announced a new tool enabling its research data to be accessed and queried through AI platforms, aiming to bring market research insights into AI-driven workflows.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPanVrQjRBWV8zSVhWR1BUNXlUYTl6VHZLb0FCRXR0MXRVM0dvUDhURExMYl8xbWdjci05R1RpZVJMcEpzVGsxVlpId2dLd2R2RzdZeG5fS1VobXZ2ZkxkLUJSMjBYMVg0YzNmYlFwRGR0d0ZFeWNRSGd1WW1OSzJYRy1yd013SUpBZmtiWngycUNfT0lBbk9PVktxOTZIdTBaTndzS21MRWMtREVJbi1kUQ?oc=5",
+      "topics": ["market research", "AI personal assistant", "generative AI"]
+    }
+  ],
+  "ethan_mollick": null
+}
