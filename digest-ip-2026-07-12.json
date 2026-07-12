@@ -1,0 +1,66 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "New York Times-Led Publishers Escalate Copyright Fight, Seek Court Sanctions Against OpenAI",
+      "summary": "A coalition of news publishers led by the New York Times has filed for court sanctions against OpenAI, alleging the company hid or destroyed evidence in the ongoing copyright litigation. The legal battle has now surpassed $28 million in costs. Publishers are asking a judge to penalise OpenAI for alleged evidence concealment during the copyright trial.",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTEFKT1hUY0kxb2ZGeTdfY3l4ZXBpemRzYWlTWnk1MUZKeEpFVXFwWDBEUUd3ZlphMXZBMzFsM01CMzZUNi1CN0Zrclh3eFpKU3dpUFpnd1UwNW1kUkE0a3dJMlpudjJleTRHUGRxenRCc3JOSjZSeXk5U2c0ck81S2pYUTdlOHE3eE04MUlUOEpEcEpQY3pwN0kyVUtNYTFJWVFzX2lUQXBSMU90VlhzYXJfdGJtanc2OFNRcExVVHhsVjJidG1tYUNXNDk2b3BtbFBOeDVqdXR5bk9pVkRORmw2Wm01OXl4Smc",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "AI Music Training Hits Two Courts in July: Suno Faces Verdicts in Munich and Boston",
+      "summary": "AI music generation company Suno is facing simultaneous copyright proceedings in both Munich and Boston during July. The dual court actions represent a significant escalation of legal scrutiny over AI companies training their models on copyrighted musical works.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNX2lPQkZIaFk5dTdnUG1LQ0xnWV9vN3hoSGc2R19UbndoOV9sSzhVdWNEeTMzZXQwdXUzT0tDS0JPY1ZPYW1MbU9uMF9tb3l2MkJzazBsMFYzRUd5b25pa3JtTnF2UUxIUTR1OGNUaFpNU2Z1YVBkYVZVV3phNTI3aEs0dEFFd0dldzd2MXp5Z0ZLTFRBa0QyRks0V3FJWmVCRkJ5V1JobXFTN2I5S2VFRWV5bUMxaF9WNW9MOU93bHJYM0RGR2c",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "AI companies want to water down Australia's copyright laws. Artists are outraged, Labor is split",
+      "summary": "AI companies are lobbying the Australian government to weaken copyright protections to facilitate AI training on copyrighted material, triggering a backlash from artists and creators. The issue has created a division within Australia's Labor government over how to balance AI industry interests with creator rights.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZm1ZbGlKbjZncnFvcFdJLUhFekxmNU52Ml9xekhNSTR2TUFGSkxkWThzLV9TcE9sbmp0YUNLZFZRd0VpM2hiclhJLWw2SFhtWlNnZWgxWmZtWjBIaEtLMkc0XzlqSzlaRmdBdjNTWDctdzJhWkM0ck0zekxMMS1DOUZ0MXZGVk1JeEtpZW05UE1veWtGcEVzalNaWm9qeVB5N2VFNWpmQVVFajNxQ2NxUTFR",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Google Accused Of Plundering Car Photos To Train AI Ad Tool",
+      "summary": "Google is facing accusations that it used car photographs without authorisation to train an AI advertising tool. The case adds to a growing wave of copyright claims against major tech companies over the use of third-party images for AI model training.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN0hKQlBQMWZoQ2QzMThrM1lQVUx0dkFnQnVtRXRiZmpDM3lQQThuMnI4RUN3S1ZYNWJUQXFjQ0JZemJSeGhjeEFQY2tSTGVvX25PSHdHbEVRUWtNaS1jWk9qMXJOZW02SVZoUWpIT3VkRHBjdHFZUWtYR2c2UmkzQ21KdXk5U1BtbUU0dHpkenZYZ3NvUnI2WUtsY09WZFhkTkt4TVZvdGp2TzY5a3d3",
+      "topics": ["AI copyright", "litigation", "software"]
+    },
+    {
+      "title": "The NO FAKES Act Moves Forward: How AI Voice and Likeness Rights Could Reshape Entertainment Deals",
+      "summary": "The NO FAKES Act, which would create federal protections against AI-generated replicas of individuals' voices and likenesses, is advancing in the US legislative process. The piece examines how the legislation could significantly alter how entertainment contracts and deals are structured.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNDhIeFNHc0RkQ2o3WExGVklMZFlXLWl1RV9LOVVISWRtYUE4amdBcTB1eHFkREROamVsOGFvQWNYbEZqTm9ZTjlsQURhZ25RYVBrTGRKR3RsQ2Q0M0ljTGVHQnFHRnN3UXFodjhtVHJlcS1KTU94cUM1N3VZbHVvTGxhWWRkdlE",
+      "topics": ["AI copyright", "policy", "licensing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "AI Copyright Wars Shift To Main Street",
+      "summary": "Analysis of how AI copyright disputes are moving beyond high-profile tech litigation to affect everyday businesses and creators.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUDhYbF85d3pWcDhhOE9fUFM2b1JTdG5zeFVRdjhRTnFPZ1VxTmszLUhaSF9MMkpRTzBRdVRHQXpvN2Z5SkdTdVpJN2YyYVljNm0wLVoydkwyeHNCMW9nNEhfRzFYN2MzZDJsLUZCRnMtN3BnczM1Xy0zc1lxN1ZkbzJlTDhWWG40b2ppUmNyNkVQMWZoMXc",
+      "topics": ["AI copyright", "licensing"]
+    },
+    {
+      "title": "Midjourney Wants Hollywood to Reveal Its AI Use in 2026",
+      "summary": "AI image generation company Midjourney is pushing for Hollywood productions to disclose their use of AI tools.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTmxPOWlRYjQ1QUtnSGhJYmpFVXpEbllETEUwbzRudGVJRmZlQmFZNlJTdVBVNTVyUENfM1BwWWV4dml2NGY3Y0lQSkViNFJaYzV2dWZtcy0xTHh6UmtKZEk0RFd2Rk12NEFWT3ItR3BHUC1leDg0RnVWUklZcTFlOWtvRQ",
+      "topics": ["AI copyright", "policy", "book publishing"]
+    },
+    {
+      "title": "The government's secretive AI threat to creatives",
+      "summary": "An investigation into how government AI policy decisions made without public consultation are posing risks to the rights and livelihoods of creative professionals.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGdDbU9qbEpyQXgtM3R0RGF5S1ltcmhmZ1Q1UEtSYXdFWl85c0xOV0M5NUpwZlIwczJzZjcwWmZjTE81bEM5TktGRGpNY09OSGlEcXpTZ0NtWjltWEJTRmNuemhsUjZVcTBxMzFsTGxqaTA0aEJMTms5WFdWS2lqVDY5c29xTE95ZjdmZWZ2VnROUU92dVhKcWwxMGt5TGNDRzFiQ1JiUmc",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Clearer rules needed in the age of AI, say experts",
+      "summary": "Legal and industry experts are calling for clearer regulatory frameworks to govern AI and intellectual property as current laws struggle to keep pace with the technology.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTzdsQ2V3MVhCRFAtTnpkanY4Nnd3VzFpbm9aRkFaYnhJTTBHV1JxTEM2NlVNTk9oNnlRQ2ctZmhrVGRTVFBrVmtnaDZjSE5YalBSWkFwdm1vOC16SFV3OWtUVmt5Y0NPdmJmUTZFcmNTQmtVbldGdHZTSDEzbjRiUmVhWWxDa2JsdXJaQkx2czV1OUFjbEdZSTVFLUlGY0NH",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Frankfurt Book Fair Forced to Close Hall 6, Reshuffles Exhibitors, Agents [Metered]",
+      "summary": "Frankfurt Book Fair has been forced to close Hall 6 ahead of the fair, requiring a significant reshuffle of exhibitors and literary agents.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/100810-frankfurt-book-fair-forced-to-close-hall-6-reshuffles-exhibitors-agents.html",
+      "topics": ["book publishing", "industry news"]
+    }
+  ]
+}
