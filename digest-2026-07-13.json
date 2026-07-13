@@ -1,0 +1,49 @@
+{
+  "top_stories": [
+    {
+      "title": "In the AI era, the human struggle can no longer be the point of research",
+      "summary": "An opinion piece argues that as AI begins to automate significant portions of the research process, the traditional narrative of human effort and struggle in scientific discovery is becoming obsolete. The article questions how academic publishing and research culture must adapt when AI can perform tasks that once required years of human labour. It raises fundamental questions about the meaning and value of research integrity in an AI-driven era.",
+      "url": "https://news.google.com/rss/articles/CBMInAFBVV95cUxQekl4eHZiR0p0aFRxbGJ3ejdzYkVhMEpMZW10UUVZdzdSR2l6RDBVRHg4UlNTRnNZNXF0dlItZHZyMVZOVUtvQjVHM3RUUXMxUTBKbmo2SlF5WWF4enRGalBxNzBmbkluU3l6ZHlWSE4tSGo0cVlQemNZdnBlVExvSXR5QnZXcURZVHRpVHFvYm9KME5iaGdSbXR3VTg?oc=5",
+      "topics": ["academic publishing", "AI ethics", "research integrity"]
+    },
+    {
+      "title": "AI boosts research careers but narrows the span of ideas explored: study",
+      "summary": "A study covered by IEEE Spectrum finds that while AI tools are benefiting individual researchers' careers, they are simultaneously narrowing the diversity of ideas being explored in science. The research suggests AI may be concentrating scientific inquiry around a smaller range of topics, potentially limiting the breadth of discovery. The findings raise concerns about long-term innovation and the homogenisation of research agendas.",
+      "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+      "topics": ["AI", "academic publishing", "research integrity"]
+    },
+    {
+      "title": "The fight against AI data centers is just beginning",
+      "summary": "The Verge reports on growing community and political opposition to the rapid proliferation of AI data centres, which are facing resistance over their energy consumption, water usage, and local environmental impact. The piece examines how residents and local governments are beginning to organise and push back against major tech infrastructure projects. The article suggests this opposition is likely to intensify as AI infrastructure investment continues to accelerate.",
+      "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "topics": ["AI infrastructure", "AI industry", "generative AI"]
+    },
+    {
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "summary": "A technical blog post from Ploy.ai details the process and results of migrating a live production AI agent to GPT-5.6, reporting significant gains in both speed and cost efficiency. The post provides concrete benchmarks showing a 2.2x improvement in response speed and a 27% reduction in operating costs. It offers practical insights for engineering teams evaluating upgrades to newer OpenAI models.",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "topics": ["large language models", "OpenAI", "AI"]
+    },
+    {
+      "title": "Scientists' Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+      "summary": "Wired reports on researchers using a combination of AI and quantum computing to design novel peptides, potentially opening new avenues in drug discovery and materials science. The work represents an early-stage but notable convergence of two cutting-edge technologies applied to complex molecular generation problems. Scientists involved describe the approach as a side project that has produced unexpectedly promising results. [Metered]",
+      "url": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+      "topics": ["generative AI", "AI", "research integrity"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Apple's failed self-driving car program left a legacy of powerful AI chips",
+      "summary": "The Verge examines how Apple's cancelled autonomous vehicle project has resulted in significant AI chip innovations that are now being repurposed across its product line, including the forthcoming M7 Ultra.",
+      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "topics": ["AI", "AI compute", "AI industry"]
+    },
+    {
+      "title": "Lorde says Ray-Ban Meta AI glasses are 'not sexy'",
+      "summary": "The Verge reports that musician Lorde has publicly criticised Meta's Ray-Ban AI smart glasses, calling them unattractive, adding a cultural voice to ongoing debates about the consumer appeal of AI wearables.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "topics": ["AI", "meta", "AI personal assistant"]
+    }
+  ],
+  "ethan_mollick": null
+}
