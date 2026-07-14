@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "What Anthropic's latest AI discovery does—and doesn't—show [Metered]",
+      "summary": "MIT Technology Review examines Anthropic's recent findings on AI interpretability, breaking down what the research actually demonstrates about how large language models work internally. The piece cautions against over-interpreting the results while acknowledging the significance of the discovery for AI safety research. It provides important context for understanding the limits and implications of Anthropic's work.",
+      "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "topics": ["AI safety", "Anthropic", "large language models"]
+    },
+    {
+      "title": "The 6 wildest claims in Apple's lawsuit against OpenAI",
+      "summary": "The Verge highlights the most striking allegations in Apple's legal action against OpenAI, covering a range of accusations tied to the companies' business relationship. The lawsuit raises significant questions about the terms under which OpenAI's technology was integrated into Apple products. The story has broad implications for how AI partnerships and licensing disputes may play out across the industry.",
+      "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "topics": ["OpenAI", "legal", "AI industry"]
+    },
+    {
+      "title": "Siri AI Is Becoming Apple's Everything Tool [Metered]",
+      "summary": "Wired reports on Apple's expanded vision for Siri as a central AI-powered assistant across its device ecosystem, with new capabilities previewed in iOS 27. The redesigned Siri is positioned to handle a much wider range of tasks, integrating more deeply with apps and services. The piece examines what this means for Apple's competitive position in the AI personal assistant market.",
+      "url": "https://www.wired.com/story/siri-ai-is-now-apple-everything-tool/",
+      "topics": ["AI personal assistant", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Now, defenders are embracing the prompt injection, too",
+      "summary": "Ars Technica reports on a shift in cybersecurity strategy where defenders are beginning to use prompt injection techniques offensively to protect AI systems, turning an attack vector into a defensive tool. The approach involves embedding instructions designed to confuse or redirect malicious AI agents attempting to compromise systems. The development signals a new frontier in AI-era security practices.",
+      "url": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "topics": ["AI safety", "AI ethics", "generative AI"]
+    },
+    {
+      "title": "AI Slop Is a Tenure Problem, Not Just a Tech Problem",
+      "summary": "This piece argues that the proliferation of low-quality AI-generated academic content is not purely a technological issue but is deeply tied to incentive structures in academia, particularly the publish-or-perish pressures around tenure. The author contends that until institutional incentives change, AI-generated filler content will continue to undermine research integrity. The story connects generative AI's risks directly to academic publishing norms.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa1IxOFFKMW1IQm90N0NzaExkT2VXeW5yU0RJUHNTU1dUdmtkbG9hUUZCWUdjZGV4eXpEV2M1YWNOVXBJTjM2Qjh5cm4xMFVqTE50b3FTZzJnQlRCcTVkWEVsN25OS0NZb3JMa29fYUtJdmZqVDFZMnFHbnhyUmhFNGNKdU9nZnJFZ281c19Odw?oc=5",
+      "topics": ["academic publishing", "research integrity", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Siri AI is already changing how I use my iPhone",
+      "summary": "The Verge offers a hands-on look at the new Siri AI features in the iOS 27 public beta, describing practical changes to everyday iPhone use.",
+      "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+      "topics": ["AI personal assistant", "generative AI"]
+    },
+    {
+      "title": "AI detection risks undermining academic integrity",
+      "summary": "A report examines how the use of AI detection tools in academic settings may be producing false positives and damaging students and researchers unfairly.",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rTkIxOFduRk9DVmF4MGZIRVB3YW5Wbjl6OWh4cVhpQ2J2a00zMF9qOUZIWGVVVmtnelFBLWJvLXNSeHl5cTlxRjdheXJvbFNKOUNtQ09Wa2xQdndhT3M0?oc=5",
+      "topics": ["AI detection", "academic publishing", "research integrity"]
+    },
+    {
+      "title": "Waze is getting a bunch of new AI-powered features",
+      "summary": "Google's Waze navigation app is adding Gemini-powered AI voice commands and other AI features aimed at making the experience less chatty and more responsive.",
+      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "topics": ["AI personal assistant", "google", "generative AI"]
+    },
+    {
+      "title": "The Download: a donor conception cap and world models for AI [Metered]",
+      "summary": "MIT Technology Review's daily briefing includes coverage of world models as a key direction in AI development, alongside other science and technology news.",
+      "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+      "topics": ["large language models", "AI research", "generative AI"]
+    },
+    {
+      "title": "The hidden network cost of going all-in on AI",
+      "summary": "An analysis of the often-overlooked networking infrastructure costs that organisations face when scaling AI workloads across their operations.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ3VzUWVKY2VUVXpWMzV3Z0lFaWQyeXRtNTBlTUVnWnk4Z290T1hBVHVWMFRsTEVJYVNUbTJHUmZKTDhWMDgwYXNpTmFwTnJKbmt1YmJmUjBsQjJQYTRPNUJacnByWVp0TGhTUEFHU2J2WUgtZk53eFEyYXJZT1M0OGUwQUZwQnVrcEVzdmNB?oc=5",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    },
+    {
+      "title": "Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler",
+      "summary": "Meta's engineering blog details how the company overhauled its ads serving infrastructure using an open-source kernel scheduler to improve efficiency and performance at scale.",
+      "url": "https://engineering.fb.com/2026/07/13/ml-applications/modernizing-the-meta-ads-service-with-an-open-source-kernel-scheduler/",
+      "topics": ["advertising", "AI infrastructure", "meta"]
+    },
+    {
+      "title": "How GenAI Can and Can't Help Manage Customer Insights",
+      "summary": "An analysis of the practical boundaries of generative AI tools when applied to processing and interpreting customer research data for business decision-making.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbkRkVHVYaUtSdVpKZkhreGJQanFYLVNnOFIxMExSVmF0aEI0a1RCa09QNWJlakJxczFHZ3lLQXp5SVNLY2RsTnZTdEJEeFJrbk5sVjF2Z05xSDRSV2F2TlFjaTJPakVXQUtsTG80VHN6NXpXM1M4ZHVVZ3dabV9zeDVHb0hHTzVyOU1QVDgwbWdpcWM?oc=5",
+      "topics": ["generative AI", "consumer research", "business"]
+    },
+    {
+      "title": "M&M's ad ban and AI marketing teams",
+      "summary": "A look at how brands including M&M's are navigating advertising restrictions while increasingly deploying AI-driven marketing teams to manage campaigns.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wcmxyQXlYbXVQOTh0bmhPYmh0c0VVcXR4LWFFLUd5MUx0Y0JxQnEtWjVNaTdhQmpoVWlvcGJPYlNIcVEzY09sSC10eG5Tdkl1MngxVUE5SEdnQkVja1VVU3BNRXJWbGNSSnNV?oc=5",
+      "topics": ["advertising", "generative AI", "business"]
+    },
+    {
+      "title": "DoubleVerify: UK consumers wary of AI content",
+      "summary": "New research from DoubleVerify finds that UK consumers express significant scepticism and concern about AI-generated content encountered in advertising and online media.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2ZDOXc1Uzczb0ZodnBRbDlfQUZnOXhudHA4NU10VGNKNHMzbVRpS2ZVOTgyLUhhaTk4MGljUGVIUnpmZzhZTThGVVdRVUtNVGJqczdMOUEwS3hBUEV4OUxBQzl1TUdYcW9hXy1lRG1IT2xVUUJjLTdrX0cxT19sdjJLYlpwN2JVN0pzeEtGbWZWSmVaNUhDdGFn?oc=5",
+      "topics": ["advertising", "consumer research", "AI ethics"]
+    },
+    {
+      "title": "The One-Step Trap (In AI Research)",
+      "summary": "A blog post from Richard Sutton's Incomplete Ideas site argues that AI research is systematically biased toward solutions that optimise single steps rather than long-horizon planning, with potentially significant consequences for the field's direction.",
+      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+      "topics": ["AI research", "large language models", "AI safety"]
+    }
+  ],
+  "ethan_mollick": null
+}
