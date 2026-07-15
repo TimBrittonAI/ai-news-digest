@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Google's Demis Hassabis says it's time for a global AI watchdog",
+      "summary": "DeepMind CEO Demis Hassabis has called for the establishment of a global AI watchdog to oversee the development and deployment of artificial intelligence. The proposal comes as AI capabilities accelerate and international governance frameworks remain fragmented. Hassabis's intervention adds significant weight to calls for coordinated international AI oversight.",
+      "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+      "topics": ["AI governance", "AI safety", "AI regulation"]
+    },
+    {
+      "title": "SpaceXAI's Grok programming tool was uploading its users' entire codebase to cloud storage",
+      "summary": "The Grok programming tool from SpaceXAI was found to be uploading users' entire codebases to cloud storage without clear disclosure, raising serious privacy and security concerns. The behaviour was discovered by users and reported by The Verge. The incident highlights risks associated with AI coding tools that require broad access to sensitive source code.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+      "topics": ["AI coding tools", "AI ethics", "technology ethics"]
+    },
+    {
+      "title": "DOGE Used AI for Housing Policy. The Government Won't Say How",
+      "summary": "The Department of Government Efficiency reportedly used AI tools to help shape federal housing policy, but officials have declined to provide details about which tools were used or how outputs informed decisions. Wired's investigation raises questions about transparency and accountability when AI is applied to consequential government policy. The case adds to growing concerns about the use of generative AI in public administration without adequate oversight.",
+      "url": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
+      "topics": ["AI governance", "generative AI", "AI ethics"]
+    },
+    {
+      "title": "OpenAI may announce a ChatGPT smart speaker this year",
+      "summary": "OpenAI is reportedly planning to announce a ChatGPT-powered smart speaker device in 2026, entering the consumer hardware market directly. The move would put OpenAI in competition with Amazon Echo and Google Nest in the AI-powered home assistant space. The announcement is said to be expected later this year.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+      "topics": ["OpenAI", "AI personal assistant", "ChatGPT"]
+    },
+    {
+      "title": "OpenAI Struggles To Monetise AI; Ad Revenue 90% Below Own Forecast",
+      "summary": "OpenAI's advertising revenue is reportedly running at around 90% below the company's own internal forecasts, highlighting significant challenges in monetising its AI products at scale. The shortfall raises questions about the sustainability of OpenAI's business model as it continues to burn through capital on compute and talent. The story adds to broader scrutiny of how AI companies will generate returns commensurate with their valuations.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTjRGVEZjOXJqcUVEdEhoU24zZ2EydHRyTURRRnlvS1YyTUFVT3RaaVplRUlDWG1mU2RKX2FoOGo3UE9UMVRzNEE3Wk1jaE5NSFhraEpuUGd5TTVWdHZNamk4c2JZaHp2TmkybDRmeldYdTl6UTZRbTdvNmUzM3ItWExYR3hXUFpKa0J3WF85SXp5MWdRSU85NGtNRkpZVEY0QlYzQnk0MDBtSnJva0HSAbYBQVVfeXFMTmRvRnJtdElFTGdJYm1XRE9EX1plX3VodjRoeGRpVVRmMjBtM3ZKdEpQLWRZYkdWRjlta2JfWXhSVjEzZklnVk9RdjUtcUZMUjNRNkE1ZG03QzFQM21jc2ZhOXJndUhzdFNSbGFlSkxzUXdKd3dxWm9mT0JER2lwV0ZXMU9TY0hFQ1djRTdWTjNYekg5amFkNy1mQ3FqdjljZjFKRDhRN3NYUEJYTEdBTklrRnM4UQ",
+      "topics": ["OpenAI", "AI industry", "advertising"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "The Download: Claude's inner workings, and the future of world models",
+      "summary": "MIT Technology Review covers new research into Anthropic's Claude, examining how the model's internal representations work and what this reveals about large language model cognition and world modelling.",
+      "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+      "topics": ["Anthropic", "large language models", "AI safety"]
+    },
+    {
+      "title": "Sam Altman didn't need another lawsuit",
+      "summary": "OpenAI and CEO Sam Altman are facing a new lawsuit related to alleged misuse of Apple trade secrets, complicating the company's path toward IPO.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+      "topics": ["OpenAI", "legal", "AI industry"]
+    },
+    {
+      "title": "New York becomes the first state to enact a data center moratorium",
+      "summary": "New York has passed legislation imposing a moratorium on new data center construction, making it the first US state to take such a step amid concerns about energy consumption and environmental impact.",
+      "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+      "topics": ["AI infrastructure", "AI regulation", "AI compute"]
+    },
+    {
+      "title": "How to manage AI investments in the agentic era",
+      "summary": "OpenAI's official blog outlines frameworks for organisations to evaluate and manage their AI investments as agentic AI systems become more prevalent in enterprise settings.",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "topics": ["OpenAI", "AI industry", "generative AI"]
+    },
+    {
+      "title": "Meta accused of using biased AI targeting for mass layoffs",
+      "summary": "Former Meta employees have filed a lawsuit alleging the company used biased AI targeting tools to select workers for mass layoffs, raising questions about algorithmic fairness in employment decisions.",
+      "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+      "topics": ["AI ethics", "bias", "layoffs"]
+    },
+    {
+      "title": "Meta accused of using biased AI targeting for mass layoffs",
+      "summary": "Former Meta employees have filed a lawsuit alleging the company used biased AI systems to select workers for redundancy, with plaintiffs claiming the process discriminated on protected grounds.",
+      "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+      "topics": ["AI ethics", "bias", "layoffs"]
+    },
+    {
+      "title": "Spotify is now an AI chatbot, too",
+      "summary": "Spotify has launched an AI chatbot interface allowing users to discover and navigate music, audiobooks, and podcasts through conversational interaction.",
+      "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+      "topics": ["AI personal assistant", "generative AI", "business"]
+    },
+    {
+      "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
+      "summary": "Wired publishes an excerpt exploring the history of the ELIZA chatbot and what its legacy reveals about human tendencies to confide in conversational AI systems, a dynamic now playing out at massive scale with ChatGPT. [Metered]",
+      "url": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
+      "topics": ["ChatGPT", "AI ethics", "large language models"]
+    },
+    {
+      "title": "Are we offloading too much of our thinking to AI?",
+      "summary": "A piece from Artfish AI examines whether increasing reliance on AI tools for cognitive tasks risks eroding human reasoning skills and independent thought.",
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "topics": ["AI ethics", "technology ethics", "generative AI"]
+    },
+    {
+      "title": "How AI agents are shaping the future of work",
+      "summary": "An overview of how AI agents are being deployed across industries to automate complex workflows and reshape the nature of professional work.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb0JsZmFKOEgtbVRiaVRUZVozblFlRUF0V1VuRGNtZ05UZlVVWGZqZ0RCNXdWM1oyRFRHQ0ZfX2dReV9VVUtvZ3JTaVdSUkE1dFFBMjBrUnFTekhMcGh6V010bUZBNFV5X0QzMDV2SzNwcU1HVUJqc2owV0d2T2FBM1lIZnBCeHZuMTF5NnN3",
+      "topics": ["AI industry", "generative AI", "business"]
+    }
+  ],
+  "ethan_mollick": null
+}
