@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Taylor & Francis expands use of AI manuscript screening with Integra",
+      "summary": "Taylor & Francis has announced an expansion of its use of AI-powered manuscript screening in partnership with Integra. The move signals growing adoption of AI tools in academic publishing workflows at one of the world's largest scholarly publishers.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMDVxbUhqclVvREQxcnJGRGdsU1p1WVUtdk5tMjJwTjhQMzNzX3VMaEpaUHpoYWZ1YzBrZ0FQZ1VJZHRFSXRLZnBBNEd5Y0JsRWNaWGIzeWVabjZyTDhNWHdNbXVvdTdCMnBXUXZSamlIQzdiWHdhV1JjY0pjUzdIVHVoTFpIR3NTWm9lS1ItZzdwRHRBNXh0Ni01Um1nMjkyMFIwYUt5QVdFUlZ3akE",
+      "topics": ["academic publishing", "AI tools", "licensing"]
+    },
+    {
+      "title": "Authors, publishers sue Google over alleged AI copyright infringement",
+      "summary": "A coalition of authors and publishers has filed a lawsuit against Google alleging that the company used copyrighted books without authorisation to train its Gemini AI model. The case is the latest in a wave of AI copyright litigation targeting major technology companies over their training data practices.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdzc3WjVyYVBkM2dreUpSMjdhWUZXZWk5V0ZYQ3BqdHNCTnp0QktVQ1U1YjR6RXgwcmwtZ1lqd1BoWWktaVJwd0Q5OWpuc0pJRjJHU1hhOEJWSG9KTnZpWWRza25abXZkZUNhZ0ZwWURNQU5aVklvTEJzTUlXRUpxUWdCU2M3djl4TmUxM19TTnZtdGI0c2E2cW5HNXNIbUM2b1ZFbWNKX2dYUjRTZmgyRVBn0gG3AUFVX3lxTFBBcVU0OEptQ2RwaHFYMF9Fa0k1aFdtSkZzV3Z3cU9fMldFMHFLNk5fR05QclRTWnZhSEg5d2phRTNCekFnb1pBWjAyRWVEeHJHb3NVdm51d3dQZVRXbXl1RW1TQ25ZM3FFaWhSOThsVTFSbnRyb0t6cENnTUZtb1UycFB4U1RDeFVyUldHaFpwQ0ZOSHJwQjJiZVlIN0J5SVVhWnVJRG1PWlIyakdjQ2pzcmNpMU5ZTQ",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "News outlets urge judge to sanction OpenAI in high-stakes AI copyright fight",
+      "summary": "News organisations involved in copyright litigation against OpenAI have asked a judge to impose sanctions on the company, escalating the legal battle over AI training data. The move reflects growing frustration among publishers over OpenAI's conduct in the proceedings.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObjRUVDVmQ1dQZHUzV281SkNZcHhRdlMwMHZLRFNzNXZVY1J5RUdQSXZiZ3p0UzdmZ1NGR3Q4d2JZazlXdGNBT213dWNVY1NOb2pSQkdGbzdLSy1yS0tGMFFOWWZZalYycHFKTmdJNGFyS3l6X25yaE9CSVNVVzFydDIyYlVGejdkRzd6aFp1ZWl6ckZBYm9UMFl1WnhBdzI4aGxtQXJaaklKM3lNQkZ6cTNUV3U",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "Supreme Court's Cox Ruling Reshapes Copyright Fight, With AI Cases Next in Line",
+      "summary": "The US Supreme Court's recent ruling in the Cox case is being closely watched for its implications for AI copyright litigation. Legal analysts say the decision could reshape how courts assess secondary liability and damages in the growing number of AI training data cases.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNzFWUFhVS2lEcXlKeXNkNVljcll3M05wcFczdVQ2WXQtTGNreUpBQVhNVGFfbjFFTnV2VURFUEtidUUzOUVIejBWeUxJU0FIQzJLMHRvUmJWTElWVVV5cXN2XzFyTmdaRDM4R2lQVkNuZ3c4ZkhSek96UmhCZjNMZWd0UnY2Z1ZUcmxfVnBmLVUwYnVDTmE1cUZYdzNMQTJjS2NLeWYxQ2x0TzA3eEE",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Australian PM Anthony Albanese commits to copyright protections in AI age",
+      "summary": "Australian Prime Minister Anthony Albanese has pledged to enact legislation protecting creators from AI companies using their work without authorisation, describing copyright as \"not up for grabs.\" The announcement also included the establishment of an Office of AI and new rules for data centres, marking one of the most comprehensive national AI policy commitments to date.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZkxhb2pVSTZjcks4bFVxRGt4NjdoZTJSeDhCYnFZQy1DajZPNHRPS0tjaDFlakdjWHhYT1E5b2duQlRnMDIwWlo3dnluZjI0X3hFU1luQXFZZHl3aDdQOWdsNjdMYjk4Y25kUHAwVWVZcEZQSlY4MERSSXE1ZU1nZ1lPaW13VWNqWVZXWXpsZGdkTnc",
+      "topics": ["AI copyright", "policy"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Copyright Cases Dominate as Regulatory and Product Liability Challenges Emerge in the Q2 2026 J.S. Held AI Disputes Monitor",
+      "summary": "The J.S. Held Q2 2026 AI Disputes Monitor finds that copyright cases continue to dominate AI-related legal disputes, while regulatory and product liability challenges are beginning to emerge as new fronts.",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOS3RtV29SRVNJV3JHb3k0ZXpOUVhYRXVxTzZNa1BPWVFnTE5TMS0yYVl3SV9DTUptaEJmRWJ2RGthWXVIT3J6Y3FCcS1rSkFNbUNkSlZDcV8xQnJLQURpaURHUFA0Rkc4Y3NxX2VxakhKb2w4cjN4S2dmOWRjeXl0bzZoUVZlOG1vekxnT2pBb3V5ZlF1eUllTXh1aXJRYXNZY0toaC1qOEJzTEJfOUJneFljMnM5V0dRTFR2ajFnT0Jkd0ZIYVFDOUphMU01T3RqUWhMMFg5UE1VblNfUWlrTnJlMWZYUWVsaTdZ",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "California Senate Votes to Advance AI Copyright Bill",
+      "summary": "The California Senate has voted to advance a bill that would establish new copyright protections related to AI, signalling state-level legislative momentum on the issue.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JRG9rT1gxc1NrUDg3NXRxMlFyamR2ZjEyVWxOeWY4TzZROWFfWGlHbWdqbjh5bTNCamxjdGdEaVFkT0lWZjh0N2NMREFnb25sM3NpcjVGbE1IejBocERiNDd0MENOZkd4c3RsVzNBV043TFZoQ0cxRldHNVl1MEE",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Artists seek 'seat at table' in AI office",
+      "summary": "Artists and creative industry representatives are calling for formal inclusion in the development of US AI policy through the Copyright Office and related bodies.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNi1lWUFlajdIXzNJQlZ2R2E2d1Zjd1hKV1BReVpqSVhPbmV6S01Kd1ZoMF9IMEJSeUxtdWlVT3Viak1DV3M2MG5yeVBvNEpaTTRkWkRoY2VTTGR4NjY3M2JtRlhJVE83bEk0QkVheGlDN04ySHhaaEVaNEx0Rmc2cDlSNEJDdUVWUmY4",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Mexico Reforms Copyright Law To Protect Against AI, Voice Cloning",
+      "summary": "Mexico has reformed its copyright law to introduce new protections against AI-generated content and voice cloning, making it one of several countries updating IP frameworks in response to generative AI.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY3NIR0hPM1ZtbXgtYk9lSzVkR0ZoWjJOVVFpZW1aMFNSZ2dxOWZmeDFSUEdkUUhlVDJvZUJpR1NkS1h4dDdpdU04NW82TWFTZEJuUm5VcUdJT2tRTGFwWkp6MjFGamlvSDg5N3JwY2ZuZlRNWlVTaGhTbVZNLUZOLXdQT0xqRXJZNzc0SFkzU3lmODVTVFpVYkNYdXZZT2t2SDB2c3FqSnJHZl9PRU4zdEFBS2dsd00",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Malaysia considers AI rules, anti-piracy measures in proposed copyright law overhaul",
+      "summary": "Malaysia is considering new AI-specific rules and anti-piracy measures as part of a broader overhaul of its copyright legislation.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaWpsVlN2UjllNmhBREw0UlZrOWlwM0pTV1NTekpoWjZPMy1Pa1lINTdaMVZCd1NUZ0Y1VzhzZlBJRzFVTVZPTEdReXNzd2x0bTVfMS1oTDJrclpMdzFxemo2NXdSenJxaWVSX1g1ZFZFRmp2OWZpYUpQMWRJeUxJajRvQ2Ntck1Qa1M0Vldic1dQVVpPVXQ3VTk0XzFnZXlqZFJOMGs2YWhJaFF2OVZaag",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Australian Gov't Commits to AI Training Protections With New Law",
+      "summary": "The Australian government has committed to legislating protections against the use of creative works for AI training without consent or compensation.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1POTVYN1M1ajFrc2hIVXk3dzJIMG5lUjg3VUxBenRaZnlrNGN3TWh2WWx5cnJmcnBUMkx3X0RlcWVMbUtfVWkyLUpWY3J3SEc1NjdxYkhBbkQ3UGQ2NWRweURWb2tTYWowQnFIWkxB",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Here's Everything Going On in AI and Music Right Now",
+      "summary": "A roundup of current developments at the intersection of AI and the music industry, covering copyright disputes, licensing negotiations, and regulatory activity.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX0dLZmVIN1IydENKYjZtMXVqZ3FScE54c1J4ZmlzN1NoQ2N5QzMtY0Q5VnFHT014WTdiTEVFQi1xN1VpM2ZlUmZlY25fSlI3aTFKNkxSaWVxaWt1UC0xUDFJcGdOX3FaVENnRTdjdlRyQ3AtOHVUWEkwQzN2dG50Q09ReEtoOWl6MTlTTk5RSQ",
+      "topics": ["AI copyright", "licensing"]
+    },
+    {
+      "title": "Hackers breached Suno, leaked source code and customer data",
+      "summary": "Hackers have breached AI music generation company Suno, leaking source code and customer data in a significant security incident affecting a company already subject to music copyright litigation.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrZHhnWEZ5RTVneUVkdGM0R25JVzdWRWtXRDNOeXhFUlEtZXhrNWZuWFZ5SmhZSjItaE91cUphZkR6OExCYjRUcE9abm9JdWpLRFZYanpYVE5KMjB3OU10b040dWVHUzlwZzYw",
+      "topics": ["AI copyright", "software"]
+    },
+    {
+      "title": "2 Laws, 1 Urgent Goal: Protecting Creativity in the Digital Era",
+      "summary": "An analysis of legislative efforts across jurisdictions aimed at protecting creators' rights in the face of AI-driven disruption to copyright frameworks.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdWJnMXFOOTd5cVVHWFRIVkIzR3ZqZ0xDdEUzR0htR0JvbHc4S2JlUEYxeFVIb1R3TFBaamVFNFBGc1hPYVVlaTg1anBSMW51V2VsX3hxOUV2MWNYYi15N1ptSVYyNlhIaFp4LWZTY29uSk55T2ttcUFsUThpMmRuLTlYZEZiWHliZzlVYkFuRDhZNGlNX2toNVlzM0VCMVhjQXYxbk5MR0s4ZFhWQnc",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Slow Food, Slow Publishing: The Beauty of Not Being First",
+      "summary": "Robert Harington reflects on the culture of speed in scholarly publishing and makes a case for slower, more deliberate approaches to academic communication.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/07/15/robert-harington-reflects-on-our-addiction-to-speed-and-advocates-for-slow-scholarly-publishing-and-the-inherent-beauty-of-not-always-being-first/",
+      "topics": ["academic publishing", "book publishing"]
+    }
+  ]
+}
