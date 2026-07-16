@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "summary": "OpenAI has published details on GPT-Red, a specialised LLM it built to act as a 'super hacker' adversary against its own models, designed to find safety vulnerabilities and enable self-improvement. The system is part of OpenAI's broader effort to automate AI safety testing. A companion MIT Technology Review article provides additional context on how the tool works in practice.",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "topics": ["AI safety", "OpenAI", "large language models"]
+    },
+    {
+      "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss [Metered]",
+      "summary": "A group of OpenAI employees are reportedly donating to a rival super PAC that opposes the political positions of OpenAI's leadership, including on AI governance and regulation. The move highlights growing internal tensions at the company over its direction and public policy stances. The story raises questions about employee dissent within one of the world's most prominent AI organisations.",
+      "url": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
+      "topics": ["OpenAI", "AI governance", "AI industry"]
+    },
+    {
+      "title": "The US is advancing AI safety through state and federal action",
+      "summary": "OpenAI has published a policy blog post outlining how US state and federal efforts are advancing AI safety frameworks, signalling the company's engagement with regulatory processes. The post highlights specific legislative and executive actions OpenAI views as meaningful progress. It reflects the company's ongoing effort to shape AI regulation in the United States.",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "topics": ["AI safety", "AI regulation", "OpenAI"]
+    },
+    {
+      "title": "Thinking Machines Lab Drops Its First Model [Metered]",
+      "summary": "Thinking Machines Lab, a new AI research company, has released its first model, called Inkling. The release marks the lab's public debut as a player in the generative AI space. Wired reports on the model's capabilities and the team behind the organisation.",
+      "url": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
+      "topics": ["generative AI", "large language models", "AI industry"]
+    },
+    {
+      "title": "Why Annual Reviews bought Underline Science",
+      "summary": "Annual Reviews has acquired Underline Science, a platform for academic conference video and content, in a move that signals growing interest in digital infrastructure for scholarly publishing. The acquisition has implications for how academic research and conference proceedings are distributed and discovered. The deal reflects broader shifts in the academic publishing landscape, including the role of AI-driven content tools.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQnFqR25QZ01sUElFNXlfOGh3NjE5QjFka0NJOFBtdmxaTHJqR2V6aFlLZlFyU05XdXprbDZjSXdmUnFJOW9tUmFGaFZzUW1wOFdfN2g3eWZaejB3UkhCUmVaVkdsa2pjcXd5c3FwS1NOZG1Db25qcGpPcmIwZkJGXzFST0tyMkh0WERadVVhRElhQXlVb1R2UjY3THZmaTg",
+      "topics": ["academic publishing", "research integrity", "AI industry"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer [Metered]",
+      "summary": "MIT Technology Review provides additional reporting on OpenAI's GPT-Red system, detailing how the adversarial LLM is used to stress-test and improve the safety of OpenAI's deployed models.",
+      "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "topics": ["AI safety", "OpenAI", "large language models"]
+    },
+    {
+      "title": "xAI sues a man for using Grok to generate CSAM 'deepfakes'",
+      "summary": "xAI has filed a lawsuit against a user who allegedly used its Grok AI model to generate child sexual abuse material, marking a significant legal action over AI-generated harmful content.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "topics": ["AI ethics", "generative AI", "legal"]
+    },
+    {
+      "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
+      "summary": "A report reveals that AI music startup Suno scraped millions of songs from major platforms including YouTube, Genius, and Deezer to train its generative music models, raising significant copyright and fair use questions.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+      "topics": ["generative AI", "copyright", "AI ethics"]
+    },
+    {
+      "title": "OpenAI finally launches hardware… for Codex",
+      "summary": "OpenAI has launched a dedicated hardware device, the Codex Micro, designed specifically to support its Codex AI coding tools, marking the company's first move into physical AI hardware products.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+      "topics": ["OpenAI", "AI coding tools", "AI infrastructure"]
+    },
+    {
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem",
+      "summary": "VentureBeat reports that most enterprises are mislabelling chatbots as AI agents, and that the core challenge in enterprise AI is deployment and orchestration rather than the underlying platform technology.",
+      "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "topics": ["generative AI", "AI industry", "chatbots"]
+    },
+    {
+      "title": "AI Isn't Smarter Than a Baby—Yet [Metered]",
+      "summary": "Wired examines new research comparing the cognitive capabilities of current AI systems with those of human infants, concluding that despite impressive benchmarks, AI still falls short of basic infant-level reasoning and understanding.",
+      "url": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
+      "topics": ["AI research", "large language models", "AI ethics"]
+    },
+    {
+      "title": "Exploring Hierarchical Interest Representation For Meta Ads Deep Funnel Optimization",
+      "summary": "Meta's engineering blog details a new AI technique for improving ad targeting by building hierarchical representations of user interests, aimed at optimising deep-funnel advertising performance.",
+      "url": "https://engineering.fb.com/2026/07/15/ai-research/exploring-hierarchical-interest-representation-for-meta-ads-deep-funnel-optimization/",
+      "topics": ["advertising", "generative AI", "AI research"]
+    },
+    {
+      "title": "Bloomsbury Finds a New Spell in AI Licensing",
+      "summary": "Bloomsbury Publishing is reported to be exploring AI licensing arrangements for its content, reflecting a growing trend among publishers seeking commercial deals with AI companies over training data use.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOREpzeWYtdG5KYmNYeU5oLVNVdF9sZnJWN3BkbkkwRV9HcmpDajgyYlBXZzc3dlVWUFpIdmRtcWlNR0dCazJQUVhDNF9HMVc4NUNhRi04bnltay0zMzZja0tnOWhQTWYyeXR0WWZub25rd2hqVGJmZnhDeWRmSHA1U20tRERjZEZpVlluQVBPQVhSVmdFbkVmandyUVMtSk94",
+      "topics": ["academic publishing", "copyright", "AI industry"]
+    },
+    {
+      "title": "My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell [Metered]",
+      "summary": "Wired recounts a first-person experience of being trapped in automated customer service chatbot loops, illustrating the real-world frustrations consumers face when AI systems fail to resolve practical problems.",
+      "url": "https://www.wired.com/story/ebike-delivery-missing-when-i-tried-to-recover-it-i-ended-up-in-chatbot-hell/",
+      "topics": ["chatbots", "AI ethics", "user interaction"]
+    },
+    {
+      "title": "An Inventor of Apple's FaceID Wants to Analyze Your Brain's Health With AI [Metered]",
+      "summary": "A co-inventor of Apple's Face ID technology is building an AI-powered system designed to assess brain health, using sensors and machine learning to detect neurological conditions.",
+      "url": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
+      "topics": ["AI research", "mental health", "generative AI"]
+    }
+  ],
+  "ethan_mollick": null
+}
