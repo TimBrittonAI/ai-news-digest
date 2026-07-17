@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Hachette, Cengage and Elsevier Sue Google Over Gemini AI Training",
+      "summary": "Major publishers including Hachette, Cengage, and Elsevier have filed a copyright infringement lawsuit against Google, alleging the company used books and articles without permission to train its Gemini AI model. The suit marks a significant escalation in the AI copyright war between publishers and technology companies. Multiple news outlets have confirmed the filing.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlp1Q0psWU9RSS1JUGlMaERBTWhrMnZNRG9UV1ZFUU5MR2RMdlNIaXNwOG5jc2JYN2prbWE1a20tRGhxbThNR0NDTUo5VEE5YkE4X3pTUkFJTlNXanBYMFB6aW1nS1VSS2gxVEl1OF93Z2g2ajJRUUZaQm9xMzdtWUJZS1Vfb3dDWWgtdjdZMHN3WlV1NWpoSWc2Vy1RSHM",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "Australia Rejects AI Copyright Carve-Out: PM Calls Unlicensed Training Theft",
+      "summary": "Australia's Prime Minister has publicly rejected any AI copyright exemption, describing unlicensed use of creative works for AI training as theft. The announcement forms part of Australia's newly unveiled national AI framework, which includes commitments to legislate protections for copyright holders against AI training use.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdDdOdHpuV3VkeGh5eUlRRHBYaTlwWU12WmNuWUt6VGZ1TjQ4TTVEMDExOXZUWkdBVmM1cFBWM19XVktUZnVZak9jb2FiclBLT1ZXaGV5Z2d5R0ZEaW9qQVc5SXd5am0wRUk0WkpyYXhHQXo1YzI4ZER5UDNaV0ZOT3ZNR1JRMUJGeGVVQ0ItN0hpT0JxUEVqVWJaa1lyRVVJYW82Z0tXbnBqMUh4Yy1CV1FFMVVSTjFtZjFxM255ZndiNWRCTlZNcmpn",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Supreme Court's Cox Ruling Reshapes Copyright Fight, With AI Cases Next in Line",
+      "summary": "The US Supreme Court's ruling in the Cox case is being closely watched for its implications on AI copyright litigation, with legal observers noting it could reshape how contributory and secondary copyright liability is assessed in pending AI cases. The decision is expected to influence how courts handle claims against AI developers over training data.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNzFWUFhVS2lEcXlKeXNkNVljcll3M05wcFczdVQ2WXQtTGNreUpBQVhNVGFfbjFFTnV2VURFUEtidUUzOUVIejBWeUxJU0FIQzJLMHRvUmJWTElWVVV5cXN2XzFyTmdaRDM4R2lQVkNuZ3c4ZkhSek96UmhCZjNMZWd0UnY2Z1ZUcmxfVnBmLVUwYnVDTmE1cUZYdzNMQTJjS2NLeWYxQ2x0TzA3eEE",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "News Outlets Urge Judge to Sanction OpenAI in High-Stakes AI Copyright Fight",
+      "summary": "A coalition of news publishers has asked a court to sanction OpenAI in an ongoing copyright infringement case, alleging misconduct in the litigation. The move intensifies what has become one of the most closely watched AI copyright disputes in the US courts.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObjRUVDVmQ1dQZHUzV281SkNZcHhRdlMwMHZLRFNzNXZVY1J5RUdQSXZiZ3p0UzdmZ1NGR3Q0d2JZazlXdGNBT213dWNVY1NOb2pSQkdGbzdLSy1yS0tGMFFOWWZZalYycHFKTmdJNGFyS3l6X25yaE9CSVNVVzFydDIyYlVGejdkRzd6aFp1ZWl6ckZBYm9UMFl1WnhBdzI4aGxtQXJaaklKM3lNQkZ6cTNUV3U",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "AI Music Startup Suno's Source Code Leak Reveals Unauthorized YouTube Scraping, Intensifying Copyright Battle",
+      "summary": "A hack of AI music startup Suno resulted in leaked source code and customer data, with the breach revealing alleged unauthorized scraping of YouTube content for AI training. The disclosure intensifies the existing copyright battle surrounding Suno and raises new questions about the provenance of its training data.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85WVlNZDkwYndDbTNrTUQ5SHV1bmw2MnkwRzRxQ2ozdTlFM19xQXNPcm1OSVNQNTZlSDFzYm02TDdNZWlYZ2xiUTIzakZDNnpTNWVoQ3FlVGZZazdhTF94R0kwSnlubW5oNjVUZVR1emlsY1FOMXc",
+      "topics": ["AI copyright", "litigation"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Australia's National AI Framework: Copyright, Standards, and a New Office of AI",
+      "summary": "Australia has announced a world-first national AI framework covering copyright protections, data centre standards, and the establishment of a new Office of AI.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNk8zcG9tOXhaaUVvWHprVjB6RDRfaGh0SFdWZnhacFl6S3RNYmhJQ0tYVTJuOTRfM0swT0xpQjVIM0gyVVBHMG1iWW5JSjBHNGlTWTl0akk1X0dSZlhLRVV2VlpMWXQtLTEteXNUeGlkck9DNTVabjNpb3hZYjM5UWt2QnBPdGZkczhScHJWdVRRZWlxQTFSTHU2REMxcTVQVTFub29CbFZlTUUwZjVsMWRfYVVIdGMxSEE",
+      "topics": ["policy", "AI copyright", "licensing"]
+    },
+    {
+      "title": "Copyright Cases Dominate as Regulatory and Product Liability Challenges Emerge in the Q2 2026 J.S. Held AI Disputes Monitor",
+      "summary": "The Q2 2026 J.S. Held AI Disputes Monitor reports that copyright cases continue to dominate AI-related legal disputes, with regulatory and product liability challenges also emerging as significant areas.",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQa1p0T0FkT21McU1jUTlqSUhFV2ZoYXZ5VVppMWk0QVo5b25wUmRqMkkxa0hlYVdUcmpnZ3pYNDlBZUhzNEs4cTh4VE5oZXNPdUVfbmt4YTZNNFRHdDJWZG91RXMxN1N6U1pkUkZDX0lNRUJkdUNnUy1UUlkycnRGX1JHSFhybU1LNHI1bEgxX2pGc0tWZFZBekZvNlFMT3k2Z2h3QlV1XzFsSVVVVU15ZTE0SkpzZDF5aV9WeVpSLTk1RHF5RUY0bWZLTjk5NFQ2ZThyMU1xSThVdlBBdS1ZZFJjaw",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Midjourney Challenges Film Studios Over Internal AI Exploitation",
+      "summary": "AI image generator Midjourney has counter-challenged film studios in a copyright dispute, alleging that the studios themselves have been exploiting AI tools internally in ways that complicate their infringement claims.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSFkySTJSelVWZVFEOTR2OFNjT09INUtvd0hJeVp6bXNiNmg0Zmkya1lUX0VNNld4ZV9XSkl5UUU1WXhmcURpUVZtUnNIcFVVdGRjWmVtQU5uS1AtMnBYWDBsZ3B2M1ZUNHcydDV4N1ZaOVdCRWt6RGtiUXktRjRwb3IzcHpfbGlBNEEwb3V1dF9NMDljWDd6Y2VCbGxkUzBPcmtzRW9MUWVMXzlkaTY0elhGemUzTGRGVjJLUS1vVzVscVlicTlFMDFJUzVlNjluYkYtWC1tMjNOSC1CWVcw",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "California Senate Votes to Advance AI Copyright Bill",
+      "summary": "The California Senate has voted to advance a bill that would establish copyright protections relating to AI-generated and AI-trained content.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JRG9rT1gxc1NrUDg3NXRxMlFyamR2ZjEyVWxOeWY4TzZROWFfWGlHbWdqbjh5bTNCamxjdGdEaVFkT0lWZjh0N2NMREFnb25sM3NpcjVGbE1IejBocERiNDd0MENOZkd4c3RsVzNBV043TFZoQ0cxRldHNVl1MEE",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Mexico Reforms Copyright Law To Protect Against AI, Voice Cloning",
+      "summary": "Mexico has enacted reforms to its copyright law specifically targeting AI-related risks including voice cloning and unauthorised use of creative works in AI systems.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY3NIR0hPM1ZtbXgtYk9lSzVkR0ZoWjJOVVFpZW1aMFNSZ2dxOWZmeDFSUEdkUUhlVDJvZUJpR1NkS1h4dDdpdU04NW82TWFTZEJuUm5VcUdJT2tRTGFwWkp6MjFGamlvSDg5N3JwY2ZuZlRNWlVTaGhTbVZNLUZOLXdQT0xqRXJZNzc0SFkzU3lmODVTVFpVYkNYdXZZT2t2SDB2c3FqSnJHZl9PRU4zdEFBS2dsd00",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Malaysia Considers AI Rules, Anti-Piracy Measures in Proposed Copyright Law Overhaul",
+      "summary": "Malaysia is considering introducing AI-specific rules and strengthened anti-piracy measures as part of a broader overhaul of its copyright legislation.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaWpsVlN2UjllNmhBREw0UlZrOWlwM0pTV1NTekpoWjZPMy1Pa1lINTdaMVZCd1NUZ0Y1VzhzZlBJRzFVTVZPTEdReXNzd2x0bTVfMS1oTDJrclpMdzFxemo2NXdSenJxaWVSX1g1ZFZFRmp2OWZpYUpQMWRJeUxJajRvQ0NtRk1Qa1M0Vldic1dQVVpPVXQ3VTk0XzFnZXlqZFJOMGs2YWhJaFF2OVZaag",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "OpenAI Fails to Trademark Name in EU",
+      "summary": "OpenAI has been unsuccessful in its attempt to register its name as a trademark in the European Union, with regulators ruling the term too descriptive.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xR3JjUXlMbzJhUGhLM0RrTzlpM18zdS1ULTdhRGJYY19EbmxlclFoUGRwMl9CczhYelYycnViUm9xbVZsVTUwRFFxYVFnM0owa0NTNjF6VlVZcDdIZDN6SW5vRnVGcXNKQ1EwMklB",
+      "topics": ["AI copyright", "eu law"]
+    },
+    {
+      "title": "Australia's (Conflicting) National AI Interests: Water, Data Centres and Creativity",
+      "summary": "IPKat analyses the tensions within Australia's national AI framework, examining how competing priorities around data centre infrastructure, water usage, and creative industry protections create conflicting policy pressures.",
+      "url": "http://ipkitten.blogspot.com/2026/07/australias-conflicting-national-ai.html",
+      "topics": ["policy", "AI copyright"]
+    },
+    {
+      "title": "Who Owns an AI Generated Song? What We Can Learn From the Phonograph and the Evolution of Copyright Laws",
+      "summary": "An analysis drawing parallels between the legal challenges posed by the phonograph in the early 20th century and current debates over ownership and copyright in AI-generated music.",
+      "url": "https://news.google.com/rss/articles/CBMi1AVBVV95cUxOUnVWOHJuQUFwN2lFekZETkMwSkZUdUdfNkJwa2tvN3dZZWw4QVlUcVhid2NSZjZaVzNmREtZb09wR3I0eHBSOUVGYnVCdEltb0xHOG42b1ZtcEZIdUltTm9HV1BsQkc3M0NXa1dGZnJPVW5rcV9KdDJzTU1EWTQzbjNKdFNBTnY1MEMtdUlvNWxIRHI0OTZqSUgtS0JDb1pjOS1TZWdFRXBsMnlDX2FaektfdThKcU9kUDhEdi1vWDlRRkRORDVBeWFLRkJjUmwxMkxMdg",
+      "topics": ["AI copyright", "licensing"]
+    },
+    {
+      "title": "Here's Everything Going On in AI and Music Right Now",
+      "summary": "A roundup of the major ongoing developments at the intersection of AI and the music industry, covering copyright disputes, licensing negotiations, and emerging regulatory responses.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX0dLZmVIN1IydENKYjZtMXVqZ3FScE54c1J4ZmlzN1NoQ2N5QzMtY0Q5VnFHT014WTdiTEVFQi1xN1VpM2ZlUmZlY25fSlI3aTFKNkxSaWVxaWt1UC0xUDFJcGdOX3FaVENnRTdjdlRyQ3AtOHVUWEkwQzN2dG50Q09ReEtoOWl6MTlTTk5RSQ",
+      "topics": ["AI copyright", "licensing"]
+    }
+  ]
+}
