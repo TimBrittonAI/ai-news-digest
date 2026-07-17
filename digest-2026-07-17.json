@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Here's Why Anthropic Is Pushing States to Regulate AI Faster [Metered]",
+      "summary": "Anthropic is actively lobbying US state governments to move quickly on AI regulation, positioning itself as a proponent of faster legislative action. The company argues that state-level rules can fill the gap left by slow federal progress on AI governance. The move is notable given that many tech companies have lobbied against AI regulation.",
+      "url": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
+      "topics": ["AI regulation", "AI governance", "Anthropic"]
+    },
+    {
+      "title": "Why teens deserve access to safe AI",
+      "summary": "OpenAI has published a policy post arguing that teenagers deserve access to safe AI tools, outlining its approach to making ChatGPT and other products appropriate for younger users. The post addresses parental controls, age-appropriate content restrictions, and the broader case for not excluding teens from AI access. It signals OpenAI's intent to expand its user base to younger demographics responsibly.",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "topics": ["OpenAI", "AI safety", "AI ethics"]
+    },
+    {
+      "title": "Generative AI Is an Engineering Disaster",
+      "summary": "The Atlantic publishes a critical examination of generative AI's integration into software engineering, arguing that the technology introduces significant reliability and quality problems in production systems. The piece details how AI-generated code and tooling creates new categories of engineering failure. It presents a counterpoint to the dominant narrative of AI as an unambiguous productivity booster for developers.",
+      "url": "https://www.theatlantic.com/technology/2026/07/generative-ai-engineering-disaster/687901/",
+      "topics": ["generative AI", "AI ethics", "technology ethics"]
+    },
+    {
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "summary": "VentureBeat reports that enterprises are acquiring AI compute infrastructure at a pace that outstrips their ability to track and measure costs, creating significant financial governance risks. Many organisations lack the tooling to attribute AI infrastructure spending to specific business outcomes. The gap between deployment speed and cost visibility is emerging as a major operational challenge.",
+      "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "topics": ["AI compute", "AI infrastructure", "AI industry"]
+    },
+    {
+      "title": "Google DeepMind outlines its approach to bioresilience",
+      "summary": "Google DeepMind has published a post detailing its approach to bioresilience, explaining how it thinks about the risks of AI being misused in biological contexts and what safeguards it is building. The post addresses both offensive biosecurity threats and the role AI can play in defensive applications. It represents a rare public disclosure from a frontier lab on this sensitive area of AI safety.",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "topics": ["AI safety", "AI ethics", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Claude can now use your 1Password credentials for you",
+      "summary": "Anthropic's Claude has been integrated with 1Password, allowing the AI assistant to autonomously use stored credentials to log into services on a user's behalf via browser automation.",
+      "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "topics": ["Anthropic", "AI personal assistant", "large language models"]
+    },
+    {
+      "title": "Google is renaming NotebookLM to Gemini Notebook",
+      "summary": "Google is rebranding its popular NotebookLM research tool as Gemini Notebook, bringing it under the unified Gemini product family.",
+      "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+      "topics": ["Google", "generative AI", "AI tools"]
+    },
+    {
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "summary": "LM Studio has launched Bionic, a new AI agent layer built on top of open-source models that enables agentic workflows for local model deployments.",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "topics": ["large language models", "generative AI", "AI coding tools"]
+    },
+    {
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "summary": "A VentureBeat report finds that more than half of enterprises have already experienced a security incident involving AI agents, yet most organisations continue to allow agents to share credentials across systems.",
+      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "topics": ["AI safety", "AI industry", "generative AI"]
+    },
+    {
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US [Metered]",
+      "summary": "MIT Technology Review's daily briefing covers OpenAI's announcement of GPT-Red, a new model variant, alongside other technology news.",
+      "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "topics": ["OpenAI", "large language models", "AI industry"]
+    },
+    {
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "summary": "The EU has ordered Google to give rival services interoperability access to Android and Search under the Digital Markets Act, a significant regulatory intervention with implications for AI search competition.",
+      "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "topics": ["AI regulation", "Google", "AI search"]
+    },
+    {
+      "title": "New York governor says she's using AI to analyze 'every single rule' in the state",
+      "summary": "New York Governor Kathy Hochul has announced she is using AI tools to review all state regulations, positioning AI as a tool for government efficiency and deregulation.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "topics": ["AI governance", "AI regulation", "generative AI"]
+    },
+    {
+      "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
+      "summary": "A German AI consortium has released Soofi S, a 30-billion-parameter open model that claims top benchmark performance in both English and German, advancing multilingual open-source AI.",
+      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
+      "topics": ["large language models", "generative AI", "language translation"]
+    },
+    {
+      "title": "Please Stop Making Me Opt Out of AI [Metered]",
+      "summary": "Wired publishes a consumer-facing critique of the growing trend of products defaulting users into AI features without meaningful consent, arguing for opt-in design as an ethical standard.",
+      "url": "https://www.wired.com/story/please-stop-making-me-opt-out-of-ai/",
+      "topics": ["AI ethics", "technology ethics", "content policy"]
+    },
+    {
+      "title": "Computer cops",
+      "summary": "The Verge examines the expanding use of AI tools in policing, covering both the capabilities being deployed and the civil liberties concerns they raise.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
+      "topics": ["AI ethics", "AI regulation", "technology ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
