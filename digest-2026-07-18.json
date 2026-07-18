@@ -1,0 +1,85 @@
+{
+  "top_stories": [
+    {
+      "title": "A scorecard for the AI age",
+      "summary": "OpenAI has published a scorecard outlining its framework for evaluating progress and accountability in the AI age. The post sets out metrics and principles OpenAI believes should guide how AI development is assessed across safety, capability, and societal impact.",
+      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "topics": ["OpenAI", "AI safety", "AI governance"]
+    },
+    {
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "summary": "VentureBeat reports that enterprise AI deployments are struggling less with retrieval accuracy and more with whether employees and stakeholders trust AI-generated outputs. Most organisations are still in the process of building the systems and culture needed to close this gap.",
+      "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "topics": ["AI industry", "generative AI", "AI ethics"]
+    },
+    {
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+      "summary": "A companion VentureBeat analysis finds that enterprise teams deploying AI agents are shipping to production despite lacking robust evaluation frameworks, creating a gap between tested behaviour and real-world performance. The piece argues the core issue is aligning agent outputs with business reality, not simply expanding test coverage.",
+      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "topics": ["AI industry", "generative AI", "AI safety"]
+    },
+    {
+      "title": "Everybody's Weirded Out by AI–Except the People Who Foist It on Us",
+      "summary": "The New Republic examines the disconnect between widespread public unease about AI and the enthusiasm of corporate and tech leaders deploying it. The piece argues that those making decisions about AI adoption are largely insulated from its negative effects on workers and consumers.",
+      "url": "https://newrepublic.com/article/213004/everybody-weirded-ai-except-people-foist-us",
+      "topics": ["AI ethics", "technology ethics", "AI industry"]
+    },
+    {
+      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+      "summary": "Nurses at Kaiser Permanente report that AI-driven workplace monitoring tools are increasing stress and negatively affecting patient care, according to Local News Matters. The nurses describe surveillance systems that track their movements and flag deviations from expected workflows, leaving less time for direct patient interaction.",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "topics": ["AI ethics", "generative AI", "technology ethics"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "TikTok is testing an AI likeness detection tool",
+      "summary": "TikTok is developing a tool to detect when AI has been used to replicate a person's likeness in videos, part of broader efforts to address synthetic media on the platform.",
+      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "topics": ["AI detection", "content policy", "TikTok"]
+    },
+    {
+      "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis [Metered]",
+      "summary": "Wired's podcast and article covers Apple's lawsuit against OpenAI and New York State's moves to place a moratorium on new data centre construction amid energy concerns.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+      "topics": ["OpenAI", "AI infrastructure", "legal"]
+    },
+    {
+      "title": "San Francisco Demands Apple and Google Delete AI 'Nudify' Apps From App Stores [Metered]",
+      "summary": "San Francisco city officials are calling on Apple and Google to remove AI-powered apps that generate non-consensual nude images from their app stores.",
+      "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+      "topics": ["AI regulation", "content policy", "AI ethics"]
+    },
+    {
+      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+      "summary": "Ars Technica reports that energy companies are increasingly going public as investors seek exposure to the surging power demand driven by AI data centre expansion.",
+      "url": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    },
+    {
+      "title": "VulnHunter: Capital One's agentic AI code security tool",
+      "summary": "Capital One has open-sourced VulnHunter, an agentic AI tool designed to automatically identify security vulnerabilities in codebases.",
+      "url": "https://www.capitalone.com/tech/open-source/announcing-vulnhunter/",
+      "topics": ["AI coding tools", "generative AI", "AI industry"]
+    },
+    {
+      "title": "The state of open source AI",
+      "summary": "A comprehensive overview of the current landscape of open source AI models, tooling, and governance, examining where open approaches are gaining or losing ground relative to proprietary systems.",
+      "url": "https://stateofopensource.ai/",
+      "topics": ["AI industry", "large language models", "AI governance"]
+    },
+    {
+      "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War [Metered]",
+      "summary": "Wired reports that a humanoid robotics company with financial backing from Eric Trump is developing its robots for potential military applications.",
+      "url": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
+      "topics": ["AI industry", "defense", "generative AI"]
+    },
+    {
+      "title": "The Download: perimenopause misinformation and China's latest AI leap [Metered]",
+      "summary": "MIT Technology Review's daily briefing includes coverage of China's latest advances in AI, with Moonshot AI releasing a significant new model update.",
+      "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+      "topics": ["large language models", "AI industry", "generative AI"]
+    }
+  ],
+  "ethan_mollick": null
+}
