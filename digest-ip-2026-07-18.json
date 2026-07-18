@@ -1,0 +1,78 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Suno Hack Reveals AI Music Training Data Scraped from YouTube, Deezer and Genius — Potentially Strengthening UMG and Sony's Legal Case",
+      "summary": "Hacked source code from AI music app Suno reveals the company scraped copyrighted audio from YouTube, Deezer, and Genius to train its models without permission. The disclosure is seen as potentially strengthening existing legal cases brought by Universal Music Group and Sony against Suno. The findings shed direct light on the provenance of training data at the centre of major music copyright litigation.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWXB6Y1NOU1dZanZDV1E4X19Xem8tQmxEV0ZYWlI0NkpNLVlwc0ZlX3o1UkZoMUk2T19tLTNoaE1URGVUeWp4SlVEWFJHanFtWnlFWVZKeEpPTm83TS15clNobkduSnN1Q3U2NkwyX1ZkTW1nai0yTHV2bXNNSUl5aEo1QWxSV3pJUnlzQVp0SnRXaGI0aWRVVzlaQVNlYks3SVl1dkZxbk9QY3VSUWpOMko3Ujg",
+      "topics": ["AI copyright", "litigation", "music rights"]
+    },
+    {
+      "title": "Publishers Sue Google Over Gemini Training as AI Copyright War Explodes",
+      "summary": "Publishers have filed suit against Google alleging that the Gemini AI model was trained on copyrighted content without authorisation. The case is part of a broader escalation of AI copyright litigation targeting major tech companies. It follows a pattern of similar suits from authors, news organisations, and other rights holders.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa0g1SDN1TjQ2MlRFMzVGMmZzd3RENHh5anBUNFJ0U0lfeG9WVG1fanQ0b1RUWDNhcThJYVdMdzIzMHJQY001TDlOWDRPOW9ycHlYM1hXcDkydzktQVpFMW9yLW1xTGc5T2tNVXdPRFBiQUh2VW1sckk5a3hWVXc0ZzUxd3Z0NFBTekQyVjRTS3BiaFUzNXlNU3UyN3pfdS1vTkZEU1hR",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "Big Tech Companies Facing New Wave of Lawsuits Over Copyright and AI",
+      "summary": "A new wave of copyright lawsuits is being filed against major technology companies over their use of protected content to train AI systems. The suits span multiple content categories including text, images, and music. Legal observers note the growing scale and coordination of rights-holder claims against the AI industry.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcjBtNEgtaXMwdUMwZzlCWS1CZThKMTdUUEs4TlFiRXB5bEx0NHYzNmVpTzhXcUp1MmRMRFpTXzdaWEVRRUE2MmYtNEp1NEkxeW4xQmxvZm9lSldqTjFKa0tMMjRrem9zNEQtSFYwLVFUZ3cxbjlFVWwyTmxTNDNlYmRJU1U2R1lpZDRnUHRUcjhZaHhKbkhSajUta0pTdDJnNHNPYnhYZk1JWVlM",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Australia Rejects AI Copyright Carve-Out: PM Calls Unlicensed Training Theft",
+      "summary": "Australia's Prime Minister has publicly opposed any copyright exception that would allow AI companies to train on creative works without permission, describing such use as theft. The government has announced a world-first AI framework requiring artists to retain control over their work. A minister separately acknowledged that big tech firms have been using Australian content without artists' permission, calling the practice unethical.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdDdOdHpuV3VkeGh5eUlRRHBYaTlwWU12WmNuWUt6VGZ1TjQ4TTVEMDExOXZUWkdBVmM1cFBWM19XVktUZnVZak9jb2FiclBLT1ZXaGV5Z2d5R0ZEaW9qQVc5SXd5am0wRUk0WkpyYXhHQXo1YzI4ZER5UDNaV0ZOT3ZNR1JRMUJGeGVVQ0ItN0hpT0JxUEVqVWJaa1lyRVVJYW82Z0tXbnBqMUh4Yy1CV1FFMVVSTjFtZjFxM255ZndiNWRCTlZNcmpn",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Indonesia's AI Copyright Bill Threatens Google, Meta with Permit Revocation Over Content Fees",
+      "summary": "Indonesia is proposing sweeping changes to its copyright law that would require AI platforms and tech giants such as Google and Meta to pay fees for using local creators' content in AI training, with permit revocation as a potential sanction for non-compliance. The legislation is part of a broader effort to protect Indonesian creators from unlicensed AI data scraping. Multiple sources confirm the proposals are at an advanced legislative stage.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PblNtbDJCNUY4QmJrdEc1NEpEeTJTNm5QVzdncFZQbG5OTkh3SlNYdVpIemhMMUxSaWE5clBDVVBwRkZDaFRpWkRpMFQzYjlMNTdIQldhLUM0Xzg4aHVjQXdFUkhJekpFQURjMVRtTGpZV0E3dEE",
+      "topics": ["AI copyright", "licensing", "policy"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Big Tech's AI Copyright Woes Spur New Wave of Shareholder Suits",
+      "summary": "Shareholders are now filing suits against tech companies over the legal and financial risks posed by AI copyright infringement claims, adding a new dimension to the broader wave of AI copyright litigation.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMGdaRnN0eTM2SGg4R2x3aGhxaTN0U0pET3RmYlJTaDVvZ1VRRS1OUWFnMnk2VGNvVVRFdmZvZDBaZ3ZIejg1M0FlNmhGNzEtTmQxOVMtUVAyNkYwc0lvUGt0WU9aLVQ2empsbUdMeXd6SjBtQ2FjNnc3ZmNVbFV5SjV0MXBweDI5Zl9LTkNsZzUtZjktWXRmYW5jdVZLc3V5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Copyright Cases Dominate as Regulatory and Product Liability Challenges Emerge in the Q2 2026 J.S. Held AI Disputes Monitor",
+      "summary": "The Q2 2026 AI Disputes Monitor from J.S. Held finds that copyright cases continue to dominate AI-related legal disputes, with regulatory and product liability challenges also beginning to emerge.",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQa1p0T0FkT21McU1jUTlqSUhFV2ZoYXZ5VVppMWk4QVo5b25wUmRqMkkxa0hlYVdUcmpnZ3pYNDlBZUhzNEs4cTh4VE5oZXNPdUVfbmt4YTZNNFRHdDJWZG91RXMxN1N6U1pkUkZDX0lNRUJkdUNnUy1UUlkycnRGX1JHSFhybU1LNHI1bEgxX2pGc0tWZFZBekZvNlFMT3k2Z2h3QlV1XzFsSVVVVU15ZTE0SkpzZDF5aV9WeVpSLTk1RHF5RUY4bWZLTjk5NFQ2ZThyMU1xSThVdlBBdS1ZZFJjaw",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Copyright Law Wasn't Built for the AI Era. We Need 'Learnright.'",
+      "summary": "A commentary piece argues that existing copyright frameworks are inadequate for the AI training context and proposes a new legal concept — 'learnright' — to govern how AI systems can use protected works.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQnFNS1dWRkNrVUhWckkzZXRYQllGNGd6NUtUcHEwSFFhVVZmcEZRdGxKWUlSZHVkMHEtWktSQlN5dVpGRThkNEtUd1BsVUVfX0dadHhMRjFxSW9oSm9fR3R3RzFnWEpQdms0ZG1vcWx0NnotZUNRQWxUWUJVMll4T1JUZDd2aUp3TjhRQm9VeDgzdFk",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Hugh Stephens: AI Issues Should Be Resolved Through Legislation, Not Litigation",
+      "summary": "Copyright commentator Hugh Stephens argues that the proliferation of AI copyright lawsuits is an inefficient way to resolve systemic issues, and that legislative solutions would produce clearer and more equitable outcomes for creators and AI developers alike.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObjR1SmQyZnRNY1hDYXd1SGdITHpNUkRqWGk2NE5YYl9IOUYwbTVtbzJHc3loak5OWWJWZTl1MDU5UnNTTURjanlfeUJEMHU3eHpWTE14QktNTDBGV1lxNmJYeFVEbU5ma1ZHbUtmdVpENy1vYnRXSm1HOEFkUXhyQjcxdThJS1VnMVpPSjM0cnlwS2VHRjlUTlI4OHc",
+      "topics": ["AI copyright", "policy", "litigation"]
+    },
+    {
+      "title": "Copyright is Not the Enemy of AI Innovation",
+      "summary": "An opinion piece contends that strong copyright protections and AI development are not fundamentally incompatible, and that licensing frameworks can support both creator rights and continued AI progress.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPanl0OHV2em01SlRZMU1GajVqX29EalJGVXcyS2JwV2NlbG1kUGpYZWVybmxkQ0FMYzlFNXJrbnJuRm9NMGxfcktnelNzaHRZNTRVVldiS19FYzZ0VmhYWlRDMDg1NzRUSkVod2xIcW9OZ1pTUjRNbkpIdkxSZVFhSFYxcE93N3Z1eEhpU1VCQnBQSThFRExJNl9zLXZOOGFWeXZGSW9oLUxNV0QtRkFXTnhfRjV1QkdvZFE",
+      "topics": ["AI copyright", "licensing"]
+    },
+    {
+      "title": "Norway's Beat Spins Out Zedoc, a New Agentic AI Platform [Metered]",
+      "summary": "Norwegian publishing technology company Beat has spun out Zedoc, a new agentic AI platform aimed at the publishing industry, signalling growing investment in AI tools specifically designed for publishers.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/international-book-news/article/100855-norway-s-beat-spins-out-zedoc-a-new-agentic-ai-platform.html",
+      "topics": ["book publishing", "AI tools"]
+    },
+    {
+      "title": "The Latest Merger: Annual Reviews Acquires Underline Science",
+      "summary": "Academic publisher Annual Reviews has acquired Underline Science, a platform for scientific conference content, in a deal that reflects continued consolidation in the scholarly publishing sector.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/07/17/the-latest-merger-annual-reviews-acquires-underline-science/",
+      "topics": ["academic publishing", "publishing mergers"]
+    }
+  ]
+}
