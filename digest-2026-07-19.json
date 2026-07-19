@@ -1,0 +1,79 @@
+{
+  "top_stories": [
+    {
+      "title": "Dave Eggers told OpenAI staff that ChatGPT was 'silencing an entire generation'",
+      "summary": "Author Dave Eggers spoke to OpenAI staff and argued that ChatGPT is damaging a generation's ability to write and think independently. The remarks highlight growing tension between AI companies and the creative community over the cultural and educational impact of generative AI tools.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "topics": ["OpenAI", "ChatGPT", "AI ethics"]
+    },
+    {
+      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents [Metered]",
+      "summary": "Wired reports that prompt injection attacks are proving to be a significant obstacle for AI-powered hacking agents, with adversarial inputs capable of hijacking or neutralising the agents mid-task. The findings raise questions about the reliability and security of autonomous AI systems deployed in cybersecurity contexts.",
+      "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+      "topics": ["AI safety", "large language models", "generative AI"]
+    },
+    {
+      "title": "Apple's plot to crush OpenAI",
+      "summary": "The Vergecast examines the competitive dynamics between Apple and OpenAI, exploring how Apple is positioning its own AI strategy to challenge OpenAI's dominance. The episode covers the broader implications of Apple's moves for the AI industry.",
+      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "topics": ["OpenAI", "AI industry", "business"]
+    },
+    {
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "summary": "A long-form essay argues that widespread AI adoption is degrading the quality of decision-making at institutional and governmental levels, as organisations defer to AI outputs without adequate critical scrutiny. The piece contends that the hype cycle around AI is creating systemic risks in how major decisions are made globally.",
+      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/",
+      "topics": ["AI ethics", "AI governance", "generative AI"]
+    },
+    {
+      "title": "How Google's New Gemini Rates Work and How to Track Your Usage [Metered]",
+      "summary": "Wired explains the updated pricing and rate structures for Google's Gemini AI models, providing a practical guide to understanding usage limits and how to monitor consumption. The changes are relevant to both individual users and businesses integrating Gemini into their workflows.",
+      "url": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+      "topics": ["generative AI", "Google", "AI industry"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise Properties",
+      "summary": "New York City Mayor Zohran Mamdani has announced that landlords are prohibited from using AI-generated images to advertise rental properties, citing concerns about misleading prospective tenants.",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+      "topics": ["AI regulation", "generative AI", "advertising"]
+    },
+    {
+      "title": "Oracle announces AI-native builder experience for Oracle AI Agent Studio",
+      "summary": "Oracle has unveiled a new AI-native builder experience within its AI Agent Studio, aimed at making it easier for enterprises to build and deploy AI agents.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbjZSWW1odG54M3FRdjV5OXF1VTlnNF8zeDhHSUlFMzYyRzBlUGxjbWY5a0owWVVFZ0M3RnJyb2V5Uy1ZQ2Ftekk3S1FGZ1ZNVDd5MTZJMXFWeUloLThCb05FZlR5bnd4REVwV09XajhHVTdaM0JLeHFKbjUtdjNWQXVCR1lIdFE0cDM1VUxKdTROM2NsRTNHYVNPOGVpcERrbC02UA?oc=5",
+      "topics": ["AI industry", "generative AI", "business"]
+    },
+    {
+      "title": "New Linux Foundation project aims to make payments native to AI workflows",
+      "summary": "The Linux Foundation has launched a new project designed to integrate payment capabilities natively into AI agent workflows, potentially enabling autonomous financial transactions by AI systems.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUGZpekFVeFBhQWQzYklSVHVIN3lMdFpxMzc2QmZnRnJSdkxzeUdSaGdKZ0g3aEU3aHdQMHIzTTE0dTF3N1Q4bXpDWGd5QnFkRlg4UjVaVzhVVm90WTFnWHc1bVhfVHUzbnFJcm5HTDdJZ0NmSzYzbWRkTkk3OS03U1NmRUUtUVJqT2ZqVGp5cGIxSkJGU290WFhmMExlenhUdk9wR0xoWHJWUXNSc1VjeWhxcmVWS00?oc=5",
+      "topics": ["AI industry", "AI infrastructure", "business"]
+    },
+    {
+      "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
+      "summary": "A Kaggle community discussion alleges that a submission widely characterised as AI-generated low-quality content won a major $25,000 DeepMind-sponsored competition prize, raising concerns about research integrity and evaluation standards.",
+      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+      "topics": ["research integrity", "generative AI", "AI ethics"]
+    },
+    {
+      "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+      "summary": "Security researchers detail how AI tools identified bugs in OpenVM's zero-knowledge virtual machine implementation, highlighting both the capabilities and limitations of AI-assisted security auditing.",
+      "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+      "topics": ["AI safety", "large language models", "AI coding tools"]
+    },
+    {
+      "title": "LTM Partners with Glean to Accelerate Enterprise AI Adoption",
+      "summary": "LTM has announced a partnership with enterprise AI search company Glean to help organisations accelerate the deployment of AI tools across their operations.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM3lGdHlnLUVSdXl5XzZZZjE0QS1vVkV5TlRWT25tRjhlVVpZUDh3ZllTUVdzWVlnLWJpdThUd3hwSVktQmpUcEUtWklLNWJTYmNrY3lHdFc5NlBQazhWR1F6bU12dWZiNHdnZ0dCV1ZPQ0pSU2I4ZHNRZlNUU25ic3dhRk9CZ3hjbXlnMTlNMWpPM2ZzSXlBRzdvb0JlRUdR0gGmAUFVX3lxTE1hekZtV09KZDdmQUFOUk1ndmlsN296ZE93UUEyUjhxWk90b3U3d0dUQ2V1ajhGQXZ4N01Ub0ZweUNUc0p0eFFjZlpfYzNuRXhqT1hLc1FfRndkZkFkTjdPV0ZYanBCRXlxTFJ2aWxIY3ZjclhmTlRrY0ZqVi10MTAtZ0F4M3A1U3h0T2hGN05EcGx1aXpSRE91Szd2RDkyaFFjbUZXdGc?oc=5",
+      "topics": ["AI search", "business", "ai personal assistant"]
+    },
+    {
+      "title": "Korea vs. Japan's rapidly expanding 'AI substrate'",
+      "summary": "A report examines the accelerating competition between South Korea and Japan in building out AI infrastructure and compute capacity, with both nations making significant investments in their respective AI ecosystems.",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nSHVGRlcxRUk4OHlvV2phMlE2OWVlVFVQTzR0SnVRcXozT1lBcEJaZGFHbVlkbzc3ZXpHWGRKMlQ5dllKNFc5ZmdKWEJKQ0R6X21j?oc=5",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    }
+  ],
+  "ethan_mollick": null
+}
