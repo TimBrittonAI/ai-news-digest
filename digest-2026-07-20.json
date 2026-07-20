@@ -1,0 +1,61 @@
+{
+  "top_stories": [
+    {
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "summary": "LM Studio has launched LM Studio Bionic, a new AI agent product built around open models. The release marks a significant expansion of the platform beyond its existing local model management features. The announcement comes from the official LM Studio blog.",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "topics": ["AI agents", "large language models", "generative AI"]
+    },
+    {
+      "title": "AI advice made people less accurate but more confident",
+      "summary": "A study found that receiving AI-generated advice caused people to become less accurate in their judgements while simultaneously increasing their confidence in those judgements. The findings raise concerns about over-reliance on AI decision support tools. The research adds to a growing body of evidence on how AI can suppress critical thinking.",
+      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "topics": ["AI ethics", "AI safety", "user interaction"]
+    },
+    {
+      "title": "What AI did to Stack Overflow in a graph",
+      "summary": "A data visualisation using Stack Overflow's own data illustrates a sharp decline in question activity on the platform, widely attributed to the rise of AI coding assistants and tools like ChatGPT. The graph offers a stark visual representation of how generative AI has disrupted developer Q&A communities.",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+      "topics": ["generative AI", "AI coding tools", "AI industry"]
+    },
+    {
+      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+      "summary": "Moonshot AI has temporarily suspended new subscriptions for its Kimi assistant after overwhelming demand following the release of its Kimi K3 model. The announcement was made via the official Kimi Moonshot Twitter account.",
+      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+      "topics": ["AI industry", "large language models", "generative AI"]
+    },
+    {
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "summary": "A long-form essay argues that widespread uncritical adoption of AI in organisational and governmental decision-making is degrading the quality of decisions being made globally. The author contends that institutions are outsourcing judgement to AI systems without adequate scrutiny of outputs or processes.",
+      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+      "topics": ["AI ethics", "AI governance", "AI safety"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "I hate that I don't hate this song made with Suno",
+      "summary": "The Verge explores a song generated using Suno AI music tools, reflecting on the uncomfortable experience of finding AI-generated music genuinely listenable.",
+      "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+      "topics": ["AI video", "generative AI", "AI industry"]
+    },
+    {
+      "title": "A grumpy screed about AI in software engineering",
+      "summary": "A software engineer offers a critical perspective on the current state of AI coding tools, questioning the productivity claims and practical realities of using AI in professional software development.",
+      "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
+      "topics": ["AI coding tools", "generative AI", "technology ethics"]
+    },
+    {
+      "title": "How to Secure AI Tools in Your Business",
+      "summary": "An overview of key security considerations businesses should apply when deploying AI tools internally, covering data governance and access controls.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5xZkhFdmE3UnRFRlFlREJ5MU1MUWpxQkN2d21wMDBoeFBwa3RRYktFcENya2hTZGFhYnRYNTdSZHRIeFBOcDAzTl9CWHpka2J4ekpvcEx1WF94UXJ1TXFZQkFJdlRoOWltYXg5N1YzR0lfUjB1eFVJNGVwOA?oc=5",
+      "topics": ["AI governance", "business", "AI infrastructure"]
+    },
+    {
+      "title": "AI Agents for Market Research: How Modern Finance and Strategy Teams Gain Faster Insights",
+      "summary": "An examination of how AI agent tools are being adopted by finance and strategy teams to accelerate market research workflows and competitive analysis.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd1U3MTItbGxCVWNKTU5MbjZDbklzbElaU3E1SnZqUkpkcmF0bENfWmFfa3dmZm1ad2QzQ1dpM25aQWhieXRPMVBvMFdLMFFtTXhwcEdRdTdNNGdRZWpIVkJ1RERsNnlMdmhzUHgtcGtvSlpyd1JlTG5SQnZVN0JwRTlNeUloa01Sa1BrczdkQTl1VkYwdllCVzB6N2FEVlZ3R3pJdGliVEU?oc=5",
+      "topics": ["market research", "AI agents", "business"]
+    }
+  ],
+  "ethan_mollick": null
+}
