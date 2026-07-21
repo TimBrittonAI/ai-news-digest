@@ -1,0 +1,85 @@
+{
+  "top_stories": [
+    {
+      "title": "Safety and alignment in an era of long-horizon models",
+      "summary": "OpenAI has published a blog post outlining its approach to safety and alignment as AI models increasingly operate over long time horizons and take extended sequences of actions. The post addresses new challenges posed by agentic AI systems, including how to maintain human oversight and prevent misaligned behaviour in models that plan and execute tasks autonomously. It signals a significant shift in how OpenAI is framing its safety research priorities.",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "topics": ["AI safety", "OpenAI", "large language models"]
+    },
+    {
+      "title": "China's AI models have Trump's AI world at war with itself",
+      "summary": "MIT Technology Review reports on how the rise of competitive Chinese AI models is creating internal divisions within US AI policy circles, with open-weight Chinese models challenging American assumptions about export controls and proprietary AI dominance. The piece examines how models from companies like Moonshot AI and Alibaba are fuelling debate about whether restricting AI exports is helping or harming US strategic interests. The tension is reshaping the broader geopolitical framing of AI competition.",
+      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "topics": ["AI industry", "generative AI", "AI governance"]
+    },
+    {
+      "title": "China delivers a one-two punch to America's AI dominance",
+      "summary": "The Verge reports on the rapid release of Moonshot AI's Kimi K3 and Alibaba's Qwen models, framing them as a coordinated challenge to US AI leadership via open-source strategy. The article notes that the open-weights approach allows global adoption without export control restrictions, giving Chinese models significant reach. Analysts quoted suggest this approach is proving more strategically effective than anticipated.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "topics": ["generative AI", "AI industry", "large language models"]
+    },
+    {
+      "title": "AI is more likely than humans to form biases when hiring",
+      "summary": "MIT Technology Review covers new research finding that AI systems used in hiring decisions are more prone to forming and applying biases than human decision-makers in equivalent scenarios. The study raises concerns about the deployment of AI tools in recruitment workflows, particularly as adoption accelerates across large enterprises. The findings add weight to calls for stronger regulatory oversight of AI in high-stakes decision-making.",
+      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "topics": ["AI ethics", "bias", "generative AI"]
+    },
+    {
+      "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+      "summary": "Unslop.run publishes a detailed methodological account of measuring AI-generated writing across arXiv preprints, highlighting both what their approach captured and where it fell short. The post is notable for its transparency about detection limitations and the challenges of distinguishing AI-assisted from AI-generated text at scale. The findings have direct implications for academic publishing integrity and research quality assessment.",
+      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "topics": ["academic publishing", "AI detection", "research integrity"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Import AI 465: Open vs closed gaps; Kimi K3; Demis' big policy plan",
+      "summary": "Jack Clark's Import AI newsletter covers the widening gap between open and closed AI models, the release of Kimi K3, and DeepMind CEO Demis Hassabis's emerging policy agenda.",
+      "url": "https://importai.substack.com/p/import-ai-465-open-vs-closed-gaps",
+      "topics": ["AI industry", "large language models", "AI governance"]
+    },
+    {
+      "title": "UK 'should lean into research quality' on AI, says Elsevier leader",
+      "summary": "The head of Elsevier argues the UK should prioritise research quality as a differentiator in the global AI race, with implications for how academic publishing intersects with AI development.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQM1l1cWhyMDE5QkN1VFI2b0JtQlBHS1ZJeURjcUgzbUNYYnkwMlM3U1VVcGI5OHFqaWZ6aElGM01FQVpHTnZjQURRd3U3Y3Azb2FHYXlERFVfWVBWWGhQX1BkLXdxN1MzMU1DcG4wQW1TVHU0aXZLMTlSNVh3RHZXMkFaV1lWNERMRG5aZV95bmctTzhkV3NRVDhFX0RaMlZON0ROYy10c1ZlWjZ1bHdOcENrNGd3VVlvQWlhT001YWFoTDk5U0ZpZzBRVTVTdWVI?oc=5",
+      "topics": ["academic publishing", "AI industry", "research integrity"]
+    },
+    {
+      "title": "A Scene from the AI Flooding of Academic Journals",
+      "summary": "A reported account of AI-generated content proliferating in academic journals, illustrating the scale and nature of the problem facing scholarly publishing.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR3B1WlJLNV9kTm5WN1hSbFZJSVAwUS13NXlPX1FreHJWNkRBQlFhU1R1b2FFMWFLQVBFdG8wajluTVFjdHI0N2hxeHNUNXNySWctNWdWRmtRdnBzeVRIWjdxTV9VMFlvUUZVR1c2U1I3ZDliTkJZeFZJNjB4QkxHRjBtclBpQ0tSM3ZF?oc=5",
+      "topics": ["academic publishing", "generative AI", "research integrity"]
+    },
+    {
+      "title": "Microsoft expands Azure AI and HPC infrastructure with AMD",
+      "summary": "Microsoft announces an expansion of its Azure AI and high-performance computing infrastructure in partnership with AMD, signalling continued investment in AI compute capacity.",
+      "url": "https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/",
+      "topics": ["AI infrastructure", "AI compute", "Microsoft"]
+    },
+    {
+      "title": "Here are the 30,000 songs Sony is suing Udio's AI music generator over",
+      "summary": "Sony has identified 30,000 songs at the centre of its copyright lawsuit against AI music generator Udio, in one of the largest such legal actions in the generative AI space.",
+      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "topics": ["copyright", "generative AI", "legal"]
+    },
+    {
+      "title": "AI synthetic audience matches human polling in study",
+      "summary": "A new study finds that AI-generated synthetic audiences can replicate the results of human polling with notable accuracy, raising questions for market and consumer research methodologies.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTEpETU8tNF9JdGpiYVBJM3NjWUpxQlBWaTBpckhQUWcyeS1VdDNDNUJhRnhHTFdIWkhSV2hlcHpfUTB3Ylhady1QbXBfT1RZcmV2azZ3RUNHNFBvajZQamtUS3ZaQ3pFN19vajJRRm4xLUZRbTdWS1kwU3R6UVdVcnN1VlZNa2Y1?oc=5",
+      "topics": ["consumer research", "generative AI", "large language models"]
+    },
+    {
+      "title": "China's open-weights AI strategy is winning",
+      "summary": "A commentary piece arguing that China's strategy of releasing open-weight AI models is outmanoeuvring the US approach of proprietary, locked-down systems in terms of global adoption and influence.",
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "topics": ["AI industry", "generative AI", "AI governance"]
+    },
+    {
+      "title": "The Download: AI hiring biases, and weather data sabotage",
+      "summary": "MIT Technology Review's daily briefing covers the findings on AI hiring bias alongside a separate story on deliberate sabotage of weather data infrastructure. [Metered]",
+      "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+      "topics": ["AI ethics", "bias", "AI industry"]
+    }
+  ],
+  "ethan_mollick": null
+}
