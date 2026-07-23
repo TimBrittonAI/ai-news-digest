@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Judge Approves Anthropic's $1.5 Billion Copyright Settlement Over Pirated Books",
+      "summary": "A US judge has granted final approval to Anthropic's $1.5 billion settlement with authors whose books were allegedly used without permission to train its Claude AI. The settlement, described as the largest copyright class action payout in history, covers works from nearly 500,000 pirated books. UK publisher Bloomsbury, whose catalogue includes Harry Potter titles, is among those set to receive a share of the payout.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTGhxNFFUSnN3U1kxTkZBQ3Rpc2hycXNvQkZDNHRQU1RoYm9JVm5SdFRrdDdYb2IwUlFDbWNtd0R6SmNNcFgzNlQzZnhhNE9WWDhlTGxrR0p4TER6UkhVcTNEdDVOVGpRVnRIR29Vemk4bkdwZDBLOXdjNmhPVVU4aU5WaU80c3pVQ2xoVzZjS3pmd204NFJUMjhOUWQwVHcwd3lJYmo4b0JVMlJIN185Y1VMdmdHUQ",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "Anthropic's $1.5bn pirated books settlement approved amid new patent suit",
+      "summary": "As Anthropic's landmark copyright settlement received final court approval, the company simultaneously faces a new lawsuit from a University of Tennessee nonprofit over neural network patents. Anthropic said it would 'defend this case vigorously.' The juxtaposition highlights that while one major legal battle has closed, AI firms continue to face mounting IP litigation on multiple fronts.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX1NDbkxkVFpHOXBrdVFLUmVSZEJ2MG5oRTVXVTRWNzVMOU5kSlN1VzRIZHZzRGo0dDRiZlc2TjhSLUNxQktxaFVzcklLR21hTy1QOWZYV3EzWmFaejV0RTBnV1JLMmR5RGlpZEhkdU9WYTNFTk12YkduS1BLbWwyNjZucjkxcFNMT2pMczE0dmh5U3M",
+      "topics": ["AI copyright", "litigation", "software"]
+    },
+    {
+      "title": "Sony Music Files Another Lawsuit Against Udio, Alleges AI Music Generator Copied 30,000 Songs to Train Models",
+      "summary": "Sony Music has filed a new copyright lawsuit against AI music generator Udio, alleging the platform infringed more than 30,000 recordings — including tracks from the Michael Jackson catalogue — to train its models. The suit expands Sony's existing legal action against the company and signals continued aggressive enforcement by major music rights holders against AI audio platforms.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYkxYakljVWh3dDFZZFhyYUNfYVB0Y2QtejZFREM3ZXU1SDdTcHNyTTBFY0ZueHhodk91UUk0WGlmb3ZFWlN3LTdJZ2lNYmxRMUhXUm1uVTFtUFBWNE1LZG5mNVIzd3FLc2J4TU9mMXdFeExMSy05NkJyRXVmc0Zic3UtRXFtYzdKaXo1Q21JWTFBa1hZczkwYkF3",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "News Corp Countersues Brave, Calls AI Content Scraping 'Flagrant Theft'",
+      "summary": "News Corp has filed a countersuit against the Brave browser, accusing it of scraping and reproducing news content without authorisation in what the publisher terms 'flagrant theft.' The case adds to a growing pattern of major media groups pursuing legal action against AI and browser companies over unlicensed use of published content.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yM2VDbjBFWmx4TzFBb0FuN0VHOXRaYmVqRmhkemtiekt2MEhpNU0tYVk3UTJSNUhFYlEzd0N2Ui04QjhMRFlxem9FLWNNajlJSUFCZXBTMF9faU1HUlRaSld4d3VWLTRYTlBnR0taYURaYXdFQkE",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Publishers and an author have filed a lawsuit against Google over its Gemini AI",
+      "summary": "A group of publishers and at least one author have filed a copyright lawsuit against Google over its Gemini AI system, alleging unlicensed use of their works for training. The case represents a further escalation of litigation by the publishing industry against major AI developers.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmk5WVVDeGxTR0d2UGhmY0hZTkkzajZSZDlvVjRZVy15S05pY01ENTlmTWl0d1I5c0RUVkc1VkNtVXRveVJjQjBvWUtNSl83XzlVTGx4eEh6dW15aVFtSkoya1VpUHdPbDR1bE0wYmt0cS1jd3FKNGpzZWRrbWphQUdZcmpRVHNDV3cyQThreUlfUDhieUs1TQ",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Midjourney Seeks To Narrow Disney AI Copyright Claims",
+      "summary": "Midjourney has moved to narrow the scope of copyright claims brought against it by Disney, in a case that could set important precedents for AI image generation and the use of copyrighted visual material in training data.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR09zdTlyNUNXcEZmUzduYUVXajNjbm5MSkdBYzR2d0RfdzFISUdLd0RQRmhCVTZJbVhDNndVdTFhTm9uanpZYXFDOGNGMDBCZjdSTDg2akFrRWlJakY3Z1Bxa2haTzVTcHhJdF9TTTNob2FDT25KaVozWG5seFlkeFRDVkVMTXJXaXkzMHN0UDZuX19yZndRSHJFc0ZUQQ",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Anthropic payout piles pressure on UK ministers in AI copyright row",
+      "summary": "The approval of Anthropic's $1.5 billion settlement is adding political pressure on UK ministers as they weigh how to regulate AI training and copyright, with the deal seen as evidence that rights holders can secure significant compensation.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRGFneFVfRGY3SktWT1ZTTGstelNhWllvMnhFYUhSeml1MEtFUy1SRTR2WjM5LTFqcUc3dFVJdElYTU9QV0tkVENBdzhnMUFzeFNGVk9PR25mMllhb2xpdGZGRzk4U0dlb0xBTGE1ZjAwSUhGTEVCVjh4bUkzZ3cwRWlINXhZTHNfelN4YS1JREtuOWg1ZVE",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "AI and copyright: after much sound and fury, do we know anything yet?",
+      "summary": "An analysis piece assessing what the wave of AI copyright litigation and settlements has actually clarified — and what remains legally unresolved — for rights holders, AI developers, and policymakers.",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM1MwbEx1Nkp3SFJRWUxqaFFzRkdtNGdVbmNJeWszMWNjQUYzNkxUSTR5V0I3V2w5ZDUta0tzSWVFS3B5ZmlXQnR2bWpEZkE3TVRsY2FkdFB1V3lIcVJZa010TFFYaDBudUdaYzFtbDItREpoV2NIMkQwRlA2bXphS2VaTkNsUDhpS2FfdFM4b1pwcmJPXzA3bkRoeVBidDQ0MXd0cXI1N1g4RTlsU2JKaDQ1UnlJZlVVTTNZQmdNUFdhVTJGMmp0RlpkY0YtT29OYmd3ZVE4eDByamltdktXNg",
+      "topics": ["AI copyright", "policy", "litigation"]
+    },
+    {
+      "title": "Attorneys' fees slashed as judge signs off landmark $1.5bn Anthropic deal",
+      "summary": "In approving the Anthropic settlement, the judge also significantly reduced the attorneys' fees sought by plaintiffs' counsel, a notable detail in the final terms of the record-breaking copyright deal.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX1dnejFiOGdRei04MUxPa1ByVWpvUUZkZ3BMbk43UllhUlI2NkZ3dmw3S3RDWF9DeHJHZzBMeDhpSWw1MXg2aDVoUGpDbDJxVnB5aVhtM2VPaS1OdHJJUU41Qk13U3AzTFVIOGJ1VjVpVDE4S21GclZ5ZWRzV205dEUtX3A4WWYtZWVhUDNsblRkTEdYU0hmTWJ0MnBrYmp6ZEZMN29OaktDVDhzQUVlNE51RExYMVU1dHJzNndjeTRFdzF4Sm81Tjln",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Dog Photographer Loses Copyright Case Over AI-Generated Comic Version of Her Image",
+      "summary": "A photographer has lost a copyright infringement case after a court ruled against her claim over an AI-generated comic-style version of one of her images, in a decision with implications for how transformative use is assessed in AI image cases.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUkFMVXR5TDRra0YtbE4xYkR4dGpCVTFvXzJTOXY4d29KTnNuSTktNk42WmVuX1UzamVjaFZ4Nk5CREFKX0hnbjBrSm40TThRbC1kaGhNNWNwSGJlTUlyRW9kdTZ1Vk5DV05CNlBIZXVpQkRMaUhHTHFwRUxaRzRyU0QwY1kwemVPaWE1SWliNFVvakhwQVp2ZjRQb05Sb0ZnQjltcFJNYVZsYmc1dGhyb1NVRTNVTU0",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "University Sues Anthropic Over Neural Net Patents",
+      "summary": "A University of Tennessee nonprofit has filed a patent infringement lawsuit against Anthropic, alleging its AI systems make unauthorised use of patented neural network technology.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR09zdTlyNUNXcEZmUzduYUVXajNjbm5MSkdBYzR2d0RfdzFISUdLd0RQRmhCVTZJbVhDNndVdTFhTm9uanpZYXFDOGNGMDBCZjdSTDg2akFrRWlJakY3Z1Bxa2haTzVTcHhJdF9TTTNob2FDT25LaVozWG5seFlkeFRDVkVMTXJXaXkzMHN0UDZuX19yZndRSHJFc0ZUQQ",
+      "topics": ["AI copyright", "litigation", "software"]
+    },
+    {
+      "title": "Never Too Late: If you missed the IPKat last week!",
+      "summary": "IPKat's weekly roundup covers recent intellectual property law developments including AI-related copyright and patent cases from around the world.",
+      "url": "http://ipkitten.blogspot.com/2026/07/never-too-late-if-you-missed-ipkat-last_0283155511.html",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Copyright Law Revision Potentially Contradicts the RI-US Trade Agreement and Hinders AI",
+      "summary": "Analysis of how proposed copyright law revisions in Indonesia may conflict with the country's trade agreement with the United States and create obstacles for AI development.",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE83ek1vNThzZElhSHM2d0Etd2xzaDBtbzZ5YmlheElXNG1XU1IwOWxIcUNGWWM3RHFtd2doVkIxaTNuQknSAUJBVV95cUxNSnJDdTROejdGcWJQM0kwNVVxT2NYV1R6cHZxZzl5dWstdzFaY1pFV3BBQ0d2NHJFVkJIUzNzNzgwV0E",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Game development AI — Familiar rules, faster timelines",
+      "summary": "An overview of how existing IP and copyright rules apply to AI tools used in game development, noting that while the legal framework has not fundamentally changed, AI is compressing production timelines and raising new practical questions for rights management.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQekNFbGZLRVBMOFdjN0tKRDRzX09WdkNzY1dhS3pYME1FM01Na2tQNm04THdUSkh2b2h5RE83MjVkRExlXzNDQnF3MFl6M2diOXhyYXZnejBNclZsZTFEeng4bENER0ZiTVIzbm1sWHJsN2tzSWtfcFBZVEZVYzM3OGVmYkdRR0lKdkYzR04zdkZ6WFVlclkzVTI0YkhhQ0U4NGJ3MnNRLXR3UFN6WUE4X0p2T1FUUQ",
+      "topics": ["AI copyright", "software"]
+    },
+    {
+      "title": "Who's suing AI and who's signing: News Corp sues Brave, Microsoft signs Australian Copilot deal",
+      "summary": "A roundup contrasting the dual tracks emerging in the AI content landscape: News Corp pursuing litigation against Brave for scraping, while Microsoft secures a licensing deal with Australian media outlets for its Copilot product.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA",
+      "topics": ["AI copyright", "licensing"]
+    }
+  ]
+}
