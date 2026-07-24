@@ -1,0 +1,95 @@
+{
+  "top_stories": [
+    {
+      "title": "Launching Health in ChatGPT",
+      "summary": "OpenAI has officially launched Health in ChatGPT, rolling out personalised health features to all users. The announcement makes broad claims about the product's ability to help people understand medical information and manage their health. The Verge also covered the launch, noting OpenAI's ambitious framing of the product's capabilities.",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "topics": ["OpenAI", "ChatGPT", "AI personal assistant"]
+    },
+    {
+      "title": "OpenAI and Anthropic unite against open-weight AI risks to their bottom line",
+      "summary": "OpenAI and Anthropic have jointly lobbied the Trump administration against loosening restrictions on Chinese open-weight AI models, arguing they pose national security risks. Startup founders have pushed back, urging the US government not to block access to Chinese open-weight AI. The divide highlights a growing tension between frontier AI labs and the broader developer community over open-source AI policy.",
+      "url": "https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china",
+      "topics": ["OpenAI", "Anthropic", "AI governance"]
+    },
+    {
+      "title": "Claude's voice mode is now available for Opus and Sonnet",
+      "summary": "Anthropic has expanded Claude's voice mode to its more powerful Opus and Sonnet model tiers, previously limited to less capable versions. The rollout gives users access to voice interaction with Anthropic's most capable models. This brings Claude's voice capabilities closer to parity with rivals such as ChatGPT's Advanced Voice Mode.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "topics": ["Anthropic", "large language models", "AI personal assistant"]
+    },
+    {
+      "title": "Alphabet's cash burn raises alarm for Big Tech as AI spending climbs",
+      "summary": "Reuters reports that Alphabet's accelerating cash expenditure on AI infrastructure is raising concerns among investors about the sustainability of Big Tech's AI spending race. The story reflects broader anxiety about whether returns on massive AI capital investment can justify the outlay. The piece follows similar reporting on AI companies attempting to move debt off balance sheets.",
+      "url": "https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/",
+      "topics": ["AI infrastructure", "AI industry", "AI compute"]
+    },
+    {
+      "title": "Lawmakers prepare bill requiring AI 'kill switch'",
+      "summary": "US lawmakers are preparing legislation that would require AI systems to include a mandatory 'kill switch' enabling government shutdown of AI in emergency scenarios. The proposal reflects growing political concern about AI safety and control mechanisms. It represents one of the more concrete AI regulatory proposals to emerge from Congress in recent months.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+      "topics": ["AI safety", "AI regulation", "AI governance"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+      "summary": "Futurism reports that major AI companies are allegedly moving significant debt off their balance sheets, raising questions about the true financial health of the sector.",
+      "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+      "topics": ["AI industry", "business", "AI infrastructure"]
+    },
+    {
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "summary": "DARPA and the US Air Force have successfully flown an AI-controlled F-16 fighter jet, marking a significant milestone in autonomous military aviation.",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "topics": ["defense", "AI", "generative ai"]
+    },
+    {
+      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+      "summary": "Amazon is updating Alexa Plus with new AI capabilities designed to handle more complex, multi-step user instructions across smart home devices.",
+      "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+      "topics": ["AI personal assistant", "large language models", "AI industry"]
+    },
+    {
+      "title": "Understanding the AI Economy",
+      "summary": "Google has published a research blog examining how AI is reshaping economic structures, productivity, and industry dynamics across sectors.",
+      "url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
+      "topics": ["AI industry", "business", "generative ai"]
+    },
+    {
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "summary": "A coalition of startup founders has written to the Trump administration urging it not to restrict access to Chinese open-weight AI models, arguing the move would harm American innovation.",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "topics": ["AI governance", "AI regulation", "large language models"]
+    },
+    {
+      "title": "How AI helps scientists design the next generation of medicines",
+      "summary": "MIT Technology Review reports on how AI tools are accelerating drug discovery and the design of novel medicines, with researchers using models to predict molecular behaviour. [Metered]",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
+      "topics": ["AI", "generative ai", "research integrity"]
+    },
+    {
+      "title": "Patreon is laying off 20 percent of workers",
+      "summary": "Patreon is cutting approximately 20% of its workforce, with the company citing AI-driven restructuring as part of the rationale.",
+      "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+      "topics": ["layoffs", "AI industry", "business"]
+    },
+    {
+      "title": "AI agents to drive $3.35tn in purchases by 2030",
+      "summary": "New research forecasts that AI agents acting as autonomous purchasing entities could facilitate $3.35 trillion in commercial transactions globally by 2030.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ0d3UG1oRkZ3TWpvZVFQYVFpZkJnYWI5OVZWVjFxVlo3VnRrdW1yUHFRRElOMkhDaXJzelhqVkpBa0Z4d3pjVWloOUJFLUFQaDFnQi1adUlIRmloT3B3VmpkNzYzTUlzYzJzMUF3ejJjZjhFU2NvSjVPbm1FUUhyalN1V20xNEl5dXhGX2RMcw?oc=5",
+      "topics": ["AI personal assistant", "e-commerce", "AI industry"]
+    },
+    {
+      "title": "Meta's New Feel-Good AI Ad Uses a Song About the World Ending [Metered]",
+      "summary": "Wired examines Meta's new AI advertising campaign, which uses David Bowie's apocalyptic anthem in what the company frames as an optimistic message about AI's future.",
+      "url": "https://www.wired.com/story/meta-david-ai-bowie-apocalypse-ad-is-optimistic-actually/",
+      "topics": ["advertising", "AI", "meta"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "An opinionated guide to which AI to use to do stuff",
+    "summary": "Ethan Mollick offers a practical, opinionated breakdown of which AI tools and models are best suited to different tasks, drawing on his hands-on experience with leading systems. The guide cuts through marketing claims to give concrete recommendations for users trying to navigate a crowded and fast-moving landscape. It is aimed at helping both individuals and professionals make more informed choices about which AI to use for specific use cases.",
+    "url": "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22"
+  }
+}
