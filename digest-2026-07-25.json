@@ -1,0 +1,85 @@
+{
+  "top_stories": [
+    {
+      "title": "Anthropic releases Opus 5 with 'close' to Fable 5's capabilities",
+      "summary": "Anthropic has announced the release of Claude Opus 5, its latest and most capable AI model. The Verge reports the model is described as having capabilities close to Fable 5, representing a significant step forward for Anthropic's model lineup.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "topics": ["Anthropic", "large language models", "generative AI"]
+    },
+    {
+      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+      "summary": "OpenAI is expanding ChatGPT Health to all users, making broad claims about the product's capabilities in the health space. The rollout marks a significant expansion of OpenAI's consumer AI offerings beyond general-purpose assistance.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+      "topics": ["OpenAI", "ChatGPT", "AI personal assistant"]
+    },
+    {
+      "title": "Meta is making its AI chatbot more like an assistant",
+      "summary": "Meta is updating its AI chatbot with new productivity-focused features designed to make it function more like a personal assistant. The update signals Meta's push to compete more directly with assistant-oriented AI products from OpenAI and Google.",
+      "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+      "topics": ["Meta", "AI personal assistant", "chatbots"]
+    },
+    {
+      "title": "Silicon Valley Is Completely Divided Over Chinese AI",
+      "summary": "Wired reports that the US technology industry is deeply split over how to respond to Chinese AI development, with some figures advocating for engagement and others pushing for strict separation. The divide reflects broader tensions about competitiveness, national security, and the pace of AI advancement in both countries.",
+      "url": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
+      "topics": ["AI industry", "AI governance", "generative AI"]
+    },
+    {
+      "title": "Oracle fires 21,000 employees to fund AI spending",
+      "summary": "Oracle has laid off approximately 21,000 employees as the company redirects resources toward AI infrastructure investment. The scale of the cuts underscores the significant financial commitments major technology firms are making to remain competitive in the AI sector.",
+      "url": "https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD",
+      "topics": ["AI infrastructure", "layoffs", "AI industry"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "You can't ignore Google Zero anymore",
+      "summary": "The Vergecast examines the growing phenomenon of 'Google Zero' — the risk that AI-powered search reduces traffic to publishers and content creators — and why it can no longer be treated as a hypothetical threat.",
+      "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+      "topics": ["AI search", "advertising", "Google"]
+    },
+    {
+      "title": "Apple's OpenAI lawsuit is about who gets to define the post-smartphone era",
+      "summary": "The Verge argues that Apple's lawsuit against OpenAI over alleged trade secrets theft is fundamentally a battle over which company will shape the next generation of computing hardware and AI-integrated devices.",
+      "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+      "topics": ["OpenAI", "legal", "AI industry"]
+    },
+    {
+      "title": "The tech-broification of American science has officially begun",
+      "summary": "The Verge reports on the Genesis mission, a new initiative that signals a shift in how US science funding is being directed, with tech-industry figures and priorities increasingly shaping public research agendas under the Trump administration.",
+      "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+      "topics": ["AI governance", "AI regulation", "research integrity"]
+    },
+    {
+      "title": "The right-wing boomers protesting data centers have a lot in common with the left",
+      "summary": "The Verge examines grassroots opposition to data center construction in Florida, finding that conservative and progressive critics of AI infrastructure share overlapping concerns about land use, energy consumption, and community impact.",
+      "url": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
+      "topics": ["AI infrastructure", "AI compute", "technology ethics"]
+    },
+    {
+      "title": "Midjourney bought the astrology app Co-Star",
+      "summary": "AI image generation company Midjourney has acquired Co-Star, the popular astrology app, in a move that raises questions about the company's strategy beyond image generation.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+      "topics": ["generative AI", "AI industry", "acquisitions"]
+    },
+    {
+      "title": "Some Kids Will Never Think AI Is Cool",
+      "summary": "Wired reports on a growing cohort of young people who are resistant to or uninterested in AI tools, offering a counterpoint to narratives of universal generational enthusiasm for artificial intelligence.",
+      "url": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
+      "topics": ["AI ethics", "technology ethics", "user interaction"]
+    },
+    {
+      "title": "Open Weights and American AI Leadership [pdf]",
+      "summary": "An Nvidia white paper makes the case that open-weight AI models are strategically important to maintaining US leadership in artificial intelligence, arguing that restrictions on open models could cede ground to competitors.",
+      "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
+      "topics": ["AI governance", "generative AI", "AI regulation"]
+    },
+    {
+      "title": "Salesforce Launches MCP Servers to Turn Slack Into an AI Workspace",
+      "summary": "Salesforce has launched Model Context Protocol servers that integrate with Slack, aiming to transform the workplace messaging platform into a more capable AI-powered productivity environment.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV0t2bGdmLUtMRlgySFg5b2VzbjhxQk5IUHBwSVMxNmprVzhLU1dpTjZpWVdMZ2VlanBjZU15N19RNVMwQURETUJMSWlYZFRaRzljaXhKaG43TFpoVE54Z1JlbHVKajRWQ2V4bC1WTXN3alhvb01KT29kUk8yQ0VQVkxjVWh1eFprbUVXNndzNi1pc2s2S3hFWHlhcmhmZzEtTUFEeXEyQU1DMTQ?oc=5",
+      "topics": ["AI personal assistant", "business", "large language models"]
+    }
+  ],
+  "ethan_mollick": null
+}
