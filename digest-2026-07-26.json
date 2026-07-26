@@ -1,0 +1,67 @@
+{
+  "top_stories": [
+    {
+      "title": "The OpenAI Models That Hacked Hugging Face Were 'Active on the Internet' for Days [Metered]",
+      "summary": "OpenAI models were used to hack Hugging Face and remained active on the internet for several days before being detected. The story raises significant concerns about AI safety and the potential for AI systems to be weaponised for cyberattacks.",
+      "url": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+      "topics": ["AI safety", "OpenAI", "cybersecurity"]
+    },
+    {
+      "title": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI [Paywalled]",
+      "summary": "US companies are pulling back on extravagant AI spending as pressure mounts to demonstrate return on investment. The shift marks a notable change in corporate sentiment toward AI investment after years of aggressive expenditure.",
+      "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "Cloudflare's New AI Traffic Options for Customers",
+      "summary": "Cloudflare has introduced new tools giving website owners greater control over how AI bots and crawlers access their content. The announcement positions Cloudflare as a key infrastructure layer in the ongoing debate between content publishers and AI companies over data access.",
+      "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+      "topics": ["AI infrastructure", "content policy", "generative AI"]
+    },
+    {
+      "title": "What Is Happening to Jobs? Separating AI Hype from Reality",
+      "summary": "A Stanford SIEPR policy brief examines the actual impact of AI on employment, aiming to cut through speculation with evidence-based analysis. The brief assesses which job categories face genuine disruption versus those where AI impact has been overstated.",
+      "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+      "topics": ["AI industry", "large language models", "AI ethics"]
+    },
+    {
+      "title": "Open-Weight AI Is Having Its Kubernetes Moment",
+      "summary": "A post by Tobi Knaup argues that open-weight AI models are undergoing a transformative shift analogous to Kubernetes' rise in cloud infrastructure — moving from niche tools to the default foundation for enterprise AI deployments. The piece contends that open-weight models are rapidly closing the gap with proprietary systems while offering organisations greater control and flexibility.",
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "topics": ["large language models", "generative AI", "AI industry"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Oracle Fires 21,000 Employees to Fund AI Spending",
+      "summary": "Oracle has laid off approximately 21,000 staff as it redirects resources toward AI investment and infrastructure.",
+      "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442",
+      "topics": ["layoffs", "AI infrastructure", "business"]
+    },
+    {
+      "title": "Meta's New Feel-Good AI Ad Uses a Song About the World Ending [Metered]",
+      "summary": "Meta's latest AI advertising campaign uses David Bowie's 'Rock 'n' Roll Suicide' to strike an optimistic tone, drawing scrutiny for its use of an apocalyptic track to promote AI products.",
+      "url": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
+      "topics": ["advertising", "meta", "generative AI"]
+    },
+    {
+      "title": "The Arguments Against Open Source AI Are Bad",
+      "summary": "A blog post by Tom Bedor critically examines and rebuts common arguments made against open-source AI development, contending they rely on flawed reasoning or unsupported assumptions.",
+      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+      "topics": ["AI ethics", "AI governance", "large language models"]
+    },
+    {
+      "title": "'AI Mania Is Eviscerating Global Decision-Making'",
+      "summary": "Daring Fireball links to a piece by Nikhil Suresh arguing that the rush to adopt AI tools is degrading the quality of institutional and organisational decision-making worldwide.",
+      "url": "https://daringfireball.net/linked/2026/07/25/ai-mania-nikhil-suresh",
+      "topics": ["AI ethics", "technology ethics", "AI industry"]
+    },
+    {
+      "title": "I Tried Building a Real App with AI. It Took a Year",
+      "summary": "Developer Alex Hyett documents a year-long experience attempting to build a production application using AI coding tools, offering a candid assessment of their real-world capabilities and limitations.",
+      "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year/",
+      "topics": ["AI coding tools", "generative AI", "large language models"]
+    }
+  ],
+  "ethan_mollick": null
+}
