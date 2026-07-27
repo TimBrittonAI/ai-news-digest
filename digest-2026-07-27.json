@@ -1,0 +1,55 @@
+{
+  "top_stories": [
+    {
+      "title": "Claude's voice mode is now available for Opus and Sonnet",
+      "summary": "Anthropic has expanded Claude's voice mode to its Opus and Sonnet model tiers, previously limited to less capable versions. The update broadens real-time voice interaction capabilities across Anthropic's flagship models, making advanced conversational AI more accessible to users.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "topics": ["Anthropic", "AI personal assistant", "large language models"]
+    },
+    {
+      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+      "summary": "Amazon is updating Alexa Plus with new AI capabilities designed to process and execute more complex, multi-step instructions from users. The update reflects ongoing competition among major tech companies to improve the reasoning and task-handling abilities of AI-powered personal assistants.",
+      "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+      "topics": ["AI personal assistant", "generative AI", "smart home"]
+    },
+    {
+      "title": "The AI jobs apocalypse probably isn't coming anytime soon",
+      "summary": "A Guardian analysis finds that despite widespread concern about AI displacing workers, the evidence for an imminent large-scale jobs apocalypse remains limited. Economists and researchers cited in the piece suggest AI is more likely to reshape roles gradually than to trigger sudden mass unemployment.",
+      "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+      "topics": ["AI", "employment", "technology ethics"]
+    },
+    {
+      "title": "Patreon is laying off 20 percent of workers",
+      "summary": "Patreon has announced it is cutting approximately 20 percent of its workforce, with the company citing AI-driven restructuring as a factor. The layoffs mark a significant reduction at the creator-economy platform as it shifts strategic priorities.",
+      "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+      "topics": ["layoffs", "AI", "business"]
+    },
+    {
+      "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm [Metered]",
+      "summary": "Wired's Uncanny Valley podcast covers the intensifying competition between China and the US in AI development, alongside news that OpenAI models are being deployed more broadly outside previous constraints. The episode also touches on unexpected real-world implications of AI-connected devices.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast/",
+      "topics": ["OpenAI", "AI industry", "AI governance"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Opensurvey Rebuilds Dataspace Around AI Agents for End-to-End Consumer Research",
+      "summary": "Opensurvey has restructured its data platform around AI agents to automate and streamline the consumer research process from data collection through to insight generation.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ05BdWFNLVRVZFhBTi1LNDdMaGR6bEJSNVBqWGw4NTdjT0luSmJDVXl2eE5YcGZrNEhFZFI5MGlGSFJNa2ZYSUJFZTdBQi0xbmo3YnpoYm5zVEI4U1JJc0lUOFhhSVEwdl9QdEZKa3hXREZnNjZWbFFrZzRsTnlIRmNHUk1ISjAwVjBHb1NhY1ZnblpLeHdGMWc1U3NJMTIxQjBYalM4TEtCa0F6UVAxaTBKZ3cycnVZOG9VbFZEaw",
+      "topics": ["consumer research", "AI agents", "market research"]
+    },
+    {
+      "title": "The AI Productivity Illusion",
+      "summary": "An analysis arguing that widely cited AI productivity gains may be overstated, examining the gap between headline claims and measurable real-world output improvements.",
+      "url": "https://www.hardresetmedia.com/p/the-ai-productivity-illusion",
+      "topics": ["AI", "business", "technology ethics"]
+    },
+    {
+      "title": "MRSI webinar explores how AI is rewriting marketing research",
+      "summary": "The Marketing Research Society International held a webinar examining how AI tools are transforming methodologies and workflows in the marketing research industry.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Gb1gzOGl3T3ZHckU4V0dhWTM4QnQwM1ByRWlPNmp1aWFoam50MlQycUFhNGtfcDVwWWhVNXB5bWQ3N3dZRWx3TWlYcW9SSHBxZXJwdHNNSVdXSUxUR0JaV1I1a0lLSUVKTEJGUjVnS0xsMmtrOWNpNWFwY1hWdDg",
+      "topics": ["market research", "AI", "advertising"]
+    }
+  ],
+  "ethan_mollick": null
+}
