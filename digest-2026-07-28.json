@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Private Claude Chats Exposed in Google and Bing Search Results [Metered]",
+      "summary": "Private conversations with Anthropic's Claude AI assistant were found to be indexed and publicly visible in Google and Bing search results, raising serious privacy concerns. The exposure affected users whose chat sessions were inadvertently made discoverable by search engine crawlers. The incident highlights ongoing challenges around data privacy and access controls in AI chat platforms.",
+      "url": "https://www.wired.com/story/private-claude-chats-exposed-in-google-and-bing-search-results/",
+      "topics": ["AI safety", "Anthropic", "user privacy"]
+    },
+    {
+      "title": "OpenAI Called the Hugging Face Attack Unprecedented. But We've Been Here Before. [Metered]",
+      "summary": "MIT Technology Review examines the security incident involving Hugging Face and OpenAI, in which attackers exploited vulnerabilities in the AI supply chain, and places it in historical context of similar attacks. The piece argues that while OpenAI characterised the event as unprecedented, the underlying attack vectors are well-documented in software security. The article raises broader questions about security preparedness across the AI industry.",
+      "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "topics": ["AI safety", "OpenAI", "cybersecurity"]
+    },
+    {
+      "title": "Why China Is Giving Away Its Best AI Models",
+      "summary": "The Verge analyses the strategic rationale behind Chinese AI companies releasing high-quality open-weight models at no cost, and how this is reshaping competitive dynamics for US AI firms. The piece explores how freely available Chinese models are pressuring American companies on pricing and accessibility. It examines what this means for the global AI industry and the open-source ecosystem.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "topics": ["AI industry", "generative AI", "large language models"]
+    },
+    {
+      "title": "How AI Is Expanding What People Do at Work",
+      "summary": "OpenAI has published research examining how AI tools are changing the nature of work, arguing that AI is enabling employees to take on tasks and roles previously beyond their scope rather than simply automating existing ones. The post draws on usage data and case studies to illustrate shifts in productivity and job scope. It positions AI as an expander of human capability rather than a straightforward substitute.",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "topics": ["OpenAI", "AI industry", "generative AI"]
+    },
+    {
+      "title": "The Path to Artificial Superintelligence [Metered]",
+      "summary": "MIT Technology Review publishes an in-depth examination of the current state of AI research and the technical and conceptual challenges that lie on the road to artificial superintelligence. The piece surveys expert views on timelines, approaches, and the key open problems that remain unsolved. It also addresses the safety and governance implications of pursuing increasingly powerful AI systems.",
+      "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+      "topics": ["AI safety", "generative AI", "AI ethics"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Nvidia's $750B in Deals Reignite Circular AI Fears [Paywalled]",
+      "summary": "Bloomberg reports that Nvidia's $750 billion in announced deals have revived concerns among analysts about circular financing in the AI sector, where AI companies invest in each other in ways that may inflate valuations artificially.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/nvidia-s-750-billion-deals-revive-fear-of-ai-circular-financing",
+      "topics": ["AI industry", "AI compute", "business"]
+    },
+    {
+      "title": "AI Companies Spend Record Sums on Washington Lobbying [Paywalled]",
+      "summary": "The Financial Times reports that AI companies have reached record levels of spending on lobbying in Washington as they seek to shape emerging regulation and government AI policy.",
+      "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+      "topics": ["AI regulation", "AI governance", "AI industry"]
+    },
+    {
+      "title": "Nvidia, Microsoft Launch Open AI Security Alliance — Without OpenAI, Google, or Anthropic",
+      "summary": "Nvidia and Microsoft have announced a new open AI security alliance aimed at establishing shared cybersecurity standards for AI systems, notably without the participation of OpenAI, Google, or Anthropic.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "topics": ["AI safety", "cybersecurity", "AI industry"]
+    },
+    {
+      "title": "Rethinking Security for the Age of AI",
+      "summary": "Microsoft's official blog sets out its evolving approach to security in an AI-driven environment, describing new tools and frameworks designed to address threats that emerge specifically from AI adoption at scale.",
+      "url": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/",
+      "topics": ["AI safety", "cybersecurity", "Microsoft"]
+    },
+    {
+      "title": "This Is Donald Trump's AI Brain Trust [Metered]",
+      "summary": "Wired profiles the key figures advising the Trump administration on artificial intelligence policy, examining their backgrounds, views, and the influence they are likely to have on US AI governance and regulation.",
+      "url": "https://www.wired.com/story/this-is-donald-trumps-ai-brain-trust/",
+      "topics": ["AI governance", "AI regulation", "AI industry"]
+    },
+    {
+      "title": "Import AI 466: The Bitter Lesson for Robotics, AIs Complete Week-Long Programming Tasks; and OpenAI's Accidental AI Hacker",
+      "summary": "Jack Clark's Import AI newsletter covers new developments in robotics learning, reports of AI systems completing extended autonomous programming tasks, and details around the OpenAI-linked security incident involving Hugging Face.",
+      "url": "https://importai.substack.com/p/import-ai-466-the-bitter-lesson-for",
+      "topics": ["AI industry", "large language models", "AI safety"]
+    },
+    {
+      "title": "Professor's Invisible Prompt Trap Catches 32 of 35 Students Cheating with AI",
+      "summary": "A professor embedded a hidden instruction in an assignment that instructed AI tools to include a tell-tale phrase, successfully identifying 32 out of 35 students who had used AI to complete their work without disclosure.",
+      "url": "https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html",
+      "topics": ["AI ethics", "generative AI", "AI detection"]
+    },
+    {
+      "title": "Five Reasons Marketing Is One of AI's 'Most Vulnerable Professions'",
+      "summary": "An analysis argues that marketing roles face particularly acute disruption from AI automation, citing the text- and data-heavy nature of marketing work as making it especially susceptible to replacement by generative AI tools.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbTdJV1ZZbkd3T1c5bEdJN2lyTEFNeW9GX1NNT2p2ZTR3Ny1NVEIwM3I0MVhtLU95ZFlRVFJwZ0Z2dGpTZUxjZkdnV3o3R29fdTV1VUVsZ0VIbW5Bd0d2VWpIUTBmTWxra1NPZF9tM0FWQi11VnRfdnlsckdTQk5fNnpIU0M?oc=5",
+      "topics": ["generative AI", "advertising", "AI industry"]
+    },
+    {
+      "title": "Building the Enterprise Environment for Agentic AI [Metered]",
+      "summary": "MIT Technology Review examines what organisations need to put in place — in terms of data infrastructure, governance, and tooling — to successfully deploy agentic AI systems at enterprise scale.",
+      "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+      "topics": ["generative AI", "AI infrastructure", "business"]
+    },
+    {
+      "title": "Terence Tao: Mathematics in the Age of AI [pdf]",
+      "summary": "Fields Medal winner Terence Tao's slides from ICM 2026 explore how AI tools are beginning to assist and transform mathematical research, with reflections on what this means for the discipline's future.",
+      "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+      "topics": ["generative AI", "research integrity", "large language models"]
+    }
+  ],
+  "ethan_mollick": null
+}
