@@ -27,7 +27,7 @@
     "technology ethics": 1,
     "wikipedia": 1,
     "content policy": 1,
-    "ai safety": 4,
+    "ai safety": 5,
     "bias": 1,
     "user interaction": 1,
     "ai ethics": 4,
@@ -46,6 +46,7 @@
     "ai personal assistant": 2,
     "microsoft": 1,
     "ai regulation": 1,
-    "anthropic": 4
+    "anthropic": 5,
+    "user privacy": 1
   }
 }
