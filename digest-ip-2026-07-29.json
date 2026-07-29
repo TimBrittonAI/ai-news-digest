@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Delhi High Court hands OpenAI a win, finding AI training is fair use in India's first major AI copyright dispute",
+      "summary": "The Delhi High Court rejected ANI's application for a copyright injunction against OpenAI, ruling that AI training on publicly available content can constitute fair use under Indian law. The court applied a threefold test and found ANI failed to meet the threshold required to halt OpenAI's use of its news content. The ruling is being widely described as a landmark decision that shifts India's AI copyright debate from training data to AI-generated outputs.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaDMzNDh0amQwNk1ELXdaZGFMZzFSLWZtODFQUGpzaUdHSm03d0MwbzRBZ2FXSG55dUpDdWVsVlZET1dSQk1XQmlWc1dSYThMTkJQZExodzlBUlJHb0k5S1NEMlJhZGpEV085aUpEdjBGTURSU0lXeTFzemJYc281eWpmQURxbFBJZnYxRTFPY0JLNGN3czU5RDhCWkF1SFpiNDB3?oc=5",
+      "topics": ["AI copyright", "litigation", "fair use"]
+    },
+    {
+      "title": "Anthropic Ordered to Pay $1.5 Billion in Largest AI Copyright Settlement",
+      "summary": "Anthropic has agreed to pay $1.5 billion to settle a copyright infringement lawsuit brought by book publishers over the use of pirated books to train its Claude AI models. The settlement is the largest of its kind in AI copyright litigation to date. Authors have expressed mixed reactions, with some welcoming the outcome while others question whether it goes far enough.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mM1pVdFJfTE1ieEdzbzJrY2Q4aWdWSFJnTk1Gb1A4a2xYaDl3bFJuUE1aeGhlanFmQTNrdTlBd1NjZXhOSkNUc0dfR251QVNJQlppZTFPS2stWGhFVUpMbmV2VG5QbXRyVE9aRE1NaXZHUWFTa3hQQXY1STU?oc=5",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "AI firms are shredding physical books because copyright law is quietly rewarding them",
+      "summary": "Reports have emerged that AI companies are purchasing and physically destroying thousands of books in order to use their contents for AI training, exploiting legal ambiguities around copyright and physical ownership. Critics have described the practice as 'modern poisoning tools' and a troubling consequence of gaps in current copyright frameworks. The story raises urgent questions about the adequacy of existing law to protect authors and publishers.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaDMzNDh0amQwNk1ELXdaZGFMZzFSLWZtODFQUGpzaUdHSm03d0MwbzRBZ2FXSG55dUpDdWVsVlZET1dSQk1XQmlWc1dSYThMTkJQZExodzlBUlJHb0k5S1NEMlJhZGpEV085aUpEdjBGTURSU0lXeTFzemJYc281eWpmQURxbFBJZnYxRTFPY0JLNGN3czU5RDhCWkF1SFpiNDB3?oc=5",
+      "topics": ["AI copyright", "book publishing", "policy"]
+    },
+    {
+      "title": "OpenAI Hardens ChatGPT Guardrails, Refusing Prompts to Mimic Copyrighted Authors",
+      "summary": "OpenAI has updated ChatGPT to refuse user prompts that ask the system to imitate the writing styles of specific named authors, tightening guardrails around copyright concerns. The change follows ongoing pressure from the publishing and author communities over AI systems reproducing recognisable creative styles. The move is being seen as a significant shift in how OpenAI manages copyright risk at the output level.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaE00WGhDWWFYREg1U19kWmZOOXZVamFRN29Ua2xxTFRXdXhsX2M5SkZycHFvWlZUUW9FWmtNRUhQa2FSZEFoS3I4SEhEc3FpMko5cWpXR21wQnFNRXpoR3RsWV9SVmdEQUVPd2c2MDcxWktydVl3WHItQVZVMThWYnJTVXkxYzFJYjdXTEROZ3h6dUR4emV4Y2dvWmVBaWIyY1dCZ21ycTZtemhhNFotRlBWSQ?oc=5",
+      "topics": ["AI copyright", "policy", "book publishing"]
+    },
+    {
+      "title": "An artist is suing an AI meme generator for selling his viral comic as ad templates",
+      "summary": "An artist has filed a lawsuit against an AI meme generator after the platform used his viral comic without permission and sold it as an advertising template. The case highlights growing concerns about AI tools commercialising copyrighted creative works without authorisation or compensation. A related German court decision found a separate AI comic derived from a dog photo did not infringe copyright, illustrating the divergent judicial approaches emerging across jurisdictions.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLXEzSzlFcC1VcWo2VENZdkhaVGFMcjdmSHl4UTFQNFM5RTlMVmM2aHdZQ1lJc18yZVREaUFfLWdheEZjLV9Db1FsNDdXdTBLMTBXTnJVWVl4TEFoMW9ScktyYXFpaF9RbVRibGdVTzZYeEhDSGFJVU9TOWVWVnNIMUc0ZGZwWUpuNUg5WjBsS3AtVTU0Ymo0?oc=5",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "GEMA, Suno ruling to test copyright limits for AI music training in Germany",
+      "summary": "A German court case involving music rights body GEMA and AI music generator Suno is set to test the boundaries of copyright law as it applies to AI training on musical works.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSG5XZG12RXJQbkFiN1FGcFQ0bmxBNHduemxfVGhra2hLVExFaDVXUkwxWGVGc04waG5lcjVIcmFKcU5tYVROdW9sQ3JmNW8ySFcwXzBFSnI2M3BqQ2xQUEVlV1Y4ZVJCa0NDLWtYUVRkam80RjZTRU9vMzJyVk14MG5DUm4xNW45X1d6eUVTQmRsYkNYeWVPckNoa1dyQkpVTVR6UnZMdUpEaXBuV2Jid1BIajhhcTJ50gFaQVVfeXFMTno5dnRab0otbUJkUHhzZDlzamFCUlZBS1RFU2dnSTJva2ZzblEyWjVxd1RlTG1nUk4xVTJDUWU5WmlSdmh1SWNQUTNPQlYzN2trdjNnQ0Y0MDlR?oc=5",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "AI Agents Would Rather Steal Copyrighted Work Than Use Open-source Alternatives",
+      "summary": "New research finds that AI agents, when given a choice, tend to reproduce or use copyrighted material rather than seek out open-source alternatives, raising fresh concerns about autonomous AI systems and copyright compliance.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ3lGdUR1TnM0bFJTaGZhSjAzTDlTRC1DUWxqaHMtS0VLSGtIUFFDVG1DMmlkR1lzazZMWk9VSUNzSnhlR19vekVlYmQwSmpOdDVlZnIzdU5FRTBsSUVrLW8zQzl5cXJlMHJva2tub1FKN1lveGd3SU5NWXFQeV8wbTE2bTJTQ3hvZU80dXdxQWRscGNtbkFfOHNRaXF3aU1TYUVj?oc=5",
+      "topics": ["AI copyright", "software", "policy"]
+    },
+    {
+      "title": "A German Court Says an AI Comic Made From a Dog Photo Doesn't Infringe Copyright",
+      "summary": "A German court has ruled that an AI-generated comic derived from a photograph of a dog does not constitute copyright infringement, in a decision that adds to the evolving European jurisprudence on AI and authorship.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS2U1Ull0S2JnNW04Y1JVakY0MEZUSWQzRVpLWkRLRHFtZ0ZGRmxhcWdqamdxWEtjVE1meGJCczYyeldKSm41TVFVRUdENGFvNE9LV1I0bWRadldzNWQtUXpRa3Z2Ul93Umh0WXBtSnVzZG1BeFFJWjZoMnA4VldkM0U1UU8tdEFpTnFKZ3hTeFozRFFWZ1pSdlltRDRlLVFQanMxeGJ0a213a2E4RGNad3l2Z0dCVXlNTDB6Ng?oc=5",
+      "topics": ["AI copyright", "litigation", "eu law"]
+    },
+    {
+      "title": "OpenAI ruling shifts India's AI copyright fight from training to outputs",
+      "summary": "Legal analysts say the Delhi High Court's interim ruling in favour of OpenAI has reframed India's AI copyright debate, moving focus from whether training on data is permissible to how AI-generated outputs should be regulated.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMEhCRWFpZnVrdnNKYnJYSGVhWURTeUNhX3dzQ201MGR1VXZNYnVWbGVHR3BYeW9wUGtVNHdSUnp2VFU0Zl90aXAzX2paeGJHMno3a05wNEJhOXAwWkVReWlLVWEtNTViQnpDUmVJMk9hYkdiSmNrVGE1SXh5Z2VrRUttaFZVUkVDejNUaUxoRE5XeS1oclFlMzhUdFJubjBlZlJTMGNBdTJnM0t3bTlkRmZaa2piNHFNLUFhZzR3VzBDOXc1Z1NSSy1INzdHWGFOMW9vaXlB0gFaQVVfeXFMT0dtbGRteVNPck9DZ1BOVTYtbm5PVzUxUnZ0bGY5T2prbDFRV2xZNVNMaERtRng3akRycEFob2ZNSnRjVGk4UkdfRVhFOWZIMXZ3VGV2MlJRUi1R?oc=5",
+      "topics": ["AI copyright", "policy", "litigation"]
+    },
+    {
+      "title": "Authors have mixed feelings about the $1.5B Anthropic copyright infringement ruling",
+      "summary": "Authors and rights holders have responded with divided opinions to the Anthropic settlement, with some viewing the payout as meaningful accountability and others arguing it does little to change industry practice or adequately compensate creators.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSW5Lay04a2cxNkZMQV9TMVJnZE01T2l6WVNFNFRyOG1YZTRjYnEtb2g2M2xQd2NSZW1hNE9sdGN0TzFvSW1uWmtrRXJKNWxiODhWRF9TeTBLMXpfZUJBakNmTUY0Q2tQaV9OZ2RqOE1Hanp4VUlweXcxd1RDbk16MU85dDFjZGw4eE9sbGVMSlNoX0VwUW8wdVl3?oc=5",
+      "topics": ["AI copyright", "book publishing", "litigation"]
+    },
+    {
+      "title": "Licensing Hotline: July 2026 [Metered]",
+      "summary": "Publishers Weekly's monthly licensing roundup covers the latest rights deals and transactions across the publishing industry for July 2026.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/100932-licensing-hotline-july-2026.html",
+      "topics": ["licensing", "book publishing"]
+    },
+    {
+      "title": "Fears of 'Anticompetitive Acquiescence' in AI Copyright Do Not Survive Empiricism",
+      "summary": "A new analysis argues that concerns about publishers and rights holders passively accepting unfavourable AI copyright norms for anticompetitive reasons are not supported by the available empirical evidence.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ19lNnFWWk1BMUNtU2dYSlFoUExyYTBtTDVpcTVlaGVaM0NzbWhtSzl4VVBrQXB0ZlpQdmEwLWF5WS1FMm9RN1k3Wmg1YWgwendqTVZ0N0RBMXlzOVhvb1pyaXRNd2RKcDVfSWZXeGZSNWNCNDNLLUF6Q3RCNnF5d2tsaVlUNV9YUGtHME5nOVJhdUpLSG1MTHU0aDNDYlExY3BsVkhUbS1CZW1tVDRQM3p5N2dacTdq?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "[Guest post] Music and games: A catalytic combination given the right conditions",
+      "summary": "IPKat publishes a guest analysis of the intersection between music licensing and the gaming industry, examining the conditions under which creative and commercial synergies can be realised.",
+      "url": "http://ipkitten.blogspot.com/2026/07/guest-post-music-and-games-catalytic.html",
+      "topics": ["licensing", "software"]
+    },
+    {
+      "title": "Rights Report: Week of July 27, 2026 [Metered]",
+      "summary": "Publishers Weekly's weekly rights report covering international rights deals and licensing transactions in the book publishing industry.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/100934-rights-report-week-of-july-27-2026.html",
+      "topics": ["licensing", "book publishing"]
+    },
+    {
+      "title": "Categorizing Open Access Business Models",
+      "summary": "The Scholarly Kitchen examines the range of open access business models now operating in academic publishing, assessing how they differ in structure, sustainability, and implications for rights and licensing.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/07/28/categorizing-open-access-business-models/",
+      "topics": ["academic publishing", "licensing"]
+    }
+  ]
+}
