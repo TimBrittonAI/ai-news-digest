@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Publishers, bestselling author sue Google over Gemini AI book training in New York court",
+      "summary": "A group of publishers and a bestselling author have filed suit against Google in New York, alleging the company used copyrighted books to train its Gemini AI models without authorisation. The case adds to a growing body of litigation targeting major AI developers over training data practices. No licensing agreement or fair use defence has been publicly disclosed by Google at this stage.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVDFLUTg4RXptczZhb3g0WU5zbEVTUXVVbzdJaVFpUUp2cHVfcWxSZndiTWR2QWxGM3MwcEswejAwU29CUFFlakhCakNHMUdkWlo3OG5QX1RRVkU2SlM0YUxhS2ptZHB4XzVVWlAtSEJPN1VZV2k4VVFiWWp3M2hLVW94aDhhcVJlTVQ2RUVqTFczanI5RUZUM01XZFRkTXhrcTg3eXFnRU9VZ0IzQmt0c1VTQ3MwRF9NX1RQaHpBX2tDdVdhZE42OVhrZU81OUo1WFMzZA?oc=5",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "How Anthropic ended up paying $1.5bn for training Claude on pirated books",
+      "summary": "A detailed account of Anthropic's $1.5 billion settlement arising from its use of pirated books to train the Claude AI model. The piece examines how the company sourced training data and the legal consequences that followed. It represents one of the largest financial outcomes yet in AI copyright litigation.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY1hySUE4MjVrYmQ3eVRPUDRNRm1jT2dFR2hrUExlb0p1UklpNlZHMnpHRF9oTFhfTDR3VWF2eDM2M1p2SVZuTzNlN1ltbEJQeDhWRHpndGxzZlp6c05fR090TXpCeXRMZEo3cXEzc2Y2TU5kQk9VNjk4eHJ2Zm1KOXV0cnBGbU5MWlFvYWRzS01Ub1hFenhBRXBtSlU3WGRueWt0MldoTTlRTVNOdzNHbmtmMGNxelUwN1ZKMHBrU2FhZnMtM1dWTzJBalY2UDk1c0h5Z9IB2gFBVV95cUxOSjlQYm8yUGM5RjFLbnJ5Q3FGcmEtTlczZFNNYmZCU3JSTEQwY0c3WnVESm4xZ1NCd3dZbkdwUllva0dtcGxWTkQwX1JkQ0tQZGNOWVMzMzA2Q0lLSVVLYmJHVXpyNXpQVkRmZlBtcVBZTlotU3lkTUFMSklBRmlNMF9qR3dwN0NPNjA1cUNER2VwRmVCMURnM3d6VzhZMmpZRGhkaTVTS01vNkY0bXZ3Mkp6TkN6dWEzRkRsV3BGNzg5aG42UXZrWmJ5Wml0WmRJZnBiWVN6N25Wdw?oc=5",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "AI labs buy up, rip pages from books to train models",
+      "summary": "Reporting reveals that AI laboratories have been purchasing physical books and digitising their contents — including by removing pages — to build training datasets for large language models. The practice raises fresh copyright questions about the extent to which AI developers are circumventing existing digital licensing arrangements. The story has been covered by multiple outlets, with the primary source selected here.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLVB0S2twNXYyY3NUTVZIVlZNT0Q0Q0dlUmxqak8zYlZHbmROYld2emh0SHNZLVFrdV9mQWRqa0R0U3h1R0x4M0Q0ZDNTaEd6Qnh4NUpTeDdiVEZXMk9LN01uVVZjRExOeDJrTG1CNXNGMlo2LUY4bldONmsxUUdHUHZRVlpaZlFxcFJsYjdDaWFqZjFDMENmemhaONIBoAFBVV95cUxNeUxjYUhFNnpybVUtT0NwTWtsQy1RdTd4WnBzd3RPSUowb2VFZGQ5NEJiTmRYcUtXeFRaQ0JDNHhXQll5N0FqbDZtZWVncnVhNjdXZ0NWZXFIem1NYk5reEFmSjJGZ2FLeVV3VWItd2FsVDBuYzMzNzBycTZtZU0wTjdWSzg2Sk1SSkwxbHRsalJ5S1QzSXRxZFF6bkp1Tjh1?oc=5",
+      "topics": ["AI copyright", "book publishing", "training data"]
+    },
+    {
+      "title": "US musicians' union files amended lawsuit against Universal and Warner over Suno and Udio AI deals",
+      "summary": "The American Federation of Musicians has filed an amended lawsuit against Universal Music Group and Warner Music Group, alleging the labels struck deals with AI music generators Suno and Udio that harm musicians' rights. The complaint targets licensing arrangements the union argues were made without adequate regard for performers' copyright interests. The case marks a significant escalation in labour and copyright disputes over AI-generated music.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU3BId3RYYlRSNG45SC11OVZ4TkR2VlVQTERMWk02dEFhLVdITnZ0U1FWbTU4YjhicnZRMzIwMzczTkpnbnVjeTlfRjVwbUtndGczSl9JR2xQdE1FUV9GZ1VqZVpDRENlMUhnVTBVZ3FpLWp1NTIwRm1tTEU5ZFlTeWNkTGg3RmxMMGIwclFIRmVPX0Q1ekVVSlRYdl84M282S0tuVlk5eUVicFZwVk5GMWlNUW5VLWR2T0EtMjh4VTZ2VkxzVzdEYlotOWFIQlloVnRj?oc=5",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "Bipartisan bill would address AI, copyright concerns in creative industries",
+      "summary": "A bipartisan legislative proposal has been introduced in the US Congress aimed at addressing copyright protections for creators in the context of AI training and output. The bill reflects growing political pressure to establish clearer rules around AI use of copyrighted material in the creative sector. Specific provisions have not yet been fully detailed in public reporting.",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOcjA2bVpWUHc0MDRmWG13N3dVLXg5OG9pTm1wZVliMTJNcEp0QmxlaVMtT1dkVmI0Rkx4RHFmYWloQ1Z4QmhrUk9xU0h3NEVjbjBDNEpaMnlwcnRBekFnUXMxTEVpZ1dPSExvN01aZkNvY2hoT09rYkEyazQ0bzlFVThfVDRZR195OVlFZXJaVV8xQy12TEdkaU1QU3RGWTJaa0lLOXJrdXdDeG81UGNUbzIwVm9QQ3R3cW1DTnpyS2FrVEwtVG9ES25FamVFVGk3MjVmZnZIYmhpeGJoYThkNEIwMExkc3ZROXZEeWREYnQzUFE?oc=5",
+      "topics": ["AI copyright", "policy", "creative industries"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Is training an AI model 'public interest'? Delhi HC verdict goes to heart of copyright debate",
+      "summary": "Analysis of a Delhi High Court ruling that examines whether AI model training can be justified as a public interest activity under copyright law, a question with wide implications for how fair use and similar doctrines apply to AI developers globally.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYkJhbnF1LVdmQ0VqR3RUanZFSGEwaXlXaElCMUtTSmdUYlZkYVE5MDdxZXh2S0JHdURXYUhFeHhCYTh4bnFQQU5DZWNSc0VPanprWVI3bnpaREt5SHozdFpaWGMyTG5rdGJCNXVQNzgxa2w4cC1EZmczdlJmUWpucC01T1JqVDJGSmpLVXZhZnBXVkJZVUNid3FVdHZmVlJ2NzNCd3hmaFhUQzFjWThZTUlkOVpEOXpFdlHSAcABQVVfeXFMTUdGOUYtcnJhNXd1SUo4REJ1cEluRzVFaXNEV2s3U2luNGtuakFPODYtZWtlWUpFUk1VWnprRFlRQ29nU2pnbEp4b3I1SkdSTDBEYzZBNmhzNFpnbnRneVhkd19UVHQwVlBQY2xUdmJ2eTRqYnlLZHRXWGRwQk82OFBGS3FNY3pUTDFULWFwSkgwX1FKUHpHZzFqMWs3RWUya1dmNkRLR09ocm9LWFpObXN1N25RTlJBWE5wZWdsSnVq?oc=5",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "OpenAI secures first win in India copyright row against ANI",
+      "summary": "OpenAI has secured an initial legal victory in India in its copyright dispute with news agency ANI, marking the first such court outcome for the company in the country.",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDZmNucVdDVlpFSmQxM3phdndObU9wZHZpRjAxZkJYN3ZpSEgwRG9rYUJYQlpVMXNOb0FGMWdRb0FHVV94UXRaMmg5TUZxa1FJVVdGVg?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Canadian music publishers argue only humans should qualify as copyright authors in AI case",
+      "summary": "Canadian music publishers have made submissions in an AI copyright case asserting that authorship under copyright law should be restricted to human creators, a position that could have significant implications for AI-generated works.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsR1R5bVJ6a2ZxOEFxOEVSdE5tSkJ0VU1wVGFYeWJnU0FMS1EwUUNKREdGLVA5X2JQTXMwUFV1aFlSZmQ3WnlaaEpRTEx0WG1Cd2MxNkUteEVFbk9XdkQ0MGVkRVpJU3k2M3BMUUVJY09SQQ?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Elon Musk says SpaceX AI won't destroy rare books for AI training as Anthropic's scanning practices face scrutiny",
+      "summary": "Elon Musk publicly stated that SpaceX's AI operations will not destroy rare books for training purposes, as Anthropic faces increased scrutiny over its physical book scanning practices.",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORzZqMGlEeXlPNUgwQnVQR3ZzUlRpekNZT0Y3VUVNbVAzYlFFQU9OeWw4QWxxTGI5TTdRUUhoSk5vV1R0b04wandGUnd1MTRMU0k5U0ZIbC13QldzMDBoNmZXOHdNTmpSRU5TT1hwTGNicHU1VTJLUFVwakhsNDRyVjFsN3JJamR4ajNvQWJkWVl4dEd5Um92OGJWN2RaYUthUGs4SlZicUFSOU96VzIxXzJUaGpZVkpXWXFfWDhPd1E1ZUtZVEduWlA1TDdKb24zdXdma3lZeXViNE9jc1dMZkx1aXlPb2dXbmtR0gHwAUFVX3lxTE1SdDdKYXp0bFQ4bFRYUjI2RmNzN1NkTm1jTXAwWTdjRXl4S3l3YkNoQm5na3pKVEREVVZqQmxsdnhrcWhtdUtiT1F4U1kwTmxNOTRvOEpOd01YU0FrMnJvbHZQeTNzeFhNVVNuUTlYNzNlSnZuYXJrdXdWczhjOE1MVk8wcDZHa3lSOGV1c1N6bEIwYmZQa3lXUDRoTm5mOXhqSHlVdmplLVgwV1MzQkZubGQwRTliNVVjcGxIRlhrNmI5RVM5NVp2bmdnejRFMnk2ZnljN3VXZE9Qa2NmOThqd202ZktuRS1mdXNINVZvSw?oc=5",
+      "topics": ["AI copyright", "book publishing", "training data"]
+    },
+    {
+      "title": "Artists are lawyering up against AI slop, and some are even winning",
+      "summary": "A report on visual artists pursuing copyright claims against AI companies for unauthorised use of their work in training data, with some artists beginning to achieve favourable legal outcomes.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM25DdVdoVW5UT0wwbFFpR1VKbjc2d1ZoU09UdWc3UWVfR3NNYjVZQzFWcWNXaXdyV29YWkN6RjNLLWtoZGpsSFZ4SzRTRktvNEN6djBCcmFnX0YzSzV3YlRLTXNFR0ZsNWtmb2IyMUVCQzMzUXdHeldhdUNQX2tZNTZ6RUxMcXpfcEhCYkxISmNaMlRMVUV5Q2NIaTBUa2J4?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "ASCAP CEO Elizabeth Matthews on embracing AI opportunities while protecting songwriters from 'theft'",
+      "summary": "ASCAP's CEO outlines the organisation's position on AI and music copyright, advocating for licensing frameworks that compensate songwriters while engaging constructively with AI opportunities.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNHlKekY0LXlNTVRMVmVPLTlmX2w2cHoxcVNXSmJTTFg2OGY3dUh3N09KLTNtdjZibjBldnI4cmp0NFdSaERqakE0MjBPbEc0NlFfNEg5UFM2VFNpVUJzNmladWNVX0lrVXB1OHpZeGs1SkYwWjFMbkJJSHRyYnJBVHdtSFlaTS1ScVVZUXQzX0lMd1F2U3pnTEpJMTVuemtHcDhpUjhJN1RuZjV0T3ZLdFZMSGpxbDhCY1RNdU1uaUxiZUUybTFJdlkwdzBGeWk20gFaQVVfeXFMTnFmdjJ6TUwwcm1yeUxoalJOV3E5WG9qTUNxOTVPb2xVdXEwOGg5S1FyMllTSFc3c3pMYmt6d2t6VkwwdHp5a2xQemRQUnh2NEswaFVZVmxtQzB3?oc=5",
+      "topics": ["AI copyright", "licensing", "creative industries"]
+    },
+    {
+      "title": "An artist is suing an AI meme generator for selling his viral comic as ad templates",
+      "summary": "Artist Elmer Saflor has filed a copyright infringement suit against an AI-powered memes generator that allegedly sold his viral comic as commercial advertising templates without permission.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLXEzSzlFcC1VcWo2VENZdkhaVGFMcjdmSHl4UTFQNFM5RTlMVmM2aHdZQ1lJc18yZVREaUFfLWdheEZjLV9Db1FsNDdXdTBLMTBXTnJVWVl4TEFoMW9ScktyYXFpaF9RbVRibGdVTzZYeEhDSGFJVU9TOWVWVnNIMUc0ZGZwWUpuNUg1WjBsS3AtVTU0Ymo0?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "CopySight Raises $3 Million Seed Round to Expand AI Copyright Risk Platform",
+      "summary": "CopySight has raised $3 million in seed funding to develop a platform designed to help businesses identify and manage copyright risk arising from generative AI use.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVlk0ai1iUm9uTkt6YTZoY3BnTi1oTGVDRWFDOGhXbEg4UU80azlNSTF6ZmxqamswSGszall1YUc2MGNVSTc3QUZLUXpfUWUwcG4xWWpIR3VGby1hUzZYbEF0V3Q1OW8yaG9YSVJnSmV6X1IyVVhrOFdmUkFFdUxKc1dfYlAtRDdaS3poaGd0bWlmX2k3ZERfVnBRYWMxNTlwLU9DM2FWZjlHYzdnZzlpNkRBNA?oc=5",
+      "topics": ["AI copyright", "licensing"]
+    },
+    {
+      "title": "The Hidden Cost of Trust",
+      "summary": "The Scholarly Kitchen examines the risks academic publishers face when extending trust to AI-related partnerships and data-sharing arrangements, with implications for intellectual property and institutional credibility.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/07/29/the-hidden-cost-of-trust/",
+      "topics": ["academic publishing", "AI copyright", "licensing"]
+    },
+    {
+      "title": "Indonesia consults digital platforms, media on AI copyright framework",
+      "summary": "Indonesia's government is consulting with digital platforms and media organisations as it develops a national framework to address copyright issues arising from AI, reflecting growing regulatory activity in Southeast Asia.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMmxyYzd5UWxjeEV2enBZUTBoNXdyUm9NYk1Hb2FMODlvZGI3LXZtZFRuN2RsdHZvVFU5MFoyclI5RXVaWnZjTVVxdjMyZ2QyWGNXcUw5VkF5eUc3VEEyUXlGZnpOejNWSEU4MWVFYzlrVm5ONktqVnNndmdOcmo1NXNHYWVPQkdLY0NfYUk2VnFvUXdVaWl3d3pjN2Q4eE5TZWdFQnE5cHd4Q2FiY0tOaTEyVUZuWlQ2VktsVnZMLTAtaDM1OXJZb2EwSEJaeVBralZZUA?oc=5",
+      "topics": ["AI copyright", "policy"]
+    }
+  ]
+}
