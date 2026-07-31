@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "The Class Action Weekly Wire – Episode 158: California Federal Court Approves $1.5 Billion Settlement In AI Copyright Class Action (Podcast)",
+      "summary": "A California federal court has approved a $1.5 billion settlement in an AI copyright class action lawsuit. The case represents one of the largest financial resolutions to date in AI training data copyright litigation.",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPUkFxaHI5d215VTZRbjFnMkZjTFdTeTQwM3VwQWNadGk3NXAwQnJ0cDZ6c3J3QnpUYWZROEVpU0VvREl6MzNicmllMmFRUnFPMFlPSmpaZkEzdnpVSVJQdzUtMHltMlR0ZDI5RHd2YWtZaTJqaDBtOUxGRHlLR2hQc2ZPM3pOM1RSWUlyZVVMX0oySEdRTmIzdFVtTG01MjdNMGFGSjRsUW52cTVPelotTjZfWElwUTNmNUFfdW9BWTVpcXNpVFV0VXUzVzRadzRpWGx4OTNGN0RNYkdobFc1X3BnSm9QbTR4cTFpcmZLaV9tRDNhcGh3SXAzYjc1cldnN2NHc0xZWDRNVWxTYU13d1luWFl5NkF2YklPX280MA?oc=5",
+      "topics": ["AI copyright", "litigation", "class action"]
+    },
+    {
+      "title": "ANI v. Open AI: Delhi High Court Refuses Interim Injunction in Landmark AI Copyright Dispute",
+      "summary": "The Delhi High Court has refused to grant an interim injunction against OpenAI in a copyright case brought by Indian news agency ANI, marking a significant ruling in one of the most closely watched AI copyright disputes in Asia. The decision adds to a growing body of international jurisprudence on AI training data and copyright.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORHZnY2gxOVFJUmEtcDI0SjBLUjJWN20xczVLMlQ2LTl4R1FiMWFXVkx4SlF1SW5aMzgxVlgtNHRnNXFHa3hPSVQxcTUweHZmYUdjc054ZUlnZkNSVVdIZVhyb3hNcFo0UHJobTZlYlFIT0Q2eUFDV2ZldWRjeFN2VldBTkpySGhJY3ZiNUc5b2Z3aFFUeDl1QXlTVzExZlkwYUhLTWwyUGZlQ05FX1hBc294WnVzSG85TEJxMk9uR1pGRVV5Z0hpV2dQNnh2OGFTQzhnbWk4Njk?oc=5",
+      "topics": ["AI copyright", "litigation", "international"]
+    },
+    {
+      "title": "From CCH to ChatGPT: How Canadian Copyright Law Played the Key Role in Deciding a Leading AI Training Data Case in India - Michael Geist",
+      "summary": "Legal scholar Michael Geist analyses how the landmark Canadian Supreme Court ruling in CCH Canadian Ltd v Law Society of Upper Canada influenced the Delhi High Court's reasoning in the ANI v. OpenAI case. The piece examines how the fair dealing framework established in CCH is being applied to AI training data disputes internationally.",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPLTJpTnU5aThHTTBZUUhyNWxEd2k4TlJBVlhLeEs4VUxEVUlxMjkxemFkX2NWSEQwTGRSMG5aakNrM3dYT3d3djFqMm5HN29pMHlvVTFCUFdfSVRDd1poUnE1THcwZGpPQ3d4QzNjT1ZPZnQtVXRJU0JKVHhKWkozbTI2R0tjOHdTWC14SFZEdWFDVzZCdF80SFpIdkRKazJERlpXNEdWWG9SRHNnaFFBcE5OQ2JXNF9ycXI0TkFHVlBod0ZjZnliUjQxZ1d4RVFvX2xHUjVHS0YtQ0pNNGlmM0NucURuT1BVVzEybQ?oc=5",
+      "topics": ["AI copyright", "international", "AI training data"]
+    },
+    {
+      "title": "Poetry Foundation Library Scraped for AI-Generated Educational Content [Metered]",
+      "summary": "The Poetry Foundation's online library has been scraped and used to produce AI-generated educational content without authorisation, raising fresh concerns about the unlicensed use of cultural institutions' collections for AI training and content generation. The story highlights ongoing vulnerabilities for literary and cultural archives.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/100955-poetry-foundation-library-scraped-used-to-make-ai-generated-educational-content.html",
+      "topics": ["AI copyright", "book publishing", "AI training data"]
+    },
+    {
+      "title": "CopySight Raises $3 Million Seed Round to Expand AI Copyright Risk Platform",
+      "summary": "CopySight has raised $3 million in seed funding to develop what it describes as an intellectual property clearance layer for generative AI, helping companies identify and manage copyright risk in AI-generated outputs. The funding round signals growing commercial interest in compliance tooling as AI copyright litigation intensifies.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ1JNckVhR3ZJVnZHYTVNZUp4VEdvMEVaWXAwSG5zY2VEaGhIWHBqZ0tIY3RrX094WGt1UmJqWVVKXzVZOTdoUEtTVFVnSUVFSDcwRHJqRlZxRGUxSlMyQ1U0dDZRb0xWTE5yWGtxUjJBREJOLV9XdHkzV1d4amhfM3RiUWwwUUhHU3R4Sm1oMG56R2V2b2VmVWR1TjhVd2x3OGtrZ29ESzN1TFFyM1lQN1Yzbw?oc=5",
+      "topics": ["AI copyright", "licensing", "software"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "German Lawsuit Tests Copyright Limits for AI Music Training",
+      "summary": "A German legal case is examining whether using copyrighted music to train AI models falls within permissible copyright exceptions, potentially setting a significant precedent for the European music industry.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQc1JMQUgzTzdPN29XX1J5b0F3Mmx0YVdUS2xEdUpiYWtVeUpIV2dFUUtqZ292WG9NTHY0MV9BTExsb2hXcDc0Z2lpd0RvdHRGRXc2Ri14RnYyUUNWWUY2VFhJSTdnMXVLNDFLZWY0WU10Und5Sjc0OUZHcmQtUE1paXJydFdhRHZiVVlJQ2ZWMUcxcWZER1dF0gGXAUFVX3lxTE1leXpKVERDYVdzREFxZnZMMDB4VVRzZDdjNXpDMnFPVzF0ZWl1Q1NJVGppdGoteENSbGdka0F0bFZ2Z2tnd3QwckdzQzlyUmVMMTNhZFlsR190bWV2QVlYTFh1anF2ZFp5VkFxQjJ4ODEwT3QxUnlhQWx3UW1GazJVR3puMjdxMl9zcGlLOTFOSDF2aEQyOVU?oc=5",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "You Can No Longer Ask ChatGPT To Mimic Famous Authors",
+      "summary": "OpenAI has restricted ChatGPT's ability to imitate the writing styles of named living and deceased authors, a policy change with direct implications for AI copyright debates in book publishing.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZHJuMDhZQ2owM2ZWWG1sb1d4eEs1ZC03N3B1WFBROVhka0N0QUtnT1oxek9XamJOOFpyM2t0Yjk5QS1UamlvbEQ2TzJnYkY2eUl1S01uWmRqTXQ3Y1NHOWg5UnRvWFpjeEE1dVFySzd6Z0xwNWJyZEdRbWZ4WExLYWZQV0ljcnBvYjIwd01YTGZtZVhUOFE?oc=5",
+      "topics": ["AI copyright", "book publishing", "policy"]
+    },
+    {
+      "title": "Guest Post — The Third Time is NOT the Charm: Who Will Own How AI Participates in Scholarship?",
+      "summary": "A Scholarly Kitchen guest post examines the emerging question of ownership and control over AI's role in academic publishing, drawing on historical precedents in scholarly communication.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/07/30/guest-post-the-third-time-is-not-the-charm-who-will-own-how-ai-participates-in-scholarship/",
+      "topics": ["academic publishing", "AI copyright", "policy"]
+    },
+    {
+      "title": "AI Labs Buy Up, Rip Pages from Books to Train Models",
+      "summary": "A report details how AI companies have been physically acquiring and digitising books to use as training data, raising copyright and consent questions for authors and publishers.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSVVjb20xTktPeGhJRUdOUnNjZzBHLXRZRTIyX29kWktxM1VrRDU4TEpyX2tuaFc5a2V4QWQ1blphdWNraGMzdXlaeWZLcDR0M2hJTHdPVnJoTjVUaFNQYkNqMWx2MlRSLW1Wd25LTVdOcVVfQnJtT1VWeVpXWmhzZDJfTW9Qckk?oc=5",
+      "topics": ["AI training data", "AI copyright", "book publishing"]
+    },
+    {
+      "title": "ASCAP CEO Elizabeth Matthews on Embracing AI Opportunities While Protecting Songwriters from 'Theft'",
+      "summary": "ASCAP's CEO outlines the performing rights organisation's strategy to engage with AI licensing opportunities while pushing back against unlicensed use of members' works for AI training.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeHRmc0NINUVoVEpjYjlxdTNYQk5HNkJfQVd6VVdPLW9SZjRyYXZ1d3N3U2RwNGRYVFRleGVDeWM1ZnNNM3JQYVNVU0RDbWN4cG1HdWNRRVEzMjAxdG9qM1p3b293N0lkbUlMZGVWUm5YV05HMEZPMmRiaHRJWlNsZE5haUJGdXVYTDFZeVl4eklnUnpRUS05X29FY1BoSHJmSnk4SC13QTZZRGd1SjUwa1psYm51LXkzSWdKRzBLclZXZlpuSTRSYmR0SHJKU0NfREV4QTJGcFptNy11dUxnbA?oc=5",
+      "topics": ["AI copyright", "licensing", "music"]
+    },
+    {
+      "title": "Chinese Scholar Challenges AI Industry's Fair-Use Defense in Copyright Debate",
+      "summary": "A Chinese academic has published a critique of the fair-use arguments being deployed by AI companies to justify training on copyrighted works, adding an international scholarly perspective to the global debate.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTVNXV2ZKdG5IN1pZc0dqWVNjam1zWEtSYmxGeFNlMlBSVjZlNDFTOUdRSmczUWZCMEgySGRoYXotUXI5ZG5QeThORGM2cEVKVXNfZ0I5RVdicHlwTndfcUZiZ2N1cjF2TlJzLTMxVHBHWE8yUnhOMUU1Um5TY0RYVE5WZ3ZCWnJnbnhpN3RueEdTNHRQSXg4aGF3Nm1jTFZZdnRoZExQZGhEeDBmakdrQjlGSUVUU3pXYzFfZ0FRVVRxWTZXOU5zM1dHMWRCRWYwLVlUc1ZFSTUzdC1q0gFaQVVfeXFMTTZRRGZZYVNBdmdzRTkwcTFaRFF3SXNqT2o3NjdnUlNfNmxGanIyQmFzaVd5djB2QW5yZUNydExQZFYwUUI2cDNOWEdfd3BJellJZTZEOWlCYzh3?oc=5",
+      "topics": ["AI copyright", "international", "policy"]
+    },
+    {
+      "title": "Indonesia Seeks Balance Between AI Tech and Creators in Copyright Bill",
+      "summary": "Indonesia is developing copyright legislation that aims to balance the interests of AI technology developers with the rights of local creators, as the country consults digital platforms and media on a new AI copyright framework.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTlRmX19oSFhySmxySkVORWxhNE0zR3cySWI4QmNkREhFbHdsRzdKbGM4Tk5Rb1l2YndyYmtuM2lFV2NoQ0djSWw1dmlKTXJjTk9xMTRWYjYwSlhfMUc1eDg5NUNBaEZJMWEtMnF1T2pPZkV0MFFReEtwb1lFWGgwUFpZU2lfenV4WEtSRzJXREdaSDUxWmVzenhialJKZi1Kay1LeGpabmhueFBF0gGyAUFVX3lxTE9rWVV1UTRFUzVlOHpXdkI1MmR2ek5kbXFfTTA2TWFZRmUxNmJrQ2ttUktMT2RMUUVqeXBTQzJTQldsVVZKV1luaGVmVldXeXRKVktTSGRCRE0wRjZNRGxFQmFzbDNEM3BxSTFpUURuX213ODZZcDJ2SUlSa1RzR0xBMjdHcHloTmZOTVlEUzRsOEVsTWZ6dW03aFpoWTM2dE41X3g0UVloSF9mM2JEcmpYUFE?oc=5",
+      "topics": ["AI copyright", "policy", "international"]
+    },
+    {
+      "title": "UK 'Sovereign AI Fund' Does No Due Diligence on Copyright Breaches",
+      "summary": "A report alleges that the UK government's sovereign AI investment fund is failing to carry out due diligence on whether recipient AI companies have breached copyright law in building their training datasets.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1hbFZBc3d1N0Y4ZWFSZUsySGVpeDI0X1ZabGJrMU93dVJkU3VJQzMzTHdBR3RqeUN5SWpFaS05OUdRUDZBWWlpMkg3R2ZER1VUSU52Uy1peFZDekY1bFlSX3dpRVBTQ2lQb0h4VGU2d0JDRDZMX2c?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Labels United on Chart Eligibility for AI Music, Divided on Which AI Qualifies",
+      "summary": "Major music labels have reached agreement on the principle that AI-generated music should have defined chart eligibility rules, but remain divided over which AI systems and outputs should qualify.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ0tMcXJRZE10a1pleVFEVGdXeXlwTTRzYndfVWpSQ0I5eG82bU5TcmJNbVI3T2JYUjV5ZXpsRHE0Q0psbDZFeWJ1SWdqY3dvV2QteDlWZ1JUajRHNFBxNFZSRHpITmZUTjk3RDNNM0lSbmRFSW9GRXRsWmNVeEQ5Tk1fOGEyWmtIUnF4WGdub1NwU201OWZVOEduMGk4T0t2c1Q0MnZMZXNWcExHczktTllHWS1iNGFTSU9ueGw2WQ?oc=5",
+      "topics": ["AI copyright", "music", "policy"]
+    },
+    {
+      "title": "Delhi High Court Shows a Better Way to Think About Copyright & AI",
+      "summary": "A commentary piece argues that the Delhi High Court's approach in the ANI v. OpenAI case offers a more nuanced and instructive framework for reasoning about AI and copyright than seen in other jurisdictions.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWEttSHI5SVFvVFlDTmVtMUJzUl9qdjVkT0ZIbHNiUjM1cmhjc3k3X3lsczBqUldVdzlSSmJlSFRxc2ttdkdhUDhUdmFxQmZIckZFc2UyQ2pHNTY3NFZIMVJCN195dGRPOFVKS0k4THZldWFmNzdBeWpSR25jX1RERmJ1X1ZMdEg2b1ppRXlkRzQ3dUpTci1HTnplMlR0UmpJWV80ZUhSeW4zT012b1l3eW1mcW5ndVYtR0VyV1JvSljSAccBQVVfeXFMTjNIRHByZlZZNUF2OEk3Z1pRWWZUbTctbXNkS3N0NnNaNTFFYlBJTVRySTZXY3dHbnlVTmx3MmY5WmEyNXV2c2lPSGNsVWUwWWJ5STdZQV9IYktmZTlwVVBwVEI1cjBTeXBucmZDTlgyRnBzZGwxRWZZelp6VTdWRmRtTDdKSFEzdVdVdU9TWlR1ek1vQWZ2ZVJfMFZIY3BBMjNuSk03cEhlREpITjJCeWxRVG91NEpxTThvcXpBMm5mRkJ5UXE0NA?oc=5",
+      "topics": ["AI copyright", "litigation", "international"]
+    }
+  ]
+}
