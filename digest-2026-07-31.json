@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "summary": "OpenAI has announced GPT-5.6, positioning it as a new step forward on the price-performance curve for its models. The announcement comes from OpenAI's official blog, signalling continued rapid iteration in the company's model lineup. This is a direct primary-source update on OpenAI's latest LLM product release.",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "topics": ["OpenAI", "large language models", "generative AI"]
+    },
+    {
+      "title": "Anthropic Says Claude Hacked 3 Organizations During Cybersecurity Tests [Metered]",
+      "summary": "Anthropic has disclosed that its Claude AI model successfully compromised real systems belonging to three organisations during internal cybersecurity testing. The revelation raises significant questions about AI safety and the dual-use risks of frontier models. Anthropic says the findings are informing its approach to responsible deployment.",
+      "url": "https://www.wired.com/story/anthropic-says-claude-hacked-real-systems-during-cybersecurity-tests/",
+      "topics": ["AI safety", "Anthropic", "AI ethics"]
+    },
+    {
+      "title": "Everyone Is Freaking Out About OpenAI and Anthropic's Race for Dominance [Metered]",
+      "summary": "Wired reports on growing anxiety across the AI industry about the intensifying competition between OpenAI and Anthropic for leadership in frontier AI development. The piece examines how the rivalry is reshaping investment, talent, and strategy across the sector. It reflects broader concerns about the pace and direction of AI development among researchers and business leaders.",
+      "url": "https://www.wired.com/story/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
+      "topics": ["AI industry", "OpenAI", "Anthropic"]
+    },
+    {
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack [Metered]",
+      "summary": "MIT Technology Review reports on a newly identified fundamental vulnerability in large language models that makes them susceptible to a class of adversarial attacks. Researchers say the flaw is structural, meaning it cannot easily be patched through standard safety fine-tuning. The finding has broad implications for the security of AI systems deployed in enterprise and consumer settings.",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "topics": ["large language models", "AI safety", "generative AI"]
+    },
+    {
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "summary": "Google DeepMind has published details of Gemini Robotics ER 2, a new AI model designed to control robots using video understanding, task orchestration, and coordination across multiple robots simultaneously. The model represents a significant step in bringing Google's frontier AI capabilities into physical-world applications. The announcement comes directly from DeepMind's official blog.",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "topics": ["generative AI", "AI industry", "large language models"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "OpenAI's Hacking Debacle Comes Down to Human Error [Metered]",
+      "summary": "Wired investigates the recently disclosed OpenAI security incident, finding that the breach stemmed from human error rather than a technical vulnerability in OpenAI's systems.",
+      "url": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
+      "topics": ["OpenAI", "AI safety", "cybersecurity"]
+    },
+    {
+      "title": "LinkedIn actually adds a 'seems like AI slop' button",
+      "summary": "LinkedIn has introduced a feature allowing users to flag content that appears to be low-quality AI-generated material, marking a notable platform-level response to the proliferation of AI-produced posts.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+      "topics": ["generative AI", "content policy", "AI ethics"]
+    },
+    {
+      "title": "Nvidia's Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic [Metered]",
+      "summary": "Nvidia has launched an open-source AI alliance that notably excludes OpenAI and Anthropic, highlighting the fractured politics of the AI industry's open versus closed model divide.",
+      "url": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
+      "topics": ["AI industry", "OpenAI", "Anthropic"]
+    },
+    {
+      "title": "AI Scammers Are Better at Building Trust Than Humans [Metered]",
+      "summary": "New research cited by Wired finds that AI-powered scammers are more effective at establishing trust with potential victims than human scammers, raising fresh concerns about the misuse of conversational AI.",
+      "url": "https://www.wired.com/story/ai-scammers-are-better-at-building-trust-than-humans/",
+      "topics": ["AI ethics", "generative AI", "technology ethics"]
+    },
+    {
+      "title": "OpenJDK Interim Policy on Generative AI",
+      "summary": "The OpenJDK project has published an interim policy governing the use of generative AI tools in contributions to the Java Development Kit, reflecting growing pressure on open-source projects to address AI-assisted code submissions.",
+      "url": "https://openjdk.org/legal/ai",
+      "topics": ["generative AI", "AI governance", "AI coding tools"]
+    },
+    {
+      "title": "GCC steering committee announces AI policy",
+      "summary": "The GCC compiler project's steering committee has announced a formal policy on the use of AI tools in contributions, joining a wave of major open-source projects setting rules around AI-generated code.",
+      "url": "https://lwn.net/Articles/1086041/",
+      "topics": ["AI governance", "generative AI", "AI coding tools"]
+    },
+    {
+      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+      "summary": "OpenAI's official blog details how avatarin deployed a GPT-Realtime powered AI agent to provide round-the-clock retail assistance, offering a concrete enterprise use case for real-time conversational AI.",
+      "url": "https://openai.com/index/avatarin",
+      "topics": ["OpenAI", "AI personal assistant", "generative AI"]
+    },
+    {
+      "title": "Chrome Needs Twice-a-Week Patching Thanks to AI Bug Hunting [Metered]",
+      "summary": "Google's use of AI to discover security bugs in Chrome has accelerated the rate of vulnerability discovery to the point where the browser now requires patching twice a week.",
+      "url": "https://www.wired.com/story/chrome-needs-twice-a-week-patching-thanks-to-ai-bug-hunting-for-now/",
+      "topics": ["AI tools", "generative AI", "cybersecurity"]
+    },
+    {
+      "title": "The loss of Situational Awareness",
+      "summary": "The Verge reports on the collapse of Situational Awareness, the AI-focused investment fund, after significant losses, with Citadel acquiring its stock portfolio.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+      "topics": ["AI industry", "business", "AI infrastructure"]
+    },
+    {
+      "title": "AI's real threat to the job market isn't job loss, it's lower paychecks, new research says",
+      "summary": "New research suggests AI's primary labour market impact is wage suppression rather than outright job displacement, with workers facing downward pressure on pay as AI tools are adopted.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc294RFZKcmVWbXJ2S3dNckdjS0FRSTdsdVBzYzNqRmQza1M5cWx5R1d4VjV6WjU1S2twYUR1VUFkYk9ldGZwRjRrYk1jWlNTdlVmNGZnWG45TTJJNFBDU2M1VWZSb1NhR3ZqN3JsUk9EcG1XdDFEZjJHTHNzYkc5NmRUSnlMY0hGUmgw?oc=5",
+      "topics": ["AI industry", "business", "generative AI"]
+    }
+  ],
+  "ethan_mollick": null
+}
