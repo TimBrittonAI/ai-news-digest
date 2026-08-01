@@ -1,0 +1,66 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "GEMA Wins Copyright Case Against Suno AI in Germany",
+      "summary": "A Munich Regional Court has ruled that AI music company Suno illegally trained its model on copyright-protected music without a licence, finding in favour of German performing rights society GEMA. The ruling is considered Europe's first major AI music copyright decision and bars Suno from using GEMA-protected works in its training. The case marks a significant precedent for how AI training on copyrighted material is treated under European law.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRXhJWnlhNXFJeUlGSE9BaWxkb29jYlBYVFhCMDM3ZmN6aFdEMFhDN1FjbmxnMGhfZzQ5OXdFZXlQNHpHdDRHbmdxOHVSSEdKMlozbDlMWmZuWlczRE1zTWJzT2FrNDBwajZBTVF2NEx3Y1MyVmYzb0dMdGszUWRYTlhYSUt6OEI5QS1XUXp1VEdUOWpscTBCbWpwMDU0cGloM2RNemo4aEJBbkphSEI2VktwZUZXUkJxWUtXZy0ydGxMcHBONDdV?oc=5",
+      "topics": ["AI copyright", "litigation", "music licensing"]
+    },
+    {
+      "title": "Reddit's DMCA Claims Against Perplexity AI and SerpApi Survive Legal Challenge",
+      "summary": "A US court has allowed Reddit's DMCA claims against Perplexity AI and scraping service SerpApi to proceed, rejecting the defendants' bids to have the case dismissed under a broad reading of the DMCA. The ruling keeps alive Reddit's lawsuit over unauthorised scraping of its data for AI training purposes. The decision is a significant procedural win for platforms seeking to protect their content from AI data harvesting.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWUdNZklPWHNNVXdRZFFvdDJmeDM2ZGRjSDF2RW5MOUJKMVBhemhIc3pMOUpYSndSNlBUbTVFV21vUUdpQ2hESWhzUWk4Wm8tT2xGN2tURDNHei1uUHhyNjRLTTFCUkphMUxERGdxbEhlMDhuc0dYT0pUU1lOdzdjX2ZNQXhkNG9XOE9qZ0RDZTNsN2pSNDIzX1BJN0c0Z0w4SVBfWEltUDh4bFQyd2E3WHp0RFBtMW9EQTMycnVhT09XMFVl?oc=5",
+      "topics": ["AI copyright", "litigation", "data scraping"]
+    },
+    {
+      "title": "Midjourney Copied Thousands of Car Photos to Train AI, Suit Says",
+      "summary": "A new lawsuit alleges that AI image generator Midjourney copied thousands of copyrighted car photographs without authorisation to train its AI model. The case adds to the growing body of litigation targeting AI companies over their use of copyrighted material in training datasets. No further details on the plaintiffs or jurisdiction were specified in the report.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWN3NGh5LS1oWVFuRTVsZUdLM1RaaW9HWGFJQzhUQ19KSUtHTFBCUVV0bXZfemo5bGU5S0gwV1U4YkR0c0ZKUXc3NnRadnFNRXU3bTl2bkJjZW9ZS3ZrcGxqTmdlZjhfcno2S0wzTTlJXzJJaEhNSGNPaWJKMkNlZHMxNDNKUjhOYnJ5MC14RnEyR2g0LUVrMHVpVV83cnFyWUE?oc=5",
+      "topics": ["AI copyright", "litigation", "image generation"]
+    },
+    {
+      "title": "Anthropic Says Authors' New AI Copyright Claims Fall Flat",
+      "summary": "Anthropic has filed arguments contending that authors' recently added copyright claims in their lawsuit against the company lack legal merit. The filing pushes back against plaintiffs' attempts to expand the scope of the case. The dispute is part of a broader wave of litigation by authors against AI developers over alleged unauthorised use of books for training.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaVRpOTdjU0VHaFd0N2xBMExZZzhvNzNNYm5UWW1uN1h4N2N3b255cmdpWHBvNTFtVHFJa2puQ05wZ3lGODJIT2pwZGRRb2pqQXoydVgxU0dpTjBKR1Z0OXpuWnRwU01nc3lRVEF6XzZZQjRxN1c2YVY2ZnVKdTBTR2Z5ZnZDY0ZEV256Mk5zY0stSWRqbnR3ZlZKVXXSAVZBVV95cUxNN2Z0azRWazU2dGs5X1lfbGlyYTQ1ZHc3T1JRVkItQ0ZPanU1TW8yc01JSjJzQm4yM282bVZxZEFOclFEemV4dUdnWlcxTEtpMFg0X0FaZw?oc=5",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "GCC Bans AI-Generated Code Over GPL Copyright Fears",
+      "summary": "The GCC (GNU Compiler Collection) project has moved to ban code derived from large language models due to concerns that such code may carry copyright implications incompatible with the GPLv3 licence. The decision reflects growing unease within open-source communities about the legal provenance of LLM-generated contributions. The move could have significant implications for how AI tools are used in open-source software development.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNR19SM1kteEVLWjFYbEtNb2RobURNenJHQkhPeGFTY0l6UURTb2VTbm9HazBpeXVvVjFJSHY2ZG42b1RvdS1qMkNBSlVIYVVrM3BuM2w4OHNVeDZXZmw2alptWVlNLU5vZjdvclZHTURoUWt6TVlhSzlVTzdnRzBLUDl4VnU1eUNYbVBtOVRuN1pWaXht?oc=5",
+      "topics": ["AI copyright", "software", "open source"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "AI vs. Authors Update: Court Approves Historic Anthropic Settlement While Meta Litigation Continues",
+      "summary": "A court has approved a settlement in an AI copyright case against Anthropic brought by authors, while separate litigation against Meta over similar training data claims continues.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeFZuT3V4QlNTbTBrVTc0VWxNVXZOdDNHcmRXZlFWTUcyYTN2b3NXVU0xSTh3TmRwTThXeGw5MmdwcjFMWWJ6bW1OMVYzUWhZcGR3MG1hckVtbUZHVEVVWkJ3ZlRqVFFaYzVfa05YYXNyd0VWbzlWZElYTFFYRVdUWGVvVjJkbkl3N0tvNW84M0dVYjc3VnhZVGRqZDlBdWpVeHl0Z1VnTXIydmNndWfSAbMBQVVfeXFMTkpUQ1BUV0Rya3NPdGx5R29JSEthZE5ZVy1SZ0t4NDFMUUZtNWQxV2tvOXFSVERQYWpzTl9TdVozeWpQc3lEbVBEYk5IOUY3VzVEUk43ZWJ0Mk9YX0ZjbjFBU0syR3ROd3poYTVGSHB5Qy12VnVOMHpkcVVIX2Z0bXc5T2dHbFdBVWwzVkZTVWliQ2RMc09yRTNEOVZ1WTFPNjZ3ak5vbkhrenhid0xHeEM4d0k?oc=5",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "OpenAI's EU AI Act Statement Skips Training Data: Copyright Gap Activates Sunday",
+      "summary": "Analysis finds that OpenAI's statement on EU AI Act compliance omits any reference to training data transparency, raising concerns about a copyright disclosure gap as new provisions come into force.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeXhkQjUxaGQxZWpLUzBpMVNabTg1LXpRX2k5aXU2cVo5UkozTlA3bWdaV2VjenpMMzZxY3VkTEc3QzdrSzVFUTlZUmIzUlRMR3FXZkMwdFotQlF1OGkyb1Q0WUV5aFRXY21rdVVPaXNEWDJpUll2OG9YaF92bm1mYUhzUnpmNVVhUTRWU1lUMGY2aHpuTVFOOUFwd0xyZ2ZPUWNVRURDaUxvMlRUWnIxeHdaUjIzWmVtcVlDNFYzclVKNW9NMnpSWWJPR0FJZw?oc=5",
+      "topics": ["AI copyright", "EU law", "policy"]
+    },
+    {
+      "title": "Deep Fakes, Real Transparency: Labelling Deep Fakes and AI-Generated Public-Interest Text",
+      "summary": "An analysis examines emerging legal and policy frameworks requiring labelling of deepfakes and AI-generated content, particularly where such content intersects with the public interest.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQlRFd3BhZ1gzVXVXMUhYTFppZEx2RUlmRWFsNWE5b3RnV044R1IxZ0FzUmJoLTdjeHVUS0pjek5Ldk5WTmlXSVlYV003dnNZQW9aSkt5TGw2UTZYSEJsbndtcFR6NnlyTXVaVzNUX3Q2aURfWUpfbWlIdGRneC1pRS14ZmpTeTZLUDF0UmY3LXZuQjJ3RVpqNVE1RnZMZzladkdRQXB5QUNQNlFESmNoTEc3THBJdHFfNVAzMUtNcw?oc=5",
+      "topics": ["AI copyright", "policy", "transparency"]
+    },
+    {
+      "title": "Paperback Writer, Meet the Shredder",
+      "summary": "A commentary piece examines the impact of AI-generated content on the book publishing industry and the challenges facing human authors.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYkg5MmtYTG1vbWJDSHlLbFFJM1d3b2xYMG9tLWVnNUxtWmZJLXZNSnJ0NGRDSElxY0czMnpzY0tZNm8tc25oSGg4cnQzM2VaemdYczY0UFBpai1HMUFTVXprWnFHYUFXTHp3MDZNLVZuLXN5RDdqbm5RY3FDT1NrazRaZlJXNWx1dzdr?oc=5",
+      "topics": ["book publishing", "AI copyright", "authors"]
+    },
+    {
+      "title": "Never Too Late: If you missed the IPKat last week!",
+      "summary": "IPKat's weekly roundup covers recent developments in intellectual property law including AI copyright cases and related legal commentary.",
+      "url": "http://ipkitten.blogspot.com/2026/07/never-too-late-if-you-missed-ipkat-last_01741720031.html",
+      "topics": ["AI copyright", "IP law", "litigation"]
+    }
+  ]
+}
