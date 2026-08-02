@@ -1,0 +1,91 @@
+{
+  "top_stories": [
+    {
+      "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier [Metered]",
+      "summary": "OpenAI and Anthropic have been conducting or enabling AI-assisted hacking activities, raising complex and unresolved legal questions. The article examines how these actions sit in a grey area of existing law, with implications for AI safety, corporate accountability, and regulation. The situation represents a novel frontier for both the AI industry and legal systems.",
+      "url": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+      "topics": ["AI safety", "AI ethics", "legal"]
+    },
+    {
+      "title": "OpenAI: Ten advances in mathematics and theoretical computer science",
+      "summary": "OpenAI has published a blog post highlighting ten significant advances its AI systems have made in mathematics and theoretical computer science. The post details how AI models are contributing to solving difficult problems in these fields. It signals growing capability of generative AI in formal reasoning and scientific research.",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "topics": ["OpenAI", "generative AI", "large language models"]
+    },
+    {
+      "title": "EU will mandate labels on authentic-looking AI content starting August 2",
+      "summary": "The European Union will require labels on AI-generated content that appears authentic, with the rule taking effect on August 2. The mandate is aimed at helping consumers identify synthetic media and deepfakes. This marks a significant step in EU AI governance and content transparency regulation.",
+      "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content/",
+      "topics": ["AI regulation", "AI governance", "generative AI"]
+    },
+    {
+      "title": "Here's the problem with putting an AI image generator in Google Earth",
+      "summary": "Google briefly launched an AI image generator within Google Earth but pulled it after just one day, raising concerns about the appropriateness and accuracy of AI-generated satellite imagery. The Verge examines the editorial and ethical problems with integrating generative AI into a tool used for factual geographic reference. The incident highlights broader tensions around deploying generative AI in authoritative, real-world data contexts.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+      "topics": ["generative AI", "AI ethics", "Google"]
+    },
+    {
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "summary": "MIT Sloan research finds that AI can provide high-quality financial advice, with the quality of output strongly dependent on how users frame their questions. The study suggests AI tools perform well when users ask specific, well-structured queries rather than vague prompts. The findings have implications for how consumers and businesses should approach AI-assisted financial decision-making.",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "topics": ["large language models", "AI personal assistant", "consumer research"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "The Download: Montana's new experimental drug rules and Anthropic hacks [Metered]",
+      "summary": "MIT Technology Review's daily briefing covers Montana's new right-to-try legislation alongside the story of Anthropic's AI hacking activities and their legal implications.",
+      "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+      "topics": ["Anthropic", "AI ethics", "legal"]
+    },
+    {
+      "title": "Poor AI ads hurt brand perception, report",
+      "summary": "A new report finds that low-quality AI-generated advertisements are damaging brand perception among consumers.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMTZyLWd6TGpSMzR4OE9iRUJNbUZPX2t6SzdUbnlfcFlUNVZrYXhnMnBMUmdCdHhpSlExZzV5empvS3dMWW0zcHZ4T1FvSzd4MzdEZ2d0NVhfZU00LS1uSDhYaU1qUXN6NVZ3djdzaWRrZkFwUzRiU3pfTkthb2RPQVJqMkNSVER5TDZYU3pYaWhFRFJC",
+      "topics": ["advertising", "generative AI", "AI ethics"]
+    },
+    {
+      "title": "Univé builds an AI-ready workforce",
+      "summary": "OpenAI's blog details how Dutch insurer Univé has worked to build internal AI literacy and capability across its workforce using OpenAI tools.",
+      "url": "https://openai.com/index/unive",
+      "topics": ["OpenAI", "AI industry", "business"]
+    },
+    {
+      "title": "Is this Billboard Hot 100 hit AI slop?",
+      "summary": "The Verge investigates whether a recent Billboard Hot 100 charting track by Fenix Flexin is AI-generated, examining the broader question of AI-produced music entering mainstream charts.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+      "topics": ["generative AI", "AI ethics", "content policy"]
+    },
+    {
+      "title": "Flint: A Visualization Language for the AI Era",
+      "summary": "Microsoft Research has published Flint, a new visualization language designed to work with AI systems, enabling more expressive and flexible data charting in AI-driven workflows.",
+      "url": "https://microsoft.github.io/flint-chart/",
+      "topics": ["Microsoft", "AI tools", "large language models"]
+    },
+    {
+      "title": "This AI Assistant Wants to Make Up for Your Boyfriend's Incompetence [Metered]",
+      "summary": "Wired profiles a new AI personal assistant product that markets itself around compensating for a partner's domestic shortcomings, raising questions about AI's role in relationships and gender dynamics.",
+      "url": "https://www.wired.com/story/this-ai-assistants-whole-pitch-is-making-up-for-your-boyfriends-incompetence/",
+      "topics": ["AI personal assistant", "technology ethics", "user interaction"]
+    },
+    {
+      "title": "Marketers still trapped in approval loops, report",
+      "summary": "A new report finds that marketing teams remain bogged down in lengthy content approval processes despite the adoption of AI tools.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbHdpS2JBRHhBMWhGZ0hVTXBrODlibDRvSFNFOXJSZVZtbDdpQkVJcjJJc2FMczBEVjVOTjl5aFNESXFXd0RBZEVCcVhSSmtCQ0N2aUZTRVEyTXpnTzcxQmk0NzNPRTdoYXN6ZnVhUV9jWmRwaGdwX0ZKQ1pfdzhOOXc4dGxsWVJ6Q3ppODF0Q3QwN01PeUlPeUZOTTFuSms",
+      "topics": ["advertising", "AI tools", "business"]
+    },
+    {
+      "title": "On the non-use of AI in my writing process",
+      "summary": "Science fiction author Charlie Stross explains in detail why he deliberately excludes AI tools from his creative writing process, citing concerns about originality, legal uncertainty, and the nature of authorship.",
+      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
+      "topics": ["generative AI", "AI ethics", "copyright"]
+    },
+    {
+      "title": "Ed Zitron: Big Tech AI Boom Is Built on a Scandalous Lie",
+      "summary": "Tech critic Ed Zitron argues that the current AI investment boom is founded on inflated or misleading claims about AI's commercial viability and real-world impact.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaWlZVzRuOUptbGpEdDl2M2RPcUhpamlycUhDM3RTRU5sMmFNc0FaTkIxR2JGTFRKM21wREZZSUR2SzE4ZnhCVWpoTzljeXNWVTZWWjBEdTNwY1pmRFUtYU1rYWk5YmdGb0FMNFNSTTdLczVhZ0NNelF2T2xLYnlDVmc1cF9oVzR2TXBjY0RrbF9yU2R0Ymc1M0pGNEZEQjE4RlhYRkJFeWJLS1pjZWl3",
+      "topics": ["AI industry", "business", "generative AI"]
+    }
+  ],
+  "ethan_mollick": null
+}
