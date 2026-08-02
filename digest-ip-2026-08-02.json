@@ -1,0 +1,66 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "German Court Rules Suno Illegally Trained AI Model on Copyrighted Songs",
+      "summary": "A German court has ruled against AI music generator Suno, finding that it violated copyrights held by collecting society GEMA by training its model on protected music without a licence. The court rejected Suno's fair use defence, marking Europe's first major AI music copyright ruling. The decision sets a significant precedent for how AI companies may be required to licence training data.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNnRwY1U4VDNYYktTZmg3RVVFTmxUcVhGTjc5MDRxazVOU3ZOZFBCUEV0VzlkVVN0TTAxV0ZnSm9tN3RYUHJKN2M3ai1Sazl3RkhibnhyeV8wQWdNSWwxdDBMa1dYdGc3TDdsTExHRVAtVE1mU28tXzdtMU4xV21IY3FVUi1PbkFDOXpiWGFtRjhHa2U3cWo1cmxlTmRFM2FYYjExLUxnN3VXTVk0a3Nn?oc=5",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "Why Anthropic Bought and Destroyed Millions of Books to Train AI",
+      "summary": "Anthropic physically purchased and destroyed millions of books as part of its approach to training AI models, raising significant questions about copyright, fair use, and the ethics of using published works for AI development. The story sheds light on the lengths AI companies go to in navigating copyright concerns around training data.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9POHJ4aFFTUEQ3OFNvQ2JBYktIRWU1V3RpTDZ2aHlObmVsRnZlNWdEMXphVXlJenA3LUF0a2I3b1ZrbkU3dmFBUTVkQjlOVy04ME9mWjJSNWhwNk8zZ0RwbUVUcUZLbGlfUDNB?oc=5",
+      "topics": ["AI copyright", "book publishing", "licensing"]
+    },
+    {
+      "title": "AI vs. Authors Update: Court Approves Historic Anthropic Settlement While Meta Litigation Continues",
+      "summary": "A court has approved a landmark settlement between Anthropic and authors who sued over the use of their works to train AI, while litigation against Meta over similar claims continues. The Anthropic settlement represents one of the first major resolved copyright cases brought by authors against an AI company.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaHA1NmU1d3F6bWpSMVZuQWRnZjJlU0pPNUlLNVZ6NU9BZWY3blRBSjVVellFTW1CcE44SDBLTFd1azViSGI1TGJRWmlJak16VjlrekZ2YzB0V3hDNGlEbWZfQnFiVWdRU1p1b0Q3TnJzWjd4R3dsR3lmRWt0YmVKZGdVN2Y?oc=5",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "Reddit's US claims against Perplexity AI, scraper survive under broad DMCA reading",
+      "summary": "A US court has allowed Reddit's copyright claims against Perplexity AI to proceed, applying a broad reading of the DMCA to cover AI data scraping activity. The ruling is a significant development for platforms seeking to protect their content from being scraped for AI training purposes.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS1MzTXBXXzRqUFVWQ0wtQ29mblI0VGttV1FsdDY3NjBOaWVCazlTREZ1MHZxblFxMDV5TGtmMnJqR0NQYnB5cDVTN3MtR2kzaFVobnkwWUNmaW5QUEliQWdlLVZTTkFRQWRGaDRDRUhBQVhMMFBvYW4zcDhtbjE0eDUzT2hQckcxalB3VTNWOGhVN0hlelF1VkQwMEs2SnJtaVdPSFhCQ3BCUzRVNW9KZWlUTlRVcWYtWDRnT0NLMFFGd9IBWkFVX3lxTFAxYUlaZGoyVThOa0Q4YjRmV0tET0hTLW9rMG5jZEZ1aGVJNHEwNVFKS1ZvMWdDQnBKX1BqaEd6NzdoaHhHNWtwOWVnRDR2eU0zVFZOQUVxZkJaQQ?oc=5",
+      "topics": ["AI copyright", "litigation", "software"]
+    },
+    {
+      "title": "AI training, fair dealing and copyright infringement by AI platforms: Analysing Delhi High Court's order in ANI Media v. OpenAI",
+      "summary": "An analysis of the Delhi High Court's order in ANI Media v. OpenAI examines how the court approached questions of AI training, fair dealing, and copyright infringement by AI platforms. The case adds an important non-Western judicial perspective to the global debate over whether AI training on copyrighted content constitutes infringement.",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWklKeHZLdXZ2YWFZZFM2LW9GbXBMTUNZNXJNQkdndTFhWVRpMGdmNXdMOVpodk05aFBtYVk4N0EtcHhVUmVfWS1tQWxQVG82cl9MOVRNNzNYZUxNUFNMVHk5T0JlMG11VTdqdDNxNVZLb0JPaHZoRTM1T1Vwc0ljNGI2VmRIZVJ3RW5icmpnamVzdHNTZXphcGl2R3ppLW1RZzFwelI2VjJVRjdKVEVuaFU4VUVmdEdPMUNZUEMxRVFmcFBNb1dPeTRpMHRCZ05vUkZINTlpSE1rREJncm9aWWVSdk0xZXhPS0JXeGhRR2J6cXlG?oc=5",
+      "topics": ["AI copyright", "litigation", "policy"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Suno Loses Europe's First AI Music Copyright Ruling: Training Without Licensing Is Infringement",
+      "summary": "A detailed report on the GEMA v. Suno ruling confirms that Europe's first AI music copyright case has concluded that training AI on protected works without a licence constitutes infringement.",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZm9YdXd1LVRQbzFsTmJaejJwVC1PWFZZM0VKVWVrcmFuRWhwWXFFTUJmclRwSkdTR09Sb01JQUlsdjkwVXNEX2xUV3NuemVMd1dKdXIxcVdPNVh2VXdKQ3RYV2ozYlNXWGg3aE9OUm9iR3dNR3NXb0ljU3dmUFZ5NjFnTlpxVDhpZ25yellNb1VSNm4xX1hHd1BoSEZsZmd4dERNYW8tRHVpNVpFc3NuRk55UzFMYzRFelJWMTFwMDd2M3JWOGt1Skh0LXhXN0p3Mk1ROWJWTllCcjV0dFE?oc=5",
+      "topics": ["AI copyright", "licensing", "litigation"]
+    },
+    {
+      "title": "RDDT Stock Set For Worst Day On Record — Reddit Advances Copyright Suit Against Perplexity In Crusade Against AI Data Scraping",
+      "summary": "Reddit's stock fell sharply as news emerged that the company is advancing its copyright lawsuit against Perplexity AI over alleged unauthorised scraping of its content for AI training.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLUZCOWpvMlM2MV9HWUlqYVRqTUhQNzVQektIY3ZKeVZQWDJ4ckZLR2lnUzhpeGEyNFRZVEhmOG40ODFUb1EtNEtGVHdVZUZjLTQ4aktRTEhjOHZoNVNKMHFwNHNBMnZkdy1IS3plckRfNmNsT0lUeFFULUgxOGRISEpKTUp2b2prLUJkUjVvTEFUd0k?oc=5",
+      "topics": ["AI copyright", "litigation", "software"]
+    },
+    {
+      "title": "Copyright Void: GCC Bans LLM-Derived Code to Protect GPLv3 License Chain",
+      "summary": "The GCC project has moved to ban code derived from large language models in order to protect the integrity of its GPLv3 licence chain, highlighting open-source copyright concerns around AI-generated contributions.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMThDRmNhaXZCV2Rlb3ZLS3RTOG5DZHpDakFaRzRZODVwV3Z5aVk2NVZMdWFvUTI5TndwZnBYYUV4bWUteUpJVm5zb1ZjbXo3UFdFT3d3Z01Pb05DQjNOWVF4b2pxZkF3X1VLemxYOFZXREtfN0F1LVEyaTFhT1ZuZmZ6bFZ1U290Tk0tLVg4UV8zaEZ4TVd5MUk1bEZoVHJjNTIzeFJ6VVVnMzRBeUZNeXNzTkpncE1tbmRNU1NCdEE?oc=5",
+      "topics": ["AI copyright", "software", "licensing"]
+    },
+    {
+      "title": "MiniMax H3 Opens AI Video to Developers: Copyright Lawsuit Clouds Every Clip",
+      "summary": "MiniMax has launched its H3 AI video generation tool for developers, but the release is overshadowed by an ongoing copyright lawsuit concerning the content used to train the model.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVGxzXzhJOWQ5T2E3NXN3STVCX2JIVFE5X1JmWmNVU3J2Zmp4cGlZc2lCX3VYS285SVVUenc3NEpyVDBGc2Y5YmpSLUZGdUNXSUthcnBYLTljRExKeEt0cjdQUEQzRFBlNVFranNscm5FdEFhV28tU1Y5a3JpSWJMSERHTHNLT2x2RmkycGFzQ3FkN2ZBLTVRSGllZ244LXY5XzNvVnlzbDBtQ0NscWVVMEtXblBCelA1ZXFtQ29DZTYwMmh2VWc?oc=5",
+      "topics": ["AI copyright", "litigation", "software"]
+    },
+    {
+      "title": "AI Detection And The Sin Of Slander",
+      "summary": "An opinion piece examines the reputational and legal risks that arise when AI detection tools falsely flag human-written content as AI-generated, raising questions about accuracy, accountability, and defamation.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbk9OSjZvV0taX2hNQm94SzRnRDFmc1BFNWJNSDQ5UjRObVFmd2xyLUVXSGFvSUJJak1MOGVLZlY3UnFxVjRsXzBkdHhZQzBkZUtlWHFRM3pVX0F2UGRraFZYTGd4bk92OG9GUVVGMjh5bzFiMzM4MkpXYm1reEh5bko1Y25DNzlvd0h0TFY5OUo?oc=5",
+      "topics": ["AI copyright", "testing", "policy"]
+    }
+  ]
+}
