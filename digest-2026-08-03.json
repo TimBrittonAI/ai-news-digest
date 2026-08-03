@@ -1,0 +1,61 @@
+{
+  "top_stories": [
+    {
+      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
+      "summary": "As EU AI regulations begin to take effect, Europeans are set to encounter AI systems embedded across services they use daily. The piece examines how widespread AI deployment has become and what the regulatory reckoning may reveal about its scope and influence.",
+      "url": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+      "topics": ["AI regulation", "AI governance", "generative AI"]
+    },
+    {
+      "title": "The AI Apps Winning Over Corporate America",
+      "summary": "A look at which AI applications are gaining real traction inside large US enterprises, examining which tools have moved beyond pilots into widespread adoption. The story highlights the growing commercial footprint of AI in business workflows.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeURUVGZGUHc4TlIwdjNkVWgwNE9iUUtkRmpWelhHYzhFdEdqdG1kRXNYSktrZklyTmJNeFk1RHVyTlNwLVpON1paM05jWWs4dkphWHlSekwxdXpiaFV3YVNMbXNud0F4S283SkVWQ29BTGZ2dlZOajlTaWt6eVBEcEFpRV9GQQ",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "Is Paying Artists Enough to Convince Them to Embrace AI?",
+      "summary": "The Verge examines Pippa and Seedance's model of offering royalties to artists in exchange for licensing their work to train AI video tools. The piece explores whether financial compensation is sufficient to bring artists on board with generative AI, and the broader tensions around creator rights.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+      "topics": ["generative AI", "AI ethics", "copyright"]
+    },
+    {
+      "title": "Ed Zitron: Big Tech AI Boom Is Built on a Scandalous Lie",
+      "summary": "Tech critic Ed Zitron argues that the AI industry's growth narrative rests on inflated claims about utility and adoption, asserting that the boom is propped up by hype rather than demonstrated value. The piece challenges the foundational assumptions behind current AI investment and enthusiasm.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaWlZVzRuOUptbGpEdDl2M2RPcUhpamlycUhDM3RTRU5sMmFNc0FaTkIxR2JGTFRKM21wREZZSUR2SzE4ZnhCVWpoTzljeXNWVTZWWjBEdTNwY1pmRFUtYU1rYWk5YmdGb0FMNFNSTTdLczVhZ0NNelF2T2xLYnlDVmc1cF9oVzR2TXBjY0RrbF9yU2R0Ymc1M0pGNEZEQjE4RlhYRkJFeWJLS1pjZWl3",
+      "topics": ["AI industry", "generative AI", "technology ethics"]
+    },
+    {
+      "title": "Liner Launches AI Finance Research Tool for Retail Investors",
+      "summary": "Liner has introduced an AI-powered research tool aimed at retail investors, providing access to financial analysis and research capabilities previously limited to institutional users. The launch reflects growing interest in applying large language models to consumer financial services.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdHEwdG81cThoSUNUVVB6RXN3NUQtekNPOHVIMWhfNHdPcXhNVkFaSTUtZ0RuZlBIMC1ub2NqQ2tEZDAwSTJNQk1odTg4ZHNKSzc5LWp1ckNiNDg5YWhHSnhDSEl5NE5XNkFlQXhjVElZcG81WmswQTF1YlBXTkdMTmlPTWZtUThlZjFzcnBzZURIUQ",
+      "topics": ["large language models", "AI industry", "consumer research"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Oracle Embeds Google Gemini Across Enterprise Apps To Strengthen AI Growth Story",
+      "summary": "Oracle is integrating Google's Gemini models across its enterprise application suite, positioning the partnership as a key part of its AI investment narrative.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOU3JCRHBQVmNkZzhoTzZibW9tLWVFalhfYVh5YS1FeWNidzhjcVpYZUNHNkIxaGk2YjVxb2JmTU1ELTNxQzlrUVpSbDJXYXhablg0RWJxWkRveXVSb0pnZm1PV2s2UGZ5YU9DZkFab2hDVVBLNnNrUmRhN1lJREpNTjdhaWs5V3k3RGJib2V0UnE2Wi1ZSXdVaUdmSWVIOFdIYWtld09WcWNGZHpDSUJEc3JzcFEtMWpBM05DcmZpR3NBYm5VYkVabjNiVFVKYUFsTFJTM0Z3",
+      "topics": ["generative AI", "AI industry", "large language models"]
+    },
+    {
+      "title": "Fender's CEO Seems to Think Your Bandmates Are Just Analog AI",
+      "summary": "Fender's CEO drew comparisons between human bandmates and AI systems, sparking discussion about how AI is being framed in creative industries.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+      "topics": ["AI ethics", "generative AI", "technology ethics"]
+    },
+    {
+      "title": "Situational Awareness Down 67% in July in AI Stock Rout [Paywalled]",
+      "summary": "AI-focused investment fund Situational Awareness saw its value drop sharply in July amid a broader sell-off in AI-related stocks.",
+      "url": "https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f",
+      "topics": ["AI industry", "business"]
+    },
+    {
+      "title": "Crypto Research Has a Joining Problem, and AI Agents Are Starting to Solve It",
+      "summary": "AI agents are being applied to the fragmented world of crypto research to help aggregate and synthesise information that has historically been difficult to consolidate.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNelFBdTRkT0FOQ0dVTHoxeGFKekFJVE9sNnNXSHJsUVdKY0t3enRzSnZNNzVjUHg3UVJVZDNIdHpQbEthWkFzeVZPb0JNcjh4ODBXdzVqeU5rc2xmeTRPN3VtbkRkU1VwM2VodFhZbVppM3RIc3VaSUt4Y0R2emtaNzd1OFZSTnMyeEVqRGR6V1RRLUdCdFdRUExXRWw2UQ",
+      "topics": ["large language models", "AI industry", "market research"]
+    }
+  ],
+  "ethan_mollick": null
+}
