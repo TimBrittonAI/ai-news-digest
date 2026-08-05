@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI Drags Apple's Lawsuit Into the Court of Public Opinion",
+      "summary": "OpenAI has published a public blog post responding to Apple's lawsuit, making its case directly to the public rather than limiting its response to legal filings. The move signals OpenAI's willingness to fight the dispute on reputational as well as legal grounds. The post is titled 'Apple is getting this wrong' on OpenAI's official site.",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "topics": ["OpenAI", "legal", "AI industry"]
+    },
+    {
+      "title": "Third-Party Cyber Evaluations Involving OpenAI Models",
+      "summary": "OpenAI has published findings from third-party cybersecurity evaluations of its models, providing transparency on how its AI performs in security-relevant contexts. The evaluations are part of OpenAI's broader safety and responsible deployment efforts. The post outlines methodology and key results from independent assessors.",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "topics": ["OpenAI", "AI safety", "generative AI"]
+    },
+    {
+      "title": "New Ways to Learn and Teach With ChatGPT Work and Codex",
+      "summary": "OpenAI has announced new educational features for ChatGPT Work and Codex, aimed at expanding how users learn and teach with its AI tools. The update introduces capabilities designed for professional and educational settings. The announcement comes from OpenAI's official blog.",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "topics": ["ChatGPT", "generative AI", "AI coding tools"]
+    },
+    {
+      "title": "Princeton University Press Partners with Cashmere on AI Licensing",
+      "summary": "Princeton University Press has announced a partnership with Cashmere relating to AI licensing, adding to the growing number of academic publishers engaging formally with AI companies over content use. The deal reflects ongoing industry movement around licensing agreements between publishers and AI developers. No further details on terms were disclosed in the available report.",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNU2FjSFlqS0tWNG4yQkhfX2NIRzRmaTBSakNTZDJGZnIzUVlQeUoxalpraElxVHZVYmExWWdxUDRQa19KdjdZcmtvV0RYZHNsbnRDUkhLRlliV1RhSWxlcmFyeUVOcDdaOTY4Vm9BZ3psXzJmMkFGQXdnZlFrRVNoTEREMzc4WnB4OGdTdFBrc293OTVDbW44bGdkWTBWNEg3QThCRGQ4VGtVbGU4bG5XNk5qb0Z1OHFHQkk5ckVZd1RuUENaMDJvY3FQb3pweWotWTdnaE55UC1CMDFzeVk1TGd6N2NiWUYyNjR0Vm41UWE",
+      "topics": ["academic publishing", "generative AI", "copyright"]
+    },
+    {
+      "title": "'Not Healthy' LLM Use Is More Common Than You Think",
+      "summary": "A report from The Verge examines research suggesting that problematic or unhealthy reliance on large language model chatbots is more widespread among users than previously assumed. The piece explores the patterns of use that researchers consider concerning and what they may mean for users' wellbeing. The findings raise questions about how AI companies should approach user interaction design and content policy.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+      "topics": ["large language models", "mental health", "user interaction"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "OK, Well, Rogue AI Agents Are Hacking Again",
+      "summary": "Wired reports on a new wave of incidents involving AI agents being hijacked or acting adversarially in cybersecurity contexts, raising continued concerns about agentic AI safety.",
+      "url": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+      "topics": ["AI safety", "AI ethics", "generative AI"]
+    },
+    {
+      "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret [Metered]",
+      "summary": "The White House has declined to make public its AI cybersecurity framework, drawing scrutiny over transparency in government AI governance.",
+      "url": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+      "topics": ["AI governance", "AI regulation", "AI safety"]
+    },
+    {
+      "title": "How an OpenAI Influencer Trip Backfired",
+      "summary": "OpenAI organised a brand trip for social media influencers that generated significant backlash, highlighting tensions around AI marketing and public trust.",
+      "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+      "topics": ["OpenAI", "advertising", "AI industry"]
+    },
+    {
+      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "summary": "An arxiv paper examines the phenomenon of AI benchmark saturation, analysing what happens when leading models reach ceiling performance on standard evaluation datasets and what this means for measuring progress.",
+      "url": "https://arxiv.org/abs/2602.16763",
+      "topics": ["large language models", "AI research", "generative AI"]
+    },
+    {
+      "title": "Mistral Is in the Right Place at the Right Time [Metered]",
+      "summary": "Wired profiles Mistral AI, examining how the French AI startup has positioned itself to benefit from growing European demand for sovereign AI alternatives amid geopolitical shifts.",
+      "url": "https://www.wired.com/story/mistral-is-in-the-right-place-at-the-right-time/",
+      "topics": ["AI industry", "generative AI", "large language models"]
+    },
+    {
+      "title": "SpaceX Made More Revenue as an AI Company Than a Space Company",
+      "summary": "SpaceX's neocloud AI infrastructure business generated more revenue than its core space operations in a recent period, underlining the scale of enterprise demand for AI compute.",
+      "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    },
+    {
+      "title": "Texas Says Data Centers Must Pass an Audit Before Connecting to the Grid",
+      "summary": "Texas has introduced a requirement that new data centres must pass an audit before being permitted to connect to the state's power grid, in response to surging electricity demand driven by AI workloads.",
+      "url": "https://www.theverge.com/policy/975071/texas-data-center-audit",
+      "topics": ["AI infrastructure", "AI regulation", "AI compute"]
+    },
+    {
+      "title": "Survey: Majority of US Workers Believe AI Will Benefit Their Bosses More Than Them",
+      "summary": "A new survey finds that most American workers expect the gains from AI adoption in the workplace to flow primarily to employers rather than employees.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdzZ1NEg0aElhcVpLUFlsSkYyejdveEtVcTUxeUFQUVQ2eF9aTmFEenhRcmJZLTV2TmxWMW9NUzNtdWxqNjl4QmlNZHVISzYwbzdFTFVsS1JnckZrRkdTZDJxcTUwX0VVRmdGZ0pwSE5XY0JOOUR5ZHcwbjRnR0hTY3pQVDlZd2F3X0psN1Fhd1ZSNGYzSmd1a3N6TTY5QXROV21CSTAzYkswSm5FRVpkdkVGOXdDaFkyRTJ5a3lmVktodw",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "'Everyone Is Doing It': The Truth About AI in Hollywood [Metered]",
+      "summary": "Wired examines the widespread and largely quiet adoption of AI tools across Hollywood, with industry insiders describing normalised use despite public controversy.",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-matthew-belloni-puck/",
+      "topics": ["generative AI", "AI ethics", "AI industry"]
+    },
+    {
+      "title": "AI Fuels More Than Half of Cybercrime in Africa as Digital Scams Surge — Interpol",
+      "summary": "Interpol reports that AI is now responsible for driving more than half of cybercrime activity across Africa, with AI-enabled scams and fraud rising sharply across the continent.",
+      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+      "topics": ["AI safety", "generative AI", "AI ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
