@@ -1,0 +1,72 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Suno Loses Landmark Copyright Lawsuit to German Performing Rights Society GEMA",
+      "summary": "A German court has ruled against AI music generator Suno in a copyright infringement case brought by performing rights society GEMA, in what is being described as a significant legal victory for rights holders. The court found that AI models built on unlicensed copyrighted material lack legal protection, with GEMA stating that 'AI models built on stolen intellectual property have no protection under the law.' The ruling is expected to have broad implications for AI music companies.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZVNLQWVHMjVta1E4ZzlXcEd5a19rUGNzZkdKdDJjcllRak1EcHZkT3pCSVdSN3EtZVRMM28wYV9OMG05aWxPa0RCdEJXcUljR1NBejdFdk5qZ21wU2E2Uy1VMFdWMkdnMWxLQk9xaHJHSThnSzR3Y2dESWZkdFM2a0E3VU83b2hKQVJUM00wSXJKdnJZQ2hKRTBrSEVoZw?oc=5",
+      "topics": ["AI copyright", "litigation", "music rights"]
+    },
+    {
+      "title": "Brian Murray Calls for Industrywide Solutions to Issues Around AI Authorship [Metered]",
+      "summary": "HarperCollins CEO Brian Murray has publicly called for industrywide collaboration to address unresolved questions around AI authorship and copyright in publishing. The remarks signal growing pressure from major publishers to establish shared standards rather than leaving the issue to courts or individual companies to resolve piecemeal.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101002-brian-murray-calls-for-industrywide-solutions-to-issues-around-ai-authorship.html",
+      "topics": ["AI copyright", "book publishing", "policy"]
+    },
+    {
+      "title": "Online Shadow Libraries — and Why They're Being Implicated in AI Copyright Lawsuits",
+      "summary": "Shadow libraries — unauthorised online repositories of copyrighted books and articles — are increasingly being cited in AI copyright litigation as sources of training data used by AI developers without permission. The article examines how these platforms have become a central point of contention in ongoing lawsuits against AI companies, connecting longstanding debates about piracy to the newer legal battleground of generative AI.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWG9rSzl3TkJPajJicF82Q0xFb2VoeUN4WllyMlBiR05waER0cjkyNHZPTFYzU2x3NmoyRUg3dTA1Z29jZHA1X2Vwem94NUZGNllkRTZJcF9GdldXMWcyNjNPWmpLQWpVbnMwWWdCTzZJZURvdFV0SVRpcm9OREhHZ1pTNlVLTFJaSXVtc0FvUF9kRW43N00zZ2lUQnYzYm1Kem16Z3R0Vkp4Z2VWLXJoUWJ0Rmxmdw?oc=5",
+      "topics": ["AI copyright", "litigation", "shadow libraries"]
+    },
+    {
+      "title": "South Korea's KOMCA Ends Ban on AI-Assisted Songs, with New Disclosure and Registration Rules",
+      "summary": "South Korea's music copyright association KOMCA has lifted its ban on AI-assisted songs, replacing it with a disclosure-first registration standard that requires creators to declare AI involvement when registering works. False filings will risk royalty holds and contract termination under the new guidelines, which represent a significant policy shift in how AI-generated music is handled under copyright law.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTlNHU0hFaE5jaWF4Rm1NVHR0QU5HMF95c1VnSGhBMGVfd2lwTm5jYm13UkVrQ2preFlxdkxSMXlnejhVQk5uZWkwSTY1MFZ1UVVtbkU4U05Rd0hnX0pMbU1mdmpaZTVvajB2NkxQUnFxLUNlZXB3SDlUUEtRbk5mX1dIczRtYkVsMXhRLVJlQS1NemJ2Q3FmRDkxQUtuemd4ZGFjbGJJOVU1QUMxdWRhM1B3?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "Axel Springer Lobbies on AI Copyright Protections",
+      "summary": "European media giant Axel Springer is actively lobbying for stronger AI copyright protections, seeking to ensure publishers retain rights over content used to train AI systems. The lobbying effort reflects broader publisher efforts to shape emerging AI legislation in their favour.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YTzlBQ29KWmFXUTA5UDFtX1JZUDhsQ3ZWU3h5U0hWQ3FHWldjWXdhZ1JHOWttRGkxNVFXMy0zYmRoQVU3cmRKNlp6V3ktMWkxa2RJTnBGb0hLdTBRS2lpdXU0emV2NFJ1SEJyd2VHcWRobmxKbHU5SlRR?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "IPKat Weekly Roundup — If You Missed the IPKat Last Week",
+      "summary": "The IPKat's weekly roundup covers recent developments in intellectual property law, including AI and copyright-related cases and commentary from the past week.",
+      "url": "http://ipkitten.blogspot.com/2026/08/never-too-late-if-you-missed-ipkat-last.html",
+      "topics": ["AI copyright", "IP law"]
+    },
+    {
+      "title": "Sales Up, Profits Down at HarperCollins in Fiscal 2026 [Metered]",
+      "summary": "HarperCollins reported a 6% rise in sales for fiscal 2026 but saw profits fall, reflecting ongoing cost pressures across the major publishing house.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/101001-fiscal-2026-sales-rose-6-at-hc-but-profits-fell.html",
+      "topics": ["book publishing", "financial reporting"]
+    },
+    {
+      "title": "Guest Post — Buying the Middle: Reading the Wiley–Emerald Deal from the Global South",
+      "summary": "A critical analysis of the Wiley–Emerald publishing deal examines its implications for researchers and institutions in the Global South, raising questions about access, power, and the concentration of academic publishing.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/08/06/guest-post-buying-the-middle-reading-the-wiley-emerald-deal-from-the-global-south/",
+      "topics": ["academic publishing", "licensing"]
+    },
+    {
+      "title": "Vietnam Eyes New Rules for AI and Cross-Border Book Platforms",
+      "summary": "Vietnam is considering new regulatory frameworks to govern AI use and the operation of cross-border digital book platforms, signalling growing government attention to IP and publishing in the region.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNajNLZ1dvWXRDNFRBSDktQUMySnpFMnpSVGVQVDJ5Ty1tWHhtcklUZlJPUW5JUTc4UDJvWEhLRVl5cjBlVnBiTlpMeE1kRkVVQWlhbGZWemdRODhESHZDQ2FYcTZ6ZXlfR0V1Xzc0ck41b2VVbGZUTGtqRVVDcXdaVWU3bXRTRVhPalhVUlNFcWdWUUV2WjJLcGdzR1U?oc=5",
+      "topics": ["AI copyright", "policy", "book publishing"]
+    },
+    {
+      "title": "Fable Surpasses 5 Million Users [Metered]",
+      "summary": "AI-powered reading platform Fable has passed 5 million users, marking continued growth for AI-integrated tools in the book and publishing space.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/100996-fable-passes-5-million-users.html",
+      "topics": ["book publishing", "AI tools"]
+    },
+    {
+      "title": "PRH Initiates New Phase of Iowa Book Ban Case [Metered]",
+      "summary": "Penguin Random House has moved into a new phase of its legal challenge against book banning policies in Iowa, continuing one of the publishing industry's most prominent First Amendment cases.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/100991-prh-initiates-new-phase-of-iowa-book-ban-case.html",
+      "topics": ["book publishing", "litigation"]
+    }
+  ]
+}
