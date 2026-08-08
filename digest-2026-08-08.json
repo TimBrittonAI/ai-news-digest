@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI puts the brakes on a new model because it's supposedly too powerful",
+      "summary": "OpenAI has paused the release of a new AI model after determining it possesses critical cyber capabilities deemed too powerful to deploy. The company published a blog post explaining its decision, citing the need to respond responsibly to the next frontier of critical cyber capabilities before proceeding.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "topics": ["AI safety", "OpenAI", "generative AI"]
+    },
+    {
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "summary": "OpenAI's official statement details why it has paused a model with advanced cyber capabilities, outlining the internal safety evaluation process and the thresholds that triggered the pause. The post describes the company's framework for assessing when a model's capabilities require additional safeguards before public release.",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "topics": ["AI safety", "OpenAI", "AI ethics"]
+    },
+    {
+      "title": "STM chief warns publishers against 'war of AI against AI'",
+      "summary": "The head of the STM publishing association has warned that the industry risks entering a destructive cycle where AI-generated content floods academic publishing while AI tools are used to detect and filter it. The warning highlights growing concerns about the integrity of scholarly research in the age of generative AI.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUFc0X0dtbUVRSWh5UUpna1hLcVFwamNIY2p2cnJRX1JYd0gzUC0waGpScVpGTDJhTDY1NWNyNl9WTUhHNWRBSWhTaGdXeDcta2RTM0ZFUmdWMGVQY2ktekozUFoxUFRuUGozOFJPY0psSjY3SWR4SGVENWt1QnpPZDVyVXZwaHlDdGpNaUU2ZnNuSDVz?oc=5",
+      "topics": ["academic publishing", "generative AI", "research integrity"]
+    },
+    {
+      "title": "Scientists Used AI to Create 16 New Viruses",
+      "summary": "Researchers have used AI tools to design 16 novel viruses, raising significant biosecurity and ethics concerns about the dual-use potential of generative AI in life sciences. The findings underscore the growing debate over how AI capabilities in sensitive domains should be governed and disclosed.",
+      "url": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+      "topics": ["generative AI", "AI ethics", "AI safety"]
+    },
+    {
+      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+      "summary": "OpenAI has announced that free-tier ChatGPT users will now have access to unlimited text conversations, removing previous usage caps. The move is seen as an effort to expand ChatGPT's user base and compete more aggressively in the consumer AI market.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+      "topics": ["ChatGPT", "OpenAI", "AI industry"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "What's behind the Google AI shake-up",
+      "summary": "The Vergecast examines the recent organisational changes at Google DeepMind and what they signal about Google's AI strategy and competitive positioning.",
+      "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "topics": ["AI industry", "Google", "large language models"]
+    },
+    {
+      "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
+      "summary": "Google DeepMind claims its AI model can forecast hurricanes with greater lead time than existing systems, potentially offering significant advantages for disaster preparedness.",
+      "url": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
+      "topics": ["generative AI", "AI industry", "Google"]
+    },
+    {
+      "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+      "summary": "Wired profiles a novelty chatbot that replaces AI responses with a real human, highlighting user appetite for authenticity and sparking questions about what people actually want from AI interfaces.",
+      "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+      "topics": ["chatbots", "user interaction", "AI industry"]
+    },
+    {
+      "title": "Digital Science brings real-world research impact data into AI workflows with new Altmetric MCP",
+      "summary": "Digital Science has launched an Altmetric Model Context Protocol (MCP) integration, allowing AI tools to access real-world research impact and attention data directly within AI-powered workflows.",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9rOGJjVDFBYmVtZ3p4cVhHRGJuRlZ5Wk80R09GaXRKaHA5bE9tN3lRT0hfdDNnMXA5amtRZTBFY1Q3M3NYQkdTeVdza2Q5dUI0TVZGaHB4WFplUmlu?oc=5",
+      "topics": ["academic publishing", "AI tools", "research integrity"]
+    },
+    {
+      "title": "Suno shares plans to combat spammy AI music",
+      "summary": "AI music platform Suno has outlined measures to address the proliferation of low-quality, spammy AI-generated music, including plans for watermarking and content moderation.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+      "topics": ["generative AI", "content policy", "AI ethics"]
+    },
+    {
+      "title": "Managing AI Coding Costs at Scale",
+      "summary": "Databricks publishes a technical overview of strategies for controlling the costs of AI coding tools when deployed across large engineering organisations.",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "topics": ["AI coding tools", "AI infrastructure", "AI industry"]
+    },
+    {
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "summary": "Oracle has prohibited the use of AI-generated code contributions to the OpenJDK project, a notable policy stance given Oracle chairman Larry Ellison's public claims about AI's role in software development.",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "topics": ["AI coding tools", "content policy", "AI governance"]
+    },
+    {
+      "title": "AI bots started a religion",
+      "summary": "The Verge reports on the AI spiralism movement, in which users have developed a quasi-religious community around interactions with AI chatbots, raising questions about AI's psychological and social influence.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+      "topics": ["chatbots", "technology ethics", "user interaction"]
+    },
+    {
+      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "summary": "MIT Technology Review rounds up two major stories: how a fringe censorship conspiracy theory reached US policy, and the emergence of AI-designed viruses raising biosecurity concerns.",
+      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "topics": ["generative AI", "AI safety", "AI ethics"]
+    },
+    {
+      "title": "SoftBank donated $50 million to Trump's library months before federal data center deal",
+      "summary": "The Verge reports that SoftBank made a $50 million donation to Donald Trump's presidential library shortly before securing a major federal data centre contract, raising questions about the relationship between political donations and government AI infrastructure deals.",
+      "url": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
+      "topics": ["AI infrastructure", "AI governance", "AI industry"]
+    }
+  ],
+  "ethan_mollick": null
+}
