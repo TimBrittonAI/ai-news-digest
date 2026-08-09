@@ -1,0 +1,85 @@
+{
+  "top_stories": [
+    {
+      "title": "Should AI labs be treated like the owners of dangerous animals?",
+      "summary": "The Economist examines proposals to hold AI laboratories legally liable for harms caused by their models, drawing an analogy to strict liability laws applied to owners of dangerous animals. The piece explores how such a framework could reshape AI governance and incentivise safety investment. The debate reflects growing pressure on policymakers to define accountability for AI-related risks.",
+      "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+      "topics": ["AI safety", "AI regulation", "AI ethics"]
+    },
+    {
+      "title": "An Amazon data center could have the worst polluting power plant in the country",
+      "summary": "The Verge reports that an Amazon data center project is tied to a proposed power plant that could become the single most polluting facility in the United States. The story highlights the growing environmental cost of AI infrastructure buildout as demand for compute surges. The development raises questions about the sustainability commitments of major cloud providers.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    },
+    {
+      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+      "summary": "Denmark has introduced a requirement for students to orally defend their written assignments as a direct response to the rise of AI-generated academic work. The policy shift reflects increasing institutional concern about generative AI undermining research integrity in higher education. The move is among the more structural national responses to AI use in academia seen to date.",
+      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+      "topics": ["academic publishing", "generative AI", "research integrity"]
+    },
+    {
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "summary": "OpenAI's official blog profiles HSP GRUPPE, a German tax advisory firm, detailing how it has integrated OpenAI tools to build internal AI capabilities for its consultants. The case study covers workflow automation, document analysis, and knowledge management applications. It offers a concrete example of generative AI adoption in professional services.",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "topics": ["OpenAI", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Estimating AI exposure is useful for research but cannot yet tell policymakers the whole story of AI's impact on the labor market",
+      "summary": "A new analysis argues that while AI exposure indices are valuable research tools, they remain insufficient for guiding labour market policy due to their inability to capture real-world adoption rates, worker adaptation, and firm-level decisions. The piece calls for richer data sources to complement exposure modelling. The findings are relevant to ongoing debates about AI's economic impact.",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQS3lyMklwYkZ4Y1RUVHlaVkVydkk3bTNMd0QzaEJuVjhNQUJKOGxfeXlocXN0V3dCaVVISkc5Rzl6SnJGdnhCQTBNX0JzaUtIaFVJYVRxX1dOUzNQNEYyOVNWNk5hZVlhSlFmV2llcEktMF9KWmMybEFWYlpha2cycFVMVFpjUzZFMV81Z19QaW1QanpZdmlaT1VzeG4yT0JiUElrUlFGb2lwSmN1TDBGMHhjOUJjWG9zLXVyRWNpRndVWjc5QTZIRlNZdEN6V1J1WHVyeFNfOWIzYnZjSEtxSlk1WjNRWFVLNE5GS3NB?oc=5",
+      "topics": ["AI industry", "large language models", "AI governance"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Making an AI bid writer refuse to lie",
+      "summary": "A practical engineering blog post explores the technical and design challenges of constraining a generative AI writing tool to avoid producing false or misleading content in commercial bid documents.",
+      "url": "https://ailucius.com/blog/making-an-ai-bid-writer-refuse-to-lie",
+      "topics": ["AI ethics", "generative AI", "large language models"]
+    },
+    {
+      "title": "Watching Roku's AI channel is like eating from a trough",
+      "summary": "The Verge reviews Roku's new AI-generated FAST channel, describing the output as low-quality, repetitive content that illustrates the risks of automated AI video production at scale.",
+      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "topics": ["generative AI", "AI video", "content policy"]
+    },
+    {
+      "title": "AI psychosis is the new leadership blind spot",
+      "summary": "Fast Company warns that executives are increasingly making overconfident decisions based on uncritical acceptance of AI outputs, describing this as a emerging failure mode in organisational leadership.",
+      "url": "https://www.fastcompany.com/91576086/ai-psychosis-is-the-new-leadership-blind-spot-ai-leadership-blind-spots",
+      "topics": ["AI ethics", "leadership", "business"]
+    },
+    {
+      "title": "New Orleans is testing Carbyne's AI-powered Emergency Call Triage software",
+      "summary": "New Orleans is piloting an AI system from Carbyne to help triage 911 calls, raising questions about the reliability and accountability of automated tools in life-critical emergency dispatch.",
+      "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+      "topics": ["AI ethics", "AI governance", "generative AI"]
+    },
+    {
+      "title": "How to Disable Gemini in Gmail and Google Docs [Metered]",
+      "summary": "Wired provides a step-by-step guide for users who want to turn off Google's Gemini AI features embedded in Gmail and Google Docs.",
+      "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+      "topics": ["user privacy", "Google", "AI personal assistant"]
+    },
+    {
+      "title": "xAI, SpaceX, and the Race for AI Buildout",
+      "summary": "An analysis of the environmental and infrastructure implications of xAI's rapid data centre expansion, examining the connections between xAI and SpaceX in the broader AI compute race.",
+      "url": "https://illegal.solutions/posts/xai_pollution",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    },
+    {
+      "title": "Gartner's 2026 CMO research agenda puts agentic AI and brand value at the center of marketing leadership",
+      "summary": "Gartner has published its 2026 chief marketing officer research agenda, placing agentic AI and the measurement of brand value as the top strategic priorities for marketing leaders.",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbEUtajZmdHZtbE9qWnQ0Z1lnM3hhdVNKYlZLcUV1bUtoZDUtblBfWFZNaDh5R0tRUnJoMTZoZ2hsdnd0a1VsdVJhd0hURnNWOFpjdUtldWFSR19kQzBPOHV1Y0FOT2hVRWFteExBdXN6STVpbkRBelVsSjdMSl9UWWFENnJXS2dVUXJBa041Xy1raTFKX2huV2J5RUZnWDV2a2JyMlRwUEFNUzNxWFhEOW5zeGFTUkdZWllOMm94SldKZ1RRMmNrT1VLenpFVFZkYldZU2YxRnc5Z09idmZlU1hBT0RRWWQxZlVRX3d3?oc=5",
+      "topics": ["advertising", "generative AI", "business"]
+    },
+    {
+      "title": "Fenix Flexin isn't even denying using AI to make 'Rubberz' anymore",
+      "summary": "The Verge reports that rapper Fenix Flexin has stopped denying that his track 'Rubberz' was made using AI tools, spotlighting ongoing debates about AI-generated music and creative authenticity.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+      "topics": ["generative AI", "copyright", "AI ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
