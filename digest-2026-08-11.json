@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "These startups are chasing the next big thing in LLMs",
+      "summary": "MIT Technology Review examines a wave of startups pursuing the next frontier in large language model development, exploring new architectural approaches and capabilities beyond current-generation models. The piece looks at what researchers and entrepreneurs believe will define the next leap in AI performance and utility.",
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+      "topics": ["large language models", "AI industry", "generative AI"]
+    },
+    {
+      "title": "AI for science needs reasoning, not just data",
+      "summary": "MIT Technology Review reports on a growing push to build AI agents specifically designed for scientific research, arguing that effective AI for science requires genuine reasoning capabilities rather than simply processing large datasets. The piece covers emerging tools and debates among researchers about what kind of AI architecture is fit for purpose in scientific discovery.",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "topics": ["AI agents", "generative AI", "research integrity"]
+    },
+    {
+      "title": "AI professors are negotiating the new realities of academic research [Metered]",
+      "summary": "MIT Technology Review examines how academics working in AI are navigating shifting norms around research, publication, and the use of AI tools in scholarly work. The story explores tensions around authorship, peer review, and the integrity of academic publishing in an era of generative AI.",
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "topics": ["academic publishing", "generative AI", "research integrity"]
+    },
+    {
+      "title": "OpenAI puts frontier cyber models in more trusted hands",
+      "summary": "OpenAI announced an expansion of access to its frontier cybersecurity-focused AI models, making them available to a broader set of vetted and trusted organisations. The move is paired with a separate announcement expanding the Daybreak programme as the cyber defence window narrows, signalling OpenAI's deepening involvement in national security and defensive cyber operations.",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "topics": ["OpenAI", "AI safety", "defense"]
+    },
+    {
+      "title": "Premium seats are coming to ChatGPT Business",
+      "summary": "OpenAI announced the introduction of premium seat tiers for ChatGPT Business, expanding the product's enterprise offering with higher-capability access options. The move signals OpenAI's continued push to deepen its foothold in the enterprise market and differentiate its commercial product tiers.",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "topics": ["OpenAI", "ChatGPT", "AI industry"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "AI Is Ruining Scholarship - The Chronicle of Higher Education",
+      "summary": "The Chronicle of Higher Education argues that the proliferation of AI tools is undermining the quality and integrity of academic scholarship.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XZ2dEbzFlMnh1bWI0Vzl1LVZpTUVCLWlOZ1cyM3MyODdCbGJOOGVMTnhJenhYblRnVGNnMnJ2TmJLV2g5WVY3bnRpTk40dHV4dTRoM2xzRFVZSkFpRkhYWkthNnVkM3RpYl9Z?oc=5",
+      "topics": ["academic publishing", "generative AI", "AI ethics"]
+    },
+    {
+      "title": "Peer review is overwhelmed—can it survive in the AI era?",
+      "summary": "A report examines how the surge in AI-assisted research submissions is straining the peer review system and raising questions about its long-term viability.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdVVKNUNMN3ZrYlI5bkd6dXZwaWVTTXNYVC1EZXpTX1JISmJ2bHI5MDJ4SzFsWkVaLVBabWVYdWp2UXMxUC1GcEE5dUxLcmhieUl1dV9wSnc0UUd4UXY0MklQbGstR0h5SGpyRGRKNkRWWGpzTVA3YkhLZWFBdUhXNUE1Y2lnSlFWWWdCYnRRQ1hxdVNKLXVxeUNQWVE?oc=5",
+      "topics": ["academic publishing", "research integrity", "generative AI"]
+    },
+    {
+      "title": "How Claude marks AI-generated content",
+      "summary": "Anthropic's official support documentation explains how Claude labels and signals AI-generated content to users, detailing the content provenance approach baked into the model.",
+      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "topics": ["Anthropic", "AI ethics", "content policy"]
+    },
+    {
+      "title": "The AI Slop Backlash Is Actually Having an Impact [Metered]",
+      "summary": "Wired reports that growing public and platform-level resistance to low-quality AI-generated content is beginning to produce measurable effects on how AI content is distributed and received.",
+      "url": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+      "topics": ["generative AI", "AI ethics", "content policy"]
+    },
+    {
+      "title": "Four takeaways from Mark Zuckerberg's massive AI manifesto",
+      "summary": "The Verge distils the key points from Zuckerberg's lengthy public statement on AI, covering Meta's commitment to open models, his critique of closed AI rivals, and his vision for superintelligent AI.",
+      "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+      "topics": ["Meta", "AI industry", "generative AI"]
+    },
+    {
+      "title": "Tech leaders say AI means less work – staff say they work up to 90 hours a week",
+      "summary": "The BBC reports on a growing disconnect between executives who claim AI is reducing workloads and employees who report working longer hours than ever, raising questions about the real-world labour impacts of AI adoption.",
+      "url": "https://www.bbc.com/news/articles/cvgx4yd1gl2o",
+      "topics": ["AI industry", "AI ethics", "business"]
+    },
+    {
+      "title": "What building an AI-native finance function taught me",
+      "summary": "An OpenAI blog post details the lessons learned from building a finance function that natively integrates AI tools, including GPT-5.6 Sol, across workflows.",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "topics": ["OpenAI", "AI industry", "business"]
+    },
+    {
+      "title": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "summary": "OpenAI published a letter to the Texas governor outlining its approach to responsible AI infrastructure development in the state, signalling the company's engagement with state-level AI governance.",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+      "topics": ["OpenAI", "AI governance", "AI infrastructure"]
+    },
+    {
+      "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
+      "summary": "A regional US pharmacy chain withdrew its AI-powered phone assistant after receiving hundreds of complaints from customers, highlighting the challenges of deploying conversational AI in consumer-facing services.",
+      "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
+      "topics": ["AI ethics", "user interaction", "chatbots"]
+    },
+    {
+      "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
+      "summary": "A security researcher found that over 181,000 AI-generated meeting recordings were publicly accessible due to a misconfiguration in a popular AI note-taking application.",
+      "url": "https://bobdahacker.com/blog/tldv-hack",
+      "topics": ["user privacy", "AI tools", "AI ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
