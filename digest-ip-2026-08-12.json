@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "The Bartz/Anthropic Settlement is still a hot mess but at least it is the largest known copyright recovery of all time (for piracy)?",
+      "summary": "IPKat reports on the Bartz/Anthropic settlement, describing it as the largest known copyright recovery on record for piracy, while noting significant ongoing complexity and unresolved issues within the settlement. The piece raises questions about what the settlement actually establishes as precedent for AI copyright disputes.",
+      "url": "http://ipkitten.blogspot.com/2026/08/the-bartzanthropic-settlement-is-still.html",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "Meta Fails to Block Zuckerberg Deposition in AI, Copyright Suit",
+      "summary": "A court has denied Meta's attempt to block the deposition of CEO Mark Zuckerberg in an ongoing AI copyright lawsuit. The ruling is a significant procedural development in one of the most high-profile cases examining AI companies' use of copyrighted material for training.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTVBvZnhsbUdld29SU1FvWGJDNEJTWUI2dXdJRkdMOUpud1lLNlJzS0x1NF9YU0lfUmlNVjBFRG4tQ1FBdkZVcHRCbDFSTzgweHJqVnpGX2RfVFIzUVNVOGp6Z0ZONmRDMFpUT3h6eVhuRGI5NmE1VFVvZUZCTjNGT3laNXNNZ3l1UDFWdVJVVUVTZ2g5SWwyQnhUUXFNUXBNZUs0",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "GEMA v Suno: Munich court finds AI music training and outputs infringe copyright, even where training happened in the US (via Passle)",
+      "summary": "The Munich court has ruled in GEMA v Suno that using copyrighted music to train AI and generating AI outputs both constitute copyright infringement, applying German law even where the training occurred in the United States. The decision marks a significant development in European AI copyright litigation and bolsters Munich's growing prominence as a venue for such cases.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTm0wVFpmM21SQ1Q1OFNiUVRqUTM4TTV1b01kbmtTTUFDN0RFcWt0VWNqVmNTS3hMZGh4cWxXZHpxMm9rNVdfYUZoalNneU91QUtfZWxaSDhTclI2NkRNWTR6MHhBdFEyZGpYX3BaeWk2VHBtc2YyUGRXdll5ejZCczhONnJwYXFpaVVSZGxjMk9qLThHWVRMVC1mMG5GSFI4M0RoSUlYZEpTUU93T2E3Z3U5SklYMm9xUS1zbjNrWEV0UVhsd1VFZS1B",
+      "topics": ["AI copyright", "litigation", "EU law"]
+    },
+    {
+      "title": "Anthropic's IPO Has a Bigger Risk Than Chinese AI: The Copyright Reckoning Is Coming",
+      "summary": "Analysis argues that Anthropic's planned IPO faces substantial undisclosed risk from unresolved copyright liability stemming from the use of copyrighted material in AI training data. The piece contends that as litigation and settlements such as the Bartz case develop, the financial exposure for AI companies training on copyrighted works could be significant for investors.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmR1NTA4ei15VGhrVWMxeVV6c1cyUmhOQlltSWhKQzY0WjNWQ2o3cFVqdUxxMjdXYlNISlN5eTZZaGhhN2txR1NvUXZrazFKRFNab3p1ZHJDUFJyWnM4N3dnNnM3RjE4elBlazZ2LWRQeDg5Tm5CQU5xQXJiZlJ0SGJvV0dCMnFZdm9jMnc1TDV4ODhuZ3V6YVN4Z3ZzZGRkWUNMeURlck1iUnNkUE9vUURxTGQ",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "Anthropic Pushes to Dismiss Copyright Lawsuit Over AI Training",
+      "summary": "Anthropic has filed to dismiss a copyright lawsuit challenging its use of copyrighted material to train its AI systems, arguing the claims should not proceed. The motion comes amid a wave of similar litigation targeting major AI developers over training data practices.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeUd0QUNEWW5NNy1vWXRhOHdpSEYzQVVsQlN5MkpFRFduWmFTeHd2LXdpa1h2eGxsemsweHVVTGJtWWlSZ1AtVFpYS1E3ZFpGYXp2Z1dRa0ZDQUMxWmUzUUtkYkZ5YWxZOTl2OWtoN3puRlJmMlZ1azBuYUxsbVQ1azhDa0M4eE5kUXZjazNqcUJNRWNXU19DVVJSTE7SAa8CQVVfeXFMUEZhUEk2WUxScXNLRkdMU2FpMTZjZFIycnREV3VwdVVrRUxRdEVYSi1iVjNRa3V5Umx0SXFqMTdjV2tFRDRKcEo3NWNVckxzWDFBVEJzRkZicS14OWVjRkJoNTAyWkVPX2I1NmpyS1BvN19HNVNlYmx6dHdwZTVUYjR6VmVWdEJEeEdUbEo0OTQ4MHNibmdadzduaF9KV3hsRG5vRFdub1pPdmtjR29jam1QREdPT3JYVVp1V1QtTzMxMlNPSkhHTGNiakFNNk9qUDk4c09wMFh4cXlJc1dYOUYzd3RSQl9rb1RSWTNJSWdMNWlhdVRCcFRRcjZzREQ1UjhSaUxrcjNqWWo0bGE1NkJwQkNTSFlMNXZ3NlZib21sbG55VVJfcHN2SXl0V3FN",
+      "topics": ["AI copyright", "litigation"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Munich court rises to prominence in AI copyright litigation",
+      "summary": "An overview of how Munich has become a key jurisdiction for AI copyright cases in Europe, with courts there increasingly willing to rule against AI developers on training data and output infringement grounds.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQktaTlpFWkp3UGpWR0lTUjgtVHZEd1JHT0lLTzBON3lodmVqMzBxSE04bGtwZjA0bEtPODVWXzRNSkhtenEzNHFoRzBoX2o1LXd2cUlmbldXSlZWX3N4TEN4cFZIWTV0b0REWlVkYXFyUkZObGZOMGpiaDhkRVJRSmRjNmpyZW5lRkxKS3Q0aWZtLWdUbWw0d05PN2dWRk9oSzVaYjI5VDBzZw",
+      "topics": ["AI copyright", "litigation", "EU law"]
+    },
+    {
+      "title": "Delhi HC ruling on ANI-OpenAI copyright case sparks debate over fair dealing and judicial activism",
+      "summary": "India's Delhi High Court ruling in the ANI v OpenAI copyright case has prompted debate about the scope of fair dealing provisions and the appropriate role of courts in shaping AI policy.",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOc2dPdzltYVdma0JVbWFSaDlDNWZkeTMwZlBLWkQ2MVhFT1FEdXdjdDYxQWxjX0treEtucnBDMUZFZ2p2eVRXQmtaWDU0Wm9XSDlDbTYxUzdhWkQyUnRQMVpSVUVXNUxwQVRvSEtoZlhqZWEyeEdBMGhUQW0wWWdKOGxrZzZBMlhnQ0Y1cVB3dTljTUlZUlFpejEtSnB2aXlJeFFLZzV0ZFFmRUIxX2ZodzBXeVhBOEt2VDdFbnhobU1PalVpdnQwM3B4aUJCUFVXaTRXdXlyb25jTWtKblZjTFpYQUVWeVk4TnZoT2FDczhSa1MtUXFsbjZCdjllMnlQenA2Mg",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "No news content for AI-training without licences | Hindustan Times",
+      "summary": "The Hindustan Times reports on growing calls and regulatory pressure requiring AI developers to obtain licences before using news content for training, reflecting a global push by publishers for mandatory licensing frameworks.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOWd5WlZ2NUkzcGQ4ZEVuQjBJVXpteWlPWURwci14MDVuSVR0b3p0YjBfMVcwa0prZnl3Y3E3eWVXQ1M5SE0tb3VBX01WSkgzM2Z4c0R4Q29aSXNpdUZQVV9FRnl0T24xdVEzc2hQVnRrQzZfcXRWNmhyR1ltNVhZS1Z0RU5peS10LThqV29kY0FKWlh2MnB0RThkMjBUSkM0QmVWYlAwYXVvNHk0",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "SOCAN partners with tech platform to help artists control how music is used, compensated in AI",
+      "summary": "Canadian music rights organisation SOCAN has announced a partnership with a technology platform aimed at giving artists greater control over how their music is used in AI applications and ensuring they receive compensation.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb3RpZDF1UG5rVG5ld241cFVZb2pUU0hyeEgySDkwRVl5czB6MkJpY2psV3hxRmNkSUZvRnRuR3dGM29tMXEyZUZORlZxWFoxeTRSZnY3WV9JWV9lbUtYbjdRNmxLYUZRdnA3UHBBLTdqNDliUzRQRlNNZ3BScHhrNUNuSVBYVEJrcDE5ZGktZ09ncF9HTWxqXzZwazZ5V2w5Q2RIRTFOS1hlOU5hMkZXQlB3",
+      "topics": ["AI copyright", "licensing"]
+    },
+    {
+      "title": "Publishers maintaining clear AI-use records better placed to manage legal, commercial risks: Report",
+      "summary": "A new report finds that publishers who keep detailed records of their AI usage are better positioned to manage both legal liability and commercial risks as the regulatory and litigation landscape around AI and copyright continues to evolve.",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaUozUmthR1ZBcjJkdVJ5VWxVNUhscnBBTjc1dEVJRFRwMm40THFrd2E5TGlheVhaYlFkYWNvYlcyeldmQzZfS1dXZXVEd3Z3RmdBNXBRZ2Y1MVQ2R3ZicUxvbzJ1ZE00MjFPMjkxRWVqUEQxaDJEYjhlbkl4M3Q0amsxVDF1ZzJ0OTlyZ0Vad0FzTElWVzM1YXVMS1Y0WHcteE1HcWdLMkRFek8xcl9hM1JjRloxVnRRbmhfckdfN0oyMUROUkxXbENfZWYtcHk0V1NJd1lfY1BHdnNIcWRvZlF3UkFVVnFRT2xyVjlROWpjWWIwcWRZ",
+      "topics": ["AI copyright", "book publishing", "policy"]
+    },
+    {
+      "title": "The UK's AI likeness gap has no legal deadline",
+      "summary": "An analysis of the UK's current legal framework finds there is no statutory deadline or clear mechanism to address the gap in protections for individuals' AI-generated likenesses, leaving creators and performers exposed.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRy1CN2xGbDRwOFp4Zy1RdFo2Q2p5UExQZVVxQUJ4elliNktNRk1NWDB4ZlItQ0tfSGR2cEpPVERiZENTLXp0MTJBUkNoNlQ0UFZKMmpUMGlPOVpOOXVrcTJreHJTMXM0TjUzc3BZUW1YeWFJN1FpNmlhTkJ1N1lLZEx4TlprZGY1WWd5TGlQTDVmZWY0ZWE0V0tB",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "FEATURE: Japan contests rewrite rules as generative AI spreads - Japan Wire by Kyodo News",
+      "summary": "Japan is revisiting its copyright framework for generative AI as the technology spreads, with policymakers debating whether existing rules permitting broad use of data for AI training remain appropriate.",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uWGRGSGFqbUhvUW1MWmpDM0lmRzlFZER1S1hTNV9Vd3ZxX0wtc01JUHlVRkpOVTVJUFZhWC1VNDJIS3VPV3JsN05CeW5EbU5ORlVMUzlLTE5zUQ",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Publishers Must Adapt To Evolving AI Copyright Framework",
+      "summary": "A commentary piece urges publishers to proactively adapt their policies and contracts in response to the fast-changing AI copyright legal landscape, ahead of further legislative and judicial developments.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYVlxYTFpVFpFR296Wl9pMm5vby1CSUU2dlUyV2dYMzQ4ZDdfTi1OUlZUQmRKZkN6bmxzSFFPN3huOUJ4MFdwa1pxN0k2V1Y5dVlHSUxaemtsaWU3aV85MEhBbV85elZBYjdyNHNrRmpOR0JyUXpiV3RLaFhqQW5wYTBrOFppbFdTYm13VmVoWkVoV1lrdS1CRmtWbTZLem5qcmFhYU1FdEo",
+      "topics": ["AI copyright", "book publishing", "policy"]
+    },
+    {
+      "title": "Indian Publishers Fight Book Pirates [Metered]",
+      "summary": "Publishers Weekly reports on Indian publishers taking legal and practical steps to combat widespread book piracy, a challenge that intersects with broader concerns about unauthorised reproduction of content in the digital age.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101019-publishers-fight-book-pirates-in-india.html",
+      "topics": ["book publishing", "AI copyright"]
+    },
+    {
+      "title": "Rippling sues AI startup Runlayer for infringing data patents",
+      "summary": "HR software company Rippling has filed a lawsuit against AI startup Runlayer alleging infringement of data-related patents, adding to the growing body of IP litigation targeting AI companies.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMWhYaHlWbHk0SEJDU19XbGZ5ajc2RWJZNVFLelQyMVJjaEVjN3hhZG05QkxUX0EtcFRYTEZCQkw0aEthN0ZxQldVOHU0Zk9kdHRrNDhpcHoyX1dwdVBnM29mb0lsdXQ1c3ktSFdNeWZmdEZEVjViUE9GV05KTmh3alcxN2lhRWNxUEtlYTF4bmZwSkVETm04VktTWHhyRkhfSlpPSXVzMy1fUmFBVENz",
+      "topics": ["litigation", "software", "AI copyright"]
+    }
+  ]
+}
