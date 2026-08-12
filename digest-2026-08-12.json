@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Testing ads in ChatGPT",
+      "summary": "OpenAI has announced it is testing advertising within ChatGPT, marking a significant potential shift in the company's business model. The move would introduce a new revenue stream alongside its existing subscription products. This is an official announcement from OpenAI's own blog.",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "topics": ["OpenAI", "ChatGPT", "advertising"]
+    },
+    {
+      "title": "ChatGPT and Gemini both just passed 1 billion users",
+      "summary": "Both OpenAI's ChatGPT and Google's Gemini have each surpassed 1 billion users, representing a major milestone for consumer AI adoption. The simultaneous achievement by two competing AI assistants underscores the rapid mainstream uptake of generative AI tools.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "topics": ["ChatGPT", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+      "summary": "404 Media reports that a company marketing its peer review services as entirely human-written and free of AI was found to be producing content that is in fact AI-generated. The findings raise serious concerns about research integrity and the reliability of AI-detection claims in academic and medical publishing.",
+      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
+      "topics": ["research integrity", "academic publishing", "AI ethics"]
+    },
+    {
+      "title": "Claude will apply invisible watermarks to AI text and images",
+      "summary": "Anthropic has announced that its Claude AI will now apply invisible C2PA-standard watermarks to both text and images it generates. The move is aimed at improving provenance and helping users and platforms identify AI-generated content.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+      "topics": ["Anthropic", "AI safety", "generative AI"]
+    },
+    {
+      "title": "Daybreak models are now available on AWS",
+      "summary": "OpenAI has announced that its Daybreak models are now available through Amazon Web Services, expanding access to the models via cloud infrastructure. The move broadens the distribution of OpenAI's latest models for enterprise and developer use.",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "topics": ["OpenAI", "large language models", "AI infrastructure"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Academic publishers must not get stuck in 'war of AI against AI', STM chief exec warns",
+      "summary": "The head of the STM publishing association has warned that academic publishers risk becoming trapped in an escalating cycle of AI-generated content and AI-based detection, urging the sector to find more sustainable approaches.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNXzFOeU1kQVcwajFrVnVVT3FRcWVwcllaTzMzZnlFdWdoZmFwaVdodjBJVTdCMi1QaU1NVjR0YmY3NHMwR0pMZ3oxdGMtWUVjWFU5LVR1cERoOFpTcTYwOHJITDlZTFo1THA1Y1E2Q05lM3Z4cEd0MnowYlpEVWdfd1RDRWJXUGxLZDNSb1JYemgwY0tjSjYxWV91UWJreld6d2hsMHNKWExySXNnZzJHS3N3SmtDMXZPYlE",
+      "topics": ["academic publishing", "AI ethics", "research integrity"]
+    },
+    {
+      "title": "Another OpenAI executive takes off",
+      "summary": "Brad Lightcap, a senior OpenAI executive, is departing the company, continuing a pattern of high-profile leadership changes at the AI firm.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+      "topics": ["OpenAI", "leadership", "AI industry"]
+    },
+    {
+      "title": "A New Trick Reveals AI Models' Inner Thoughts [Metered]",
+      "summary": "Researchers have developed a technique to surface the internal reasoning processes of large language models, offering new insight into how AI models arrive at their outputs.",
+      "url": "https://www.wired.com/story/a-new-trick-reveals-ai-models-inner-thoughts/",
+      "topics": ["large language models", "AI safety", "generative AI"]
+    },
+    {
+      "title": "The AI takeover of mathematics has begun",
+      "summary": "AI systems are increasingly being used to solve and verify complex mathematical problems, with researchers suggesting the technology is beginning to make meaningful contributions to the field.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
+      "topics": ["AI research", "generative AI", "large language models"]
+    },
+    {
+      "title": "'Zoomsday' hack uncovered using fewer than 20 AI prompts",
+      "summary": "Security researchers discovered a significant Zoom vulnerability that could be exploited using a small number of AI-generated prompts, highlighting growing concerns about AI-assisted cyberattacks.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "topics": ["AI ethics", "technology ethics", "generative AI"]
+    },
+    {
+      "title": "Why your Amazon order confirmation emails have become so unhelpful",
+      "summary": "Amazon has been obscuring order details in confirmation emails to prevent Google's AI agents from reading and acting on the data, illustrating how AI-driven automation is reshaping everyday digital interactions.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+      "topics": ["AI personal assistant", "AI industry", "user privacy"]
+    },
+    {
+      "title": "Marketers Are Being Pushed to Use AI, But Not Taught How",
+      "summary": "A new report finds that while businesses are pressuring marketing teams to adopt AI tools, most organisations are failing to provide adequate training or guidance on how to use them effectively.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlVYdHg0cUEzbzg1dW14Nk9kY2xrLUpkbTVBOWpMalNkWVJNa3dkUDNocnR3UENlMU5vbnlVV2ZMSjJYR21YUzJyVzRqNkNhOHE4RHlJYVNyV0FNRkI5Q3lkT0gtZGhwQi1ocENMZGY4eHp2bFFaNG9QVy1weXlJYVBYSXd1dmVta3dTbWhvOHVWbDJnNDZSUC11VQ",
+      "topics": ["advertising", "AI industry", "business"]
+    },
+    {
+      "title": "Spotify says it won't recommend music from 'AI Personas'",
+      "summary": "Spotify has confirmed it will not surface music created by AI-generated artist personas in its recommendation algorithms, drawing a line between human artists and AI-fronted accounts on the platform.",
+      "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+      "topics": ["AI ethics", "content policy", "generative AI"]
+    },
+    {
+      "title": "As AI eats the web, the internet's collective memory is disappearing",
+      "summary": "The Walrus examines how AI-driven changes to search and web publishing are threatening the long-term preservation of online content, with implications for how the internet serves as a shared record of knowledge.",
+      "url": "https://thewalrus.ca/google-search-is-dying/",
+      "topics": ["AI search", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Apple could help you prove your iPhone photos aren't deepfakes",
+      "summary": "Apple is developing a feature that embeds provenance metadata into iPhone photos, allowing users to verify that images are authentic and unaltered rather than AI-generated deepfakes.",
+      "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+      "topics": ["AI ethics", "technology ethics", "generative AI"]
+    }
+  ],
+  "ethan_mollick": null
+}
