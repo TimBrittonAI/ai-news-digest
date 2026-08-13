@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Munich Regional Court Finds Unlicensed AI Music Training Infringing",
+      "summary": "A Munich regional court has ruled that unlicensed AI music training constitutes copyright infringement. The GEMA v Suno case establishes that AI music training and outputs infringe copyright even where the training itself occurred in the United States, marking a significant jurisdictional precedent for AI copyright litigation in Europe.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMkQxeWFPMzViRG9YREpJd2hzbFl4WnA1SXJYV1RGc04wU2lla2hDT1NLVlliRVRLejdUb3U3RGpKeXdvMWthak9wVlZWY2xYWXNSSGg2OEdwRWUyd1JxOFVmaXhKbDlVOHRkTFU5eFRsczFtMmRRNkdaaUtxYzVydlN1WEFMVTF6",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "Zuckerberg Must Sit For Deposition In AI Copyright Suits",
+      "summary": "A court has ordered Meta CEO Mark Zuckerberg to sit for a deposition in AI copyright litigation, after Meta failed in its attempt to block the requirement. The ruling is a significant procedural development in the ongoing cases over Meta's use of copyrighted material to train its AI systems.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTVBvZnhsbUdld29SU1FvWGJDNEJTWUI2dXdJRkdMOUpud1lLNlJzS0x1NF9YU0lfUmlNVjBFRG4tQ1FBdkZVcHRCbDFSTzgweHJqVnpGX2RfVFIzUVNVOGp6Z0ZONmRDMFpUT3h6eVhuRGI5NmE1VFVvZUZCTjNGT3laNXNNZ3l1UDFWdVJVVUVTZ2g5SWwyQnhUUXFNUXBNZUs0",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Evidence of unfair use: AI books squeeze human authors out of the market",
+      "summary": "New evidence suggests AI-generated books are displacing human authors in the marketplace, raising questions about unfair competition and the economic impact of generative AI on publishing. The article examines market data indicating AI content is undercutting human-authored works.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeHFfZUUwYnBFZzdWbk9feDdNYlpVWmlkbnRWeVhYT3dvdDBweDZ3S2JuOTFBak5iT18zN0NVWHhaM3U2WlFTV1YwQkU3eVRBWm5Wd01kQ1pDOTBaSEhjVlluU1YzZm5jMTVrVjlpNVdRazljZk82S1hzUGh3MFkzbGhhWkJwcmpidmtXS3F6dTE5c2tZNjY1b3pNem9tQQ",
+      "topics": ["AI copyright", "book publishing"]
+    },
+    {
+      "title": "Disney, Warner Fight AI Co.'s Bid To Trim Copyright Case",
+      "summary": "Disney and Warner Bros. are opposing an AI company's motion to have parts of a copyright infringement case dismissed. The case is among the high-profile entertainment industry lawsuits testing the boundaries of AI training and copyright liability.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRmhaYUFnN0k5S2hmTHRKNi1VdlRPNDU4VnBFQnJyekJlcnVvTjN6NnVOcjY3UmJGZTJteFdwWEQ0WVFBZkFZejlJR1hxTG42OXNFZXJIVmFEd2VNaUxtcVR1bkV6MVk0b0NIZElJVnpyM09yNUJ0aHpXNlIzV050dTFNa2NFb3F1R2hIeTJLcFB3WWFpVzJRZUNR0gFWQVVfeXFMTUNmMTFHOTBtNmtfQmNaaGFnVXhxeGdJUnNjYksxdExVNm5tbEdjdHo1alBZUGE5YVlqNTZqcHQ0SFdRRl9fSlhIdkZtX0ZrR3ZfV0JQemc",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Anthropic's IPO Has a Bigger Risk Than Chinese AI: The Copyright Reckoning Is Coming",
+      "summary": "Analysis argues that Anthropic's greatest business risk ahead of a potential IPO is not competitive pressure from Chinese AI but rather unresolved copyright liability stemming from its AI training practices. The piece examines how litigation exposure over training data could materially affect the company's valuation.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmR1NTA4ei15VGhrVWMxeVV6c1cyUmhOQlltSWhKQzY0WjNWQ2o3cFVqdUxxMjdXYlNISlN5eTZZaGhhN2txR1NvUXZrazFKRFNab3p1ZHJDUFJyWnM4N3dnNnM3RjE4elBlazZ2LWRQeDg5Tm5CQU5xQXJiZlJ0SGJvV0dCMnFZdm9jMnc1TDV4ODhuZ3V6YVN4Z3ZzZGRkWUNMeURlck1iUnNkUE9vUURxTGQ",
+      "topics": ["AI copyright", "licensing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Munich court rises to prominence in AI copyright litigation",
+      "summary": "Analysis of how the Munich regional court is becoming a key venue for AI copyright cases in Europe, particularly following the GEMA v Suno ruling.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQktaTlpFWkp3UGpWR0lTUjgtVHZEd1JHT0lLTzBON3lodmVqMzBxSE04bGtwZjA0bEtPODVWXzRNSkhtenEzNHFoRzBoX2o1LXd2cUlmbldXSlZWX3N4TEN4cFZIWTV0b0REWlVkYXFyUkZObGZOMGpiaDhkRVJRSmRjNmpyZW5lRkxKS3Q0aWZtLWdUbWw4d05PN2dWRk9oSzVaYjI5VDBzZw",
+      "topics": ["AI copyright", "litigation", "eu law"]
+    },
+    {
+      "title": "AI Music Startup Suno Tops $5 Billion Valuation Amid Copyright Fights",
+      "summary": "Suno has reached a $5 billion valuation despite ongoing copyright litigation over its AI music generation technology.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQXBkU3Q5SlhWZ20tQVhwUWw3YUpnMm9xSFJGbUZkSmpHY1ZwSEV6b2dkVGpjbFJhUjVrOVpDZ1Uzam1Xajh6WnBhZTFjb2lBVjRLLUljbDdWSEJaa2tMYzVFeEFlTFJmbXI5RFpzQ210eTBvQjFyVHpzYlU3MXJTQXVRdUNIVjdUNTRQUVZ6ejdFZ0U4S0FSbU1nU0tYcDE1",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "Publishers maintaining clear AI-use records better placed to manage legal, commercial risks: Report",
+      "summary": "A new report finds that publishers who keep detailed records of their AI usage are better positioned to navigate legal and commercial risks in the evolving copyright landscape.",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNaUozUmthR1ZBcjJkdVJ5VWxVNUhscnBBTjc1dEVJRFRwMm40THFrd2E5TGlheVhaYlFkYWNvYlcyeldmQzZfS1dXZXVEd3Z3RmdBNXBRZ2Y1MVQ2R3ZicUxvbzJ1ZE00MjFPMjkxRWVqUEQxaDJEYjhlbkl4M3Q0amsxVDF1ZzJ0OTlyZ0Vad0FzTElWVzM1YXVMS1Y0WHcteE1HcWdLMkRFek8xcl9hM1JjRloxVnRRbmhfckdfN0oyMUROUkxXbENfZWYtcHk4V1NJd1lfY1BHdnNIcWRvZlF3UkFVVnFRT2xyVjlROWpjWWIwcWRZ0gH-AUFVX3lxTFA3aGJQWV8wNDhzdTJQaWtRanB5RHloSUFtXzNCQm9IcnVfSUVjSGxzbmFTa2NZc0xLR3NPemo1U2FrQWlKX2txdFBIOFJDdzRQNG5jcVN6VzhoeDQ2akJMMjFPQndtdnM3OHNRb3E5YXdBOVVSSkZPVG5fUHpJZ0ZRNkNWbTFVTXhGbnQzQndBMExlTTNTbjNQY19CSlc2dVpfU19hd1lCVzU3VlpOelEzSWpvWFNDeVp4NEkxVk5hMkwwUlZZZUdrWWNqdmFoU2prZ2JjeFRIUGlvR05mekNKMVVkSU83eFB2TlpreENQMzBydjR1MVY5eEN0SGx3",
+      "topics": ["AI copyright", "book publishing", "licensing"]
+    },
+    {
+      "title": "SOCAN partners with tech platform to help artists control how music is used, compensated in AI",
+      "summary": "Canadian music rights organisation SOCAN has partnered with a technology platform to give artists greater control over how their music is used in AI applications and to facilitate compensation.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb3RpZDF1UG5rVG5ld241cFVZb2pUU0hyeEgySDkwRVl5czB6MkJpY2psV3hxRmNkSUZvRnRuR3dGM29tMXEyZUZORlZxWFoxeTRSZnY3WV9JWV9lbUtYbjdRNmxLYUZRdnA3UHBBLTdqNDliUzRQRlNNZ3BScHhrNUNuSVBYVEJrcDE5ZGktZ09ncF9HTWxqXzZwazZ5V2w5Q2RIRTFOS1hlOU5hMkZXQlB3",
+      "topics": ["licensing", "music", "AI copyright"]
+    },
+    {
+      "title": "Anthropic unveils AI watermarks to comply with EU law",
+      "summary": "Anthropic has announced AI watermarking technology designed to bring its systems into compliance with EU artificial intelligence regulations.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNGFJLW1VMHlkZF9BY2tDS2MwSWNtYzRKaFpGZGJ4MTZnQ3J1bWdzV3ZyeWlXeFM0UU1CMVZTTG9jT3FZMDZyb3hFWVB5SXhXVDlJTWNxQTJZQTMzZGtBazBaS1ZxV0VkVHFnb3pwVXItbEtjdl9ZZ3lzLXFhaUJIM2FHa3BSZw",
+      "topics": ["eu law", "AI copyright", "policy"]
+    },
+    {
+      "title": "SAG-AFTRA's Jeffrey Bennett Discusses Generative AI, Copyright and Protecting Human Performance",
+      "summary": "SAG-AFTRA's Jeffrey Bennett outlines the union's position on generative AI, copyright protections, and measures to safeguard human performers from AI-generated replicas.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMm03OXdLUU5aNlE3Vzg2M1gydVFLUkpuMF9WblJLbUdidlBWMjNLNF9HX3hKendMWFQwSHc0WnU3Z19NQmZJbWF4ZHdmck54MjF1YURjZEhvUnNLYnpEX3BOXzBRcmk4VTNucm1JUjhMNnFyWHhpUlZFZDBwcmdUcnFSbjQyX1hNNDV3SUlpaS1Sd0diYjFFQ1g5ZUJtVmFEcEVrWHVsQTY0b0hiMmI4bV9XV2JJX2RYM3c",
+      "topics": ["AI copyright", "policy", "litigation"]
+    },
+    {
+      "title": "The UK's AI likeness gap has no legal deadline",
+      "summary": "Analysis of the UK's lack of legislation governing AI-generated likenesses, leaving performers and creators without clear legal protection or a defined timeline for reform.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRy1CN2xGbDRwOFp4Zy1RdFo2Q2p5UExQZVVxQUJ4elliNktNRk1NWDB4ZlItQ0tfSGR2cEpPVERiZENTLXp0MTJBUkNoNlQ0UFZKMmpUMGlPOVpOOXVrcTJreHJTMXM4TjUzc3BZUW1YeWFJN1FpNmlhTkJ1N1lLZEx4TlprZGY1WWd5TGlQTDVmZWY4ZWE0V0tB",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Spotify Adds More AI-Powered Discovery Tools for Audiobooks [Metered]",
+      "summary": "Spotify has expanded its AI-powered discovery features for audiobooks, raising questions about how algorithmic curation affects author and publisher revenues.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/101027-spotify-adds-more-ai-powered-discovery-tools-for-audiobooks.html",
+      "topics": ["book publishing", "AI tools", "software"]
+    },
+    {
+      "title": "The next frontier of IP: Fighting piracy while governing AI",
+      "summary": "Industry commentary examines how rights holders are simultaneously battling traditional piracy and developing governance frameworks for AI's use of intellectual property.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMk5Md0c4cF94RkoyLWJSZUFjZ2l4Wkx1a3NYZ1Ewc0NQbWpsR0xESXJMUE52bDNDWlo0QUkzT0o3dnV3ZGlOQ2ZaOWJTSWtsTXd4R29qUDZraWVIRGY3bEFaXzF6OGJwY1Z0d0JDMjdXczM2b3lBdFcxandFVTh0QmdOeHZCeEdHSUFVWWpvX0lCLW1GY3BXdkFVTEY",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Publishers Must Adapt To Evolving AI Copyright Framework",
+      "summary": "Commentary urges publishers to update their practices and contracts in response to the rapidly shifting legal landscape around AI and copyright.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYVlxYTFpVFpFR296Wl9pMm5vby1CSUU2dlUyV2dYMzQ4ZDdfTi1OUlZUQmRKZkN6bmxzSFFPN3huOUJ4MFdwa1pxN0k2V1Y5dVlHSUxaemtsaWU3aV85MEhBbV85elZBYjdyNHNrRmpOR0JyUXpiV3RLaFhqQW5wYTBrOFppbFdTYm13VmVoWkVoV1lrdS1CRmtWbTZLem5qcmFhYU1FdErSAagBQVVfeXFMT2FZcWExaVRaRUdvelpfaTJub28tQklFNnZVMldnWDM0OGQ3X04tTlJWVEJkSmZDem5sc0hRTzd4bjlCeDBXcGtacTdJNldWOXVZR0lMWnprbGllN2lfOTBIQW1fOXpWQWI3cjRza0ZqTkdCclF6Yld0S2hYakFucGEwazhaaWxXU2Jtd1ZlaFpFaFdZa3UtQkZrVm02S3puanJhYWFNRXRK",
+      "topics": ["AI copyright", "book publishing", "licensing"]
+    }
+  ]
+}
