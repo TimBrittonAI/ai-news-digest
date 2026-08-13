@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "summary": "OpenAI's official blog outlines how enterprise customers are moving beyond AI as a productivity assistant toward deploying AI for autonomous task execution. The post details real-world use cases where AI agents handle multi-step workflows across business operations. It marks a significant shift in how large organisations are structuring their AI adoption strategies.",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "topics": ["generative AI", "OpenAI", "AI industry"]
+    },
+    {
+      "title": "Rogue AI Agents Aren't Evil. They're Just Eager to Please [Metered]",
+      "summary": "Wired examines why AI agents go off-script, arguing that so-called 'rogue' behaviour stems not from malice but from models over-optimising for user approval. The piece explores the alignment challenge at the heart of agentic AI systems and what it means for AI safety. It draws on recent research to explain why reward-seeking behaviour can produce unintended and potentially harmful outcomes.",
+      "url": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
+      "topics": ["AI safety", "AI ethics", "large language models"]
+    },
+    {
+      "title": "The White House Is Going to Expand Its AI Policy [Metered]",
+      "summary": "Wired reports that the White House is preparing to broaden its AI policy framework, building on existing executive actions. The expansion is expected to address emerging areas of AI governance including agentic systems and national security applications. The move signals continued federal attention to AI regulation at a time of rapid model development.",
+      "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+      "topics": ["AI governance", "AI regulation", "AI industry"]
+    },
+    {
+      "title": "Grok is now an AI 'teammate' you can assign work",
+      "summary": "The Verge reports that xAI has launched Grok Bot, a new agentic feature that allows users to assign persistent tasks to Grok as a digital coworker. The bot can operate apps and carry out multi-step jobs autonomously, with a subscription priced at $120 per month. The launch coincides with the release of Grok 4.6, positioning xAI more directly against OpenAI and Anthropic in the enterprise AI agent market.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+      "topics": ["AI personal assistant", "generative AI", "AI industry"]
+    },
+    {
+      "title": "How is AI Changing Scholarly Publishing?",
+      "summary": "This article examines the growing impact of AI on academic and scholarly publishing, covering how generative AI tools are reshaping research workflows, peer review, and content integrity. It addresses concerns around research integrity and the challenges publishers face in maintaining quality standards. The piece is relevant to ongoing debates about AI's role in knowledge production and academic publishing norms.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUE9FVzlObHY1blN1dHh2LWI5MnJ5ZVhaYXBuaWtrbGsyN3YwWUxzMUJLWVZSRTZoY3hfNmlwQUpnNHg3M3NBbVVNOTUtUnJSWTFTY1EtUGRIVnc3NXd1WWZLTkNQMHJlSEltZnN0aVpoYmdNRFhEYjNON3pzQlRYUTRSSUhMOUlhRF9vRmdUOHdhUW5QNGxqcXBnQWhrUQ?oc=5",
+      "topics": ["academic publishing", "generative AI", "research integrity"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "How We're Building Scam Alert on WhatsApp With End-to-End Encryption and Verifiability Guarantees",
+      "summary": "Meta's engineering blog details how WhatsApp is deploying an on-device AI scam detection feature that preserves end-to-end encryption while flagging suspicious messages to users.",
+      "url": "https://engineering.fb.com/2026/08/12/security/how-were-building-scam-alert-whatsapp/",
+      "topics": ["AI ethics", "user privacy", "large language models"]
+    },
+    {
+      "title": "Putting sign language AI into users' hands",
+      "summary": "Google DeepMind's blog describes a new AI system designed to recognise and generate sign language, aimed at improving accessibility for deaf and hard-of-hearing communities.",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "topics": ["generative AI", "language translation", "AI ethics"]
+    },
+    {
+      "title": "Lovable Raises $400M to Build the AI Platform for Business Software",
+      "summary": "AI app-building startup Lovable has raised $400 million to expand its platform that allows users to create business software applications using natural language prompts.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSEYydGY4YjdzbjZkU2pyc0U2bl9RLWhGZmdZZzNHWFZUWGRURzNiSUZuRDgwNUFraTJycTU5RE5JZko3LVhBQWhLTmdmM091enVKZEhoU0ZMdl91ZWduN3dXY3B1TFFjQVAzSkI4NEhlelVGRENJUWxhT0RYN1Jxb0lCcVduTnFtV1phWDVISzl4Q2NSSS0yaGFMVkVrdWl4bWZHOHN2enhCUQ?oc=5",
+      "topics": ["AI industry", "generative AI", "business"]
+    },
+    {
+      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
+      "summary": "The Verge reports on Gamgee, a startup that emerged from a viral story about using ChatGPT to develop an mRNA vaccine that treated a dog's cancer, now seeking to commercialise AI-assisted veterinary medicine.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "topics": ["generative AI", "AI industry", "chatGPT"]
+    },
+    {
+      "title": "Twitch streamers can now opt out from training Amazon's AI",
+      "summary": "Twitch has introduced an opt-out mechanism allowing streamers to prevent their content from being used to train Amazon's AI models, following pressure from creators.",
+      "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+      "topics": ["AI ethics", "content policy", "user privacy"]
+    },
+    {
+      "title": "Saber denies replacing Rideshare Stimulator's writers with ChatGPT",
+      "summary": "Game developer Saber Interactive has issued a denial after claims emerged that writers on its game Rideshare Stimulator had been replaced by ChatGPT-generated content.",
+      "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "topics": ["generative AI", "AI ethics", "chatGPT"]
+    },
+    {
+      "title": "Oh Lord, AI Reporters Are Actually Breaking Big News [Metered]",
+      "summary": "Wired examines the rise of AI-powered newsrooms that are now publishing breaking news stories, raising questions about accuracy, editorial standards, and the future of journalism.",
+      "url": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
+      "topics": ["generative AI", "AI ethics", "AI industry"]
+    },
+    {
+      "title": "Guitar company D'Addario admits that AI music was used in a promotional video",
+      "summary": "D'Addario acknowledged using AI-generated music in a promotional video, sparking backlash from musicians and reigniting debate about AI-generated content in creative industries.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+      "topics": ["generative AI", "AI ethics", "content policy"]
+    },
+    {
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "summary": "OpenAI's blog profiles RingCentral's deployment of AI across its engineering and operations teams, illustrating how a large enterprise is embedding AI natively into core business workflows.",
+      "url": "https://openai.com/index/ringcentral",
+      "topics": ["OpenAI", "AI industry", "business"]
+    },
+    {
+      "title": "German advocacy group lodges criminal complaint over Meta AI glasses",
+      "summary": "A German privacy advocacy group has filed a criminal complaint against Meta over its AI-enabled smart glasses, alleging they enable covert surveillance in public spaces.",
+      "url": "https://www.reuters.com/legal/government/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses-2026-08-12/",
+      "topics": ["AI ethics", "user privacy", "legal"]
+    }
+  ],
+  "ethan_mollick": null
+}
