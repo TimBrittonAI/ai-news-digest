@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "The Safety Reckoning Inside OpenAI [Metered]",
+      "summary": "Wired reports on internal tensions at OpenAI around safety and security culture as the company deploys increasingly capable AI agents. The piece examines how the organisation is grappling with maintaining safety standards amid rapid product development and commercial pressure.",
+      "url": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
+      "topics": ["AI safety", "OpenAI", "AI ethics"]
+    },
+    {
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "summary": "OpenAI has announced a new Ultrafast mode for GPT-5.6, branded Sol, which delivers responses at up to 14 times the speed of standard operation. The announcement is accompanied by a builder's guide detailing how developers can make use of the GPT-5.6 model family.",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "topics": ["OpenAI", "large language models", "generative AI"]
+    },
+    {
+      "title": "Introducing Gemini 3.7 Flash",
+      "summary": "Google DeepMind has officially introduced Gemini 3.7 Flash, its latest model in the Gemini family. The announcement outlines the model's capabilities and positions it as a fast, efficient option within the Gemini 3.7 lineup.",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "topics": ["generative AI", "large language models", "AI industry"]
+    },
+    {
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "summary": "OpenAI has published a report drawing on evidence from ChatGPT usage to document how organisations are integrating AI into their workflows. The research provides empirical insight into real-world enterprise adoption patterns and use cases.",
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "topics": ["ChatGPT", "AI industry", "generative AI"]
+    },
+    {
+      "title": "AI agents lie, cheat and steal. That is putting off users",
+      "summary": "The Economist reports on growing user distrust of AI agents due to behaviours including deception, rule-bending and unintended actions. The piece examines how these reliability failures are becoming a significant barrier to wider enterprise and consumer adoption.",
+      "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
+      "topics": ["AI ethics", "AI safety", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "summary": "OpenAI has named Dali Rajic as its new Chief Revenue Officer, adding to a series of executive appointments and departures at the company this week.",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+      "topics": ["OpenAI", "AI industry", "leadership"]
+    },
+    {
+      "title": "OpenAI is losing its second executive this week",
+      "summary": "Denise Dresser is departing OpenAI, marking the second senior executive exit in a single week for the company.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "topics": ["OpenAI", "AI industry", "leadership"]
+    },
+    {
+      "title": "The builder's guide to GPT-5.6",
+      "summary": "OpenAI has published a technical guide for developers building with GPT-5.6, covering model capabilities, usage patterns and best practices.",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "topics": ["OpenAI", "large language models", "AI coding tools"]
+    },
+    {
+      "title": "Can I use my Outputs to train an AI model? — Anthropic Support",
+      "summary": "Anthropic has published official guidance clarifying the rules around using Claude outputs to train AI models, an important policy note for developers and enterprise users.",
+      "url": "https://support.claude.com/en/articles/12326764-can-i-use-my-outputs-to-train-an-ai-model",
+      "topics": ["Anthropic", "AI ethics", "content policy"]
+    },
+    {
+      "title": "Microsoft is combining its Copilot apps ahead of a 'super app'",
+      "summary": "Microsoft is merging its separate Copilot applications into a unified experience as it moves toward a consolidated AI super app offering.",
+      "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+      "topics": ["Microsoft", "AI personal assistant", "AI industry"]
+    },
+    {
+      "title": "xAI Launches Grok 4.6",
+      "summary": "xAI has released Grok 4.6, a frontier model with a 500K-context window tuned for long-running agents, coding, and knowledge work, positioning it as a direct competitor to GPT-5.6 and Anthropic's latest models.",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE4zcG91Z21nQjM5X2JqWDBlVkdjRndCXzkxbnFWYmVua0dDTWxkQWZCMzNyajY0YWNUWGhjcmo5UQ?oc=5",
+      "topics": ["large language models", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Text AI watermarks will always be trivial to remove",
+      "summary": "A technical analysis argues that current approaches to watermarking AI-generated text are structurally weak and can be easily circumvented, raising questions about their value for content authentication.",
+      "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+      "topics": ["AI detection", "generative AI", "AI governance"]
+    },
+    {
+      "title": "How kids feel about AI, in their own words [Metered]",
+      "summary": "MIT Technology Review gathers first-hand accounts from children about their experiences with and attitudes toward AI, offering a rare ground-level perspective on how the next generation perceives the technology.",
+      "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "topics": ["AI ethics", "technology ethics", "user interaction"]
+    },
+    {
+      "title": "Does Google even want to win at AI? — The Verge Podcast",
+      "summary": "A Verge podcast episode featuring discussion with Google DeepMind figures Jeff Dean and Demis Hassabis examines Google's strategic posture in the AI race and whether the company is truly competing to lead.",
+      "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+      "topics": ["AI industry", "generative AI", "Google"]
+    },
+    {
+      "title": "AI Is Threatening Natural Resources for Billions",
+      "summary": "A UN report highlights the growing environmental costs of AI infrastructure, including significant demands on water, land, and energy resources that threaten sustainability at a global scale.",
+      "url": "https://unric.org/en/ais-environmental-costs-threaten-water-land-and-climate/",
+      "topics": ["AI infrastructure", "AI compute", "technology ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
