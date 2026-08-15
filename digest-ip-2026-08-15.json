@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Suno Signs BMG Licensing Deal 12 Days After German Court Ruled Against Its AI Training",
+      "summary": "AI music generation company Suno has signed a licensing deal with BMG, just 12 days after a German court ruled against its AI training practices. The deal marks a significant development in the ongoing legal and commercial battles between AI music platforms and rights holders.",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWHVmcmplYTI0Y0FXbzA2R3oyWG9pTHNRdS0weEc3TFBwWDd5VGV6dTAwMjAtbW1SRG9Qcjd4NnVvai1WLW56SHlIbkZIYVNBWXhvSmlvQ3otcFByMU95c1R1ODFiZzdzNGxZbXhDOWEwbV9IcDZlaWlTeC00cWpqQ0d6VnNJVlRKdUd5el8wM2xTOU9XVVhKaXRJSVB6eFFRUUVUakZoQnlnY1VMcjhaYlpyclJTNVo3RjI4MmxNNEFfSjVqN1gyUUNXWGlXVF9PcVBqLXhhbUVhSGxnb01xRXRidUxqSmhtUWc",
+      "topics": ["AI copyright", "licensing", "litigation"]
+    },
+    {
+      "title": "Zuckerberg Must Sit For Deposition In AI Copyright Suits",
+      "summary": "A court has ordered Meta CEO Mark Zuckerberg to sit for a deposition in AI copyright lawsuits against the company. The ruling represents a significant escalation in the legal proceedings against Meta over its AI training practices.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYVJXcDNfb1N0Z2Y1VnU3N3hoRWc0MUxMVnZOeFUtRm1Cb1d1TzZJQmRhWk1YakJOeXNCZDRuWHFfYkhaYzhOazhRbE1MNmlSVVJXZ2lGdXIyX0ViNkRGZHBvX3plRG9XcjczaHB0c2VtX2N6LVNWbnpQUi1KTEE3YnVtUk9ZOGQxWkNwOVJqdUZFTWdzOEUycXNiVnbSAVZBVV95cUxPVi1kRW9mMjdtZ09DcXpkXzRnSEFYSzFLUXpIMmp0eTN5Rnh5RVRvQ2VWaG1VWklTTU5hQTR6bHpabUdaV0dzLVdZZWRDOWJSb1VES3NwUQ",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Disney, Warner Fight AI Co.'s Bid To Trim Copyright Case",
+      "summary": "Disney and Warner Bros. are opposing an AI company's attempt to have portions of a copyright infringement case dismissed. The case is part of the broader wave of litigation by major rights holders against AI firms over unauthorised use of copyrighted content in training data.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRmhaYUFnN0k5S2hmTHRKNi1VdlRPNDU4VnBFQnJyekJlcnVvTjN6NnVOcjY3UmJGZTJteFdwWEQ0WVFBZkFZejlJR1hxTG42OXNFZXJIVmFEd2VNaUxtcVR1bkV6MVk4b0NIZElJVnpyM09yNUJ0aHpXNlIzV050dTFNa2NFb3F1R2hIeTJLcFB3WWFpVzJRZUNR0gFWQVVfeXFMTUNmMTFHOTBtNmtfQmNaaGFnVXhxeGdJUnNjYksxdExVNm5tbEdjdHo1alBZUGE5YVlqNTZqcHQ0SFdRRl9fSlhIdkZtX0ZrR3ZfV0JQemc",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Evidence of unfair use: AI books squeeze human authors out of the market",
+      "summary": "New evidence suggests that AI-generated books are displacing human authors in online marketplaces, raising questions about fair use and the economic impact of AI on the publishing industry. The article examines how the proliferation of AI-authored content is affecting authors' livelihoods and market share.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWXh2Sng3eTh2SUNMQkRORnlKX0w5VlVwLVdqM2c4bnh1TWNjUF9ZeFZDU2hPemZHNU0zTUZ4Z1FmMHhaX1pfSmVKbVNfdnN2c0s2dDFqZHE0ZTMyWjM4dkxVRnRBT21GeUNyTGFxRDFNa3M3UV91dVc0bjd4RVo2UkdybjNLWU0yV0xVRTYzUWZxb0pVXzlMUHIxSFBCTmJ1TmJ5QU9n",
+      "topics": ["AI copyright", "book publishing"]
+    },
+    {
+      "title": "The American Dollar & Jamendo Abruptly Drop Suno Lawsuits",
+      "summary": "Music rights holders The American Dollar and Jamendo have unexpectedly dropped their copyright lawsuits against AI music platform Suno. The dismissals come amid a flurry of legal activity surrounding Suno, including its recent BMG licensing agreement.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOW5QREh0aENyaDZfaHFFeFJCdnZSVUxwSGJLcXJsaC0xQmdxU3JUNkRtbkJiRVFWQjJ3UVkwd3RLQkhtZ0t6SkI0OXdLSjhtQWh4WkEzRzVaUzY0bW94bEtJT2NUUUlVQ01Na20wY2s0V204aGlTOS1GUHdfVTJwRHNQRXZFZUV1NmZJRFQ1WFlKckEyMG9V",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "AI Bots Are Stripping European Booksellers' Shelves; EU Copyright Law May Ban It",
+      "summary": "AI web crawlers are scraping European booksellers' catalogue data at scale, and existing EU copyright law may provide a basis to prohibit the practice.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMWVSRHdBOU5QR3BFczRoSk1jY2Q4UDJTT3B5eW5oY2twVlJ4dm5yMjRDRnY3MG9RVW9qTXJfb2N0MmtZWUJXS1dCendoMi1wYVVROWtGMTlsc0V5TzhZVUJDREd2T3BiNnZuVEItT1RXdHZ3cHUzb2tmRzF1OUxUVVZ1ZUZDak9yVHE2RHVfd0cweXFNeHhvb0p4TWVXSmx0NWlUUmpseGZCZGQzNlhVVGgtRnNuM0F3Y0l3TmM4bC1nZmdiSHR0U1N3b3RlZw",
+      "topics": ["AI copyright", "eu law", "book publishing"]
+    },
+    {
+      "title": "California AI Bills Face Final Vote Today: Chatbot Safety, Copyright, US-First Commission",
+      "summary": "California's legislature is moving to a final vote on several AI-related bills covering chatbot safety, copyright protections, and a US-first AI commission.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ3N3UDJLU2k2V2s4OTR1S3ZUSHVfb1NyOGhLblRYNVNNeVpvODkzY1lSUzktZHZIcnVsbEU4c2QwcUJNODZlRmp3RV9CQ0pJb1NET3g5ZHA5d1dVM0JNeHNLcWFwUUNUSGV5Z1VtZ0Q4ZEVaNkdHZGRYYnJ6Wk9zaXJmUXZldHVnSVh3d3NoRjNUd2FWYmhxdGp0a1ltOWhjU2stZ0JDRGVJTDIzUFJLLWc2TklNVERXelNZNi1vTU13RHNXNU84VDZFbFVvMDlzSkJ0b212ZlI",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "AI Music Startup Suno Tops $5 Billion Valuation Amid Copyright Fights",
+      "summary": "Suno has reached a $5 billion valuation despite facing multiple ongoing copyright disputes with music rights holders over its AI training practices.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQXBkU3Q5SlhWZ20tQVhwUWw3YUpnMm9xSFJGbUZkSmpHY1ZwSEV6b2dkVGpjbFJhUjVrOVpDZ1Uzam1Xajh6WnBhZTFjb2lBVjRLLUljbDdWSEJaa2tMYzVFeEFlTFJmbXI5RFpzQ210eTBvQjFyVHpzYlU3MXJTQXVRdUNIVjdUNTRQUVZ6ejdFZ0U4S0FSbU1nU0tYcDE1",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "The Copyright Battle That Could Push AI Out of Reach",
+      "summary": "An analysis of how escalating copyright litigation against AI companies could restrict access to and development of AI technologies if courts rule broadly against AI training on copyrighted material.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JWmtuNlc1T0c3ZUh0ZlEzU0xZNnBmVmQwb1o2ZmRGeHhVeG9lUkpTT2dnWWktOTZjeGtNRjVtaWNJMFpQSjQ2QUNsWThEQlcwbzRVb3FPaHJ3LTByTUttV2FDT1QxVEZvYmlieERZYUJXSnZUdGJBM0FUYjh0Z9IBgwFBVV95cUxNbTk1dDZLYjVDeFljUGpzdlNzYWh6RmhncEV1Ynd1MGhfd3FIcTNOaTFZVTI0bVV2aUtJQzc5VG5tdjFoQ1FpODEyOVN4NXZLRk9jNmh2bkJsSElhb1JGbmJ2djB2ZGFncF9kNThYcWMxcnpUdThSMXJFUEZ5M2xHRkdQWQ",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "Echoing Palworld dev, video game lawyer says all her clients have anti-AI contracts because gamers hate it and it's a copyright landmine: \"I think we're going to see lawsuits\"",
+      "summary": "A video game lawyer reports that her clients are universally adopting anti-AI contractual clauses due to copyright risk and player hostility, predicting significant litigation ahead in the games sector.",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPdUtxaEpwWnFnUU1wSkJUZGU2eWUyU0pjUW03WTBYNGtkQ1F3UlVOTnhMOGl4TDFWbllOTGVzeVoyVW1VTHF4aUVCWDNiRGRWV29aeVFpNDgyanJnQWgtVjBqYzI5TEoxcGc5UFB4WnJDRUd0ZkxfVlpSdUFlZ2drSnl1clZFZzVjODVjdy0tVnc2OEtnQVdkQkFhSU45bXg1bGtiVHByc0RmdVBON2Z6UElwQlZVSFZkU0dOTHYxOTJOdmRqVEp1ZmhILTYzN1c2SkpOVzhCaFBSOWxtVlVueS1OVHhYYnlGbUhFVVZZSElBOHFOVHBvWUtZbGt4dF9pUjR4eFJqRE1DTkw2c0xsX0wyd3A2em1mV21NMHRUVDZSdnZKZFo4eWdEWQ",
+      "topics": ["AI copyright", "software", "litigation"]
+    },
+    {
+      "title": "Thailand warns AI music creators over potential copyright infringement",
+      "summary": "Thailand's Department of Intellectual Property has issued warnings to AI music creators about licensing risks and potential copyright infringement under Thai law.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZjlpVVlLOE9uNENfME5vTE02WllKUjdWSTBNWXhRd2FVaFIzUkV0ZnFrc0lQeHdGSEUzTUFjZFFpdEVDY2VDLWdRa3NGcnIxUzJKbDlSZ2VlU05YTTdFZW1sR256VE5sc2N4cEk5ckpSR0JFbS1YMGdvSHprUzh6Y2ZHejhMUXc2UkR4TlZiZlV1cmx6eGdxOXB0aXN5azR0QTRKaFB5OUhUem1WaTZZ",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "AI in Film Legal Questions: You Made It With AI. Do You Own it?",
+      "summary": "An examination of the unresolved legal questions around AI-generated film content, including who holds copyright when AI tools are used in creative production.",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9MZi1oM2p5MEpJXzgyWWNWVEZRRE4wdHMtOVpheloxemJhcUhWNnJsWk03UWJMbU1uY29waGhJZThXcUYxUlZ2MXIySU1VN0YwS0MxQlh5Z2huNElfNnpPLUg3YWw",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Copyright across the genAI lifecycle – views from computer science and law",
+      "summary": "A cross-disciplinary analysis examining how copyright law applies at each stage of the generative AI lifecycle, from training data ingestion through to output generation.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYXJxeFNJZGxHZDR3enZ5ZWw4bVdmN2lpOThBTmlDLU5rMHlqZUthcGV6UDh5OTNkb0hqVTk3YnZ6Z0VzRk5TS21URkhSR2kweEZEUjRxSjk0Z1l4UjVYNEFxekdxV2lmQTVCQ3c5YjZ6TTdtZFR0SDg3STc0SFdWMFhPZjZRSnR5Z2wxVk1jUVc5aTg3VUNidDA3Q0xyQ0VOUTFNTWtzVkRtQTRLQ1BUWUFiaDcyaHJQY2lGaWIyaDZjQWM",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Artificial Intelligence and Intellectual Property Rights in India: Authorship, Ownership, Inventorship and the Emerging Legal Challenges",
+      "summary": "An overview of the emerging legal challenges around AI and IP in India, covering questions of authorship, ownership, and inventorship under Indian law.",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPYnpEXzBfRFlYdmhaT0FYT3RZSlpyeHloaVlPbVhuTnhTaDk1OGhFRzlHVjRRc2o2UU94TGo3TEdFRVhUVHJyQS1lRUJVWFprR04tYW9rSDdoVjdZQnBRMklJRkpxZk80eGxDM0FoOU5mZjNJWHFkYXBFaW1tcjNpT2d4V0xlMlN5VjhYVFd5cHNHX2Y0VzdTMUFzYXE0V281UUVmYzhIUkZRdEZtYjlFRnd1RUZnRWJIcmdHTFltazB0T0ZHMjZxUjdNc0podjNjNmU4SmhYNXQ0MHBiZjlnbGxJZ0pSNXY3clN0OUczMXNFdWZzMXh1Mml3Q2JNQ3B4U19WOVNPcGdqOFMxelprQQ",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Can AI use your creative work freely in Malaysia?",
+      "summary": "An analysis of whether Malaysian copyright law provides protections for creators against the unauthorised use of their work in AI training.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWXh2Sng3eTh2SUNMQkRORnlKX0w5VlVwLVdqM2c4bnh1TWNjUF9ZeFZDU2hPemZHNU0zTUZ4Z1FmMHhaX1pfSmVKbVNfdnN2c0s2dDFqZHE0ZTMyWjM4dkxVRnRBT21GeUNyTGFxRDFNa3M3UV91dVc0bjd4RVo2UkdybjNLWU0yV0xVRTYzUWZxb0pVXzlMUHIxSFBCTmJ1TmJ5QU9n",
+      "topics": ["AI copyright", "policy"]
+    }
+  ]
+}
