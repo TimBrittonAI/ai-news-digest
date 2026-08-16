@@ -1,0 +1,67 @@
+{
+  "top_stories": [
+    {
+      "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "summary": "A man inserted prompt injection text into his court filings, apparently attempting to manipulate an AI system he believed the court was using to process documents. The case highlights emerging concerns about adversarial tactics in legal proceedings as AI tools become more common in judicial contexts.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+      "topics": ["AI ethics", "legal", "large language models"]
+    },
+    {
+      "title": "AI Can Now Design Functional Viruses. Should We Worry?",
+      "summary": "IEEE Spectrum reports that AI systems have demonstrated the ability to design functional viruses, raising significant biosecurity and ethical concerns. The development is prompting debate among researchers and policymakers about the dual-use risks of generative AI applied to biology.",
+      "url": "https://spectrum.ieee.org/ai-designed-virus",
+      "topics": ["generative AI", "AI safety", "AI ethics"]
+    },
+    {
+      "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+      "summary": "Amazon has updated its policies to allow Twitch content to be used for AI training, with users required to actively opt out if they wish to prevent this. The move raises questions about user privacy and the default consent practices of major platforms.",
+      "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+      "topics": ["user privacy", "generative AI", "content policy"]
+    },
+    {
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "summary": "Science.org examines the current state of AI in pharmaceutical drug discovery, assessing what the technology has delivered so far and what challenges remain. The piece provides a grounded assessment of progress and realistic expectations for AI-driven therapeutics development.",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "topics": ["AI", "generative AI", "research integrity"]
+    },
+    {
+      "title": "Debian has begun voting on the future of AI/LLM contributions",
+      "summary": "The Debian Linux project has opened a vote among its developers to determine policy on AI and large language model contributions to the distribution. The decision could set a significant precedent for how open-source communities handle AI-generated code and content.",
+      "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+      "topics": ["large language models", "AI governance", "AI ethics"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "summary": "The BBC investigates whether growing anxiety about AI-generated content is driving consumers toward secondhand physical books as a trusted alternative.",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+      "topics": ["generative AI", "consumer research", "AI industry"]
+    },
+    {
+      "title": "The Download: Flock's new rules, cloning's future, and children's cells [Metered]",
+      "summary": "MIT Technology Review's daily briefing covers new platform content rules, advances in cloning research, and developments in children's cellular biology.",
+      "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "topics": ["AI", "content policy", "technology ethics"]
+    },
+    {
+      "title": "Working with AI feels more like leadership than coding",
+      "summary": "A developer argues that directing AI systems effectively requires management and communication skills rather than traditional programming expertise.",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+      "topics": ["AI coding tools", "AI personal assistant", "large language models"]
+    },
+    {
+      "title": "When Genius Fails: The Intellectual Arrogance of the AI Labs",
+      "summary": "A critical essay examines what the author describes as overconfidence among leading AI laboratories in their assessments of progress and risk.",
+      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+      "topics": ["AI safety", "AI ethics", "AI industry"]
+    },
+    {
+      "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China [Metered]",
+      "summary": "Wired profiles Unitree's humanoid robot as it gains traction as a social media influencer, reflecting broader trends in physical AI and robotics commercialisation.",
+      "url": "https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/",
+      "topics": ["AI", "AI industry", "advertising"]
+    }
+  ],
+  "ethan_mollick": null
+}
