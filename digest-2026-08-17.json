@@ -1,0 +1,85 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "summary": "OpenAI has dissolved its preparedness team, which was responsible for evaluating risks from its most powerful AI models. The move raises questions about the company's ongoing commitment to AI safety as it continues to ship new products at pace. The Verge reports the team's responsibilities may have been folded into other parts of the organisation.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "topics": ["AI safety", "OpenAI", "AI governance"]
+    },
+    {
+      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter [Paywalled]",
+      "summary": "Stripe has agreed to acquire OpenRouter, a platform that acts as a unified API gateway for accessing large language models from multiple AI providers, for over $7 billion. The deal signals major consolidation in the AI infrastructure layer and gives Stripe a significant foothold in the AI developer tooling market. OpenRouter has become a key intermediary for businesses routing AI compute across providers.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "topics": ["AI industry", "large language models", "AI infrastructure"]
+    },
+    {
+      "title": "ChatGPT's Computer History tracks your clicks and keystrokes",
+      "summary": "OpenAI's ChatGPT now logs detailed computer activity including clicks and keystrokes as part of its computer use history feature. The Verge reports this raises significant user privacy concerns about the scope of data being captured during AI-assisted computer interactions. The feature is part of OpenAI's broader push into AI personal assistant capabilities.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "topics": ["ChatGPT", "user privacy", "AI personal assistant"]
+    },
+    {
+      "title": "Rogue AI aren't science fiction anymore",
+      "summary": "The Verge examines how the concept of rogue or misaligned AI systems, long confined to science fiction, is increasingly being treated as a near-term practical concern by researchers and policymakers. The piece explores how recent AI capabilities are forcing a reassessment of safety frameworks and what constitutes acceptable AI behaviour. It draws on current industry developments to argue that these risks now demand serious, concrete responses.",
+      "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "topics": ["AI safety", "AI ethics", "OpenAI"]
+    },
+    {
+      "title": "AI isn't outthinking mathematicians, it's out-remembering them",
+      "summary": "A detailed analysis argues that recent AI breakthroughs in mathematics are better explained by vast memorisation of existing proofs and patterns rather than genuine novel reasoning or discovery. The piece contends that framing AI performance on mathematical benchmarks as 'outthinking' human experts is misleading and obscures important limitations in current large language models. The distinction has significant implications for how AI capabilities are evaluated and communicated.",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "topics": ["large language models", "AI ethics", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+      "summary": "A new poll finds that young people hold strongly negative views of AI company executives, reflecting broader tensions between public sentiment and the AI industry's rapid growth.",
+      "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+      "topics": ["AI industry", "technology ethics", "generative AI"]
+    },
+    {
+      "title": "AI Coding Without the Vibes",
+      "summary": "A practical guide arguing for a more disciplined, structured approach to using AI coding tools rather than relying on ad hoc prompting, with concrete techniques for getting reliable results.",
+      "url": "https://peterbloem.nl/blog/craft-coding",
+      "topics": ["AI coding tools", "generative AI", "large language models"]
+    },
+    {
+      "title": "The AI Credit Resale Economy",
+      "summary": "An examination of the emerging ecosystem of token brokers who buy and resell AI compute credits, acting as intermediaries between AI providers and end users at scale.",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "topics": ["AI industry", "AI compute", "AI infrastructure"]
+    },
+    {
+      "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+      "summary": "Researchers used AI tools to assist in porting a large legacy scientific codebase to GPU architecture, offering insights into AI's practical role in large-scale software engineering tasks.",
+      "url": "https://arxiv.org/abs/2608.13122",
+      "topics": ["generative AI", "AI coding tools", "AI compute"]
+    },
+    {
+      "title": "From Rule-Based Automation to AI Agents: The Future of Enterprise Applications",
+      "summary": "An overview of how enterprise software is transitioning from traditional rule-based automation to AI agent frameworks, with implications for business operations and software vendors.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWDk2c05MTzFWY2J3cFFwNHhfWmF0TmtMVmdJWm83eVBzU2c5b3l5c3FwX1I5aU95UXpUM3VpMWR0STliRUl1VGd4c01XczRzUmhsbldVaEZvY25COVc3SlNfMnItUG1TQVNrUnBEck91WTFLYU90Wm9NVkkyeUVrS1J4c1dLUVU1cmhFVDBwaFVKakpOZEZxLWI4WnJXT29Bcjhob2E3bU5mM3g0?oc=5",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "Cloudflare's AI Psychosis",
+      "summary": "A critical look at how Cloudflare's AI-powered security systems are generating erratic and counterproductive behaviour, raising concerns about reliability and unintended consequences of deploying AI at infrastructure scale.",
+      "url": "https://opensauce.it/cloudflare-ai-psychosis/",
+      "topics": ["generative AI", "AI ethics", "AI infrastructure"]
+    },
+    {
+      "title": "Have a laugh at AI's expense by roleplaying as a chatbot",
+      "summary": "The Verge highlights a growing trend of users roleplaying as AI chatbots, using the format to satirise and expose the quirks and limitations of current AI systems.",
+      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "topics": ["chatbots", "generative AI", "user interaction"]
+    },
+    {
+      "title": "These 'Masturbation Consultants' Were Hired to Pleasure Themselves With AI [Metered]",
+      "summary": "Wired reports on a niche but growing category of AI product testing, where companies hire consultants to evaluate AI-driven adult content and intimacy tools, raising questions about labour, consent, and technology ethics.",
+      "url": "https://www.wired.com/story/these-masturbation-consultants-were-hired-to-pleasure-themselves-using-ai/",
+      "topics": ["technology ethics", "generative AI", "AI ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
