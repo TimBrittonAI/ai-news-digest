@@ -1,0 +1,91 @@
+{
+  "top_stories": [
+    {
+      "title": "AirTag reveals Amazon is trashing rare books to train AI",
+      "summary": "An investigation using a hidden AirTag tracked a shipment of rare books that ended up at an Amazon AI training facility, revealing the company is destroying rare texts to use as training data for its AI models. The story raises serious questions about the ethics of using irreplaceable cultural materials for commercial AI development. Amazon, which began as an online bookseller, has not publicly disclosed this practice.",
+      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+      "topics": ["generative AI", "AI ethics", "large language models"]
+    },
+    {
+      "title": "Anthropic explains how Claude's invisible text watermarks will work",
+      "summary": "Anthropic has detailed how its implementation of SynthID text watermarking will work within Claude, embedding invisible signals into AI-generated text to allow identification of its origin. The system is designed to help detect AI-generated content without visibly altering the output. This is part of broader efforts around AI safety and transparency in generative AI outputs.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "topics": ["Anthropic", "AI safety", "generative AI"]
+    },
+    {
+      "title": "OpenAI publishes new policy ideas for the Intelligence Age",
+      "summary": "OpenAI has published a set of policy recommendations aimed at shaping how governments approach AI regulation and governance during what it terms the 'Intelligence Age'. The document outlines OpenAI's positions on a range of issues including safety standards, international competitiveness, and the role of the private sector. It represents a significant public lobbying effort by the company on AI policy.",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "topics": ["OpenAI", "AI regulation", "AI governance"]
+    },
+    {
+      "title": "The Defender's Window — OpenAI on AI and cybersecurity",
+      "summary": "OpenAI has published a report arguing that AI presents a crucial opportunity to shift the balance of power in cybersecurity toward defenders rather than attackers. The piece outlines how AI tools can be used to detect, respond to, and prevent cyber threats at scale. It also acknowledges the dual-use risks of AI in security contexts.",
+      "url": "https://openai.com/index/the-defenders-window",
+      "topics": ["OpenAI", "AI safety", "AI industry"]
+    },
+    {
+      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "summary": "An investigation by Responsible Statecraft reveals that Israel appears to have created a fictitious think tank, likely designed to inject pro-Israel content into the training data or outputs of AI chatbots. The operation raises concerns about the use of AI systems as targets for influence campaigns. The fake institution was found to have fabricated academic-style publications designed to appear credible.",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "topics": ["AI ethics", "chatbots", "AI safety"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Judge relying wholly on AI in order is covered by judicial immunity, court rules",
+      "summary": "A US court has ruled that a judge who allegedly relied entirely on AI to write a legal order is protected from liability under judicial immunity, raising significant questions about AI accountability in the justice system.",
+      "url": "https://reason.com/volokh/2026/08/17/judges-allegedly-relying-wholly-on-ai-in-order-is-covered-by-judicial-immunity-court-rules/",
+      "topics": ["legal", "AI ethics", "AI governance"]
+    },
+    {
+      "title": "AI-Generated GitHub Copilot 'Autofix' Allowed Compromise of Snowflake's Jira",
+      "summary": "Security researchers at Wiz detail how an AI-generated fix produced by GitHub Copilot's Autofix feature introduced a vulnerability that allowed attackers to compromise Snowflake's Jira instance.",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "topics": ["AI coding tools", "AI safety", "generative AI"]
+    },
+    {
+      "title": "Red Queen hypothesis – A new way forward for self-improving AI",
+      "summary": "Researchers at the University of Cambridge propose applying the evolutionary Red Queen hypothesis to AI development as a framework for building systems capable of continuous self-improvement through adversarial competition.",
+      "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+      "topics": ["AI research", "large language models", "AI safety"]
+    },
+    {
+      "title": "Import AI 469: Science AI; RSI simulator; and Zuck's technological pessimism",
+      "summary": "Jack Clark's Import AI newsletter covers AI advances in scientific research, a reinforcement learning self-improvement simulator, and Mark Zuckerberg's recent comments expressing scepticism about certain directions in AI development.",
+      "url": "https://importai.substack.com/p/import-ai-469-science-ai-rsi-simulator",
+      "topics": ["AI industry", "generative AI", "large language models"]
+    },
+    {
+      "title": "OpenAI joins PORTS-Pike project",
+      "summary": "OpenAI has announced it is joining the PORTS-Pike technology campus project in Ohio, which is also backed by NVIDIA, marking a significant infrastructure investment in US-based AI compute capacity.",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "topics": ["OpenAI", "AI infrastructure", "AI compute"]
+    },
+    {
+      "title": "What happens when a kid's robot best friend dies? [Metered]",
+      "summary": "MIT Technology Review examines the emotional and psychological impact on children when AI companion robots like Moxie are discontinued, raising questions about attachment, grief, and the ethics of AI products aimed at children.",
+      "url": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "topics": ["AI ethics", "mental health", "technology ethics"]
+    },
+    {
+      "title": "What Flock's defenders are missing [Metered]",
+      "summary": "MIT Technology Review argues that defenders of Flock Safety's automated licence plate reader network are overlooking key concerns around mass surveillance, data retention, and the erosion of civil liberties.",
+      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "topics": ["technology ethics", "AI governance", "user privacy"]
+    },
+    {
+      "title": "NVIDIA Guarantees SB Energy's PORTS-Pike Technology Campus to Exclusively Host NVIDIA AI Compute",
+      "summary": "NVIDIA has announced it will exclusively supply AI compute infrastructure for the PORTS-Pike technology campus in Ohio, a major commitment to domestic AI infrastructure buildout.",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    },
+    {
+      "title": "How to disable or avoid intrusive AI",
+      "summary": "Librarian and digital rights advocate Jessamyn West has published a practical guide for users seeking to opt out of or disable AI features that are increasingly being embedded into everyday software and services.",
+      "url": "https://www.librarian.net/notoai/",
+      "topics": ["user privacy", "content policy", "AI ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
