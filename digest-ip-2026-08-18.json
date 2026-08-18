@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "ByteDance signs first AI copyright deal with Hollywood's MPA",
+      "summary": "TikTok parent ByteDance has reached a landmark agreement with the Motion Picture Association, marking the first AI copyright deal between a major tech company and Hollywood's trade group. The pact establishes safeguards around AI copyright protections. This is the first such accord between a major AI-adjacent platform and the film and television industry.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd0xiXzQxN1BORUxILTNjOEUyX0M5VU03Znc2TGlyR0VLMkNOa3Iwb1dXMVg2WnZ3dmRnejZSUFVURWNSSkZXWFVZaWxxZXBSWExKYTdrQU5yeFRyb0txSE9TWkdZdXcycVg5UFh5bjJreUtnUVAxMUo0My1WUUxMSjhhZTVTR3J2cTNad0lNcmxvY2pjRmxNT1FjLVlQR0FULVRldUR3?oc=5",
+      "topics": ["AI copyright", "licensing", "film industry"]
+    },
+    {
+      "title": "Round Hill Music Files Copyright Infringement Lawsuits Against Suno and Anthropic",
+      "summary": "Music rights company Round Hill Music has filed copyright infringement lawsuits against AI music generator Suno and AI company Anthropic, seeking $1 billion in damages over alleged unauthorised use of its catalogue for AI training. The suits add to a growing wave of music industry litigation targeting AI companies. Anthropic previously settled a separate books case for $1.5 billion.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR3ZNbm0tQS1EV3BnWTNFU3JsU2lfczlvZmtoTEJyamJnaTU4NEZOQ2hEZktwUzV3b2U0NnVIYXFrQ2RzNFB3TlBuV1FZQV94NlBNeGFKTFA5S0NaODlIbk9BYTZUdndVOEVyLWhDZ2w1SDZTVkxCWGVnc3pWZVpCX21VSmQxUG1NR2NYcFFta3FXVzI4SnNqZTBrOHdDQXdXTW5wYTNoRng4Z9IBrwFBVV95cUxNM05DQXQzMjFiaEF5Q1ZfaDhmcFlnUDhqQVZoU2lOUEREWTh5ck95MHh3VjRfR1V6OTZILWxJZzA0MzNyN2dJdzRWQ3VpQzhYT21ReVhHbnU2WGx6T2Z3eXV2ZXl3clVBV3RQeVNYTFVIalE4YVM2elRXblZyUXdxSzNyQndHd09MLU43c3hHaW90R3hpam94eW9qUEVVaklpRENwc19hQUhSNDM4bkNj?oc=5",
+      "topics": ["AI copyright", "litigation", "music licensing"]
+    },
+    {
+      "title": "Apple Hit With Derivative Suit Over AI Copyright Infringement",
+      "summary": "Apple is facing a derivative lawsuit from shareholders alleging the company engaged in AI copyright infringement. The suit targets company leadership over claims related to Apple's use of copyrighted material in AI development. It follows a pattern of shareholder actions holding tech executives accountable for AI-related IP risks.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUEY5Z1ZoNnBmdnF6d1JBQ3ZYV1JQdzRUTlJoRnQtY2MySkY1YmkweVBlbUF4aWdULUh5WTJEV1pwR3BlRmc5NWM4TGxsLUU0cXp4cEVpTFliZEJ1SldXV3hWSnhyY1dsOXg5dHpjVDU3b0wyUU1PdnZCUlZmMEQ3c2V3MjUzdGFUZ1FySjlNUlJ4ZWllRzNodXRITWpjYjVta1Nj0gFWQVVfeXFMTk1STUstR2JBUWdOWTJVSndLX0NCel9qMVNsNkpzN0V3bGFIaDN6MzJrT3FodEM0eGRZU0NQNTFqRmdUMnpKSE4tMVBGeVoyZ05nRU42Rmc?oc=5",
+      "topics": ["AI copyright", "litigation", "software"]
+    },
+    {
+      "title": "Midjourney presses studios for broader AI discovery in copyright case",
+      "summary": "AI image generator Midjourney is pushing for expanded discovery from studios in its ongoing copyright litigation, seeking broader access to studio materials and data. The move reflects ongoing legal tensions between AI developers and content rights holders over training data practices.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZXd0UzliSzdBU19uZUNkUWEyS24wNWNPSHJoWHIzcHRDc3pBWThxT21qMVExdHVXNHAtSC1ONG5GU1gxZExpOFZnZXJaRUJsb0tvNXRCZ1lrQzlsZnpvN29raU9WcUM3U0xKWmRnZ3QyempQM0VvUmhGa2Y2aURkOW9ZLXkwM0drb0h5SlU5bmRqSDJ2cWUyMU1UZGg0WGU0eHZ6V3JHME0yRDJsU0FuN19RRQ?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Suno Signs BMG Licensing Deal 12 Days After German Court Ruled Against Its AI Training",
+      "summary": "AI music generator Suno has signed a licensing deal with BMG, just 12 days after a German court ruled against the company's AI training practices. The deal signals a shift toward negotiated licensing arrangements as legal pressure on AI music platforms intensifies.",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWHVmcmplYTI0Y0FXbzA2R3oyWG9pTHNRdS0weEc3TFBwWDd5VGV6dTAwMjAtbW1SRG9Qcjd4NnVvai1WLW56SHlIbkZIYVNBWXhvSmlvQ3otcFByMU95c1R1ODFiZzdzNGxZbXhDOWEwbV9IcDZlaWlTeC00cWpqQ0d6VnNJVlRKdUd5el8wM2xTOU9XVVhKaXRJSVB6eFFRUUVUakZoQnlnY1VMcjhaYlpyclJTNVo3RjI4MmxNNEFfSjVqN1gyUUNXWGlXVF9PcVBqLXhhbUVhSGxnb01xRXRidUxqSmhtUWc?oc=5",
+      "topics": ["AI copyright", "licensing", "music licensing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "A Court Called AI Training Legal. Anthropic Still Paid $1.5 Billion",
+      "summary": "Despite a court finding AI training lawful, Anthropic settled a major copyright case for $1.5 billion, raising questions about the practical economics of AI copyright litigation.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdmdhVWZKa3pQUzRxV0NTb1Z4YUJBSTZ4SjNMZW9VVUdnUTZwemxVMUd2OWFWNWtjUFhOZHVJUU5zQ05vOE9LRkU5bmNoZnZFLUdwTGNua3FWZ0w4YzFObl9EM05UUFZNbV9fMjk0RDZWanRFVV9QZjNZVXgwSUZwMTVNdS1JV3NMWFBFOXd1S21zTkRIYjBtcUh6cDE4dGxGbUhRUFdNSUtxbkhjazF0emoxMzRrOTBJR2lj?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Prompt injection: The next frontier in AI trade secret litigation?",
+      "summary": "Legal analysis examines whether prompt injection attacks on AI systems could give rise to a new category of trade secret litigation.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVEk4QVVGVXE1d1FvOW01czktMFZvVFlvb1lxeG1LVC1CQ2ZSOWNrY0FCUFBhNU45N0sxamVydXlabzYxLS13cDdxSng0TmIyaHVZVXJSQXpnR2x1dmwzTFA0WDZMc19CcWNKTXJlMzUyTGJWVDhGZWFSWU5EQWFpMjNLdXc3Z21sR29jSWtBSFhDTWxXVWRSVFd4S3dsT2hrNVhuRWJEekMzQTFC?oc=5",
+      "topics": ["AI copyright", "litigation", "software"]
+    },
+    {
+      "title": "AI copyright deals: Let's not cut off our nose to spite our creative face",
+      "summary": "Commentary piece argues that while AI copyright licensing deals are necessary, rights holders must ensure such agreements do not undermine long-term creative industry interests.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQd0xiXzQxN1BORUxILTNjOEUyX0M5VU03Znc2TGlyR0VLMkNOa3Iwb1dXMVg2WnZ3dmRnejZSUFVURWNSSkZXWFVZaWxxZXBSWExKYTdrQU5yeFRyb0txSE9TWkdZdXcycVg5UFh5bjJreUtnUVAxMUo0My1WUUxMSjhhZTVTR3J2cTNad0lNcmxvY2pjRmxNT1FjLVlQR0FULVRldUR3?oc=5",
+      "topics": ["AI copyright", "licensing"]
+    },
+    {
+      "title": "Evidence of unfair use: AI books squeeze human authors out of the market",
+      "summary": "Analysis finds that AI-generated books are displacing human authors in certain market segments, raising questions about fair use and the economic impact of AI on publishing.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWXh2Sng3eTh2SUNMQkRORnlKX0w5VlVwLVdqM2c4bnh1TWNjUF9ZeFZDU2hPemZHNU0zTUZ4Z1FmMHhaX1pfSmVKbVNfdnN2c0s2dDFqZHE0ZTMyWjM4dkxVRnRBT21GeUNyTGFxRDFNa3M3UV91dVc0bjd4RVo2UkdybjNLWU0yV0xVRTYzUWZxb0pVXzlMUHIxSFBCTmJ1TmJ5QU9n?oc=5",
+      "topics": ["AI copyright", "book publishing"]
+    },
+    {
+      "title": "Anti-AI clauses now commonplace in game dev, says video game lawyer, and copyright law \"wants humans making art\"",
+      "summary": "A video game industry lawyer reports that anti-AI contractual clauses have become standard in game development agreements, reflecting copyright law's continued preference for human authorship.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSGJGMmtZZjZpRjBlY09GR0RBNUR4VkdZb1doZHFlWmxSMjVIQzlvREUycnk3RXYzekhvTFlvM0gtdkt6OEhjNGIxamFmUHZZQmFFY2M4UnNQdF8wWEFCOExzalh4V19TeXI0R1BieEY3QXNBM3dLSE43NF9tWmMtNVozNDREUHUxcVpCdmllbGVEeHJDMG1Sa2Y2UDNNcW9rOE40NXhBWU45eFZWZDhONG9NRWw3QlhuYjQteTdVeWUxalNfWEhxZlc2UWR0c1lQYkRsMA?oc=5",
+      "topics": ["AI copyright", "software"]
+    },
+    {
+      "title": "OUTPUT v. INPUT: Copyright Ownership Challenges in the Era of Artificial Intelligence",
+      "summary": "Legal analysis examines the distinct copyright ownership questions arising from AI-generated outputs versus AI training inputs, mapping the current state of the law.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR3ZNbm0tQS1EV3BnWTNFU3JsU2lfczlvZmtoTEJyamJnaTU4NEZOQ2hEZktwUzV3b2U0NnVIYXFrQ2RzNFB3TlBuV1FZQV94NlBNeGFKTFA5S0NaODlIbk9BYTZUdndVOEVyLWhDZ2w1SDZTVkxCWGVnc3pWZVpCX21VSmQxUG1NR2NYcFFta3FXVzI4SnNqZTBrOHdDQXdXTW5wYTNoRng0Z9IBrwFBVV95cUxNM05DQXQzMjFiaEF5Q1ZfaDhmcFlnUDhqQVZoU2lOUEREWTh5ck95MHh3VjRfR1V6OTZILWxJZzA0MzNyN2dJdzRWQ3VpQzhYT21ReVhHbnU2WGx6T2Z3eXV2ZXl3clVBV3RQeVNYTFVIalE4YVM2elRXblZyUXdxSzNyQndHd09MLU43c3hHaW90R3hpam94eW9qUEVVaklpRENwc19hQUhSNDM4bkNj?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "SHEIN v Temu: Proving copyright ownership, and platform liability",
+      "summary": "The IPKat analyses the SHEIN v Temu case, examining how courts assess copyright ownership and platform liability in the context of fast fashion and online marketplaces.",
+      "url": "http://ipkitten.blogspot.com/2026/08/shein-v-temu.html",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "The American Dollar & Jamendo Abruptly Drop Suno Lawsuits",
+      "summary": "Two plaintiffs — The American Dollar and Jamendo — have unexpectedly withdrawn their copyright infringement lawsuits against AI music company Suno, without explanation.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOW5QREh0aENyaDZfaHFFeFJCdnZSVUxwSGJLcXJsaC0xQmdxU3JUNkRtbkJiRVFWQjJ3UVkwd3RLQkhtZ0t6SkI0OXdLSjhtQWh4WkEzRzVaUzY0bW94bEtJT2NUUUlVQ01Na20wY2s0V204aGlTOS1GUHdfVTJwRHNQRXZFZUV1NmZJRFQ1WFlKckEyMG9V?oc=5",
+      "topics": ["AI copyright", "litigation", "music licensing"]
+    },
+    {
+      "title": "Labor weighs massive AI deal against copyright fears",
+      "summary": "Reporting on government deliberations over a large-scale AI agreement, weighing economic benefits against significant copyright concerns raised by rights holders.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSUg1Rmlrc1pvTjlfZU5DZ2Mzdy1laTNzX3hqQTEzWURLNnBfWTZBaHJHRmFmeUdsMk9PVzdDYlRGd2ZTT3k3U1VxcmszSmVHd1RROFprMm1yVlJoVFV1bDNoZkp4YTBBVUhkeTRUdXBLeW0zMHlDR2JDZ3l1V0ZSVDZXTWZ0bDB5WmxobGtlWmxxRmR4bjkyRENxOHd5LUFfVWgzM0YzcHhWZUFYejRJcHJPNTZySHBLUEdzQURhRGJWU0tOb0hPN0ZxaTVJQ0U0RUNUdy1ZTnU1R1Q4YzhWb0RR0gHnAUFVX3lxTE83eVNLRkNHcS1HQXZfUzl4bWdWeWZXeldENFV5Z3djZlBKUWxqaFdrSmF2UHU3MmFtMVd2VUowQzg4MkhVb1RUa1A4el9FNHVGem1hVXFacFlfUUJQS2lHUE9oZ2ZCdF8xWDNXMzdLZDMzUThwV2VJaXRQQWVSMDNWa1FMOXotb3ZvNFBmaWdueW5iVlV3MEV4dEJFNGE4R292dVJWajB2RVR6c0xmVVpKTUNXbVlUZTh6dzltekJURG9aZF9WZE1uX2p2T2FYdV9pZFk3TTh3MTNMNTA0NFRpc212Y2c1bw?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Roundtable #36: Scraping By: Generative AI and the Limits of Cross-Border Governance",
+      "summary": "A roundtable discussion examines the challenges of governing generative AI web scraping and copyright across different national legal frameworks.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY1ZzOFhpNXdZQUttemNKLUg0REF6MVFWOFBxbVlNUlFjV0k1M1dTQ3JhdUw0ZGh4RmNUYmtrdGdVQXBteXlGXzR3dV9TNEhkeHVxM28yRExiTDlkVFI4NWFvZVFSYkJHeFM1bHVsaDI1WWptNm1TWmRONmJEazFIdXowUDJscmxjdW42TEFGemJjeVpJcDFZVXBPdzBxWTlsRWRWU0VzUjZSVnpvQVJ0RERFdDZrdk81NDZ4R2Nybw?oc=5",
+      "topics": ["AI copyright", "policy", "eu law"]
+    }
+  ]
+}
