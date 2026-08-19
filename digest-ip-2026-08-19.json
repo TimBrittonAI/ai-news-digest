@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "MPA Strikes First AI Copyright Pact with ByteDance; Training Liability Stays in Court",
+      "summary": "The Motion Picture Association has reached a landmark AI copyright agreement with TikTok parent ByteDance, covering IP protections in AI video and image models. The deal marks the first such agreement between Hollywood's major trade body and a major AI company, though ByteDance's training liability remains subject to ongoing litigation. Multiple outlets have confirmed the agreement.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMmlJVERMbEdidWhCLURCT0ZKcW1YbTE5OXk0cTFnMmU5ZG1hVVEzRWFRREp2X3J6TWNKNU9ENEF6ZllDem1YWEI3S0c4cWVhRmFpZjFqRUx4ZXNKZmdnYjNtX2s2WmRmY0Vxb3UyLURuSmFqZ2JxM3JPLTFqaHJ3Q3BJQTlRQmw2dC1EOE10Vzh3bzI5VFhacDdKOHFmc0t1MU9VSlh2T25BSWtPVzBReGNaS0ZUQmMtdE9CZ1hnUzJfcGNhdF9OSTZIYw?oc=5",
+      "topics": ["AI copyright", "licensing", "litigation"]
+    },
+    {
+      "title": "Round Hill Music Sues Suno and Anthropic: No Deal, No Settlement, Just Jury Trials",
+      "summary": "Round Hill Music has filed $1 billion copyright infringement lawsuits against AI music generator Suno and AI company Anthropic over their use of copyrighted music in AI training. Unlike some industry peers, Round Hill has rejected settlement discussions and is pushing for jury trials in both cases.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV19xOFEyVDRndjNlYm96Y1FiQmVsa01mZjBNdlRoNG4yWXZzcFZjRHc4THJNa3IyRVY4YVVQRllyS0lyenJka1ktVkdFRjlpZm1abG13bDlrbWM3UkZMQTVXdjV6VjVwUFBLMWVlaDRobnZZQjFQVnFraW5mM0lMZFdtSHFackRfLVVhQkVNZnBEdlBUY21NaFc2R1RhVGU3Sm9EYjFkUllzeUpFRFJjbXhqRmV4bU1mOXNfR2k0cHRrb0NEVi1NeTln?oc=5",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "AI Watermarks Are Here and Copyright Law Is About to Get More Complicated",
+      "summary": "As AI watermarking technology becomes more widely deployed, legal analysts warn that copyright law has not kept pace with the implications for identifying and attributing AI-generated content. The piece examines how watermarks may reshape ownership disputes and enforcement mechanisms under existing frameworks.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOHU0V3V4MzU4ZGJvbXdvcG1UMmx1VkRRbmhGUkgwWjdLMmpwM05sbHpLd2hBN0ZUV2M4T2xTeEoxZzlLQWl2SUdjSHM0Wl9CTFhLLWxvd1dVd0NHS1pvVmhoc3RmYm90SldYdGd5SktXSy1fOG0xdjlhTDRRYkdteENkSFZ0LU83c2h2MW1Lel9TSnZETUgwUDlOYzJyWXJmMXc?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "ANI v OpenAI Ruling: Reading the Tea Leaves",
+      "summary": "Analysis of the Indian court ruling in ANI v OpenAI examines what the decision signals for AI training and copyright liability in India and potentially other jurisdictions. The piece considers how the ruling may shape arguments around lawful access requirements for training data.",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aX0JDb1oySXdwUmM0eTZ6d3Z3U0U2UEs3OTZ5YVI1VF9oempGcVVMT2dBRVBpdUoyU1Z1V3V4TmtHTGRldDZENmMzeHlIU3NsQWNKR0JB?oc=5",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "South Korea Opens the Door to Copyright Registration of AI-Assisted Works",
+      "summary": "South Korea has moved to allow copyright registration for works created with AI assistance, marking a significant policy shift in how the country treats human-AI collaborative output under intellectual property law. The development adds to a growing international patchwork of national approaches to AI and copyright.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYk9LTzZTMF9QU1dOUE5yTkhpWWpTRDlPQlFyZnQ3VnZiTVkwRlpuXzJzTXpwdmRpRmQ2cERDYTFPYmZtcTJxXzRTa0syOF81SXE5YlBUUTRKb0xQb1FoWXI0LUI4SFNscWtXaVAtTG5hZDBQTmJrRHVqckhCc0tWWXYyWnBQYkhCZUhaWGRiTW1GVU1malVuVU9HZmw?oc=5",
+      "topics": ["AI copyright", "policy"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Japan AI Guidelines Urge Against Intellectual Property Misuse",
+      "summary": "Japan's government has issued AI guidelines urging developers to avoid intellectual property misuse, reflecting ongoing efforts to balance the country's permissive AI training rules with creator protections.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNm1QdjVVLXMtZWJjVE9YTmV1QnRtZGVraVFicW1hM20zSlRXY1BrUzJFT0V5M0g4VUdDQUhsS0pRUncwSENWNlM2Ym9CUERubFJLRmI2cERDdkZkM2EyTkZyVzA2NjA2R0c4Ny1KM2dZU2t1SEFaR2F2VzRTbGduNEhjX2dNWXNJS3czRlloSFRqaElhRlgwMGxnOWZFVENCS2c3a0I5SjZtcEU?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Japan Government to Request AI Developers Disclose Training Data Under New Draft Guidelines, Without Legal Binding Force",
+      "summary": "Japan's draft guidelines would require AI developers to voluntarily disclose training data sources, but carry no legal enforcement mechanism.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRMzNmNWlaYkx1SmJzNk13c2tYUU5TcDNraXhUYi01M3FWWmk3NUlyUDBYek80SnprX0hubHdOSGRlY3ZzSVVGa3pFRWdkX3lmcmlFazNkN3NpS2I4Qlc1cnEzR1hwT3dQUU5odDFEcU5SdDlHOGc?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "NZ AI Copyright Review Targets Fair Dealing Gap",
+      "summary": "New Zealand's copyright review is examining whether the country's fair dealing provisions are adequate to address AI training, amid calls to close a perceived legal gap.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdUtrMlVtUHJGZGUwYU9EelpJSW5yTEhqbHFXbDB6UTEydDM4M2RhZHBCMFJjam05VDQxeWNleVUtVXIwR29oc0xkdmRjbHdaOTM2aVA4OFg2X25GMXpkOHpyOW1DaDRNQVM2VjZBYUVOZXVDcWZNb2M0dDRsX1lKag?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Copyright Law Review Targets AI Training and Creator Compensation",
+      "summary": "A copyright law review is focusing on whether AI training practices adequately compensate creators, with proposals to update legislation to address the gap.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa3dOQUVxNWkxMUNZZGF4clU4RmFtU1BVQW01M3JQRWJ1X1Vyb21mT1FTVzZORXNkR195Qzg3M0F1c3FPdHpRV2pXdlFLeTUwb2lSUm5xSUFXQ1BZdG5VSlJMY0lfVloxQTlJbnRIMzU1VWZ2NUhNeVNxU3k5S2lGWGZJSXVWTDRzaGx2YUxzdzI0RDA4OVJOWmdSQjVaUmlrRXRYeHlR?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "The Grueling Fight Over Who Profits from AI Music",
+      "summary": "An in-depth look at the ongoing legal and commercial battles between music rights holders, AI music companies, and platforms over revenue and copyright in the AI music space.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT3RhSmpCSjJKSEtqcHlTbmJxd2JWaXZScHBmS0ljSWxLbFhIdTdwb09tUWw3clFBNTNFOVY3TmpuY0JIVTRwdFIwN25xZ0s0d0RkWEF4T2RzeTEwTWVlS2hWYTVHWmtFS0FqVFN6RE1NTkkwUzJkZmtxOWdDS3NpYXk4bFhQRnFfbHdRcHdkWnoya29Xa085NFpWdjd5dGM?oc=5",
+      "topics": ["AI copyright", "licensing"]
+    },
+    {
+      "title": "Expert Explains: Why 'Lawful Access' May Not Be Required for AI Training in India",
+      "summary": "Legal analysis argues that Indian copyright law may not require AI developers to have lawful access to works used in training data, with implications for ongoing cases including ANI v OpenAI.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZG1BUmtPMG1md0twWTljTTRldC1nUFRXd1h0WDR3dXVfY1FCUVM3S044WHgzc0YwOGNpb2dhajM0OEdDaWpHNnp0b29uMlFQWjNOcTJrQXFHWDZ4cG9zRzVYNG9HRlhzTkN4WGhSVnBoMDVDRlY0a1NKZV9GLXZYQUN6WFJodW9lS1cxMVhvQWJOV3haNkxqV3hmX21OeTVJT1BfajU2b3J4WnJJbVBBMnRR0gG4AUFVX3lxTE5uMUdYTm9fcVNCYVZ5WGJmd0JzVFZULUZmTWdZQl80bS1XNnVaajZwaDdRUzc2MWZ0ME9zTVVxaUcyVE9qeWZkLWVDalEtVFE1QXV4UUFDblVyeFNVdGROX05CNmRZbXQzV3IxSnBhWlZGZG5FRmR5MGFFMjlkQ0RnMmRLT3dmVVg0dkZpZnp1X3V4V3JMR2p2MkI0Z2xGTjNUSU94aWcwZUFtX01FdS1nb29VWUFsLVA?oc=5",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "Apple Shareholders Sue Company Heads Over AI Copyright Claims",
+      "summary": "Apple shareholders have filed a lawsuit against company executives over alleged mishandling of AI copyright risks, adding to growing corporate governance pressure around AI intellectual property exposure.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObE9zZ0RfR2dWN3dmNk9VclhLVlUyWUFoZG1xX2lUN2dpZzJxeTc2TFZQM3hfdHNOWk5BeDdJZW5YVXlNMmY2aVQ1TXdYV1NpQm53ZFB2Rlg5bWhqNEJtZ1BJUUE1cFJLcUpSMW9FSGlrV0F0TGI2QWpCQWhTcUk1QTYzcGhieDNrVFRjWFRPQk1pdWdrbldJNXJNaW91SFBnUkhYb3RtQ0ZtZ1lTcXpVZFp4Zw?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "The Bigger AI Models Get, the More They Forget Who They Learned From: MIT Reveals a Wall of Unattributability",
+      "summary": "MIT research finds that as AI models scale, they become increasingly unable to attribute outputs to specific training sources, with significant implications for copyright accountability and creator compensation frameworks.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbE5ZRFBkb0J2c3ZRU1NYZldVQlJRTDQtUmIyV01lSlctWG9yRmEtRm1URWQya2JDRGlXLVFPTEo5eXdXbEhqa2VKRGFscEtScm1CMU1PS24tZTFJeWtCQkd6MDl1ck40Zi1KR1F0YndIRzFHOVFzYXlRc3cyUzloV1NhMA?oc=5",
+      "topics": ["AI copyright", "academic publishing"]
+    },
+    {
+      "title": "Labor Weighs Massive AI Deal Against Copyright Fears",
+      "summary": "Australia's Labor government is reported to be weighing a major AI licensing or data-access deal while facing significant pushback from creators and rights holders over copyright protections.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSUg1Rmlrc1pvTjlfZU5DZ2Mzdy1laTNzX3hqQTEzWURLNnBfWTZBaHJHRmFmeUdsMk9PVzdDYlRGd2ZTT3k3U1VxcmszSmVHd1RROFprMm1yVlJoVFV1bDNoZkp4YTBBVUhkeTRUdXBLeW0zMHlDR2JDZ3l1V0ZSVDZXTWZ0bDB5WmxobGtlWmxxRmR4bjkyRENxOHd5LUFfVWgzM0YzcHhWZUFYejRJcHJPNTZySHBLUEdzQURhRGJWU0tOb0hPN0ZxaTVJQ0U4RUNUdy1ZTnU1R1Q4YzhWb0RR0gHnAUFVX3lxTE83eVNLRkNHcS1HQXZfUzl4bWdWeWZXeldENFV5Z3djZlBKUWxqaFdrSmF2UHU3MmFtMVd2VUowQzg4MkhVb1RUa1A4el9FNHVGem1hVXFacFlfUUJQS2lHUE9oZ2ZCdF8xWDNXMzdLZDMzUThwV2VJaXRQQWVSMDNWa1FMOXotb3ZvNFBmaWdueW5iVlV3MEV4dEJFNGE4R292dVJWajB2RVR6c0xmVVpKTUNXbVlUZTh6dzltekJURG9aZF9WZE1uX2p2T2FYdV9pZFk3TTh3MTNMNTA0NFRpc212Y2c1bw?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "OUTPUT v. INPUT: Copyright Ownership Challenges in the Era of Artificial Intelligence",
+      "summary": "A legal analysis examines the fundamental tension between input copyright claims (training data) and output ownership questions for AI-generated works, surveying current case law and legislative approaches.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR3ZNbm0tQS1EV3BnWTNFU3JsU2lfczlvZmtoTEJyamJnaTU4NEZOQ2hEZktwUzV3b2U0NnVIYXFrQ2RzNFB3TlBuV1FZQV94NlBNeGFKTFA5S0NaODlIbk9BYTZUdndVOEVyLWhDZ2w1SDZTVkxCWGVnc3pWZVpCX21VSmQxUG1NR2NYcFFta3FXVzI4SnNqZTBrOHdDQXdXTW5wYTNoRng4Z9IBrwFBVV95cUxNM05DQXQzMjFiaEF5Q1ZfaDhmcFlnUDhqQVZoU2lOUEREWTh5ck95MHh3VjRfR1V6OTZILWxJZzA0MzNyN2dJdzRWQ3VpQzhYT21ReVhHbnU2WGx6T2Z3eXV2ZXl3clVBV3RQeVNYTFVIalE4YVM2elRXblZyUXdxSzNyQndHd09MLU43c3hHaW90R3hpam94eW9qUEVVaklpRENwc19hQUhSNDM4bkNj?oc=5",
+      "topics": ["AI copyright", "policy"]
+    }
+  ]
+}
