@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI Offering Zero Data Retention for Frontier Models",
+      "summary": "OpenAI has announced a zero data retention option for its frontier models, meaning API inputs and outputs will not be stored by default. This move is aimed at enterprise customers with stricter data privacy requirements, allowing them to use OpenAI's most capable models without their data being retained for training or other purposes.",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "topics": ["OpenAI", "user privacy", "large language models"]
+    },
+    {
+      "title": "OpenAI Hit the Brakes. Now What?",
+      "summary": "The Verge examines OpenAI's decision to voluntarily slow its AI development pace, exploring what this signals for the broader AI industry and the company's internal priorities. The piece considers the implications for AI safety commitments and competitive dynamics with other frontier labs.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "topics": ["OpenAI", "AI safety", "AI industry"]
+    },
+    {
+      "title": "ChatGPT Ads Expands Across Europe",
+      "summary": "OpenAI is expanding its ChatGPT advertising product to European markets, broadening the commercial footprint of its flagship consumer product. This move marks a significant step in OpenAI's efforts to monetise ChatGPT beyond subscriptions.",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "topics": ["OpenAI", "advertising", "ChatGPT"]
+    },
+    {
+      "title": "Coders Say They Already Found Workarounds to Claude's Invisible Watermarks",
+      "summary": "Wired reports that developers have identified methods to bypass the invisible watermarking system Anthropic introduced in Claude, raising questions about the effectiveness of AI-generated content detection. The findings highlight the ongoing challenge of building robust detection tools as AI output becomes more prevalent.",
+      "url": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+      "topics": ["Anthropic", "AI detection", "generative AI"]
+    },
+    {
+      "title": "Replit Expands Access to Software Creation with GPT-5.6 Luna",
+      "summary": "OpenAI's blog announces that Replit is integrating GPT-5.6 Luna to expand access to AI-powered software creation tools, making it easier for non-developers to build applications. The partnership reflects OpenAI's push to embed its latest models into developer-facing platforms.",
+      "url": "https://openai.com/index/replit",
+      "topics": ["OpenAI", "AI coding tools", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+      "summary": "Wired reports on a new generation of generalist AI robots capable of learning new tasks on the fly, drawing comparisons to how toddlers acquire skills through observation and interaction. [Metered]",
+      "url": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+      "topics": ["generative AI", "AI research", "robotics"]
+    },
+    {
+      "title": "Google Gemini is Getting a Dedicated Student Hub",
+      "summary": "Google is adding a dedicated student hub to Gemini, positioning the AI assistant as a tool for education and academic use.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "topics": ["Google", "AI personal assistant", "generative AI"]
+    },
+    {
+      "title": "The Download: AI's Self-Improvement Problem, and What's Driving the Heat",
+      "summary": "MIT Technology Review covers the emerging challenge of AI recursive self-improvement and the technical and safety risks it presents as models become more capable. [Metered]",
+      "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+      "topics": ["AI safety", "large language models", "AI research"]
+    },
+    {
+      "title": "AI for Society Opens as Interdisciplinary Journal Covering Education, Governance and AI",
+      "summary": "A new academic journal, AI for Society, has launched to publish interdisciplinary research spanning AI's impact on education, governance, and broader societal issues.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYnhwUi1rYlVoTWh3OGNxeGY4RGVJbnkxZ0l0T0N3YktoWWtZUjE1VDc4R3d2VFF4TmpsT2pfYk9BT01QUkZoTzhsTGhzd3MzT0pTQVJnaHZucS1jV2VYdjZVVnRyUFM1dmVNZUxYTFJvS0ZhQ240MEVhLVhWQmhuMUJ2dWlEUXFGSjg2MUswUWlJbDk2SnpQLUgwTmNGMnM0WmFCckJqTkhBdUphdG9KcnRJdWtMSzk1OWg4cmhJVkt4UGlCTUE",
+      "topics": ["academic publishing", "AI governance", "AI ethics"]
+    },
+    {
+      "title": "Meta AI is Getting a Mac App",
+      "summary": "Meta is launching a dedicated Mac application for its Meta AI assistant, expanding its presence on desktop platforms.",
+      "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+      "topics": ["Meta", "AI personal assistant", "generative AI"]
+    },
+    {
+      "title": "AI Usage Patterns in Software Teams",
+      "summary": "Linear has published data on how software development teams are actually using AI tools, offering insight into real-world adoption patterns and productivity effects.",
+      "url": "https://linear.app/data",
+      "topics": ["AI coding tools", "AI industry", "generative AI"]
+    },
+    {
+      "title": "Goldman Studied Where AI is Squeezing Labor Markets. Here's What It Found",
+      "summary": "Goldman Sachs research finds AI is beginning to have a measurable impact on employment across developed economies, with certain knowledge-work roles showing signs of displacement.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53dEREYXBrV1VORWo3VGRpZUVURzk0WFcwVU9Rc0Jpb1hCSUd0OER1Q2o2cGxERGgtTjhReXBYcXBGZUhieGVkNkxrdjNQUElidk0weDZOdVMtdUg5SnJVWUhEa0o2NDRKRXlpamtxRlJBSlBDd0o3bjVn0gF_QVVfeXFMT050cFEyWHJPT3VfRzlQOFY1c1VleFRTYU41T0V3dFdVRmJDVjRCNktNcWpCZWd5Si1McmFIb2FNYWtoajFhdXg1emhNRTBvWGZ2S0t1SHQwTTg1SHI0ZjhRV2Fnc1pxSlhjNGFWeG4xZDI0ZlNTSllPZFBKbV9DOA",
+      "topics": ["AI industry", "business", "large language models"]
+    },
+    {
+      "title": "The Download: How People Really Use AI, and Flock's Design Choices",
+      "summary": "MIT Technology Review examines new research into real-world AI usage behaviours alongside a look at how surveillance tech company Flock Safety designs its AI tools. [Metered]",
+      "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "topics": ["generative AI", "AI ethics", "user interaction"]
+    },
+    {
+      "title": "Nvidia's New Financial Strategy Does Not Compute",
+      "summary": "The Verge analyses Nvidia's emerging financial strategy involving Goldman Sachs and BlackRock around GPU compute assets, raising questions about the underlying economics.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    },
+    {
+      "title": "AI Market Correction is Coming, ECB Blog Predicts",
+      "summary": "An ECB blog post warns that AI valuations may be unsustainable and predicts a market correction is likely as the gap between AI investment and measurable economic returns widens.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOclA2cnNsT0YwVHU5Mmt1Y3FkMVB4SHhTNjZoeFJqZ2hkS1F2V2FMWnRyWGM3ZFVqUGxMQ0pwQ1dTOHdQMGlhU1ZWQVVPcmVsVDNOZXNIcU9PbU1rLXFpeEoybzZlaUlOWmZDRnp0STU4LXFNV1hYQUJpbjhzTnBxcktCbmw4Tld0RzNrTUJoTVdqNEZaa1JaUU1RMFdnSDNsUUE",
+      "topics": ["AI industry", "business", "generative AI"]
+    }
+  ],
+  "ethan_mollick": null
+}
