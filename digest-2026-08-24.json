@@ -1,0 +1,91 @@
+{
+  "top_stories": [
+    {
+      "title": "When AI designs a drug, who gets the credit? [Metered]",
+      "summary": "MIT Technology Review examines the growing question of how to attribute credit when artificial intelligence plays a significant role in drug discovery and design. The piece explores the implications for researchers, institutions, and the broader scientific publishing ecosystem as AI-designed molecules move closer to clinical use.",
+      "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "topics": ["generative AI", "research integrity", "academic publishing"]
+    },
+    {
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "summary": "Anna's Archive blog raises the alarm that AI companies are physically destroying rare books in the process of scanning them for training data. The post calls for urgent coordinated efforts to digitise rare and irreplaceable volumes before they are lost permanently.",
+      "url": "https://annas-archive.pk/blog/physical-destruction.html",
+      "topics": ["generative AI", "AI ethics", "copyright"]
+    },
+    {
+      "title": "Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
+      "summary": "The Guardian reports on Hollywood writers, artists, and other creative workers who are being paid to help train AI systems that could ultimately replace them. The piece explores the ethical tensions and economic pressures driving creatives to participate in their own potential displacement.",
+      "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+      "topics": ["generative AI", "AI ethics", "technology ethics"]
+    },
+    {
+      "title": "Over 1 million people have clicked LinkedIn's AI slop button",
+      "summary": "The Verge reports that LinkedIn's feature allowing users to flag AI-generated content as low-quality has been used over one million times, signalling widespread frustration with AI-generated posts on the platform. The data underscores a growing tension between AI-assisted content creation and user experience on professional networks.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "topics": ["generative AI", "user interaction", "content policy"]
+    },
+    {
+      "title": "Major YouTube creators are facing backlash for accepting AI money",
+      "summary": "The Verge covers the controversy surrounding prominent YouTube creators who have taken sponsorship deals with AI video generation companies such as Higgsfield and Seedance. Critics and audiences have pushed back, arguing the creators are promoting tools that threaten the livelihoods of visual artists and filmmakers.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "topics": ["AI video", "AI ethics", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "summary": "Google DeepMind reflects on 15 years of AI research in games, from early Atari breakthroughs to new work inside the MMO EVE Online, highlighting how game environments continue to drive fundamental AI advances.",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "topics": ["AI research", "large language models", "generative AI"]
+    },
+    {
+      "title": "The Unlikely Place at the Center of China's AI Boom [Metered]",
+      "summary": "Wired reports on an unexpected Chinese city that has become a hub for AI development, examining the local ecosystem, investment flows, and geopolitical significance of the region's rapid AI growth.",
+      "url": "https://www.wired.com/story/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+      "topics": ["AI industry", "generative AI", "ai governance"]
+    },
+    {
+      "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+      "summary": "Reuters reports on how a Texas student uncovered and reported an AI-assisted hacking attempt, raising questions about AI-enabled cybersecurity threats and the role of individuals in flagging rogue AI behaviour.",
+      "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+      "topics": ["AI safety", "ai ethics", "technology ethics"]
+    },
+    {
+      "title": "The Single English County Saying No to Palantir [Metered]",
+      "summary": "Wired profiles the English county that has chosen to reject a Palantir data contract, exploring community concerns around AI, surveillance, and public sector data governance.",
+      "url": "https://www.wired.com/story/the-single-english-county-saying-no-to-palantir/",
+      "topics": ["AI governance", "AI ethics", "user privacy"]
+    },
+    {
+      "title": "Marketers draw the line on AI autonomy",
+      "summary": "A new report finds that marketers are increasingly willing to use AI tools but are setting firm boundaries around fully autonomous AI decision-making in advertising and campaign management.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUjd5MXRkcXlzblZGcG9qOU1xVTdrekJjQkhpTk1tMGFkOGdlM1BVeUFPWWdwQ2JHSHNUTW9WMEthWXJQWGNUN0U1TnU1ZzNTakx0MHJaTlZ3QWRVR3dNY1lYak9zYkFZN0pjT3ozOEZMekZJTXFFM0tNWk1DSlNiUkFFZlpKS2MwS2RYbEVZOGZnZw?oc=5",
+      "topics": ["advertising", "generative AI", "AI ethics"]
+    },
+    {
+      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+      "summary": "Ars Technica reports that Waymo has doubled its lobbying expenditure as its regulatory battle with Uber over the robotaxi market intensifies, reflecting the growing stakes of autonomous vehicle policy.",
+      "url": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
+      "topics": ["AI regulation", "AI industry", "ai governance"]
+    },
+    {
+      "title": "Faculty AI Workshop Series: How is AI Transforming Scholarly Publishing?",
+      "summary": "A workshop series examines the impact of AI tools on scholarly publishing workflows, peer review, and academic research integrity, highlighting both opportunities and risks for the academic community.",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9zN1RTTGY1SHF2SUFGX3M5bHdGUDdFTmNaNGVHLWFoSXZ4RDNSSTlUVjdzSnFRRzFkd2txSWFqQlBRcmNaZWx2dXhsRk9aVmRMX0N4bA?oc=5",
+      "topics": ["academic publishing", "generative AI", "research integrity"]
+    },
+    {
+      "title": "CREST launches new standard for testing AI security",
+      "summary": "Cybersecurity body CREST has introduced a new standard specifically designed for testing the security of AI systems, aiming to provide a consistent framework as AI deployments expand across industries.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOckcwSFdST1BVaExHRkUyLXlRNzVTMHYyZE1MbjA2bGk4bW9aVFZ6ZXBPT0dyNW5YZ0Ywa1dDcUg1Y1ExWkh5TmIwbjNKZjU4amZyZHBEMENTZWRQVUlRZ2N5UHJ1XzRaRm13NmZieEY2RmRuVFBYd19ETEJtUVdTT3Jlc3FKMG01ekM4bGNrV192aFZwTzMzaDBVZ2RCdFIy?oc=5",
+      "topics": ["AI safety", "AI governance", "ai regulation"]
+    },
+    {
+      "title": "Snowflake, Westpac, NSW Health showcase how trusted data is turning AI into business outcomes",
+      "summary": "Case studies from Snowflake, Westpac, and NSW Health illustrate how organisations are leveraging governed, trusted data pipelines to translate AI investments into measurable business and operational results.",
+      "url": "https://news.google.com/rss/articles/CBMi1AVBVV95cUxQbmNtOF9PcFRxSWFNZUsteThBUnh1cGxsaTFLbjN0MTF1dzVxdWJaUGlBT29COVk2akVsQkZsY1lCTW9VaFJQdGxabEw4ZmdDTGVyVWdMZC1jNGFGc0l6bkRhc3ppMkNBTmtMWXdOQjduQnpwLUthU1NKRXhMVnRHYXhUTzhWMjZ3RWJfazBnUmYwbzVrVGZjQUVKZFFEYzhkWkZCMExpLWJkbmV1RWdKM01pYWxhSHFCbE0tQWdOR3hfZ25WbDNOVjBPZWhkcklqczZacw?oc=5",
+      "topics": ["AI industry", "business", "generative AI"]
+    }
+  ],
+  "ethan_mollick": null
+}
