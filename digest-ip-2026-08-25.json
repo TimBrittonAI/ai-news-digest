@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Suno Loses Bid To Dismiss Artists' AI Copyright Claims",
+      "summary": "A court has rejected AI music startup Suno's attempt to dismiss copyright infringement claims brought by musicians over the use of their work in AI training. The ruling keeps the case alive and represents a significant development in litigation over AI training on copyrighted material.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORHFxNEltYVJoSjBsWmFETnRGUnAzSmRfU2xuWTZ4eEFIRlIxZVlrUVp2U2VSYmtkV2FKVWlCb2w2Z191QUlidjZtV2xjcUsxT1QwUHFhdnFIYkM1TWtQYi1qT0VKNWctMEwwRTlzNFY0bXdxYlhOTzBPTmU2NlYzek1mR3ZrdlhyUzJuZE45c2s3NGUxZHRkZtIBVkFVX3lxTE94RTVrM2lieG9zZGNNSi1WTk1MbURCZHNxczNxUTNkbkJZZ0tIQnd1cG9MNHBlUExHb0pfYndQNjVxaVJxbGlHOEtkMjJ6amhyaThYYjZ3",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "WikiHow sues OpenAI for copyright infringement over AI training",
+      "summary": "WikiHow has filed a copyright infringement lawsuit against OpenAI, alleging its content was used without consent to train AI models. The case adds to a growing body of litigation targeting major AI developers over training data practices.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcE9VRU1RcnNURlNNbzNHNE1zVTFqZ1dHVklHaVhhQVZhWjJXVEZYdzczT3Q4ZVhmdFFkOGRSeTdZVjBhaWVsQkdRUUwtQkZqSmE2V0ZheXRTeXBpbjVORWhnZURGTk1UZTBHTHhMMWRic004R0l4QXVKRHNmSmtucF96U1hKSnd4cXFqOG94d0J1ZWx6V2FYRjVxa3VyNlBNRnladmJhT3J6dzFXVjhQZ3pWY1BuZw",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "How One Judge's Split Ruling on Anthropic Became AI's Copyright Rulebook",
+      "summary": "Analysis of how a split ruling in the Anthropic copyright case — finding training on books potentially infringing but output generation less so — has become a de facto framework referenced across AI copyright litigation in US courts. The article examines the ruling's outsized influence on subsequent cases.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMWR6dVFWRTNXbVFJX1UxNkt4UFNmcE1mbGRHZ0Ixb1FIblJOal82U1hqcXFXWS13X3hINlU3d1RVTTRoZGs1X0NVNms5YUw4ZXBZT3FnU3JYV29OS0RxWFdWRlN6dDRXUk9kTFdsYk1TRGIwUUY1YmtHS05fLWFnN2x2bFVmVVo5NTJhMkNSdTN0Q1Q3T2RfV3FDamFhQ2s",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "A battle over 'Italian brainrot' could shape who owns AI art",
+      "summary": "A legal dispute over AI-generated 'Italian brainrot' content is raising foundational questions about ownership and copyright in AI-produced art. The outcome could set precedents for how courts treat authorship and ownership of AI-generated works.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNlBhcHR4R2stMW40SXhKMDhSaUp3SHZpaXBTTGc3NGY1TWZPeHJvVVp3NjhBLTZGTS1TV1lFWFlCenEwd2FsWmExVVB3MG5SMGtGbFpkNWw5Mi1VeExCc0swOEYyNExlUVp2YTExYUZTQUJkcVo4QWFZdDVPWkxFVnl4Y05XTHhZcy1ncF9zYzVMZG9HYkw4",
+      "topics": ["AI copyright", "AI art"]
+    },
+    {
+      "title": "Japan drafts IP code for generative AI training data",
+      "summary": "Japan has published draft intellectual property guidelines addressing the use of copyrighted material in generative AI training. The move signals a regulatory shift in one of the world's most permissive jurisdictions for AI training data use.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tVXRyd2paTkZsMEJtRXN5RnVKSHluYlF5a1QzQjY5dDJ3anQzRjJFaEU1YWNlRmxRa3ppMDlCc196ZEJYaGt5cm9IcnRoM0pYTzRJa05WNElISHlMMVhTc2E1Q2RmcVNDRU9JLW44ZDNBb0FGd1RHTHpB",
+      "topics": ["AI copyright", "policy", "licensing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "ByteDance-MPA signs AI copyright governance framework: output-side governance, \"re-discussion\" on the input side",
+      "summary": "ByteDance and the Motion Picture Association have signed an AI copyright governance framework focusing on output-side controls, while leaving training data input questions unresolved for further negotiation.",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YSXBvUm8yWWQ4M3pTY1hId3FNa1djbDY4RXlzZ1ZhUERVX3NDeWZJaFJ1YXl1NVZFclRON3B0d2hqV3QtbTN4Vmlsbk1UeGFpVWJv",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "US courts assess AI training on copyrighted works differently",
+      "summary": "An overview of how different US courts are reaching divergent conclusions on whether training AI models on copyrighted works constitutes infringement, highlighting the lack of settled law in this area.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMHFvQXJFejdfVzhpeE5NUW1oaTZWYllra2hyeHBoVk1JWG9hT3g4QVgxQ0NmWGM1cjFlLUxIZUNYOS1rUXZ0ZG9qWTJzRHVaa2Vxc0Rvb1NDa3RibTJtOHk3VmVNSjNaR212UWx5and1MkdCYzNqTW1mNy00R05VRkxXVFdnaEUyVHFVdkVOV2cyOWthYndsNVE1MFVfbE5pUW9nbWoyUFpoYUtaQnJqZTlPVGR3QQ",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Has "private use" become an AI safe harbour?",
+      "summary": "Legal analysis examining whether the private use exception in copyright law could be interpreted as a de facto safe harbour for AI developers training models on copyrighted content.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbzZiYmNXWkNqc3NXazFXZmlwdDVLaFo4enJpQVpSZkJ3QzZCdWhYUUR6ZVVWTVJCT1dvejBvOFYtWEpfZ1Jrem9na1dTMjNPaGVmamhienhlRkZXVWdGQUFHVVV3WDRKLS1pM2Uwak9NRjEwYnkwbjBZN2pnbnVadUExdw",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Google Faces Fresh Copyright Lawsuit",
+      "summary": "Google is facing a new copyright infringement lawsuit, adding to the expanding wave of legal challenges against major AI developers over their use of protected content.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTdwVzlfUW8xVGs0LVBMbWVUdC11dDFIaklfMjZQRm1hN3pqTUM0Um9LT2pIWGtJd0N4RlRzZmRPdE4wa2Mtd0dEOHFQU1FUclFMa3RhaFJrV0F4RFlHZVhvbW1lOFpScGdwTTVCbHRLUXAwM2t6TnZkbUVvSUowQUdSSGtJZTdlMlRCZmFPN2NmUkNS",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "If your art trained the AI, MIT says you may never be able to prove it",
+      "summary": "MIT researchers have found that detecting whether specific artworks were used to train an AI model may be technically infeasible, raising significant challenges for artists seeking to bring copyright claims.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd1VvM2tIeW0zUkJlaFFJbWk5WVVoWlRWZnZndC1GTWFSY2dGcHhJd3JzSjhfOVlwTVhSUGVxSnltQzJoaFdSamRJbVB4VEY1OGEzMjFiaW1HaWVPZk9aLWVFUXBzel9PX2ZKamxPMFhiajV3eFJaRkRpcTZ3QTRJNzA4YVo3dkxHa3ZJOEpKaUxvVUk",
+      "topics": ["AI copyright", "AI art"]
+    },
+    {
+      "title": "Twitch Streamer Sues Amazon Over AI Training, Claims Creator Content Used Without Consent",
+      "summary": "A Twitch streamer has filed suit against Amazon, alleging that creator content on the platform was used without consent to train AI models, expanding copyright litigation beyond traditional publishing into live-streaming.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRDk1SS0xQkxLdW90aklUQ01jcEI2X04zQzFVSDFucldpY096S3Rlb090cVFVTXJSZGUwcndURGpnNXBVTWZqNXZVNjYtbmJTRHNXX0FNVkFiVldvVTVGbjlIQUxONmJ2cl90ZmROWmVuempvWFNFZFN5NmN4NGppYjhHX1N3eEg1Zjcwa1c1NnVrUWluaUFvekloaFA4QjdaQ3NEbzBoVHpjRlZDSkI4dVNBT2RiR21BZTR4TmFudlRTWDNxcUE",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "'Getting away with murder': MPs agree big tech is breaching copyright by using NZ content, split on how to respond",
+      "summary": "New Zealand MPs have reached broad agreement that big tech companies are infringing copyright by using New Zealand content to train AI, but remain divided on what legislative or regulatory response is appropriate.",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPX1ZLb2NtbHBlNWhsQ1E1RTNERmh0ZEd2OWJEV2duTzMxRTlKMjZBOVZ1bDVNWGlFZy1sUEpueTNtY2VNc2hwODZpYWl0NnRWSXRWRnFuaWN2ell6aUh3S0kwQ0I1V3JULUdBYXk1ZW1RWGJ6YThSQ2hkV2F6UGNCdktvRmdBSktvWExQMlpFVkNWNXJZOGJaTExUWTgwZzBnemhKN2xwQ3NmYWJXNXQtYkRFbDE5Qkp1TF9aLXZjdVJVZ3pJMmYwSTM5a2NFRDc4ZlNBOWtzRU1mSTVfVG9qT1NNQXdra2lpblc0QTBuQ0JscWhXYUdRWW5IcnZQT2VHRXNsMS0xUW9qRnVqYWc",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "AI Training Legal Battles Shift to Settlements and FTC Scrutiny",
+      "summary": "Reporting indicates that AI copyright training disputes are increasingly moving toward settlements while also drawing attention from the FTC, marking a shift in how these cases are being resolved.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQ3FOYUxTdHZkMWhad2picnRMYkZyX3hFUG1EWWxPc21zNVdISjBvb2ZxblU2Tmd4SGJKUEJnbmVCb2tMaEp1Mjd1OG41WUdubjNVN3VnWHlpZTN2R19kbXpzZmRYODVsV25hLWlwYXAtM3lURk94Sy00SjBBRXY0VFlNajRuRzlHMVlYU1lfWFd0RmxBMTc2Nm9sa29jSU81Q0gwM3ctckh6SmhERFVndEw5NE0tT3BLNTNad1VkR2VfOVA5b2FnZnJCMEtGU1dnaE1yLXFn",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "Who owns AI-assisted work? Watermarks offer a clue, but complicate the answer",
+      "summary": "Examination of how digital watermarking technology is being considered as a tool for establishing ownership of AI-assisted creative works, while also introducing new legal and practical complications.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU3V2anlaeE1QcFF0WlVXZEhiTW5ySE9lT3dMVjFkandGSW54am1vT1VSUUJlYmI2RkUwYm9wc202OWp0WFM3aHpuZEtoNEFjd2ZlZUxDNmhUaEd0VlZ3ekxVbW53ZmF3aW1DT2tzeE80cVFtZlN3WFg1WWh2NXVhU0d3",
+      "topics": ["AI copyright", "AI art"]
+    },
+    {
+      "title": "Publishing's "Hot Labor Summer" [Metered]",
+      "summary": "Publishers Weekly reports on a wave of labour actions and union activity across the publishing industry during the summer of 2026.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101098-publishing-s-hot-labor-summer.html",
+      "topics": ["book publishing"]
+    }
+  ]
+}
