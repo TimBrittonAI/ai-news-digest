@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "summary": "OpenAI has released GPT-5.6 integrated into Kiro, targeting improved price-performance for developers. The announcement comes directly from OpenAI and signals continued iteration on their model lineup for developer tooling use cases.",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "topics": ["OpenAI", "large language models", "AI coding tools"]
+    },
+    {
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive [Paywalled]",
+      "summary": "Anthropic's most capable AI model is finding it difficult to gain user traction as lower-cost alternatives prove sufficient for most tasks. The report highlights growing competitive pressure in the AI model market, where price sensitivity is increasingly shaping adoption.",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "topics": ["Anthropic", "AI industry", "large language models"]
+    },
+    {
+      "title": "We must not grant AI agents legal personhood [Paywalled]",
+      "summary": "An FT opinion piece argues strongly against extending legal personhood to AI agents, raising concerns about accountability, ethics, and the implications for the legal system. The piece contributes to a growing debate around AI governance and the boundaries of machine rights.",
+      "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
+      "topics": ["AI ethics", "AI governance", "legal"]
+    },
+    {
+      "title": "xAI's Grok 4.6 Launches on Google Cloud Vertex AI",
+      "summary": "xAI's Grok 4.6 model is now available through Google Cloud's Vertex AI platform, expanding enterprise access to xAI's latest model. The move reflects continued growth in cloud-hosted third-party AI model availability for business customers.",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXOERVb1lETjRwdngzWC14Wk1lbXNSbHNWSlE5NTVMY0dtSGNid2dRQ2JOUy1vUkZON2F0MWplV0hmVFhrbWRnOTk3LU84NTdJc3paTFZ6QUlKbmNPNkFz",
+      "topics": ["generative AI", "large language models", "AI industry"]
+    },
+    {
+      "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started [Metered]",
+      "summary": "Wired reports on teachers who have become victims of AI-generated deepfake content created by students, raising serious concerns about technology ethics, safeguarding, and the misuse of generative AI tools in educational settings. The story highlights how synthetic media is creating real-world harm for educators.",
+      "url": "https://www.wired.com/story/teachers-deepfake-ai-students-content/",
+      "topics": ["generative AI", "technology ethics", "AI ethics"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Kids outlearn AI—and we still don't know why [Metered]",
+      "summary": "MIT Technology Review examines research showing that children acquire language more efficiently than AI models, and explores why the underlying mechanisms remain poorly understood.",
+      "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "topics": ["large language models", "AI research", "language learning"]
+    },
+    {
+      "title": "Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye",
+      "summary": "Jack Clark's Import AI newsletter covers the debate over machine rights, new research on automated environment generation, and advances in GPU kernel optimisation for AI workloads.",
+      "url": "https://importai.substack.com/p/import-ai-470-no-rights-for-machines",
+      "topics": ["AI safety", "AI research", "generative AI"]
+    },
+    {
+      "title": "How to encourage smarter AI use in the classroom [Metered]",
+      "summary": "MIT Technology Review looks at emerging school policies designed to foster thoughtful and productive use of AI tools by students, rather than outright bans.",
+      "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "topics": ["AI ethics", "technology ethics", "generative AI"]
+    },
+    {
+      "title": "MetaRoCE: A New RDMA Transport Built for AI-Scale Ethernet",
+      "summary": "Meta's engineering blog details MetaRoCE, a new RDMA transport protocol designed to handle the extreme networking demands of large-scale AI training infrastructure.",
+      "url": "https://engineering.fb.com/2026/08/24/networking-traffic/metaroce-rdma-transport-ai-ethernet/",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    },
+    {
+      "title": "MTIA 300: Meta's First Training Chip with Built-in NICs and Communication-Offloading Engines",
+      "summary": "Meta has announced MTIA 300, its first in-house training chip to integrate network interface cards and communication-offloading engines directly, aiming to improve efficiency at AI training scale.",
+      "url": "https://engineering.fb.com/2026/08/24/networking-traffic/mtia-300-meta-training-chip-built-in-nics/",
+      "topics": ["AI compute", "AI infrastructure", "AI industry"]
+    },
+    {
+      "title": "Coding expertise is going to collapse from AI reliance",
+      "summary": "A commentary argues that widespread use of AI coding tools risks eroding the deep programming expertise required to catch errors, design robust systems, and mentor future developers.",
+      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "topics": ["AI coding tools", "AI ethics", "technology ethics"]
+    },
+    {
+      "title": "Tencent Q2 2026 Signals a New Phase for AI Search, Advertising and Commerce in China",
+      "summary": "Tencent's Q2 2026 results point to accelerating integration of AI into search, advertising, and commerce products, marking a strategic shift in how the company deploys AI across its platforms.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTVIQmllbzF1UFpEbFBZdkE2Z0lwNDI5cDg5V004aHU4dmIzZW5QWlpKYUcyVHpKTm80VVJyWmFQUWY2WHoxdnBlY3NPOW81aTlSZVRUQzNDeFdOMHlkZ1VQR3Njbld3eW1PLVFQOFoyVkxWX1FsVWpDTE5Gdk1DWFNQbzhCUlo1dkVJbHBxbERDZGNfcXN6TVRXclB6Zw",
+      "topics": ["AI industry", "advertising", "generative AI"]
+    },
+    {
+      "title": "Enterprise AI agents are only as reliable as the messiest documents behind them",
+      "summary": "An analysis highlights how the effectiveness of enterprise AI agents is fundamentally constrained by the quality and structure of the underlying document data they rely on.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYWpfMGY0V0NOZEdaRzZXRHJQWUg3U0drSDRESzR3SFBoT2piWHVxbWZLWWZOcUhmYnBjUVhmZU5QUDNDWTUtX2M2Y0xQSXV3RGNxQ1FwRW9hV21OdF9vcHF0a2RKMENlVWVGa2xNdWF1UDdTempMRExPWUdlcWtaODFfa3RHb3VHRTFYVzc0YmxqSWsxSlpTV3FZWWJ2SmI3Wkp3cHAybTFQMXBLb05vNUdUZ1ppVy0x",
+      "topics": ["AI industry", "generative AI", "large language models"]
+    },
+    {
+      "title": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI",
+      "summary": "NVIDIA announces that Groq 3 LPX inference hardware is now in full production, positioning it as a high-speed platform for agentic AI workloads.",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai",
+      "topics": ["AI compute", "AI infrastructure", "AI industry"]
+    },
+    {
+      "title": "Palona AI raises Series A funding for physical AI",
+      "summary": "Palona AI has secured Series A funding to develop physical AI applications, indicating continued investor appetite for AI systems that interact with the real world.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb0VKT21lYmxUQ1RaZVgxZ2ZaTF9aZ3IyQXlPZFlFdjc1STRteEpEVWU0X05pRHo5Q0RuUko1aWpCMXdHYkF6NFdRazdydWlxT0NIY192NXNKT3lmSTkxekttU2dqdVJYWWxKLUp2ak56ZUNJUTlLRzY1RUFPTl9iRjlRd3BleHNvT0JDRy1jRlpCRGFzZ0RUWV9WNFM5Mkk3T0UxdEVB",
+      "topics": ["AI industry", "generative AI", "business"]
+    }
+  ],
+  "ethan_mollick": null
+}
