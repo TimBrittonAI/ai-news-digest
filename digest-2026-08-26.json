@@ -1,0 +1,91 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+      "summary": "OpenAI has published first benchmark results for its custom Jalapeño inference chip, claiming industry-leading speed and efficiency. The results position the chip as a competitive alternative to existing AI inference hardware, with OpenAI also publishing a broader piece on the full technology stack behind what it calls 'abundant intelligence'.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+      "topics": ["OpenAI", "AI compute", "AI infrastructure"]
+    },
+    {
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "summary": "A new Stanford study finds that AI is disproportionately affecting entry-level workers, with junior roles bearing the brunt of automation-driven displacement. The research raises concerns about the long-term career pipeline for new workers entering the labour market.",
+      "url": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "topics": ["AI", "generative AI", "business"]
+    },
+    {
+      "title": "OpenAI disrupts new covert influence campaign from Russia",
+      "summary": "OpenAI has identified and disrupted a covert Russian influence operation that was misusing its AI tools. The company published details of the campaign, continuing its series of transparency reports on malicious uses of its platforms.",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "topics": ["OpenAI", "AI safety", "AI ethics"]
+    },
+    {
+      "title": "African Researchers Tackle AI in Academic Publishing at TUT UNESCO Chair Seminar",
+      "summary": "Researchers gathered at a TUT UNESCO Chair seminar to examine the implications of AI for academic publishing on the African continent. Discussions covered research integrity, equitable access, and the challenges AI poses for scholarly communication.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWWR3Wk1jaGktbnpRdzVVRmFORU5qbnhTVnpZc3pqSG85c0tXMGdxdU9nMUF0YTN2OU42SXVmRjdJMXdEUEZ5WXEwZ3VtSG4tVDYxY1Foc3RWZTY4OUUxM2tfYk0tc0llcDRtdGtITlcyUkRGS2NHZ3NxSGNPYWQzM2JnaGNSRW9zYklvdzMyWXJWUmhhbDFwMnhQOThlQmhvSG9B",
+      "topics": ["academic publishing", "AI ethics", "research integrity"]
+    },
+    {
+      "title": "OpenAI introduces Admin plugin for ChatGPT Work and Codex",
+      "summary": "OpenAI has launched a new Admin plugin designed for enterprise users of ChatGPT Work and Codex, giving administrators greater control over deployment and management of AI tools within organisations. The release reflects OpenAI's continued push into enterprise and business workflows.",
+      "url": "https://openai.com/index/introducing-admin-plugin",
+      "topics": ["OpenAI", "ChatGPT", "AI industry"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "summary": "Apple has announced its M6 and M5 Ultra chips, promising significant gains in performance and on-device AI compute capabilities.",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "topics": ["AI compute", "AI infrastructure", "generative AI"]
+    },
+    {
+      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "summary": "OpenAI has been subpoenaed by Alabama's Attorney General in connection with a hack involving Hugging Face, raising legal and security questions for the AI industry.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "topics": ["OpenAI", "legal", "AI industry"]
+    },
+    {
+      "title": "Jalapeño's first results show industry-leading speed and efficiency in AI inference",
+      "summary": "OpenAI's official blog post details benchmark data for its Jalapeño chip, claiming top performance on inference speed and energy efficiency metrics.",
+      "url": "https://openai.com/index/jalapeno-first-results",
+      "topics": ["OpenAI", "AI compute", "AI infrastructure"]
+    },
+    {
+      "title": "The full stack behind abundant intelligence",
+      "summary": "OpenAI outlines the complete technology stack underpinning its vision for scalable, widely accessible AI, covering infrastructure, models, and product layers.",
+      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "topics": ["OpenAI", "AI infrastructure", "generative AI"]
+    },
+    {
+      "title": "One always-on roadmap: Dynamics 365, Power Platform, and Dataverse join the AI at Work roadmap",
+      "summary": "Microsoft has consolidated its Dynamics 365, Power Platform, and Dataverse products into a unified AI at Work roadmap, signalling a tighter integration of enterprise software with AI capabilities.",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYlZCblpkS213anIwdDFoeDd3bWN2MXN4N1NRSkdWVTBOdVlzLTZYTGZ6YmdhUFB1NExxNlhPR1NXZmN4MVkwQUdvQzgxWkY1RzR4eF9uYy1DVEF5WmpnTy1DemFUTlA0OW1iNHljWldCUzRrbWF6aE5KOFpxMFZVZkJjbGlwMDNwdFNjektFZDRiRDRhUHlycEphYVk0TlVLMXVpSHA4bU5WOEN1SEpuUk8wYkI1XzI2ODdhbUwyY1hvOVF1UlhYQUNnQzZkRGVqN3U0VUx2RmV0cWNJTG5iUk9tR251RzhkemludnpENUk1Zi1PRDBYU2labkxudw",
+      "topics": ["Microsoft", "AI industry", "business"]
+    },
+    {
+      "title": "System1 launches AI ad screen for quick creative tests",
+      "summary": "System1 has unveiled an AI-powered advertising screen tool designed to let brands rapidly test creative concepts before campaign deployment.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOUNpXzFYTDNad1BvMFc0UUk1LWdBWXpXX2FXMWlaeVJXQWhQYzZwZzh2NU5PaUdrLU4wa3N4M1hNdEZ1cjEwcmdPMlcwaUNoWm1ueHRpNVVrcUY3VkVrYmpmWk1oY0hSNDRNVVAyVFI0RzlJZ3Aza1hhejZ1RkpldHhCOFNZQzRpbEE",
+      "topics": ["advertising", "generative AI", "AI industry"]
+    },
+    {
+      "title": "I spent a day at a robot "carnival" in Shanghai. Here's what I saw. [Metered]",
+      "summary": "MIT Technology Review reports from a Shanghai robotics showcase, describing the latest advances in humanoid and consumer robots on display.",
+      "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+      "topics": ["AI industry", "generative AI", "AI"]
+    },
+    {
+      "title": "It Should Be Harder to Apply for a Job. No, Really [Metered]",
+      "summary": "Wired examines how AI tools have made job applications trivially easy, flooding recruiters with low-effort submissions and disrupting hiring processes.",
+      "url": "https://www.wired.com/story/applying-for-a-job-is-too-damn-easy/",
+      "topics": ["AI", "generative AI", "business"]
+    },
+    {
+      "title": "Agentic AI Is Testing the Limits of Legacy ERP",
+      "summary": "Agentic AI systems are increasingly being deployed against enterprise resource planning software, exposing limitations in legacy infrastructure not built for autonomous AI workflows.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT2dySFR4UFh2TnlqcnFSWWdwX2xBU0pMbmFRTG1hZUlycktGZ0JMNVUzZTJvR2tLQS1aVjNDMTdRU0xieVZkajRsdE5YWWZVQVQ0RzItd3hEWjREeko2SjA5WFZGM0lyN2Vla1RjUGhHVDBvYU1CMUVVZjBBNG5uVGR3bFpfTm1wa0s4NEZ0R1JBYXc",
+      "topics": ["AI industry", "business", "large language models"]
+    }
+  ],
+  "ethan_mollick": null
+}
