@@ -1,0 +1,101 @@
+{
+  "top_stories": [
+    {
+      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+      "summary": "Sony Music Publishing and Warner Chappell Music have filed a lawsuit against Anthropic, alleging copyright infringement related to the use of song lyrics to train its AI systems. The case adds to a growing body of legal challenges facing AI companies over the use of copyrighted material in training data. Anthropic has previously faced similar claims from other rights holders.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "topics": ["copyright", "Anthropic", "AI ethics"]
+    },
+    {
+      "title": "Reviewer3: An AI-Based System to Streamline Peer Review",
+      "summary": "A new AI-based system called Reviewer3 is being developed to assist with the academic peer review process, aiming to reduce bottlenecks and improve efficiency in scholarly publishing. The system is designed to support — not replace — human reviewers by helping to screen and evaluate submissions. The tool raises questions about research integrity and the appropriate role of AI in academic publishing.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWE0xYk9INUI3S1luNVZ4VnhNbTdqTWM5U1lEMDFYaUVLbjlRTTVrRDVpbExMS3BkRXpySm56OWpQMXlFajRuUU42b2ppRUNua21UWXFEQ0JhclF0dmZKcDJzeWpVZTl2eXRyTUJRcXlSTXBZLVlhX2F2bVp6RjJWTGt6MlFnRkxjbDdMR2FfYVF4cWQ5?oc=5",
+      "topics": ["academic publishing", "research integrity", "generative AI"]
+    },
+    {
+      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+      "summary": "Australia's Fair Work Commission has strongly criticised AI-generated legal advice submitted in proceedings, describing it as 'plain wrong' and potentially misleading. The case highlights ongoing concerns about the reliability of AI tools when used in legal and regulatory contexts. The Commission's remarks add to international debate about the risks of deploying AI in high-stakes professional settings.",
+      "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+      "topics": ["legal", "AI ethics", "generative AI"]
+    },
+    {
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "summary": "The Debian open source project has voted to permit contributors to use generative AI tools under a policy of responsible use, marking a significant shift for one of the most established Linux distributions. The decision reflects a broader tension in the software development community over AI-assisted coding and content generation. The policy requires contributors to disclose AI use and take responsibility for the output.",
+      "url": "https://lwn.net/Articles/1091231/",
+      "topics": ["generative AI", "AI governance", "AI coding tools"]
+    },
+    {
+      "title": "Inside Meta's Push to Put Robots to Work in Data Centers",
+      "summary": "Meta is experimenting with deploying physical robots inside its data centers to automate tasks such as maintenance and hardware inspection, according to a detailed report from Wired. The initiative is part of Meta's broader effort to reduce operational costs and improve efficiency at scale. The project reflects growing interest among hyperscalers in combining AI with robotics for infrastructure management.",
+      "url": "https://www.wired.com/story/inside-metas-experiments-with-data-center-robots/",
+      "topics": ["AI infrastructure", "AI industry", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "The Cybersecurity Apocalypse Is Coming in 'Months,' AI Giants Warn [Metered]",
+      "summary": "Leading AI companies are warning that AI-enabled cyberattacks could reach catastrophic scale within months, raising urgent concerns about the state of digital security.",
+      "url": "https://www.wired.com/story/security-news-this-week-the-cybersecurity-apocalypse-is-coming-in-months-ai-giants-warn/",
+      "topics": ["AI safety", "ai", "technology ethics"]
+    },
+    {
+      "title": "AI Has Human Doctors Asking: What's Left for Us? [Metered]",
+      "summary": "As AI tools demonstrate growing diagnostic capability, medical professionals are grappling with questions about the future role of human doctors in clinical settings.",
+      "url": "https://www.wired.com/story/ai-has-human-doctors-asking-whats-left-for-us/",
+      "topics": ["AI ethics", "generative AI", "ai"]
+    },
+    {
+      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+      "summary": "Open source game engine Luanti was removed from Google Play after receiving an AI-generated DMCA copyright notice that the project's maintainers say is entirely without basis.",
+      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+      "topics": ["copyright", "AI ethics", "generative AI"]
+    },
+    {
+      "title": "He Scraped All of Their Art for AI. Now He's Collaborating on a Tool to Help Them [Metered]",
+      "summary": "A developer who scraped artwork from the platform Cara to train AI models is now working with artists on a tool designed to protect their work from future scraping.",
+      "url": "https://www.wired.com/story/he-scraped-art-from-cara-for-ai-now-he-is-collaborating-on-a-tool-to-help-them/",
+      "topics": ["copyright", "AI ethics", "generative AI"]
+    },
+    {
+      "title": "Musicians-turned-detectives are hunting for AI grifters",
+      "summary": "A community of musicians is tracking down artists who use AI-generated music to fraudulently claim streaming royalties, exposing a growing problem of AI-enabled music fraud.",
+      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "topics": ["generative AI", "AI ethics", "copyright"]
+    },
+    {
+      "title": "Trump's EPA wants to let data centers hide their air pollution",
+      "summary": "The US Environmental Protection Agency is proposing rule changes that would allow data centers — whose energy demands are surging due to AI — to avoid disclosing certain air pollution emissions.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+      "topics": ["AI infrastructure", "AI governance", "ai"]
+    },
+    {
+      "title": "How to Run a Chatbot on Your Own Computer [Metered]",
+      "summary": "Wired offers a practical guide to running large language models locally on personal hardware, covering available tools and what users can realistically expect from consumer-grade machines.",
+      "url": "https://www.wired.com/story/how-to-run-your-own-local-llm/",
+      "topics": ["large language models", "chatbots", "ai"]
+    },
+    {
+      "title": "DeepSeek Seeks Fresh Funding and Greater Profitability, May Join Global AI Market's IPO Race",
+      "summary": "Chinese AI lab DeepSeek is reportedly seeking new investment at a $74 billion valuation and may be considering an IPO as it looks to expand its commercial operations.",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14NEl5T3R5Zngwd3hNVHViUkdQZjl1M3JEZ0ZPTzhiSGNXcTY5aWtPRUJkaFVQM2k5YXkwVEFOay10aWRhUDgxNFJZZE5BVU84ZXlwd3lBYw?oc=5",
+      "topics": ["AI industry", "large language models", "ai"]
+    },
+    {
+      "title": "Owner Raises $240 Million to Expand Its AI-Powered Technology and Marketing Platform for Restaurants",
+      "summary": "Restaurant technology company Owner has raised $240 million to scale its AI-driven marketing and operations platform targeting the food service industry.",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRlAxS0VzcnRJcHU0aVExMmlqZkgzdEdWeUVWTXJLSW9sLThCQUpIdzJJbHhmWkViMHQ1U1pJRlNHbVJHYmpsVHd2MlpkQkpPc1B1U3paNWhRZndQcC10U0ZZdk1pNGNJLUpvQXhaNk1obFBBYk5yUHh1WnRTZjRTYXVuTkxxRm9NNlYwS1NJcGhBWGp1eUhhRDZyNjNxcG5Jejc0elVtem1EVGhPZDZGcTREZ3M2MDhSNW42bllhZkUxOXV0YkQ0TGc5VVFqOHNrRnQ2THRyeWktZzBMMUE?oc=5",
+      "topics": ["AI industry", "advertising", "business"]
+    },
+    {
+      "title": "NielsenIQ forges links with Open AI Deployment Company",
+      "summary": "Market research giant NielsenIQ has announced a partnership with an AI deployment company to integrate AI capabilities into its consumer and market intelligence offerings.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUjVzeVR0QTNfZUhic2Zkd2RqNFd5WWpudW53V3JFQWVfWjlDOEt0N3FyZ0RNS1RXdUZWUnd2MDNPRVhxcHhHZFFYZWVPbW10NEdOLVduTHY2UTJONVpWTTlSSlZXZlkwcEFVYi1xbFRxZ210UXpvS2wyXzdCY0lRNFJEVk9NLThfb2FnOGFNS3Q2Y2dXSzJpY09zQmtOZw?oc=5",
+      "topics": ["market research", "AI industry", "large language models"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "Agency and Agents",
+    "summary": "Ethan Mollick explores the concept of AI agents — systems that can act autonomously on behalf of users — and what genuine agency means in the context of AI tools. He examines the practical and philosophical implications of delegating tasks to AI, and how the shift from AI as a tool to AI as an actor changes how we should think about work and responsibility. The post encourages readers to experiment with agentic AI while remaining thoughtful about what they are giving up or gaining in the process.",
+    "url": "https://www.oneusefulthing.org/p/agency-and-agents"
+  }
+}
