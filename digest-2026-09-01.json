@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI [Metered]",
+      "summary": "MIT Technology Review reports on a hack involving Hugging Face that raises questions about internal culture at OpenAI. The piece examines what the incident reveals about broader organisational and security concerns within the AI industry.",
+      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "topics": ["OpenAI", "AI safety", "AI industry"]
+    },
+    {
+      "title": "A milestone in expanding access to AI",
+      "summary": "OpenAI has published an official announcement about expanding access to ChatGPT through the introduction of ads, marking a significant shift in its business model. The move aims to make AI tools available to more users who may not pay for subscriptions.",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "topics": ["OpenAI", "ChatGPT", "advertising"]
+    },
+    {
+      "title": "ChatGPT to face tougher regulation in the EU",
+      "summary": "The Verge reports that ChatGPT is set to face stricter oversight under the EU's Digital Services Act, bringing it under tougher content and transparency requirements. This marks a significant regulatory development for OpenAI's flagship product in one of its major markets.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+      "topics": ["ChatGPT", "AI regulation", "OpenAI"]
+    },
+    {
+      "title": "Polish researchers say 'Elena Vasquez' and 'Marcus Chen' haunt Google Scholar with AI papers",
+      "summary": "Researchers in Poland have identified fictitious AI-generated authors appearing repeatedly across papers indexed in Google Scholar, raising serious concerns about research integrity and the spread of AI-generated academic content. The findings highlight growing challenges for academic publishing and verification systems.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaXBNQ1ZuOTFWSkdsQWVWQzNMdlViVFk5SHJFYVdzdjBtMnpfY19jYUpyUE5tZzVicVlkSHg3YjFuS3BVbUFMbENsam9TcG41bkJoZGE3X1N3aXZFMVJhUXBvblJlUjZ4UndwVVlOcFJEaFJLZ3dSdVZJSmJRTGV6UA?oc=5",
+      "topics": ["academic publishing", "research integrity", "generative AI"]
+    },
+    {
+      "title": "Import AI 471: Why Hugging Face worries me; space mining; Five Eyes on AI",
+      "summary": "Jack Clark's Import AI newsletter examines concerns about Hugging Face's role in the AI ecosystem, alongside coverage of space mining developments and a Five Eyes intelligence alliance perspective on AI risks. The edition provides a broad survey of current AI safety and geopolitical considerations.",
+      "url": "https://importai.substack.com/p/import-ai-471-why-hugging-face-worries",
+      "topics": ["AI safety", "AI industry", "AI governance"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Instagram cracks down on AI accounts pretending to be human",
+      "summary": "Instagram is taking steps to restrict AI-generated accounts that misrepresent themselves as human users, addressing concerns about synthetic identity and platform integrity.",
+      "url": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+      "topics": ["AI ethics", "content policy", "generative AI"]
+    },
+    {
+      "title": "Debian won't ban AI code from its Linux distribution",
+      "summary": "The Debian project has decided not to prohibit AI-generated code from being included in its Linux distribution, reflecting ongoing debate in open-source communities about AI-assisted development.",
+      "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+      "topics": ["generative AI", "AI coding tools", "content policy"]
+    },
+    {
+      "title": "Inside Meta's push to put robots to work in data centers",
+      "summary": "Ars Technica reports on Meta's efforts to deploy robotic systems within its data centres, part of a broader push to automate infrastructure operations at scale.",
+      "url": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+      "topics": ["AI infrastructure", "Meta", "AI industry"]
+    },
+    {
+      "title": "Meta Security Researcher's AI Agent Accidentally Deleted Her Emails",
+      "summary": "A Meta security researcher reported that an AI agent she was using autonomously deleted her emails, illustrating real-world risks of agentic AI systems acting without sufficient human oversight.",
+      "url": "https://au.pcmag.com/ai/116091/meta-security-researchers-ai-agent-accidentally-deleted-her-emails",
+      "topics": ["AI ethics", "AI personal assistant", "AI safety"]
+    },
+    {
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "summary": "OpenAI's official blog details how Polimill is working to develop AI-powered public infrastructure in Japan, positioning the country for broader civic and governmental AI adoption.",
+      "url": "https://openai.com/index/polimill",
+      "topics": ["AI infrastructure", "OpenAI", "AI governance"]
+    },
+    {
+      "title": "New York Governor Kathy Hochul thinks AI should be 'less evil'",
+      "summary": "In a podcast interview, New York Governor Kathy Hochul shares her views on AI regulation, data centres, and the need for AI development to be guided by public interest rather than unchecked corporate power.",
+      "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+      "topics": ["AI regulation", "AI ethics", "AI governance"]
+    },
+    {
+      "title": "You Know Who Really Hates AI? Insurance Claims Adjusters [Metered]",
+      "summary": "Wired reports on widespread resistance to AI tools among insurance claims adjusters, who say the technology creates more work, introduces errors, and undermines their professional judgement.",
+      "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+      "topics": ["AI industry", "generative AI", "business"]
+    },
+    {
+      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "summary": "MacRumors reports that Apple has been surprised by unexpectedly strong demand for its Mac Mini and Mac Studio machines, driven largely by users seeking local AI compute capabilities.",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "topics": ["AI compute", "AI industry", "large language models"]
+    },
+    {
+      "title": "Semrush Claude connector brings live SEO data into AI chats",
+      "summary": "Semrush has launched a connector that integrates live SEO data directly into Claude AI conversations, enabling marketers to query real-time search data through a conversational interface.",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BVktoTnd1cFptcGoyMjRfaGZaQnNjVjNFcF92R0lfUDFBcVZmSml2U2JlS1NGOFdPVjllY1dQa0htakxlb1N2TE5xX2hrZkMtZUxka2xDUGJ2QkM2cVJOM1RuRQ?oc=5",
+      "topics": ["large language models", "AI industry", "advertising"]
+    },
+    {
+      "title": "Salesforce expands Headless 360 to support AI agents across enterprise applications",
+      "summary": "Salesforce is extending its Headless 360 platform to enable AI agents to operate across a wider range of enterprise applications, signalling continued investment in agentic AI for business workflows.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcFpwTXV2VjBYSnBNREhkREFpMXoyTzNUVURTWjVqTWVSV3RBTHlGRmVZQTZJb3N2RU4wRWFhem5mazlaekwyWEh3NE1TVXZTNWdZQ2N3bTdDYzRsdUdrWm11MXY5UEkxeHZOQkxtOS1SVWNXZmM2R19ibXV6TWJ1Z3BsaXAxTnBxa0xQcXptUU9lREozYUhRUHVjYXlwMW1TZDM4XzRwaXRyYl8xeGxnc2ZTMnNSLXB3bS1jZG93NWdoVllnWGc?oc=5",
+      "topics": ["AI personal assistant", "business", "generative AI"]
+    }
+  ],
+  "ethan_mollick": null
+}
