@@ -1,0 +1,84 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Sony Music Publishing and Warner Chappell Sue Anthropic Over 'Brazen' AI Training Copyright Infringement",
+      "summary": "Sony Music Publishing and Warner Chappell Music have filed a lawsuit against Anthropic, alleging the company illegally used tens of thousands of copyrighted song lyrics — including works by The Beatles and Taylor Swift — to train its Claude AI model without authorisation. The publishers are seeking up to $150,000 per song in statutory damages. Internal Anthropic staff communications reportedly extolling piracy sites such as Z-Library have been cited as evidence in the suit.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWEMzRFNoaThybmlLa0dpWnprZ2FpOG1PRHdYQkltanRRMFdKNVlPUkdqYzNlZWV1SVExQW9HRmRNelBDb2pEQUNXclM4Q1VnX3MyZHFMVjZDelI4X1lqYURiM0dxZnV0UnFRcDQzbnJmOGpDby1oSE43c0l5MU00aTdHRlUxMEowTG1FclI0REgtdVdnNlRrbER4SWZSV1VaQUVRcWhxMlh1RXRCSE9mTlphbVBrZTJma1c5Z1BYNA",
+      "topics": ["AI copyright", "litigation", "music publishing"]
+    },
+    {
+      "title": "Suno Sued Again, Accused of Training Model on Mexican Music Catalog to Make Spanish AI Songs",
+      "summary": "Suno faces a new copyright lawsuit alleging it trained its AI music generation model on a Mexican music catalogue to produce Spanish-language AI-generated songs without authorisation. The case adds to existing legal pressure on Suno, which is simultaneously pursuing licensing agreements with some music rights holders.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kUGhZYjBZSkI2bVRWNzlxVVNwaDEwUmdZSE5YWFdNSmxDTG5TUkE4ckdUcG5LdVFpa3Qta1JTYmpiVGNBMThTQ3B6bDBTNnNuVkt6cXE4RDNsQVBxUDhzT2RDUlZSemJxczVHY3JmYVRpeW4wNks5YnZ4ek5Jd3M",
+      "topics": ["AI copyright", "litigation", "music publishing"]
+    },
+    {
+      "title": "Licenses Versus Lawsuits: Why Suno's Parallel Legal Strategies May Pose a 'Conundrum'",
+      "summary": "Analysis of how Suno's simultaneous pursuit of licensing deals with music rights holders and defence against copyright infringement lawsuits may create strategic and legal tensions. The piece examines whether licensing negotiations could complicate or undermine Suno's litigation positions.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wcXdfRlUwd2NBMnJmbTFreEdTMkZiSGhpcWpMVlJPVmZJV2dndVU4NEZJQzMxM2ZjX2FmMFFLb2hRemVYS2kwcVFLVGVrV1RGSXRqaUZDVVdjTUZoclJ3Z0trTDFNWEdncTBJYzgzT3k4dUE1aGxNWl8wMA",
+      "topics": ["AI copyright", "licensing", "litigation"]
+    },
+    {
+      "title": "EFF to Courts: Don't Rewrite Copyright Over AI Hype",
+      "summary": "The Electronic Frontier Foundation has filed submissions urging courts not to expand or reinterpret copyright law in response to AI-related cases, arguing that existing legal frameworks are sufficient and that judicial overreach risks damaging the public interest. The EFF cautioned against allowing AI industry pressures to drive novel copyright doctrine.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY1owM256WVdJVUlXbmZqNElCMzZfN3FkN0pBUVh3THNyZExQZmp4bjVGUU1DZE1NNGNLTm5DTm9nckR2eEh2ZnNOZzRVNExiM0o3bFdjZ2hIM3pBc3ZlNU9SQ3BNbVpzc3dtTXVhRi1ITmNSamtsU1gybWtDYjJ0R1ZXVlJsVWdjTmtpcQ",
+      "topics": ["AI copyright", "policy", "litigation"]
+    },
+    {
+      "title": "AI-generated work can get copyright but AI system cannot be author: Indian copyright office",
+      "summary": "India's copyright office has issued guidance stating that AI-generated works may be eligible for copyright protection, but only when a human author is identified — the AI system itself cannot be named as author. The ruling offers an early example of a national copyright authority addressing AI authorship directly.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOEJzVGhUazEzZWxfcTg4bUxueUxGeFIzSVFiNkRQdmVHZkxyclNDbXQyZlIxX054VjJNR21HLWZVcWdRRTFzdzl2Um1HRGdlQXdUa3J5VHlOeC1NVnZWLWg3RXBiVXg2dlV1WUlFUHFZbnZVeEtsOWtUUkFOVGNVdkJRZnVzTFl6a2NPdEwzQ3ViblJmV2NmaUhxTEd3Y0loQlNHSlUzcC03REJiRGp3NXRSRUE3NWgxdnNjV19XXy1wTDY3al9QVkpPN1lyUDg",
+      "topics": ["AI copyright", "policy"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Operator of AI music generator can't escape copyright suit",
+      "summary": "A court has ruled that the operator of an AI music generation service cannot have a copyright infringement suit dismissed, allowing the case to proceed.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1nNkd3VkZTcjVWdnJHUEdOdnY1SmZJcHMxRXF3QWp0OVFoSS0yOEdvYmhXSFJYcm9PVnBQSTRyNktoTS1iZkFfU0dKT1prOFBJaDVjd1dkeG8wYk8wcE9DLWtSdmxTN3BmVzFXR19kSnRMemMzUm9VMWVVTQ",
+      "topics": ["AI copyright", "litigation", "music publishing"]
+    },
+    {
+      "title": "Carl Sagan Rights Holder Sues Luma AI Over 'Cosmos' Voice Clip in Ad",
+      "summary": "The estate controlling Carl Sagan's rights has filed suit against Luma AI, alleging the company unlawfully used a Sagan voice clip from the TV series Cosmos in an advertisement.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeUIxbWlpZ194ZHdlLVlWY0t4V3NFZWE1aE9RTE0zLWFYTWp6QVpzUmw3NGVLdVdWTnZHcnpHWk5BSGRlVVA0bDNxc2lVdUxPRmNGT1hTellsNF9oUlFsTTNxdlVwRU5UcU43WlMtUnNyV2JYU0xCSUM3d2REdDVISnNZT3VobmVZOGpCaGRVT1Btc3RWaVZ4UGFBajNfYjlaN3JoN21rQzI",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "We Can Now Track AI-generated Content. It Doesn't Solve the Real Problem.",
+      "summary": "The Scholarly Kitchen examines new tools for detecting AI-generated content in academic publishing, arguing that detection capability alone does not address the deeper issues of provenance, attribution, and integrity in scholarly communication.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/08/31/we-can-now-track-ai-generated-content/",
+      "topics": ["academic publishing", "AI tools"]
+    },
+    {
+      "title": "Copyright, AI training and the economics of innovation",
+      "summary": "An analysis piece examining the tension between copyright protection for training data and the economic incentives needed to sustain both AI innovation and creative industries.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ2M0c2paQkhycU84QVhBRjE3dkpiell4c1k5dVFCeTBvM1NlTE1YS09nRlU5cl9YMEpqbXhzaVNtUzhUS0o3OWdEY0lvREhrbjZaeU9tWThZVmI1X3RHY1B6QTZSc1NRN3plb3huYUxNQjJ6X0Y4YWtQZUM5bHBOUC1iU2diS3ljYkdCdktRa3JoZGZVRFVEWHZ1SQ",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Elsevier Launches AI Assistant for Healthcare E-books [Metered]",
+      "summary": "Elsevier has announced a new AI-powered assistant integrated into its healthcare e-book platform, aimed at helping medical professionals navigate and query clinical content.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101137-elsevier-launches-ai-assistant-for-healthcare-e-books.html",
+      "topics": ["academic publishing", "AI tools"]
+    },
+    {
+      "title": "Navigating AI Ownership in Commercial and License Agreements: Key Considerations for Technology Providers and Customers",
+      "summary": "A legal analysis of how AI ownership and intellectual property provisions are being structured in commercial and licensing agreements between technology providers and their customers.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaVRtM3BjdkpLUmxHMGZQdkdQZXFIcU9kVzVvRXJ0djZyZVoxdm5fQmtfZmhhelZsM2VDQ3NtQW50V3lEVW1mTWRqZ0ZvS19WR1QxeWZHV0JNNUtTU3IxNFVfWE9GWmNjdVVHcktoMS1DbHBsQ21aMTkzT0VvWHBLVGF1SzNRb2M",
+      "topics": ["licensing", "AI copyright", "software"]
+    },
+    {
+      "title": "AI wants our stories, but their real value remains hidden",
+      "summary": "A commentary piece arguing that the true economic and cultural value of human-authored stories used to train AI systems is not adequately recognised or compensated under current arrangements.",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYndYOG1mbWZMaWx1Rk1UdE5YS0JYRFpSaUJXTGFnVVlTZ0RtdlhiZXdXbm1rS2xTMDlTd01ueVEyWEJLTEQ3RlV4T1dpYkJNYThzUXAzalBqVTJJN0RLQVJzUXFfcDFkeXNtb2xOSXRtdXVwdzdFMnhiUU1id2ZHeXJOT0p4eTMwa1ZlY21FY2hCd1FsUjYxaTdZY0wwOFBMcFhVUUF1XzN0ZkpmSE5NN1FLLTVtNGx5MXZvbjUyVGlEQmZ5ZkxrZUN3dmdvN1VLb3M0ZE5JazNXWWZO0gHiAUFVX3lxTE9vZzFuV01jaE1pVmVFaG4zYy0yTVh4NktkNWdIdWFaTHQ5MEJJUGhuSUphNHA5UnY1X0JTcjhIT0dNU3g3b2JZczhNU1p3LWI0VzFGb3dadWRxWnlfcFhWbTBOWjhuWndtNkJERFpxbzd6ZXVZTVA4cjh5dllaNkhRY3FvZVR5Ym42UTBzcHB4UHUwekJoVFVCc1licktzVHVjOVZ1MWtGbXZTNks1LXRIcjdXWUlzZ3EzWElyT3M1cS1kT1dlaVZWSlA3UUZkLVFxandQcW1rRzl4TmpKMHI0MWc",
+      "topics": ["AI copyright", "book publishing"]
+    },
+    {
+      "title": "If You Prompt a Movie or Song Into Existence With AI, You Shouldn't Be Able to Profit From It",
+      "summary": "An opinion piece arguing that AI-generated creative works produced via prompting should not attract the same profit rights as human-authored works, with implications for copyright policy.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTDFkdlpVWDBJN1J2T1I5WmVGbl9uOC1jZjZXMUlvdkJ4OHJkanNqUDdYS3F1cHdwVWpLVk1iZ210VEF5UzZ4aXd0RDAxMnpBTDczYXVaVUNzVFFobzdGbzZiQ2dka2NHdWlhbUxRSk83YVJJV0dueFF6MnhuZE1zOS1wWEpSaDN6SWlFMVg0VGRxbE9hOEJPYVV6OUZuU3FDMFhCenBydw",
+      "topics": ["AI copyright", "policy"]
+    }
+  ]
+}
