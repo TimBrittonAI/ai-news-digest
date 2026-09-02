@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Anthropic launches Claude Fable 5.1 and says it's up to 45 percent cheaper for agentic work",
+      "summary": "Anthropic has released Claude Fable 5.1, a new model positioned as significantly more cost-effective for agentic tasks, with the company claiming pricing up to 45 percent lower than previous options. The release targets developers and businesses building AI agents and automated workflows. This continues Anthropic's push to compete on both capability and cost in the enterprise AI market.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "topics": ["Anthropic", "large language models", "generative AI"]
+    },
+    {
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "summary": "OpenAI has published a detailed blog post outlining the development path to its Astra model, describing it as its first AI with 'critical' cybersecurity capabilities. The post explains the safeguards and safety evaluations applied before release, as well as the reasoning behind delays — including a reported pause following the Hugging Face hack. The Verge separately reported that OpenAI delayed Astra's development after that security incident.",
+      "url": "https://openai.com/index/path-to-astra",
+      "topics": ["OpenAI", "AI safety", "generative AI"]
+    },
+    {
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "summary": "OpenAI has announced that healthcare organisations can now integrate electronic health records (EHR) and other industry data sources directly into ChatGPT. The move is a significant expansion of ChatGPT's enterprise capabilities into the healthcare sector, allowing clinical and administrative staff to query and analyse patient data through the platform. OpenAI says the integration supports compliance with healthcare data standards.",
+      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "topics": ["OpenAI", "ChatGPT", "AI industry"]
+    },
+    {
+      "title": "How AI-native companies turn workflows into operating capability",
+      "summary": "OpenAI has published a blog post examining how companies that build AI into their core workflows — rather than adding it as a bolt-on — are achieving structural operational advantages. The post highlights real-world examples of firms redesigning internal processes around AI capabilities. It positions AI adoption as a strategic transformation rather than a tooling decision.",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "topics": ["OpenAI", "AI industry", "generative AI"]
+    },
+    {
+      "title": "EFF to Courts: Don't Rewrite Copyright over AI Hype",
+      "summary": "The Electronic Frontier Foundation has filed a brief urging courts not to expand copyright law in response to AI, arguing that existing fair use principles are sufficient to address disputes over AI training data. The EFF warns that judicial overreach in AI-related copyright cases could have broad chilling effects on innovation. The filing comes amid a wave of litigation over generative AI and copyrighted content.",
+      "url": "https://www.eff.org/deeplinks/2026/08/eff-courts-dont-rewrite-copyright-over-ai-hype",
+      "topics": ["copyright", "AI ethics", "legal"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "The rise of AI 'civilizations' and the fall of corporate responsibility",
+      "summary": "The Verge examines how the Hugging Face hack and the emergence of AI 'civilizations' — autonomous AI agent networks — is exposing gaps in corporate accountability and AI governance.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+      "topics": ["AI ethics", "AI safety", "AI governance"]
+    },
+    {
+      "title": "Introducing agentic video understanding with Gemini",
+      "summary": "Google DeepMind has announced agentic video understanding capabilities for Gemini, enabling the model to analyse and reason over video content autonomously.",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+      "topics": ["generative AI", "large language models", "AI video"]
+    },
+    {
+      "title": "Apple accuses OpenAI of destroying evidence",
+      "summary": "Apple has accused OpenAI of destroying evidence in an ongoing trade secrets lawsuit, escalating the legal dispute between the two companies.",
+      "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "topics": ["OpenAI", "legal", "AI industry"]
+    },
+    {
+      "title": "The Download: engineered microbes for crops, and OpenAI's culture problem",
+      "summary": "MIT Technology Review's daily briefing covers OpenAI's internal culture challenges around safety, alongside unrelated coverage of biotech developments in agriculture.",
+      "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+      "topics": ["OpenAI", "AI safety", "AI industry"]
+    },
+    {
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "summary": "OpenAI profiles how Australian law firm Gilbert + Tobin has built governance frameworks and scaled AI deployment across its legal practice using OpenAI's tools.",
+      "url": "https://openai.com/index/gilbert-tobin",
+      "topics": ["OpenAI", "AI industry", "legal"]
+    },
+    {
+      "title": "Google needs Hollywood more than the studios need AI",
+      "summary": "The Verge argues that Google's AI ambitions in video and content generation make it more dependent on Hollywood partnerships than the entertainment industry is on AI technology.",
+      "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "topics": ["Google", "AI industry", "generative AI"]
+    },
+    {
+      "title": "John Deere launched an AI chatbot for farmers",
+      "summary": "John Deere has launched JD AI, a chatbot designed to help farmers with equipment queries, operational guidance, and agricultural decision-making.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "topics": ["AI industry", "large language models", "AI personal assistant"]
+    },
+    {
+      "title": "NVIDIA and CrowdStrike Strengthen Agentic Cybersecurity Frontier",
+      "summary": "NVIDIA and CrowdStrike have announced a deepened partnership to deploy agentic AI for cybersecurity threat detection and response.",
+      "url": "https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/",
+      "topics": ["AI infrastructure", "AI industry", "generative AI"]
+    },
+    {
+      "title": "How AI plotted an interstellar journey to Alpha Centauri [Metered]",
+      "summary": "MIT Technology Review reports on how AI systems were used to model and plan a theoretical interstellar mission to Alpha Centauri, optimising trajectory and propulsion trade-offs.",
+      "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+      "topics": ["AI compute", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Can AI Trading Cause a Market Crash? What New Research Shows",
+      "summary": "New research examines the systemic risks posed by AI-driven trading algorithms, exploring whether coordinated AI behaviour in financial markets could trigger or amplify a crash.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcDVpZ1J1Vmo5TXJXLWhzNkR5TW14RTA0bUZPeDVaSDJEdVBtdTJreDhES1Z5aHVFTWx1b21zYk1jblMwaWVUVkNBaEswSHpyWk8wcWlxNmpDNFNLck82THZ0MG9LYjRlbngzZXRNOUpHQl8xOGVEdjJRRFlWVWZMcGRfNE9oRVZOaERxMmZJenc3cnZ0U2FyOUU3T1UtQQ?oc=5",
+      "topics": ["AI industry", "large language models", "AI ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
