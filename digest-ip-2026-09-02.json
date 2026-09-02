@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Sony Music Publishing and Warner Chappell sue Anthropic in multi-billion-dollar AI copyright case",
+      "summary": "Sony Music Publishing and Warner Chappell Music have filed a lawsuit against Anthropic, alleging the company used copyrighted song lyrics to train its Claude AI without authorisation. The publishers are seeking up to $150,000 per work in statutory damages, with the suit covering tens of thousands of songs including works by the Beatles, Taylor Swift, and Michael Jackson. The case is being closely watched as a major test of AI training and copyright liability.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYTRxNFdoSkJZNC1kWmZqeXBOOGppQU02SGZtMTNpNmRHbTdDcmNTeXJHT3pvdXVZS3RHLW5mR2xVNHhPbkdzZzdoUEhKQkdFU0lnR1ZVQi1GSTRaTWM3dXJGM1ZsNGJiLWVRUlFJY3I1UXZsRVduTTRBaWRhaGFoWVh3bWJZMktnYTdBeFJKZXdmN3RTSkNudTZLY3ZKMzQzeThIWURmSV9iOXhQcGxyaUd6blU4dC1RaWdwOVpCZ0k2ZDQ?oc=5",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "Suno Licensing Deals Raise New Issue in AI Copyright Fight With Universal, Sony",
+      "summary": "Suno's recent licensing agreements with music rights holders are introducing a new legal wrinkle in the ongoing AI music copyright disputes, raising questions about whether licensing deals affect the underlying infringement claims for training data. The development adds complexity to cases brought by major labels against AI music generation companies. The story touches on the intersection of licensing strategy and litigation exposure.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUmstZGJ6NXJ1Nk04ZENqRXE5dHZGeDQ5SDdPVVFMVnpLelVyNzhJajI5WE5UVU9tVkhKbjJuX3VhN1lwVm8wRUtjMXR4emU3ZEU5TC1idENkd3JDN2ptY252V2JoM1RfTlNYdl9nZHJpNGVCb09TcGRTNHZkdVVVZ1Z2X2hlNlFHYjV5cVZKMA?oc=5",
+      "topics": ["AI copyright", "licensing", "music"]
+    },
+    {
+      "title": "Copyright Office Says AI System DABUS Can't Be Copyright 'Author' Under Indian Law",
+      "summary": "India's Copyright Office has ruled that the AI system DABUS cannot be recognised as an author under Indian copyright law, finding that AI-generated works may qualify as original but must have a human author to receive protection. The ruling aligns India broadly with positions taken by the US Copyright Office and other jurisdictions on AI authorship. The decision has implications for how AI-generated content is treated across major publishing and creative markets.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMzY5cHlMWEtUYXpEUlZWR1Rsa3MzY2NiRWp1S1ZwaG9UUTUxTnI1YllxZTNPVU5za3U4S0ZnVG53Z0MtY3lRMEhJSGpWX3FiaHUxeXRVOGtzUEZUVDduR2w3Qm1GbG45NGNoRWQ1U2ZLNVhiUVNrVUR5OW1GV3BZRDJwampMc2E0MVVIYjE4ZzE5dXFhbS1pQ2tsUTllRGlmTlJpUVM1ZGFzTEtGSzNUZlY1ekNJY1JXR1pydFNB0gHDAUFVX3lxTE9URVNmVGYxdDFwODdWSkJVdnFLR1J5eU13RHloMmRYRk8xQXYycWlSeVpDUktNRTlDcmU2Y2JpNGN5QUpTOUpzTHFZTGpxcllad0FYOU1oMW0tR0NWYnM2QjktVGVQd2FRQWNMUEJvYmx4eDZBSUUtRTVZRkE2LTJBVDhvTHBYWUw5SVVMLXVmc3JaclZTWjBFb29hRUNFUy1mVU1CczNjc1duek1UQlFjeU5UZUF3ejllNVJQTmJ5bUluMA?oc=5",
+      "topics": ["AI copyright", "authorship", "international law"]
+    },
+    {
+      "title": "Google Pulled Into AI Music Litigation Fray as Indie Artists Claim Lyria 3 Stole YouTube Songs",
+      "summary": "Independent artists have filed claims alleging that Google's Lyria 3 AI music model was trained on YouTube content without authorisation, pulling Google into the growing wave of AI music copyright litigation. The case expands the legal battleground beyond the major label actions against Suno and Udio. It raises fresh questions about whether platform-hosted content can be used to train AI models.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZGxkSVBUQUJGOHlhVjBaLVlncXA4YlROanR6RmtJWVBvelF0T09tZXJfUmtDS3hodTF2dHVJNC1iQi1jb0pYLXdUb3pWTUkxYTEyLVZON05wODNQdVhqUzVjR25ueUlFRnJzeXB0V1pXSnlBM0QxWmgtMmxXZ1ZNUWEtMDhKckZ6VmdXM3VNY0F5UHNo?oc=5",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "EFF to Courts: Don't Rewrite Copyright Over AI Hype",
+      "summary": "The Electronic Frontier Foundation has filed arguments urging courts not to expand copyright doctrine in response to AI-related cases, warning that doing so could harm the public interest and set damaging precedents. The EFF's position pushes back against broad interpretations of infringement liability for AI training. The filing is relevant to several active cases including those involving music publishers and AI developers.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY1owM256WVdJVUlXbmZqNElCMzZfN3FkN0pBUVh3THNyZExQZmp4bjVGUU1DZE1NNGNLTm5DTm9nckR2eEh2ZnNOZzRVNExiM0o3bFdjZ2hIM3pBc3ZlNU9SQ3BNbVpzc3dtTXVhRi1ITmNSamtsU1gybWtDYjJ0R1ZXVlJsVWdjTmtpcQ?oc=5",
+      "topics": ["AI copyright", "litigation", "policy"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Suno Sued Again, Accused of Training Model on Mexican Music Catalog to Make Spanish AI Songs",
+      "summary": "Suno faces a new lawsuit alleging its AI model was trained on a Mexican music catalogue without authorisation to generate Spanish-language songs.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kUGhZYjBZSkI2bVRWNzlxVVNwaDEwUmdZSE5YWFdNSmxDTG5TUkE4ckdUcG5LdVFpa3Qta1JTYmpiVGNBMThTQ3B6bDBTNnNuVkt6cXE4RDNsQVBxUDhzT2RDUlZSemJxczVHY3JmYVRpeW4wNks5YnZ4ek5Jd3M?oc=5",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "Jason Isbell and Others Say Suno's A.I. Imitates Their Voices",
+      "summary": "Musicians including Jason Isbell have claimed that Suno's AI music generator reproduces their vocal styles without consent, adding a voice-imitation dimension to existing copyright disputes.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcWFjX2dLN29uRkZlU0NmaUlSMzYzSV9XVEJIdVQ2WDREQ0xNOFRZT0p6TEZtNmJFTnZxbVprRHBEWnpmNlYtX0NBSHQzT3RmTnJOMnVSaXVDdXVOSlZwanNraFJnclItbHpBRnBzc09OaUotVzVubmtTVDBwWUV5Zkc1RFRHdw?oc=5",
+      "topics": ["AI copyright", "music", "voice rights"]
+    },
+    {
+      "title": "EU antitrust regulators quiz publishers on Google's AI search opt-out",
+      "summary": "European antitrust regulators are questioning publishers about Google's opt-out mechanism for AI search, examining whether the system adequately protects publishers' rights.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM3ZuSzV0eDN5dmp1amtEMFZnNjc4UlNvTERweEhFYmJVYTc4NURmM2U2QnZSN0k1WEFGbVh5dkhaT2hQTWgwY1Z3MnU1Q182dm1PQkd2Q19NQmZXUFpYbFk1VEhQbFhYeWRGWVF2WWgzWVhmRlVrUF80TVJYODgyVFRFdEJOS3NhV0VBMTMxSDc4b0tHM3RCcENHMDhocFNUakxDNDVwa3pXR0NSUDBtRGgyYjBCWUJjeWc?oc=5",
+      "topics": ["AI copyright", "licensing", "EU law"]
+    },
+    {
+      "title": "Copyright & AI: Why the European Commission Should Avoid Flawed Opt-Outs and Support International Standardisation",
+      "summary": "A policy analysis argues that the European Commission should reject poorly designed AI training opt-out mechanisms and instead push for internationally standardised approaches to AI and copyright.",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLS1OVFloUEM0RE5ab3lvSXgzeGJ2dWk3ODFvaFNJdTQycjVZVF8yeDdZNHI0MU1hcy1ROXBUNEZvYWl0Zkg0eHUxU09tTFJHYk1nUUtjQV9ubWp0V1BYdm5GR21EZ0FGYWQ0d1lXRng1bk8zRDdlajFlTGtMdHZkMTRXMVhDMmVoSFNlbkVuRWcxLU0yNTl5bEREVXpkTS1DSTViMW1DN0g1R1NVVEU5dW1PTWJJUEJRLXRXT3ZsVXAxQXh2OGtGbjVjMzE5dVlnZFo1bVBKdElWYmtkUS1XWlNqcHAzY0RE?oc=5",
+      "topics": ["AI copyright", "EU law", "policy"]
+    },
+    {
+      "title": "AI-Generated Music Faces New Streaming Labels and Chart Restrictions",
+      "summary": "Streaming platforms and chart bodies are introducing new labelling requirements and eligibility restrictions for AI-generated music, signalling industry-wide moves to differentiate AI content.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLU94Z1dPbWxyaHNzdGg5empic2p5OTI4UkhuMXFIRkI2V0l4VXRuekZUTzdROUs3aS13NHZzYmVzWEhvcXBnQlhqVUlKMzlhand3VEF0SDEzeGdranFzTE85bWQxb3c1OE52SFBGWWRkc3czZ1J1LWYtaktoUVBYZmdSb2tsalNISFJiQnpXak5YSDlvYlpvWA?oc=5",
+      "topics": ["AI copyright", "music", "policy"]
+    },
+    {
+      "title": "Hayden v Koons: US Court of Appeals says it was 30 years too late",
+      "summary": "The US Court of Appeals has dismissed a copyright claim against artist Jeff Koons on the grounds that it was filed far outside the statute of limitations, in a ruling with implications for how copyright claims are timed.",
+      "url": "http://ipkitten.blogspot.com/2026/09/hayden-v-koons-us-court-of-appeals-says.html",
+      "topics": ["AI copyright", "litigation", "authorship"]
+    },
+    {
+      "title": "Open-Weight AI Model Licensing",
+      "summary": "An analysis examines the emerging licensing landscape for open-weight AI models, exploring how intellectual property considerations apply to models whose weights are publicly released.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWpLNkJLRk5LcXVJN2x3dHJ6bnVtMXQ4VGU3c0c1b0MtR0ZGRTBwLS15TzdISVdyck04d3B3amd6bFB6aGtMVndHekw4Q09OTV9IWDN0YWlUeWtZZHdHeWlGclBLRVFlRDFQcHljRlBuTWV5ZmlWazQ1QjJCazMwWlc5NkNSQlFzcmU5RHNJZTFJMlJGZTE4TXN2eERuaFMwRmhZd0FHWWtRQQ?oc=5",
+      "topics": ["licensing", "AI copyright", "software"]
+    },
+    {
+      "title": "Study Says Library E-book Lending Hurts Industry Sales [Metered]",
+      "summary": "A new study claims that library e-book lending has a measurable negative impact on commercial book sales, a finding likely to intensify debates around library licensing models.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/101167-study-says-library-e-book-lending-hurts-industry-sales.html",
+      "topics": ["book publishing", "licensing", "academic publishing"]
+    },
+    {
+      "title": "Liability for AI harms: what the UKJT Legal Statement means for organisations",
+      "summary": "An analysis of the UK Jurisdiction Taskforce's Legal Statement examines what its guidance on AI liability means for organisations deploying AI systems and their legal exposure.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVzJGNzJQUF8tajRtbXN5ZEVLdUJITjFqcnRrajA2QmJIZlo4Y2pQVnhDVVdjNHVxcVRwSEw4WmhCNHM5NXIxdS1aMlRBZzVONDlITVFFREVwVFhrMnhJcHQzenZyUUFYUml4ZlJRX0VqOUFXZElBVjUxaExPd3Z5YjdDTDNQZkFWVnlaLUpVT09WREptWDNCbDRmR2U2UnkyTTkwb011ZnpBVVl2dFVKRGVFMFVKRVBMMlpOUQ?oc=5",
+      "topics": ["AI copyright", "legal services", "policy"]
+    },
+    {
+      "title": "Country music duo Big & Rich sound alarm over AI-generated music and copyright infringement",
+      "summary": "Country music artists Big & Rich have spoken out against AI-generated music, citing copyright infringement concerns and calling for stronger legal protections for musicians.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS1NuektjTnU5Vk5IaE9zX0dnM0xZUWs4YzY1dnFPT3RiWENUb2hRYTdKbmdIRFg1d0ZVN1pTNmVGdjVjZXE0MWxJM3JySVNwTHVidHhjcjktRXJMYzBUdDJfX0hYTjZqcTBjTjRFcmdJSjRQTXRTcTduTVd5eEtjREJYMVpMSkRva09yWlBmM3BUUjhsTjR1ZTFxOGE3VWppeWhEVTNtVno0RVBJWGFvaHozMDRYWVI1X1hYVw?oc=5",
+      "topics": ["AI copyright", "music", "policy"]
+    }
+  ]
+}
