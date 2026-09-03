@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Researchers fear safety disaster ahead of OpenAI's Astra release",
+      "summary": "Researchers have raised concerns about a potential safety disaster ahead of OpenAI's planned release of its Astra model. The model has been noted for having 'critical' cyber abilities, and its development was previously delayed after the Hugging Face hack. Safety fears centre on the model's cybersecurity capabilities and the risks of premature deployment.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "topics": ["AI safety", "OpenAI", "generative AI"]
+    },
+    {
+      "title": "OpenAI Is About to Release Its First AI Model With 'Critical' Cyber Abilities [Metered]",
+      "summary": "OpenAI is preparing to release Astra, described as its first AI model with 'critical' cybersecurity capabilities. The model's development was delayed following the Hugging Face hack, and its imminent release has prompted warnings from researchers about the risks of deploying such a powerful system. The story raises broader questions about responsible release practices for AI with offensive cyber potential.",
+      "url": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+      "topics": ["OpenAI", "AI safety", "generative AI"]
+    },
+    {
+      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+      "summary": "The Trump administration has filed a legal brief siding with OpenAI in its ongoing copyright dispute with The New York Times, arguing in favour of AI companies' use of copyrighted material for training. The move represents a significant intervention in one of the most high-profile AI copyright cases and could have wide-reaching implications for the generative AI industry. The administration's position aligns with broader efforts to limit regulatory constraints on AI development.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+      "topics": ["OpenAI", "copyright", "AI regulation"]
+    },
+    {
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "summary": "Google DeepMind has announced Gemini 3.8 Flash, a new model it says 'works harder' with improved performance, alongside a specialised Gemini 3.8 Flash Cyber variant aimed at cybersecurity applications for governments and enterprises. The release expands Google's Gemini model family with both general-purpose and security-focused offerings. Google has noted that the enhanced capabilities may come at a higher cost to users.",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+      "topics": ["generative AI", "large language models", "Google"]
+    },
+    {
+      "title": "Three sites made 215,128 "best software" pages for AI. Perplexity cites them",
+      "summary": "An investigation found that three websites generated over 215,000 near-identical 'best software' recommendation pages apparently designed to be cited by AI search tools such as Perplexity. The findings highlight a growing problem of manufactured sources being injected into AI-generated recommendations, undermining the reliability of AI search results. The report raises serious concerns about the integrity of AI-powered information retrieval.",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "topics": ["AI search", "generative AI", "research integrity"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "OpenAI accused of 'aiding and abetting' Tumbler Ridge mass shooting in dozens of new lawsuits",
+      "summary": "OpenAI is facing dozens of new lawsuits alleging it aided and abetted a mass shooting in Tumbler Ridge, in cases that test the legal liability of AI companies for harms caused by their products.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+      "topics": ["OpenAI", "AI ethics", "legal"]
+    },
+    {
+      "title": "NYC bans AI use for students until they reach high school",
+      "summary": "New York City has banned AI use for students below high school age, representing one of the most sweeping municipal restrictions on AI tools in education in the United States.",
+      "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+      "topics": ["AI governance", "AI ethics", "content policy"]
+    },
+    {
+      "title": "An Organizational Second Brain: Building an AI That Learns From Experts",
+      "summary": "Meta's engineering blog details the development of an internal AI system designed to capture and disseminate expert knowledge across the organisation, functioning as an institutional memory tool.",
+      "url": "https://engineering.fb.com/2026/09/02/ml-applications/organizational-second-brain-ai-learns-from-experts/",
+      "topics": ["generative AI", "AI industry", "large language models"]
+    },
+    {
+      "title": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It? [Metered]",
+      "summary": "Wired examines Pangram, an AI detection tool that has gained prominence as a leading method for identifying AI-generated content, and questions how reliable its assessments truly are.",
+      "url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
+      "topics": ["AI detection", "generative AI", "research integrity"]
+    },
+    {
+      "title": "The Logical End Point of AI Job Interviews Is Two Bots Talking to Each Other [Metered]",
+      "summary": "Wired explores the growing trend of AI being used on both sides of the job interview process, raising questions about what happens when candidates deploy AI assistants to respond to AI-run interviews.",
+      "url": "https://www.wired.com/story/bot-vs-bot-job-interview-ai/",
+      "topics": ["generative AI", "AI ethics", "AI industry"]
+    },
+    {
+      "title": "The yield imperative: Turning AI infrastructure into useful intelligence",
+      "summary": "Microsoft's blog argues that organisations must move beyond simply building AI infrastructure and focus on extracting measurable business value from their AI investments.",
+      "url": "https://blogs.microsoft.com/blog/2026/09/01/the-yield-imperative-turning-ai-infrastructure-into-useful-intelligence/",
+      "topics": ["AI infrastructure", "AI industry", "business"]
+    },
+    {
+      "title": "Proactive cyber defense for governments and enterprises",
+      "summary": "Google DeepMind outlines how its new Gemini 3.8 Flash Cyber model can be applied to proactive cybersecurity defence use cases for governments and large enterprises.",
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "topics": ["generative AI", "AI safety", "defense"]
+    },
+    {
+      "title": "These Russian Mathematicians Taught AI Models How to Talk to Each Other Without Using Words [Metered]",
+      "summary": "A Russian startup called Mostik has developed a method allowing AI models to communicate with one another using non-linguistic representations, potentially improving efficiency in multi-model AI systems.",
+      "url": "https://www.wired.com/story/russian-startup-mostik-ai-models-communication/",
+      "topics": ["large language models", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Self-Plagiarism: What It Is, Why Context Changes the Rules, and What Happens With AI Content",
+      "summary": "An exploration of how AI-generated content is reshaping definitions of self-plagiarism in academic and professional contexts, and what standards should apply when AI is involved in content creation.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUjlfNmgwY3lacEp5ei1BZ0o0TEVXVVMwYlFiRW1wQlQ5NVpiVFRXXzdsWFB1WEpFelZmTlpjb0NiRnNyM0tuMG1kZW0yd3JKS241a3d6NUhISzFoZ29iMDAtZ1RlQjBINnBHbU9LSGdJaGZQTFdZNU8xRWxRM0xfM3k3S1Q2ZFhHYmVxb3hvc0EtME9FNzNZT1FHYi1Tb04xOTdiQVF2RWwyMmlCc1pyRGc0d1VKbk0?oc=5",
+      "topics": ["academic publishing", "generative AI", "research integrity"]
+    },
+    {
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "summary": "OpenAI's blog features a case study in which the ATV Big Air Tour used ChatGPT to compress three days of production work into three hours, illustrating practical productivity gains from AI tools in event management.",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "topics": ["ChatGPT", "generative AI", "business"]
+    }
+  ],
+  "ethan_mollick": null
+}
