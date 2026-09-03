@@ -1,0 +1,66 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Taylor & Francis Journal publishes paper on Catholic higher education institutions' technological adaptation toward normative leadership",
+      "summary": "A new paper examining how Catholic higher education institutions are adapting technologically toward normative leadership has been published in a Taylor & Francis journal. The publication highlights the ongoing role of Taylor & Francis in academic discourse on institutional technology adoption.",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPa0thVlluaUt4LU5sYjVvdDBqRGhNTnRnVlRadDA1cFJLS0pUeG1vYnN0NWRwWE1uSVpiS3Y0UklPNzJPYzY2ODNOMDdRM1JqbEhRZXRhdWdKRW1CYk56QTU4UkY2aWdKOXdFOFJRVUJiWFJLZ2VMMXlIUHJ1Vm8zeFVjbXAwNXBRclE5dmNVd0RsaVMyaTRvVVJjZUw1TWhfREVvbVRvenFVcGdaLTRqb3cweWJGWEhrWEdRaVFBT21vcFpoUU9OcVJmX09EbTdFX1VCWnBBTU5VdWd1VFVfa2FwQUswUXFXT01WbjdNOWM0Yjg1S3p6eWpiVQ",
+      "topics": ["academic publishing", "AI tools", "Taylor & Francis"]
+    },
+    {
+      "title": "Justice Dept. Sides With OpenAI in New York Times Copyright Suit",
+      "summary": "The U.S. Department of Justice has filed a brief backing OpenAI and Microsoft in the New York Times copyright lawsuit, arguing that AI training on copyrighted material constitutes fair use and is in the national interest. The DOJ characterised AI training as 'exceedingly transformative' and warned that restricting it could hinder American AI competitiveness.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGtNSzl0QmNqeGlPOWVTOGNIdHVLajBvelRIZVpUN0tLWHBYTHpUUjVNREZ4U0JGNklqc1N6VnlHY0pOcnFNdFcwZk9YVVM3YzJ2eEF6ZERyMzNNbEpHU05lSmJJNk9kbGxQU1RjTmpiTmlYblowTm1yUEhhd3pwZ1dkQ05sVEFwajhuUjNrOGVieDlPc2c",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "Sony, Warner sue Anthropic over Claude copyright claims",
+      "summary": "Major music labels Sony and Warner have filed a copyright lawsuit against Anthropic, alleging that its Claude AI reproduces song lyrics without authorisation. The case adds to a growing wave of copyright litigation targeting AI companies over training data and output.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS25udzM0VVpBRmJPZDgyU01WSDBIdjZXV2ZIWWhfUG1YUmhiVk5xUGMySVRjVXUwM3ZUdnVudHRxVVpKZlpPc0Z0aWJscE1PRTBlRFJPLTNrM0ZwVEtpU1Y1Nm9EY0pMbmUxWHR4ZnMzdURycWwyQVdXeURDakdadQ",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "SOCAN sues Suno, alleges AI company copies Canadian music without paying creators",
+      "summary": "Canadian music rights organisation SOCAN has launched a copyright infringement lawsuit against AI music generator Suno, alleging the company trained its model on Canadian music without licensing or compensating rights holders. The case mirrors similar actions brought by US music labels against Suno.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWE9uMXExSUNJaEVsTDlTajNhUm9SX01LeHpiMGZDNGZ4OGwzOHZUc2R6TjB0MlkxY2NESW50UERZaFB4LUZsaHNDM1ZuTFVBQUFTbnI0WFlaWkZGS01NdWcyZTY1WDJ2WDA3WlMtdV9Cb1JMc0MyUENRMFlPNVFvcHlQNmoxc2pBWC14THZadjJ4cjd4QkFyVl9MNm9lMUhNZ0FTdUU1VWdqTWxPaV9qd0ZJeHpZMUVFLVVXT0FiN1lzVVlqNDJlcG9oQ2dTcy1Nc2dXdXljU2pRUQ",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "US urges G-20 countries to allow AI training on creators' work",
+      "summary": "The Trump administration has lobbied G-20 nations to adopt permissive approaches to AI training on copyrighted content, framing it as essential to AI innovation. The move signals a concerted US policy effort to internationalise a fair use framework for AI development.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVjVWb2RHRDNZMGI3MExnNDkzdG1OT2Q0dVZLMWsyMHRjTFdNTzJwYXVGQmk5S0FJY244RjhBMmN2UFFtc3lGNjF4MHpYS1FZSlVMZ2xMS1lzNUk4TE5iZzlqVDdsamtFdEY5dVlkQW1ydjZjeHZGdi03c1RTRHdsSUR6aXo0eE5WRnRzamhwakdvTVl6UkJ0ODZWZl9xbGhjbkJmczZ2UF9XQUN5VFgw",
+      "topics": ["AI copyright", "policy", "licensing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Artists seek sanctions against DeviantArt over AI copyright discovery",
+      "summary": "Artists pursuing a copyright case against DeviantArt are seeking sanctions following discovery disputes in their ongoing lawsuit over the platform's use of their work in AI training.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb2VtNlJRQThMLVNiWWdiWFFMMmQ1VkNKWUhRZ1NlM1hJQ1JOU3lrNzd4UVhFVmpWNllwb2xGWWJxZUZfbGpLbjBIRnVlbV9tS0tYbEVHZU1QN19aazlOeW5rU0hOeFBybXY3SUQ0TTNzSnAwdDN2dDdzRXV4MmpLVlVONlZGWVJzM0ZuUlBLd1RmMlVwZVFRSGV6NWtjSjFqQmF0Y0UwQXgtTVFGVGU5Mjc5VQ",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Jason Isbell's Suno lawsuit takes aim beyond AI copyright",
+      "summary": "Musician Jason Isbell's lawsuit against Suno is reported to raise broader legal arguments that extend beyond standard AI copyright claims, potentially setting new precedents for how courts assess AI music generation.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMnB1UkdMSGdwTTFfRDBRbjFnWXY1ZEh1N0FwaGt3RXFQU1Z5LXhOaDJvbGlHTUY2ck5jeUdQaG8wSExRVFV6VFVQTHg1bFVNMmFya2dSbkRvbUlNS0hNamFJcG1QbWllNzN6Z0Q4dVdpY3RWT0JOTWI4NV9DZmtFQmtmbUpyYlgtLXQxMGhFX09BUFFjemJVdg",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "DOJ urges judge to rule for OpenAI, Microsoft in N.Y. Times lawsuit",
+      "summary": "The US Department of Justice has formally urged the presiding judge to find in favour of OpenAI and Microsoft, arguing that AI training on copyrighted news content is transformative and protected under fair use doctrine.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0dkWmwxWFVnc2QzNnprVzNMLVRkVjVLOGZ0NUQwVEw0VHZ3dWlPSmJYUnptSGJfM0FrZURMTzV5SWRxSUZUa0dpR0ZFNWZkSE1GUUw4eXBnU05OVUNIZHF2OGtnUWFBNHB2bk1saUJMZWRrRjNJVUZNQVBDUXVXR0JRTnpCUDJ6WUFJWGdVY1Y3NFY4ZVRWa3RTTFJIa1IxNFVZSlBfd3BnTThR",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "NY Times Rips Trump's DOJ For Backing AI Companies In Class Action Suit",
+      "summary": "The New York Times has publicly criticised the Trump administration's DOJ for filing a brief in support of OpenAI and Microsoft, describing the intervention as backing AI companies over the rights of content creators.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVExsNlFTNEhqanR6YXNKS3p4Q1lTellOSXl1ekVFeTVENWZSUDBVNHptVVM0a1pKVVZmVURCN3d0T1hWYzBMM3o4SmxZM0MtRjA2d0JJV0sxQ2Z0NjdnOHJZdWZSVVRFZmt2WkhEdWotM3FVTkhjTWpveEZtOGd0OXdIM2tTTVdZ",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "Trump Administration Sides With OpenAI in Publishers' Copyright Lawsuits",
+      "summary": "The Trump administration has formally sided with OpenAI against multiple publishers in ongoing copyright lawsuits, asserting that restricting AI training on copyrighted works would undermine American technological leadership.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdlpWNl9BM1R1SFV3aE1Ya2VjcjhYLW9Xd09uQVVMV09BS1h6X2FxbnZLdUEyWllFekdsakd3YTdGd0doWDJMQV90X0lpMjNZQ25ldUxqdVNqUDdtYUVWSGtaTG9BakZsaC1uYkZUOFJYdWRqa3o5TTZuNldadkdYM3A1ak9KelQ0SzlTMDVER3M2ek9fQ0d1dGlWMVFtZHlnMDE1M0pTUWVYLUJRNWVFMVc0S00tWGVibEdFNg",
+      "topics": ["AI copyright", "policy", "licensing"]
+    }
+  ]
+}
