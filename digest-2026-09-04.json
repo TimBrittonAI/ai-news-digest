@@ -1,0 +1,91 @@
+{
+  "top_stories": [
+    {
+      "title": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era [Metered]",
+      "summary": "OpenAI has released GPT-6 Astra, describing it as capable of using a computer better than a human and marking what the company calls the beginning of the AGI era. The model is already being used by enterprise customers such as Legora, which reviewed 41 documents in minutes, and Playco, which cut manual fixes by 50% in game prototyping. OpenAI positions the release as a significant milestone in AI capability.",
+      "url": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
+      "topics": ["OpenAI", "generative AI", "large language models"]
+    },
+    {
+      "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk [Metered]",
+      "summary": "OpenAI severed its relationship with Cursor, a billion-dollar coding tool customer, reportedly to avoid an indirect business relationship with Elon Musk. The decision highlights the ongoing tension between OpenAI and Musk, and raises questions about how OpenAI manages major commercial partnerships when they conflict with internal priorities.",
+      "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
+      "topics": ["OpenAI", "AI industry", "business"]
+    },
+    {
+      "title": "Nvidia is buying Hugging Face for almost $13 billion",
+      "summary": "Nvidia has announced it is acquiring Hugging Face, the open-source AI platform, for approximately $12.9 billion. The deal represents a major bet on open-source AI infrastructure and would give Nvidia direct ownership of one of the most widely used model-sharing and AI tooling platforms in the industry.",
+      "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+      "topics": ["AI industry", "generative AI", "AI infrastructure"]
+    },
+    {
+      "title": "Sanders and Casar introduce legislation to ban artificial superintelligence and pause AI",
+      "summary": "Senators Bernie Sanders and Greg Casar have introduced legislation that would ban the development of artificial superintelligence and temporarily pause advanced AI development in the United States. The bill reflects growing legislative concern over AI safety and the pace of frontier AI development.",
+      "url": "https://www.sanders.senate.gov/press-releases/news-sanders-casar-introduce-legislation-to-ban-artificial-superintelligence-and-temporarily-pause-advanced-ai-development/",
+      "topics": ["AI regulation", "AI safety", "AI governance"]
+    },
+    {
+      "title": "OpenAI's Daybreak: $1 Billion to Protect Essential Services",
+      "summary": "OpenAI has announced a programme called Daybreak for Frontline Defenders, committing $1 billion to help protect essential services using AI. The initiative signals OpenAI's expanding focus beyond commercial products toward critical infrastructure and public-interest applications.",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "topics": ["OpenAI", "AI safety", "AI industry"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "ChatGPT, Grok, and Claude all went down at the same time",
+      "summary": "ChatGPT, Grok, and Claude experienced simultaneous outages, with neither OpenAI nor Anthropic publicly explaining the cause.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+      "topics": ["OpenAI", "Anthropic", "AI industry"]
+    },
+    {
+      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+      "summary": "Nvidia has released NV PAIR, a free tool that connects idle computers to create a personal distributed AI compute network capable of running local LLMs.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+      "topics": ["AI compute", "AI infrastructure", "large language models"]
+    },
+    {
+      "title": "Google now lets you chat with Gmail, Docs, and Keep",
+      "summary": "Google has introduced live voice modes for Gemini that allow users to interact conversationally with Gmail, Docs, and Keep.",
+      "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+      "topics": ["AI personal assistant", "generative AI", "Google"]
+    },
+    {
+      "title": "Introducing WeatherNext 3, Google DeepMind's most advanced global weather AI model",
+      "summary": "Google DeepMind has launched WeatherNext 3, its most advanced AI-powered global weather forecasting model, claiming improved accuracy over previous versions.",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "topics": ["AI", "generative AI", "Google"]
+    },
+    {
+      "title": "Scaling agentic AI pilots across the enterprise [Metered]",
+      "summary": "MIT Technology Review examines how enterprises are moving beyond agentic AI pilots and attempting to scale these systems across their organisations.",
+      "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+      "topics": ["AI industry", "generative AI", "business"]
+    },
+    {
+      "title": "This Is Flock's AI Search Tool for Cops [Metered]",
+      "summary": "Wired profiles Flock's AI-powered search tool designed for law enforcement, raising questions about surveillance, data access, and AI ethics in policing.",
+      "url": "https://www.wired.com/story/flock-ai-search-user-interface/",
+      "topics": ["AI ethics", "AI search", "technology ethics"]
+    },
+    {
+      "title": "Nvidia RTX Spark 'Superchip': The First AI PCs Are Here [Metered]",
+      "summary": "Wired provides a first look at Nvidia's RTX Spark laptops, the first consumer devices built around the company's AI-focused superchip announced at IFA 2026.",
+      "url": "https://www.wired.com/story/nvidia-rtx-spark-laptops-first-look/",
+      "topics": ["AI compute", "AI infrastructure", "generative AI"]
+    },
+    {
+      "title": "A dark horse enters China's AI race: StartLux",
+      "summary": "Chen Dawei, a prominent figure in China's tech industry, has entered the large language model sector with a new AI venture called StartLux.",
+      "url": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
+      "topics": ["AI industry", "large language models", "generative AI"]
+    },
+    {
+      "title": "Bingham University warns against AI-driven academic fraud",
+      "summary": "Bingham University has issued a warning to students and staff about the growing use of AI tools to commit academic fraud, highlighting integrity concerns in higher education.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPemFxWVA1UF83V05IRWF4a0tIYm9mTVhWUHNCQ3haWVI3SDZhMVBqSjJrM2wxelpJWnVta2xXeVp2MWVycXNOUm95UmJiUER0dFFnZTFIRWh0Yld0b1lic2tBWDhqbkRZdnlLeHJJUWl4RzUzbmhoNExwZFFNLXVOUXFtd0J3UlJzNURMMkYyT3ZxZG9tUWF6ck0zenpPUdIBowFBVV95cUxNZk56eFdNRmVQVG1CaWtsX3ZDMzFRQ21CQnZCYjlHVDEwX1hFc2xoNFM4TXV3S0hMVExGQmxYeEdNZl9BYmpoUVIzWXVaNENreFBpdXMtTzYtOVFwYkh6UVo0dkhzcjBwM3hCTm9RbE5EXy11ZDJ4SXJ1eFdWaU90ZExPdlJTQ1JPMURqbUh0ZEVJbDlXTF9QeXB3bjZrYUZFWTBN?oc=5",
+      "topics": ["academic publishing", "AI ethics", "research integrity"]
+    }
+  ],
+  "ethan_mollick": null
+}
