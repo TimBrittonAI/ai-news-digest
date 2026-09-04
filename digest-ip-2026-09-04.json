@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Article on library-based exploration of AI's influence on religious learning, moral formation, and discernment published in Taylor & Francis Journal",
+      "summary": "A new article published in a Taylor & Francis journal examines AI's influence on religious learning, moral formation, and discernment through a library-based exploration. The publication highlights the growing intersection of AI with academic and humanistic disciplines within established scholarly publishing outlets.",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPa0thVlluaUt4LU5sYjVvdDBqRGhNTnRnVlRadDA1cFJLS0pUeG1vYnN0NWRwWE1uSVpiS3Y0UklPNzJPYzY2ODNOMDdRM1JqbEhRZXRhdWdKRW1CYk56QTU4UkY2aWdKOXdFOFJRVUJiWFJLZ2VMMXlIUHJ1Vm8zeFVjbXAwNXBRclE5dmNVd0RsaVMyaTRvVVJjZUw1TWhfREVvbVRvenFVcGdaLTRqb3cweWJGWEhrWEdRaVFBT21vcFpoUU9OcVJmX09EbTdFX1VCWnBBTU5VdWd1VFVfa2FwQUswUXFXT01WbjdNOWM0Yjg1S3p6eWpiVQ?oc=5",
+      "topics": ["academic publishing", "AI tools", "book publishing"]
+    },
+    {
+      "title": "DOJ Tells Court AI Training Is Fair Use, Forgets To Mention It's Negotiating A Stake In OpenAI",
+      "summary": "The US Department of Justice filed a brief arguing that AI training on copyrighted material constitutes fair use in the New York Times v. OpenAI case, while reports noted the DOJ did not disclose that the Trump administration is simultaneously negotiating a potential government stake in OpenAI. The conflict of interest angle has drawn significant commentary alongside the core legal argument.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNHBiWGd4VEYyRjJrdElrX2VCNXdNVTZDSVFnTTJOUkpYMlhGODBTbWthQkpPakFlc1l4Uy1nNERGaEVWakxnaFNFWUM1QUdTcUVCcVU0bXVDX18zMzF0eGYyZjk3UHM5NEE0MjRiWDdnSjZjNTdrczNwRDVIenpYaU0tZzdqek9tLWxJeUxhdVFYakdfbUdRUzVxLVVUVjRWb1VSczVDVTJvRWJLOFpnTndlX0MtbDhfdngtSFB6X0FnS3M?oc=5",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "Trump administration backs OpenAI in New York Times' copyright case over training of chatbots",
+      "summary": "The Trump administration's Department of Justice filed a statement of interest supporting OpenAI in the high-profile copyright lawsuit brought by the New York Times, arguing that AI training on copyrighted works qualifies as fair use and that restricting AI development could harm national security. The DOJ urged the court to rule in favour of OpenAI and Microsoft, marking a significant intervention by the US government in AI copyright litigation.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQk16ZWxNSWlIblVoNTkyX3RtVXZieXlKcURKVlB5TDJqQUtmNDR0Nlk4UTg4a2N3RVhIZ0c3aXVKLVFmY0VoeDlzVFFGbC1UcHoyZFVIUjFRSzZhVmhySmR5NGxHd2RtSkVaMnJvbEdHX0ZlY3JWU2IwS1RMRmloNC11RFBlc2hNcGc?oc=5",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "SOCAN sues Suno in Canada over alleged copyright infringement",
+      "summary": "Canadian music rights organisation SOCAN has filed a lawsuit against AI music generator Suno, alleging the company copied Canadian music without compensating creators. The case mirrors similar actions against Suno in the United States and represents a broadening of legal challenges to AI music generation across jurisdictions.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNREhYbk9VRXdfaHEzdnA4Q3AyelpINWxKNnVXOUtab1dLSTBDOHNlTENVR2JRNkVVRVpFZWtXcFAyZDJpNU82cHZWZHNncHJUVl9DMFFOd1dlNzU1ekdjam4zMXhXVER0eTNhTW9DTU5JelhXWm56ZUc1aWQ0c2xWUEJfYzRRVUpHcFY5U2NEQnV5MXduWndMV19kdDBUMm9QWGc?oc=5",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "Sony, Warner sue Anthropic over Claude copyright claims",
+      "summary": "Sony and Warner Music have filed a lawsuit against AI company Anthropic, alleging that its Claude chatbot reproduces copyrighted song lyrics without authorisation. The case adds to a growing wave of music industry litigation targeting AI developers over training data and output practices.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS25udzM0VVpBRmJPZDgyU01WSDBIdjZXV2ZIWWhfUG1YUmhiVk5xUGMySVRjVXUwM3ZUdnVudHRxVVpKZlpPc0Z0aWJscE1PRTBlRFJPLTNrM0ZwVEtpU1Y1Nm9EY0pMbmUxWHR4ZnMzdURycWwyQVdXeURDakdadQ?oc=5",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Tech companies massively buying second-hand Dutch books to train AI",
+      "summary": "Reports indicate that technology companies are purchasing large quantities of second-hand Dutch books specifically to use as AI training data, raising concerns among publishers and authors about the circumvention of copyright protections.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNXZWTjZMLUZ1dnJYcWdNTzhzWkpJTlNVZlJjT0NmblM5ckZkMkIwYUdQX2V5MkdFeXQ1bS0yWkwybFVQWjlFR3pLMGc2Ym5GeUQwcHp6TDY5UE5XVnBZczNkai1icmZYb1NiekFmcWw4UDgtS242X3BPY05sQldaOHVpRmlWRk1LVVJTRXRZZTN0RGZOcEVlZWNB?oc=5",
+      "topics": ["AI copyright", "book publishing", "licensing"]
+    },
+    {
+      "title": "NY Times Rips Trump's DOJ For Backing AI Companies In Class Action Suit",
+      "summary": "The New York Times has publicly criticised the Trump administration's DOJ for filing a brief in support of OpenAI, accusing the government of siding with AI companies against the rights of content creators.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVExsNlFTNEhqanR6YXNKS3p4Q1lTellOSXl1ekVFeTVENWZSUDBVNHptVVM0a1pKVVZmVURCN3d0T1hWYzBMM3o4SmxZM0MtRjA2d0JJV0sxQ2Z0NjdnOHJZdWZSVVRFZmt2WkhEdWotM3FVTkhjTWpveEZtOGd0OXdIM2tTTVdZ?oc=5",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "DOJ urges judge to rule for OpenAI, Microsoft in N.Y. Times lawsuit",
+      "summary": "The Department of Justice formally urged a federal judge to find in favour of OpenAI and Microsoft, reinforcing its position that AI training on copyrighted content is legally permissible under fair use doctrine.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0dkWmwxWFVnc2QzNnprVzNMLVRkVjVLOGZ0NUQwVEw0VHZ3dWlPSmJYUnptSGJfM0FrZURMTzV5SWRxSUZUa0dpR0ZFNWZkSE1GUUw4eXBnU05OVUNIZHF2OGtnUWFBNHB2bk1saUJMZWRrRjNJVUZNQVBDUXVXR0JRTnpCUDJ6WUFJWGdVY1Y3NFY4ZVRWa3RTTFJIa1IxNFVZSlBfd3BnTThR?oc=5",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "AI Can Generate A Work, But Can It Be The Author? What India's Copyright Office Says",
+      "summary": "India's Copyright Office has issued a position on whether AI can be recognised as an author under copyright law, contributing to the global debate over AI-generated creative works and intellectual property ownership.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdmxFcW1VSkhqMld6QWZBUWVlNHMyOHgyUzBxWkRMQW1XaHUwbzl3amNCV1REWWZjSjRpRTA1OGxUZHRCX09oc0otT1RYOGE1RG9QM3dWYnR5XzhDel92UnhERjdkMU9Hb2dReC05MFpZQUxQbTNhN0kyV0p6WVBUeXN6V3BUWC14YVViUngzMlI0X195ajZwbEJuTy1BMEhkeWp2NF91cllFWEh1YXNBV3pPRU1CTlkxdnllaFR1VE7SAcYBQVVfeXFMTUpmbzF1SzVnWTM2OGNDRlRlWUdyTUJ3MDJmaXhUR2tyQmtMRzFWQnNpbzR6eVhnX0h0UlVVNnl5VTgwU0xjNGhaMF9BRE9kMUtOVFdBUnZNTENHUnhNal9Ld2dfWFhtOFZmX0hPcDFYMUZxYUpqdUsxYzVWQnNKWHVhRU43Y2YxNzAxLW9vTGFyT2QtWGt4R210WDJGajlBUF9XU2l3ZGlNZGhvN1Fhc2VIRjFMc3ZCcFdhUkd4OHlJMkE3V2hn?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "When Your Life's Work Becomes AI Training Data",
+      "summary": "An in-depth piece examining how creators are grappling with the use of their published works as AI training data, raising questions about consent, compensation, and the future of creative professions.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSW01LTdtZjZQTjFsTlNKdnY4V0NqeGlHbzJqa0pfWFJWOWJRZVo2VHlGVlRxTlprblE2V1J4UlJKSGJQbWhtdzBYT2thSTBDOEVNZlhEclEtY3BZaXo3NXdnVEtlNUpSNDhscE43eTJFVmppY2g0WENWc0J1Qi1kc01kc2Y1d1N6?oc=5",
+      "topics": ["AI copyright", "licensing"]
+    },
+    {
+      "title": "Is AI creator of art that's AI-generated?",
+      "summary": "An analysis of the legal and philosophical questions surrounding authorship and copyright ownership when art is generated by AI systems, exploring how existing frameworks may or may not accommodate AI creativity.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdERTMF9Kdm0tWUc2MWY0cWlpNW1jeUlpb0k4bHZvZHhNeFNxcDBnRktpRnUwVTdNMTBHanFpV3dCSF9DanRiWm92dkFrMU1VT2pFQlFyZVJZOTVKYXRZYzZoOE1QbmlOVGNpVS1sUHhUMWp4SE1WZHMxUVplRVR1eTYyN0hqazEteDNqOWh0UUVTMmhla3paR01JQmd6MlZHR1BYTTBQRTA4c3lnR2NMRERPOHbSAboBQVVfeXFMTmV2bm5lTFFDWE53OWNpTVh2aW45akpzRFJlZjMtQ2U4OXVRSjdSaC1EcDJsU0ZjUjFTUUJzNVR0bV9KRjJrdjVQZWxjNTl4THNGSER6cDJWa2JoQU04N3pXQm1PQmxad2RGNkY4MDBUc0lDQTZLVDVkZUZXTWRBRl9pZWRXMjJMSnpPR0FCbHdrRWNxeFIyVEk0TjExU2prb0ZJcGs2TkJjbVprN3ZhcFpCT2NIOWVnZ2VR?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "A view from Brussels: Creative and AI, a case of David and Goliath?",
+      "summary": "A Brussels-focused commentary examines the power imbalance between large AI developers and individual creators in EU policy debates, framing the dispute as a fundamental challenge to creator rights under emerging AI regulation.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQzIzYmlRcDlqMmp4UVdyaHJVMnVndWtHRUZKdDVDYlExUTExSzE0NnFXWVR2V25XTXpiUjNEdE50ektjUGtYN2phdnA3TngzcGY3aV9GMjU0NThTNWdVU0dCRTdnaENQYnBWQlE2MURIc2xjMHBwUXd0MVd1OXJVc1huVWQ1X1Y1Wm5uZDBha3NtZw?oc=5",
+      "topics": ["EU law", "AI copyright", "policy"]
+    },
+    {
+      "title": "Guest Post – A Year of Trends Beyond Scholarly Comms: What You Need to Know",
+      "summary": "The Scholarly Kitchen publishes a guest post reviewing key trends affecting scholarly communications over the past year, including the impact of AI on academic publishing workflows and intellectual property considerations.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/03/guest-post-a-year-of-trends-beyond-scholarly-comms-what-you-need-to-know/",
+      "topics": ["academic publishing", "AI tools", "licensing"]
+    },
+    {
+      "title": "DOJ Says Training AI on IP 'Is Exceedingly Transformative'",
+      "summary": "The Department of Justice argued in its court filing that training AI models on intellectual property is \"exceedingly transformative,\" a framing that could have broad implications for how fair use is assessed in AI copyright cases.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85eGVvV2lNX3I1NFprek9TWVh0akF0Wms1LXFvMmZsT1IzejI4VlRKQ19FbkZweXMzODRWN1pXMVBGSGJwUWVOeG95MWRXa0hPSGdGb0pZNEV2UXVlSXpQV0lKUEhyWHhTVlE?oc=5",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "Paper on Catholic higher education institutions' technological adaptation toward normative leadership published in Taylor & Francis journal",
+      "summary": "A paper examining how Catholic higher education institutions are adapting to technological change, including AI, within a framework of normative leadership has been published in a Taylor & Francis journal.",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPa0thVlluaUt4LU5sYjVvdDBqRGhNTnRnVlRadDA1cFJLS0pUeG1vYnN0NWRwWE1uSVpiS3Y0UklPNzJPYzY2ODNOMDdRM1JqbEhRZXRhdWdKRW1CYk56QTU4UkY2aWdKOXdFOFJRVUJiWFJLZ2VMMXlIUHJ1Vm8zeFVjbXAwNXBRclE5dmNVd0RsaVMyaTRvVVJjZUw1TWhfREVvbVRvenFVcGdaLTRqb3cweWJGWEhrWEdRaVFBT21vcFpoUU9OcVJmX09EbTdFX1VCWnBBTU5VdWd1VFVfa2FwQUswUXFXT01WbjdNOWM0Yjg1S3p6eWpiVQ?oc=5",
+      "topics": ["academic publishing", "AI tools"]
+    }
+  ]
+}
