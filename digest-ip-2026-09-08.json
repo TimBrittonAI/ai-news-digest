@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "DOJ Backs OpenAI In Landmark Copyright Fight Over AI Training And Fair Use",
+      "summary": "The US Department of Justice has filed a legal brief urging a court to find that AI training on copyrighted material constitutes fair use, arguing that barring such training could 'severely hamper' technological progress. The filing supports OpenAI in the New York Times copyright case and marks a significant intervention by the Trump administration in the AI copyright debate.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWEEtbXNsVUJaOFNKUThaMHhKWUlEYzNTT0NRM2M3b2dib1k4dXB0Vk9ZbW9vdE9nQzBwN3k1YjlQVnpuWmkyTGMyUmNjRDZib1UtRThmSFNMTFJiQ2ExVUtSWUFPN0luQnlhTU5MS1FrcEF1SWRXUHowSkwtbVN3aEJiME1nbjFwbFJGN1Ayc0JDaDBtWE1iMy1xWWhqdw?oc=5",
+      "topics": ["AI copyright", "fair use", "policy"]
+    },
+    {
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft over alleged copyright infringement",
+      "summary": "The Seattle Times and Newsday have filed a lawsuit against OpenAI and Microsoft, alleging that their journalistic content was used without authorisation to train AI systems. The case expands the growing wave of news publisher litigation targeting AI companies over copyright infringement.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVdxTWtrSDJkaUZkZGZxaWdrUmZOV1VXNmRJa0JOT2dtSU5SNzcxaWZ0elZuc0tMZzJjbHBFSy1ldkRMWktGV0tXUmtuODI4WU1KMGJyM3FrQnNEMFNYd3RoNWZCTU1JV0FodnlUc1MxaHZZWUMwNHlNUlMxeEhpMDZpbWlEbUxjSU1xRFpVWWMtV0tMVTNQSXA1QTU3SlcxbW9WcHprN3JLYmNTZnh5Q2Fnd0RmM29EWXJ1eDFUSVU?oc=5",
+      "topics": ["AI copyright", "litigation", "news publishing"]
+    },
+    {
+      "title": "Authors Wrangle With Publishers Over $1.5 Billion Anthropic A.I. Settlement",
+      "summary": "Authors and publishers are in dispute over the terms of a $1.5 billion settlement with Anthropic relating to AI copyright claims. The disagreement centres on how settlement proceeds should be divided between authors and the publishing houses that brought the case.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0JCcDFiX0pScndEQWkwM1FBYXpPVEhPVVBhTFJoVV9JTW4xZllRX2MzLUI3UVJuTGdaZEROM2FPcXhPWGgxTm9WbFJpVkJXMmtMbzFUakpuVWZqRG5KY25GZzZNdlZpT1hweHZ3b3FJZVBtUUpVSTJINUUyMFhSM1AtMEpvaklaaFJKWXVn?oc=5",
+      "topics": ["AI copyright", "book publishing", "licensing"]
+    },
+    {
+      "title": "Sony Music, Warner sue Anthropic, alleging copyright infringement",
+      "summary": "Sony Music and Warner Music have filed a lawsuit against Anthropic alleging that the AI company's Claude models reproduce copyrighted song lyrics without authorisation. The case is among the most significant music industry actions against an AI developer to date.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZWt4UGlUNElBbFZmb29uWkVRbkp1MDBUVFIxaWlkZjJBbE1VNkl5YUxORjdDZWFxa3llSDhDVTc5UUdSaW9SaURCMWVKT0s0eFhaT1hGYldJdVBlV3FiNy1lZm13aTRPTURTZUdNcFNrUWF4bTVZdllHOG5hdU9DN1VlTmdvdUJsUEVKY0kzRmE?oc=5",
+      "topics": ["AI copyright", "litigation", "music licensing"]
+    },
+    {
+      "title": "Mercury News, NY Times want 'fair use' argument rejected in copyright case against OpenAI, Microsoft",
+      "summary": "The New York Times and other news publishers have filed briefs urging a court to reject OpenAI and Microsoft's fair use defence in the ongoing copyright litigation. The publishers argue that the systematic use of their articles to train commercial AI models cannot qualify as fair use.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYjVwREpRVGsyZGt6ek1tQUhXZ1VtU01oTUl2Q01jUk1FTTlwVlBNQVBjWmswNGlLVHU1ZFRmdGNyNWdrVkMzUGMxQUF1REJxVms2UkNfMl84ekI1czUya3ROSjR4MWh1dG9pbm9hS1hHOXhMdjMyTkZZaTltVFJ4ekZkallFSkxoa3VDcy1JYklXN2hrSHpZUkpFOW51WkdaT3BKenBLeWZNOUV2dzJmRHliX1Zra3NnSmJ0TTZvb1RnNE1yc1BoSzNSZlNVNXp50gHWAUFVX3lxTE9HUUJRRFZGTUx1QmZWSE52YU9fUmZBUEdqZ2Y5bHNFNUNCdE5sTG5BbjVMeW9nSWNpWlRVekM2aWgya1liV0szRkgtdkRoeWhWOGdFaEg1ZXFXN3FlandhdkNPR1R1T2RPaEhYS3lnaUNScUpPLXR0R3Z2eWpPbzI0NG9pSHNsV2lzUUFXQXYxcDVxdm9IQ2JaSml1WExMa3pNdzd3dW80MHNtMkdSaVNKcHVqMlB4Unk1ZjFvX2dkZEM0VWRMYmZreUI3NHVPLXYwakNldmc?oc=5",
+      "topics": ["AI copyright", "litigation", "fair use"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Operator of AI music generator can't escape copyright suit",
+      "summary": "A court has ruled that the operator of an AI music generation service cannot have a copyright infringement lawsuit dismissed, allowing the case to proceed.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yQWdJMWhESjNzSkdleWg2QnVYUm5XenE1SHZqTjdKc0JoVS1YbTlTaWY0dkloS0JCdnp2TThNNkRzQjk2Y3VYVThMRTAzYkZCWnFaN3VPSnd6ME85OC1EdzNRVlJYSkYxaHNhMS1uUVcyWVc2TU8tTGljb1ZQRlk?oc=5",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "AI Training & Copyright Part 3: Recent Case Law by the Regional Court of Munich ("GEMA vs. Suno")",
+      "summary": "An analysis of the Regional Court of Munich's ruling in GEMA v. Suno, examining how the German court assessed copyright liability for AI music generation training.",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNEJCaVhvaUJ6MXZCTVA0Z1A3aGRUcjc0dGVIU0p4UXpROU1FT2pzV1RrMXBwOFNjSGZUM29oSDBDb1dTaHZMaFRmeFotUmUzSE1zODJ3Njc2MWFWMVlLdDN1b1ZwcXR1cVNMUmg4a2YtWlM0MnhuOC0xbnZ2SlRLWUdITno3RGpETE9fd3V2TklRRGV2RFhERUFHTEVOMkZKN1owbVVobVRuYjN0cGZsR1YzeUtXWlpxWVBybGwzMjNPZEl6MXhfLUd5WkRVQUJYNTVhMmpVc0Q3dk9KNm0xVlNpd2JhQUNySXc?oc=5",
+      "topics": ["AI copyright", "litigation", "EU law"]
+    },
+    {
+      "title": "YouTube Terms of Service Allow AI Music Training, Google Says in Copyright Lawsuit",
+      "summary": "Google has argued in a copyright lawsuit that its YouTube terms of service permit the use of uploaded content for AI music training purposes.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQWVXVGdVSHVXQ3VvSUJ0TWxyMUhVbXh4Ync5U0dJOVJYb3NvRWcxWXZfUUc4ZWtycUF5YmpjUjE0TDNWU3VlNkNuWm80Yl9yNVlXYUlHQklFNndQNGFaOTZETktiZkVrSHZvRDJWWHhpZHQ2bUtqOVF6Y1lvMjEtZm9HdFNqbHgwUXdPTi1waVZTUQ?oc=5",
+      "topics": ["AI copyright", "licensing", "litigation"]
+    },
+    {
+      "title": "India says AI cannot author a work, but it can still protect one",
+      "summary": "India has clarified its stance on AI and copyright, stating that AI cannot be recognised as an author under its law, but that works involving AI may still attract copyright protection where a human creative contribution is present.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWVZRRThkNFRiZHJ3c081LWtxSG1iUHJGcUdGNmFXcnlLS2RrNllZd1hmemc2WnNaUWdwMXBqSXRVMnJsTnpUTE9HRkJqQ2Z4TEw1XzQta056d2VIUDZoN3BwcldpU1ptTG5uU3Rwbnh4OHFnZFo4UGRjWkxrQUh3SExHbkNsVU5mbDQ4YkJXcWM3SGJqMzh1c0NTX0V5UzJ0MUHSAacBQVVfeXFMUHdtU1hpa3MzbE85VDFhLVdOZFRzZDRoeEo4d2tWMkZaaG9ZUE5aTlF4UXpIeGtaNHNraXdib3oxVlFGRWE5eHFneFZhVFBFY2FQYWZmWEVYVXk1X3RsNXptNDd5MjRhS0l1YlE5X1BxUTNMbU4zXzdaLWFKcm1YRERXRk12TE4yZmIyRU9RRDhpZGtIckZwdTMwdUh6LVh3UHllRDJxZTg?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "China's top court posts guidelines on deepfakes, AI disputes",
+      "summary": "China's Supreme Court has issued guidelines covering deepfakes and AI-related legal disputes, signalling the country's intent to establish clearer judicial standards for AI intellectual property and personality rights cases.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPM3hKNDg0UlJvd2x0ZkNwRjFjM09uYzlhV2JlRjlDbTZfSXg1MnRUSnhLSTY1bXBVa1ZWVksyOFNWRGNwNm1qc05WeVc3RG9lR1ByajR0RGRTc1RmdnZrVlktMkpsV3RUVmtsbDdCZHVydjBGcFhHTFE2aTVQcEFWT3J3?oc=5",
+      "topics": ["AI copyright", "policy", "litigation"]
+    },
+    {
+      "title": "Trump Admin Splinters Over AI's Right To Train On Your Copyrighted Work",
+      "summary": "Reporting reveals divisions within the Trump administration over whether AI companies should be permitted to train on copyrighted material without licence or compensation.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRnNSTmNuNG9GaTVLdTNZNVFjclJqamV6bnFac0tjX0tjM2xCZnBKOXpKU0tSVGp5bVZhSmhvZ2NNSnNQT1lSRGlWdU5ZZ3JpWkdPQ01iV0FoTlpiaEtGblpHazNrQWt6R09Kb29WUm5CNFMwN1dEcnl2SFltM0dacXdCR0ZobzdhV2NXUGNPeTZaMUxGcHUxd0tzd2x0NnNmaDVBUVZaSWRzTFo2RThYdA?oc=5",
+      "topics": ["AI copyright", "policy", "fair use"]
+    },
+    {
+      "title": "More papers target AI as tech, politics and publishers draw battle lines",
+      "summary": "A growing number of academic and news publishers are taking action against AI companies, as the battle lines between the technology industry, policymakers, and content creators continue to harden.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUlLZFlNTEJWcC0zazBqQWpPUy1BNjM0bURSajZhZEJWYUlGclozTG03dzd0c0U1MHpkVmkzcURTT1RWV1cyRlkzMHFydVk2MTJfY2ZRX01uLTdwYTJhNlRCLXN6NjNEUDdSUUZ5VFlSM0drWFdKaHZPMjU3WXpLWEJvaXRnMlFsZVBKbFhEY3R2ckF4dm55Tmh6WHQtRHJOYk5qY1N3YjJuVVMxYWZwRg?oc=5",
+      "topics": ["AI copyright", "book publishing", "licensing"]
+    },
+    {
+      "title": "'Attribution decay' complicates the picture of AI-generated images, scientists find",
+      "summary": "New research finds that AI image generation systems progressively lose traceable links to their training data sources, a phenomenon researchers call 'attribution decay', with implications for copyright and provenance claims.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONnluNWIyVktLNVVPem1jT25vWWxDVTkyYkRwYmJqUE5QV0RYVkh0SFNNYTduVFRtcmttZFlCcmNPUTczaVJFVWVSeTZiaFdaYjJtTExleHJKbHQzenpIMkl4OWlXLVNQNTlyUEI3X1MtN3FCX0FKblJMWFMzU0NSUEdyU1ZFM2IxVzZrY25vcm5teWlXaUhCSnhET2pCbG5CRUlZM3ZLNVB3YU5veHBWMnJmeVVFbDU3M3dvV3VR?oc=5",
+      "topics": ["AI copyright", "testing", "software"]
+    },
+    {
+      "title": "Can Other Laws Stop AI-Imitated Painting Styles and Voices Beyond Copyright Law?",
+      "summary": "An examination of whether laws beyond copyright — such as personality rights, unfair competition, and passing off — could be used to protect artists and voice performers whose styles are replicated by AI systems.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBudzlSc3ZtLTFmeGRTVk5qRmp5dTA5My1pTzctOUUtZ2tHOVVrYjZxSHRsZkxfa0N1UERSNVhCZkk5MjA2eGhZQ1cwd29raGxlTDZpT1dwU1NjZDlObko0cHUyZ0Q2OGN3WVFfa3REdXBlSWlfekE?oc=5",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports",
+      "summary": "Court filings in a major AI copyright case draw on wide-ranging arguments spanning copyright law, cultural impact, and sporting analogies to make the case against AI training practices.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQnU3MklFSlpZRmtJRTlnOTRQbzhRbU4tQTFxck4zekRkcjVNTlAtZFcxTVZQX0ZFZXltLTd1NTJ0eDFCTWxZZmRvUEhEY3VVMVlib3J3dC1PYzFOemQ2M2ZTeHdFYV9ydnVoejFDRmlpTzlLRFhsdXRrTFBMTjdpa2c5cU5CcHlWdUFmTk1ZMkdWQzY5?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    }
+  ]
+}
