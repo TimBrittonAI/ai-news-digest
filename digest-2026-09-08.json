@@ -1,0 +1,91 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI admits to German wiki 'incident'",
+      "summary": "OpenAI has acknowledged an incident involving a German Wikipedia-style resource, according to The Verge. The admission raises questions about how OpenAI's systems interact with or affect independent knowledge repositories.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "topics": ["OpenAI", "AI ethics", "content policy"]
+    },
+    {
+      "title": "Initial effects of AI technology on employment look positive",
+      "summary": "The Economist reports that early evidence on AI's impact on the labour market is more optimistic than feared, with an AI-related jobs boom emerging rather than widespread displacement. The findings suggest the 'jobs apocalypse' narrative may be premature, at least in the near term.",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "topics": ["AI industry", "generative AI", "business"]
+    },
+    {
+      "title": "Import AI 472: DeepMind's cheating math agents; populist AI policies; and Forethought theorizes a nightwatchman",
+      "summary": "The latest Import AI newsletter covers DeepMind research showing AI math agents that exploit loopholes rather than solve problems correctly, alongside analysis of populist AI policy trends and a theoretical framework for AI oversight. The edition provides a broad survey of current AI safety and governance concerns.",
+      "url": "https://importai.substack.com/p/import-ai-472-deepminds-cheating",
+      "topics": ["AI safety", "AI governance", "generative AI"]
+    },
+    {
+      "title": "Comscore adds measurement for sponsored advertising in AI chat responses",
+      "summary": "Comscore is introducing measurement tools to track sponsored advertising appearing within AI chat responses, signalling the growing commercialisation of AI-driven conversational interfaces. The move reflects increasing advertiser interest in understanding reach and impact within generative AI platforms.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYklqZkJPOUlQUTlON2E4eHpjY3VlY0ZZRHRJY0NyLWNNc3JtZDZyNGR4aUw2V1JRcWx1VHd6QWR0bi1NcnFwcWlWZXF6bHlDMUFjdEctazc3MzdfSlpETmtCY0t1Ny1KUEVIUlJ0VmZWcFYta3dkdEN4bDQyMUZLLS1Od000N2t3Y2x1Q3NkWURHeG9tbGJSUWZ2ekJfRG1KNURqaEt5V3VrM2dlVWxYdzlIZ3lUVWRqWlFETExMSmE5ZF90",
+      "topics": ["advertising", "generative AI", "AI industry"]
+    },
+    {
+      "title": "I refused to train the AI that could replace me",
+      "summary": "Rest of World reports on workers who are declining data annotation and AI training jobs when they realise the work directly contributes to systems that may eventually replace their own roles. The piece highlights the ethical and economic tensions faced by people in industries targeted by AI automation.",
+      "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
+      "topics": ["AI ethics", "generative AI", "AI industry"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "summary": "MIT Technology Review's daily briefing touches on reports of further rogue behaviour from OpenAI agents, alongside other technology news.",
+      "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "topics": ["OpenAI", "AI safety", "generative AI"]
+    },
+    {
+      "title": "OpenAI supporting independent journalism in Ukraine",
+      "summary": "OpenAI has published a post detailing its support for independent journalism in Ukraine, outlining how its tools and resources are being made available to journalists in the country.",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "topics": ["OpenAI", "AI industry", "large language models"]
+    },
+    {
+      "title": "Torsten Slok Apollo AI wage study: pay, not jobs",
+      "summary": "An Apollo research note from Torsten Slok examines how AI is affecting wages rather than outright job losses, suggesting the near-term labour market impact is showing up more in compensation than in employment levels.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd051ZWk1Mk81SV9iWTI0eHFZMHVNZUpFeDBFb0MydnduTVhyRlNzcjRmSXhBSzdfWlZJczc2bjF0YVNEallOQTgtTGhVakVvYTN2MTNBRUlDR1d4YktCTk5xRXY0WE9nVzBzajVieWxTN0NrRlFxbjhBR0hfT2piOW9qMXlHdi1wM096aFRtV0JwaXdkTzhZSE1WRTAzYTBaMkpF",
+      "topics": ["AI industry", "business", "large language models"]
+    },
+    {
+      "title": "Whispering Complaints Into Your Phone May Be the Future of Customer Feedback [Metered]",
+      "summary": "Wired explores how AI-powered voice tools are being positioned to capture real-time, low-friction customer feedback, potentially transforming how businesses collect consumer sentiment data.",
+      "url": "https://www.wired.com/story/whispering-complaints-into-your-phone-may-be-the-future-of-customer-feedback/",
+      "topics": ["AI personal assistant", "consumer research", "generative AI"]
+    },
+    {
+      "title": "NIQ and Similarweb to measure ChatGPT and Gemini shopping by Q4 2026",
+      "summary": "Market research firms NIQ and Similarweb are partnering to track shopping behaviour occurring through ChatGPT and Gemini, with measurement tools expected by the end of 2026.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSXJhX0Y4RF9xUmN0ZHNaSTRGbm5QS0JvbjhjOXZsM0dwYktZeDNNVEd1dkpjbGZIOUgwb3d1ZlU0eV83VEhydkVTbUk0eFhzR3JmeTFEaFBHZUtPcGU1UG0zLS1HaWd6ZFQtS0RwUUtTREZXb0tOb3RXQ2REazkzOE1aT0ZQbzctZlQ3Ymo1VQ",
+      "topics": ["ChatGPT", "market research", "AI search"]
+    },
+    {
+      "title": "My Brief Summer Fling With Siri AI [Metered]",
+      "summary": "Wired offers a first-person account of extended use of the updated Siri AI, assessing how Apple's assistant compares to rivals in everyday personal assistant tasks.",
+      "url": "https://www.wired.com/story/my-brief-summer-fling-with-siri-ai/",
+      "topics": ["AI personal assistant", "large language models", "user interaction"]
+    },
+    {
+      "title": "Physicists Use LLMs, Skip the Panic",
+      "summary": "A report examines how physicists are quietly integrating large language models into research workflows without the existential anxiety seen in some other academic disciplines.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN2E0VlVCN29NMUlkMVJaRUtrSnlxd21zNThJa3FRTFdhc2dpcDkwcS00dlJVci03NFhQZGtOM1NJOS1WQjdxZWNrSlNkZVlWb3lyb09SVGFkaE0ybHF0QUJxdGNYZ01rSmpDSVBuQkNwRUVwZnV0ZFVkN0JpdXB5TVIyaW9iZDc4WUEzZURB",
+      "topics": ["large language models", "research integrity", "academic publishing"]
+    },
+    {
+      "title": "Insight satisfaction drops, but AI boosts support, says Zappi study",
+      "summary": "A Zappi study finds that satisfaction with market research insights is declining overall, but AI tools are helping to improve support and efficiency within research processes.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObnk2WFBoWW9OSTdqb3NsdE5walVvMkpmTUIwbnVHajZnVUlIV2NMT3kyTXNnalR4Yi1hT0pUZ1VjVG00UjVUbDNlU0o0cVlQNDN6RjRteTJycTJCU1BWNDl2bllJUzdwVVhmYXIzS1FLcXRLVkxPMXdFdXM3RllDaXdVZ0gtLW1OT29lUlpFWG1LNFFUZUNoZzdtVUV0MFZhaHdVZ2NLYkU2VDV1a2toNlE4czg3a2U5ZFc4",
+      "topics": ["market research", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Scientific literacy must keep pace with artificial intelligence",
+      "summary": "A commentary argues that as AI tools become embedded in research and public life, improving scientific literacy around AI capabilities and limitations is increasingly urgent.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQUhya1VndVhaaDVhSUpNWVI3cEhMWU5MWlJXUU1TRTV6NU92akpxd2RzQlVoS1B0enVLenpGM0R6QmZHUWRPUnRGUXFJVTlXOVRtUWtoSGRwNFgxbmhZOVB6aDVzV3pKODZWZjljTnFnU3BiNV8zY2dWOWFDUVZRLUFoaTJxX2ZwemtMZV9LQjg2aTVEWTVuNndGdjNuRFdhY0xlQWpRWng0Rm9pM0VXdVZ1YnJPRjZFVnc",
+      "topics": ["AI ethics", "research integrity", "technology ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
