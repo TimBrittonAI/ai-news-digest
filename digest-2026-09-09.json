@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Drama swirls around OpenAI's legendary mathematical milestone",
+      "summary": "OpenAI claims to have made a breakthrough on the Navier–Stokes Millennium Prize Problem, one of the most famous unsolved problems in mathematics. The announcement has drawn significant scrutiny from academics and mathematicians who are questioning the validity and novelty of the claimed solution. The Verge reports on the controversy surrounding the claim, while OpenAI has published its own account of the solution.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+      "topics": ["OpenAI", "AI research", "generative AI"]
+    },
+    {
+      "title": "OpenAI Just Claimed a Huge Math Discovery. Some Academics Are Crying Foul [Metered]",
+      "summary": "Wired reports that OpenAI's claim to have solved the Navier–Stokes equation — a Millennium Prize Problem — has been met with pushback from mathematicians, with some academics disputing the significance or correctness of the result. The controversy raises broader questions about how AI companies communicate scientific breakthroughs. OpenAI has published its own technical post on the claimed solution.",
+      "url": "https://www.wired.com/story/openai-navier-stokes-math-discovery-academics/",
+      "topics": ["OpenAI", "AI research", "research integrity"]
+    },
+    {
+      "title": "Meta bets on AI agent Muse to catch up in AI race",
+      "summary": "Meta has announced Muse, a personal AI agent designed with privacy as a core feature, which the company is positioning as a major product in its effort to compete in the AI assistant market. The agent is intended to learn from users over time while keeping personal data on-device. Meta's official blog post on Muse outlines the privacy-first architecture underpinning the product.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+      "topics": ["AI personal assistant", "Meta", "AI ethics"]
+    },
+    {
+      "title": "Anthropic class action lawsuit: AI power users claim they were duped with subscriptions",
+      "summary": "A class action lawsuit has been filed against Anthropic, with plaintiffs alleging the company misled subscribers about the capabilities and value of its paid plans. The case centres on claims that users paid for premium access but did not receive what was advertised. The lawsuit adds to a growing body of legal scrutiny facing AI companies over their consumer-facing products.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+      "topics": ["Anthropic", "legal", "AI industry"]
+    },
+    {
+      "title": "Mistral raises €3B to make sovereign, open-weight AI the technology frontier",
+      "summary": "French AI company Mistral has announced a €3 billion funding round, one of the largest in European AI history, to advance its mission of building sovereign and open-weight AI models. The company positions itself as a counterweight to US-dominated closed AI systems. The announcement signals continued major investor appetite for open-weight AI alternatives.",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "topics": ["AI industry", "large language models", "AI governance"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "What OpenAI's latest controversy tells us about the future of math [Metered]",
+      "summary": "MIT Technology Review examines what the debate over OpenAI's Navier–Stokes claim reveals about the role AI is playing — and the tensions it is creating — in professional mathematics.",
+      "url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "topics": ["OpenAI", "research integrity", "generative AI"]
+    },
+    {
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "summary": "Google DeepMind has published details of AlphaGenome Atlas, a tool that maps the predicted effect of every possible single DNA letter change in the human genome, which could accelerate research into genetic diseases and new treatments.",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "topics": ["AI research", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Introducing ChatGPT Images 2.5",
+      "summary": "OpenAI has launched ChatGPT Images 2.5, including a new Sketch feature that converts rough user drawings into detailed AI-generated images, expanding the platform's visual generation capabilities.",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "topics": ["OpenAI", "generative AI", "ChatGPT"]
+    },
+    {
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "summary": "OpenAI has published a case study showing how its GPT-5.6 Sol model is being used to assist with the design and execution of quantum computing experiments, illustrating the model's application in advanced scientific research.",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "topics": ["OpenAI", "large language models", "AI research"]
+    },
+    {
+      "title": "OpenAI funds research grants into AI and teen development",
+      "summary": "OpenAI has announced a grants programme to fund independent research into the effects of AI on adolescent development, as scrutiny of AI's impact on young users continues to grow.",
+      "url": "https://openai.com/index/teen-development-research-grants",
+      "topics": ["OpenAI", "AI safety", "AI ethics"]
+    },
+    {
+      "title": "LibreOffice breaks download records after declaring it has no AI features",
+      "summary": "LibreOffice has reported record download numbers following a public statement that it does not include AI features, suggesting a segment of users is actively seeking AI-free software alternatives.",
+      "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
+      "topics": ["AI industry", "technology ethics", "user privacy"]
+    },
+    {
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "summary": "OpenAI has announced new programmes aimed at supporting journalism education and professional newsrooms, as the company continues to build relationships with the media industry.",
+      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "topics": ["OpenAI", "AI industry", "AI ethics"]
+    },
+    {
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "summary": "OpenAI has published a case study showing that 1Password achieved a 21% improvement in engineering productivity after deploying OpenAI's Codex AI coding tool across its development teams.",
+      "url": "https://openai.com/index/1password",
+      "topics": ["AI coding tools", "OpenAI", "business"]
+    },
+    {
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected [Metered]",
+      "summary": "MIT Technology Review profiles an AI researcher working on agents capable of proactive planning for unanticipated scenarios, as part of the publication's 35 Innovators Under 35 series.",
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "topics": ["AI research", "large language models", "AI industry"]
+    },
+    {
+      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+      "summary": "Adobe is rolling out updates to its AI generation tools in Premiere Pro designed to make them more accessible and less prone to user error, as the company works to embed generative AI more deeply into its creative software.",
+      "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+      "topics": ["generative AI", "AI video", "business"]
+    }
+  ],
+  "ethan_mollick": null
+}
