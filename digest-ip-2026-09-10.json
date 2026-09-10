@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Authors Guild Addresses Anthropic Settlement Hiccups [Metered]",
+      "summary": "The Authors Guild has responded to complications arising from the $1.5 billion Anthropic AI copyright settlement. The piece covers the Guild's position on resolving outstanding issues for co-plaintiffs and affected authors in the wake of the landmark deal.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101200-authors-guild-addresses-anthropic-settlement-hiccups.html",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "Authors Guild, Co-Plaintiffs Seek Summary Judgment in OpenAI Case [Metered]",
+      "summary": "The Authors Guild and co-plaintiffs have filed for summary judgment in their ongoing copyright lawsuit against OpenAI, marking a significant procedural step toward a final ruling on whether AI training on authors' works constitutes infringement. The move signals the plaintiffs' confidence that the facts of the case do not require a full trial.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101196-authors-guild-co-plaintiffs-seek-summary-judgment-in-openai-case.html",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "OpenAI, New York Times Case Tees Up Key Test of AI Training Under Copyright Law",
+      "summary": "The NYT v. OpenAI case is advancing as a critical test of whether using copyrighted journalism to train AI models constitutes fair use. Legal analysts note the outcome could set binding precedent for the entire AI industry's approach to training data.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNm9Dck5iY3gydVpGQlBFVU5mcF9oa0Qzd0Y5OWN4ZjRVb2huWDBWeFVUeXhQejZZTkdUd3JfZDhZN095X21HODJSdnJ4MVhyMjZQWjVuSXJrM1dMN3dZdkcwMG1NMnB0V05ENDhoN2hKakZLZDExczNYNUlEXzNFcXVQTUdNMDI0THVKYWxuc3dheVBMNUpqdGNHcENOMlpyLUhPVnFTM1JYZURNOWM2dnktUGo1Q3JtdlBpb29uUF9jNVRlVnlR?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Laion Case Could Steer EU AI Copyright Reform",
+      "summary": "The German case involving the LAION dataset is emerging as a potential catalyst for EU-level AI copyright reform, with its outcome likely to influence how the EU's existing text-and-data mining exceptions are interpreted and potentially revised. The case raises fundamental questions about whether scraping publicly available data for AI training is permissible under EU law.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORWdQMktoMFFGYlNsdzctcHA1dnI1YU12NVJBY01mY3Z2WHdOSmJiRHdPUmZtb3g1SXFOR0gzRkc1RVJfdG1lQUVBbk5JUUhsUG1qTDJPbWVYcWVSVDVDeHZrUmtTU2hHbHpPRl9FblA5cWU0dUtBem00MVZkUDdHS2tfQXJ4X3NsS3dIa3BiZWVHVXZiSkNUSmhRWDRhMnM3bUZYS1NwbjVjWXlKLWNpUnNR0gFaQVVfeXFMTmNWMkZhcm5xTFNQOHVEb0l0UWRIclAxVzdtNlMySGt4aEFlYWJ0YU9hUV9DRXlEVER4Q0xURW9QdDNmVWpTXzlrajBtSjV0QkJVNmRJWnNhY1J3?oc=5",
+      "topics": ["AI copyright", "eu law", "litigation"]
+    },
+    {
+      "title": "IP Hot Topic: The DOJ Chimes in on Fair Use and AI",
+      "summary": "The US Department of Justice has filed a position on fair use as it applies to AI training, siding with AI companies in ongoing copyright disputes. The DOJ's intervention is a significant policy development that could influence how courts approach the fair use defence in AI copyright cases.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSklHb3h5SjctTGtuM05UN0pLQmtMRDlVYkFEUm1rYjlhY0hnYzkycVZmZ3pJdkdSVkVfZmpoTzVxSFlycGhDZ2lTN25sOTcyUmNLeFB4V3lOWTlQd29Fd2lSWTNCWUhISk1reEFhbDlRRkpBcnN0RXhCalphZk9nU1V6SlBLYkk4?oc=5",
+      "topics": ["AI copyright", "policy", "litigation"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "AI Training & Copyright Part 3: Recent Case Law by the Regional Court of Munich ("GEMA vs. Suno")",
+      "summary": "An analysis of the Munich Regional Court's ruling in GEMA v. Suno, examining what the decision means for AI music generation and copyright liability in Germany.",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNEJCaVhvaUJ6MXZCTVA0Z1A3aGRUcjc0dGVIU0p4UXpROU1FT2pzV1RrMXBwOFNjSGZUM29oSDBDb1dTaHZMaFRmeFotUmUzSE1zODJ3Njc2MWFWMVlLdDN1b1ZwcXR1cVNMUmg4a2YtWlM0MnhuOC0xbnZ2SlRLWUdITno3RGpETE9fd3V2TklRRGV2RFhERUFHTEVOMkZKN1owbVVobVRuYjN0cGZsR1YzeUtXWlpxWVBybGwzMjNPZEl6MXhfLUd5WkRVQUJYNTVhMmpVc0Q3dk9KNm0xVlNpd2JhQUNySXc?oc=5",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "China's Supreme Court Sets the Rules for AI Liability — but Sidesteps the Biggest Copyright Question",
+      "summary": "China's Supreme People's Court has issued the country's first national judicial rules on AI disputes, addressing liability for deepfakes and privacy but declining to rule on the copyrightability of AI-generated works.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXWGFaSDF6RjhSREJWRHExUnl0YVd4eklUM01JYi1WY0hCd3daLUVTTXJvQnFFYW15X0lyTEhkNEVJaEFYc0dpNE1uTTFCTlExYW83ZmRNbGFOVi1ZMlBwUnk4ZGY3Y2cyVGNLUlFranI1Q3Rz?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "ANI Appeals Delhi HC Ruling That Treated OpenAI's Use of News for AI Training as Fair Dealing",
+      "summary": "Indian news agency ANI is appealing a Delhi High Court order that declined interim relief against OpenAI, challenging the court's treatment of AI training on news content as fair dealing under Indian copyright law.",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMExSelg5aVdLbUZRZE1BTFAyWGZyZjMxajRTTGpxSVBESTRmcW9fQXIwVTh0bFZXYkNGek4wLU9iWUphbnlpcXd2RVZ4YVY1eno1bVk0YzlXc2hlMnpYdkdHcm5lRWdabml0bU1hWHpGSVJkdVl3c1hYNW1YQzRGTFVMQWdod1AxSTVtNVBVNkI2UnNPbFViUEtwclJsa29jWHdrVHI3SXlUMTJwcC1hZHJMTGo2VURUQzE3MlBnOWZDclBIQTAzSm5pWTRBU3lSZG9iRU5sYXdyWG8xTm9CYWROSTZFeWNjdGJZ0gHrAUFVX3lxTE4wTFJ6WDlpV0ttRlFkTUFMUDJYZnJmMzFqNFNManFJUERJNGZxb19BcjBVOHRsVldiQ0Z6TjAtT2JZSmFueWlxd3ZFVnhhVjV6ejVtWTRjOVdzaGUyelh2R0dybmVFZ1puaXRtTWFYekZJUmR1WXdzWFg1bVhDNEZMVUxBZ2h3UDFJNW01UFU2QjZSc09sVWJQS3ByUmxrb2NYd2tUcjdJeVQxMnBwLWFkckxMajZVRFRDMTcyUGc5ZkNyUEhBMDNKbmlZNEFTeVJkb2JFTmxhd3JYbzFOb0JhZE5JNkV5Y2N0Ylk?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Guest Post — The Unbundling of Scholarly Publishing: A Trilemma for the AI Era",
+      "summary": "A guest post on The Scholarly Kitchen argues that AI is forcing a structural crisis in academic publishing, presenting publishers with an unresolvable trilemma between access, quality control, and revenue in the AI era.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/09/guest-post-the-unbundling-of-scholarly-publishing-a-trilemma-for-the-ai-era/",
+      "topics": ["academic publishing", "AI copyright"]
+    },
+    {
+      "title": "What Webtoon's New AI Partnership Could Mean for Translators [Metered]",
+      "summary": "Webtoon's new AI translation partnership raises concerns about the displacement of human translators and the intellectual property implications of AI-generated translations in the comics industry.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/101199-what-webtoon-s-ai-partnership-could-mean-for-translators.html",
+      "topics": ["AI copyright", "book publishing", "licensing"]
+    },
+    {
+      "title": "Kenyan Tribunal Rules AI-Generated Works Need Human Input for Copyright",
+      "summary": "A Kenyan tribunal has determined that AI-generated works are not eligible for copyright protection unless there is meaningful human creative input, adding an African jurisdiction to the growing body of global rulings on AI authorship.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBdlY3Y1hoM1o2WTFJRkxpZWREZ2c1dzN2WXZJaVRyNU85dUJfMVhNQXk0SDNSRTMxbTVmYVh3NWRVTHQ2RjEzM1NDM01GZVQxTFR0bUZ5MExjY1pINnZtT2F4aHR2NGFBV1NMSEJDV3NrODRURW9naQ?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "MinLaw and IPOS Seek Feedback on AI and Singapore's IP Regime",
+      "summary": "Singapore's Ministry of Law and Intellectual Property Office are consulting the public on how the country's IP framework should adapt to the challenges posed by AI, including training data and AI-generated content.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSmYtNHpHZ0NmZTVEcVNnc3hSSnFNUFYzU2VRQ3JrdS1ubXctWFVySVJnYWFfVEtjdk83ZE5qWTBvT291RWQ5YndwMk51RDBaUUtmWDREZlh2dFFzWDktYk1BcWFRMXIzX3lPM29wRkY1alZ4bTRheXFkSjg5Tlc0Ry1yZlBXWjdEbkh5dm9nV09rNDJsMEJXcEIySk9ZT0lPVkVndDlLRF90UWxzSEJhXzh6OWhNRmR1Y1RxR1YyLTg1MDVGVnFjSDNn?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "AI Exposes Flaws in Copyright's Focus on Transformativeness in Fair Use",
+      "summary": "A legal commentary argues that AI-generated outputs reveal fundamental weaknesses in how courts apply the transformativeness standard in fair use analysis, suggesting the doctrine may need rethinking for the AI age.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeU5qaUJQSkprSmFLa2NLeUFZbS1wdlFWbnNBM1Bmc1hFeFZ1cXMxRUhjODJqb09Lc0xqQldtbHIwWWJ5TW1KaGM1RVpPMjBXbUNfaWdRYWEzNktmYzROejJ2MHJyamoyaV9fQ3JWQi1vWGhLNHlnQ2t6SHV4am5qSW95Rjl3Qm1UZ0NwYlVULUsza2FaQzB6VV92Q185eGRzQ0lSS3pVV1ExbTY5?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "China's 15th Five-Year Plan for Copyright Work Calls for AI Training Data and Generative AI Rules",
+      "summary": "China's official five-year copyright plan explicitly calls for new regulations governing AI training data and generative AI, signalling a forthcoming legislative push on AI and IP at the national level.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVjdHQ2hiSGtubExEVmdmTVFsVVB2dGFsQWNUS1JRZEs1UC1ncVBWZE1HaDVtLW0yMk1DY2ZOeU1BYW5LUGxFZkRrRmlPUmJ1Rm16YndYajFOM3FaRTRlRmJZaUFyT2dmSVlSa0YyUVJIM1dVOHBGcEdjNE1iUzJjb25pcFNub29VU0JTVnJDWEdDb0hvTWgwakZuVjNsRWRJbS1mUnhEb2R6ZDNZLVl5Q3YxeEhZejJqUVdR0gG7AUFVX3lxTE5WN0dDaGJIa25sTERWZ2ZNUWxVUHZ0YWxBY1RLUlFkSzVQLWdxUFZkTUdoNW0tbTIyTUNjZk55TUFhbktQbEVmRGtGaU9SYnVGbXpid1hqMU4zcVpFNGVGYllpQXJPZ2ZJWVJrRjJRUkgzV1U4cEZwR2M0TWJTMmNvbmlwU25vb1VTQlNWckNYR0NvSG9NaDBqRm5WM2xFZEltLWZSeERvZHpkM1ktWXlDdjF4SFl6MmpRV1E?oc=5",
+      "topics": ["AI copyright", "policy", "eu law"]
+    },
+    {
+      "title": "More Papers Target AI as Tech, Politics, and Publishers Draw Battle Lines",
+      "summary": "Academic publishers are increasingly restricting AI use in submitted papers, as tensions grow between researchers, technology companies, and publishing houses over the role of generative AI in scholarly work.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUlLZFlNTEJWcC0zazBqQWpPUy1BNjM0bURSajZhZEJWYUlGclozTG03dzd0c0U1MHpkVmkzcURTT1RWV1cyRlkzMHFydVk2MTJfY2ZRX01uLTdwYTJhNlRCLXN6NjNEUDdSUUZ5VFlSM0drWFdKaHZPMjU3WXpLWEJvaXRnMlFsZVBKbFhEY3R2ckF4dm55Tmh6WHQtRHJOYk5qY1N3YjJuVVMxYWZwRg?oc=5",
+      "topics": ["academic publishing", "AI copyright"]
+    }
+  ]
+}
