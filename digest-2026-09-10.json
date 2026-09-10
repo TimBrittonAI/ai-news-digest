@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "summary": "OpenAI has announced GPT-6 Astra, its next-generation model positioned for enterprise and work use cases. The announcement marks a significant step forward in OpenAI's model capabilities and commercial AI offerings.",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "topics": ["OpenAI", "large language models", "generative AI"]
+    },
+    {
+      "title": "OpenAI's sly mathematical breakthrough sends a chill through academia",
+      "summary": "OpenAI has achieved a significant mathematical breakthrough that has generated controversy and concern within academic circles. The development is seen as a potential turning point for AI's role in formal mathematics and scientific research.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "topics": ["OpenAI", "generative AI", "AI research"]
+    },
+    {
+      "title": "The AI Researcher Who Just Quit Anthropic Says It's 'Crunch Time for Humanity'",
+      "summary": "A researcher has resigned from Anthropic, warning that the current moment is critical for humanity in relation to AI development. The departure adds to growing public concern about AI safety at frontier labs, echoing Anthropic's own researchers warning internally that AI 'could kill all humans'.",
+      "url": "https://www.wired.com/story/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+      "topics": ["AI safety", "Anthropic", "AI ethics"]
+    },
+    {
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "summary": "Paul Christiano, a prominent AI safety researcher, has joined the OpenAI Foundation Board. Christiano is a well-known figure in AI alignment research, making his appointment notable for OpenAI's governance and safety posture.",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "topics": ["OpenAI", "AI safety", "AI governance"]
+    },
+    {
+      "title": "Worried Anthropic researchers warn that AI 'could kill all humans'",
+      "summary": "Researchers at Anthropic have raised internal warnings that advanced AI systems pose an existential risk to humanity. The warnings coincide with a high-profile researcher resignation and broader public debate about safety practices at frontier AI labs.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "topics": ["AI safety", "Anthropic", "AI ethics"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "How An AI math breakthrough ignited a controversy",
+      "summary": "Science.org examines the academic controversy sparked by OpenAI's recent mathematical achievement and what it means for researchers in the field.",
+      "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+      "topics": ["OpenAI", "AI research", "generative AI"]
+    },
+    {
+      "title": "The AI policy window is open. We need to act.",
+      "summary": "OpenAI has published a policy statement arguing that the current moment presents a critical opportunity to shape AI regulation and governance frameworks.",
+      "url": "https://openai.com/index/ai-policy-window",
+      "topics": ["AI regulation", "AI governance", "OpenAI"]
+    },
+    {
+      "title": "Students who use AI generally score worse at school",
+      "summary": "New OECD PISA data indicates that students who use AI tools tend to achieve lower academic scores, raising questions about AI's role in education.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+      "topics": ["AI ethics", "generative AI", "AI research"]
+    },
+    {
+      "title": "Suno releases its first AI music model made with record industry help",
+      "summary": "AI music startup Suno has released a new model developed in collaboration with the record industry, marking a shift toward licensed, industry-partnered AI music generation.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+      "topics": ["generative AI", "AI industry", "copyright"]
+    },
+    {
+      "title": "Microsoft has new AI privacy rules for schools",
+      "summary": "Microsoft has introduced new AI privacy policies specifically governing how its tools are used in educational settings, following pressure from teachers' unions.",
+      "url": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
+      "topics": ["Microsoft", "user privacy", "AI regulation"]
+    },
+    {
+      "title": "Amazon Prime Video's new AI tech matches lips to dubbed audio",
+      "summary": "Amazon Prime Video has unveiled AI-powered lip-sync technology designed to improve the quality of dubbed content across languages.",
+      "url": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+      "topics": ["AI video", "language translation", "generative AI"]
+    },
+    {
+      "title": "A Stealth Startup Thinks It Just Hacked the Memory Shortage",
+      "summary": "A new $400 million startup is developing technology aimed at solving the AI memory bottleneck that constrains large language model performance and scalability. [Metered]",
+      "url": "https://www.wired.com/story/a-new-dollar400-million-startup-wants-to-fix-the-ai-memory-bottleneck/",
+      "topics": ["AI infrastructure", "AI compute", "large language models"]
+    },
+    {
+      "title": "Muse, the band, lost its social media handles to Muse, Meta's new AI agent",
+      "summary": "The rock band Muse found its social media handles taken over by Meta's new AI agent of the same name, highlighting emerging brand and identity conflicts as AI products proliferate.",
+      "url": "https://www.engadget.com/2254419/muse-the-band-lost-its-social-media-handles-to-muse-meta-s-new-ai-agent/",
+      "topics": ["Meta", "AI personal assistant", "AI industry"]
+    },
+    {
+      "title": "Read the Apple document explaining how new listening features still protect your privacy",
+      "summary": "Apple has published documentation explaining how its new audio intelligence and listening features are designed to preserve user privacy on-device.",
+      "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+      "topics": ["user privacy", "AI personal assistant", "technology ethics"]
+    },
+    {
+      "title": "Gambling with our lives: AI researcher quits Anthropic with warning about safety",
+      "summary": "Politico EU covers Jacob Coxon's resignation from Anthropic and his public warnings about the risks posed by advanced AI systems to humanity.",
+      "url": "https://www.politico.eu/article/anthropic-openai-researcher-jacob-coxon-warns-ai-could-kill-humans/",
+      "topics": ["AI safety", "Anthropic", "AI ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
