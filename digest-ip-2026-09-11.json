@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Authors Guild, Co-Plaintiffs Seek Summary Judgment in OpenAI Case [Metered]",
+      "summary": "The Authors Guild and co-plaintiffs have filed for summary judgment in their copyright case against OpenAI, escalating one of the most closely watched AI training litigation battles in publishing. The move signals plaintiffs believe the factual record is sufficiently established to warrant a legal ruling without trial. This follows ongoing disputes over whether OpenAI's use of copyrighted books to train its models constitutes infringement.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101196-authors-guild-co-plaintiffs-seek-summary-judgment-in-openai-case.html",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "Authors Guild Addresses Anthropic Settlement Concerns [Metered]",
+      "summary": "The Authors Guild has publicly addressed concerns from members and co-plaintiffs regarding the $1.5 billion Anthropic copyright settlement, describing complications in how the deal has been structured or received. The piece follows reports of the settlement being described as the largest US copyright deal involving AI. Publishers Weekly covers the Guild's response to what it calls 'hiccups' in the process.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101200-authors-guild-addresses-anthropic-settlement-hiccups.html",
+      "topics": ["AI copyright", "licensing", "litigation"]
+    },
+    {
+      "title": "Ask the Chefs: AI and Copyright Licensing",
+      "summary": "The Scholarly Kitchen convenes a panel of publishing industry experts to examine how AI copyright licensing is developing across academic and trade publishing. The discussion covers emerging licensing models, the risks of unlicensed AI training, and what publishers and authors can expect from evolving legal and commercial frameworks. The piece offers substantive analysis from multiple publishing-sector perspectives.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/10/ask-the-chefs-ai-and-copyright-licensing/",
+      "topics": ["AI copyright", "licensing", "academic publishing"]
+    },
+    {
+      "title": "OpenAI, New York Times Case Tees Up Key Test of AI Training Under Copyright Law",
+      "summary": "The NYT v. OpenAI case is advancing toward a critical legal test of whether using copyrighted journalism to train AI models constitutes infringement, with the court proceedings now shaping broader precedent for the industry. The case centres on whether OpenAI's training practices qualify as fair use. Legal analysts say the outcome could determine the framework for AI training copyright across the US.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNm9Dck5iY3gydVpGQlBFVU5mcF9oa0Qzd0Y5OWN4ZjRVb2huWDBWeFVUeXhQejZZTkdUd3JfZDhZN095X21HODJSdnJ4MVhyMjZQWjVuSXJrM1dMN3dZdkcwMG1NMnB0V05ENDhoN2hKakZLZDExczNYNUlEXzNFcXVQTUdNMDI0THVKYWxuc3dheVBMNUpqdGNHcENOMlpyLUhPVnFTM1JYZURNOWM2dnktUGo1Q3JtdlBpb29uUF9jNVRlVnlR?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "China's Supreme Court Sets the Rules for AI Liability — but Sidesteps the Biggest Copyright Question",
+      "summary": "China's Supreme People's Court has issued its first national judicial rules governing AI-related disputes, addressing liability for deepfakes, privacy violations, and AI-generated content, but has declined to rule on the copyrightability of AI-generated works. The rules establish important guardrails for AI developers and deployers in China. Legal observers note the omission of AI output copyright leaves a significant question unresolved.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXWGFaSDF6RjhSREJWRHExUnl0YVd4eklUM01JYi1WY0hCd3daLUVTTXJvQnFFYW15X0lyTEhkNEVJaEFYc0dpNE1uTTFCTlExYW83ZmRNbGFOVi1ZMlBwUnk4ZGY3Y2cyVGNLUlFranI1Q3Rz?oc=5",
+      "topics": ["AI copyright", "policy", "litigation"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Laion Case Could Steer EU AI Copyright Reform",
+      "summary": "A case involving the LAION dataset is emerging as a potential catalyst for EU-level reform of AI copyright rules, with implications for how training data exemptions under the EU AI Act and DSM Directive are interpreted.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVURtWW9LRTl2U1Flck1ycm9td0p0c1BwR3FUX0NMNGUzRTQxRWYtUUNoVy1BUmZ6OHlCWkZ0Q3NzdkVFQzU0czROX1FSMHJ4bl95LXlSbm9Rc0dEbjJBb3Q5MHlkeHYtdTJLelJrNWlHNzRkb3ItNzFjUC13UC1YdlYzcWhoRWNsX3ozY01rOXVnZ9IBWkFVX3lxTE5jVjJGYXJucUxTUDh1RG9JdFFkSHJQMVc3bTZTMkhreGhBZWFidGFPYVFfQ0V5RFREeENMVEVvUHQzZlVqU185a2owbUo1dEJCVTZkSVpzYWNSdw?oc=5",
+      "topics": ["AI copyright", "eu law", "policy"]
+    },
+    {
+      "title": "IP Hot Topic: The DOJ Chimes in on Fair Use and AI",
+      "summary": "The US Department of Justice has weighed in on fair use arguments in AI copyright cases, with reporting indicating the DOJ has backed AI companies' positions in ongoing litigation.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSklHb3h5SjctTGtuM05UN0pLQmtMRDlVYkFEUm1rYjlhQ0hnYzkycVZmZ3pJdkdSVkVfZmpoTzVxSFlycGhDZ2lTN25sOTcyUmNLeFB4V3lOWTlQd29Fd2lSWTNCWUhISk1reEFhbDlRRkpBcnN0RXhCalphZk9nU1V6SlBLYkk4?oc=5",
+      "topics": ["AI copyright", "policy", "litigation"]
+    },
+    {
+      "title": "Seattle Times Sues OpenAI, Microsoft, Asks Court to Destroy AI Models",
+      "summary": "The Seattle Times has filed a copyright lawsuit against OpenAI and Microsoft, seeking the destruction of AI models trained on its journalism without authorisation.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcWZBb1BmTGdxRUdGUHM3cHRBRGFZMmYxbFBYWXlNd3B6SkpnR2JQeWowaWNqa1dNeUk0b0ljZkFuOVZVSWxCVXh2ZzdEYnF3LTZVMnhQeDJfNUJIbGxtNmJUazNiM1kyeWV5aEhlNkc2STI2SFBsaUZhQUxVdUdfRUJTZXl0N1Q4Mk0tckxaNERDR1pQZkpSNFFNYjNjQQ?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "AI Exposes Flaws in Copyright's Focus on Transformativeness in Fair Use",
+      "summary": "Legal analysis argues that AI-generated content challenges the traditional fair use framework, particularly the emphasis on transformativeness, exposing structural weaknesses in how copyright law handles AI training and output.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeU5qaUJQSkprSmFLa2NLeUFZbS1wdlFWbnNBM1Bmc1hFeFZ1cXMxRUhjODJqb09Lc0xqQldtbHIwWWJ5TW1KaGM1RVpPMjBXbUNfaWdRYWEzNktmYzROejJ2MHJyamoyaV9fQ3JWQi1vWGhLNHlnQ2t6SHV4am5qSW95Rjl3Qm1UZ0NwYlVULUsza2FaQzB6VV92Q185eGRzQ0lSS3pVV1ExbTY5?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Guest Post — The Unbundling of Scholarly Publishing: A Trilemma for the AI Era",
+      "summary": "The Scholarly Kitchen publishes an analysis of how AI is forcing a structural rethinking of scholarly publishing's bundled service model, posing a trilemma between access, quality, and revenue sustainability.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/09/guest-post-the-unbundling-of-scholarly-publishing-a-trilemma-for-the-ai-era/",
+      "topics": ["academic publishing", "AI tools", "licensing"]
+    },
+    {
+      "title": "What Webtoon's New AI Partnership Could Mean for Translators [Metered]",
+      "summary": "Publishers Weekly examines the labour and copyright implications of Webtoon's new AI translation partnership, with concerns raised about the displacement of human translators and IP ownership of AI-assisted translations.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/101199-what-webtoon-s-ai-partnership-could-mean-for-translators.html",
+      "topics": ["AI copyright", "software", "book publishing"]
+    },
+    {
+      "title": "China's 15th Five-Year Plan for Copyright Work Calls for AI Training Data and Generative AI Rules",
+      "summary": "China's new five-year copyright plan explicitly calls for new rules governing AI training data and generative AI, signalling a legislative push to regulate the intersection of copyright and AI at a national policy level.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVjdHQ2hiSGtubExEVmdmTVFsVVB2dGFsQWNUS1JRZEs1UC1ncVBWZE1HaDVtLW0yMk1DY2ZOeU1BYW5LUGxFZkRrRmlPUmJ1Rm16YndYajFOM3FaRTRlRmJZaUFyT2dmSVlSa0YyUVJIM1dVOHBGcEdjNE1iUzJjb25pcFNub29VU0JTVnJDWEdDb0hvTWgwakZuVjNsRWRJbS1mUnhEb2R6ZDNZLVl5Q3YxeEhZejJqUVdR0gG7AUFVX3lxTE5WN0dDaGJIa25sTERWZ2ZNUWxVUHZ0YWxBY1RLUlFkSzVQLWdxUFZkTUdoNW0tbTIyTUNjZk55TUFhbktQbEVmRGtGaU9SYnVGbXpid1hqMU4zcVpFNGVGYllpQXJPZ2ZJWVJrRjJRUkgzV1U4cEZwR2M0TWJTMmNvbmlwU25vb1VTQlNWckNYR0NvSG9NaDBqRm5WM2xFZEltLWZSeERvZHpkM1ktWXlDdjF4SFl6MmpRV1E?oc=5",
+      "topics": ["AI copyright", "policy", "eu law"]
+    },
+    {
+      "title": "Out of Concern for Copyright? AI Companies and Their Destructive Scanning of Books",
+      "summary": "An analysis piece examines evidence that AI companies have scanned large volumes of books for training data, raising questions about the physical and legal consequences for copyright holders and library collections.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDFidzdfUGdOVXM2ZHFJNXBiZDZjd2xwdlRvUkNPS3Z5NXpWWjZmX2REb29kZWg1UnBrdnowMjNHb195ZWZDNnkyR2pIc0kxRHBmbmhZbDdLcFlhMUNpa2U5RUNWU01zUDU2dTZNakk2VDh1Qy0zSHMtcHdMbHNKcThaelN4Unh1aEhJa21PUDQxckpiM3hUaGNiMEJvQ1BuMmcwd2NqaEdnVm5vRm5Uay1QZ2g0SDg?oc=5",
+      "topics": ["AI copyright", "book publishing"]
+    },
+    {
+      "title": "Indian Office Rejects US Scientist's AI Copyright Application",
+      "summary": "India's copyright office has rejected an application seeking copyright protection for AI-generated work submitted by a US scientist, reinforcing the emerging international consensus that AI cannot be recognised as an author under existing copyright law.",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtdGdsZjJ2bkNlUk9rbFd1UXk2aElURnZmVmRjRUQ5VlUxWmY2TzZHQkU1SnMxbkdJUTZRV1FKeElEX0t0VDRabGNEeTd1MzlsN2xv?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "A.I. Music Giant Suno Tries to Play Nice With Record Labels",
+      "summary": "Suno, facing copyright pressure from major record labels, is reported to be pursuing licensing negotiations in an effort to legitimise its AI music generation business.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazZXQXlXQURsTjBlOWl3ejRIb0tWTVRWX2s0VzlJNnpOaVdQeUhzZVVKdnNfY2Q0RzZtNmRiejhnMFVDY2hkZVhKNDFaRlBiMlVHS2QtbkpHZWNsOFZ4NFpoMHc4eEg3VmxNYVBtWTNDTGo4aDJPNHkzN3lHOXM5WVJNNmdtOUth?oc=5",
+      "topics": ["AI copyright", "licensing"]
+    }
+  ]
+}
