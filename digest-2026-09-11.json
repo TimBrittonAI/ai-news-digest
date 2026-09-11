@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Anthropic: Detecting and countering misuse of AI — September 2026",
+      "summary": "Anthropic has published its latest threat intelligence report detailing how its AI systems have been misused and what measures are being taken to counter that misuse. The report covers specific cases and patterns of abuse, reflecting Anthropic's ongoing transparency efforts around AI safety and ethics. This is a primary source publication from Anthropic directly.",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "topics": ["AI safety", "AI ethics", "generative AI"]
+    },
+    {
+      "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal [Metered]",
+      "summary": "OpenAI is reportedly exploring the legal dimensions of whether coordinated slowdowns or restrictions on AI development could be permissible under competition law. The question raises significant implications for AI governance and the future of the industry. The story highlights growing tensions between AI safety concerns and antitrust considerations.",
+      "url": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
+      "topics": ["OpenAI", "AI governance", "AI regulation"]
+    },
+    {
+      "title": "Introducing ChatGPT for Financial Services",
+      "summary": "OpenAI has launched a dedicated ChatGPT offering for the financial services sector, expanding its enterprise product line. The announcement signals OpenAI's continued push into regulated, high-stakes industries with tailored AI tools. This is a primary source post from OpenAI.",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "topics": ["OpenAI", "ChatGPT", "AI industry"]
+    },
+    {
+      "title": "Mathematicians want proof OpenAI didn't use their work",
+      "summary": "Mathematicians are demanding transparency from OpenAI about whether copyrighted mathematical research was used to train its models. The dispute touches on unresolved questions around fair use, copyright, and the sourcing of academic content for AI training data. The story adds to a growing body of legal and ethical challenges facing large AI developers.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "topics": ["OpenAI", "copyright", "large language models"]
+    },
+    {
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "summary": "OpenAI has announced an expansion of AI access and cybersecurity capabilities for US government entities at federal, state, local, and tribal levels. The initiative underscores OpenAI's growing role in public sector AI deployment. This is a primary source post from OpenAI.",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "topics": ["OpenAI", "AI industry", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Now everyone can put data to work",
+      "summary": "OpenAI has announced new data tools making it easier for users to analyse and act on their own data directly within its platform.",
+      "url": "https://openai.com/index/put-data-to-work",
+      "topics": ["OpenAI", "generative AI", "large language models"]
+    },
+    {
+      "title": "Universal Music is launching an AI music platform with ElevenLabs",
+      "summary": "Universal Music Group is partnering with ElevenLabs to launch an AI-powered music platform, marking a significant step in major label engagement with generative audio technology.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+      "topics": ["generative AI", "AI industry", "large language models"]
+    },
+    {
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "summary": "OpenAI profiles a researcher using Codex and ChatGPT to accelerate the discovery of new antimicrobial compounds, illustrating practical scientific applications of generative AI tools.",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "topics": ["ChatGPT", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Healthcare AI's next test is integration [Metered]",
+      "summary": "MIT Technology Review examines how healthcare AI tools face their biggest challenge not in accuracy but in integrating with existing hospital systems and clinical workflows.",
+      "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
+      "topics": ["AI industry", "generative AI", "technology ethics"]
+    },
+    {
+      "title": "Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online [Metered]",
+      "summary": "Clearview AI is piloting a new tool that would allow law enforcement to rapidly surface a person's online activity and history, raising significant user privacy and AI ethics concerns.",
+      "url": "https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity/",
+      "topics": ["user privacy", "AI ethics", "technology ethics"]
+    },
+    {
+      "title": "Slack can now vibe-code interactive charts and reports inside chats",
+      "summary": "Slack has launched a new AI-powered feature allowing users to generate interactive charts and reports from within chat conversations, deepening AI integration in workplace productivity tools.",
+      "url": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+      "topics": ["generative AI", "AI industry", "large language models"]
+    },
+    {
+      "title": "Meta's Muse AI works and creeps me out",
+      "summary": "The Verge offers a hands-on look at Meta's Muse AI, finding that while the system functions as intended, its behaviour raises questions about the uncanny nature of AI-generated interaction.",
+      "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "topics": ["generative AI", "AI ethics", "large language models"]
+    },
+    {
+      "title": "Powering AI is an architecture problem [Metered]",
+      "summary": "MIT Technology Review argues that meeting AI's energy demands requires rethinking compute architecture from the ground up, not just building more data centres.",
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    },
+    {
+      "title": "A Stupid Idea for AI Alignment We Came Up With by Looking at Specification Gaming Behaviours",
+      "summary": "A blog post from Slime Mold Time Mold proposes an unconventional approach to AI alignment inspired by reviewing known specification gaming behaviours in AI systems.",
+      "url": "https://slimemoldtimemold.com/2026/08/05/a-stupid-idea-for-ai-alignment-we-came-up-with-by-looking-at-the-list-of-specification-gaming-behaviours/",
+      "topics": ["AI safety", "AI ethics", "large language models"]
+    },
+    {
+      "title": "Everything New You Can Do With Siri AI [Metered]",
+      "summary": "Wired rounds up the latest capabilities added to Apple's Siri following recent AI updates, covering new features and how they compare to rival AI assistants.",
+      "url": "https://www.wired.com/story/everything-new-you-can-do-with-siri-ai/",
+      "topics": ["AI personal assistant", "generative AI", "large language models"]
+    }
+  ],
+  "ethan_mollick": null
+}
