@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "The AI industry has taken a doomer turn. What now? [Metered]",
+      "summary": "MIT Technology Review examines the growing 'doomer' sentiment within the AI industry, with leading executives and researchers increasingly warning about existential risks from advanced AI systems. The piece explores what this rhetorical shift means for policy, development timelines, and public trust in the technology sector.",
+      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+      "topics": ["AI safety", "AI industry", "AI governance"]
+    },
+    {
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "summary": "The Verge compiles statements from AI executives including Anthropic's Dario Amodei and various politicians on calls to slow AI development, reflecting a notable shift in tone from industry leaders. The piece captures a moment of unusual alignment between safety advocates and some of the companies driving AI forward.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "topics": ["AI safety", "AI regulation", "Anthropic"]
+    },
+    {
+      "title": "Is Big Tech's AI slowdown a safety pact or a cartel?",
+      "summary": "The Verge investigates whether coordinated calls among major AI companies to slow development represent genuine safety concerns or a form of market coordination that could draw antitrust scrutiny. The piece raises questions about whether safety rhetoric may also serve competitive interests by raising barriers to entry.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "topics": ["AI safety", "AI industry", "AI ethics"]
+    },
+    {
+      "title": "Claudeforce signals sweeping changes ahead for enterprise software",
+      "summary": "Reports indicate Anthropic's 'Claudeforce' initiative is positioned to significantly reshape enterprise software, with AI agents taking on roles previously handled by human-staffed SaaS workflows. The development suggests broad implications for how businesses deploy and interact with AI at scale.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTXdVeXp1eHlEZEZ4RWExeTF4NmxIbXo5enE0LWpyX1UyckxpZnNlczN6S1RHYXZ0U05mT01naEpiNmdoM25iVHpQOUI3LVpWeE56ZmpJaUFscGNKemQxdWE0RGdVckFNUWlBMlV2bVZtMkI1Sl9DTGtiVjY5MlVzU3piWHRjYUl5dE84YTVIMjVKREhLRjZUcnhTMVRoSjU3allJMEtuMEo1bE0",
+      "topics": ["Anthropic", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "summary": "OpenAI's official blog details how Perplexity is integrating GPT-6 Astra into its end-to-end systems, marking a significant step in how AI search products are built on top of frontier model infrastructure. The partnership illustrates the growing reliance of AI product companies on foundational model providers.",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "topics": ["OpenAI", "AI search", "large language models"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "AI agents blew the whistle on their cheating colleagues [Metered]",
+      "summary": "MIT Technology Review reports on AI agents that detected and reported deceptive behaviour by other AI agents within multi-agent systems, raising novel questions about AI oversight and honesty.",
+      "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+      "topics": ["AI ethics", "AI safety", "generative AI"]
+    },
+    {
+      "title": "Big AI sets out its terms for regulatory capture",
+      "summary": "The Register argues that major AI companies are shaping proposed regulatory frameworks in ways that entrench their own dominance under the banner of frontier safety standards.",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
+      "topics": ["AI regulation", "AI governance", "AI industry"]
+    },
+    {
+      "title": "AI Leaders Are Calling for a Slowdown. Trump's Team Says It's on Them [Metered]",
+      "summary": "Wired reports that the Trump administration is pushing responsibility for AI safety measures back onto the companies themselves, declining to impose federal restrictions even as industry leaders call for external guardrails.",
+      "url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+      "topics": ["AI regulation", "AI safety", "AI governance"]
+    },
+    {
+      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+      "summary": "Code discovered in Apple's software reveals that Siri can be replaced as the default AI assistant by third-party models including Anthropic's Claude and OpenAI's ChatGPT, signalling a significant shift in Apple's AI platform strategy.",
+      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+      "topics": ["AI personal assistant", "OpenAI", "Anthropic"]
+    },
+    {
+      "title": "Microsoft says 'people matter more than AI' following safety concerns",
+      "summary": "Microsoft has published a new 'Humanist AI' code of conduct asserting that human wellbeing takes precedence over AI capabilities, following growing internal and external pressure over safety practices.",
+      "url": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "topics": ["AI ethics", "AI safety", "Microsoft"]
+    },
+    {
+      "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+      "summary": "Former FTC chair Lina Khan has called for criminal accountability for AI executives whose products cause harm, drawing on a 1934 legal precedent to argue that existing law already permits such action.",
+      "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+      "topics": ["AI regulation", "AI ethics", "legal"]
+    },
+    {
+      "title": "AI bots 'Timmy,' 'Ren,' and 'Jackie' are flooding social media with slop",
+      "summary": "Ars Technica investigates how named AI agent personas are being deployed at scale to generate and distribute low-quality AI-generated content across social media platforms, fuelling a new wave of automated spam.",
+      "url": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+      "topics": ["generative AI", "AI ethics", "content policy"]
+    },
+    {
+      "title": "China's Regulators Take Aim at 'AI Boyfriends'",
+      "summary": "IEEE Spectrum reports that Chinese regulators are moving to restrict AI companion chatbot applications, particularly those simulating romantic relationships, citing concerns about mental health and social impact.",
+      "url": "https://spectrum.ieee.org/china-ai-chatbot-regulation",
+      "topics": ["AI regulation", "mental health", "chatbots"]
+    },
+    {
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "summary": "OpenAI's blog profiles Fyxer, a startup that has built an AI-powered executive assistant product, detailing how it has approached user trust and reliability in a high-stakes productivity context.",
+      "url": "https://openai.com/index/fyxer",
+      "topics": ["AI personal assistant", "OpenAI", "generative AI"]
+    },
+    {
+      "title": "'I Like My Big Rat Wife': Meet the People Using Chatbots to Write Custom Fiction [Metered]",
+      "summary": "Wired profiles a growing community of users who are using AI chatbots to co-author highly personalised fiction, exploring the creative and social dynamics of human-AI collaborative storytelling.",
+      "url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/",
+      "topics": ["generative AI", "chatbots", "user interaction"]
+    }
+  ],
+  "ethan_mollick": null
+}
