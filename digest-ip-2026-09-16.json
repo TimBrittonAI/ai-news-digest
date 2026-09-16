@@ -1,0 +1,78 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "UMG Says DistroKid Is Copyright-Infringing 'AI-Slop Pipeline'",
+      "summary": "Universal Music Group has sued DistroKid, alleging the music distribution platform is facilitating copyright infringement by allowing AI-generated 'slop' content onto streaming services. The lawsuit raises significant questions about platform liability and the policing of AI-generated music. Multiple outlets have reported on the case, with UMG framing DistroKid as a pipeline for infringing content.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUFBFYnMxSk1PUnpUVVdyLWhjdzdFb3ctUGtBVmJkOUxWb1pmRTlnNTZIS3p0dFhVUmZUTTVleWxBSFRMRUNDQTZwem80WUczTHRHalJJMUttR1VxUWlUNlNEbDlsdE5vcFlYVkhIZ2RCdjJtcXFwZVZuYlA2VUM0aEkyRVUxZE1KUjVFSnI1SmtzMVlPblJENXVJZzNqS1NJOWc",
+      "topics": ["AI copyright", "litigation", "music industry"]
+    },
+    {
+      "title": "Publishers Argue AI Firms Should Pay for Content as Copyright Case Advances",
+      "summary": "Publishers have argued in ongoing copyright litigation that AI companies should be required to pay for the content used to train their models. The case marks a significant development in the broader legal battle over whether AI training on copyrighted material constitutes infringement.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaWxzbGRRWGQ5VTk3d2NTbENjYWJfOWdpYjBteGFuMktiZzAyQldPd2xVbmEzNVpRSUxPSVBiVVdqVFAwdGwwSm9MV0l2M3dMcG9wb0hxMmlmRnpuZjh0ZHBrUFJWa0tvdm1TYkJsb1g0QUxnc2EzTVRsa3RVX2p4anNGVVU3Mjg5R0w3QksxZkZiMUVRN3h2cW14aHo2RXRRUUhfQk5GbHZiRzdueGIwLWliMHpUdkx4RzJUSFh2bVh2QQ",
+      "topics": ["AI copyright", "licensing", "litigation"]
+    },
+    {
+      "title": "New York Times, OpenAI, and Microsoft clash as copyright fight turns pivotal",
+      "summary": "The copyright dispute between the New York Times and OpenAI and Microsoft has reached a pivotal stage, with both sides clashing over key legal questions regarding AI training on copyrighted news content. The case is being closely watched as a bellwether for the broader AI and media copyright landscape.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdEpzcmV6aVplTV9LZDhqeXdMR3VObDRrazZNdUNac0Iyc1lTRE1sVjdyXzloVDAydU82OTJneC1DMlRUb205WFlrZXluSE9BeENHUDVha3lFRklMQ1gtYkIyZVNtRDhiR0FnVi1JQWx4T0V6R042VEhvRl9qbS1iQm1qWWw2bHNhb096QUF6MzQ",
+      "topics": ["AI copyright", "litigation", "media"]
+    },
+    {
+      "title": "Leaked documents reveal Labor's AI 'betrayal' — Copyright proposal lets AI giants train for free if quotas are met",
+      "summary": "Leaked Australian government documents suggest the Labor government is considering allowing AI companies to train on copyrighted material without payment to creators, provided certain conditions or quotas are met. The proposal has drawn fierce criticism from artists and rights holders, with APRA AMCOS and others warning it amounts to a betrayal of Australian creators.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbmQyNWtORFBnUmY0NXhPNDlucVRZWEhpUFliRENkZDZ5Mm1zdmF5S2tDbm1kX2drdk9hYjFNNDViOGY1Slh4M09wOEpqOC05dmlJeHlvQm9LRVhTRVRlbjdEWnFBczAtYzR1ejVrUjItYmpRN2ZYdnJNdzdFRV9saHpvV1VNVVNVUTFDVHg2Ukh0RWZIODhIVFdoUWNpSk1fRmFFc2N5bHNKdHAxb1FkakZQZ3Q2MG1kTmFr",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "ANI Takes AI Training Fight To Appeal: Delhi High Court Issues Notice To OpenAI, Declines Interim Direction On Scraping Undertaking For Now",
+      "summary": "The Delhi High Court has issued a notice to OpenAI following an appeal by Indian news agency ANI in its copyright dispute over ChatGPT's use of news content for AI training. The court declined to issue an interim direction on scraping at this stage, but the case advances as a significant test of AI copyright liability in India.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdHg4dHgxN2tmdEdfSUk1ZXFnOTQ2YUM0N2ZXSjk1dW9DckVsdXAxMkNiM3JXU3NjU091Z1VJc2hpWkFYU044NlBIdXhBazVZS3hiQktycjdSRmUyOWhOcXlaUlRyamNXcktWcEJFRHJpT0xFQWxqdzlTY3FYNEF0RmItLVB6alF2SGpqTFhHQ2pDdWJ6bEkyWk9JZw",
+      "topics": ["AI copyright", "litigation", "media"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "'Creative Work Is the Only Ingredient They Refuse to Pay For': APRA AMCOS Hits Back at OpenAI",
+      "summary": "Australian music rights organisation APRA AMCOS has issued a sharp rebuke of OpenAI's position on creator compensation, arguing that AI companies are willing to pay for every input except the creative work that makes their products valuable.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RVkVpbzQwTzJiZURBMGRGczVHREV1QU1ld3NaRDV3YllUYzdHNXIyckFqM3NYYUgzQ3dPX1MtVjhaclAwQ1NBRF9ScXRvYV9JY0FmUllIQ0d2aVRFMWd0MWJHSE1xUUZTcC1ZbFdqY0U",
+      "topics": ["AI copyright", "licensing", "music industry"]
+    },
+    {
+      "title": "OpenAI's Australian AI pitch comes with a copyright catch",
+      "summary": "Analysis of OpenAI's proposals to Australian authorities reveals that its vision for AI development in Australia is contingent on relaxed copyright rules that would allow training on creators' work without remuneration.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUmFIUkczTWNIdkp3YkxxVzJ6ckdlTDRmWjFCdTlnMGhrdG1rdlY0MUhTLVFOcTh0ekNSRWI5VnY5dW4tLUZudHRJbU4wM24tQ3pCX2E5WkVPN0dQYWlRU1N4N2hlcGRsVGRBTTlRV3lZaWJLN05NeFQtR2dZLURWSnRQTDI5b0U1MjZKX0hhcw",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "AI Music Lawsuits Put Canadian Recording Artists at Risk",
+      "summary": "Ongoing AI music copyright lawsuits in the United States are raising concerns among Canadian artists and rights holders about the implications for Canadian intellectual property protections.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jSk5DX0JtODRHY0o1cnRTcklMVHRuZk5YYlBJNGpxUEh1WVZQN3J0TFk2MThqd2dDZlRXWTNsZzViTDhEMlB1Y3VlZ3FoNE03QlFlb191RVBXRFI4MTJGRDNDdEF5NnplakZMWg",
+      "topics": ["AI copyright", "music industry", "litigation"]
+    },
+    {
+      "title": "Digital replicas: personality rights debate reopened by AI-generated voice concerns",
+      "summary": "Growing use of AI-generated voices is reigniting legal and policy debate around personality rights and whether existing frameworks adequately protect individuals from unauthorised digital replication.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUDh3aHdMVTZUWjBxdmgyRHJKZkV0clNXUGVEVzh6S21nd3JkQjNLbzN6WDJzb0dzN0JqVnlNX2tMM2pmZ2M4WTl4UDY0bUc1czU1TXBDbk1xZWdFQkZMeUdSNkpvRkNGMXphRjlsbXRNQXB6NzA4TjNpR01HNnE3VEh1R1E0Q1ozNDFVTjRvSl9ER1Nqbl95ZU9pR2VndTYzbHNGN0o4c3lkM1U",
+      "topics": ["AI copyright", "personality rights", "policy"]
+    },
+    {
+      "title": "Saudi Arabia's New Copyright Regulations: What AI Companies Should Know",
+      "summary": "Saudi Arabia has introduced new copyright regulations with specific implications for AI companies operating in or training models on content connected to the kingdom.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX3lWYTc4bndRTEtKN2FZdkI2SkpkUFdKaG1WZkYxS2VrSURxOWdXWm0waTFmVDMybldnRmdacGRoN2xFVk15RHhLSEtKR2NOTWZVb2FQaEtwZEs1VmM4TU4yZW5HWUhNWkpwdGxUQVpaU2h2ME45Q2tZbHkwMDlsdmwxY3d0WGdPWlZpTnpqZnZjel9YUDFvaW1wd3djb1cz",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Creator rights must not be erased by GenAI",
+      "summary": "A commentary piece argues that creator rights are at serious risk of being eroded by generative AI developments and calls on policymakers to act to preserve protections for human creators.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZdHJpNkRyNmtjTHZmcm8zcDJHZTMzTll2TlBxVExNcnk5TnBXa3l3X3lQZDVPTFgtQ3p1ME9jM1EzQWpSTmN4Q2JPQVJteml2MTZhQXFzT3Rkei1CTlBGU04zdlZlR1k1Z0ppaUl1b3FkYk5GanNwemM2eVBBZw",
+      "topics": ["AI copyright", "policy", "creator rights"]
+    },
+    {
+      "title": "Guest Post — Peer Review Triage: Deciding What's Worth Saving",
+      "summary": "The Scholarly Kitchen examines proposals for overhauling academic peer review, considering which elements of the current system merit preservation in an era of growing AI-assisted publishing.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/15/guest-post-peer-review-triage-deciding-whats-worth-saving/",
+      "topics": ["academic publishing", "AI tools", "peer review"]
+    }
+  ]
+}
