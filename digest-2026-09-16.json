@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+      "summary": "Anthropic co-founder has told the BBC that a mandatory AI kill switch may be necessary as AI systems become more powerful. The comments reflect growing concern within leading AI labs about the need for enforceable safety mechanisms. The story highlights the tension between rapid AI deployment and the governance frameworks needed to manage existential risk.",
+      "url": "https://www.bbc.com/news/articles/cqgk5e2j0gg8o",
+      "topics": ["AI safety", "AI governance", "Anthropic"]
+    },
+    {
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "summary": "Google DeepMind has announced Gemini 3.8 Live and a new Extended Thinking variant, expanding the capabilities of its real-time multimodal AI model. The Extended Thinking version is designed to tackle more complex reasoning tasks. The release marks a significant update to Google's flagship model lineup.",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "topics": ["large language models", "generative AI", "Google"]
+    },
+    {
+      "title": "AI models need more data about biology, and OpenAI is paying to create it",
+      "summary": "OpenAI is funding the creation of new biological datasets to improve the performance of AI models in life sciences applications. The initiative reflects a broader push to expand the diversity and quality of training data beyond text and images. The effort raises both scientific and ethical questions about AI's role in biological research.",
+      "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+      "topics": ["OpenAI", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Roundtables: Could AI really kill us all? [Metered]",
+      "summary": "MIT Technology Review convened a roundtable discussion examining the credibility of AI extinction risk, bringing together researchers and commentators with differing views. The piece explores the scientific basis — or lack thereof — behind doomsday scenarios, and how seriously policymakers and the public should take such warnings. It provides a rigorous, multi-perspective look at one of the most contested questions in AI safety.",
+      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "topics": ["AI safety", "AI ethics", "generative AI"]
+    },
+    {
+      "title": "What's at stake in AI's trillion-dollar gamble [Metered]",
+      "summary": "MIT Technology Review examines the massive capital investment flowing into AI infrastructure and the risks of an investment bubble, with spending on data centres and compute reaching unprecedented levels. The piece questions whether projected returns justify the scale of expenditure and what the consequences of a downturn could be. It offers a sober assessment of the financial dynamics underpinning the AI boom.",
+      "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Claudeforce signals sweeping changes ahead for enterprise software",
+      "summary": "Reports suggest Anthropic's Claudeforce initiative is poised to significantly reshape enterprise software markets, with AI agents taking on broader roles in business workflows.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTXdVeXp1eHlEZEZ4RWExeTF4NmxIbXo5enE0LWpyX1UyckxpZnNlczN6S1RHYXZ0U05mT01naEpiNmdoM25iVHpQOUI3LVpWeE56ZmpJaUFscGNKemQxdWE0RGdVckFNUWlBMlV2bVZtMkI1Sl9DTGtiVjY5MlVzU3piWHRjYUl5dE84YTVIMjVKREhLRjZUcnhTMVRoSjU3allJMEtuMEo1bE0",
+      "topics": ["Anthropic", "AI industry", "generative AI"]
+    },
+    {
+      "title": "There's a 100% Chance AI Agents Are Ruining the Internet",
+      "summary": "404 Media reports on the growing damage caused by AI agents autonomously scraping, spamming, and degrading online services, with evidence that the problem is already systemic.",
+      "url": "https://www.404media.co/theres-a-100-chance-ai-agents-are-already-ruining-the-internet/",
+      "topics": ["AI ethics", "generative AI", "technology ethics"]
+    },
+    {
+      "title": "Amazon.com Services, LLC vs. Perplexity AI, INC., No. 26-1444 (9th Cir. 2026)",
+      "summary": "The Ninth Circuit has issued a ruling in a case between Amazon and Perplexity AI, a significant legal development touching on AI search and intellectual property.",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+      "topics": ["legal", "AI search", "copyright"]
+    },
+    {
+      "title": "Nationwide Survey: Businesses Are Using AI Faster Than They Are Managing Its Risks",
+      "summary": "A new survey finds that enterprise AI adoption is outpacing risk management practices, with many organisations deploying AI tools before governance frameworks are in place.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNREJfZzlJZGVBTDhjM25xMVIyVGtlNnV2dHA2cnJFMGphUGpBbXVubUd5dnZwZHU4c3pubFZHbXJ2U2pMdGN6SVdybE8wMTdETk1KV0NaN0dNVWttYk1YWWd3U2V5UlFTaTM0WUl2VlVyeUY1eXdwcm82SkRWVEJjVGdhQUp4Z1E2ZG56M1BIVlozcFRHdEVXaWdra1pDMDJXdGpkd3dqeUpzYkpsLS1Z",
+      "topics": ["AI governance", "AI ethics", "business"]
+    },
+    {
+      "title": "AI and data centers are incredibly unpopular in every poll",
+      "summary": "The Verge reports that public polling consistently shows strong opposition to AI and data centre expansion, with concerns spanning energy use, local impact, and broader distrust of the technology.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "topics": ["AI infrastructure", "generative AI", "technology ethics"]
+    },
+    {
+      "title": "New York Seizes a Dozen Celebrity Deepfake Websites [Metered]",
+      "summary": "New York authorities have shut down multiple websites generating non-consensual celebrity deepfakes, marking one of the most significant state-level enforcement actions against AI-generated synthetic media.",
+      "url": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/",
+      "topics": ["AI ethics", "legal", "generative AI"]
+    },
+    {
+      "title": "AI 'Actor' Tilly Norwood Told Me That 'All Lives Matter' [Metered]",
+      "summary": "Wired investigates an AI-generated virtual actor whose responses included the phrase 'All Lives Matter', raising questions about bias, content moderation, and accountability in AI-powered synthetic media.",
+      "url": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
+      "topics": ["AI ethics", "bias", "content policy"]
+    },
+    {
+      "title": "McKinsey Technology Trends Outlook 2026",
+      "summary": "McKinsey's annual technology trends report highlights AI as the dominant force reshaping industries in 2026, with generative AI and AI agents identified as the most strategically significant developments for business leaders.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS0wzb1RmNmZPeVB4QjdSZTVmcmxMVUwyT2pSYVliQVQwZ25mUFpoWlFXdGFpWnNJLVdmMncwc0twU2pxSmplU2k0WGFuRWlIT1BFQ1FzWVlCbWc2MWpzamF0LU51NVBSNURBeWhUN0VxYlA1VjMzUk16eHlBQlJ2R3F2TXAzaW9SczJId2hn",
+      "topics": ["AI industry", "generative AI", "business"]
+    },
+    {
+      "title": "AI is breaking our proxies for expertise",
+      "summary": "A commentary piece argues that AI is undermining the traditional signals society uses to identify expertise — such as credentials and writing quality — with significant implications for trust, hiring, and knowledge work.",
+      "url": "https://www.seangoedecke.com/ai-is-breaking-our-proxies-for-expertise/",
+      "topics": ["AI ethics", "generative AI", "technology ethics"]
+    },
+    {
+      "title": "Heart of the Matter: How a Major Children's Hospital Uses Open Source NVIDIA AI for Cardiac Care",
+      "summary": "NVIDIA details how a leading children's hospital has deployed open-source AI tools for cardiac diagnostics, demonstrating real-world clinical applications of AI in paediatric medicine.",
+      "url": "https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/",
+      "topics": ["AI industry", "generative AI", "large language models"]
+    }
+  ],
+  "ethan_mollick": null
+}
