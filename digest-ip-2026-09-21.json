@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Court Filing Shows Microsoft Exec Called AI Training the 'Largest Labor Theft in Human History'",
+      "summary": "Newly unsealed court documents filed in the New York Times lawsuit against OpenAI and Microsoft reveal that a Microsoft executive internally described AI training on web content as the 'largest theft of labor in human history.' The documents also show OpenAI leadership characterised ChatGPT as an 'existential threat' to publishers. The filings are being used by media plaintiffs to argue that the companies were aware of the copyright implications of their training practices.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPczl0VnY2cnF1UGNmRUROYksyOGpjR3dCVGs2MFYyZGlQNVM4bzJvUS0zVGc1MXNPY25EUUttN0pOaXZtSWs5SHcxOVdwbEZWVVZMeUllc2ZuVW5VWWdMakd1Skd5QkRZOS1qSkdubksyb3BjNkdtVXNNWFJkaDRfcmlYU1NJcVk1djVBT09TSkN4cWxmZDdPeU5WZkdoV25TMXZGQ0xpcjdjSlRvSFpWeHFXODlENFEyTWNkTkpUYnI4ZDJrQWd3?oc=5",
+      "topics": ["AI copyright", "litigation", "news publishing"]
+    },
+    {
+      "title": "Sony Music and Universal Music Sue Suno Again Over Its New V6 Model",
+      "summary": "Sony Music and Universal Music have filed a new lawsuit against AI music generator Suno, targeting its newly released V6 model and expanding their earlier copyright infringement claims to cover approximately 60,000 songs. The labels describe the new model as 'fruit of the same poisoned tree' as Suno's earlier systems, which they allege were trained on copyrighted recordings without authorisation.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUTEtWWloTlYxTmk1R3NBdGxJTVNLaU9TeXBsS1ZhRlZYdldCQWszQm9fcUxDYzVxQXdiVU1TU25iMlZCa2FPT2dielF3THFPT2pLYk5FQkNaQndid0VYYkRyREpiWC1HajhkamJ3bWRHRmJJMEY5NmpMQVYwTF9SdEhaa3QtZEdXU2d1bGtvWmJOakxJZ0ktSzJIdw?oc=5",
+      "topics": ["AI copyright", "music licensing", "litigation"]
+    },
+    {
+      "title": "GitHub and OpenAI Win Ninth Circuit Appeal Over $9bn Copilot Code Claim",
+      "summary": "The Ninth Circuit Court of Appeals has ruled in favour of GitHub and OpenAI, dismissing a $9 billion copyright and DMCA claim brought by software developers over the Copilot AI coding tool. The court found that the plaintiffs failed to establish the necessary elements of their DMCA claims related to AI training on open-source code.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUjRpUTVqcVc4NnNNSmFKalFWenFnY2cxYlpHLVRyblU1ejM0cE9XMWc0R0VxZlFLdUN5OEVMWk9QSVgyM3pCRWdTQXZjUzMxeEFpRnN0TF9fRWNIclg3M0VYQWppMDhURTgybGd4bGhlenllcy12LXYyekthYmhuX3VPUnl0S2JUSTN4bEpESmVOZw?oc=5",
+      "topics": ["AI copyright", "litigation", "software"]
+    },
+    {
+      "title": "Universal Music Takes Aim at DistroKid Over Distribution of AI-Created Works",
+      "summary": "Universal Music Group has moved against music distribution platform DistroKid over its facilitation of AI-generated recordings, raising copyright concerns about the distribution infrastructure enabling AI music to reach streaming platforms. The action signals that major labels are broadening their legal strategy beyond AI developers to target the distribution chain.",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeVpPeGczeW9xNzNvTE52c1YwazI1dFl5LUs0ZTE3cU5SNTFGZ2QxTUptLXFmeWVfdE5lT3hjWURza0tFQnhvQkI2NDVIVVJpSGlRWDU1Vk43N1VwUE13TEw2RjdvTTRxcFJYa3lVX3Z1dWdFQmdRRzdlZWtLM01ORExteFlWdWlPRmpxQm1IRlBONXdEZkRIbUdHM2FBa0t2MkoxOTBLNjl6Q3o4ZVRjV3EyZHpwN3pyMDg3VWRoXzVqa1A5dE1jM0RFNVJfUkp2QS1ZTjJid2Jud2ZKUmRyX0twRWtXell3MDQ2R0NOcjA?oc=5",
+      "topics": ["AI copyright", "music licensing", "litigation"]
+    },
+    {
+      "title": "Turnbull Warns Australia 'Deluding' Itself on AI Copyright Protection",
+      "summary": "Former Australian Prime Minister Malcolm Turnbull has warned that Australia is 'deluding' itself if it believes existing copyright frameworks adequately protect creators from AI training on their works. Turnbull's comments add political weight to growing pressure on the Australian government to address gaps in copyright law as AI development accelerates.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeWUybm52Ym4tQXJ6dVEwalpLWXphSTR6Rks1bm1TY3JvQUkzSzVXbDNpbTR3bGxUR3JoWUU0YVQ2VlFUdUNRMW9FUFJvdFZzNXl5c0piT3VKMU1OZGJLUGlpaUZfbVVtNE9PQ0VILXgzTVZnM0tPVUl5YURMSnB4bkstbnRzdUlzb0cxdno1aVN6Mm5EbkVKSFZFS2JTUkJpTDFnU3RNTndpVEdFYWRtRkhLcWw?oc=5",
+      "topics": ["AI copyright", "policy", "book publishing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "OpenAI and Microsoft Quotes on AI Threaten News Copyright Defence, Media Outlets Argue",
+      "summary": "Media plaintiffs in the NYT v. OpenAI case are arguing that internal statements by Microsoft and OpenAI executives acknowledging AI's threat to journalism undermine the companies' fair use defence.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUEllOEUxTkl1RkpVa1ZSNTdoZ3NvRE9wbTc2TG55dDhlNV80bnpqb1FJMERSanh0Ny10WUttaEVEajZQaWlVX1ppaUhEVkxhU2EtNktNQ09CMmJmdWc0aUY2Q0xQeTVLYmhEcFlhNm50ODMxMFNzZFJObXlJaW8xUXFSUk5sM2ZLenJoRnhKclFvT1hWYno4bGZISUd0NFk1ZVZ1R1FuSkpjUnZWSzE3andkdF85OEpObjlHelZ1QUtJWGNTVkHSAcIBQVVfeXFMT1MxdUZrUk8zMFZZRV9yOWc4NmNTeVZ3ZDFJY0UzTXMyYTg4NzExSGRHU09HaWtBc25sLUlKcUstUVVHMHRuSldncVJYWl9hQ0xON0lMRkd2d3p1SkY2eUZLeTFzRjhzdzBka003Q05hbk5rOFVaTVVqVzRvbEhOZmtjTWFMb2JkSEYwdllubjMtekQtQjFBX2xqUUt4eTVCV0NXXzBqYlJtTjdqczFhdVJncC1UY3ZyRG5uQkk4X0FPSGc?oc=5",
+      "topics": ["AI copyright", "litigation", "news publishing"]
+    },
+    {
+      "title": "Doe v. Github: The Ninth Circuit Saves AI Training in DMCA Case",
+      "summary": "A legal analysis of the Ninth Circuit's ruling in the GitHub Copilot DMCA case, examining what the decision means for the legality of AI training on publicly available code and its broader implications for AI copyright law.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVXc3alZoSzBrQV9KYWlabFY2b1VxZkg4MFZiU3JHZ29ZTmNOMzJpZS1kVENYVGFjdFFmeGo0MldVU1liMXJQS3pkaXd3c2NjQmF0Z0xrN012V1BLY1BCYmFQZUNyR0VkZEZBYVJTaUY4bkt6ZndzY2Qxb2hTcDdkd3liZ3dNb3Z3b3ZqeGRjNmhiNngxbXc?oc=5",
+      "topics": ["AI copyright", "litigation", "software"]
+    },
+    {
+      "title": "AI 'Brainrot' Fight Tests Copyright, TM Reach of Viral Memes",
+      "summary": "A legal analysis of how AI-generated 'brainrot' content is pushing the boundaries of copyright and trademark law as rights holders attempt to assert claims over viral meme formats and AI-remixed content.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNXltaFUwRDJFMXZVRmhadHZTVkVJWTB5UmNkNFlKWl9xNE5xWlVsU2loNkhucHA0NXJXSXVuaUdPTFM0RXdPX1M5ZV91aW0tcHZUcXZ2T2J3c0FSbE1PVkhUV1ZEV1B2SmxOckkzNk1mcDhhb2JuNU0xXzNGVFQzQVJsS2Q3LTFuNXI1VkJjYUN4TWFYTnFDSF9ubURsQdIBVkFVX3lxTE5jMUp2MklqOWpTSlNKeW12RW8wRTJ5d0Nobk1aZlRjemVfQm1uaFNmZmhmRWx1ZzR3SDl6WEtMamc3c0c1TkloeGh4VjFMYWhnOE50YzRB?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "From Copyright and Privacy to Agents, AI Governance Is Racing to Keep Up",
+      "summary": "A broad overview of how policymakers and legal frameworks across multiple jurisdictions are struggling to keep pace with rapid AI development across copyright, privacy, and autonomous agent governance.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUGpHVGpiTG5PcUFCWV9zVWZDNWNFel9MN1VsLTdMYklRbG5PX2FjY0Z1c1JNTmZ5aXdUNkN4bEM0Y1B1V2phZDRTc2VtSTN3d2FNQm5abzlRQ3VEM3N3MWMtVDN4VE1aZ1pFbTdpLS1fRk02bzduRnk1c1dydEtLdFhsbDRycmlhVVZ1cC1mVlF5WW1BOTFnemU2SUhpeXo0VDFOUDFR?oc=5",
+      "topics": ["AI copyright", "policy", "eu law"]
+    },
+    {
+      "title": "EU Accepts Current Law Can't Meet AI Challenge",
+      "summary": "The Law Society of Ireland reports that the EU has acknowledged existing legal frameworks are insufficient to address the intellectual property and liability challenges posed by AI systems.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iMV9IQUhubUo3VmZiSDY3MC0xaVJQdjN1ay1hdG1yVEN5NEJ2Qk9oSUNQY2lJWEh4NURyWFBleWdCVm52aFNGVDI4VEhqYUU3b3ZFQk16NC0tRzQzRUlWNzVCUWdoTW4tbnEzNzViV1d0cTlCUXlr?oc=5",
+      "topics": ["eu law", "AI copyright", "policy"]
+    },
+    {
+      "title": "New Filing Shows OpenAI and Microsoft Debated AI Threats to the Web",
+      "summary": "Newly unsealed court filings in the NYT lawsuit reveal internal debates at OpenAI and Microsoft about the potential harms their AI systems posed to the open web and content ecosystem.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU20tbVlTeWZUVEJXaVRtX1JNMzRHWXpMR1pGV3M1LVZHZF84NThJLTliWmhwWkRpWF9BWEhTYmVlRmNTY1ZnU25KaGY1Qm1BSTk3SkRjSEtVMTZ0M2F2RkRJYUthSWc5NFBXTlI0WXA4YTN6bkNPeHpOcTg1M2ZyR2g2eG42ZXNQ?oc=5",
+      "topics": ["AI copyright", "litigation", "news publishing"]
+    },
+    {
+      "title": "How OpenAI's Copyright Battle with The New York Times Reached a New Stage",
+      "summary": "An overview of the latest developments in the NYT v. OpenAI litigation, including what the newly unsealed filings mean for the trajectory of the case.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMzFFQkFGeC1pVGtlbUh6TG9iYjliZVQtandyZ3hSZnlpZnFhd05iaVlXRi1UV3pnd1JzODk3ejNaMUFTWUdpbERWLW5xWmhURHZGM3ZvaFZDdjg5Uzd4LXgxV2dlNDUzUE9nZi10c0VEd0hBYTY2OXNnUENFeTcxanNuZjQ3S3ExN3hrS2Y5Tm8tbVdzemdLSjdwUE9nOVJjN3hZSDlYMXJ6OXQwWnNGUjBaV0pkSGNKU0s4ZmlFQ2RsYkFsSkQyRUxR0gHPAUFVX3lxTE8tby1DOGdXUVFUZWl2d3pfNTRxOTlhWElaQlN4S3k1b1RlS1dIOGlzdzgyZjFLT1UwNWxaekpZc3pzcGx3WDAxeGowQ2l0eG9HeWtHa0N5MkpFaFRkWUplM21zemFhTFNGdGM4M0R0UUtmX1BhVFQ4TTRZUmJ1Mi1lRGdiZTdzNDFEVk5tMEJvd1pOSWg5LUtzT3k4RHJvOTZuaHVhU2xwN2hIQTJLVjdjOEdhUDhPTl9GXzdWLUxmQnNwYlUtNTMtT3BBdUhRRQ?oc=5",
+      "topics": ["AI copyright", "litigation", "news publishing"]
+    },
+    {
+      "title": "Frankfurt Book Fair 2026: Redrawing the Map [Metered]",
+      "summary": "Publishers Weekly previews the 2026 Frankfurt Book Fair, examining how shifts in global publishing, including AI-related rights and licensing discussions, are reshaping the event's agenda.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/trade-shows-events/article/101278-frankfurt-book-fair-2026-redrawing-the-map.html",
+      "topics": ["book publishing", "licensing"]
+    },
+    {
+      "title": "Microsoft and OpenAI Raised Concerns Over AI Training Data in Newly Unsealed Court Documents",
+      "summary": "Newly unsealed documents in the NYT v. OpenAI case show that both Microsoft and OpenAI internally raised concerns about the legal and ethical implications of using web-scraped data for AI training.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONWFIN0JYR0pabEhDUmFCM2RHblloV0dMZG9YX250bFlEdUFPMGp1VE9zXzVjdjJqUjdOUHNHZTFIdXZGMVA5NFFPUHhIQ3VPWXJwV1JfRUdsb2d6ZC1adkFuR3pEVEVDOXh0Yi1lUndnZm9ZV2R5SXczTmFwamxQQ2xBRy1JUFZDaDllbEhDVnRXNmIxNUdIRHd6QmxSd0h5SDRheWY0ckNJSGFyV2NwRGo5ZjR6YTA?oc=5",
+      "topics": ["AI copyright", "litigation", "news publishing"]
+    },
+    {
+      "title": "Exclusive: PM's AI Office Has Fewer Than 10 Staff",
+      "summary": "A report revealing that the UK Prime Minister's AI office is operating with fewer than 10 members of staff, raising questions about the government's capacity to develop and enforce AI policy.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVG5pcVpydTBQcTloU0YzSDlVM1U4N3VuUVFxQTFHaWNVSDRQT1dDdjBVdGNVUzRQbmotemJMQmVmQWV3VUl4a0hLWi1qUUdMcDNDZjFhZEZpYU45QVMwUG1GZVFSR2F3QWEzUGRCOC1Fb2c1UFRiLURTdUN2NGp5TDRQYlNObEVOZzZFSUhNWW5SUU9FVnp6NVk1cU1yMGlJLWVwaVlMWjE?oc=5",
+      "topics": ["policy", "AI copyright"]
+    }
+  ]
+}
