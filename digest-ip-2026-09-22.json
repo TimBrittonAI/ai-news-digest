@@ -1,0 +1,78 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Unsealed Files Show OpenAI/Microsoft Knew Copying Was Illegal and Could Hurt Authors [Metered]",
+      "summary": "Newly unsealed court documents in the New York Times lawsuit against OpenAI and Microsoft reveal that executives at both companies were aware that scraping copyrighted content for AI training was potentially illegal and harmful to authors. A Microsoft executive reportedly described AI training as the 'largest theft of labour in history'. The documents provide significant evidence of internal awareness of copyright infringement risks.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101300-unsealed-files-show-open-ai-microsoft-knew-copying-was-illegal-and-could-hurt-authors.html",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "Publishers Accuse OpenAI and Microsoft of 'Unprecedented' Copyright Infringement",
+      "summary": "Publishers have filed accusations against OpenAI and Microsoft, characterising their use of copyrighted content for AI training as 'unprecedented' copyright infringement. The case adds to the growing body of litigation targeting AI companies over their training data practices.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE83dk5BNktoX2F3ZmU1YjhLTmlXa3BmS0RhS1Myd3NfV2h4UWlVZW9pMkdPb3dfWV9rYVUwRW5EeExUcXRONjViMHNCbk1aVmNpVTZqQ1BuZWd5Vm1mbllRRl9NVWFpUklKUzZ2azFjay1ERk9uSlE?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "UMG and Sony Hit Suno With New Copyright Lawsuit Over V6 Model",
+      "summary": "Universal Music Group and Sony Music have filed a new copyright lawsuit against AI music generator Suno, targeting its newly launched V6 model. The labels allege the new model was trained on copyrighted recordings, characterising it as 'fruit of the same poisoned tree', and have expanded their claim to cover some 60,000 songs.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOENpelhHd1JhT1BwU1dwX29vcHg5RURtN1Z3REgtcXp2aGlETktRVFVyNGJIU0dkaHNreU96U2thNEFReXpFbFp5OHZOT2FIdEZTcG9FSzJpNU5qanJUWHhTc2kyOTRCRjFwRndwd0xzSWQyOXFSSUdXeUJuUnRxaHVn?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "A Step Further in Collective Licensing for AI Training in the UAE",
+      "summary": "The UAE is developing a collective licensing framework for AI training, representing a significant step toward structured rights management for generative AI. The move signals growing international interest in licensing-based solutions as an alternative to litigation-driven approaches.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU2VuRkttSFYtWlpwOEhJZjNoZzVJaXhlVmcycVZhZmFMYnA3V0hXYnBmVWxwVE00QmtwZW5NTjViUUwwMGlrSVlONDhPQzhFbG1HQ3NoMmNsamkwdFUwWm02UHRSVjdfM2tEYTJJVEdocDhnNjBpdTR3MlBPV1hVVmRfZ3JxOTJGZnpseDBBUWJoLW5vSkU0cUU2NVk0anp3Y1RDUElVeWVMcl92b0pHanlUdw?oc=5",
+      "topics": ["licensing", "AI copyright"]
+    },
+    {
+      "title": "Coders Lose Their DMCA Case Against GitHub Copilot and Codex",
+      "summary": "A court has ruled against a group of software developers who brought a DMCA-based case against GitHub Copilot and OpenAI's Codex, alleging that the AI coding tools unlawfully reproduced copyrighted code. The ruling is a notable setback for plaintiffs seeking to use existing copyright law to challenge AI training on code repositories.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMmpnb1VKZGZGOTlDcDNBMmhkR2xtbWxPZVlmY3NabG4xNHBFTVNTNWZqdWlZRzRMcEJsZ1RXU2RIVWt6WVpJeUtXQ2lCNFRSVWJXRFhtQ3pBWjNkM0NIb18zb3ZBNWFkSTZsdEs1UmEzc19ISGVJQjNDN0dISmdUTEdvLXk?oc=5",
+      "topics": ["AI copyright", "litigation", "software"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "David Boies Says AI Will Force New Outlook on Fair Use Doctrine",
+      "summary": "High-profile attorney David Boies argues that the scale of AI training on copyrighted works will compel courts and legislators to fundamentally reconsider the boundaries of fair use doctrine.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUXVtZXVtTDJPZ0txd3k5SndaXzQydzJXVVVSalROQ182N3F0YmpJVzNRVmZnNEJ4R1F2SHRiNzRBZllnTk00aWRZV2pGYnFnT0FwbmREZEE0cWVHVE53WXZNb0RncXBQWmNsclhxMjFBREZhbG5SLUJwaHBwd1dtdVJtU1FQSHFJbUV0LS1XUHRqVmh1am8zZnYwOGhfYjZnLTR6SFhxd3FDcTNYbGF0RXhobnNlQQ?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "An Opt-Out System for AI Companies to Access Creative Works Doesn't Gel With Australia's Copyright Laws",
+      "summary": "Legal analysis finds that a proposed opt-out model for AI companies to use creative works for training would be incompatible with Australia's existing copyright framework.",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWUt1akhpMnIwblczckFVSFE3RUdqbWlVbll6VHRBSUlDOTVOLXhZNkJ6WDJKRXNKLXlKT1ZmMTdCQUEwX2JoS3lPdmtUalhxRm9UWFdya2drWFNabERDQ2VEcTFiMlNpN0ZDWjdxZzI4Z3R3QzBxa1cycXprNWFmS3EzdFRCZHR2WVVPN1lnZ1p0UFFZSmlzVmRoSVFVX29VX194Q01oVEJHMGNFSV9jQndwdkZhUlBrVnQwMm9kZ21JdWRoZHk2NDRTSjRqYl9CZk8xZUVodV9HLXVvaXBxN1pUM2FLR2s?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "AI 'Brainrot' Fight Tests Copyright and Trademark Reach of Viral Memes",
+      "summary": "Emerging legal disputes over AI-generated viral content are testing the limits of copyright and trademark law as applied to internet memes and derivative works.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYXlPc01IdTlFUHB2WjZEVjJ3OWpmTGdJR0l6Ym91REVWUmJCVUozellZMHFBbmZmTUZoNDFwWnNUOVdWeXkyOHVPaVhqZUp5SzhsdXF0YnBtNW8wd2QyWUxqenkyWUVuYkJCTXRMT1dQOGtJOV9tZXo4OHd0T1R5cTBuM2RlY0tYRTY4UHZNSGR0SWtoSFF4Q1pKdzJnQzRNdTQ0ejdXclR0UEhS?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Forum to Tackle Copyright Rules for AI-Assisted Music",
+      "summary": "An industry forum is convening to address the unresolved copyright questions surrounding AI-assisted music creation and training on musical works.",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45U0FUeWRPOTdLSVZBcFRTQktDclNDeWpUeEY1d1J2RnN2TFkyNlNIZktXbkp0OHZXTE93aHJaWXZOVHhKTU1kVU1OYmZENHdMM1JBY25UUQ?oc=5",
+      "topics": ["AI copyright", "licensing"]
+    },
+    {
+      "title": "When AI Becomes a Legal Liability: Emerging Risks to Trade Secrets, Privilege, and Confidentiality",
+      "summary": "Analysis of how enterprise use of AI tools is creating new legal exposure around trade secret protection, legal professional privilege, and confidentiality obligations.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORWZhWjJKOXdTcEI0MXR3bHZTZVB0aVZFOEJYNTR2bENmMDdvWWR0dnZ1SDNMR2V2T1lrcS1qUHpxWGpqR3hJWTkwTV9XT1RFaXVxX1J3c0hIQTBySWFuR0FTeU9Mc3Rvc3VfMC1YTU9xV3hVZjdJRFJYYTR0NnVxRlNRbXZmSEI4Wkdhd1FJaG5KbEFPQUluNXdCbTFENUI3N2l5eUx2VjVfNFJxS2thU280dW45eDlnbklRLTZuUzZwS1RQWUc1UkI5SnpubTZwemxldmVEaw?oc=5",
+      "topics": ["AI copyright", "legal services"]
+    },
+    {
+      "title": "DOJ Takes On Major Legal Fights Over Gun Rights, AI Copyright and Election Crimes",
+      "summary": "The US Department of Justice has identified AI copyright as one of several major legal battlegrounds it is actively engaged with, signalling increased federal attention to the issue.",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNNUk5SjRhcHFzeEhDMGlSbHJTd1RHQ0VKVWVqVGZ1Ujh1eVo5UElJSXgyeDV2dTB2Nk82VzdINlVRVDJ5cWdXQTktWGN3SEJvU2ZYV1ctSGRVT2FNWXhtNGZKWG9zRG5UU25xYWZrZmdZTmNaZnZrSzlPUHBNZl9rUkdCemw3Z0dKWHZBaUhuOGU5cEVPSUxkSjlFcU9xYktPd3JaNTRCTlQxWnFLTm9wcUdURWNBVnlTQk91U3lJcU00bEQxV1VGTzlNdFhSRHU2NXJPRjlGNThkNXhaUi11bXMwYkdOYWg5U3JWVWZIdFo3aGhoSEpwSGRjM3Eya1E0OHJfQXRONXVoRWxyVURFR2l2SXBucWJlbThMNWNlSWlmNEplN25UWWIwUnRUV3g0aHhnM0ZkdjBzSlhtcktmUkQ5R0RHOXA3?oc=5",
+      "topics": ["AI copyright", "policy", "litigation"]
+    },
+    {
+      "title": "Microsoft and OpenAI Raised Concerns Over AI Training Data in Newly Unsealed Court Documents",
+      "summary": "Newly unsealed documents in the NYT litigation show that both Microsoft and OpenAI internally flagged concerns about the legality and scale of their AI training data practices.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWEg0OXpnY291UVVNZUJsbUNTMmQwbDVta2hTVzRYdXlwVTgyNGU5NzdYX1lpMmxLbHcyN3hxUDlNdjBycllJWm9uWVlkc3NOdlN5eEl1UTZ3VlNkMmRQYUpvSnFJa2l4cmVVZGtNOTRWdGZqb1Q3YllDZnhsSW5CTWdFdC0ydHdtZDRuSWNMTGN5ckpLZElCNUJQVlI3TGNSS3JLRVlrUUVveXdueTlMZGExRkVnRGM?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    }
+  ]
+}
