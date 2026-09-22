@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "summary": "Ars Technica reports that Meta's Muse AI assistant, which has broad access to user data and system functions, contains a serious zero-day vulnerability. The flaw raises significant concerns about the security risks of highly privileged AI agents operating with deep system access. The story comes alongside reports that Amazon has moved to block Muse from shopping on Amazon.com.",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "topics": ["AI safety", "AI personal assistant", "technology ethics"]
+    },
+    {
+      "title": "OpenAI launches Advisory Group on Mathematics and Artificial Intelligence",
+      "summary": "OpenAI has announced a new advisory group focused on mathematics and AI, signalling a strategic emphasis on mathematical reasoning as a frontier for AI capability. The group is intended to help guide research and standards in this domain. The announcement reflects broader industry interest in AI's ability to perform rigorous formal reasoning.",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "topics": ["OpenAI", "AI research", "large language models"]
+    },
+    {
+      "title": "OpenAI: Building standards for the next phase of AI",
+      "summary": "OpenAI has published a post outlining its approach to building standards for the next phase of AI development, addressing safety, governance, and deployment norms. The piece signals OpenAI's intent to play an active role in shaping industry-wide frameworks. It comes amid growing regulatory and public scrutiny of frontier AI systems.",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "topics": ["OpenAI", "AI safety", "AI governance"]
+    },
+    {
+      "title": "xAI launches Grok 4.7 for coding and knowledge work",
+      "summary": "xAI has released Grok 4.7, a new model version focused on coding and knowledge work, positioning it as a competitor to models from Anthropic and OpenAI. The release maintains existing pricing, according to reports. It follows recent competitive launches across the frontier model landscape.",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBqb2x1bzQ3UkxTVDFCUVRjODMzbDJ5YTg3Nmh5Q2luZGdUTmctZmo1Ukp4c3RVdUhfSGZFc1p5SQ?oc=5",
+      "topics": ["generative AI", "large language models", "AI coding tools"]
+    },
+    {
+      "title": "AI chatbots give wrong answers to financial queries 'most of the time' [Paywalled]",
+      "summary": "The Financial Times reports that AI chatbots frequently provide incorrect responses to financial queries, raising serious concerns about their reliability for consumer financial decision-making. The finding points to persistent accuracy limitations in generative AI systems when applied to high-stakes domains. The story has implications for both AI ethics and the future of AI in financial services.",
+      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+      "topics": ["generative AI", "AI ethics", "chatbots"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Amazon blocks Meta's Muse AI agent from shopping on Amazon.com",
+      "summary": "Amazon has blocked Meta's Muse AI agent from conducting purchases on its platform, in a significant move that highlights emerging tensions between AI agents and e-commerce gatekeepers.",
+      "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "topics": ["AI personal assistant", "e-commerce", "AI industry"]
+    },
+    {
+      "title": "UN says AI safeguards can't wait for certainty",
+      "summary": "A UN AI panel, including representatives from Hugging Face, has argued that precautionary AI safety measures must be implemented now rather than waiting for scientific consensus on risks.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+      "topics": ["AI safety", "AI governance", "AI regulation"]
+    },
+    {
+      "title": "California tightens rules on AI data center energy and water use",
+      "summary": "California has passed new legislation imposing stricter requirements on AI data centres regarding energy consumption and water use, reflecting growing concern about the environmental footprint of AI infrastructure.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+      "topics": ["AI infrastructure", "AI regulation", "AI compute"]
+    },
+    {
+      "title": "US and China Discuss Alerting Each Other to AI National Security Threats [Metered]",
+      "summary": "Wired reports that the US and China are engaged in discussions about establishing a channel to alert one another to AI-related national security threats, a potential step toward bilateral AI risk management.",
+      "url": "https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats/",
+      "topics": ["AI safety", "AI governance", "AI industry"]
+    },
+    {
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "summary": "OpenAI's blog describes how Higgsfield AI used GPT-6 Astra to rapidly develop and ship new video production features, illustrating accelerating AI-assisted product development cycles.",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "topics": ["generative AI", "AI video", "OpenAI"]
+    },
+    {
+      "title": "How V7 gives AI agents institutional memory",
+      "summary": "OpenAI's blog profiles how V7 is using OpenAI tools to give AI agents persistent institutional memory, enabling more coherent long-term task execution across business workflows.",
+      "url": "https://openai.com/index/v7",
+      "topics": ["AI personal assistant", "generative AI", "OpenAI"]
+    },
+    {
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "summary": "OpenAI has announced expanded learning paths within its OpenAI Academy platform, broadening access to AI education and training resources for developers and organisations.",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "topics": ["OpenAI", "AI industry", "generative AI"]
+    },
+    {
+      "title": "AI, Tariffs, Rare Minerals: What to Expect From Trump's Upcoming Summit With Xi Jinping [Metered]",
+      "summary": "Wired previews the key technology and trade issues — including AI policy, tariffs, and rare mineral supply chains — expected to feature in the upcoming Trump-Xi summit.",
+      "url": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/",
+      "topics": ["AI governance", "AI industry", "AI regulation"]
+    },
+    {
+      "title": "Import AI 473: The US's superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
+      "summary": "Jack Clark's Import AI newsletter covers the US government's emerging superintelligence strategy, novel neuroscience research, and new thinking on how AI systems interpret meaning.",
+      "url": "https://importai.substack.com/p/import-ai-473-the-uss-superintelligence",
+      "topics": ["AI safety", "AI industry", "large language models"]
+    },
+    {
+      "title": "Facebook open-sources Rebalancer, a high-performance library for solving assignment problems",
+      "summary": "Meta's engineering team has open-sourced Rebalancer, a generic high-performance library designed to solve large-scale assignment and resource allocation problems efficiently.",
+      "url": "https://engineering.fb.com/2026/09/21/open-source/open-sourcing-rebalancer-a-generic-high-performance-library-for-solving-assignment-problems/",
+      "topics": ["AI infrastructure", "generative AI", "AI industry"]
+    }
+  ],
+  "ethan_mollick": null
+}
