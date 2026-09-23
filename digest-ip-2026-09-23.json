@@ -1,0 +1,84 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "'Largest theft of labour': What new NYT filings reveal about its case against OpenAI, Microsoft",
+      "summary": "New court filings in The New York Times' lawsuit against OpenAI and Microsoft provide fresh detail on how the companies allegedly scraped news content for AI training. The filings reportedly reveal internal recognition by AI companies of the threat their practices posed to journalism. Multiple documents shed light on the scale and methods of data extraction involved.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaFZsT184YTJ4NWhOSjNUcXhpTGFUMHdGMTloQ255aWhxalRwbVRJSEEwZ0ZPd2pqVkZLT0dKX2xWQ2JaeGlMdlAyc3E4d3Z3UVl6SGJsd0JnQXpxUmdLRDlMNUdzYjQwcExYb1ZkY1FjSjg3andPaGJVeGh6a0dhOTRyM3pWNURFNEFZMm5PR3UtZndnZ1NZd1NhWGUxN3lhYVdjXzRocDV4X3NLdEh2U1VCZ1LSAbsBQVVfeXFMUGwzWFduREFneV9oZWVIY05neXdjZUFiQWo1aTNhdjQ3WXZnbGE5MzA5R1o0RElWNWUwc01vQTJva0pFRDQzdHY0MzMyTlFSTWZYSTVjS0pkR2Jad2JIcDRBZTFpVG84STlSTGVLWTgyeG12VlRBQkFsOUJhZ0MzTXR1XzJLSzQyWW02bTFlUkxIaEVoSGNYSVBCVVAyNVJxZlp5R2dSNmxnYkVsVkx3VzZZempaSXBBdnYzTQ",
+      "topics": ["AI copyright", "litigation", "news publishing"]
+    },
+    {
+      "title": "OpenAI and Anthropic press Australia to soften AI copyright ban",
+      "summary": "OpenAI and Anthropic are lobbying the Australian government to relax proposed restrictions on AI companies using copyrighted material for training. The push comes as Australia considers copyright rules that the companies argue would hinder AI investment and development in the country. Anthropic has separately published its own case for Australian AI investment.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTmVmS3VLa0sxNjVESTlBYXBDLWVoM2tJOXRCaEh5cnMwRzJYdU1kbE9xYU14OXpCcUVmYVUzMFZEb0RkTUZWdHcxMnhlY0FyNHdnSDJTUDRNc1pCcFFCLXR3VTRTOS1TNkNzREtuTWxyVC1BblhUcWZUdmh1b1dKd0hDNDVfYkMwNXVtb3hZby1FR2ZCeUtZUktUSGNfNVdHWTd3M1hmVjVQWnpvRGtqSl82alFsSzBDZ2c",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "An opt-out system for AI companies to access creative works doesn't gel with Australia's copyright laws",
+      "summary": "Analysis argues that an opt-out model for AI training on copyrighted content is incompatible with Australia's existing copyright framework, which does not currently permit such exceptions. The piece examines why industry-proposed opt-out mechanisms would require significant legislative change rather than simple policy adjustment.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON3k2allLUERPNVlHd1Bhd3dVY1BnbFFTRTdUZkROOHlHZnlRX0VHSXZiTFBGU0U5WHhhNlFWOWMtam9ZeVJPQWZlZHZvNTNQbVpUbU1hYlltNjQtSks4OXd4NkhYSThSM19jQllYS0p1STFQeEZ4RnFEX3pGZElXeHJXS0R2YWxZMndjR0VWQjFuNURScU1adzRSd1pWZWhxQjFrY3dOcWhfVVFMTXNfREtjZTM3UzJUU3lpaGFxeUtGdE9uWVNEdU1WdmFHd3hKdXBGRi1Kemtoall6aExxRjlEekU",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "A step further in collective licensing for AI training in the UAE",
+      "summary": "The UAE has taken a further step toward establishing a collective licensing framework for the use of copyrighted works in AI training. The development signals growing momentum in the Gulf region for structured licensing solutions as an alternative to blanket exceptions or opt-out systems.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU2VuRkttSFYtWlpwOEhJZjNoZzVJaXhlVmcycVZhZmFMYnA3V0hXYnBmVWxwVE00QmtwZW5NTjViUUwwMGlrSVlONDhPQzhFbG1HQ3NoMmNsamkwdFUwWm02UHRSVjdfM2tEYTJJVEdocDhnNjBpdTR3MlBPV1hVVmRfZ3JxOTJGZnpseDBBUWJoLW5vSkU0cUU2NVk4anp3Y1RDUElVeWVMcl92b0pHanlUdw",
+      "topics": ["licensing", "AI copyright", "policy"]
+    },
+    {
+      "title": "Court Documents: AI Companies Recognized Their Threat to Journalism",
+      "summary": "Newly surfaced court documents in AI-related litigation show that AI companies internally acknowledged the potential harm their data-scraping practices posed to journalism businesses. The documents add to the evidentiary picture in ongoing copyright cases brought by news publishers against AI developers.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZEdHdnNsemREby1FdnVrbWM4OVlrdVBOOHVWaGVpUkIwak1XRFRZc1FJTFhfZTc0Z2hhTEl3YVhuOVhtMVdjZkRkczZiQUllVjlZYlVWZEE0THZnMlIxcEpSTGE4N3lrMFFLd0FJclVjMS1LYmVLQ1hFcTZxalZGTGllM1c2ZVU5Um5Hc29PTWRNZzlDSlZvbWF6WGtjUmpmSjhZQ1RKWmZwMEVVUHFpRlg5Znljc25STFp4aWxR",
+      "topics": ["AI copyright", "litigation", "news publishing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Mapping the global borderlines of AI-assisted inventions",
+      "summary": "An overview of how different jurisdictions are drawing the legal lines around AI-assisted inventions and patent eligibility across major patent systems.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMk9mVHEtVTZsbExvS1Bhd2x2aDkzRi1CQXYzeWJOWGJiN2c2TjFteV9TaDRtaFJIajR3RlNsY2FvNDBLdU9TTnJQVE9Bd0tTRzcxTnI1Vl93eWZCRndwYm04NWNWRUZhMU9nRFZuRkg0eWMyN1NrU1VwNXRCejdwWGhQdWQ5RTlDUWo0TEV5V0QwYmgwc192WTRDOVBMUGFUS05KUHFGTHDSAbYBQVVfeXFMUEdQYVB4T012aEM4Qm1jR1VQTG5Wc0JLZC1WYjZia09BN3FKMkpPWnVTVjhEQjFaTmk3MUFBM2lYMUZKdDRraENuSTdhcHFnaTE1QVNJemdOekpiRGlRVU52NmpjX2JzVTNUMW9zRDdLS0xabVNrZy1RMzdRQkQ1dWlLaWFfSmFJeTBveUhYN0l6VElaaGJuMDdmbmUxQ0FvVE1FcFlzQ0lEUFl0M0VDZi0zU2NURmc",
+      "topics": ["AI copyright", "patent law", "policy"]
+    },
+    {
+      "title": "Local News Could Lose in The New York Times vs. OpenAI Case",
+      "summary": "Analysis of how a ruling in the NYT v. OpenAI case could set precedents that disproportionately disadvantage local news organisations with fewer resources to pursue similar copyright claims.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOUZfcGloazQ5SFVzUUU5YUdSRzFTazhUVVBvYzZPVjlfeEZaVTBrSkRpWTY5eDhiTXk0NHdWb0RZbktCRzlsTmhlUy1VRm5mZUlPeHVBWmU5b0VGNktJZjNVWmtKNnFjSjZPQ1hDLVF0emZVUzNmVWQwbHpuZ2NGN19rRUJNTkdwY0phUGl4ZUpiV3pkT01BLXR3",
+      "topics": ["AI copyright", "litigation", "news publishing"]
+    },
+    {
+      "title": "The New Extraction: AI, Extractive Markets and the Governance Deficit",
+      "summary": "A policy-focused examination of how AI companies operate as extractive market actors in relation to creative and informational content, and the governance gaps that currently enable this.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WMG1fZ2w1Q1Ryd2Q1dV9ael91WHhqYU10a2ZBemRpZEo0cG9BZkVPQ1d1SGRqSzRnRWRrLWJjblA2QXVuY3pMdFFlSjFfRkNFcHhJQXBlUnN3NkRfV2JBeWZkMWhlejBjSGFFXw",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Damned if You Do, Damned if You Don't: Multilingual Researchers' Use of AI in Academic Writing",
+      "summary": "The Scholarly Kitchen examines the ethical and institutional pressures facing multilingual researchers who use AI writing tools, caught between accessibility needs and academic integrity concerns.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/22/damned-if-you-do-damned-if-you-dont-multilingual-researchers-use-of-ai-in-academic-writing/",
+      "topics": ["academic publishing", "AI tools", "policy"]
+    },
+    {
+      "title": "Can Patent Filings Help Physical AI Companies Raise Capital?",
+      "summary": "Explores whether patent portfolios are becoming a meaningful financing tool for physical AI companies seeking venture or private capital investment.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNUpRWk81cEplMUFRMEZNMFp1aHZHOG4zU2NZLWJ1Rjkxc1Y4eDg4LWZIQWZ3TXhnLWlEcWdxakI1UDhabVdnandNc0hZWm1SUEdTMHVNaUoxd2FyRGJ2U1pvcG56bzRoVHhHaDlOVWQySHhjYWRmNmFySEUxTThlS1dnVzZnM0lmWEFnUjE4WjlXV0ZoeWlz0gGcAUFVX3lxTFBNLXMwenhfeml1bzBITUFFbXNCaXBSTWx4NkFtemlzOXlFLWE1MHoyVDFPckdyXzJJQnFheDktRzJNMDFTZXdxa1hUQ2l0Zk5pUy05cC1EZUx2MFdsUk9wdkc2Mk44UUJpWDBRUk5ndXZGMWdpZGtjYTlIRjNjMllCeGZMbnZoMGNxbzIwQzkxYmt2bmlfZVoyemgyYQ",
+      "topics": ["patent law", "AI tools", "software"]
+    },
+    {
+      "title": "Nonfiction Drove July Publishing Sales Gains [Metered]",
+      "summary": "US publishing sales data for July shows nonfiction as the primary driver of revenue growth across the industry.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/101309-nonfiction-drove-july-publishing-sales-gains.html",
+      "topics": ["book publishing", "industry data"]
+    },
+    {
+      "title": "Legora launches legal research foundation for AI law",
+      "summary": "Legal tech firm Legora has announced a new research foundation focused specifically on developing AI applications for legal research and AI law.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVDYwYnJuRm45emc1LXNEbnRJU21Ba0pnM2RMQmNPUWk1Z1NielVlVVN1UTRDMUtvMGx0QkZDSXY5TDF6TUJ0WHpHaWNnajdNUlo1ZGdVWV9WdmN1NV9Jc0RTeWI4dmp0MHlFNHNNZHUwOXBVa2JuQkRiREhZa0MxeEJhOW8xbEZT",
+      "topics": ["legal services", "AI tools"]
+    },
+    {
+      "title": "Podium Entertainment Acquired by Private Equity Firms [Metered]",
+      "summary": "Audio publisher Podium Entertainment has been acquired by private equity, marking a notable consolidation move in the publishing sector.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/101308-podium-entertainment-acquired-by-private-equity-firms.html",
+      "topics": ["book publishing", "industry news"]
+    }
+  ]
+}
