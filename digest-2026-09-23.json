@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Introducing GPT-6 Sol and Luna",
+      "summary": "OpenAI has announced GPT-6 Sol and Luna, two new model variants representing the next generation of its flagship GPT series. The announcement comes from OpenAI's official blog, signalling a major step forward in the company's model lineup.",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "topics": ["OpenAI", "large language models", "generative AI"]
+    },
+    {
+      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "summary": "Anthropic has released Claude Opus 5.5, a new model version featuring enhanced safety measures specifically targeting cybersecurity use cases. The launch reflects Anthropic's ongoing focus on responsible AI deployment alongside capability improvements.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "topics": ["Anthropic", "AI safety", "large language models"]
+    },
+    {
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "summary": "The Pentagon has acknowledged that overreliance on AI systems played a role in a missile strike that hit an Iranian school. The admission raises significant questions about AI governance and accountability in military decision-making contexts.",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "topics": ["AI ethics", "defense", "AI governance"]
+    },
+    {
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "summary": "OpenAI is assembling a panel of elite mathematicians to advise the company following concerns about errors and reliability in its AI systems. The initiative signals a push to ground model development more firmly in formal mathematical rigour.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "topics": ["OpenAI", "AI safety", "generative AI"]
+    },
+    {
+      "title": "People Training OpenAI's AI Fired for Using AI to Train the AI",
+      "summary": "Workers contracted to provide human feedback for OpenAI's training pipelines have been dismissed after it emerged they were using AI tools to complete the tasks themselves. The incident highlights tensions around data quality, research integrity, and the use of AI in AI development workflows.",
+      "url": "https://www.404media.co/people-training-openais-ai-fired-for-using-ai-to-train-the-ai/",
+      "topics": ["OpenAI", "research integrity", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Better prompt caching for GPT-6",
+      "summary": "OpenAI announces improved prompt caching capabilities for GPT-6, aimed at reducing latency and cost for developers building on its API.",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "topics": ["OpenAI", "large language models", "AI infrastructure"]
+    },
+    {
+      "title": "OpenAI priorities and principles for effective third party assessments",
+      "summary": "OpenAI has published a framework outlining its priorities and principles for third-party evaluations of its AI systems, part of broader efforts around external accountability.",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "topics": ["OpenAI", "AI safety", "AI governance"]
+    },
+    {
+      "title": "Parallel cut research time and cost in half with GPT-6 Astra",
+      "summary": "OpenAI highlights how research firm Parallel has used GPT-6 Astra to halve both time and cost in its research workflows, showcasing a real-world enterprise application of the model.",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "topics": ["OpenAI", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
+      "summary": "Microsoft has taken action to disrupt a cybercriminal platform that used AI assistance to compromise more than 12,000 accounts, underscoring the growing role of AI in offensive cyber operations.",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
+      "topics": ["Microsoft", "AI ethics", "technology ethics"]
+    },
+    {
+      "title": "Rabbit's new AI agent doesn't need an R1 to run",
+      "summary": "Rabbit has launched OS3, a new AI agent that operates as a standalone app without requiring its physical R1 hardware device, broadening access to its agentic AI capabilities.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "topics": ["AI personal assistant", "generative AI", "AI industry"]
+    },
+    {
+      "title": "A New Tool Found Malware That's Guided by an AI Hive Mind—No Humans in Sight [Metered]",
+      "summary": "Researchers have uncovered a new class of malware that uses an AI-coordinated command system to operate autonomously, with no direct human involvement required for its attacks.",
+      "url": "https://www.wired.com/story/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
+      "topics": ["AI ethics", "technology ethics", "AI industry"]
+    },
+    {
+      "title": "Stanford R&DE Uses AI to Race Swap Students for Advertising",
+      "summary": "Stanford's residential and dining enterprise reportedly used AI tools to alter the race of students in promotional advertising imagery, raising serious concerns about bias and ethics in AI-generated content.",
+      "url": "https://stanfordreview.org/stanford-r-de-uses-ai-to-race-swap-students-for-advertising/",
+      "topics": ["AI ethics", "bias", "advertising"]
+    },
+    {
+      "title": "Don't be fooled by this summer of AI hype [Metered]",
+      "summary": "MIT Technology Review argues that many of the AI breakthroughs and fears dominating headlines this summer may be overstated, urging readers to apply critical scrutiny to claims about AI capabilities.",
+      "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "topics": ["generative AI", "AI industry", "large language models"]
+    },
+    {
+      "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
+      "summary": "A new study finds that children and teenagers are increasingly turning to AI tools instead of traditional search engines, with researchers warning of unknown long-term effects on information literacy.",
+      "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
+      "topics": ["AI search", "user interaction", "generative AI"]
+    },
+    {
+      "title": "Meta patches Muse exploit that let attackers control the AI agent",
+      "summary": "Meta has issued a patch for a zero-day vulnerability in its Muse AI agent that could have allowed external attackers to take control of the system.",
+      "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+      "topics": ["Meta", "AI safety", "AI personal assistant"]
+    }
+  ],
+  "ethan_mollick": null
+}
