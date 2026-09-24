@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "'Largest theft of labour': What new NYT filings reveal about its case against OpenAI, Microsoft",
+      "summary": "New filings in the New York Times lawsuit against OpenAI and Microsoft reveal details about how the companies allegedly scraped news content for AI training. The filings shed light on the scale and methods of data collection, with the Times characterising the practice as large-scale labour theft. The case has significant implications for AI copyright and the news industry.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaFZsT184YTJ4NWhOSjNUcXhpTGFUMHdGMTloQ255aWhxalRwbVRJSEEwZ0ZPd2pqVkZLT0dKX2xWQ2JaeGlMdlAyc3E4d3Z3UVl6SGJsd0JnQXpxUmdLRDlMNUdzYjQwcExYb1ZkY1FjSjg3andPaGJVeGh6a0dhOTRyM3pWNURFNEFZMm5PR3UtZndnZ1NZd1NhWGUxN3lhYVdjXzRocDV4X3NLdEh2U1VCZ1LSAbsBQVVfeXFMUGwzWFduREFneV9oZWVIY05neXdjZUFiQWo1aTNhdjQ3WXZnbGE5MzA5R1o0RElWNWUwc01vQTJva0pFRDQzdHY0MzMyTlFSTWZYSTVjS0pkR2Jad2JIcDRBZTFpVG84STlSTGVLWTgyeG12VlRBQkFsOUJhZ0MzTXR1XzJLSzQyWW02bTFlUkxIaEVoSGNYSVBCVVAyNVJxZlp5R2dSNmxnYkVsVkx3VzZZempaSXBBdnYzTQ",
+      "topics": ["AI copyright", "litigation", "media"]
+    },
+    {
+      "title": "OpenAI and Anthropic press Australia to soften AI copyright ban",
+      "summary": "OpenAI and Anthropic have lobbied the Australian government to ease its restrictions on AI training using local content. The companies are pushing back against Australia's copyright framework, which currently limits how AI firms can use protected material for training purposes. Malcolm Turnbull has warned Australia is 'deluding' itself on the strength of its copyright protections.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTmVmS3VLa0sxNjVESTlBYXBDLWVoM2tJOXRCaEh5cnMwRzJYdU1kbE9xYU14OXpCcUVmYVUzMFZEb0RkTUZWdHcxMnhlQ0FyNHdnSDJTUDRNc1pCcFFCLXR3VTRTOS1TNkNzREtuTWxyVC1BblhUcWZUdmh1b1dKd0hDNDVfYkMwNXVtb3hZby1FR2ZCeUtZUktUSGNfNVdHWTd3M1hmVjVQWnpvRGtqSl82alFsSzBDZ2c",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "A step further in collective licensing for AI training in the UAE",
+      "summary": "The UAE has moved toward a collective licensing framework that would allow AI companies to access creative works for training purposes. The development represents a notable policy approach to resolving tensions between AI training needs and copyright holders' rights. The model could influence how other jurisdictions structure AI licensing regimes.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU2VuRkttSFYtWlpwOEhJZjNoZzVJaXhlVmcycVZhZmFMYnA3V0hXYnBmVWxwVE00QmtwZW5NTjViUUwwMGlrSVlONDhPQzhFbG1HQ3NoMmNsamkwdFUwWm02UHRSVjdfM2tEYTJJVEdocDhnNjBpdTR3MlBPV1hVVmRfZ3JxOTJGZnpseDBBUWJoLW5vSkU0cUU2NVk0anp3Y1RDUElVeWVMcl92b0pHanlUdw",
+      "topics": ["licensing", "AI copyright", "policy"]
+    },
+    {
+      "title": "Local News Could Lose in The New York Times vs. OpenAI Case",
+      "summary": "Analysis suggests that the outcome of the New York Times lawsuit against OpenAI could have significant downstream consequences for local news publishers. If the case results in a settlement or ruling that favours large outlets able to negotiate licensing deals, smaller local news organisations may be left without equivalent protections or compensation. The piece examines how the precedent set could reshape the news licensing landscape.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOUZfcGloazQ5SFVzUUU5YUdSRzFTazhUVVBvYzZPVjlfeEZaVTBrSkRpWTY5eDhiTXk0NHdWb0RZbktCRzlsTmhlUy1VRm5mZUlPeHVBWmU5b0VGNktJZjNVWmtKNnFjSjZPQ1hDLVF0emZVUzNmVWQwbHpuZ0NGN19rRUJNTkdwY0phUGl4ZUpiV3pkT01BLXR3",
+      "topics": ["AI copyright", "litigation", "media"]
+    },
+    {
+      "title": "Copyright Infringement Still Isn't Theft, Even When A Microsoft Employee Says It Is",
+      "summary": "This article addresses a Microsoft employee's characterisation of copyright infringement as theft in the context of AI training data, pushing back on the conflation of the two legal concepts. The piece argues that copyright infringement and theft remain legally and conceptually distinct, regardless of how industry figures frame the issue. The distinction has practical implications for how AI training cases may be argued and decided.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRVpMbVE1YU5rWVRuV3NoU25IM0FKVjZ5SE1keWZVakFsQk51TmxhdHJYLW1jVFBsRGxpcnpMQkRvakVfU2l4d0JKR3plOHNfTHRRSjlweHd5LXFEUVVnQ2lyWjFMQmwtS0c4bHo5NnZOYW1uY2huSENWTFdBWHRqZ3JtXzU5WXhuQ2FELUdlU3c3OWdKMjM3UVJEMk1ZN3JQdmxhS2NEZ2hxU2I1VVU0b1hKem5GTTVOSnc",
+      "topics": ["AI copyright", "litigation"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "An opt‑out system for AI companies to access creative works doesn't gel with Australia's copyright laws",
+      "summary": "Legal analysis argues that a proposed opt-out system for AI companies to use creative works for training is incompatible with the existing structure of Australian copyright law.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON3k2allLUERPNVlHd1Bhd3dVY1BnbFFTRTdUZkROOHlHZnlRX0VHSXZiTFBGU0U5WHhhNlFWOWMtam9ZeVJPQWZlZHZvNTNQbVpUbU1hYlltNjQtSks4OXd4NkhYSThSM19jQllYS0p1STFQeEZ4RnFEX3pGZElXeHJXS0R2YWxZMndjR0VWQjFuNURScU1adzRSd1pWZWhxQjFrY3dOcWhfVVFMTXNfREtjZTM3UzJUU3lpaGFxeUtGdE9uWVNEdU1WdmFHd3hKdXBGRi1Kemtoall6aExxRjlEekU",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Mapping the global borderlines of AI-assisted inventions",
+      "summary": "An overview of how different jurisdictions are drawing legal boundaries around AI-assisted inventions and patent eligibility across major patent systems.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMk9mVHEtVTZsbExvS1Bhd2x2aDkzRi1CQXYzeWJOWGJiN2c2TjFteV9TaDRtaFJIajR3RlNsY2FvNDBLdU9TTnJQVE9Bd0tTRzcxTnI1Vl93eWZCRndwYm04NWNWRUZhMU9nRFZuRkg0eWMyN1NrU1VwNXRCejdwWGhQdWQ5RTlDUWo0TEV5V0QwYmgwc192WTRDOVBMUGFUS05KUHFGTHDSAbYBQVVfeXFMUEdQYVB4T012aEM0Qm1jR1VQTG5Wc0JLZC1WYjZia09BN3FKMkpPWnVTVjhEQjFaTmk3MUFBM2lYMUZKdDRraENuSTdhcHFnaTE1QVNJemdOekpiRGlRVU52NmpjX2JzVTNUMW9zRDdLS0xabVNrZy1RMzdRQkQ1dWlLaWFfSmFJeTBveUhYN0l6VElhaGJuMDdmbmUxQ0FvVE1FcFlzQ0lEUFl0M0VDZi0zU2NURmc",
+      "topics": ["AI copyright", "patent", "policy"]
+    },
+    {
+      "title": "USPTO Announces New AI Chief, Int'l Pilot, Outreach Office",
+      "summary": "The US Patent and Trademark Office has announced a new AI Chief, an international pilot programme, and a new outreach office as it expands its engagement with AI-related intellectual property issues.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN2tUZ3Fmc2Fsbmg0c19xaktsQk9GU3NZNzA5UmlDWTUxOG5mRzBoSmNaQnZCZzdSbnhWdUk0ekdzTl8zaDNHMmloZW5Kcm9xSEMxbl9WbjJ4V3M0U3ZIX004ems0YUtTUVVtb25ORlNwUlBTZlpuazFWZjFqbjdmVHp4QklHaVQyWHdLRlZlR2w3VGlhbzRWSlRBQUU5MEE0a05fQnZyMXlxd3M0d2fSAVZBVV95cUxPcjJiTHY1TlBRWWtMMXdieS1oVGF1ck4xT1BUQ1NocVZnSDlzQXphdm9SaTNQeDlDd2p1Yk9NNGNrTTU1YmdrNlk2V3AtYW1RS19DNWpxUQ",
+      "topics": ["patent", "AI copyright", "policy"]
+    },
+    {
+      "title": "Can Patent Filings Help Physical AI Companies Raise Capital?",
+      "summary": "Analysis of whether patent filings are being used by physical AI companies as a mechanism to attract investment and signal technological credibility to funders.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNUpRWk81cEplMUFRMEZNMFp1aHZHOG4zU2NZLWJ1Rjkxc1Y4eDg4LWZIQWZ3TXhnLWlEcWdxYko1UDhabVdnandNc0hZWm1SUEdTMHVNaUoxd2FyRGJ2U1pvcG56bzRoVHhHaDlOVWQySHhjYWRmNmFySEUxTThlS1dnVzZnM0lmWEFnUjE4WjlXV0ZoeWlz0gGcAUFVX3lxTFBNLXMwenhfeml1bzBITUFFbXNCaXBSTWx4NkFtemlzOXlFLWE1MHoyVDFPckdyXzJJQnFheDktRzJNMDFTZXdxa1hUQ2l0Zk5pUy05cC1EZUx2MFdsUk9wdkc2Mk44UUJpWDBRUk5ndXZGMWdpZGtjYTlIRjNjMllCeGZMbnZoMGNxbzIwQzkxYmt2bmlfZVoyemgyYQ",
+      "topics": ["patent", "AI copyright"]
+    },
+    {
+      "title": "AI and Scholarly Reading: Foxes versus Hedgehogs",
+      "summary": "The Scholarly Kitchen examines how AI tools are changing patterns of scholarly reading and research, drawing on the fox-versus-hedgehog intellectual framework to explore differing approaches to AI-assisted knowledge discovery.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/23/ai-and-scholarly-reading-foxes-versus-hedgehogs/",
+      "topics": ["academic publishing", "AI tools"]
+    },
+    {
+      "title": "Fearn Raises $5.5M From Kindred and a16z Speedrun to Launch AI-Native Patent Law Firm",
+      "summary": "Fearn has secured $5.5 million in seed funding to launch an AI-native patent law firm, with backing from Kindred and a16z Speedrun.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWE04eGRXUWgtTVF4WXljbzE0VXdDN0U1VHJMSUR4VFVoVExPcUQyeklka19WZWotUWE0VGsteFQyQUlTZjZoTHE5SWp4ZmZsWmUzSkkyYkt5SWZRQnB3dmtBTDZKU0NmMjFWVHdnU1lsbllGbDhGRDdrNkxVX0Y0Q2g0Z09FR2tUMTdpTXoxRDEzcWFRRVNpbWFlSy1tMmlneWxZT2l0T0wyYmM",
+      "topics": ["patent", "legal services", "AI tools"]
+    },
+    {
+      "title": "Legora launches legal research foundation for AI law",
+      "summary": "Legora has launched a legal research foundation aimed at developing foundational resources for AI law, targeting the growing need for structured legal guidance in the AI sector.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVDYwYnJuRm45emc1LXNEbnRJU21Ba0pnM2RMQmNPUWk1Z1NielVlVVN1UTRDMUtvMGx0QkZDSXY5TDF6TUJ0WHpHaWNnajdNUlo1ZGdVWV9WdmN1NV9Jc0RTeWI4dmp0MHlFNHNNZHUwOXBVa2JuQkRiREhZa0MxeEJhOW8xbEZT",
+      "topics": ["legal services", "AI copyright", "policy"]
+    },
+    {
+      "title": "The New Extraction: AI, Extractive Markets and the Governance Deficit",
+      "summary": "A commentary piece examining how AI companies' data practices constitute a form of extraction from creators and markets, and the governance gaps that currently allow this to continue unchecked.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WMG1fZ2w1Q1Ryd2Q1dV9ael91WHhqYU10a2ZBemRpZEo0cG9BZkVPQ1d1SGRqSzRnRWRrLWJjblA2QXVuY3pMdFFlSjFfRkNFcHhJQXBlUnN3NkRfV2JBeWZkMWhlejBjSGFFXw",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Malcolm Turnbull warns Australia 'deluding' itself on AI copyright protection",
+      "summary": "Former Australian Prime Minister Malcolm Turnbull has cautioned that Australia is overstating the effectiveness of its existing copyright laws in protecting against AI training use of local content.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeWUybm52Ym4tQXJ6dVEwalpLWXphSTR6Rks1bm1TY3JvQUkzSzVXbDNpbTR3bGxUR3JoWUU0YVQ2VlFUdUNRMW9FUFJvdFZzNXl5c0piT3VKMU1OZGJLUGlpaUZfbVVtNE9PQ0VILXgzTVZnM0tPVUl5YURMSnB4bkstbnRzdUlzb0cxdno1aVN6Mm5EbkVKSFZFS2JTUkJpTDFnU3RNTndpVEdFYWRtRkhLcWw",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "An AI Transparency Act for Canada: My Submission to the Government's AI Transparency Consultation",
+      "summary": "Law professor Michael Geist has published his submission to the Canadian government's AI transparency consultation, outlining proposals for an AI Transparency Act covering training data disclosure and related obligations.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWV9KdWluZ2laeFlxQXlCc3hFZ3JwUzM4QVRTaXhsQVZJRDFhNzh4UHl4M3VOdjVGblNlUkFXYnBrSHJqUXNfZGxmODVFUTlCNzRTRGQ2LVJTQ2hYRU9xMUx0SXQxdk5NV19aTkxWaVQzdXQ2MGRaVGlIRHpFN2RrZmtDVTJyLW13Nmp4V3lGb2trNm9PS25SNHdhRWhDb2JvSm9KRHZ3aUlqNnhrNzZoLWZibU85TjRraGhtY0F6X1VCWTc1bXE3TEswQUw",
+      "topics": ["policy", "AI copyright"]
+    }
+  ]
+}
