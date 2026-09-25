@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "DOJ's OpenAI Copyright Brief Previews AI Licensing Deals' Future",
+      "summary": "The US Department of Justice has filed a copyright brief relating to OpenAI that is being read as a significant signal for how AI licensing arrangements may develop. The brief is seen as previewing the legal and commercial framework that could govern future deals between AI companies and rights holders.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd3NIdlVaOG9ELXhFeDdnRGo3N1R2VHJ1NFZ0M0RiQ0NVYlJFVXVpQUhoV3E5OG5CWmNDOXZCYWVnOTVPR2RxWUpLM0VaVkRvQUFRU1ZyckEwVTRIU09OU0NRYWp3UUhZLU5ENEpzbGctdndYWU9VTTl3VmpkczZqWE9hUzNReFRFYmxfQkJEVkJYYk9paFU4cE1JQkgyaFBX?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "'Largest theft of labour': What new NYT filings reveal about its case against OpenAI, Microsoft",
+      "summary": "New court filings in the New York Times lawsuit against OpenAI and Microsoft reveal further details about the alleged scale of copyright infringement, with an AI executive quoted as describing the practice as potentially 'the largest theft of labour in human history'. The filings shed new light on the evidentiary basis of the case.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaFZsT184YTJ4NWhOSjNUcXhpTGFUMHdGMTloQ255aWhxalRwbVRJSEEwZ0ZPd2pqVkZLT0dKX2xWQ2JaeGlMdlAyc3E4d3Z3UVl6SGJsd0JnQXpxUmdLRDlMNUdzYjQwcExYb1ZkY1FjSjg3andPaGJVeGh6a0dhOTRyM3pWNURFNEFZMm5PR3UtZndnZ1NZd1NhWGUxN3lhYVdjXzRocDV4X3NLdEh2U1VCZ1LSAbsBQVVfeXFMUGwzWFduREFneV9oZWVIY05neXdjZUFiQWo1aTNhdjQ3WXZnbGE5MzA5R1o0RElWNWUwc01vQTJva0pFRDQzdHY0MzMyTlFSTWZYSTVjS0pkR2Jad2JIcDRBZTFpVG84STlSTGVLWTgyeG12VlRBQkFsOUJhZ0MzTXR1XzJLSzQyWW02bTFlUkxIaEVoSGNYSVBCVVAyNVJxZlp5R2dSNmxnYkVsVkx3VzZZempaSXBBdnYzTQ?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Munich's Suno ruling tests the evidence question Getty left open in Britain",
+      "summary": "A Munich court ruling against AI music generator Suno is being examined for its implications on how courts assess evidence of copyright infringement by AI systems, particularly in relation to questions left unresolved by the Getty Images case in the UK. The piece analyses what the German decision may signal for AI copyright litigation more broadly.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZkV1UXNaNmFsTGxpLUdxN29kX041UWVDcmEyRkZFLXBRX0pfcEk2Z3Q3UmZZSmk1QmNLSFBUVi00LXlFSVBzNU5GYVZ5ZUowQ0pQalFIVzh4MGVFMW56VjVRODZXb0tUNzNhdmZWbDY4cXhKNE14VFFVQzR5RFlrd0NZc2NrWFRuRzhLbVlick5tTEVIQmJR?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Australia is to propose new legislation on AI and copyright licensing, but what it will look like?",
+      "summary": "Australia is preparing to introduce legislation addressing AI and copyright licensing, though the precise shape of the law remains uncertain. The development follows pressure from AI companies including Anthropic and OpenAI to ease existing restrictions on training AI models using local content.",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTU5nR2pudXpCeHR3aGZhQzBNcXIyMW5YVHlyTk1MRmtMb2xEb2QxMVVDa0dybUN5QXhxV2tocVJyd0tEMVFqVHU5VDAzbGNoUUozMzB4ckdHN1FMV2htbzN4TGFsOXJ2TFVqemtuWl9XbkR0NGhYaTFkd1l0WHZFbXRiYnE1dGJqcUtRaEwtbkR0VkFicGYtSVRxTEdkQ1BxNjBkM1RuQ3hOdzFEcUlhQUNvZ21wRVd1VHgxRjY2WFNwZHhabHdkYVdNZTliT0FERWRUaUF1OVpzOGhwazJRSEdraw?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "Wuhan Court Considers AI Token Costs in Calculating Damages for Copyright Infringement of AI-Generated Work",
+      "summary": "A court in Wuhan has factored in the cost of AI tokens when calculating damages in a copyright infringement case involving AI-generated content, marking a notable development in how courts quantify losses in AI copyright disputes. The case highlights the emerging challenge of applying traditional damages frameworks to AI-related infringement.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd2kwa2EwRWE0QVhrSk1PWWJOU3p4bVNfS2h1MFpVOWtEdlBkb1JKU0k3QXhEXzBvRWJhVGYzR2h0c2RhSGVIcmtQcGtvMnlKbGE5UzBSdVA2WHNpZDFGTmo3UGNWTzNBdUFCaVJCdm9tbFBTWGJhcU95SFpNS1B0QXZSUDd5QTA5Wk56VG1ST21vS3dnSHhzT1ZGSDQxQ01xdk1FeGRSQlZRWm02ZEczOUVESUNDQdIBuwFBVV95cUxPamxFZHNfQW9pZHNaYmpXWmM4bGVITFg5a0RyNFJacWc1WDUyWVNCdFBBdXoyQms3YVR5YUUzbURlYV9SNkc4TnBUU0RkLWg2X1ladFpMMU83d1Njc3FTYUhKRjF1dTl3UXlYWUlYc3lZNU1ZdkwzLU9nWEk1TF9UbFh2YVpiVDlNVEFuNUpZTVI5N2FqR1NaUXJtVlg4akpGcU52VHNySDNvd1VmOFE3dUN1U2dGUlNseXVN?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "OpenAI and Anthropic press Australia to soften AI copyright ban",
+      "summary": "OpenAI and Anthropic have formally urged the Australian government to relax its restrictions on training AI models using locally produced content, as Australia moves toward new AI copyright legislation.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTmVmS3VLa0sxNjVESTlBYXBDLWVoM2tJOXRCaEh5cnMwRzJYdU1kbE9xYU14OXpCcUVmYVUzMFZEb0RkTUZWdHcxMnhlQ3I0d2dIMlNQNE1zWkJjUUItdHdVNFE5LVM2Q3NES25NbHJULUFuWFRxZlR2aHVvV0p3SEMONWZfYkMwNXVtb3hZby1FR2ZCeUtZUktUSGNfNVdHWTd3M1hmVjVQWnpvRGtqSl82alFsSzBDZ2c?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "AI Exec: We May Have Pulled Off \"The Largest Theft of Labor in Human History\"",
+      "summary": "An AI executive's statement describing AI training on copyrighted content as potentially the largest theft of labour in human history is drawing significant attention in the context of ongoing copyright litigation.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa3JvVjlKNEJESXczdW5lc1BOeFZ1SUZyRkFpdnQxaUVOSFZzOHJ5T0psYWJrTkdTcE5kZmk1a1V2R0xFaC1MVzlXMjhSYmgyMEtXMXRjSmhDcURZeTZTQUlqTGJ2cXEzZTVkcGNCU0xtYU02ZTNHTjNGeENKV2FhYzk4RE9SeXloVVd2bGw0Q2pZeG9KdFJLY3Zxc2hSYlZBR21zTHhZNk9EQ0tSQUZ3WVlWOA?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Why Sony's holdout should scare every AI music producer",
+      "summary": "Sony's refusal to license its music catalogue to AI companies is analysed as a warning to AI music producers about the legal and commercial risks of operating without rights holder consent.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS2pYM2Zuc1pQajFIU3Z3bTRtcUhSVzdUbFhpdkxRY1phS3piZ2gxeU5EeDd2WUxGRHZKQ0xNUERDcXd1eF91MjhVcFFLNk1JNFpTRzR4LU1JSkRzR1F5UWtPZ0hHYzE4RUROOU1vWWJZWmlGZ1Nnb2gtT0hMUjNtdUZqQ0VKSG1pY1BtSVhRYjF1UHpqZ2dueHJlQWs4dw?oc=5",
+      "topics": ["AI copyright", "licensing"]
+    },
+    {
+      "title": "Guest Post — Six Ways to Close the Attribution Loop in Publishing",
+      "summary": "The Scholarly Kitchen publishes a guest post outlining six practical approaches for publishers to ensure proper attribution of AI-assisted and AI-generated content in academic and trade publishing.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/24/guest-post-six-ways-to-close-the-attribution-loop-in-publishing/",
+      "topics": ["academic publishing", "AI copyright"]
+    },
+    {
+      "title": "Who's suing AI and who's signing latest: OpenAI signs first India deals",
+      "summary": "A roundup of current AI litigation and licensing activity notes that OpenAI has signed its first licensing deals in India, as the global landscape of AI copyright disputes and agreements continues to evolve.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA?oc=5",
+      "topics": ["AI copyright", "licensing", "litigation"]
+    },
+    {
+      "title": "Mapping the global borderlines of AI-assisted inventions",
+      "summary": "An analysis of how different jurisdictions are drawing legal boundaries around AI-assisted inventions and the implications for international IP strategy.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMk9mVHEtVTZsbExvS1Bhd2x2aDkzRi1CQXYzeWJOWGJiN2c2TjFteV9TaDRtaFJIajR3RlNsY2FvNDBLdU9TTnJQVE9Bd0tTRzcxTnI1Vl93eWZCRndwYm04NWNWRUZhMU9nRFZuRkg0eWMyN1NrU1VwNXRCejdwWGhQdWQ5RTlDUWo0TEV5V0QwYmgwc192WTRDOVBMUGFUS05KUHFGTHDSAbYBQVVfeXFMUEdQYVB4T012aEM4Qm1jR1VQTG5Wc0JLZC1WYjZia09BN3FKMkpPWnVTVjhEQjFaTmk3MUFBM2lYMUZKdDRraENuSTdhcHFnaTE1QVNJemdOekpiRGlRVU52NmpjX2JzVTNUMW9zRDdLS0xabVNrZy1RMzdRQkQ1dWlLaWFfSmFJeTBveUhYN0l6VElaaGJuMDdmbmUxQ0FvVE1FcFlzQ0lEUFl0M0VDZi0zU2NURmc?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Copyright Infringement Still Isn't Theft, Even When A Microsoft Employee Says It Is",
+      "summary": "A commentary piece examines the legal distinction between copyright infringement and theft, prompted by a Microsoft employee's public characterisation of AI training as theft.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRVpMbVE1YU5rWVRuV3NoU25IM0FKVjZ5SE1keWZVakFsQk51TmxhdHJYLW1jVFBsRGxpcnpMQkRvakVfU2l4d0JKR3plOHNfTHRRSjlweHd5LXFEUVVnQ2lyWjFMQmwtS0c4bHo5NnZOYW1uY2huSENWTFdBWHRqZ3JtXzU5WXhuQ2FELUdlU3c3OWdKMjM3UVJEMk1ZN3JQdmxhS2NEZ2hxU2I1VVU0b1hKem5GTTVOSnc?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "An AI Transparency Act for Canada: My Submission to the Government's AI Transparency Consultation",
+      "summary": "Michael Geist publishes his submission to the Canadian government's consultation on AI transparency, advocating for legislative requirements around disclosure of AI training data and processes.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWV9KdWluZ2laeFlxQXlCc3hFZ3JwUzM4QVRTaXhsQVZJRDFhNzh4UHl4M3VOdjVGblNlUkFXYnBrSHJqUXNfZGxmODVFUTlCNzRTRGQ2LVJTQ2hYRU9xMUx0SXQxdk5NV19aTkxWaVQzdXQ2MGRaVGlIRHpFN2RrZmtDVTJyLW13Nmp4V3lGb2trNm9PS25SNHdhRWhDb2JvSm9KRHZ3aUlqNnhrNzZoLWZibU85TjRraGhtY0F6X1VCWTc1bXE3TEswQUw?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Novvel.co Produces Graphic Novel Adaptations with AI Assistance [Metered]",
+      "summary": "Publishers Weekly reports on Novvel.co, a company producing graphic novel adaptations using AI assistance, raising questions about authorship and copyright in AI-assisted publishing.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/101260-novvel-co-pioneers-producing-graphic-novels-with-ai-assistance.html",
+      "topics": ["AI copyright", "book publishing"]
+    },
+    {
+      "title": "Clarivate Report Assesses Libraries' Adoption, Implementation of AI [Metered]",
+      "summary": "A new Clarivate report examines how libraries are adopting and implementing AI tools, with implications for copyright compliance and licensing in information services.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/101328-clarivate-report-assesses-libraries-adoption-implementation-of-ai.html",
+      "topics": ["academic publishing", "AI tools"]
+    }
+  ]
+}
