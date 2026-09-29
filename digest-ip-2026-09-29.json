@@ -1,0 +1,72 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "OpenAI Used Pirated Books for AI Training Despite Knowing Illegality, Court Filings Reveal Executive Statements",
+      "summary": "Court filings have revealed executive statements indicating that OpenAI knowingly used pirated books to train its AI systems. The documents suggest internal awareness of the legal risks associated with the training data. This development is likely to have significant implications for ongoing and future AI copyright litigation.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zcGplczI1U3BtdFdqWUMtcl9DOVYxd1V2YVpDNzM0YUNoSmVjR2dNWGhSa2puNjNYRm8xNHczWUJkbWZLWTRXMVVreUF2LXd5dWJiTUNaYVoya1BiYzdyT2Jwa21HMEh1YndUTFJYR2JKcjdQWXc",
+      "topics": ["AI copyright", "litigation", "training data"]
+    },
+    {
+      "title": "Authors Guild Calls on Publishers to Share Anthropic Wealth [Metered]",
+      "summary": "The Authors Guild is urging publishers to pass on proceeds from their AI licensing deals with Anthropic to the authors whose works were used. The call highlights growing tension between publishers and authors over how revenues from AI training data agreements are distributed.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101364-authors-guild-calls-on-publishers-to-share-the-anthropic-wealth.html",
+      "topics": ["AI copyright", "licensing", "book publishing"]
+    },
+    {
+      "title": "News Outlets Ask Court to Ignore DOJ View in AI Copyright Suit",
+      "summary": "A group of news organisations has asked a court to disregard the Department of Justice's position in an AI copyright case. The outlets are pushing back against DOJ intervention that they argue undermines their copyright claims against AI developers. The case is part of a broader wave of litigation by media companies over unauthorised use of their content for AI training.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ056SDY3V1JKNVhGSmE3d2ZwOXF0X0hkWUNVWUt6dmtpdFdlNUgteUx1NzNDUUFYaDRJZTFDUHBDRG16dlVTc2p1WFlBd2tkZWFNeTdZU2VpLVEyc3hzeTlSMFNNUTVlRzVaQndTOHBFQzk4aVN6b0tIU3lGYlNsRDRCVldhX3N2YndUdXBFcXctdDlRQXg0RmR1Ri1uVEh4",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "Operator of AI Music Generator Can't Escape Copyright Suit",
+      "summary": "A court has ruled that the operator of an AI music generator cannot have a copyright infringement suit dismissed, allowing the case to proceed. The decision is a significant development for AI-generated music and the liability of platform operators for copyright violations. Multiple sources reported on this ruling.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdENEby04WkRDdUd3QXplUUMtWE1XbGhNWjVBc3ZXOXBsUk5VZlVnV2xxVXpERERrU1JHaFFNQjk0MVRZY09Kclhub2VFMnZPMW9YN0V5VDBYR0V0OUdPN25PTkVfaHViV2RtZFZ1T2kzLTFLWmNCWVlZT1hYNXRxOHBJWTViNWdfQWtHVUdjZ2pWYWxWTzNtYk92bU41SEtS",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "Hong Kong Delays AI Copyright Law to Focus on Guidelines First",
+      "summary": "Hong Kong authorities have announced a delay to planned AI copyright legislation, opting instead to develop guidelines before enacting formal law. The move reflects a cautious regulatory approach as policymakers weigh how to address AI's impact on intellectual property. The decision puts Hong Kong at odds with jurisdictions moving more quickly toward binding AI copyright rules.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ3lhTDZ6Z1VSLXJITlJBRTRCazU2TktWQV9ERm5jS0xGX3pVM2VXX2dXQ2FiZG52MWZfczMxSDlvX3hRTGN1ZjB4M2NuNmdvMFFlUTVURGM4ejVrSzF6UEVYZlZ1cDAyNi0xSG1fbVJJNk9CWGVaME1vTHVKampYcjZESXlmYS1PTmktWDJDQTdYN2cyU1VqTW9va2FDSEdiN3pQeVNrWEtVUlV0ckc5TWxUQXhiREk",
+      "topics": ["AI copyright", "policy", "eu law"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Back to the Eighties… Who Owns Your AI-Generated Retro Self?",
+      "summary": "An analysis of the legal questions surrounding ownership and personality rights when AI tools generate retro-styled likenesses of real individuals.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSDRodWNCODd3THR0UVE0ZGY1TGlZNU4yekhnR2JOTEdZLUlNbjZtcnd2WDdpbG1UYkRDWGc4QVZEMmZ1ZUJnbnA0UU9SbXEtRmFieTd2dlJad0tFMDU5Zy1rcXNaZzZwam1ENGh4cVRmWE5COHlMM3gtcGNKaEF6QmgtOEIzakxYdnRKbnNMaFNOd3lzQzBmeW9aTGhfVlh6UF9pdWVtODNwSm84SzF5SVFqX194N3ZwY2ZZOXFrU0piMkFhNm5YWmRjMURaZw",
+      "topics": ["AI copyright", "personality rights"]
+    },
+    {
+      "title": "Who Owns Your Face? India's Legal Battle Over AI and Personality Rights",
+      "summary": "India is grappling with legal disputes over AI-generated likenesses and the extent to which personality rights protect individuals from unauthorised use of their image by AI systems.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONzcxQ0RBQ0pPSndrOUh1WGtXeldQMVNsVmxzT1JRS21PRmRYT3lSbzhSMHBXa0JYdVFBMi1ycUc1X2NsYUU1azZxWGFNTEJYbXVLSThxU09BY28yREYwSTBvVC1ZS2ViWFdGY2tEcEJNdDJjOEFIYWZsc1haYTZUNmZUTkVsRXRqelVEYXdCM1FBRkRWakFWNUhidERucWF5bU9JcGZwWU04NmtGVWo3R3d6RFNkNXFsNGpfS3RkaERWQQ",
+      "topics": ["AI copyright", "personality rights", "litigation"]
+    },
+    {
+      "title": "The Everlasting Song: Nur Mir Finally Finds Its Happy Ending in Pastiche",
+      "summary": "IPKat reports on the resolution of a long-running copyright case concerning the pastiche exception, with implications for how AI-generated creative works invoking stylistic imitation may be treated under copyright law.",
+      "url": "http://ipkitten.blogspot.com/2026/09/the-everlasting-song-nur-mir-finally.html",
+      "topics": ["AI copyright", "music", "pastiche"]
+    },
+    {
+      "title": "America's Hypocritical Take on Intellectual Property",
+      "summary": "An opinion piece examining inconsistencies in the United States' approach to intellectual property, with reference to AI and digital content use.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbEVmLUR3WnlFUnFZR2dkSm5pYXZVb1RITFZmVTZMSW9EUGNPM2k1bXNKb0VxZnZvMnc1UmVmOVc0bXpPMVlUam1RQi0yX3BULVhEZkVZWFE3VnJCcmhOLTBqM18xVl81cWwteU8zVExNdnUyWnNWZ0FweTRHRF9WQzJOTENSckxGM1pHc2l1eXEwUQ",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Nvidia Settles Trademark Lawsuit Over 'Modulus' AI Software",
+      "summary": "Nvidia has reached a settlement in a trademark dispute over the name 'Modulus' used for its AI software platform.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUGRWcXd4TXY4MG1WV29HMktLVHY1aC1xNWxOVDlfYm54bmREcTdxdjNSSHA2OEJtOXEwNDhLbkhVZ05vcEpMamdqd0lPcjFDLWphVGI5NUp1UTh4SUYwVXR0VkNuZDZjRDVKZmRfQ01WajhZYTRiUnNTVmdRajEtS0dVeTZSTXJPS1V2WTVmRVdCN3hDN0RRYmIxeXNQYlpKV1FmeDM3c2Yzam85UURB",
+      "topics": ["software", "litigation", "trademark"]
+    },
+    {
+      "title": "Guest Post — Six Ways to Close the Attribution Loop in Publishing",
+      "summary": "A Scholarly Kitchen guest post outlining practical approaches for improving attribution practices in academic and trade publishing in the context of AI and digital content.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/24/guest-post-six-ways-to-close-the-attribution-loop-in-publishing/",
+      "topics": ["academic publishing", "AI copyright", "licensing"]
+    }
+  ]
+}
