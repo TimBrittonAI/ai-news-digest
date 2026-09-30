@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI DevDay 2026: The biggest news and announcements",
+      "summary": "OpenAI held its DevDay 2026 event, unveiling a range of new products and announcements for developers. Key launches included Dots, an always-on AI agent platform, and GPT-6.1 Sol. The event was also met with protests outside the venue over concerns about ICE contracts and data centres.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+      "topics": ["OpenAI", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Introducing dots",
+      "summary": "OpenAI has officially launched Dots, a new platform enabling always-on AI agents that proactively assist users throughout the day. Dots is positioned as OpenAI's answer to Meta's Muse, offering persistent, context-aware agent capabilities. The launch marks a significant step in OpenAI's push into agentic AI products.",
+      "url": "https://openai.com/index/introducing-dots",
+      "topics": ["OpenAI", "AI personal assistant", "generative AI"]
+    },
+    {
+      "title": "Anthropic warns of 'catastrophic' AI risks in its own IPO filing",
+      "summary": "Anthropic's IPO prospectus contains stark warnings about the potential for catastrophic and even existential risks from advanced AI systems, including from its own models. The filing is notable for its candour about AI safety concerns coming directly from the company developing frontier models. It reflects Anthropic's publicly stated mission to build safe AI while simultaneously commercialising it.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+      "topics": ["Anthropic", "AI safety", "AI industry"]
+    },
+    {
+      "title": "OpenAI Delays Release of Latest Model Over Safety Concerns",
+      "summary": "OpenAI has postponed the release of its latest AI model, citing safety concerns that required further review before deployment. The delay signals ongoing internal caution around frontier model releases amid broader industry scrutiny of AI safety practices. No revised release date has been announced.",
+      "url": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/",
+      "topics": ["OpenAI", "AI safety", "large language models"]
+    },
+    {
+      "title": "Towards safety cases for frontier AI training",
+      "summary": "OpenAI has published a framework outlining how it intends to build structured safety cases for frontier AI training runs, aiming to provide systematic evidence that training processes meet safety standards. The approach draws on methodologies from high-stakes engineering fields and is intended to evolve as models become more capable. The post represents a formal step in OpenAI's safety governance processes.",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "topics": ["AI safety", "OpenAI", "AI governance"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Introducing GPT-6.1 Sol",
+      "summary": "OpenAI has introduced GPT-6.1 Sol, a new model announced as part of its DevDay 2026 lineup.",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "topics": ["OpenAI", "large language models", "generative AI"]
+    },
+    {
+      "title": "AI researchers put out videos saying superintelligence is 'exactly as dangerous as it sounds'",
+      "summary": "Researchers from OpenAI, Google, and Anthropic have released videos warning the public that superintelligence poses serious dangers, in a coordinated effort to raise awareness of AI safety risks.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+      "topics": ["AI safety", "AI ethics", "AI industry"]
+    },
+    {
+      "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+      "summary": "Anthropic reports that its AI systems identified a novel biological mechanism analogous to CRISPR, raising questions about how such AI-driven scientific discoveries should be validated, governed, and applied.",
+      "url": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
+      "topics": ["Anthropic", "generative AI", "AI ethics"]
+    },
+    {
+      "title": "Sam Altman says OpenAI won't go public until its models are safe",
+      "summary": "OpenAI CEO Sam Altman stated at DevDay that the company will not pursue an IPO until it is confident its AI models meet safety standards, linking the company's financial future to its safety mission.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "topics": ["OpenAI", "AI safety", "AI industry"]
+    },
+    {
+      "title": "Meta's Muse AI sent a YouTuber's address to a stranger",
+      "summary": "Meta's new Muse AI agent was found to have shared a user's personal address with an unrelated third party, highlighting serious privacy and permissions concerns with the product.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+      "topics": ["user privacy", "AI ethics", "generative AI"]
+    },
+    {
+      "title": "Timnit Gebru Believes There Is No 'Existential Threat' From AI",
+      "summary": "AI ethics researcher Timnit Gebru argues in an interview that framing AI as an existential threat distracts from more immediate and concrete harms the technology is causing today.",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-timnit-gebru/",
+      "topics": ["AI ethics", "AI safety", "bias"]
+    },
+    {
+      "title": "Trump orders US government to call AI 'Super Intelligence'",
+      "summary": "A new executive order from the Trump administration directs US government agencies to adopt the term 'Super Intelligence' when referring to advanced AI, as part of a broader rebranding of the administration's AI agenda.",
+      "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "topics": ["AI regulation", "AI governance", "AI industry"]
+    },
+    {
+      "title": "OpenAI Gets Sued Over the Hugging Face Hack",
+      "summary": "OpenAI is facing legal action in connection with a security breach at Hugging Face, with plaintiffs alleging the company bears responsibility for harms arising from the incident.",
+      "url": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
+      "topics": ["OpenAI", "legal", "user privacy"]
+    },
+    {
+      "title": "DraftKings is using AI to behaviorally target chronic gamblers",
+      "summary": "The EFF reports that DraftKings is deploying AI-powered behavioural advertising tools to identify and target users showing signs of problem gambling, raising significant ethical and regulatory concerns.",
+      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+      "topics": ["advertising", "AI ethics", "technology ethics"]
+    },
+    {
+      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+      "summary": "A senior House Democrat is pushing for engagement with Chinese AI firms on whether international safety agreements could slow the global race toward superintelligence.",
+      "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+      "topics": ["AI governance", "AI safety", "AI regulation"]
+    }
+  ],
+  "ethan_mollick": null
+}
