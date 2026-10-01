@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Appeals court upholds Thomson Reuters win in AI copyright case",
+      "summary": "The Third Circuit has upheld Thomson Reuters' landmark victory against ROSS Intelligence, affirming that AI training on copyrighted legal headnotes does not qualify as fair use. The court described the case as an 'ordinary copyright case' and rejected ROSS's fair use defence in a decision seen as a significant precedent for AI training and copyright law. The ruling was welcomed by rights-holder groups including the RIAA and NMPA.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON0NZemd2aC1CZ2UzWWprVDcteEhoODkwbHFFcUtYNjRtT1RDNW5lNGpKWW5UdE8za3l3bVpCVTczN3czRng2ZzNRR0xRdkZDeTFrajMzR3pySHlhNVpkcHc3aG1QWFNfV3drZ1Q2Z3RNWTUyT3ZJdVcwYmZSR04yWFU0VXZvcldxTDFNMVNCNFpJQTc1eUQxNklTRDhrd2tIeEo1cVZ1bVJaTEFVaUpfdU13?oc=5",
+      "topics": ["AI copyright", "litigation", "fair use"]
+    },
+    {
+      "title": "3rd Circ. Calls Westlaw AI Fight 'Ordinary Copyright Case'",
+      "summary": "The Third Circuit Court of Appeals has ruled against ROSS Intelligence in its dispute with Thomson Reuters over Westlaw content, framing the AI copyright fight as an unremarkable copyright infringement matter rather than a novel legal frontier. The court found that using copyrighted legal headnotes to train an AI legal research platform was not protected by fair use. The sealed opinion has since been released with additional detail on the court's reasoning.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNC1fRENESDU4QUh2VTNDUFNENl96dlprLWxpbWJaRXlSb1FSTURiaXBLNmVHTWowc3hGSE5kT2JxYWRsbmRpT0lXam03RU8yNnhJVkdpU3ZTbG1wX29MR05YQWpSRlJNbHJudXIybU1WbDRrRnBwZ2c4Y056WkhxWjFfTGNzaUcxV1BabkJTSVdnY2JmVEx1T1VaTFrSAVZBVV95cUxPRlUyYWtNeGE4WHA2R0FlR0pWdW1BUTFkbE1wV0tMT2xWSTc3aldQanh4S1BhaTVERFJsZ2hHbmMzNDMydms2TmdGTHhOcXQyUXR2SVRrdw?oc=5",
+      "topics": ["AI copyright", "litigation", "fair use"]
+    },
+    {
+      "title": "EU opens door to new copyright rules as generative AI tests existing regime",
+      "summary": "The European Union has signalled it may introduce new copyright rules in response to the challenges posed by generative AI, acknowledging that the existing legal framework is being tested. The move follows EU consultations on AI and copyright across four key areas. The development represents a significant potential shift in the EU's approach to regulating AI and intellectual property.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOHdzVTA3UFhOMC1rTVg1Vzg0Q0ZfNTNwOE5LVm5xNjk5YTJIYUE3ZGRiaF9tU1NQNmliNFlUR19SQmxpRkxhMXl5azZLZ2dTVUF0MWc0YnlaRlIxUGVTRzBnVHRnNngxTEVCQTNGbE9vd1dTdmxnejR6dEVOc1JjYnptSEh1WEtsVzVCUWFLMGFRVDFyQjhTWlpCeHhNckU?oc=5",
+      "topics": ["AI copyright", "EU law", "policy"]
+    },
+    {
+      "title": "Trump's DoJ was biased and wrong about 'fair use', say news orgs in OpenAI dispute",
+      "summary": "News organisations involved in copyright litigation against OpenAI have filed arguments contending that the Trump administration's Department of Justice was biased and incorrect in its position on fair use as it applies to AI training on news content. The filing represents a direct challenge to the US government's stance in ongoing AI copyright disputes. The case is part of broader litigation by publishers against AI developers over the use of copyrighted material.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb1daOFRtNkd4M2RWMlB4S2FPVXRrdmhQOVBKTXhWTWJXT004c19wS0J3OXNzYVhIWVk2eE02ODdDNWE3aHRxUWFQMlpYTlJWSEh4bC04S292OXZRX2tlX0ExRUpLbDFYaGFacURYWU9MUG9KWUhaQ0RMUFBSajl6eG9KRG04Y1pNT0lQMHd3bEFBNFkzVEN2anRzUXIzc1N2SkhxLUJ4bWd4cmQyT25vbA?oc=5",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "AI Companies Are Raising Millions From Music They Took Without Permission (Guest Post)",
+      "summary": "A guest post argues that AI companies have used unlicensed music to train models and are now raising significant investment on the back of those capabilities, raising serious copyright concerns for the music industry. The piece examines the financial and legal implications of AI training on copyrighted musical works without rights-holder consent. It contributes to growing debate about fair compensation and licensing in the generative AI sector.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOU9reVdLZ1BxSXI1NERYQ0IwZzVlYkhJSHUtQ1JWSWF5dW1zN2tQbGVUdDJxQzJDU0FWVHE5U3IxNjg1bnJSVWhsa3JoSUQtNmpDM0ZYUVZzZ29oVU9weERIRUF0ZzF6cjNDZ3k5aC1xRnVDalMyLVk4M25sRzJsQVFMd1lUakcxeE1rWg?oc=5",
+      "topics": ["AI copyright", "licensing", "music"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "EU launches consultations on AI and copyright issues in 4 key areas",
+      "summary": "The EU has formally launched consultations examining AI and copyright across four distinct areas, signalling a structured legislative review of the relationship between generative AI and intellectual property rights.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QVXJXTlRqQV91Nkctc3ppdXlsWkhZVndxSFRzRUJ0T3A4NEFqeWg5NkFzalJTeHQxVmJUSnk5ajRybVlzWkYtZ05FeVppLUk0RnpCdC1MMFRRN29BejA1QTBmZVRpRGF0aEZyeW5zcw?oc=5",
+      "topics": ["EU law", "AI copyright", "policy"]
+    },
+    {
+      "title": "Fair use or free lunch? A critical reading of ANI vs OpenAI",
+      "summary": "An analysis of the Indian copyright case ANI vs OpenAI examines whether OpenAI's use of news content for AI training constitutes fair use under Indian law, drawing comparisons with US and EU approaches.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTG50dUtNNFNleGNmZXoyOGRvNTRaQS1NTVlERDJ1NExrRUtuUFdhaV9tcERScDJheUFmb0xrXzF0WDYwNjVHd2lxZ3MydmdZWG01cm4xVG5UcEhVZW4xVWNmQXJ3V1hHQnA3QVBpTmdScUlzR3dRMXI5TnAzLUxGNUVKMXlGMjJWVEpZQkxLaFVDODBERzVxOEFsaXUycmdjYW5HbW1UbW9mdTc2VTlwdHB2TllHaDd5TThGQWdGMFLSAccBQVVfeXFMTmxjUHlOSURfVDZwUjdtTWxVeHlFTWpCZ2ZGNG14UE94NmNSX29PNURVcVE1eTJCR1ZPYlFjRkRiVERJWXNqemlWTkFCaHI5NGZLNC0yNzNKY1dKczdjeVFvT3dOZUwxbXNVNWpFR1dmOXlfbWMtc3Q3UTZTVjlNYlA2Qi1mcUxtYXdrOExUVHpiSGY2VGhudC1RQnJxX1VKeHFHc0haVTNKcnJjLURiRHd4M0pGbmItdDM4eDNKVHZjMHpKVGwwZw?oc=5",
+      "topics": ["AI copyright", "litigation", "fair use"]
+    },
+    {
+      "title": "When Slowing AI Stops Looking Luddite: Copyright and the Pace of Frontier AI",
+      "summary": "A commentary piece examines how copyright law could legitimately function as a brake on the pace of frontier AI development, arguing that such a position is analytically defensible rather than merely technophobic.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOFZiTmxsU09OYVNaM1JyQkx1SWltdWRseDRERHpmN2g0czlVVXRMYXo5SV9TSnJiTkhZUlgyWVNpN09wak5zRDMwSnVjeEFqZFV1UVlaM0hkeHM1dWhUSnp5UU4xM1RnbmdINldqMVFrbjhQVjZUNnM4ck1JUHNuN1ZZa1dlcjA5QzluMnoxZmdzOTE2ZmdSRFBDUWl5cGZXWkRfeWtOaHdTWk9Bb3FNVlVweU96MjF1TFdEcXF5LWd4VThKbGVz?oc=5",
+      "topics": ["AI copyright", "policy", "fair use"]
+    },
+    {
+      "title": "Who owns what AI uses? India's copyright debate turns to content traceability",
+      "summary": "India's ongoing copyright debate is increasingly focusing on content traceability — identifying which copyrighted works have been used to train AI models — as a potential mechanism for rights enforcement and compensation.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdUczUU5iMngta3VGT0R5aGI2cGZKRXFEWERmOUxvNkNrUmFSM05QMlRLTGVIMmdDQ280ODhreXRJSC1mWC1aOWRIMm1sdE5LQk4xTFVmMWpHeURzei0xc3JnRmlqcC1OUlI5THlYLXIySFU1Z0FoNkgwODU1TkxFVGdQWHl5V3NuUVhyb1FkdE9LRjllbUc0U1FOOE5HcXg3bndXcEN5QXdJUVRNai1zamxBYkk3LVR5TXd5eVJoVjhRS19sLTVGR2tHaDdIUld3RDdVLVJrY9IB1wFBVV95cUxNdUczUU5iMngta3VGT0R5aGI2cGZKRXFEWERmOUxvNkNrUmFSM05QMlRLTGVIMmdDQ280ODhreXRJSC1mWC1aOWRIMm1sdE5LQk4xTFVmMWpHeURzei0xc3JnRmlqcC1OUlI5THlYLXIySFU1Z0FoNkgwODU1TkxFVGdQWHl5V3NuUVhyb1FkdE9LRjllbUc0U1FOOE5HcXg3bndXcEN5QXdJUVRNai1zamxBYkk3LVR5TXd5eVJoVjhRS19sLTVGR2tHaDdIUld3RDdVLVJrYw?oc=5",
+      "topics": ["AI copyright", "policy", "academic publishing"]
+    },
+    {
+      "title": "The AI copyright lawsuits: What happens when machines learn from culture?",
+      "summary": "A broad overview of the wave of AI copyright litigation examines the legal and cultural questions raised when AI systems are trained on creative works, including books, music, and journalism.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jMFNPNVo5Q1BfWi0wUy1tZWFWR3N1dDRaTTJrblpXT2wzWXlsLW1WV2h0SXlIVkJ3TEpQekZUNUZ0ZHBWcWlQSGdGbVlDSkpNcV9HbWF0dC0yczhvbnM1OVdPX2pxN0JY?oc=5",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "The convergence of IP, data, and AI regulation: managing assets for advantage",
+      "summary": "An analysis of how intellectual property, data protection, and AI regulation are converging, with implications for how organisations should manage their IP assets in an AI-driven environment.",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTm9udGlOSkhYRjdsRVJ6RzlSeWRWVzBfc2dwajd5QVFOUTFNU19YTVFWNklJX3hlUG13STM3N1VmdGNQb19xX3NELWxiLTVrWlZLYm8zb05Lcmw0WFhEVGVOcTg5TGdtZDlRQ0hnbEFHRHJ4Uk9sUENDU1czZE44bkRkQXVPNGhXU1FTS2htdUZxdW9kN21qR1lpVUl1TGdFMFpsU2NvRDg2N2ptTUhRbGRSTEVzTHZmYm0xdEg2VS12WVdGNmpYd1BWY3N6OTFyQUdObTNqYjI2MkhKeFV3eGZXcw?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "OPINION | When AI creates, who owns the IP rights?",
+      "summary": "An opinion piece examines the unresolved question of IP ownership when generative AI systems produce creative outputs, surveying current legal positions across different jurisdictions.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdjVybWtsczhRRkhWbE02WDUyVkxYX095UUkxMHhMbExhVDFheFlmZFBHeXhKZVVEU1Q3c0hZUE1UbVg3RU5OdkJ2dW0tOHhsSUZCZmhCUEFZU2ZWenlxRG5qNVFha2NVcnBHTHBRX0J5Zm9RdjJoZVM1MmcyTUVEUkZiZ3p0a2dxUzNYMW0yZElucDYtaVM0SXgxUTdxbmYx0gGmAUFVX3lxTE0wS25Qd2JzN2RUVjV2ZE9jSk9rZDBKTklCa2FTNDVqTVZpVklITV9RdjJNWk8yNTRyU3YxVWpzbWJ3UmdWWGt5TEVYcGVTck5oMHFOVEt2Z0tZU1VGcXVJaXpINzNneFloZjhVckJBYUd5LVNfSDBlY1FaUzR0djNEcTlreTVrdFFIOUhIMThMWTBNd3FJTE1hRWFTelh5Z2NDclhUSXc?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "As AI accelerates content creation, industry experts flag copyright concerns and protection gaps",
+      "summary": "Industry experts warn that the rapid acceleration of AI-generated content is outpacing existing copyright protections, leaving significant gaps in rights enforcement and attribution frameworks.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNekVnS2k1OHNmbEl0MXg2azJsYWhmcUU0N1FHT1V2VDNRZmtPNl84c3ZyRkZhZTFFSTRvMmUzZmxGbnhZVWRzeHJEMFNGT3VjdzdpM2cxcFA1QTBKT19ZVEotM0hPSDZkemhXSExmYkNIZk9VN3lBcl9DSU1rU0hFR1dWS3ZoODk0UXd2VTB4RE4tbnd2QlNOS1V6ZHlQMDFpYTNwYlhVckdUUVE1c3ZaQmptRHhBUTNsTE9Xa0hFSdIBvwFBVV95cUxNekVnS2k1OHNmbEl0MXg2azJsYWhmcUU0N1FHT1V2VDNRZmtPNl84c3ZyRkZhZTFFSTRvMmUzZmxGbnhZVWRzeHJEMFNGT3VjdzdpM2cxcFA1QTBKT19ZVEotM0hPSDZkemhXSExmYkNIZk9VN3lBcl9DSU1rU0hFR1dWS3ZoODk0UXd2VTB4RE4tbnd2QlNOS1V6ZHlQMDFpYTNwYlhVckdUUVE1c3ZaQmptRHhBUTNsTE9Xa0hFSQ?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Third Circuit Affirms Revised Fair Use Ruling Against ROSS' AI Legal Research Platform in Sealed Opinion",
+      "summary": "A detailed report on the Third Circuit's sealed opinion affirming the fair use ruling against ROSS Intelligence, providing additional context on the court's legal reasoning in the Thomson Reuters case.",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNREFuMnZDQm5mT3RUMXNJRTVGdi1KaGFhY3BXVURlTTJ2ZDZ1bWFEc1A3V1ZkVjhxWTZ3YWRiTjZhanBLUUVCMl9hMUZYcjMtR0JVMGFwblU0WkdidzVaYTFRYzNfRGdiYnpBR1ZBNThBZ0l4QUJ3NExJN0hLUHpnS1NNZW4xVTFvMlZSWlZ6Q0EySldkVGJrTWdVN1R4SU5RZ0xUQUhJN0tQT1dfY0ZPNnpsSEdfdFVqRS1zdV81WTNfYjR5MFludXZFSEtKLXNRREZtUA?oc=5",
+      "topics": ["AI copyright", "litigation", "legal services"]
+    },
+    {
+      "title": "IP Notebook: AI Dilution, Alamo TM, India Copyright Ruling",
+      "summary": "A roundup covering AI-related trademark dilution concerns, the Alamo trademark dispute, and a notable Indian court ruling on copyright, offering a snapshot of current IP developments across multiple jurisdictions.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb2NabE9YNnh5MFl3QlloRzlYc3BOTm1ZcG9zb1hwMnVmdVRSck5SRnRnN1pOU0QtQVF6OFRoZlM1Tk9taVhybDhyZkhIcG41dzYza2hvcVI4SF8zMFZteTRDTlp5MWJFUHNRVWMyMWRYQlF5YWRhNFhMN2lrRlZ0VmtUTnl4RDRtNXpPbnRyd3cxLWowR180aENSONIBVkFVX3lxTE5nZjIwNDhBVGFIQmw4R1cxc2Rqa09lUEhPTUJDMWoxdTM3NUlsdXpVV080Z0plSTlpWC1NYllLQlVGTUNJWUR3STdEUGs1S0hoNnFtbHdB?oc=5",
+      "topics": ["AI copyright", "litigation", "policy"]
+    }
+  ]
+}
