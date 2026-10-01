@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "summary": "Google DeepMind has announced Gemini 4 Argon, describing it as its most capable frontier model to date. The model is initially being restricted to 'trusted cyber defenders' only, suggesting significant capabilities in cybersecurity-relevant domains. The announcement marks what Google is calling a new era of frontier intelligence.",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "topics": ["large language models", "generative AI", "AI safety"]
+    },
+    {
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "summary": "OpenAI has published details of its response to a coordinated campaign that attempted to distill its models without authorisation, offering a rare primary-source account of an emerging threat vector in AI. The post outlines how the company detected and disrupted the operation. This follows recent reporting on OpenAI's chief research officer addressing the company's approach to security incidents.",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "topics": ["OpenAI", "AI safety", "generative AI"]
+    },
+    {
+      "title": "Here's how tech leaders will self-police AI safety under Trump's deal",
+      "summary": "Tech executives have signed on to a voluntary AI safety accord under the Trump administration, committing to self-regulation rather than binding rules. The deal has drawn criticism from some observers who describe it as largely symbolic. The Verge rounds up what AI leaders are saying about the arrangement.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+      "topics": ["AI safety", "AI governance", "AI regulation"]
+    },
+    {
+      "title": "Introducing SynthID Bio",
+      "summary": "Google DeepMind has introduced SynthID Bio, a watermarking tool designed to identify AI-generated biological sequences. The technology is intended to help researchers and regulators track synthetic biology outputs that could pose biosecurity risks. The announcement comes amid wider debate about AI's role in enabling bioweapons development.",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "topics": ["AI safety", "generative AI", "AI ethics"]
+    },
+    {
+      "title": "The Battle to Be Your Personal AI Agent Is Here [Metered]",
+      "summary": "Wired reports on the intensifying competition among AI companies to become users' primary personal AI agent, covering launches from OpenAI, Meta, and others. The piece examines how hardware devices and software platforms are converging as companies race to own the agent layer. The battle is shaping up as one of the defining commercial contests in AI this year.",
+      "url": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+      "topics": ["AI personal assistant", "generative AI", "AI industry"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": ""We're not going to shoot ourselves in the foot" over hack fallout, says OpenAI's chief research officer [Metered]",
+      "summary": "OpenAI's chief research officer addresses the company's response to a recent security incident and its approach to balancing openness with security going forward.",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "topics": ["OpenAI", "AI safety", "AI industry"]
+    },
+    {
+      "title": "Trump's AI Safety 'Accord' Is a Fancy Pinky-Swear [Metered]",
+      "summary": "Wired argues that the Trump administration's AI safety accord amounts to little more than a non-binding gesture, with no enforcement mechanisms to hold companies accountable.",
+      "url": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+      "topics": ["AI governance", "AI regulation", "AI safety"]
+    },
+    {
+      "title": "The AI Tamagotchis are coming",
+      "summary": "The Verge examines the wave of companion AI agent devices and software products being launched by major companies, drawing comparisons to the Tamagotchi phenomenon.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "topics": ["AI personal assistant", "AI industry", "generative AI"]
+    },
+    {
+      "title": "Google reportedly tests paying publishers for AI search results",
+      "summary": "Google is reported to be testing a programme that would pay publishers whose content is used to generate AI-powered search results, a potential shift in how the company handles content licensing.",
+      "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+      "topics": ["AI search", "advertising", "large language models"]
+    },
+    {
+      "title": "Helping small businesses put AI to work",
+      "summary": "OpenAI has published a post outlining tools and resources aimed at helping small businesses adopt AI, part of the company's broader push to expand its user base beyond enterprise.",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "topics": ["OpenAI", "AI industry", "generative AI"]
+    },
+    {
+      "title": "Responsible Release of AI-Generated Mathematics",
+      "summary": "A post from agmai.org examines questions around the responsible publication and release of AI-generated mathematical research, touching on research integrity and academic publishing concerns.",
+      "url": "https://agmai.org/general-sep29/",
+      "topics": ["academic publishing", "AI ethics", "research integrity"]
+    },
+    {
+      "title": "AI needs $6T in annual revenue to justify data centre boom",
+      "summary": "Analysis suggests the AI industry needs to generate around $6 trillion in annual revenue by 2031 to justify the scale of current data centre investment, raising questions about the sustainability of the build-out.",
+      "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
+      "topics": ["AI infrastructure", "AI industry", "AI compute"]
+    },
+    {
+      "title": "McDonald's push to have AI price your Big Mac",
+      "summary": "CNBC reports on McDonald's efforts to use AI for dynamic pricing, as the fast food giant explores how machine learning can optimise menu prices in real time.",
+      "url": "https://www.cnbc.com/2026/09/29/inside-mcdonalds-push-ai-price-big-mac.html",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "Instagram is adding an AI 'assistant' to tell you how to post",
+      "summary": "Instagram is rolling out an AI assistant for creators that offers posting recommendations and analytics insights, expanding Meta's AI integration across its platforms.",
+      "url": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+      "topics": ["AI personal assistant", "advertising", "generative AI"]
+    },
+    {
+      "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI [Metered]",
+      "summary": "Wired argues that the risks of bioweapons development exist independently of AI, even as the technology accelerates certain capabilities, providing broader context to the AI biosecurity debate.",
+      "url": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
+      "topics": ["AI safety", "AI ethics", "technology ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
