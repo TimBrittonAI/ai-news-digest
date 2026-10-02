@@ -1,0 +1,101 @@
+{
+  "top_stories": [
+    {
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "summary": "Google DeepMind has announced Gemini 4 Argon, described as its next frontier intelligence model. The model is deemed so capable that Google says only 'trusted cyber defenders' can access it at present, signalling significant advances in the model's power alongside concerns about potential misuse.",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "topics": ["generative AI", "large language models", "AI safety"]
+    },
+    {
+      "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+      "summary": "The Federal Trade Commission is investigating OpenAI, Anthropic, and other major AI companies over risks posed by their products. The probe reflects growing regulatory scrutiny of leading AI developers and their potential harms to consumers and society.",
+      "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+      "topics": ["AI regulation", "OpenAI", "Anthropic"]
+    },
+    {
+      "title": "Whatever AI Safety Is, It's Not This [Metered]",
+      "summary": "Wired examines the Trump administration's new voluntary AI safety 'accord,' arguing that the self-policing agreement falls far short of meaningful safety governance. The piece scrutinises what industry leaders are signing up to and whether the framework carries any real accountability.",
+      "url": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
+      "topics": ["AI safety", "AI governance", "AI regulation"]
+    },
+    {
+      "title": "Introducing SynthID Bio",
+      "summary": "Google DeepMind has introduced SynthID Bio, a new watermarking tool designed to identify AI-generated biological sequences. The announcement extends the SynthID watermarking framework into the life sciences domain, addressing concerns about the misuse of generative AI in biosecurity contexts.",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "topics": ["AI safety", "generative AI", "AI ethics"]
+    },
+    {
+      "title": "AI reshapes academic publishing, experts call for quality push across 3,000 KCI journals",
+      "summary": "Experts are calling for a concerted quality drive across thousands of KCI-indexed academic journals as generative AI increasingly reshapes scholarly publishing. The discussion highlights concerns over research integrity and the need for updated standards to address AI-generated content in peer-reviewed literature.",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBwNkdzQnpjV2FBM3VQMXVtQkkxajVfTWE4U3dQY20xcWFtbzlEYlVFV1NnOGh3WjRCTjBFM0dwcG1rTzR6LTVnTjVFNlo2ZXZaQzRuQ0JDbw?oc=5",
+      "topics": ["academic publishing", "generative AI", "research integrity"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "OpenAI's new agent is a shot at Meta — but can it compete with free?",
+      "summary": "OpenAI's newly launched AI agent product enters direct competition with Meta's Muse, raising questions about whether a paid offering can win users against a free rival.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+      "topics": ["AI personal assistant", "OpenAI", "AI industry"]
+    },
+    {
+      "title": "The Battle to Be Your Personal AI Agent Is Here [Metered]",
+      "summary": "Wired surveys the rapidly intensifying competition among AI companies to become users' default personal AI agent, with OpenAI, Meta, and others all vying for primacy.",
+      "url": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+      "topics": ["AI personal assistant", "AI industry", "generative AI"]
+    },
+    {
+      "title": "Google's new Guided Vision feature can help you read the fine print",
+      "summary": "Google has added a Guided Vision feature to Gemini Live, enabling users to point their camera at text or objects and receive real-time AI-assisted explanations.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "topics": ["large language models", "AI personal assistant", "Google"]
+    },
+    {
+      "title": "Judge dismisses antitrust lawsuits over Google's AI Overviews",
+      "summary": "A judge has dismissed antitrust suits brought by Chegg and Penske against Google over its AI Overviews search feature, dealing a setback to publishers challenging the product.",
+      "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+      "topics": ["AI search", "legal", "Google"]
+    },
+    {
+      "title": "Trump's AI Safety 'Accord' Is a Fancy Pinky-Swear [Metered]",
+      "summary": "Wired's analysis of the Trump administration's voluntary AI safety agreement concludes it is essentially non-binding, offering no enforcement mechanism beyond industry self-policing.",
+      "url": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+      "topics": ["AI safety", "AI governance", "AI regulation"]
+    },
+    {
+      "title": "Google reportedly tests paying publishers for AI search results",
+      "summary": "Google is reportedly experimenting with paying news publishers whose content is used to generate AI-powered search summaries, a potential shift in how the company handles publisher compensation.",
+      "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+      "topics": ["AI search", "advertising", "Google"]
+    },
+    {
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "summary": "OpenAI's blog details how grocery giant Albertsons is deploying ChatGPT-based tools to streamline internal operations and improve customer experiences across its retail estate.",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "topics": ["OpenAI", "generative AI", "business"]
+    },
+    {
+      "title": "An AI 'mind-reading' tool can reconstruct what you're looking at from a brain scan [Metered]",
+      "summary": "Researchers have developed an AI system capable of reconstructing visual imagery from brain scan data, advancing the frontier of neural decoding technology.",
+      "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+      "topics": ["AI research", "generative AI", "large language models"]
+    },
+    {
+      "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI [Metered]",
+      "summary": "Wired argues that biosecurity risks from bioweapons development predate AI and that the technology amplifies but did not create the underlying threat landscape.",
+      "url": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
+      "topics": ["AI safety", "AI ethics", "technology ethics"]
+    },
+    {
+      "title": "Elon Musk's Grokipedia has a 'newly refreshed' design",
+      "summary": "SpaceX AI's Grokipedia, an AI-powered alternative to Wikipedia, has received a visual redesign update as Musk continues to expand the xAI product ecosystem.",
+      "url": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "topics": ["generative AI", "AI industry", "large language models"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "The Dot and the Swarm",
+    "summary": "Ethan Mollick examines the emerging landscape of AI agents, contrasting the vision of a single all-knowing personal AI 'dot' with a more distributed 'swarm' of specialised agents working together. He explores what these competing approaches mean for how people will interact with AI in work and daily life, and considers the implications of each model for user autonomy and productivity.",
+    "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm"
+  }
+}
