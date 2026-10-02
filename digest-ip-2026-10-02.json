@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Unsealed opinion shows why Thomson Reuters won landmark AI fair-use ruling",
+      "summary": "A newly unsealed opinion from the Third Circuit reveals the reasoning behind Thomson Reuters' appellate victory over Ross Intelligence in a landmark AI copyright case. The court affirmed that using copyrighted Westlaw headnotes to train an AI legal research platform did not constitute fair use. The ruling is being closely watched as a signal that traditional fair use doctrine applies to AI training data.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcDViN1JpU19rTVlyTEZoU0tqRW5EOVF5eVJWc21LaTBVb3NlT3ZCYll0OTUycVF2Q3pNN0xCcDVnRDRlQWdseEZKeDdIZTJYc1ZacE5oZ05seHFPODVSb1ltQ2pOc1pGaVNOVkt3TDBrQ1JlSVB4VTQtUmU1WFZOUks1TkxuRXBEUGNWcVV5ZmZtYjJEekwwTHdQZk1jdFk4RUpNVWFVbWNVRGtNY0d2aUp0YzBhanQzRUt4YlRMMi1Ob0d3RVE",
+      "topics": ["AI copyright", "litigation", "fair use"]
+    },
+    {
+      "title": "Why Thomson Reuters v Ross is no 'ordinary copyright case'",
+      "summary": "Legal analysis examines the broader significance of the Third Circuit's Thomson Reuters v Ross Intelligence ruling, arguing that despite the court's framing it as routine, the case sets important precedent for how copyright law applies to AI training. The piece explores implications for the wider AI and publishing industries. It draws on primary court documents and established legal commentary.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS2pENWZVQ0FzNWt0VHJyTVlRSTNLSXBJRlFuM3dkSGExZWZwd2xzY3dnT2p4UmEyNmlqMzJMa2hSeWRrYTR3bnluWk1iSDNZZzEzOXZXSS1ER09pSzE2WVZVejJPZVAxZlh4T1JsV01VRlVEWVNOVXVsTXI2Zk9BaTVYRHNlQW1QSm55c1NJM0h5aGQxY0gtZ2FFSEI",
+      "topics": ["AI copyright", "litigation", "legal services"]
+    },
+    {
+      "title": "3rd Circ.'s AI Copyright Ruling Signals Traditional Fair Use Rules Still Apply",
+      "summary": "Analysis of the Third Circuit's decision in Thomson Reuters v Ross Intelligence concludes that the ruling reinforces the application of established fair use principles to AI training scenarios. The court rejected Ross's argument that training an AI on copyrighted legal summaries was transformative. The decision is seen as a significant marker for pending and future AI copyright litigation.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeU1BYkpBNDBHVl9mWkF6bmtPSmxGX2EtYTRUZHY0cWd1VmNKUDRzMm8tZmRvOUVYS3hLNmJaa1RndklJZFFGdFpiTWhwaTFGZjVzLUlObG1aYms5LXhDV3dIMFJlbDUyRmxUd20zOHhtRmRBOXF2RmYtZXNLTHpDeG5GOWNmOU1vMHB3SGJZMWxpVFQtV3c5ZmZ3dlVEVVlBTDZrQWpnc3FOeVIz",
+      "topics": ["AI copyright", "fair use", "litigation"]
+    },
+    {
+      "title": "In the Age of AI Knowledge Consumption, Could Micropayments Be the Copyright Solution?",
+      "summary": "This piece examines whether micropayment systems could provide a workable licensing mechanism for compensating rights holders whose content is used in AI training. It considers the practical and legal challenges of implementing such a system at scale. The article situates the discussion within the broader debate over how AI companies should pay for the content they consume.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Vc3lZaEpaWm1GemZxeWxmWEI3WTFubzQ2ckk3Q0MzQkhLcUJJR3hRbzFvb0kzZEV1M21FbGlfV3hGTHZwc0l4RlhGVk54elZJeGtwTHJhM1poeXN0N1dLelQ2NnJUeGMxN3JwcExzMVcyR0dIdUE",
+      "topics": ["AI copyright", "licensing", "micropayments"]
+    },
+    {
+      "title": "Apple Says YouTube's Bad Protections Doom AI Scraping Suit",
+      "summary": "Apple has argued in court that YouTube's inadequate content protections undermine a lawsuit targeting AI web scraping of its videos. The case raises questions about the extent to which platform-level protections affect copyright claims in AI training disputes. The argument could have implications for how courts assess liability in AI data scraping cases.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNjRzR1VPdmZjcTBKRmRGbHpTLVJCZVdDWjlTRXN3LVJkd28waS12d0dBV3dMekd4aDlHZGpzR2Vkb1h6aGZoa0pkNHVabUlUb01NMUxUdHdMZV9MaWxHNnZ1Q2JaeXFSa1FsVFo0R1JZSzNtWlRXVVVmZWZMT1dtTEhzWUdSTk9qUjVIT1dydXhhbVNPdFhYNHUwcXp6aFHSAVZBVV95cUxOc3RyS3VPRzliNXhfSkVyVzI4WlB0eVhPeFdhVUNLM2htc2hkZDBqNkdzakk0dkNQa2F5cTVKdjdfa1d4ZGJOdHl5UDJmb1A1Wnk5VmlNZw",
+      "topics": ["AI copyright", "litigation", "web scraping"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "AI Learning or AI Copying - Ninth Circuit Weighs In",
+      "summary": "The Ninth Circuit has entered the debate over whether AI training on copyrighted content constitutes copying, adding another appellate voice to a rapidly developing area of copyright law.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTGUwWmk1TmhMSWNUMlczMzVIR2ZWcFNhSUpWX2dRX0tQRXZiTnB2OW5TSFNQMnIwc0xDTTJweElwMlpOYnA0dmstU09YOW9IbzN5TVNiQjY4a1phWURfbVEyWmtOcWMyb1g0Y2JYZ2R5bUU1VGp6ZmNQSVNYT2l0VURMWmdDd9IBiwFBVV95cUxOYklMNzk0dGdrWk5QRjExRmwwb0N1YlZXUFVjZlg0MU9DYzh1d3BidENfeUJEczNnZlhLcHdJcDFvU3VGRjA3YXRMNlhubUVWRm9UN0ZKRXd4Zjg3c2swNXJfUm5vUkxzeVZlSV9WYXBDellwUHhNci1GV0I0czdFejg3TkxrY2VTSHBz",
+      "topics": ["AI copyright", "fair use", "litigation"]
+    },
+    {
+      "title": "US appeals court rejects 'fair use' defense over AI training – as Thomson Reuters wins copyright case backed by RIAA and NMPA",
+      "summary": "A detailed report on the Third Circuit's Thomson Reuters v Ross ruling, noting that music industry bodies RIAA and NMPA filed amicus briefs supporting Thomson Reuters, underscoring broad rights-holder interest in the outcome.",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPLVpsd0o2VGhwT3BoSFZTLXVuQTJWSnBQRm1TT01zREhNSm1zRERyRDhqRnVqN2hXbVJYNHowUkFnVl9BTVhUazZ4R3d2b2FXZWU3TFJkRU9sZVZyTkxzbGtwVkJSckwtZjY1bXByVG9OcWo1YldnTDcwQXpBV0xGTGVxUW5iNVhtR3M0YnJqVEEwV2JkeDZUV3BUN2FHYXh2bHg1VGphSmk2S2psMm4tbllhLXMtamktN19KZW5FcFBoS1pYV1dBYkxYNW1VZXNJclZBVEhDOG9CeDIzSE5HcFdkcnRfV2FZWXFpTXYtZkVVSVE",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "AI is consuming human knowledge. It should learn how to pay for it",
+      "summary": "Opinion piece arguing that AI developers have an ethical and legal obligation to compensate creators and publishers whose content underpins AI systems, and exploring potential frameworks for doing so.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN0dCb3A0VkJjMGt1UXNMSEJ2VlIwQk9FYkJwUUFQNmQtbC1JQVVxNGQ4VHhKS196RjVFNDVVVXVMQUU3Y0NaaFBPMmN5bHJwMFllS3pwYXV3ZnRVSnhiNjlnQ0tYUWRfRDFUaTQ3dVY2NE5nZ3luMk00MWVkcE5KTVNR",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "From music streaming to AI training: What India's IP data tells us about the next copyright debate",
+      "summary": "Analysis using Indian IP data to draw parallels between the disruption caused by music streaming and the emerging copyright challenges posed by AI training, suggesting lessons for policymakers.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYmQtdlA5d1VxX0JsQy0zeGxPRmNNTVNXaDRCMWE0MzVVSDU2Z1E3X2NPTEQ0bHRLR19kT0t5XzNsTzFMWUUzOFVSQ0VfT0w2T2sxb2c5MFduSzdwNG11aTZZVF9MZ2xOOEprRGtOaUJpMVBKZmdQNXduTG5nVFBrRGFldmVQT0I1bUpJWlpOUmRmSkVE",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "IP Notebook: AI Dilution, Alamo TM, India Copyright Ruling",
+      "summary": "A roundup covering AI-related IP dilution concerns, a notable trademark dispute involving Alamo, and a significant copyright ruling out of India.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb2NabE9YNnh5MFl3QlloRzlYc3BOTm1ZcG9zb1hwMnVmdVRSck5SRnRnN1pOU0QtQVF6OFRoZlM1Tk9taVhybDhyZkhIcG41dzYza2hvcVI4SF8zMFZteTRDTlp5MWJFUHNRVWMyMWRYQlF5YWRhNFhMN2lrRlZ0VmtUTnl4RDRtNXpPbnRyd3cxLWowR180aENSONIBVkFVX3lxTE5nZjIwNDhBVGFIQmw4R1cxc2Rqa09lUEhPTUJDMWoxdTM3NUlsdXpVV080Z0plSTlpWC1NYllLQlVGTUNJWUR3STdEUGs1S0hoNnFtbHdB",
+      "topics": ["AI copyright", "trade marks", "policy"]
+    },
+    {
+      "title": "Third Circuit Affirms Revised Fair Use Ruling Against ROSS' AI Legal Research Platform in Sealed Opinion",
+      "summary": "Detailed legal reporting on the Third Circuit's sealed opinion affirming that Ross Intelligence's use of Westlaw headnotes to train its AI legal research tool was not protected by fair use.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWnJKZ3dkbTNBaFVHUTVjWUpnVHVLeUM1UXlvcTRNbzFDekdwVEtnRTRjOUs1OGg3My12S2tmN2dQQ2xCT3d1RmVYQklUTzZORW1sM1FISnVTUERYYlVjRzNjOERCOW02UnBYdkNnZ18yeUYwOEhIZUM5MW9GdUdGNjJ0c3lnN1hQOVN1Mmw4WlE3Smx5VGM5VzljVFFORUw1eXA2R3hCZm5JaWRrVkxmckhnc2MyN0VKNDVzNFdHVzVPRjJ6WHQ3cWh4eTVJS3p0RUtBcEszekF4LWo4cGtV",
+      "topics": ["AI copyright", "litigation", "legal services"]
+    },
+    {
+      "title": "Sparkonomy Launches Open Creator Graph to Put Creators in Control of How AI Uses Their Identity",
+      "summary": "Sparkonomy has announced a new open platform designed to give creators visibility and control over how AI systems use their identity and likeness, positioning it as an infrastructure layer for AI licensing.",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVW1VVTVaNHBYdTNHLU91Zl85R3hzNEFsMDJOVi1RZzBrMGZlaGJkRF9zSVA5WlA5THZ1U3ZsZDM1U1ZaNTkxMVdhNmJGbDhTWTB4b241X2tFem1yWkNLNXV4RTk1MXQ0VXRJd25CM1BLcERBUFlCVk9yNU5zcVNOaHJ5TmFRbV9vVjZ1NUxuRXJadlZBYlAzcHJ5UlBramxkQ3M0SlI2TUlUdlk0ajI0aTNYVXprMG43cmFnOVBCNUlCcm5fRHVNaGhHa2k2WXlHQ09IM2ZUR1NRZksyOXc",
+      "topics": ["AI copyright", "licensing", "creator rights"]
+    },
+    {
+      "title": "Ask the Chefs: What Would You Have Done Differently About Open Access/Open Science if You Predicted the World as it Exists Today? Part 1",
+      "summary": "Scholarly Kitchen contributors reflect on open access and open science decisions made in the past, considering how the rise of AI and large-scale data use might have changed their recommendations.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/01/ask-the-chefs-what-would-you-have-done-differently-about-open-access-open-science-if-you-predicted-the-world-as-it-exists-today/",
+      "topics": ["academic publishing", "open access", "policy"]
+    },
+    {
+      "title": "Guest Post — Medical and Health Data Sharing Policies Need Specific Guidance: New STM Recommendations Aim to Help",
+      "summary": "STM publishers have released new recommendations for medical and health data sharing policies, aiming to provide clearer guidance amid growing pressure from funders and AI developers seeking access to research data.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/30/guest-post-medical-and-health-data-sharing-policies-need-specific-guidance-new-stm-recommendations-aim-to-help/",
+      "topics": ["academic publishing", "data sharing", "policy"]
+    },
+    {
+      "title": "Children's Authors Sue Los Angeles After Library Cancels 'Read Palestine Week' Event [Metered]",
+      "summary": "A group of children's authors has filed a lawsuit against the City of Los Angeles after a public library cancelled a 'Read Palestine Week' event, raising First Amendment and free expression concerns in a publishing context.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/101406-children-s-authors-sue-los-angeles-after-library-cancels-read-palestine-week-event.html",
+      "topics": ["book publishing", "litigation", "free expression"]
+    }
+  ]
+}
