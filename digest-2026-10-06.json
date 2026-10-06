@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+      "summary": "OpenAI is implementing text watermarking across ChatGPT and Codex to comply with EU AI Act provenance requirements. The company published a dedicated page outlining its approach to EU text provenance rules. This represents a significant step in AI-generated content identification and regulatory compliance.",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "topics": ["AI regulation", "OpenAI", "generative AI"]
+    },
+    {
+      "title": "All the drama around AI's takeover of mathematics",
+      "summary": "The Verge reports on the rapidly evolving and contested story of AI systems making breakthroughs in mathematics, examining the claims, counterclaims, and wider implications. The piece explores what it means for the field if AI can genuinely solve problems at the frontier of mathematical research.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "topics": ["AI research", "OpenAI", "generative AI"]
+    },
+    {
+      "title": "Wikipedia operator says OpenAI's 'rogue' bots may be linked to a May outage",
+      "summary": "The Wikimedia Foundation has alleged that aggressive crawling by OpenAI bots may have contributed to a significant outage in May. The incident raises questions about responsible AI data collection practices and the burden placed on open-knowledge infrastructure by AI training pipelines.",
+      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+      "topics": ["OpenAI", "AI ethics", "content policy"]
+    },
+    {
+      "title": "OpenAI is sticking more ads in ChatGPT",
+      "summary": "OpenAI is expanding visual advertising within ChatGPT, publishing a dedicated post outlining its new advertising formats and measurement approach. The move marks a significant shift in how the company monetises its flagship AI product and raises questions about the user experience of AI assistants carrying commercial content.",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "topics": ["OpenAI", "advertising", "ChatGPT"]
+    },
+    {
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "summary": "Ars Technica reports on a structural security vulnerability in the Model Context Protocol (MCP), used by Google and others to enable agent-to-agent communication, which researchers say exposes a fundamental flaw in how AI agents share information. The vulnerability could allow malicious agents to manipulate or intercept data passed between AI systems. Security experts warn that the issue is systemic rather than limited to any single implementation.",
+      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "topics": ["AI safety", "large language models", "AI infrastructure"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Sam Altman says 'some bad things' will happen, but AI is totally worth it",
+      "summary": "OpenAI CEO Sam Altman acknowledged in a Vanity Fair interview that AI will cause harms but argued the benefits outweigh the risks, while OpenAI PR reportedly pressed a journalist to drop questions about a ChatGPT user's suicide.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+      "topics": ["AI ethics", "OpenAI", "AI safety"]
+    },
+    {
+      "title": "People really hate AI, so why can't they get enough? [Metered]",
+      "summary": "MIT Technology Review examines the paradox of widespread public scepticism about AI alongside rapidly growing usage rates, exploring what drives adoption despite negative sentiment.",
+      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "topics": ["generative AI", "AI ethics", "consumer research"]
+    },
+    {
+      "title": "AI tutoring with Khanmigo in a two-year school experiment",
+      "summary": "A new working paper from the Education Working Papers series reports findings from a two-year study of Khanmigo AI tutoring in schools, assessing its impact on student outcomes.",
+      "url": "https://edworkingpapers.com/ai26-1551",
+      "topics": ["AI research", "generative AI", "academic publishing"]
+    },
+    {
+      "title": "Spending on AI is becoming almost impossible for businesses to budget [Paywalled]",
+      "summary": "The Wall Street Journal reports that the token-based pricing model for AI services is creating significant budgeting challenges for businesses, as costs scale unpredictably with usage.",
+      "url": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+      "topics": ["AI industry", "business", "large language models"]
+    },
+    {
+      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
+      "summary": "Jack Clark's Import AI newsletter covers swarm-based AI scaling research, Google DeepMind's work on watermarking biology-related AI outputs, and the emerging economics of AI-driven science.",
+      "url": "https://importai.substack.com/p/import-ai-475-swarm-scaling-google",
+      "topics": ["AI research", "generative AI", "AI industry"]
+    },
+    {
+      "title": "This startup is issuing AI-generated acne prescriptions",
+      "summary": "Nolla Health is using AI to generate dermatology prescriptions for acne treatment, raising questions about liability, safety, and the regulatory boundaries of AI in clinical settings.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+      "topics": ["AI ethics", "generative AI", "AI regulation"]
+    },
+    {
+      "title": "Pop!_OS bans AI-generated code from much of its codebase",
+      "summary": "System76, the company behind Pop!_OS and the COSMIC desktop, has announced a ban on AI-generated code across many of its core repositories, citing concerns about code quality and licensing.",
+      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases/",
+      "topics": ["AI coding tools", "content policy", "AI ethics"]
+    },
+    {
+      "title": "Our minds aren't equipped to handle AI",
+      "summary": "The Verge examines research suggesting that human cognitive models are poorly suited to understanding and interacting with AI systems, with implications for how people trust and rely on AI outputs.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+      "topics": ["AI ethics", "user interaction", "technology ethics"]
+    },
+    {
+      "title": "Gemini Call for Me might tell your mom you're running late",
+      "summary": "Google's Gemini 'Call for Me' feature, which uses AI to make phone calls on behalf of users, is reportedly expanding to more personal and routine use cases beyond the original customer-service focus.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "topics": ["AI personal assistant", "large language models", "Google"]
+    },
+    {
+      "title": "Rural Data Centers Are in for a Big Federal Tax Break [Metered]",
+      "summary": "Wired reports that new federal legislation is set to deliver significant tax incentives to data centres built in rural areas, a move likely to accelerate AI infrastructure buildout outside major metropolitan hubs.",
+      "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+      "topics": ["AI infrastructure", "AI compute", "AI regulation"]
+    }
+  ],
+  "ethan_mollick": null
+}
