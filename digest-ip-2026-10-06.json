@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Third Circuit Rejects Fair Use Defense in Landmark AI Legal Research Copyright Case",
+      "summary": "The Third Circuit Court of Appeals has upheld a ruling rejecting a fair use defense in the Thomson Reuters v. Ross Intelligence case, affirming that using editorial content to train AI systems is not protected by fair use. The decision is being closely watched for its implications for AI training practices broadly, including by music industry litigants. The AAP and Authors Guild have publicly applauded the ruling.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRVo1YTBHT2lnWXBoUVp6S1JDYnR4ZkFmaDJoMWViSWNSMWxwRFJvemV0X0l3c2lzdjNLMHBIWEMzOXk0aHV1WnlkS2w3RkdBZ1NiZ2ZGazYtbm5IRmNHaFAtdzlzZkxxWWVIZDNXYWJBLTYyMlhRekRMV2ljVC1GcUEzTDZRLTdTaTZGbmh1QTE4TUVFMUVSNEdmLWpkR0o1ek1uLU4zc05xYUJGTzgzRjBsOEpWMDEycnBBTERmMkdQNzgtREtKLV8xb05CQQ?oc=5",
+      "topics": ["AI copyright", "litigation", "fair use"]
+    },
+    {
+      "title": "ByteDance Can't Shake YouTubers' AI Video Copyright Suit",
+      "summary": "A court has declined to dismiss a copyright lawsuit brought by YouTubers against ByteDance over alleged use of their videos to train AI models. The ruling allows the case to proceed, marking a significant moment in creator-led litigation against AI companies over training data.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYnp5TVpOR2d2bEROMk4zLUVoRlNYWXBTVzhQR1d6NS1NWUwtdkQ0d3QwczdYcWNiRDZHWi1jdXl2TWozSnhFdVpXVndQY3A4SUJKLVlidzQtcm9OZVgtXzhLLXlnRG84OHBnMnpmT3ZCN2ZDNnhZMjRBSWhtMk1pLThlRDVxTGJqY083SWtfTVNfd2NzSUkxY25ZSdIBVkFVX3lxTFBzWFN0WnNZdmgwcGtDWkpQN3hCY0xsNFN3anRfRndrOHhPR0tUdUl3eW1LQ2xxaEkwWlhIU0JLRXpZU0hUUnlUbmpqbHBILXFnekh3bDNB?oc=5",
+      "topics": ["AI copyright", "litigation", "video content"]
+    },
+    {
+      "title": "Australian creators demand protection as AI firms call for looser laws",
+      "summary": "Australia's ongoing AI copyright inquiry has seen creators and AI companies stake out opposing positions, with creators demanding stronger protections against scraping and AI firms including Anthropic arguing for broader copyright exceptions. Australia's ABC has separately stated it rejects any copyright carveout, saying it believes its content has already been scraped without consent.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaFRDTW9CRFVBSERidEFNWGs1WmgxMzhVSFFnZFVTc1A5SmJJb0pOSk9sXy1KVzlDNkRrUUhGYjV0YVZwaFM5MjlXdmRSZXdZRE10Vkw3YVNLcHBsVWxHaThCSUtfSW01UjZCcnVCcWN1TDB5b2cxOWFkT0dpbEJKM0I3WUdmeHRGYzVMblktZzJ2MXJrRHF5M2RNc1JvaS0xSllxWV80cERDd3NuS054bER1RGc0VElK?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Google wins against publishers, its AI overviews stay legal",
+      "summary": "A court has ruled in favour of Google, finding that its AI Overviews feature does not infringe copyright, delivering a setback to publishers who had challenged the practice of summarising their content in search results. The ruling has significant implications for how AI-generated summaries of third-party content are treated under copyright law.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOV9yY0tRWHlMdDhWMkpRQWwtQUY1OTlsdURtZlNTakhseXBXQnFEWEp2ZW9sX1QzM3hIbW5IMjZGUWtuVmRqeHdYTGJ0WHFKWHR6S0tYd2xnV05WQ1dEMmxja2ZtdThtNVdGRGttS3F6TUNRMUp2eDRZaXNWZm0wYzdPbVB4SEp6ZlE?oc=5",
+      "topics": ["AI copyright", "fair use", "publishing"]
+    },
+    {
+      "title": "AI Co. Reaches Deal To End Copyright Case Against Microsoft",
+      "summary": "An AI company has reached a settlement to end a copyright infringement lawsuit against Microsoft, resolving a case that had drawn attention to questions of liability for AI-generated or AI-assisted content. Terms of the deal were not disclosed.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTVpoOXoyZWJnemRHNDVpSVJaUnp6V2YtM1BCY1VyQVhUZ0lhRmV1ZUgwd3FrZmRXNlAxS191azBBZ1dUel9lWW5xVXROVU01aHE2SURZY3RpaGpCME5ZS1ZiZXVUTGpNLVYtS3pPU2ZIeWNhU1UyUWR5ZEZENnBfMVZWOEtGdmQ3cVRKcUREN0ZNWHJCV1h1R2ZmUDJDX2NSAVZBVV95cUxORTRwNktWWXo1Vm5QUDhOR0xlNVkwUEI3ME8tN0R0UVZnT3lmOVl4VVJReGlSQmhqSThRdUpxM0dYUEcwT1RTeFdCYkd4NU82a0llZGxRdw?oc=5",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "What Thomson Reuters v. Ross Does and Doesn't Say NOW About Fair Use and Generative AI",
+      "summary": "A legal analysis unpacking the scope and limits of the Third Circuit's Thomson Reuters v. Ross ruling and what it does and does not establish about fair use in the context of generative AI training.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUnFYNnV0Mk9GY1dRelRqT0FoRlRBR1Jyc0ZtU3FiUDdIU0lQdHpJWFVHYzFndmhZWk5pZFA4c0ZmVXJ2Rnd6NmZ4bUJQY0hqTUJJVUlPdnRoVnUtd2xBS0pRYWk4cUZEdEwwWXlQbUdhREUwRTh5TDdXbWU2Y3pVX0tiQVFQZw?oc=5",
+      "topics": ["AI copyright", "fair use", "litigation"]
+    },
+    {
+      "title": "Historic ruling on 'fair use' and AI may help Nashville songwriters",
+      "summary": "Music industry observers assess how the Third Circuit's rejection of fair use in the Ross case could bolster record labels and songwriters in their ongoing copyright suits against AI music generation companies such as Suno.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNGkxNm94cTNBVkk0Z0hnV2Z4T0RJNktYNW1OTlBRWU01QldpRUFkSUZSRG5ZbExhMGczeWtaS2dXN0VUQWEtWnNabFhlU0pnQmZHaDhPOXRadGY2ckR5dVc2cnNGenFaUFdKcGx4UUUwbERnODBGYmJfVTBSNllpVThGbjVHaWVJaE1ITV9RT2pSMXpVbzM2T3VLTFoyZVUxQThvaDF2aHVCVXB4N0VaNW1NOWtiQU0?oc=5",
+      "topics": ["AI copyright", "music", "fair use"]
+    },
+    {
+      "title": "Ninth Circuit Rejects DMCA Attribution Claims Against Generative AI Outputs",
+      "summary": "The Ninth Circuit has rejected claims that generative AI outputs violate DMCA attribution requirements, narrowing another avenue of legal challenge for those seeking to hold AI companies accountable for how they use and reproduce creative works.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUERpZzBwNXZPRTZSc0pCbnBOVVVhQXk2Z1otQjBFQUJObWZtZERkVmo4ektVMG1Bd3NKMnFyUGpnc3VWRDdOZWoyWVRkblRESzZDUGh1M2hjZ2tyNzNoZXVUeTF2R1JYY2pxcWpacXl2ZVBuVG8tZUpha2RUQ2EzZVdaZnVxU09Y?oc=5",
+      "topics": ["AI copyright", "litigation", "DMCA"]
+    },
+    {
+      "title": "Roblox Escapes Artist's AI Copyright Claims, For Now",
+      "summary": "A court has temporarily dismissed an artist's AI copyright claims against Roblox, though the ruling leaves open the possibility of the case being refiled with additional evidence.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYlNqY3ZuTWhKMkxqLWNzUDZueGVaOFcyVnVicXBUWXF5MmhzbGd6TDdab2ctN3NDcU54Z2JkQ1NjX1UyVUVqbjF3QVduR1E0NHotQ2pYWjhKajlMc1QwTmpTcWk4MGE2Y2hLLTRWZ2NITWgxb3lrc1FzV1VfUkNiS2hCSnY1Q1pRWElLa3g2Z3gwZklZeVHSAVZBVV95cUxNNzdKNkJmUHUtYXplemNiTWZSMUFPY3pUd0xKeGdhcHJmNzZydDFudGRXTHk5NDVmN2xfS05GWkRhUkIzeVE0ZnFkU0dkNG8xTWl4STlIZw?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Training in the Safe Zone: Building AI Models in Copyright Havens",
+      "summary": "An analysis of how AI companies are exploring training models in jurisdictions with more permissive copyright regimes to avoid liability in stricter markets.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaFV6bVRKbExKMTR6M3dRQW1aSUFNRGlDcWJncGtfbFNXUHpOdUNXMnMzdVEtVF9XVFF6ak1vVy1BejlleHJPVG1tNlhuX3pONzg3VF84SklpM2U2U2c4TjN2V0RweXdETWVzSThQYlFnWlZwLWRqNklUcGQ4bjdKRU5Gbi04U1k?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Audible's New AI Stories Test The Boundaries Of Copyright Law",
+      "summary": "Audible has launched AI-generated audio stories, raising questions about copyright ownership and the legal boundaries of AI-produced creative content in the publishing sector.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTWVXbnZBWFFBVWQ3a1hsd1FPZk1CRG1rUHVVMWt5TVBHcjF3dWRMNmN5VXhrZXhVTm9OT2lpYVZjamJVUU5vWkxiNFp0SjktY1ZzRTlxeHFSYllEWUVKODBNR1A4ZUhQYVhBMjVESEF2RDBSR1E3SUVwQndOX1BNamJ0dWw4a2RtVE1COUF3LXlpT0hXYW1ZOVFNVV9NOUh4Y0UtSTJBdjBaaXlqb0pIZFlBZGk5UjFsTU1TRGF1b0RtbGpPLUE?oc=5",
+      "topics": ["AI copyright", "book publishing", "audio"]
+    },
+    {
+      "title": "Govt panel to study AI-copyright hasn't met since June; second working paper delayed | India News",
+      "summary": "India's government panel tasked with studying AI and copyright issues has not convened since June, with its second working paper now delayed, raising concerns about the pace of policy development.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWEpVTXZVSmJqVkJKMHFOVEJiWU1jdHEtcDd0NEQ0TWhBTnV2UWVLTXlWUW44eTR5clg2UHVNTVk4MmVPUDR0Q0VtRlVSbFM0RmktdENUWlFZcDdweG50X2hNSDlYQ015akhoTTVYdnNrNGR4eW5QaG9hTHkwRE5DVzliWlBmZ1VzTFg2MC1qTXJUTF9uTGRQdGZ1ZE05SEV0VjJHekw0MGl1TnV2eTFISk1NQzY1a0ZrZXJsdVpJTFBXbEtCQVJxQXRpR0ZvaWw3V2JFQURGZWlSbkdnaHI00gHkAUFVX3lxTE9TLVZLeXo4MmxIVk1nZ21PQlNCVlZvY2lsQmNhT1M0RER3R0NWZTA1N2p6RXRadEFhVzVpajJxRUsyb0IwN25BejBvUzhKNk1rdmxlTDBVMDFkM0s2d3ItYy1HSlBaMUYwLXRqdVVQNVJ2SXp0Q3dKTWx0RTJBZlRiQ0hGRUdnZXpfWFM1RTBUZmJwUTRtY2hnZVpFTUFfUW0wY1ZDVmRPUnhSdnRaeUhiOEZ3UUxabk5jcjcwZVhkMVV3VGZoc3F6Y0hCNjdRc19NaXozM3RYTmFfc2gxVVBFM0NQRw?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Publicity rights extended to voice in Tokyo ruling of 30 September",
+      "summary": "A Tokyo court has ruled that publicity rights extend to a person's voice, with implications for AI voice cloning and the use of individuals' vocal characteristics in AI-generated content.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzTVBHYVkxOTVpcFo1R1JTeVljU3hUSUNDN3RLckVDN19uRlpKSW9BckVYSnJCMDFncHJGWlp6Y2xBSXh3WnlkOHhrcXlwX1BvcVRFNy1oaWZ3YnltQ1B2eGZreEQ3b1ZKNHdoTXZTM1Y?oc=5",
+      "topics": ["AI copyright", "voice rights", "litigation"]
+    },
+    {
+      "title": "The Representation Is Not the Scholarship",
+      "summary": "The Scholarly Kitchen examines the distinction between AI-generated representations of scholarly content and genuine scholarship, raising questions about authenticity, attribution, and the integrity of academic publishing in the age of generative AI.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/05/the-representation-is-not-the-scholarship/",
+      "topics": ["academic publishing", "AI copyright", "AI tools"]
+    },
+    {
+      "title": "Prosecutors Want Nearly 4 Years in Prison for Man Behind $8M AI Music Streaming Scam",
+      "summary": "Federal prosecutors are seeking close to four years in prison for the individual convicted of running an $8 million AI music streaming fraud scheme, in a case that highlights criminal liability at the intersection of AI-generated content and music rights.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcDhRQUU0LUJZQlhBRjZsRFN2bGZIM1lKOVpRN0pIT3NDbjZJZ29vNXg4eFRFOWk2T2FyT0tKY2psVFhPT20zV2FNODd4OWFEZXdIQklTc19FZV80dmpPaThENFp4Q3gzdzRnMUViUG5MbVN3YXVOZDNhMFRLZVhRd2RxY21GTVprUlA5WER1blNYdk0?oc=5",
+      "topics": ["AI copyright", "music", "litigation"]
+    }
+  ]
+}
