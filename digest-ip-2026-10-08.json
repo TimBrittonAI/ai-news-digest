@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "INF: Clarion expands Live Events as Taylor & Francis prepares for independence",
+      "summary": "Taylor & Francis is preparing for independence as Clarion expands its live events business, with Informa announcing a £2.24 billion acquisition of Clarion from Blackstone. The story has direct relevance to a major academic publisher navigating a shifting media and publishing landscape.",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSTc0T2hqUVVJbW5rd1phMWVTMW1qWEl6emVWQjduUHdlWml3aEpnTFZ0RUllSTFMUjl5aWkxdFo3UWl3WkVVUk9FeFFZbEs3SEJUSDMzVm5oRURnSnJVWjRZQm44VUJZZ3h6NlRhUnJiOHVoSmxSSlZmS2ktdVFndnNQZWlDU0VWYUdsN2lDTzNaN1M5ck1XNW9rNXpYMHY0QS1UY1o3Zmd5T3hLSDIyNUxiWW9SUjRiVWplU01XRzVPalFtSDd1VXdub2xXdFhRVWE3a0hLZ3B6cGlvOW1TTUhudGZTQnp4RTlrejV1Q2xQdW5h?oc=5",
+      "topics": ["book publishing", "academic publishing", "licensing"]
+    },
+    {
+      "title": "Third Circuit Affirms Copyright Protection for Westlaw Headnotes and Rejects Fair Use Defense in AI Training Case",
+      "summary": "The Third Circuit Court of Appeals has issued the first federal appellate ruling on fair use in AI training, affirming that Westlaw's headnotes are protected by copyright and rejecting a fair use defence by a non-generative AI system. The decision is a significant precedent for how copyright law applies to AI training on legal and other curated content.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XOGd5Wm56X1ktdWtONGVoTzFkNV91WnZtQTBpd2o5UHhrS012cEZNYk1sZEZuMXpwNHhEd0VmWm9ua3ZtMjFwanJQMV9Oa2tJN2VVeUxIcS1IT0c3YnZwcnBaMXZ5OEpjTHBFNGpXZVlZQ285SmNqcEhYTzFHTmc?oc=5",
+      "topics": ["AI copyright", "litigation", "fair use"]
+    },
+    {
+      "title": "EU considers copyright reform for gen-AI as US court rejects 'fair use' claim",
+      "summary": "The European Commission is consulting on potential copyright reforms in the context of generative AI, including whether creators should have opt-out rights from AI training. The story runs alongside the Third Circuit's US fair use rejection, marking a pivotal moment in transatlantic AI copyright policy.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaTNRdnhzZ05PcVF2OEdmVDJ1eXE0aU9aVFZKMFk4UTRiUHdwLWV2aHprTXBUdzVqZmp5RE5CNTJUS25SU1JpWmU0eG9lZ0c4cFBvZlBtWER3R3RkRXhDUjA5VWNUTzh1bndSaXNEd2ZxckFVREFIYnlJRmFKa29ISVNUeVh0TlpfTlFBMGFnUk5LQnNDczhPc09uZGQ0UFdnMXhUTA?oc=5",
+      "topics": ["AI copyright", "eu law", "policy"]
+    },
+    {
+      "title": "Anthropic uses inquiry to claim current copyright law makes AI training \"impossible\"",
+      "summary": "Anthropic has told an official inquiry that existing copyright law makes AI training effectively impossible without reform, arguing for a new legal framework. The submission marks a significant escalation in AI companies' lobbying efforts on copyright policy.",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQM2FMczAxM1dfYnZIUGZncDhIQUZHS0NRYUY0MmVWMUVtZmJneTU3dF82MkFYU1NSOTlCb1kxZmRvWWxoR2pQbHp4QktzcE94eERsdHY0UHVZeFU3SjFxUXV4elBxSWhrM2FiNl9Iakh5OHMxc01SZXZEZTAxdUtRcUtoV2dndGFTVEg3dzhUaXhpS2hSSFlmT3ZOVVlZM1lSNmdLZzBFUmJUcVByQ2RlREc0MXBTcDFPTFdhbWJGSHp4WjZFS2pNQTdTRjFpTWdJWjBzUHpHbGhNWnJsUGZ3ZEdB?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Meta Wins Pivotal AI Copyright Case, Despite Judge Calling Its Claims 'Nonsense'",
+      "summary": "A US court has ruled in Meta's favour in a significant AI copyright case, though the judge explicitly criticised the company's legal arguments as 'nonsense'. The outcome nonetheless represents a major win for AI developers facing copyright challenges over training data.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wSkxmdEFhOVNGUFd3dlM5aEUwUTNhaFE1ZlRWMkRxaHlyeXFtaVg3eEpCLWlWem93d05pdEpBVFRxRGJsWURXZ3d2azdoekROekhVRGpRcTYycE5VUVE2VlV5bGFsb0dyelE?oc=5",
+      "topics": ["AI copyright", "litigation", "fair use"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Malaysia May Let Creators Stop AI From Scraping Their Work Under Proposed Copyright Changes",
+      "summary": "Malaysia's intellectual property office is proposing copyright amendments that would give creators the right to opt out of AI scraping of their works.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EZ2p6NG4tYmZ4TnVSZHZHRVhXamMzTU9fa3JIbFBobEpYYXgwNzZ4NkdTMnF2LXo3VVc3Ty1BMzQ5NldnUWRYRUR5UE1EbWUtRGduUFk0aDJzYmpoejRscG8yd2pBdFU?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Copyright owners may get right to opt out of AI training use",
+      "summary": "A report examines growing momentum in multiple jurisdictions toward giving copyright holders an explicit right to opt out of having their works used for AI training.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPXzVlQmE3WFZ1WHk3VDFqN1Juc2VTVC0yTDluMFppcmtyOHFWTy1fRlpKOUVTSTdheHVtTmdKcDBWNGNIclpwOHViREV6T1oyeTFXZWhKQlV6SG5fOFVKRmdGMEdTNWtsTkcxOVNOVzBPeTdLT0lZeE9kYmVLdW9lbmxBbTBwODl3VXhtbUctNWdHY2YwVUZtN2paUlAwQV85Rks5ZWxmbVZxWEtsdHdlYnZVZkZTdHJHWlJqTlNB?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "EU consults on copyright landscape in the age of generative AI (via Passle)",
+      "summary": "The European Commission has opened a formal consultation on how copyright frameworks should adapt to the rise of generative AI, with a focus on training data and creator rights.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS3FDelBNYjNQTl9OWUMxT1hlaW41Q21jSHkyblRBb3Vwa2dTRVlzRElhMm1kS0JTOXE0b0xiTzJHRk1WRXlac01kc0Ezb1NWektJMVZPRFNBRGQwczdRZVFfZFJlc3ZyYzRfS2ZrVXBkc3MydTNWdHdOMXN1eGZKcHUtbW9OcFJZZ0dMUDFEZ2RkWVhmYTNWeU1HSVo5b2VPOXZXQnlRbWZIakNBWUJjVw?oc=5",
+      "topics": ["AI copyright", "eu law", "policy"]
+    },
+    {
+      "title": "Australia's ABC Rejects AI Copyright Opt-Out as Scraping Debate Intensifies",
+      "summary": "Australia's public broadcaster ABC has rejected an AI copyright opt-out mechanism, as the national debate over web scraping of media content intensifies.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTGF1aWM1VjRoWWtWM1hRWWRzYmpwYmRoMGZGT1czazZrbTBOeXNpUVowS21jc2FJMGJzbHBxdTVjcUhoYXJmdjl3R3ZFRG56MHpBRkUtcHcxSXVaQXl5Q0p5QUdIeDZ3YWRBZWU5NWlwMk5qeTNZVjBwS1pRUUp3UEZDbm1sZw?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Hong Kong puts AI copyright legislative amendments on hold, and pivots to establishing operational guidelines",
+      "summary": "Hong Kong has paused plans to legislate on AI and copyright, instead opting to develop operational guidelines as an interim measure.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWjVTNzNpdXlrZGd0WFZyWnpBMmZhSnVkZEczcVprWGlNZWtXLWtELURZUERHbEpiUy1JQ3h2N2hxT0FkUnNQOVFMaGhSb2dFRnFia3F4NHNYb0dhajQ3cHdlcVAzVjd3Nk9mekY0clJWSWh3WXNXMk1qMGpKdzFMUk5uMzduTkJhTkV2QWN3SXlaQmRSWkVrZWpENU9Qc3RLd3M0cnV3M3hDckd3MXJzUzd5MWlvQWNQcHRlNHFB?oc=5",
+      "topics": ["AI copyright", "policy", "eu law"]
+    },
+    {
+      "title": "Italy regulator probes AI music startup Suno over terms of service",
+      "summary": "Italy's competition and market authority has opened an investigation into AI music generation startup Suno over concerns about its terms of service and potential copyright implications.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYnY4YVVpNlNZb29NNF9GX1NFNV9aUjhfMW13eGhTVmk3QWdobVpGV1A1V3hNM3lBTjFUVHNmZ3VmZ1pIejR3Q3pOZTlXY1U5QWxaVHc4ZXdrQ0ZPN2NpY3hVV2c4SHIwVGtkMGdQN3U0UVczS2RiZ3J6RjU1UUlYY2VOdVFQMFhTN0JYakxYUnZmU0Y5OHIwMnJNWElBNlpqU1ZtNGhsVzNQVWNCdEIzWGNyeEVQdVNDdnF0UDE0UXphQXROMTNmMzBvb2lnd1HSAdQBQVVfeXFMTlhiYjJFcVlwWXlkREYxd3dyb3RySkVGd0laS2c2RTBCTU9OaWtyd2lXYy1jMzlKem1TUDk1U01EX21TU1l0OTdMNHRBTFZiXzYySjZRUV9kT3hjV2NVNDNhOXEtZklwczNSZ2NlYzhQWDNOOEpnOEwtLUsxMm5WSFc2REdQNHFkVTdxT1Q1X18zZWszTWVMcUYxTjVHVmMtLU93dVVQSUpaZkthYXRLc1NkOUQ5RFZnSWN1ZThGU18yZlU4S3pqNlBuYm81Rlk3dEtiLVQ?oc=5",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "Transformative Means More Than \"Powered by AI\"",
+      "summary": "A legal commentary argues that courts should require more than an AI-generated label for a use to qualify as transformative under fair use doctrine.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZEZleHJiNmhkbTlUUXJ3MU1Lc0o5MF9CVnlLekpkMjIzNWRqQm1rMFp5UnpNOXBtZFVwNnFuQmtxSXh5bDl6WDd2dS1SNnBFV3pfMGdiWjFiWnFmYmVhazQyd0NWWXNTNlpSSk5LWHQwS1VJV0NsbTdfa1pMV0FNc0R6dkt5NGxH?oc=5",
+      "topics": ["AI copyright", "fair use", "litigation"]
+    },
+    {
+      "title": "S&S Staff Balk at AI Performance-Tracking Software Talks [Metered]",
+      "summary": "Simon & Schuster employees have pushed back against management discussions about implementing AI-powered performance-tracking software in the workplace.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101470-s-s-staff-balk-at-ai-performance-tracking-software-talks.html",
+      "topics": ["book publishing", "AI tools", "software"]
+    },
+    {
+      "title": "ARIA Boss Annabelle Herd Warns Australia Against Giving AI Giants a 'Free Ride'",
+      "summary": "The head of the Australian Recording Industry Association has urged the Australian government not to allow AI companies to use copyrighted music without compensation or consent.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSG5iWUxVbDJ3M1JjUlhyU2VEV1JLcE10QlRYb0VtTC03bnlqM3lTbEhJYkVVT0xsUXc1SXEzTUFwVFpkQjUtM0ZQQTZvLXFCS29SWE5HTzJSV0tFc0pPOHVrTzBlMDNHaHJkNlNtV2dySTI2NHF6cl95Yk0xbkI3Nkl4eXRGSzRNVVV1RC1aaTV0Tm1acEc0RlJoLWtvNElzS2psaHRIRzZFaTY0NnpJ?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "TRACE Project Launches to Advance AI Interoperability",
+      "summary": "The Scholarly Kitchen reports on the launch of the TRACE project, which aims to improve interoperability between AI systems in academic and publishing contexts.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/07/trace-project-launches-to-advance-ai-interoperability/",
+      "topics": ["academic publishing", "AI tools", "licensing"]
+    }
+  ]
+}
