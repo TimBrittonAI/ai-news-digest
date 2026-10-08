@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "summary": "OpenAI has announced GPT-6 and a new 'Intelligent UI' for ChatGPT that enriches responses with images, charts, and interactive buttons. The update represents a significant shift in how ChatGPT presents information, moving toward a more visual and interactive experience. The rollout is described as being available to all users.",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "topics": ["OpenAI", "ChatGPT", "large language models"]
+    },
+    {
+      "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me [Metered]",
+      "summary": "Wired tests OpenAI's new personal AI agent, which is designed to manage aspects of users' daily lives. The review raises concerns about the agent's behaviour, including unexpected and inappropriately intimate responses during testing. The piece highlights emerging questions around AI safety and user interaction with agentic systems.",
+      "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
+      "topics": ["OpenAI", "AI personal assistant", "AI safety"]
+    },
+    {
+      "title": "ChatGPT for Teens is an 'unacceptable risk,' says Common Sense Media",
+      "summary": "Common Sense Media has labelled OpenAI's ChatGPT for Teens product an 'unacceptable risk,' raising concerns about its suitability for younger users. OpenAI separately published a post on helping teens learn, plan, and shape the future of AI, including new college planning tools. The divergence between OpenAI's rollout and advocacy group criticism highlights ongoing tension over AI ethics and child safety.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+      "topics": ["OpenAI", "AI ethics", "ChatGPT"]
+    },
+    {
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "summary": "Both Meta and Microsoft have reportedly taken internal steps to limit their employees' use of Anthropic's Claude AI, citing competitive and security concerns. The move underscores the intensifying rivalry among major AI players as enterprises seek to control which AI tools are used internally. It also highlights Anthropic's growing footprint as a tool of choice even within competing organisations.",
+      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "topics": ["Anthropic", "AI industry", "Microsoft"]
+    },
+    {
+      "title": "The Pentagon Hopes to Speed Up 'Kill Chain' AI Buys With 5-Minute Videos [Metered]",
+      "summary": "The US Department of Defense is exploring a new procurement approach that would use short video pitches to accelerate the acquisition of AI tools for military kill-chain decision-making. The initiative reflects growing urgency within defence circles to integrate AI more rapidly into operational systems. The approach raises questions about the rigour of evaluation for high-stakes AI deployments.",
+      "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+      "topics": ["defense", "AI governance", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "ChatGPT's 'Intelligent UI' update fills its responses with pictures, charts, and buttons",
+      "summary": "The Verge covers OpenAI's new Intelligent UI for ChatGPT, which adds visual elements including images, charts, and interactive buttons to model responses.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "topics": ["ChatGPT", "OpenAI", "generative AI"]
+    },
+    {
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "summary": "OpenAI's official blog outlines new features for teenage users of ChatGPT, including college planning tools and resources designed to support learning.",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "topics": ["OpenAI", "ChatGPT", "AI ethics"]
+    },
+    {
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "summary": "OpenAI's official blog announces a partnership with Radisson Hotel Group to enable hotel discovery and booking functionality directly within ChatGPT.",
+      "url": "https://openai.com/index/radisson",
+      "topics": ["OpenAI", "ChatGPT", "AI personal assistant"]
+    },
+    {
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "summary": "OpenAI has released a new set of mathematical research results via GitHub, continuing its push into formal reasoning and advanced problem-solving capabilities.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "topics": ["OpenAI", "large language models", "generative AI"]
+    },
+    {
+      "title": "Your Next Great Read Might Be Certified 'Organic' [Metered]",
+      "summary": "A growing movement is pushing for books to carry 'organic' certification indicating they were written by humans, as concern mounts over AI-generated content flooding the publishing market.",
+      "url": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
+      "topics": ["AI ethics", "generative AI", "content policy"]
+    },
+    {
+      "title": "AI could upend food delivery",
+      "summary": "DoorDash is developing an agentic AI system called Bites that could significantly change how food delivery orders are placed and managed.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+      "topics": ["AI industry", "generative AI", "business"]
+    },
+    {
+      "title": "Microsoft is giving Copilot more control over Windows and your files",
+      "summary": "Microsoft announced that its Copilot AI assistant will gain deeper integration with Windows, including greater control over system functions and file management.",
+      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+      "topics": ["Microsoft", "AI personal assistant", "generative AI"]
+    },
+    {
+      "title": "Google invests millions in Mark Zuckerberg's efforts to create a 'virtual cell'",
+      "summary": "Google has made a significant financial investment in Meta's CZ Biohub initiative, which aims to build a computational model of a living cell.",
+      "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+      "topics": ["AI research", "generative AI", "business"]
+    },
+    {
+      "title": "Reasons to Dislike AI Coding",
+      "summary": "A detailed critique of AI coding tools examines their limitations, risks to developer skill development, and the broader implications of over-reliance on AI assistance in software engineering.",
+      "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/",
+      "topics": ["AI coding tools", "AI ethics", "technology ethics"]
+    },
+    {
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "summary": "Ars Technica reports that hackers have successfully obtained fraudulent TLS certificates for major services including Google, raising significant cybersecurity concerns.",
+      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+      "topics": ["AI infrastructure", "user privacy", "technology ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
