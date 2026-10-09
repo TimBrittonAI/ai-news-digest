@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Anthropic bans 'abusive or cruel behavior' toward Claude",
+      "summary": "Anthropic has updated its usage policies to explicitly prohibit users from engaging in abusive or cruel behavior toward its Claude AI models. The move reflects growing attention to AI ethics and the boundaries of acceptable human-AI interaction. The policy update positions Anthropic as taking a stance on how its models should be treated, beyond purely functional misuse concerns.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "topics": ["AI ethics", "Anthropic", "content policy"]
+    },
+    {
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "summary": "Anthropic has announced a free AI-powered security scanning tool aimed at open-source software projects. The scanner is designed to help developers identify vulnerabilities in their codebases without cost. The initiative extends Anthropic's reach into developer tooling and AI safety applications.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "topics": ["AI safety", "Anthropic", "AI coding tools"]
+    },
+    {
+      "title": "USA Today becomes the latest publisher to sue OpenAI",
+      "summary": "USA Today has filed a copyright lawsuit against OpenAI, joining a growing list of news publishers challenging the company's use of their content to train AI models. The case adds further legal pressure on OpenAI as courts continue to weigh the boundaries of fair use in generative AI development. The lawsuit reflects escalating tensions between the media industry and AI firms over intellectual property rights.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "topics": ["legal", "OpenAI", "copyright"]
+    },
+    {
+      "title": "OpenAI disrupts AI-enabled 'false front' operations",
+      "summary": "OpenAI has published details of its efforts to detect and disrupt influence operations that used its AI tools to run coordinated disinformation campaigns through fake personas and false-front organisations. The report provides insight into how generative AI is being misused for covert political manipulation, and how OpenAI is working to counter such abuse. The disclosure adds to the broader conversation around AI governance and misuse of large language models.",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "topics": ["generative AI", "AI safety", "OpenAI"]
+    },
+    {
+      "title": "Google is launching a one-stop Gemini agent for your work tasks",
+      "summary": "Google has announced a unified Gemini AI agent designed to perform tasks across enterprise business applications from a single interface. The agent aims to streamline workflows by integrating with tools employees already use, positioning Google as a major player in the enterprise AI assistant space. The launch reflects intensifying competition between Google, Microsoft, and others in the agentic AI market.",
+      "url": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+      "topics": ["AI personal assistant", "generative AI", "large language models"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "The New ChatGPT Is More Show Than Tell [Metered]",
+      "summary": "Wired examines how the latest ChatGPT interface update leans heavily on visual and multimedia presentation, raising questions about whether the changes represent genuine capability improvements or mostly cosmetic upgrades.",
+      "url": "https://www.wired.com/story/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
+      "topics": ["ChatGPT", "OpenAI", "large language models"]
+    },
+    {
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "summary": "OpenAI's blog details how Oracle is using ChatGPT and Codex to dramatically accelerate internal development workflows, compressing multi-day tasks into minutes.",
+      "url": "https://openai.com/index/oracle",
+      "topics": ["ChatGPT", "AI coding tools", "business"]
+    },
+    {
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "summary": "OpenAI profiles legal tech firm LegalOn, which reports cutting its AI infrastructure costs by 50% using Codex without sacrificing development velocity.",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "topics": ["legal", "AI coding tools", "OpenAI"]
+    },
+    {
+      "title": "ChatGPT is getting college planning tools",
+      "summary": "OpenAI is adding college planning features to ChatGPT, including tools to help students with application preparation and academic note-taking.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+      "topics": ["ChatGPT", "OpenAI", "AI personal assistant"]
+    },
+    {
+      "title": "Google's AI note-taking app transcribes your meetings completely offline",
+      "summary": "Google has launched an AI-powered note-taking application capable of transcribing meetings locally on-device, without sending audio data to the cloud.",
+      "url": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+      "topics": ["AI personal assistant", "user privacy", "generative AI"]
+    },
+    {
+      "title": "AI breakthroughs in robotics won't change your life any time soon [Metered]",
+      "summary": "MIT Technology Review argues that despite impressive robotics demos powered by AI, fundamental engineering and deployment challenges mean humanoid robots are unlikely to enter everyday life in the near term.",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "topics": ["AI industry", "generative AI", "technology ethics"]
+    },
+    {
+      "title": "Tristan Harris' Tech Nonprofit Is Laying Off Most Staff and Going 'Founder-Led' [Metered]",
+      "summary": "The Center for Humane Technology, founded by Tristan Harris, is cutting the majority of its staff and restructuring as a founder-led organisation, marking a significant shift for one of tech ethics' most prominent advocacy groups.",
+      "url": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
+      "topics": ["technology ethics", "AI safety", "layoffs"]
+    },
+    {
+      "title": "NVIDIA Commits $1 Billion to Advance US Science Over the Next Five Years",
+      "summary": "NVIDIA has pledged $1 billion to support scientific research in the United States over five years, spanning AI, computing, and broader scientific infrastructure.",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-commits-1-billion-to-advance-us-science-over-the-next-five-years",
+      "topics": ["AI compute", "AI infrastructure", "AI industry"]
+    },
+    {
+      "title": "Can you trust Meta's Muse or OpenAI's Dots to run your life?",
+      "summary": "The Verge podcast examines the privacy and trust implications of handing personal AI agents from Meta and OpenAI increasing control over users' daily lives.",
+      "url": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+      "topics": ["AI personal assistant", "user privacy", "AI ethics"]
+    },
+    {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses [Metered]",
+      "summary": "MIT Technology Review interviews a researcher who has used AI to design novel viruses, raising significant questions about biosecurity, dual-use research, and the governance of AI in the life sciences.",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "topics": ["AI safety", "AI ethics", "AI governance"]
+    }
+  ],
+  "ethan_mollick": null
+}
