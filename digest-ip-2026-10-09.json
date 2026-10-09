@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "First Federal Appellate Fair Use Ruling on AI Training Rejects Non-Generative AI's Use of Copyrighted Headnotes",
+      "summary": "The Third Circuit has issued the first federal appellate ruling on fair use in the context of AI training, finding that AI companies cannot use material possessing an original creative spark. The decision marks a significant legal precedent for how copyright law applies to AI training datasets.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOUlsR0JYWHUwQ0FzRG83SDZzaERxMkFWRFZubW9RMm5kMmtzZ1dCTGZ5UkF2ejVMMTd0TVNURjNoMTctX1ZRZmVrNWhfWE0zZEtFcEdQcUtsd1VjLTlwaHRNQVRVelNQWHFLTG8wcHdBZGNNS2hxdUl5ZF96VjZsM2NidEdiTlIwUHBIWGRqZVJSSDBDVk5jZl8yQWNkVUJueTV4U3FJR1V3ZVdKQ1ViVk5zRXlGZ9IBuwFBVV95cUxNX0o0Q2JEMXlHcHNya2xhTXV3Y21pT0NRNTNWV3lTeUFXbEdITWlrZUNCdVZsbmtlR0l4YWhmN2lSRi1XWmFWN2tOblE4ZjM0cEY5bTJubVVHWGYyX09Wc1ZpU3VfU0NPVWhvd2czbmlpemVvV05RVTRDcFU3dU9uRkgxenlmNFVxSlpxcmdBVUo4U2xHemR3cUFjczQway1NUVEwZjh4N3BpblozckdtLVQ0VXpZYzNtWXhv?oc=5",
+      "topics": ["AI copyright", "litigation", "fair use"]
+    },
+    {
+      "title": "USA Today Sues OpenAI, Claiming It Unlawfully Used Reporting To Train And Operate Models",
+      "summary": "USA Today has filed a copyright infringement lawsuit against OpenAI, alleging that the company unlawfully used its journalism to train and operate AI models. The case adds to the growing wave of media organisation litigation against AI developers over training data.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRjF2WG9zTGRlUkhaYzM1YTdDd1JCa3BjVXZ6Y1hMQUt2dzVLSlVxZS1vb3dHV09wQ1FwR0hxb3o5MEtJaWgxNWtpRENNaWR6MGlhLUEyRzNmVDB5NkhkbDVQa1RnZmdsUG5xWTFFS09FSE9yU25qT2o4bGhQdjVsXzBFekp3MXZjeXhUcmRNR1RSQlI1WWdOQWg5UnRfVkRvaXBnU2N1M1lYdXJadGRWUmM3WTRXckl4Y0pWb0UtckoxYkVMR05KS184aVVMa1U?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "OpenAI, Microsoft Get AI Books Report Struck From Copyright Case",
+      "summary": "A court has agreed to strike an AI books report from the copyright case against OpenAI and Microsoft, a procedural win for the defendants. The ruling affects the evidentiary record in one of the prominent book-related AI copyright suits.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbHVDaFFXRUF4X2xFb21RNjVIOUNpRHhGZDNOZ3dzZUk2cXJaeHM0WVVKZVJhX2dNamtXbjBFRTlOQnZKRnJCY3hWRWN6MklOV1VUcXFOZ0RSdk9Zb1Q0cFh3RmF6eEt4ZVA3elpTZkRkQnhFSGRWOGFlNW9fb1VoNGNYeTBMV3Yxa2JOdGZrV3kyZ0NRSVZhOWFLaHFNY0FuZHc?oc=5",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "Tufts professor's book among illegally pirated works in Anthropic copyright settlement",
+      "summary": "A Tufts University professor's book has been identified among works that were illegally pirated and used in the Anthropic copyright case, following a settlement. The case highlights ongoing concerns about the use of copyrighted books in AI training datasets.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU2xtR0JsVFl5N0x6dzgzejNqU1NUV3hJbFo0eG1uYTMwRlNZcXU0a2E3MUswS0JoVHNzM3Iyd2pDWDVOUUxmdTZTaWl6azVJNkdWWGdHWXlDOVlYZzc4NzFMRDZqS1hMeWFRZ2pjY2lMeWJXVm1FNmRKZlVrbUZUTlVuSG1ZaFpqY2tfdDQyZ0ZORXdMZ0dQZVFBdUp0UkJEZ0h6ZXlfQjVtdkJvbGpYaUttRFM0cEtvRnpuVkpsWExwZHY1TUJR?oc=5",
+      "topics": ["AI copyright", "book publishing", "litigation"]
+    },
+    {
+      "title": "ARIA Warns Lawmakers That Australia Could Be Used as 'Trojan Horse for Big AI'",
+      "summary": "The Australian Recording Industry Association (ARIA) has warned lawmakers that Australia risks being exploited as a regulatory loophole by major AI companies seeking to train on copyrighted content without adequate licensing. The warning follows broader Australian music industry concerns about OpenAI and Anthropic's use of creative works.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40eGk3dVNhdHV6R09OZmFjdXY4TVZaWWtuNUQ2aE5ka1BfdUMtdTNsZjdxVUMxdDdvMlRMMThRaFd1QVRXVGNQVXZ6QUxFTTlEdGZPcFdqTXUtUS00Z0x5UXhGWHE4eC0wNURZNTdNMnh2ak9GczBwamg2cw?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "COPYRIGHT—N.D. Cal.: Digital artist must replead DMCA claims against Roblox over AI training",
+      "summary": "A California federal court has ruled that a digital artist must replead their DMCA claims against Roblox relating to AI training, in a case touching on platform liability and copyright protection for creative works.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00eGk3dVNhdHV6R09OZmFjdXY4TVZaWWtuNUQ2aE5ka1BfdUMtdTNsZjdxVUMxdDdvMlRMMThRaFd1QVRXVGNQVXZ6QUxFTTlEdGZPcFdqTXUtUS00Z0x5UXhGWHE4eC0wNURZNTdNMnh2ak9GczBwamg2cw?oc=5",
+      "topics": ["AI copyright", "litigation", "DMCA"]
+    },
+    {
+      "title": "Man Gets 18 Months in First U.S. AI Music Streaming Fraud Case After $8M Royalty Scheme",
+      "summary": "A man has been sentenced to 18 months in prison in the first U.S. criminal case involving AI-generated music used to fraudulently collect approximately $8 million in streaming royalties.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVUx4SFlBbDJCUVJYdVoyQmVFSXR4LXBqSXlGdDZKZThfZW4teXFsS1Bic0ZLeEs1VHNKOGZhS0NfaUV6MjJYU3FjUnpxM0VhbTc1VEY2NHNzcUhPajRUczBsN2NCbEJtQVZEbkJ5TjY4SnYzalFqU0FCS2p3ZUhuTzhUbGZ1dENYYzVBdkxBMGI4b2Uw?oc=5",
+      "topics": ["AI copyright", "music", "litigation"]
+    },
+    {
+      "title": "Generative AI Tests Limits Of Copyright",
+      "summary": "An analysis of how generative AI is pushing the boundaries of existing copyright frameworks, examining the key legal questions courts and legislators are being asked to resolve.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaVlqYjh5OU04LWVvZEV4YXl4YnZVeVdyRVRscnhBNDJGLWpEaldHQTVvOVVpUWFJRVlKSzgzYjd6eW85dlJJRnpTT3Y3MHBPQkFpcVlwcmtOS3J5ejdNdS1OWnNpYVZYS3BQU2FQQkxuQ2pTaVZIS2hnLUtqRm1oNA?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Who owns a voice? Navigating the global risks of AI cloning",
+      "summary": "An examination of the emerging legal and ethical questions surrounding AI voice cloning, including gaps in existing intellectual property protections across different jurisdictions.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX2pRM3d1akFSQ1pFUTdHakVSYU9uUDJ5cGM5YUpPTWVFaFl1TEFlNVNTTmFDbms4ZTU2TFppcjZzblFkMXRCaWw3NGFJLUNxZGgteHl5WmZwQjFYXzNRZThTS1MwQWl2cWtvYnhkcWNnTkVsUkt4WmNOZHVrUFdyT2c2NnhUN1loTDBQZFM4WjlxNDlYb2k4eQ?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "The Invisible Threat: How AI Can Threaten Trade Secret Protections",
+      "summary": "An analysis of the ways in which AI tools and systems can inadvertently expose or undermine trade secret protections for businesses and individuals.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeUd5Nmk2N1RJVjg0OExjeWRDcTVzSzRYOUVIUV9wWlJhSzdTTWNsejQxekkxYWFqWktjUkNfczFpYjJrdHpRWG1xeXhvZG9iTTN4LWtlcXFVby1vT0pzdW45dnpjT1dWUjRjbFctcTc0cU9wODhObmdPdXRiV094UFNfMi16aGlPTmxWSHVpcmt6NG1yUFdpUXh2ZU1NVWZBUUxRVEJGdXB4VW53RS1aOA?oc=5",
+      "topics": ["AI copyright", "trade secrets", "software"]
+    },
+    {
+      "title": "Once a home for handmade, artists say Etsy is now overrun with AI and copied works",
+      "summary": "Artists and sellers are raising concerns that Etsy has become flooded with AI-generated and copied works, undermining the platform's original focus on handmade and original creative goods.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdndEaVhzSEF5STdaNmx5M0Z6S2FIdzE1UnVEYzR0RWxrYm9fTlo1YkpOdGRXNmpwYkVvdXJEd2pKUUNveml5eVlxN2NWVWFPNEhEN1FjWDBINTJOY0ZhdUhoYkJtUlg4eWlidks0LUdRakNLdVJnMHBpSDZjZW9Dc2tOTnVxN2YyTk9vM2t5Z0NiOXdFZ0ZCV0g1ci16dw?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Frankfurt Book Fair 2026: Publishing Jobs Will Adapt to AI, Not Disappear [Metered]",
+      "summary": "Publishers at Frankfurt Book Fair 2026 expressed the view that AI will transform rather than eliminate publishing roles, with industry figures discussing how workflows and skills are evolving.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101481-frankfurt-book-fair-2026-publishing-jobs-will-adapt-to-ai-not-disappear.html",
+      "topics": ["book publishing", "AI tools"]
+    },
+    {
+      "title": "Editorial: A person's voice deserves legal protection from AI copycats",
+      "summary": "An editorial arguing that existing legal frameworks are insufficient to protect individuals' voices from AI cloning technologies, and that new protections are needed.",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YcmctN1RIcmlEdWROM0k4MkZoazk0SVdhLTJJYXR0TndHYUpqQUV3NXI2Q3RHaXBFekhfNnR3aVhkQ04zZmVxT0RqSXpLVWVVb0wzbFVrc0lkVDQ2NU1sUFV5Q05SeVNhQmU4ZzZGSHJoTDA?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "AI Verification and Trade Secrets: A Cross-Border Framework",
+      "summary": "An overview of proposed cross-border frameworks for AI verification that address trade secret risks arising from the deployment of AI systems across different legal jurisdictions.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPam1nREpzQlpNczBDaXAxQ0VDMlJ2b1B4dHZmeXEwVUNsOGRvbktCdmR2ZENuNEgySGg4ZGNSQ2ZZcmxtVjg3M1d2aG1tUDNYV3J5R2lkRkRKX3hrUl9TNXlRVkM5cTdYTWVLYVFWUVB3QkhoVVNPaE1wd1haVGZmMjlla3ZIZzVQNGMwb3BDa1hfMksyLURSOQ?oc=5",
+      "topics": ["trade secrets", "AI copyright", "policy"]
+    },
+    {
+      "title": "Olivia Dean Lawsuit, AI Fraudster Sentence, Erica Campbell Case & More Top Music Law News",
+      "summary": "A roundup of recent music law developments including the AI streaming fraud sentencing, the Olivia Dean lawsuit, and other notable cases at the intersection of music and intellectual property.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdnpSX1ZsYzdIckRsa21HVUpoMnlONENFamI1aUxTNUZLTUlPcE5YNXJXRHJReWtBc3lJNW96VVdtNUZTUGlyOF81N0NBWG1vOHZ2SjdXRll0VDBveHRzc2lEbTZQVzVwLWtpY19GWWFrUUtHY2FrSDVKSnhZTzR0V0xObnJ0Wnl5eDBnRjRB?oc=5",
+      "topics": ["AI copyright", "music", "litigation"]
+    }
+  ]
+}
