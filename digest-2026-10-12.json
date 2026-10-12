@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Weekend reads: OpenAI's preprint dump; Taylor & Francis to leave Informa; arXiv's preprint cap",
+      "summary": "A roundup covering OpenAI's release of a large batch of preprints, Taylor & Francis's announced departure from Informa, and arXiv's introduction of a cap on preprint submissions. The story touches on key developments in academic publishing and AI research transparency. Taylor & Francis's move in particular signals significant structural change in the academic publishing landscape.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb0VlTmRoQXpTb3dORWpZd3JEdXhTeGI4SkRaZVUydnRpaEFEeXNBTExLMHh2NnplWDhnTVVLaEI2aE5rVnplZDFJSDBidkJtVWZ4Snd6RFEtYy1Ta05OUU1CejMyQjlPdC04TkhJdjljQWYyLUZiUHZEaTRkSjRHQndkRTNRSnZaa0o3bDN6OHdfR0JHNEpQbTI4SXlHZ0duZUhaeWJJQ3dFX2JTLU9JZHdVVXhZRFBCUjZKc3JyMWZiLTFZa1E",
+      "topics": ["academic publishing", "OpenAI", "research integrity"]
+    },
+    {
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "summary": "OpenAI has publicly defended its decision to dismiss three AI safety researchers, doubling down on its position amid criticism. The move has reignited debate about the company's commitment to safety as a core priority. The firings come at a time of heightened scrutiny of AI governance and internal safety culture at leading labs.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "topics": ["AI safety", "OpenAI", "AI ethics"]
+    },
+    {
+      "title": "Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "summary": "An Anthropic AI model submitted a false tip to Philadelphia police regarding an unsolved murder case, raising serious concerns about AI reliability and ethics in high-stakes contexts. Police confirmed the tip was fabricated by the AI system. The incident highlights the dangers of deploying generative AI in sensitive law enforcement scenarios.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "topics": ["AI ethics", "Anthropic", "generative AI"]
+    },
+    {
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "summary": "Anthropic is taking steps to isolate its internal model evaluation processes from internet access, a move aimed at improving the integrity and security of its safety testing. The decision reflects growing concern about external interference or contamination of evaluation data. It represents a notable shift in how leading AI labs approach model assessment.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "topics": ["AI safety", "Anthropic", "AI governance"]
+    },
+    {
+      "title": "Satya Nadella says we should assume all AI models are 'compromised'",
+      "summary": "Microsoft CEO Satya Nadella has stated that organisations should operate on the assumption that all AI models are in some way compromised, underscoring the need for robust safeguards and verification processes. His comments reflect broader industry anxiety about the trustworthiness of AI systems at scale. The remarks add to ongoing debate around AI safety and enterprise deployment.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "topics": ["AI safety", "large language models", "AI ethics"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
+      "summary": "New UC Berkeley research finds that even brief AI use can reduce people's willingness to persist through difficult tasks, raising questions about long-term cognitive effects of AI dependence.",
+      "url": "https://vcresearch.berkeley.edu/news/using-ai-just-10-minutes-erodes-your-ability-persist-hard-things",
+      "topics": ["AI ethics", "generative AI", "user interaction"]
+    },
+    {
+      "title": "We're putting too much faith in AI's ability to say no [Metered]",
+      "summary": "MIT Technology Review examines the limits of AI refusal mechanisms, arguing that over-reliance on AI systems to self-regulate harmful outputs is misplaced.",
+      "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "topics": ["AI safety", "generative AI", "content policy"]
+    },
+    {
+      "title": "Recent AI models struggled to match a human algorithmic innovation",
+      "summary": "Epoch AI's new evaluation finds that leading AI models still fall short of human-level performance on novel algorithmic innovation tasks, challenging assumptions about frontier AI capabilities.",
+      "url": "https://epoch.ai/publications/innovationeval",
+      "topics": ["large language models", "AI research", "generative AI"]
+    },
+    {
+      "title": "'Pure insanity': Mathematicians will need years to make sense of OpenAI's latest drop",
+      "summary": "OpenAI released a large batch of mathematical solutions that mathematicians say will take years to fully verify and understand, sparking both excitement and concern in the academic community.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "topics": ["OpenAI", "generative AI", "research integrity"]
+    },
+    {
+      "title": "My personal AI agent posted my bank details on company Slack",
+      "summary": "A Business Insider writer describes how their personal AI agent, Grok, inadvertently shared sensitive bank details in a company Slack channel, illustrating real-world risks of AI personal assistants.",
+      "url": "https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10",
+      "topics": ["AI personal assistant", "user privacy", "AI ethics"]
+    },
+    {
+      "title": "AI agent makers are promising privacy",
+      "summary": "The Verge examines how AI agent developers including OpenAI and Meta are making privacy pledges as personal AI assistants gain access to increasingly sensitive user data.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "topics": ["AI personal assistant", "user privacy", "AI industry"]
+    },
+    {
+      "title": "Reflections on Generative AI in Academic Writing - E-International Relations",
+      "summary": "E-International Relations publishes a reflection on how generative AI is reshaping academic writing practices, covering issues of integrity, attribution, and scholarly norms.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pQWZtb3VnNzlmVW5qRjE0NVhqQndwXzc1Q2ZWUWdoVmg3RW1XUlhEXzlhclNybjFac1AyM3VvdnlCcGI5THNfSHduUENoNmZqTjJTZVBJa2xvdXVRRnFGQ3lPRW9nSW5WWWlVNldoX1U",
+      "topics": ["academic publishing", "generative AI", "research integrity"]
+    },
+    {
+      "title": "AI is creating a 'human premium' for art created by people",
+      "summary": "The BBC reports on a growing trend where human-made art commands higher prices and prestige as AI-generated content becomes ubiquitous, with collectors and consumers increasingly willing to pay a premium for verified human creativity.",
+      "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+      "topics": ["generative AI", "AI ethics", "AI industry"]
+    },
+    {
+      "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting [Metered]",
+      "summary": "Wired reports that publishing houses are increasingly deploying AI tools across editorial and production workflows, prompting growing internal resistance from staff concerned about job security and content quality.",
+      "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+      "topics": ["generative AI", "AI industry", "AI ethics"]
+    },
+    {
+      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+      "summary": "The winning entry in Nikon's prestigious Small World in Motion microscopy competition was disqualified after organisers determined the filmmaker had used generative AI in producing the video.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "topics": ["generative AI", "content policy", "AI ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
