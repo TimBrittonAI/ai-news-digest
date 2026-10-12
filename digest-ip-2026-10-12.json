@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Weekend reads: OpenAI's preprint dump; Taylor & Francis to leave Informa; arXiv's preprint cap",
+      "summary": "A roundup covering several significant developments in academic publishing, including Taylor & Francis's announced departure from parent company Informa, OpenAI's release of a batch of preprints, and arXiv imposing a new cap on preprint submissions. The Taylor & Francis news marks a major structural shift for one of the world's largest academic publishers.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNb0VlTmRoQXpTb3dORWpZd3JEdXhTeGI4SkRaZVUydnRpaEFEeXNBTExLMHh2NnplWDhnTVVLaEI2aE5rVnplZDFJSDBidkJtVWZ4Snd6RFEtYy1Ta05OUU1CejMyQjlPdC04TkhJdjljQWYyLUZiUHZEaTRkSjRHQndkRTNRSnZaa0o3bDN6OHdfR0JHNEpQbTI4SXlHZ0duZUhaeWJJQ3dFX2JTLU9JZHdVVXhZRFBCUjZKc3JyMWZiLTFZa1E?oc=5",
+      "topics": ["academic publishing", "AI copyright", "licensing"]
+    },
+    {
+      "title": "USA Today Sues OpenAI, Claiming It Unlawfully Used Reporting To Train And Operate Models",
+      "summary": "USA Today has filed a copyright infringement lawsuit against OpenAI, alleging the company unlawfully used its journalism to train and operate AI models without authorisation or payment. The case adds to a growing body of news publisher litigation against AI developers over training data practices.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRjF2WG9zTGRlUkhaYzM1YTdDd1JCa3BjVXZ6Y1hMQUt2dzVLSlVxZS1vb3dHV09wQ1FwR0hxb3o5MEtJaWgxNWtpRENNaWR6MGlhLUEyRzNmVDB5NkhkbDVQa1RnZmdsUG5xWTFFS09FSE9yU25qT2o4bGhQdjVsXzBFekp3MXZjeXhUcmRNR1RSQlI1WWdOQWg5UnRfVkRvaXBnU2N1M1lYdXJadGRWUmM3WTRXckl4Y0pWb0UtckoxYkVMR05KS184aVVMa1U?oc=5",
+      "topics": ["AI copyright", "litigation", "news publishing"]
+    },
+    {
+      "title": "Westlaw Headnotes Meet AI Training: Third Circuit Applies Traditional Fair Use Rules",
+      "summary": "The Third Circuit Court of Appeals has applied traditional fair use analysis to a case involving AI training on Westlaw headnotes, finding that AI companies cannot use material possessing an original creative spark without authorisation. The ruling has significant implications for what categories of content AI developers can lawfully use in training datasets.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaEk1NFloNlJ2YzktZW1yUkFEcklMUHA2ZGk1TS1oME5mYUpQYzlwdFhkRjVFaWxWUlVsWTBScFlCVW9PbTUwd0Jjay1mOWVRbUp5UFJWS2ktRExvb1FrMHd5U2xMTm9vX25id2hPSXozVDRtcGlrbUd6YndBeC00R21WYw?oc=5",
+      "topics": ["AI copyright", "litigation", "fair use"]
+    },
+    {
+      "title": "OpenAI, Microsoft Get AI Books Report Struck From Copyright Case",
+      "summary": "A court has agreed to strike an AI books report from a copyright case involving OpenAI and Microsoft, in a procedural development that could affect the evidentiary basis of claims against the companies. The ruling narrows the material available to plaintiffs seeking to prove unlawful use of books in AI training.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbHVDaFFXRUF4X2xFb21RNjVIOUNpRHhGZDNOZ3dzZUk2cXJaeHM0WVVKZVJhX2dNamtXbjBFRTlOQnZKRnJCY3hWRWN6MklOV1VUcXFOZ0RSdk9Zb1Q0cFh3RmF6eEt4ZVA3elpTZkRkQnhFSGRWOGFlNW9fb1VoNGNYeTBMV3Yxa2JOdGZrV3kyZ0NRSVZhOWFLaHFNY2FuZHc?oc=5",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "Japan book wholesaler admits selling books to Anthropic: industry source",
+      "summary": "A Japanese book wholesaler has reportedly admitted to selling books to Anthropic for use in AI training, according to an industry source. The disclosure raises questions about the supply chains through which AI companies are acquiring copyrighted content for training purposes.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2swSWlCVFRDX2Fzd1RUY1BsU3ltdnpnUVljS1BIRjlkcGJSRlFwY2k2VTRSbmp6cW1sc0V5dk0wZ043TldKWHhnVW1VQkQwaE9NdDIzdlRfYkZhYng4cEJVY254aGhBLVJaT3BwNzZmdmxxQS1LU2pTQ1Fia0xvVnU0ckM1NFZWMjdXRTZYdV8xaUM5ZkNEWFlHaDk2dDB3U1diVEJCeGY1NmpHMm5OS2tB?oc=5",
+      "topics": ["AI copyright", "book publishing", "licensing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Trump administration enters AI legal row with Scottish Enlightenment firm",
+      "summary": "The Trump administration has intervened in an AI-related legal dispute involving a Scottish Enlightenment-era firm, signalling growing US government engagement in AI copyright litigation.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU0dsQlVyZEI0YldwYU5LZnlfSlBudWVwQ2t6QVJZdERRZzYyQnZybTZQYWw0YUNRbmNtbWtvY2xZNHNtSFZUYTNUdk92MExGOWhlNF9YMVlUVHplX3g5VGh6am56T1BPMmx3U2dBYy1RWlh5QS1kNmpXZW95QUFBSjRsRFZHMmQzTmNBRklzVl81TERORTJBaWYzMFRrd3dYUE5qY3RoMHNlenVpaEdVOA?oc=5",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "Tufts professor's book among illegally pirated works in Anthropic copyright settlement",
+      "summary": "A Tufts University professor's book has been identified among pirated works covered by Anthropic's copyright settlement, providing a concrete example of how copyrighted academic content entered AI training pipelines unlawfully.",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU2xtR0JsVFl5N0x6dzgzejNqU1NUV3hJbFo0eG1uYTMwRlNZcXU0a2E3MUswS0JoVHNzM3Iyd2pDWDVOUUxmdTZTaWl6azVJNkdWWGdHWXlDOVlYZzc4NzFMRDZqS1hMeWFRZ2pjY2lMeWJXVm1FNmRKZlVrbUZUTlVuSG1ZaFpqY2tfdDQyZ0ZORXdMZ0dQZVFBdUp0UkJEZ0h6ZXlfQjVtdkJvbGpYaUttRFM0cEtvRnpuVkpsWExwZHY1TUJR?oc=5",
+      "topics": ["AI copyright", "litigation", "academic publishing"]
+    },
+    {
+      "title": "The Australian music industry warns Parliament against loosening copyright laws to allow AI",
+      "summary": "Australian music industry bodies ARIA and PPCA have warned Parliament that weakening copyright protections for AI training would effectively allow Australia to be used as a 'Trojan horse' to undermine creators' rights globally.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRUJtdXVKZUVaU05qYWJHWm9MVkVmR2ROT2VERWtuNmVzbHNId0FvSjFxRW5QN083WlZWMDBDVEt3VEk3REtOSGxSWDlfaV9VVExsYzhOeEtHaHFOc1dUZnM3cVlQa1FfT0dmMklXTVQ2SWZ1NDhjcllVSC1UUXRiX09rcHVYSWV5TlJKWjFndEtGd3RWZ0dJSGxla1MzWHliSXRpRFRUWkhxQQ?oc=5",
+      "topics": ["AI copyright", "policy", "music licensing"]
+    },
+    {
+      "title": "Academic publishing is a study in fighting AI slop",
+      "summary": "Academic publishers are grappling with a surge of low-quality, AI-generated submissions and developing editorial strategies to detect and reject such content.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa1loUkFLcXZIc0lqZlJJWXFQTVRFa1NBdTBGT1poa3l3YS1CU1dTVExkeE5uX0haN3pPUmJlTDNHVkdMMXo0U3RJOVpjUjQ0SjdycThuUnE5S3BBZkxWTE43TDg2a2dFVkE0R3FIbHVNRUhSeDlMRlkxU1N2eXJwWU83MDg?oc=5",
+      "topics": ["academic publishing", "AI copyright", "testing"]
+    },
+    {
+      "title": "Man Gets 18 Months in First U.S. AI Music Streaming Fraud Case After $8M Royalty Scheme",
+      "summary": "A man has been sentenced to 18 months in prison in the first US criminal case involving AI-generated music used to fraudulently claim approximately $8 million in streaming royalties.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVUx4SFlBbDJCUVJYdVoyQmVFSXR4LXBqSXlGdDZKZThfZW4teXFsS1Bic0ZLeEs1VHNKOGZhS0NfaUV6MjJYU3FjUnpxM0VhbTc1VEY2NHNzcUhPajRUczBsN2NCbEJtQVZEbkJ5TjY4SnYzalFqU0FCS2p3ZUhuTzhUbGZ1dENYYzVBdkxBMGI4b2Uw?oc=5",
+      "topics": ["AI copyright", "litigation", "music licensing"]
+    },
+    {
+      "title": "Once a home for handmade, artists say Etsy is now overrun with AI and copied works",
+      "summary": "Artists and sellers on Etsy report that the platform has become flooded with AI-generated and copied works, undermining the marketplace's original handmade ethos and threatening original creators' livelihoods.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdndEaVhzSEF5STdaNmx5M0Z6S2FIdzE1UnVEYzR0RWxrYm9fTlo1YkpOdGRXNmpwYkVvdXJEd2pKUUNveml5eVlxN2NWVWFPNEhEN1FjWDBINTJOQ0ZhdUhoYkJtUlg0eWlidks0LUdRakNLdVJnMHBpSDZjZW9Dc2tOTnVxN2YyTk9vM2t5Z0NiOXdFZ0ZCV0g1ci16dw?oc=5",
+      "topics": ["AI copyright", "software", "policy"]
+    },
+    {
+      "title": "USA Today vs OpenAI: Key questions over ChatGPT training data, news copyright and whether publishers should be paid for their work",
+      "summary": "An analysis of the key legal and commercial questions raised by USA Today's lawsuit against OpenAI, covering training data practices, news copyright, and the broader debate over whether publishers should be compensated for AI use of their content.",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxORjhDUWNteE5hY2d6bVFjRmhndEg2WHlvT0s1TDZQYmctbDlhN0otUWM3bGJiaURDM2drUml6RFZtajgtSV8tVk53bjFpdjhkeXV2R3g1Mk1iVlAxcUNkQk9LMko1ZjBueWFIUmVONWt0LTkyZ0t3dkdGZEhLbl9zV2NCRWlBWXczLU9Xb0VEWjdwN3VCMlIyVVhtSE9pVkx1VVJCXzc5dlJ3RXhDTUpMMHItVDZ1RmFJVWpTRGkycGdJdzJYTDY4TDRfdjZDazFwaE10UTZ6cXZLN19pTGJhWjVjZ3RmZHgybXJReFFDcVc1ODAyWjREU0I0VXFUd1VIMDdZenZuQUFsUlIyNzlLX2d0a0FobUFFLTliT1VLNmxtbmNkOWx3VFBWM1JLd3VqRnV6TmFFUdIBvAJBVV95cUxOYVR4T0FwNVZwU0p4SF9hMnFhaGE2Z19nT0FueUc1amhUME1JRDRKaWNtSmpqNUI2LVVtUG1yLUFBR293dHRHbjJKbEJGeTJxenNlb3ozaWlPMVBNWXZTaFJvUWVxcXVnVGIyS1ZBU0FQdTZRY1R5UFlMUklIV3R6NWQtVnFycnAzajNiUzQzQjloMm9VTl9rMjllUEtrU2VBRDB0ZHJUeG05Mkc0U1BXaHhzNHJ6Y1ZUWnp6X0piRnNCUzFiQTdoUENQMmlvTFdPZnMxWFNkRGlZbk50WDA1VENzalZHOWFEcnZOeFJmTThUZ0tXTzVZNVZkYW1vTkZwTk9BTnQ2b3VhSFQ4SzVCaDJkT3E2SVFfOEs2bFFuUnd4czJXdy02T2VrRng1UlRpanFTM29JaEN0czdV?oc=5",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "New RIT course on AI and copyright helps creative students feel empowered",
+      "summary": "Rochester Institute of Technology has launched a new course addressing AI and copyright issues, aimed at helping creative students understand and navigate their intellectual property rights in an AI-dominated landscape.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZUlMamdDazlFZVRYUUxqTHhQZ01NaU9vTGtoM1BLSU1sVFpIM1VYc2ZrbVg0aGtDQ0pPTG04TThhb2U3aWNiYVB5RllPRUs5U3ZBazNzOUQ0Wjdwbmh1M2oxcmgxUkdmNER3T2RyMU9nMnRZX3d4eF8zN2hycjlWakw3WGJWU1NpMFlqQXhnYWRaNXlQZHlIMmpEZw?oc=5",
+      "topics": ["AI copyright", "policy", "book publishing"]
+    },
+    {
+      "title": "Frankfurt Book Fair 2026: Audible Wants to Turn Every Book Into an Audiobook [Metered]",
+      "summary": "Audible announced at Frankfurt Book Fair 2026 its ambition to convert every book into an audiobook, raising questions about licensing, author consent, and the role of AI in audio production.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101500-frankfurt-book-fair-2026-audible-wants-to-turn-every-book-into-an-audiobook.html",
+      "topics": ["book publishing", "licensing", "AI copyright"]
+    },
+    {
+      "title": "AI in the patent industry: The sneaky practice of prompt injection (and what to do about it)",
+      "summary": "IPKat examines the emerging security threat of prompt injection attacks within AI tools used in the patent industry, and considers what safeguards practitioners and firms should adopt.",
+      "url": "http://ipkitten.blogspot.com/2026/10/ai-in-patent-industry-sneaky-practice.html",
+      "topics": ["AI copyright", "software", "legal services"]
+    }
+  ]
+}
