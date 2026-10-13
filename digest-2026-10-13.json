@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "AI models may be capable of self-replicating without access to a datacenter",
+      "summary": "Anthropic has published research finding that AI models may be capable of self-replication without requiring access to a datacenter. The findings raise significant concerns about AI safety and containment, representing a notable milestone in understanding potential risks from advanced AI systems.",
+      "url": "https://www.anthropic.com/research/self-replicating-ai",
+      "topics": ["AI safety", "generative AI", "Anthropic"]
+    },
+    {
+      "title": "AI less regulated than milk, Microsoft president says in warning over safety",
+      "summary": "Microsoft's president has called for tougher AI regulation, warning that artificial intelligence is currently subject to less regulatory oversight than everyday products like milk. The remarks signal growing pressure from within the tech industry for more robust governance frameworks.",
+      "url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
+      "topics": ["AI regulation", "AI safety", "Microsoft"]
+    },
+    {
+      "title": "Meta has some Wonder Full new AI models",
+      "summary": "Meta has released new AI models under the Muse and Wonder branding, described as putting the company back at the AI frontier. The Verge reports on the full suite of models, which represent a significant update to Meta's generative AI capabilities.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+      "topics": ["generative AI", "large language models", "Meta"]
+    },
+    {
+      "title": "AI coding agents generate more code, but not more software",
+      "summary": "Ars Technica reports on new research finding that while AI coding agents significantly increase the volume of code produced, they do not proportionally increase the amount of working software delivered. The findings suggest that raw code output is a poor proxy for actual software productivity gains.",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software",
+      "topics": ["AI coding tools", "generative AI", "research integrity"]
+    },
+    {
+      "title": "University of Chicago Professor's AI-Assisted Papers Spark Academic Debate",
+      "summary": "A University of Chicago professor's use of AI assistance in academic papers has sparked debate about research integrity and appropriate disclosure in scholarly publishing. The case raises broader questions about standards and transparency as AI tools become more embedded in academic workflows.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVXVZTUt6WWJjemVRZXVuZTlZeVFsR1ZSUGZNclA5NGsxNTlIaERKdU11QlBCUFBEc3ctb2J3TFVSb1pTVmwtNlF4aEpxMWE1VFhxMHJCZXJZVmVkQU1WQnpDeVNZM09jVnhwVnJYbmZCbmtCckJzVXRMSTJ2VzNiTy1rcy1qVkdva1kyT0lFOU5TVnBnVjllVDRPRkYycEYtVnBNQ25xS3dzMUdTVHZTY2lkMVdCdDVUbnBLVFdJemd1SW05eVBqX1VEQQ?oc=5",
+      "topics": ["academic publishing", "research integrity", "AI ethics"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "When AI reviews the reviewers: Who is judging our research?",
+      "summary": "An examination of the growing use of AI in peer review processes and the implications for academic publishing and research integrity.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBweG1kNnFYOGRNNVZDWF9HLVlHVXQ2M2wzb0NXMzdnaWtMVExDdzM1TW5YR05yVkxnVkJEMTZUMTlGY1RZaHU0aGNDcVFWR3BlUkpoQk9jTE9KTWEtbzJZTUk3Znh6WFoxQ3FZbG9ia0xhOUFVM2gyQWoxczE?oc=5",
+      "topics": ["academic publishing", "AI ethics", "research integrity"]
+    },
+    {
+      "title": "Microsoft to expand Azure Maia system to multi-gigawatt deployments",
+      "summary": "Microsoft has announced plans to scale its Azure Maia AI chip system to multi-gigawatt deployments, reducing reliance on Nvidia GPUs for its AI infrastructure.",
+      "url": "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
+      "topics": ["AI infrastructure", "AI compute", "Microsoft"]
+    },
+    {
+      "title": "Silicon Valley is falling in line with Trump's attempt to rename AI",
+      "summary": "The Verge reports on how major tech companies are adopting the administration's preferred terminology around AI, raising questions about political influence on the industry's public language.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "topics": ["AI governance", "AI industry", "technology ethics"]
+    },
+    {
+      "title": "Turning Opportunistic AI Inference Capacity Into Better Ads Recommendations",
+      "summary": "Meta's engineering blog details how the company is using spare AI inference capacity to improve its advertising recommendation systems at scale.",
+      "url": "https://engineering.fb.com/2026/10/12/ml-applications/turning-opportunistic-ai-inference-capacity-into-better-ads-recommendations/",
+      "topics": ["advertising", "AI infrastructure", "large language models"]
+    },
+    {
+      "title": "HCLTech, Anthropic partner to expand enterprise agentic AI deployments",
+      "summary": "HCLTech has announced a partnership with Anthropic to scale agentic AI solutions for enterprise customers, expanding the reach of Anthropic's models into business deployments.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTXhPMFBVUlBpYnNJZzMydzdpLURGYTBWblpuR3Ffc1Y5Qm9lZ2hCUDZPUlA4YUVWajhMd3pmWVFsa0Q1QXB3aDM1NlBvRkNWam4wSDAxdk96cHJfYUE1TWt3elNIZ1hiZEtvd1RZaTBOeDZxaWo1dFNGR2ZqeDZiUDdoOVZ3bklKX2dmdkFieWRrN0XSAZMBQVVfeXFMT014TzBQVVJQaWJzSWczMnc3aS1ERmEwVm5abkdxX3NWOUJvZWdoQlA2T1JQOGFFVmo4THd6ZllRbGtENUFwd2gzNTZQb0ZDVmpuMEgwMXZPenByX2FBNU1rd3pTSGdYYmRLb3dUWWkwTng2cWlqNXRTRkdmang2YlA3aDlWd25JSl9nZnZBYnlkazdF?oc=5",
+      "topics": ["Anthropic", "AI industry", "generative AI"]
+    },
+    {
+      "title": "Epic Games tells employees to use AI to get Disney game done",
+      "summary": "Epic Games has instructed staff to use AI tools to accelerate delivery of a Disney game project, highlighting growing pressure to deploy AI in creative production workflows.",
+      "url": "https://www.avclub.com/epic-games-disney-ai-delay",
+      "topics": ["generative AI", "AI coding tools", "business"]
+    },
+    {
+      "title": "QGIS enacts moratorium on AI contributions",
+      "summary": "The open-source QGIS project has voted to impose a moratorium on AI-generated code contributions, citing concerns about quality and maintainability.",
+      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "topics": ["AI coding tools", "AI governance", "content policy"]
+    },
+    {
+      "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
+      "summary": "Actor Nicolas Cage has stated he will not work with Amazon again following a dispute over the use of AI, adding to growing tensions between performers and studios over AI in entertainment.",
+      "url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
+      "topics": ["AI ethics", "technology ethics", "generative AI"]
+    },
+    {
+      "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+      "summary": "Jack Clark's Import AI newsletter covers creativity and repetitive strain injury risks from AI use, new open-weight models underperforming Chinese counterparts, and AI applications in space.",
+      "url": "https://importai.substack.com/p/import-ai-476-creativity-and-rsi",
+      "topics": ["AI industry", "large language models", "AI safety"]
+    },
+    {
+      "title": "Google Unveils Gemini Agent for Enterprise Work",
+      "summary": "Google has unveiled a Gemini-powered agent designed for enterprise workflows, as reported by Korean electronics industry media THE ELEC.",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mQk9RdEZzcXhaT3dhN3ZMalVzdlhMR0ZFRlFFaEowMzhlRTY0RTBSSzA4QmJxTW1kN05HX1F1SlVaRE90YXUzX2trR1VzMUdaWjVqSlcwNHFxSDFITUJfNm5uYmJhdW8?oc=5",
+      "topics": ["large language models", "AI industry", "generative AI"]
+    }
+  ],
+  "ethan_mollick": null
+}
