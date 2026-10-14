@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "summary": "Google DeepMind has officially released Gemini 4 Argon, its latest flagship model designed for complex reasoning and problem-solving tasks. The launch is accompanied by dedicated posts on responsible development and robotics applications, signalling a broad deployment push across Google's product ecosystem.",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "topics": ["generative AI", "large language models", "Google"]
+    },
+    {
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "summary": "Google DeepMind published a dedicated safety report alongside the Gemini 4 Argon launch, detailing the measures taken to evaluate and mitigate risks from the new model. The post covers evaluation frameworks, red-teaming efforts, and DeepMind's approach to responsible scaling.",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "topics": ["AI safety", "AI ethics", "generative AI"]
+    },
+    {
+      "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us [Metered]",
+      "summary": "OpenAI and Anthropic have jointly urged UK parliamentarians to introduce AI regulation, arguing that a clear legal framework would benefit both public safety and industry development. The move marks a notable instance of leading AI labs actively inviting government oversight.",
+      "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+      "topics": ["AI regulation", "AI governance", "OpenAI", "Anthropic"]
+    },
+    {
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "summary": "Character.ai has filed for voluntary Chapter 11 bankruptcy protection, marking a significant collapse for one of the most prominent AI chatbot platforms. The company's official blog post confirms the filing and outlines plans for the reorganisation process.",
+      "url": "https://blog.character.ai/an-update-on-character-ai/",
+      "topics": ["AI industry", "generative AI", "chatbots"]
+    },
+    {
+      "title": "Meta's Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for Frontier Ads AI",
+      "summary": "Meta's engineering blog details GEM, its large-scale generative model purpose-built for advertising, describing how the system centralises ad creative generation and optimisation at scale. The post outlines the compute infrastructure and training approach underpinning Meta's frontier ads AI strategy.",
+      "url": "https://engineering.fb.com/2026/10/13/ml-applications/metas-generative-ads-model-gem-scaling-the-central-model-and-compute-engine-for-frontier-ads-ai/",
+      "topics": ["generative AI", "advertising", "large language models"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "summary": "An OpenAI employee was arrested after allegedly using a chatbot to assist in planting a recording device inside a company conference room, raising questions about insider security risks at leading AI labs.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "topics": ["OpenAI", "AI industry", "technology ethics"]
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "summary": "Google DeepMind outlines how Gemini 4 Argon is being applied to robotics, detailing new capabilities in physical world understanding and robot control that the model enables.",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "topics": ["generative AI", "AI infrastructure", "Google"]
+    },
+    {
+      "title": "Open models have real benefits. Do they outweigh the risks? [Metered]",
+      "summary": "MIT Technology Review examines the trade-offs of open AI models, weighing the benefits of broad access and research transparency against concerns about misuse and safety risks.",
+      "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "topics": ["AI safety", "large language models", "AI ethics"]
+    },
+    {
+      "title": "AI labs are buying data from dead startups to train their models [Metered]",
+      "summary": "MIT Technology Review reports that AI companies are purchasing datasets from failed startups to use in model training, raising questions about data provenance, user consent, and privacy.",
+      "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "topics": ["AI industry", "generative AI", "user privacy"]
+    },
+    {
+      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+      "summary": "The IMF has warned that an AI-driven stock market correction poses a material risk to global financial stability, citing concerns over concentrated valuations and cyber vulnerabilities linked to AI adoption.",
+      "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "topics": ["AI industry", "business", "AI governance"]
+    },
+    {
+      "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong [Metered]",
+      "summary": "An excerpt from a forthcoming book explores how the Wikipedia community initially dismissed AI as a passing trend, and how the rise of generative AI has since fundamentally disrupted the encyclopaedia's editor community and information model.",
+      "url": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+      "topics": ["generative AI", "wikipedia", "AI ethics"]
+    },
+    {
+      "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+      "summary": "Google DeepMind has partnered with the Singapore government to deploy an on-device AI scam detection tool aimed at protecting citizens from fraud in real time.",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "topics": ["AI safety", "generative AI", "AI governance"]
+    },
+    {
+      "title": "Epic shifts to 'AI-accelerated development' for upcoming Disney game",
+      "summary": "Epic Games has announced it is adopting AI-accelerated development workflows, including AI coding and art tools, for its upcoming Disney-branded game project.",
+      "url": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
+      "topics": ["AI coding tools", "generative AI", "AI industry"]
+    },
+    {
+      "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies [Metered]",
+      "summary": "Wired investigates a network of pro-AI political action committees that have channelled millions of dollars through Nevada shell companies, raising transparency concerns about AI industry political spending.",
+      "url": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+      "topics": ["AI governance", "AI regulation", "AI industry"]
+    },
+    {
+      "title": "Shopify opens its catalog up to more AI agents",
+      "summary": "Shopify is expanding access to its product catalogue for third-party AI agents, enabling more automated commerce workflows and agent-driven shopping experiences.",
+      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "topics": ["AI personal assistant", "e-commerce", "generative AI"]
+    }
+  ],
+  "ethan_mollick": null
+}
