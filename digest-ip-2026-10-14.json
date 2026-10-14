@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Reflecting on HSS Publishing as Informa Plans to Separate Taylor & Francis",
+      "summary": "The Scholarly Kitchen examines the implications of Informa's plan to separate Taylor & Francis, reflecting on the publisher's role in humanities and social sciences academic publishing. The piece considers what the separation means for the academic publishing landscape and Taylor & Francis's future direction.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/13/hss-informa-tf/",
+      "topics": ["academic publishing", "Taylor & Francis", "publishing industry"]
+    },
+    {
+      "title": "Taylor & Francis to Be Separated from Parent Company [Metered]",
+      "summary": "Publishers Weekly reports that Taylor & Francis is to be separated from its parent company Informa, marking a significant structural shift for one of the world's largest academic publishers. The move raises questions about the publisher's future strategy and independence.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/101517-taylor-francis-to-be-separated-from-parent-company.html",
+      "topics": ["academic publishing", "Taylor & Francis", "publishing industry"]
+    },
+    {
+      "title": "Global publishers form SPUR coalition to protect content from AI misuse",
+      "summary": "Major publishers including the New York Times, The Economist, and AFP have joined a coalition called SPUR — comprising over 40 publishers — aimed at preventing AI companies from monetising publisher content without permission or payment. The coalition represents a coordinated industry push for licensing standards and compensation frameworks.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTndhaHJtMnQ2cHNpOEZPYXg3M1Jtc0g0U1ZWVmdtSmJoUGZTV3dCT3FLSVJsTm5oYTZOSXhrNG9JUUFJWDI1bHQ3aGtobndUQzVlZnJ2eHExRlVfYkgtZnpMRmZ2UGJlVkVybDhTWDI3RUp3Y3RjT3JzWnItczlsSWdCYWNBcEY4ZHBncGh4c3F0d2dNYUM3WXZkeXlibFJhU2FTWWJnekNWWkNMSW1HSFFBUW1IQdIBwwFBVV95cUxOTDFqdS1iUUZBbGo0SjI1MEpkLTlKUEkzaWk2R0liX0tWSzFlSlZfQjQtZmR3cUR3Wks4OVl5eXhPYzJjaUJiblJGNDZ4WmQya3VsNU1kMFJyLU5SdkZsS0hoMHhjOVZXeGo2WWpqemZkMkhzTUk3MHNjeEN1YzFlZVRKYlh1VmFJbFpienp1aklXUTFrOUs0TThuMFA3d05rcE9JY2twQktyRWZaWWlvQTJSLWl2VHZNYXBxVV9Ecnhlc3M",
+      "topics": ["AI copyright", "licensing", "publishing industry"]
+    },
+    {
+      "title": "The Questions AI Copyright Cases Need to Answer",
+      "summary": "An analysis of the key unresolved legal questions that ongoing AI copyright litigation must address, including how courts should treat training data ingestion, fair use defences, and what compensation frameworks might look like. The piece provides a framework for understanding the landscape of AI copyright disputes.",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNZ3FEUzVpekRpT2FQVGFnMEEydjVYVkRFT2RvYTBuRFhmT1dnSW85a0pHRF91dGpic0RCVzJEcUNBc3lFOWVOc1VaTWQ5T1FOSEpOUExtVDhOSUhjY1ljZ29sNG5TbTQ5eTZpTnNRUHZKU1Q5cWZ3bGNlODFxOUVzSW1TdlhoRlh0RktSZWZWLXk0bTF3U1NkSVNkb1ZIOGNZb3kyMThtaEo5a0twbERxZXU1Y1BqcGZFZWFKMnM5YXhYQkJCclFzUk91SnN3d01BRS1QR2F1UlJmNHBYa1ZUbzJZMDVBdDRJS2hpc29aeTktLXQ3VWtjcjBiMkJkQnE1MzFBSWd5N3dRYkZVQjBhS3VGZk1ISGJxZGJid1ZqT2xsUGxkaHBrMk1XWUpjZktISHlWTmRNYm5MemsxbkpfLXpJR2lVaG1NQWprLTBsdF9lS1JLM3QyMA",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "A $1.5 Billion Warning: What 'Bartz' Means for AI Companies",
+      "summary": "Analysis of the Bartz case and its significance as a $1.5 billion warning to AI companies over intellectual property liability, examining what the ruling or settlement signals for how AI firms may face financial consequences for copyright infringement. The piece assesses the broader implications for the AI industry's approach to training data.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY0FoSlB2OUVYLXZ0eHFUOUtCN2xwM2VsaVNveWZEcFVLN2RNbzhCTFZzUzdqMW5vWEE2QlJZTkxlVW82eE5OUTFSSXZMYVQtMGZiaHdkOHh0alE0X2NMMkgxVHV3UWtCeHF0OGxLQlQ0TlRsazBZR0NabzV4ZTVpSlo0N0JJZ1lWdDJPLU5FS0RJMFVYai0wNUFxb2U1SnhTWHpsZWhwdw",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "USA Today vs OpenAI: Key questions over ChatGPT training data, news copyright and whether publishers should be paid",
+      "summary": "An examination of the core legal and commercial questions raised by USA Today's lawsuit against OpenAI, covering training data use, news copyright, and publisher compensation.",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxORjhDUWNteE5hY2d6bVFjRmhndEg2WHlvT0s1TDZQYmctbDlhN0otUWM3bGJiaURDM2drUml6RFZtajgtSV8tVk53bjFpdjhkeXV2R3g1Mk1iVlAxcUNkQk9LMko1ZjBueWFIUmVONWt0LTkyZ0t3dkdGZEhLbl9zV2NCRWlBWXczLU9Xb0VEWjdwN3VCMlIyVVhtSE9pVkx1VVJCXzc5dlJ3RXhDTUpMMHItVDZ1RmFJVWpTRGkycGdJdzJYTDY4TDRfdjZDazFwaE10UTZ6cXZLN19pTGJhWjVjZ3RmZHgybXJReFFDcVc1ODAyWjREU0I0VXFUd1VIMDdZenZuQUFsUlIyNzlLX2d0a0FobUFFLTliT1VLNmxtbmNkOWx3VFBWM1JLd3VqRnV6TmFFUQ",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "Australian voters back AI copyright changes — if creators get paid",
+      "summary": "A survey finds Australian voters support changes to AI copyright law provided that creators receive compensation for use of their work in AI training.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZHVzWWM0VHlJMmY4MEVpQXJmbUI5ckxFb04wZkxJYTB0UzBCZEtmR0dMdVF0S2hZMGQ5MGxwUjFyb3BpYngyenpqdFVlVVVoaHZCMHM4THppcGNXa2l2SDRxcDdZWWwyTER3VWNfdUh6bTBORzA4Vkpnb1hLT01xUFlmR2I2UnF5UFVKekhPSU94enNQd2JhQWpkUkEwNGJ6cUtuYUVORjR2LTBjSGY1SkxhNXRpX1RLakpLdTBoNE1Xb2c",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "ARIA and PPCA reject assertions in Joint Select Committee on Artificial Intelligence Interim Report",
+      "summary": "Australian music rights bodies ARIA and PPCA formally push back against claims made in the parliamentary committee's AI interim report regarding copyright and AI training.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMWd5Qk5OYmxkUjZyWE9YQnlIeEsyQ0tYMXRkcmhfZW9CVW1aMGthT1phSEVSS3p5UWF1T1VVSjU1bnNQa1Y4YXo4anY5TXNCWk1RVlh5OEVZNFczUnd2X0VDQUw2VUhaSlBuSXduMzI5R2RxN0RfdkhjczREUHd2OFM3Ri1lUTdweGFPcGd4VWF2bVFEM2YyT3NPNUVoeElTM3QzckJTRm84ZHRpTFRSc2ZmeTM5RWVjRTZoMW90NDFBM0R2dEhlRks1eWJUczg",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Reddit and Perplexity AI clash over law firm's role in data-scraping case",
+      "summary": "Reddit and Perplexity AI are in dispute over a law firm's involvement in their data-scraping litigation, raising questions about conflicts of interest in AI copyright cases.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcDA4R0ZLdXFkdmlzZWw1REwwX0ltS1FRWVZWb0JCTlhYMTM2TVJabHUya0c3VU1wSlRSa0h2T19ucFFPeEEzOG1fSVJ2N1FpamwxTXJCRWlsbGNqaFZHc000b19XdG5tMFBsZndQTTlCM2NsRzczcjVyN2xDZDJ5S2FFMnY2czFzWXhrTGJzM3ZaLVV1QUtzVkVoVWtMeWhqNHlCbUN3U1lrSWJxX1JfeTc0OUJYZEZZVFRPZkNB",
+      "topics": ["AI copyright", "litigation", "legal services"]
+    },
+    {
+      "title": "Global creative bodies launch ethical AI charter 'in the vacuum of government policy'",
+      "summary": "International creative industry organisations have launched an ethical AI charter to fill the gap left by absent government regulation on AI and intellectual property.",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbkFPQTJMZnNWSUs2Q1ExcUNoX3lPOHBHRC1QR3N6dkU1cEQ4WkQzdUpIM19lNXYtMVl4aGxxeXhzbDVSLVg4TFljWGp6dVlKeXZWUnBoRVJ1NWd6V2RuZ1drNFhURzRFeXFRaWY0U1ZKWEpnNEpQR3QyQkQyai1FQWRzd1RtaDhqZzQ1U1NUNVZ1Z2lWV2duTGR4UFZQbUd1bVlSRWFHZTlqaWRWU2NEVFpKNTl5aDNVYWc",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "NJ's Former Top Prosecutor Takes Big Swings at AI Behemoths",
+      "summary": "New Jersey's former attorney general is pursuing significant legal action against major AI companies over intellectual property and data use issues.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVXU4eV9xUGtOaEJEX28zMWVQa195d283NF9kLVRDeXNaZWtoY0VjeFNld0hwc3BtVTMxX0tGT2pLV0Y1X2g1VDltODdCdkhHaWcwNXFxZ0lqUFlJY3ViUXRtTEpKM2NGdTM5QWQ4MDctNmE2bUNUVUZXckUzNFJhOThWQm1vNTlCeVBjbU5JVU1oS0ZsRjhJYWhBZjNjNDhHcVB5UEVBcjNOVFFKaFJZ",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "Someone used AI to create a book about me and sold it online",
+      "summary": "A reported case in which an individual discovered that an AI-generated book about them was being sold online without their consent, highlighting concerns about AI and identity rights.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeE1nYnVKSGhyUFpub2FQOElnWUFQd1puVDVQOG0tVllvaUdyaE9ReW4xOE95NHAwbTQzdlhBaWZ1Rko3aEk5ZFdoNkhkVndMWkZqMHJRQUdMSE5lSkNJQmp2VW9LYnJzZjhEQUFFUUl5Vmk1eDF6YmlSSW5mS25kSnZoUDNSQzU3d1E",
+      "topics": ["AI copyright", "book publishing", "policy"]
+    },
+    {
+      "title": "Print Sales Stay Flat Through September [Metered]",
+      "summary": "Publishers Weekly reports that print book sales have remained flat through September, reflecting ongoing stagnation in the physical books market.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/101512-print-sales-stay-flat-through-september.html",
+      "topics": ["book publishing", "publishing industry"]
+    },
+    {
+      "title": "From Storylines to Strategies: Addressing AI-Amplified Trade Secret Leak Threats in Entertainment",
+      "summary": "An examination of how AI tools are intensifying the risk of trade secret leaks in the entertainment industry, and what strategies companies are adopting in response.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMU5KT2RpbFJHeERBUnRqQkNCR09YRW9MSjlTeUIzU3NCNm56UG9Gcm8zd1RLNWcwbWpmN01EU3BHbFBIcmM3eFRyYzhxR1lsc0lmcVFuRVRkVE1IRThjSGFWUnFSd3Q5SlJPaUVNanM2SXNKUWhsZEZVcDZZRDl3ZmxWYzU0enFaTXYtdUJCTEtfWHhMMXpaV3dTNkRZN1VRM3l1dEdUXzU",
+      "topics": ["AI copyright", "software", "litigation"]
+    },
+    {
+      "title": "[Guest post] 3D-printed spare parts: IP and sustainability",
+      "summary": "IPKat publishes a guest post exploring the intersection of intellectual property law and sustainability considerations in the context of 3D-printed spare parts.",
+      "url": "http://ipkitten.blogspot.com/2026/10/guest-post-3d-printed-spare-parts-ip.html",
+      "topics": ["software", "policy"]
+    }
+  ]
+}
