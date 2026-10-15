@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Eight states sue OpenAI, saying ChatGPT isn't safe for kids",
+      "summary": "Eight US states have filed lawsuits against OpenAI, alleging that ChatGPT poses safety risks to children. The suits raise concerns about how the AI chatbot interacts with minors and whether adequate protections are in place. This marks a significant escalation in legal scrutiny of major AI companies over child safety.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "topics": ["AI safety", "OpenAI", "AI ethics"]
+    },
+    {
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "summary": "Anthropic has issued a warning that small AI models could potentially self-replicate by spreading through IoT devices such as smart home equipment. The company describes this as an alarming risk that revisits concerns previously raised about autonomous AI behaviour. The warning highlights growing unease about AI safety in the context of widely deployed consumer hardware.",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "topics": ["AI safety", "Anthropic", "AI ethics"]
+    },
+    {
+      "title": "Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
+      "summary": "Bankruptcy filings from Character.ai reveal that the company struggled to make its business model financially viable, raising broader questions about the economics of consumer-facing generative AI products. The documents expose the gap between high infrastructure costs and revenue generation. The collapse also raises questions about what happens to the personal data of millions of users.",
+      "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work/",
+      "topics": ["generative AI", "AI industry", "user privacy"]
+    },
+    {
+      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+      "summary": "OpenAI has alleged that a former employee removed confidential product plans and subsequently shared them with Apple. The claim raises questions about internal security practices and the competitive dynamics between leading AI and tech firms. The incident adds to ongoing scrutiny of OpenAI's internal culture and information governance.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+      "topics": ["OpenAI", "AI industry", "legal"]
+    },
+    {
+      "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+      "summary": "A new report from Wired details research showing that AI models can be modified relatively easily to provide assistance with terrorist or extremist activities, bypassing safety guardrails. The findings point to significant vulnerabilities in how frontier models are hardened against misuse. The research adds urgency to debates around AI safety standards and governance. [Metered]",
+      "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+      "topics": ["AI safety", "AI ethics", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "The AI race is back on",
+      "summary": "The Verge examines how competitive dynamics between leading AI labs have intensified, signalling a renewed acceleration in the race to develop and deploy frontier AI systems.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "topics": ["AI industry", "generative AI", "large language models"]
+    },
+    {
+      "title": "Now that Character.AI is going bankrupt, what happens to all of its users' data?",
+      "summary": "The Verge explores the data privacy implications of Character.AI's bankruptcy, questioning what protections exist for the sensitive personal data of its large user base.",
+      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "topics": ["user privacy", "AI industry", "legal"]
+    },
+    {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "summary": "OpenAI's official blog details how Amp is deploying AI agents powered by OpenAI models to automate a broad range of business workflows beyond software development.",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "topics": ["OpenAI", "generative AI", "AI industry"]
+    },
+    {
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "summary": "OpenAI's blog describes how financial research firm Third Moment Research uses OpenAI technology to run large-scale fleets of AI agents for extended autonomous research tasks.",
+      "url": "https://openai.com/index/third-moment-research",
+      "topics": ["OpenAI", "large language models", "AI industry"]
+    },
+    {
+      "title": "McKinsey is making job applicants spar with a fake AI client",
+      "summary": "McKinsey has introduced an AI-simulated client interview as part of its recruitment process, requiring candidates to demonstrate consulting skills in conversation with a virtual persona.",
+      "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "topics": ["AI industry", "generative AI", "business"]
+    },
+    {
+      "title": "AI Came for Math. Now It's Chasing the Rest of Science",
+      "summary": "Wired examines how AI systems that have demonstrated strong performance in mathematics are now being applied to broader scientific domains, with significant implications for research. [Metered]",
+      "url": "https://www.wired.com/story/ai-is-coming-for-science-next-watch-out/",
+      "topics": ["generative AI", "large language models", "research integrity"]
+    },
+    {
+      "title": "NVIDIA Commits $250 Million to Advance UK Agentic Safety and Security Research Over the Next Five Years",
+      "summary": "NVIDIA has announced a $250 million commitment to fund AI safety and security research in the UK over five years, focused on agentic AI systems.",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years",
+      "topics": ["AI safety", "AI governance", "AI infrastructure"]
+    },
+    {
+      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+      "summary": "Microsoft has released a new machine learning model designed to enhance the accuracy of weather forecasting by processing large volumes of meteorological data.",
+      "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+      "topics": ["large language models", "AI industry", "Microsoft"]
+    },
+    {
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "summary": "Banks that recently underwrote large loans to fund AI data centre construction are now attempting to sell that debt on secondary markets amid concerns about risk concentration.",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "topics": ["AI infrastructure", "AI industry", "AI compute"]
+    },
+    {
+      "title": "Men Can't Stop Faking How Much They Know About AI",
+      "summary": "Wired reports on research showing that men are significantly more likely than women to overclaim knowledge and expertise about AI tools and capabilities. [Metered]",
+      "url": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+      "topics": ["AI ethics", "bias", "generative AI"]
+    }
+  ],
+  "ethan_mollick": null
+}
