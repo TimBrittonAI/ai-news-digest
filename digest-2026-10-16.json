@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "summary": "OpenAI has added a feature to ChatGPT that allows it to access and read users' open Chrome browser tabs. This expands ChatGPT's capabilities as an AI personal assistant with greater context awareness of what users are actively working on.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "topics": ["ChatGPT", "OpenAI", "AI personal assistant"]
+    },
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "summary": "OpenAI has introduced the Rosalind Academic Plan, a new offering designed to bring GPT capabilities to academic research laboratories. The plan aims to support researchers with AI tools tailored for scientific and academic work.",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "topics": ["OpenAI", "academic publishing", "generative AI"]
+    },
+    {
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "summary": "Google DeepMind has published details on a new AI tool called Antigravity, designed to accelerate the discovery of antimicrobial peptides — a critical area of research given rising antibiotic resistance. The system uses AI to navigate the vast search space of potential peptide candidates.",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "topics": ["generative AI", "AI research", "large language models"]
+    },
+    {
+      "title": "AI Hacks Leave a Mess That AI Companies Aren't Paying For [Metered]",
+      "summary": "Wired investigates a growing pattern in which AI systems are exploited by attackers, causing real-world harm to individuals and organisations, while the AI companies behind the products largely avoid financial or legal accountability. The piece examines the gap between AI deployment speed and security responsibility.",
+      "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+      "topics": ["AI ethics", "AI safety", "technology ethics"]
+    },
+    {
+      "title": "Teaching students to think and learn through questions",
+      "summary": "OpenAI has published a post outlining an educational approach using ChatGPT to encourage Socratic-style questioning rather than direct answer provision. The initiative is aimed at fostering deeper student engagement and critical thinking in AI-assisted learning environments.",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "topics": ["OpenAI", "ChatGPT", "AI ethics"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "How Meta Built Forum With AI-Native Engineering",
+      "summary": "Meta's engineering blog details how the company used AI-native development practices to build Forum, its new social application, integrating AI tooling throughout the engineering process.",
+      "url": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/",
+      "topics": ["generative AI", "AI coding tools", "Meta"]
+    },
+    {
+      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+      "summary": "Meta and Apple have collaborated to optimise Meta's open Muse AI models to run more efficiently on Apple hardware using the MLX framework.",
+      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+      "topics": ["large language models", "AI infrastructure", "Meta"]
+    },
+    {
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "summary": "The Simons Foundation is investing $15 million to support mathematicians in understanding and engaging with AI tools and methods as they increasingly intersect with mathematical research.",
+      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "topics": ["AI research", "academic publishing", "generative AI"]
+    },
+    {
+      "title": "Bluesky's AI tool now lets you make games and apps to share on social",
+      "summary": "Bluesky has launched an AI-powered tool called Attie that enables users to build simple games and applications directly within the platform and share them socially.",
+      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+      "topics": ["AI coding tools", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Market selloff, rising rates test AI data centre deal boom",
+      "summary": "Rising interest rates and market turbulence are beginning to strain the wave of financing behind AI data centre construction, raising questions about the sustainability of current AI infrastructure investment levels.",
+      "url": "https://www.reuters.com/business/finance/market-selloff-rising-rates-test-ai-data-centre-deal-boom-2026-10-15/",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    },
+    {
+      "title": "NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+      "summary": "NVIDIA has announced new additions to its open Nemotron model family, including Super VL and Bolt variants designed for high efficiency from data centre to desktop deployments.",
+      "url": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+      "topics": ["large language models", "AI infrastructure", "generative AI"]
+    },
+    {
+      "title": "Nobody is safe from celebrity AI deepfakes",
+      "summary": "The Verge reports on the proliferation of AI-generated deepfake images using celebrity likenesses on Instagram, highlighting the difficulties platforms face in policing synthetic media at scale.",
+      "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+      "topics": ["AI ethics", "generative AI", "content policy"]
+    },
+    {
+      "title": "Why We're Banning AI",
+      "summary": "Current Affairs explains its editorial decision to prohibit the use of AI-generated content across its publication, citing concerns about quality, authenticity, and the broader cultural implications of AI in journalism.",
+      "url": "https://www.currentaffairs.org/news/why-were-banning-ai",
+      "topics": ["AI ethics", "content policy", "generative AI"]
+    },
+    {
+      "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
+      "summary": "Adobe and NVIDIA have announced an expanded partnership focused on accelerating agentic AI workflows for creative professionals, leveraging NVIDIA hardware and Adobe's creative software ecosystem.",
+      "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
+      "topics": ["generative AI", "AI industry", "advertising"]
+    },
+    {
+      "title": "Using AI to reverse engineer hardware",
+      "summary": "A GNOME engineering blog post describes practical experiments using AI tools to reverse engineer hardware, demonstrating emerging use cases for AI in low-level technical analysis.",
+      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "topics": ["generative AI", "AI coding tools", "AI research"]
+    }
+  ],
+  "ethan_mollick": null
+}
