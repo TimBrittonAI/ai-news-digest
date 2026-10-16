@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Taylor & Francis to Be Separated from Parent Company",
+      "summary": "Taylor & Francis is to be separated from its parent company, in a significant corporate development for one of the world's largest academic publishers. The move has implications for the publishing industry's ongoing engagement with AI licensing and copyright matters.",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxON3owc21QWWdTajVVbkZrWGtMZzRSSEJVVGJwRWtQM3J3ajZ2RElGdkI3NG9Ud3BhQmRPYlpsYTNWYld0eGE5WnFMUGRnOXM2V2xVS3lNVEYwcEhVRG00YldJZGFxZjAwMlRTM0JBZ0docXFwLVJNclYzb3E5RHQ0SDFYXHJKQWF2eHFuaFdMbVFpMV9NVXkzb1A3VVhtSkhURmpsc1lFU0RuU1lRampyX05IbFZaTXpkT2lnM0E0Rnp6UmZTU1hoZ3lrQ05mSGp3alNULXgyUzZ3WE00NjExbXlzU1FQV1dTMjk1Q3o4Y0p6bnpldy1JYw",
+      "topics": ["academic publishing", "AI copyright", "licensing"]
+    },
+    {
+      "title": "Anthropic to Pay $1.5 Billion Over Pirated Books as EU Bars AI Training Over Rights Holders' Objections",
+      "summary": "Anthropic has agreed to pay $1.5 billion to settle claims over its use of pirated books for AI training, while the EU has moved to bar AI training where rights holders have objected. The story combines a major US settlement with a significant European regulatory development affecting AI and copyright.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdW0wSEZxREc0NzV4RzZkdlhtTlZWR0NGWjdQdkx1WGZyRHEzeDNhVnNfVWtoQWl3cTF2b0loWWpwMmc0ZV9qSDJLb1JIakR4c2xlN3E4N2g1Z0dtWU9lUHlpa0pxVnFPaERtV0g5NnJJd2c3ck1MRzBRblY3WlVZV0duOHkwdmdIeTlnZFh6elQ1c3hQM2wxOHFZWjc0R21oWlQzRXNXWTM",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "'Legitimising larceny': Global music giants blast Albanese AI copyright plan",
+      "summary": "Major global music industry groups have strongly condemned the Australian government's proposed AI copyright framework, with 90% of the music industry opposing the plan. Critics argue the proposal effectively legitimises the use of copyrighted material for AI training without adequate compensation to rights holders.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWm1GNXpsUzFhMmxzRWFpblYxUjB2dVI1N0JRZW1UbjhDZ2NzbGJHX09OUkE1NW1wbjFLUDZDVndZcmRrLUtvZjBnbHZueG9qckxnellZT0R4UGF2OUNZczhFaWxpVjNCa290NVhwNlNCa2RKTTNCRXlHUE5vZ2dWU0pBRDE1VG9yT3BFTDVSLXR0WkJxdG5wTnJwZU5STF9sUnpzaWRlSFJDWTNIUTVJZkQ3a09xMGdOV2t5dmtzMk1jTHBE",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "International Writers Groups Back AI Standards Charter [Metered]",
+      "summary": "International writers' organisations have endorsed an AI standards charter setting out principles for how AI companies should treat authors' work, including transparency and compensation requirements. The move reflects growing coordinated pressure from creative communities on AI developers and policymakers.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101533-international-writers-groups-back-ai-standards-charter.html",
+      "topics": ["AI copyright", "book publishing", "licensing"]
+    },
+    {
+      "title": "The Questions AI Copyright Cases Need to Answer",
+      "summary": "An analysis of the key unresolved legal questions that AI copyright litigation must address, including issues of training data, fair use, and authorship. The piece examines how current and forthcoming cases will shape the legal framework for AI and intellectual property.",
+      "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNZ3FEUzVpekRpT2FQVGFnMEEydjVYVkRFT2RvYTBuRFhmT1dnSW85a0pHRF91dGpic0RCVzJEcUNBc3lFOWVOc1VaTWQ5T1FOSEpOUExtVDhOSUhjY1ljZ29sNG5TbTQ5eTZpTnNRUHZKU1Q5cWZ3bGNlODFxOUVzSW1TdlhoRlh0RktSZWZWLXk0bTF3U1NkSVNkb1ZIOGNZb3kyMThtaEo5a0twbERxZXU1Y1BqcGZFZWFKMnM5YXhYQkJCclFzUk91SnN3d01BRS1QR2F1UlJmNHBYa1ZUbzJZMDVBdDRJS2hpc29aeTktLXQ3VWtjcjBiMkJkQnE1MzFBSWd5N3dRYkZVQjBhS3VGZk1ISGJxZGJid1ZqT2xsUGxkaHBrMk1XWUpjZktISHlWTmRNYm5MemsxbkpfLXpJR2lVaG1NQWprLTBsdF9lS1JLM3QyMA",
+      "topics": ["AI copyright", "litigation"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Anthropic Illegally Downloaded Books by Han Kang, Korean Authors",
+      "summary": "Anthropic is reported to have illegally downloaded books by Nobel laureate Han Kang and other Korean authors for AI training purposes, raising further copyright concerns alongside the broader settlement news.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWEFVNnEwQWFJM0F0TVU4WUhzbGFnZXVXX1pWNVQ5dXFwRVpoX2VXcnUtMGtoTVFhdC1Ud2YwaFo5Vy0xSVVsR2FJeHh2eXVhMmZEUWZUTFo2NldqSS1GcFFMa0FRV3N6bHpaamlZTTI2M0UwZGFWT2podDlOaTFubTEzd2g1VUwycXIxd2lvU1FhUjJHVXlZNjhBNkpyNDI4MklCNFZaSQ",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "The AI Rights Project Files Motion for Leave to Submit Amicus Brief in OpenAI Copyright MDL",
+      "summary": "The AI Rights Project has filed a motion to submit an amicus brief in the OpenAI multidistrict copyright litigation, seeking to represent broader stakeholder interests in the case.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMG5pNlBzbDZNUGgtTzBxMVZuN0k5eFFJU1ZWTnNFa1UyX081U2JoOFR0MTRneG1Ya2xYNEVVTUQ4MGhHRE1HVThmU2tlMW1aX2VhRWxfU3hyYW9RS2QwRkVsNTRoVVJFTXZ6dElYRHg1MlVGY2xLZnFHTlRYVG5hRGNnUE12WGlYbENUWm9GeENhVGVwX0tGSEtfbGtqZHhUQWJDbWdqcTQ0cTBqcm5Kc1NkWQ",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Reddit and Perplexity AI clash over law firm's role in data-scraping case",
+      "summary": "Reddit and Perplexity AI are in dispute over a law firm's conflicting roles in a data-scraping copyright case, with a disqualification motion at the centre of the legal conflict.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTF9vZXJxd2xTYm5hUmlCb3pLMnZMcjR2YXBZV2xVV2lwLW9ONjNaQkI4N1JrREFmRTgwOURXRFNNajdoSE9yWEJxS3FaVld6LXc3YVF1b3BpbG1OTWpqTUliM2VmZVg3Xzd1WDZMZUwwSUg4WS1YanRmV2VkRmFhTlZkOElfYkt2VWp1YnFub3huWV8xeXJVV3BLbWNtRFZkekw2X1p4ZmpjVE9uWmdqWHN2MVAwalZFdlYtSDBhYXQ5OVNvMnpqeVM5MFlRYXdKUjNtWlF5YW1yOXVxaWIw0gHkAUFVX3lxTE1HeGVnaTliMHBfYjVsX1FqT19iV0NRUXhKYkplMkdpdmpBUk5qVGo0eThGYlBBZlJGRzlRUUxyN1F4ZDZKTDhrdnJBdXUwbkJuNzdVd0pscW9TX2EzV3ZMazBLOElnellnMTJvdVFrZDdscEJDVldSQ0tRWmlVbC03MDY2V0tjaTR3M0UxbUE4TUpTaVRRczd4UWF0UnNJaldNY250OFZxd3J2Q2J5WEdsVEpNcHBFLWtuVVBxY21TWFhweTF4YUxoX2ZiQ2FNWDQxUmE0WEhvVWZ6YkwxdDhhMTMzMQ",
+      "topics": ["litigation", "AI copyright"]
+    },
+    {
+      "title": "Who's the author when AI does the work? Philosophers say the law hasn't caught up",
+      "summary": "Legal and philosophical experts argue that current copyright law is ill-equipped to handle questions of authorship when AI systems generate creative works.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzVqRlRjanQ2aTFDYlZUS0xuZ1czNmFjZkF0aHBjTzNiN0xkOUUxeXRtdlpyVnZHVzdMWERSWnUxYlBXeUxHc0pPX09RLXlSMlhpckplTkxwV0hKNVBGYjFuZjBfdWNmRjAwUVUwZmxQVzRoYkc3OHpnN3hEX3pUMldmVThjc193RVAzM29CZ091YmIwaUpnZVhWZm8zSEZ5Q3BPT2NzaV9DZEI2cUNYZGdVV3RSUGF0",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "AI Could Flood Korea's Book Market as Copyright Rules Lag",
+      "summary": "South Korea's book market faces a potential influx of AI-generated content as the country's copyright regulations have not kept pace with AI publishing capabilities.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcWpqcER1bzBJVFNqTzMwWVJRaXBKYWUwdlpQSk5CS25oSDdDd1pGTDEyeS1fMkF0T1dlM29aaERBUFpwUXcteTF3dmxsSzBPamYzSTRjellkejlPVzR2a0lKdzEyTXZMcmV2V284WVNjZEhlbFdiUW1HSm5tVmQtcXhDZ2NNLUhiMEF0dERSc1lpRXgxRnlrVDV4VQ",
+      "topics": ["AI copyright", "book publishing", "policy"]
+    },
+    {
+      "title": "ARIA & PPCA Reject Parliamentary Committee's AI Assertions",
+      "summary": "Australian music rights bodies ARIA and PPCA have formally rejected claims made by a parliamentary committee regarding AI and copyright, adding to the wider dispute over Australia's proposed AI policy framework.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORHRZTnRFTndDWGdqMTJwSE9oZzFCUEJMd3lDUU9KN3FQbm9fa2Y2Tm9XYzdMbkw0VUhLU1JmbXRzd2l2MGRtZkpReW02NmVpQlFzWi11T1ZfdWo3Z2VrODlEUmdneGhTbTFQSnFQaU95Mk9XVnpDb0ExQ1NzYWhuempVcGw4WTNfWHVfMExGUTdUVTBXM1IwbENwWEdHZEVZR1NlaVFubkFwLWp5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Law firm Crowell faces disqualification bid in AI lawsuit",
+      "summary": "Law firm Crowell & Moring faces a motion to disqualify it from acting in an AI-related lawsuit, highlighting conflicts of interest concerns in the growing field of AI litigation.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTUJvWVVOOXRHdzNZY2Y2SHFsQUZBNXpxWTV6OWI3cUM5Q2RoNGhvMkFSUUJrdGNCM3RCajF2SHloVDV2ak1VbE9jcGo0cHV0TVJFUmI3SlJHd3RKZUR5N1VwQ3FIZTRaMWtYUDZiaktBRVhVYVV0WHY3X0tUZG9laE0yUjZJZGllTVNjNk1lMlMzX1gwNWRTY2xkcUZaM0RhRmRpLWdnd1h0X3NvRnV3",
+      "topics": ["litigation", "AI copyright"]
+    },
+    {
+      "title": "AI, Inventorship, and Authorship: What Patent and Copyright Owners Need to Know",
+      "summary": "An overview of the key legal considerations for patent and copyright owners navigating questions of AI inventorship and authorship under current US law.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMVROdklXYkdobmVpX2I2WmQ1SXJ4c3k5ekF0b0cxZVExYUhSZ3hDZ2JzdU1jNXZyaXdlWnFlSTQ3dnhkRTZMLWtOZ0hlN2dqRmttTkdydVBHTjF6em0tbkdsYV9uQzVvWFpESThWOWVoa0R6ZEVWUTY3VWM4Q1RvT3htTzg",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Guest Post – The Evolution of Eras: Agentic Discovery Makes Way for Agentic Consumption",
+      "summary": "The Scholarly Kitchen examines how AI-driven agentic systems are shifting from discovering content to consuming it directly, with significant implications for academic publishers and rights holders.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/15/guest-post-the-evolution-of-eras-agentic-discovery-makes-way-for-agentic-consumption/",
+      "topics": ["academic publishing", "AI copyright", "licensing"]
+    },
+    {
+      "title": "China and Europe call for strong oversight of AI-generated content",
+      "summary": "China and European nations have jointly called for robust regulatory oversight of AI-generated content, signalling growing international alignment on the need for governance frameworks.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jODZINkJiZE94bjdZOEw3ZnpSNjFWTmIxMUdOVHZ3YTlWdEhhVzIwSkp2R2xhVjJVWkJQajd4TnQ0bG9ISU5GVW10cUZSNzd5SHp5LUI4WmNtb2hXMWlYNWg0QktrWnJKRjV0bjNlMW9rSkpRUlNuX3NtUVA1QQ",
+      "topics": ["policy", "AI copyright", "eu law"]
+    }
+  ]
+}
