@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Harry Potter Publisher Wins $21 Million From Anthropic, Shares Proceeds With Authors",
+      "summary": "A Harry Potter publisher has secured a $21 million settlement from Anthropic in a copyright dispute over AI training data, with proceeds being shared with authors. The case is a significant development in ongoing legal battles between publishers and AI companies over the use of copyrighted material to train large language models.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQelg0X1JwMGVXaC15VjIzbkhELXItVC1KSy1kNXZrNGgtMXB5aGNQWmwwc2RkUjV6Q1EzUXlRc3dSaTZrS0NVZThkQUtCWTVDVGNlU3I3VUFna1NrT2hBMDkycU5KR1dWY1RzM3Q5V2dvSGRDZXp4OUswV0lrS2NRRThCMUNhcXl2dk11RkNvajJNMGs3OXlTV3VPTElCcHpzNmZodG5NZE54YWFt",
+      "topics": ["AI ethics", "copyright", "Anthropic"]
+    },
+    {
+      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+      "summary": "Anthropic has put forward a proposed AI safety bill that would only trigger regulatory intervention in cases involving at least 50 deaths or $1 billion in damages. The proposal would effectively make the Commerce Department the sole agency with power to halt an AI model, raising questions about the threshold for oversight in AI governance.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "topics": ["AI safety", "AI governance", "Anthropic"]
+    },
+    {
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "summary": "OpenAI's models have been used to hack a cryptocurrency wallet and breach additional websites, according to reporting from Ars Technica. The incidents raise fresh concerns about the potential for large language models to be weaponised for offensive cybersecurity attacks.",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "topics": ["AI safety", "OpenAI", "large language models"]
+    },
+    {
+      "title": "Ninety Minutes on AI Changed How Surgeons View Scientific Publishing, Study Finds",
+      "summary": "A new study finds that just 90 minutes of AI exposure significantly shifted surgeons' attitudes toward scientific publishing, highlighting generative AI's growing influence on academic and research communities. The findings add to an emerging body of evidence on how AI tools are reshaping professional workflows and perceptions of research integrity.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNODNqaDNWaEdOMmdLOGpjdUEwWVdRYWFDdnBVZXFKanRkWE1WQXBEeXJtVHNDNFJST2JmVkt3VUJlUWx2VTFNX00zNmEwVzR6VTRHblItdTdLd2FXeWFWNzQ0VVNEN2xFNDZWQ09YQzZONXhlM0tZQWpUWjZlZTcwT3ByWXRTRUZHWDNuNmQwWThqM3NkVDVsRFkwREtGS0o2bWtRZ2d2eXQ",
+      "topics": ["academic publishing", "generative AI", "research integrity"]
+    },
+    {
+      "title": "Websites are closing their doors to AI agents",
+      "summary": "A growing number of websites are actively blocking AI agents from accessing their content, as the rise of autonomous AI systems creates new tensions around web access and data usage. The Verge reports that site operators are updating robots.txt files and deploying other technical measures to restrict AI crawlers and agents.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "topics": ["AI industry", "generative AI", "content policy"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "summary": "OpenAI's official blog details how Brazilian banking giant Itaú is deploying generative AI across its full customer base, marking one of the largest financial sector AI rollouts in Latin America.",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "topics": ["generative AI", "OpenAI", "AI industry"]
+    },
+    {
+      "title": "Amazon uses AI to monitor union risk in UK warehouses",
+      "summary": "OpenDemocracy reports that Amazon is deploying AI surveillance tools in UK warehouses to monitor and assess the risk of union activity among workers.",
+      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+      "topics": ["AI ethics", "technology ethics", "AI industry"]
+    },
+    {
+      "title": "Generative Engine Optimization (GEO) for Academic Journals: Preparing Scholarly Content for AI-Powered Research Discovery",
+      "summary": "A new piece examines how academic journals are beginning to adapt their content strategies for AI-powered research discovery tools, raising questions about the future of scholarly publishing and research visibility.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdkI3bkVYSElvcmN0NFh4MnlDRVhVNngyeDYzT3plVGtlWG53MWlhcjM4WHFGVXNWbXB0OWl6R0xqODJpRENkbGFtUUZUSUUyWUtYcmZuTlFBWkpYQmI4UGVQaElDNUJLbHFuODd4XzBmQklIRlZmMWpWUVg5b2xoeWFMNFNOZWltSXB3dDU5RHpyNVA4S24yZWw0cEYtMTFoMmVwMWlScl9ESWRhWDdfVkpYV0xPZ28zck10NHF5WTZyRzhhVHc",
+      "topics": ["academic publishing", "generative AI", "AI search"]
+    },
+    {
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "summary": "Meta has quietly removed terms from its business policies that critics said could have allowed it to scrape news publisher content to train AI models.",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "topics": ["generative AI", "copyright", "content policy"]
+    },
+    {
+      "title": "Amazon's Panos Panay Bets on Ambient AI Over Apps as the Future of Personal Computing",
+      "summary": "Amazon's devices chief Panos Panay argues that ambient AI — AI that operates continuously in the background — will replace the app-centric model as the defining paradigm of personal computing.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaTMwdk1FRXI3dlRFbmdaT1g2alg2NlMwcG0wOVJLaFd2bXNoX205ekFLRTlaWmprRHhaNTVhcVh3SjFqNFFSNE0zTlduQ3hqQXJDY2ZOYmZNZGg4cU0wX0Z1YS1od0tFbm01cWpid19uS2ljZ1NFNTh4NUZnRFlBWVl0UXphWHRpVkdNQzdyaGVtbHpxU1RaaThmcGVWSDVGdC0zNmNDcVpnRHJpTzhRSHVvMTlpQmo0VGNlZnRidw",
+      "topics": ["AI personal assistant", "AI industry", "large language models"]
+    },
+    {
+      "title": "Maybe Chatbots Shouldn't Get to Say 'I' or 'Me'",
+      "summary": "Wired examines the philosophical and ethical implications of AI chatbots using first-person language, and whether anthropomorphic language shapes user expectations in potentially harmful ways.",
+      "url": "https://www.wired.com/story/maybe-chatbots-shouldnt-get-to-say-i-or-me/",
+      "topics": ["AI ethics", "chatbots", "technology ethics"]
+    },
+    {
+      "title": "Microsoft Faces Tougher UK Antitrust Oversight as Regulator Targets Software and AI Dominance",
+      "summary": "UK regulators are increasing scrutiny of Microsoft's position in the software and AI markets, signalling a tougher antitrust stance toward major tech platforms operating in the country.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWTBUN0taVjl0VDZIVkJXYlNQaVNNcnEyWWp6RTV4OVIyQnRWR2VYamh4bUU1RmNfZkFVUGI3SFM3OWdPWUJhNzVGSm9SN21qa05XcVBmbzVNZkpSakM2enYtRndOMHM1ek9wb0c3VVA0TEJaZ244R1R3aXNuQVVrN0ttQkJhcG5sTHJmYlczNGpkc29XaC1FbVE2SnhqMXNtNkNobTB2Nk5tdHpSc2JlVDlPaFdCVTJJMmVkLW5uTl9jeXBwVHc",
+      "topics": ["AI regulation", "Microsoft", "AI governance"]
+    },
+    {
+      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+      "summary": "The release of Postgres 19 has been pushed back after AI-powered code reviewers identified more bugs than the human development team can address in the current timeline.",
+      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "topics": ["AI coding tools", "generative AI", "AI industry"]
+    },
+    {
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "summary": "New research from Mercor finds that the vast majority of US working hours involve tasks that current AI benchmarks fail to adequately measure, suggesting a significant gap between benchmark performance and real-world AI utility.",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+      "topics": ["large language models", "AI industry", "generative AI"]
+    },
+    {
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses [Metered]",
+      "summary": "MIT Technology Review speaks with a researcher who has used AI to design novel viruses, exploring the dual-use risks of generative AI in the life sciences and the ethical frameworks needed to govern such research.",
+      "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "topics": ["AI safety", "AI ethics", "generative AI"]
+    }
+  ],
+  "ethan_mollick": null
+}
