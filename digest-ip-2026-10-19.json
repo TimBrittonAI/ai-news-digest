@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Anthropic to Pay $1.5 Billion Over Pirated Books as EU Bars AI Training Over Rights Holders' Objections",
+      "summary": "Anthropic has agreed to pay $1.5 billion in a settlement over the use of pirated books to train its AI models. Separately, the EU has moved to bar AI training over objections from rights holders, marking a significant development in the global regulatory landscape for AI and copyright.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdW0wSEZxREc0NzV4RzZkdlhtTlZWR0NGWjdQdkx1WGZyRHEzeDNhVnNfVWtoQWl3cTF2b0loWWpwMmc0ZV9qSDJLb1JIakR4c2xlN3E4N2g1Z0dtWU9lUHlpa0pxVnFPaERtV0g5NnJJd2c3ck1MRzBRblY3WlVZV0duOHkwdmdIeTlnZFh6elQ1c3hQM2wxOHFZWjc0R21oWlQzRXNXWTM?oc=5",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "Authors Guild Issues AI Guidelines for Publishers [Metered]",
+      "summary": "The Authors Guild has issued new AI guidelines directed at publishers, setting out standards and expectations for how AI should be used in the publishing industry. The guidelines represent a significant step by a major rights-holder organisation in shaping industry norms around AI and copyright.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101557-authors-guild-issues-ai-guidelines-for-publishers.html",
+      "topics": ["AI copyright", "book publishing", "policy"]
+    },
+    {
+      "title": "Universal and Sony Seek to Force DistroKid to Reveal Scale of AI Music Uploads",
+      "summary": "Universal Music Group and Sony Music are pursuing legal action to compel DistroKid to disclose the volume of AI-generated music uploaded to its platform. The case highlights growing label concerns about the unchecked distribution of AI-created content through mainstream music services.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbDBIRGZyQV9qQkItOHNFRExYNnhVazlaazl1YXJyVW80Sm1SOUZtZXdSUVpzOUpkc3VEVW5vQi1VSWRnMTZXM2phMFZVc2JSS2tXZFNtZmdhNG5mVGJ1N2hEUXg3US03d0xzV1NNVThMSlFJcnlYcUdiaHZLb0xPWWc4YWs0TWhUWTBSSEM0WmtQS3FM?oc=5",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "Meta's New AI Terms Could Let It Use News Content for Free, Raising Publisher Concerns",
+      "summary": "Meta's updated commercial terms are being interpreted by legal experts as potentially permitting the scraping of news publisher websites for AI training without compensation. Publishers have raised alarm that the new terms could allow Meta to bypass licensing negotiations entirely.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQnlmcGVWSE8yLW5FV09zSWVVNTk2VFNOa3RXaTA1YzhGV3owdF9UYnlZaW1wLTlJTVdlZi1raFBPdTJYWmFma3N5Tk1oblBmSjFyZC1NdEQzNmpqNjdIVWhGRHRIUEZ2Skl2SldYOFpBcFZoWHRrbVZNTnRYdjRlRGF1ZldjVnAzYXZfVEJ2WWNSeDhVV05EMW9qTWZ4T2d1NXBMVEItVGJBekpEdXRERXUySG5VMTdFOGRBVUlOZWhfSXVyckR4dWRGeDVlZ9IB0wFBVV95cUxNQ3U3dXUyUTlDZUhtV0t3REliVWpWN2tDTVh3MXJlUEdZejBIb21ObHl2U3V1aEZzVnZzVVdoQmM4SlkwZzVsSVVjbEU4dkFuWEVRYU12OWZORDdxQ3NrT2U0STZLbVZDaURyWW1CRU00MGhfMGpTcnBod1FKSk15TmFVcjd6VzVHbklQQ3AxRW5nOExhR24xUHpKUl90YWNSRnVOZ0VXTmR5WTlpWkJqRXMwenpmbmg4RFN4NWJESmtPU2pSSzJCZjJ6RlZlckl3M0c0?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "AI licensing fees may bypass creators, University of Amsterdam paper argues",
+      "summary": "A University of Amsterdam paper argues that revenue from AI licensing deals struck between technology companies and publishers is likely to bypass individual creators. The research raises questions about whether existing licensing frameworks adequately protect the rights and interests of authors and other content producers.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNDJvcFd4ZHY0Y3VpR1IwMklOZW5RWGgzR2pMQ1NIRTliSUR5ZElFZmpMWFU0Skl0NnZheTc0R1NoNVFGamxCMDV3OGpvZDZxdG5Wd0xHN2kzbVJLdTREaDJyQXgweFp2MkkwNjNNMG05dHZoN0RYSFRoVzc2UmR6VG1hWTAzbHlOWl9ROFo2VWxOdkpvLVpj?oc=5",
+      "topics": ["licensing", "AI copyright", "policy"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "US news publishers disclose more of motion in AI copyright case",
+      "summary": "US news publishers have made further disclosures in their AI copyright case, providing additional detail on their legal arguments against AI companies' use of news content.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZmdTWlZkb0NKMjVnTnRNU0xhQWhSVldQSVRsOTMycTR6c1ZFalJQbVVkZ0VDVHdYSGtNWlFrYkRWUklIRUdaMl8wLVFrS0MtRHk4UC1PcVI2cDhNeF9USGVjZ3VlVGdIQmpSNWMtTm5RSHgwZGFOMk5tX1h4c0o5OUhhZVNqNGFfVDdDZHJ6WUJ5UlQ4QXF1aUdybUVZVUsyZnFuc0M2bk94MWNhMTFDWW9rNHZLNkN3R3VKa2tTODE4dmtxTlRncDdB0gFaQVVfeXFMT2pVbXpaR3dRMFpxOGFPQW9BZHphSTlzcV9uY3VBcDl6djhSREpYc3l0bkpWYndxdWJaS3I3X0xEWkQxRlYwQUUxcGJxYzN4S29veXRwM2lmUGRR?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Kylie Minogue songs already used to train AI as tech firms 'strong-arm' Australian government, music body warns",
+      "summary": "Australia's music industry body has warned that tech companies are already using artists' work including Kylie Minogue's songs to train AI, while lobbying aggressively against copyright protections for creators.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFlnUkhCN01RZ09wX0ozaUZCcWY4bHMtQ0NPMXctSDNpR0F3aXhBOUw5MHZ1Q1RmUUpUWURzRkt0elhjZnp1ZVNjTHRESmY5RnBaTjZmMTA1TzVSUVVGTk1SZ29OTHJRcUY0cko0enRmRzYzOXJ2RllPbkJNZzlQZnV0NDNoTVhRaE9DX0I4anBJYTZwRDc2aGtBdGJXSTdMN3pCR1hmZmhUampManc?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "The AI Rights Project Files Motion for Leave to Submit Amicus Brief in OpenAI Copyright MDL",
+      "summary": "The AI Rights Project has filed a motion seeking to submit an amicus brief in the OpenAI copyright multidistrict litigation, signalling growing third-party interest in the outcome of the case.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMG5pNlBzbDZNUGgtTzBxMVZuN0k5eFFJU1ZWTnNFa1UyX081U2JoOFR0MTRneG1Ya2xYNEVVTUQ4MGhHRE1HVThmU2tlMW1aX2VhRWxfU3hyYW9RS2QwRkVsNTRoVVJFTXZ6dElYRHg1MlVGY2xLZnFHTlRYVG5hRGNnUE12WGlYbENUWm9GeENhVGVwX0tGSEtfbGtqZHhUQWJDbWdqcTQ0cTBqcm5Kc1NkWQ?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Anthropic Illegally Downloaded Books by Han Kang, Korean Authors",
+      "summary": "Anthropic is reported to have illegally downloaded books by Nobel laureate Han Kang and other Korean authors to use as AI training data, adding an international dimension to the broader litigation over Anthropic's use of pirated content.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWEFVNnEwQWFJM0F0TVU4WUhzbGFnZXVXX1pWNVQ5dXFwRVpoX2VXcnUtMGtoTVFhdC1Ud2YwaFo5Vy0xSVVsR2FJeHh2eXVhMmZEUWZUTFo2NldqSS1GcFFMa0FRV3N6bHpaamlZTTI2M0UwZGFWT2podDlOaTFubTEzd2g1VUwycXIxd2lvU1FhUjJHVXlZNjhBNkpyNDI4MklCNFZaSQ?oc=5",
+      "topics": ["AI copyright", "book publishing", "litigation"]
+    },
+    {
+      "title": "News generative AI deals revealed: Who is suing, who is signing?",
+      "summary": "A roundup of the latest generative AI licensing deals and lawsuits involving news publishers, mapping which organisations are pursuing litigation and which have opted for commercial agreements with AI companies.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbmlBOGF2YlY3cWZ0dXBrNWU2WV8yMGtJVjFCRUx2eUs3b0NNTzBsenpyOEloaVppUlpMOGxOMWtRX3BJYkcxbV9mZ1d5VzZLMmMzM1RNcXUycnRRTGpKV21FT3dJVkpuYTdQeEdJbzgwdUpJcV9kMEVwbkN3VDZKUVV1RlNEVVI5ZGN4eA?oc=5",
+      "topics": ["AI copyright", "licensing", "litigation"]
+    },
+    {
+      "title": "Who's the author when AI does the work? Philosophers say the law hasn't caught up",
+      "summary": "Philosophers and legal scholars argue that existing copyright law is ill-equipped to determine authorship when AI systems generate creative works, raising fundamental questions about the nature of creativity and ownership.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVzVqRlRjanQ2aTFDYlZUS0xuZ1czNmFjZkF0aHBjTzNiN0xkOUUxeXRtdlpyVnZHVzdMWERSWnUxYlBXeUxHc0pPX09RLXlSMlhpckplTkxwV0hKNVBGYjFuZjBfdWNmRjAwUVUwZmxQVzRoYkc3OHpnN3hEX3pUMldmVThjc193RVAzM29CZ091YmIwaUpnZVhWZm8zSEZ5Q3BPT2NzaV9DZEI2cUNYZGdVV3RSUGF0?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "[Guest Post] From photos to 3D replicas: can AI-generated copies infringe EU design rights?",
+      "summary": "An IPKat guest post examines whether AI-generated 3D replicas derived from photographs can constitute infringement of EU design rights, exploring the intersection of generative AI and design law.",
+      "url": "http://ipkitten.blogspot.com/2026/10/guest-post-from-photos-to-3d-replicas.html",
+      "topics": ["AI copyright", "eu law"]
+    },
+    {
+      "title": "South Korea aims for a 'legal AI music' solution through copyright tracking",
+      "summary": "South Korea is developing a copyright tracking system intended to create a legal framework for AI-generated music, aiming to ensure rights holders are identified and compensated.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOU9DYTQ5WVIyeE5GZnl3VEVyWUpWYUdNc2V4WG5vbTdSYnBwTFVuNjFveVBhWTRLTGhLUzFZOXB1UW5nODR2OExVRXBPd3paYnJGZkl4T1FUenN3T0ZfQVJiTERkSnRVajhJcGtMcXpyTFpYY1lFWV9QQmo1YWQzSmR3ZHpkMFRaLXRYdUlhRHpCT05SWURXVS1MaFkyNmlRQlA1RmFoVUVvdWdM?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "Google Adds Publisher Links to AI Search as Court Rules Traffic Crisis Needs Congress",
+      "summary": "Google has begun adding publisher links within AI-generated search results, while a court has ruled that the broader question of AI-driven traffic loss for publishers is a matter for Congress rather than the judiciary.",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdFRvZWxhLUVSQ3pqV1dtcVpRbXBoWkltSTI1NUdic1JUMzd4SG9zOEptSnZYZHgxU1pZQ1RyZVFfV0EtR28tcEhNcTBuVTU5bHNTUnM4MFQzOTIzN0p6WE9rNUJTaHp4a1VDRWNzQmdFWXYtbFd6VDdJVGJkaXZzeDk4ejhGR2phZ0dZOXR1QXFQVkNDVXVfSFktUkVlVWNGUWlqNVpVZjh0T1dUNUVQT1luNHpEOUJfSXRxR0tablRJNTJpdHRNOFNvV1Nhdjg?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "AI, Inventorship, and Authorship: What Patent and Copyright Owners Need to Know",
+      "summary": "A legal overview of the current state of AI-related inventorship and authorship questions under patent and copyright law, outlining key risks and considerations for rights holders.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMVROdklXYkdobmVpX2I2WmQ1SXJ4c3k5ekF0b0cxZVExYUhSZ3hDZ2JzdU1jNXZyaXdlWnFlSTQ3dnhkRTZMLWtOZ0hlN2dqRmttTkdydVBHTjF6em0tbkdsYV9uQzVvWFpESThWOWVoa0R6ZEVWUTY3VWM4Q1RvT3htTzg?oc=5",
+      "topics": ["AI copyright", "policy"]
+    }
+  ]
+}
