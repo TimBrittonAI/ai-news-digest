@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Meta Sued by Hundreds of Authors in AI Training Copyright Cases",
+      "summary": "Hundreds of authors have filed copyright lawsuits against Meta, alleging their works were used without authorisation to train AI models. The cases represent a significant escalation in litigation between the publishing and creative communities and AI companies over training data practices.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT3lJSmNhSmJQQllDTWdUZ09heHJKSHZKWTVFLUxCZkJoUV96c0NSblFXeGNSdlJxd0R1S0xnLXFaeUUxeG9nRXNLN29ydGNRWjNlMVJ2ZVZkT3Zzb3ZkM0cwanpUUDNfQW8tVGgxWFRJTFRiY21yZGJETlBVbm1qUUVpUXFwOXhWZEhDY3d3c05vQzU3Z3RtVzg5d2trQWhVckE?oc=5",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "Anthropic sued by major Canadian news publishers for copyright claims in Ontario court",
+      "summary": "Major Canadian news publishers have filed a copyright lawsuit against Anthropic in an Ontario court, alleging the AI company used their content without permission or compensation. The case adds to a growing wave of publisher-led litigation against AI developers in multiple jurisdictions.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRlBzRzJOclVTWWVNQVd5VFVYRkVOQVB3MUxfNFZTTEZ4ZkU1QkxjMUtQS19YRlhLLWx4c1hjTHBVSW9jQ3FvbWJldkRtODR2SG9sMjhWVENudlB0YWZBcmg5MHZzcUc2M0syc2t1Y1ZITE9qRWNVZzRkUW9rZWx6VHpHWTkyNlRMUzAwX3RTWHRYVHc0RWI5NG1DMy1UanhQVG5tc2M3bzRkcnRiMHc?oc=5",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "Meta removes AI training clause from commercial terms following publisher backlash",
+      "summary": "Meta has removed the word \"train\" from its business terms after significant backlash from publishers over its data scraping practices. The move signals increased pressure on AI companies to be more transparent about how publisher content is used in AI training.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONmgyNEp4bGtUMGxNOHJOYjQ1cmRGSzJtdVNDb1kxcFlQc2Zld3R4MkRDY0lTMHlBcDV3RGtKV09IWk9zazZNMlZ6SUxrU3BqWTJDU0dQZ1RKWGNOdEpobWtVTlZfS1pZaDhLUHJtNFkwRHF5ZG8xWWJuNHl2VkdEZXlUYVdGS1V1LVlZVzBWSlp2bzNwY1JvNEFnbnJUZnJvSGczRVliaFR5MG9hRm1yY3dTSDNLQTg?oc=5",
+      "topics": ["AI copyright", "licensing", "book publishing"]
+    },
+    {
+      "title": "US news publishers disclose more of motion in AI copyright case",
+      "summary": "US news publishers have disclosed additional details of their legal motion in an ongoing AI copyright case, shedding further light on their arguments against AI companies' use of journalistic content. The disclosure is part of a broader push by publishers to establish stronger legal precedents around AI training data.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcW9Qa0RDa3o1NUd1OXlJa1BDOHgwQVFLRGJJdUdfVVljdXdmZGFMMVJyYkI2QTRiSXpCcEplY2xYb2RkbjhFamcwdnVHbk5rQ19TSnZjVXQ3RDlET0tfeWhFZXg5ekxLTU4tM3dBS2doamtkMjdhSmpsRDJfRVZwcnR2MG93V2laeXFWa1Q4NUVoRjJtY0hWMzVnSEFjYnNDeEo2UUQ3ZThNd9IBWkFVX3lxTE9qVW16Wkd3UTBacThhT0FvQWR6YUk5c3FfbmN1QXA5enY4UkRKWHN5dG5KVmJ3cXViWktyN19MRFpEMUZWMEFFMXBicWMzeEtvb3l0cDNpZlBkUQ?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "UMG and Sony ask court to force DistroKid to hand over AI music data for Suno case",
+      "summary": "Universal Music Group and Sony have petitioned a court to compel DistroKid to disclose AI music-related data as part of the ongoing copyright litigation against AI music generator Suno. The move underscores the music industry's aggressive legal strategy in pursuing AI copyright infringement claims.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa0Z4NDI1TXE3bnpRdFJ2MVY5Q2VhcDJsMmE4Z3NYTTBVZjRHelJwNjRabU1ONTAwaFRfNVowVHFabXZtTnoxdGtCdnFwdmVsNUxWZXI4WlBWbkZ4OFBLcGZMMWpYSklfQ3ZJMVFaQnlzbzVUT1F2a1dIWGlkV3NXUC1zaEFTa00zSGkyRmo2R0ZfM1JsNk95S2MxZjQ5WUF4Nml5c1NRQWliQUZacFRpMF9waUVPQ1hCbWltOXBScw?oc=5",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "ICMP Says Australian Songs Used to Train AI Sans Compensation",
+      "summary": "The International Council of Music Producers has alleged that Australian musical works have been used to train AI systems without compensation to rights holders, adding to international pressure on the Australian government over its AI copyright stance.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTkVzR1dCb1laMTZfRmlvYlRtMmY2dHhyMWc2eVVkOUFjMnJFTjBIa25DX2hQLUpQZXVDbUJ2Wjg1Z3dOSDhmQ21sWFpWeVlMVjRjX2xsdUYyeHhvdVNpWTdrWWgyQnlpcmd2ZG5TS2l0NUIyWXJUQlFrMG9paDYyS3VSNEI?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "'Legitimising larceny': Global music giants blast Albanese AI copyright plan",
+      "summary": "Global music industry leaders have strongly condemned the Australian government's proposed AI copyright framework, with 90% of the music industry opposing a plan they say would allow AI companies to use creative works without payment.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWm1GNXpsUzFhMmxzRWFpblYxUjB2dVI1N0JRZW1UbjhDZ2NzbGJHX09OUkE1NW1wbjFLUDZDVndZcmRrLUtvZjBnbHZueG9qckxnellZT0R4UGF2OUNZczhFaWxpVjNCa290NVhwNlNCa2RKTTNCRXlHUE5vZ2dWU0pBRDE1VG9yT3BFTDVSLXR0WkJxdG5wTnJwZU5STF9sUnpzaWRlSFJDWTNIUTVJZkQ3a09xMGdOV2t5dmtzMk1jTHBE?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "AI content risks losing copyright protection",
+      "summary": "A legal analysis warns that AI-generated content may be ineligible for copyright protection, with significant implications for businesses relying on AI to produce creative works.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTUxGMWNaU2FiV3AzVFZJM1RwMnFNX2ZwZHUtckVQX09saV9VQXFXWC01Mk9GejBwLV9Bd1hOMWtmQmRZa2hpMlVieTJkN2dncU05WVVvT0VvRWpUTG9HNEJCZHVPYkNlQnFNWTlJTFVYbVpLdHhuV3hyYkNmd3YybU9IclY4R3ozM0lUblhWbWRVNXFPMWVUNVladXNNdw?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Copyright Laws Face Transformation as AI-Generated Characters Enter Legal Battle",
+      "summary": "Courts are being asked to rule on whether AI-generated characters can receive copyright protection, a question that could fundamentally reshape intellectual property law.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWlh2cDEyY0dGcnpjdy1hblZNVGtQU2xZNjM4MlNNQ3kzLXhuRXNIWnpvZ053RjM2VmV3UE9OQzhBYWt5UWlDRWtWb09tdzdVMGgxaDJHb1o2d3VMSGlFNk11ZUNWRE1sYUltSXpDai1fZ2JHNjI5UGY3TTQzQm03d0wyUmpxb2J6OWk0?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "How Generative AI Is Pushing India's Designs Act To Its Breaking Point",
+      "summary": "Generative AI is exposing critical gaps in India's Designs Act, raising questions about whether existing IP frameworks can adequately address AI-produced designs and creative outputs.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdVhub2tfUGVIWTR6cGY5VkVSXzVTOExoTmhIbl9iWEJseTVmUXJ5ajhQMDdRNGVqZmRxaUxQd2RMbGJEQTFnUDd2ek8tVHpVM1ljV3ZVWGpyZDc4WXpVR2RzNTQ3b3JVV3Jia1Y3RHNaUkJKMDVHTlBRbnRqak8yNVF2RVBvSkpjT3VUX0lXNnZVLW5WU2FTTjlia25xZ9IBowFBVV95cUxORllhYnYtclpGNFN5a0RNdDhkcVdFTGt4dGRiaXBRNzJDSy01c1o3cTZuWVB4VnBRQ2pkU3RTdEpkcktlV3o5WmdhZlRBUUVpcHVCaW13Nl9xazVzX2lHT19WUnhYVkVvZzJacS1MWElSQXVYa1V1X1Flemk5VnNuZFRUOVhZcVQ3V19zd3dVSV9HTkdoQUdQZGRocnRWb01KM1Fj?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Proposal to improve laws and transparency in the copyright market",
+      "summary": "A new proposal has been put forward calling for legislative reforms and greater transparency in copyright markets, including how rights are managed and licensed in the context of AI.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT2ZwSU9ZQTdWVFNOZjNOc1VpeVI2cHFwTENKZ3BqM2dqaDJ0NUxCWXpmY3E4TkVUdDVEV3dORGpwSm1pMGtyVFlyQ2lnLXRiZnVLYzRCczJzNWstWnBHdDhEYzF1YkNwZ1FtYUxOcTVPZ0JfYzltQ3RuSXJ1WUM5VXg5T0h4UGxZOEt2Vi00RHlsTXN2XzRFSldtbFVralFOMG1yblI0YklZUUJDNVhHZEtn?oc=5",
+      "topics": ["licensing", "policy", "AI copyright"]
+    },
+    {
+      "title": "AI is flooding creative markets, but is it pushing humans out?",
+      "summary": "A broad analysis examines whether the proliferation of AI-generated content is displacing human creators from creative markets and what this means for copyright and licensing frameworks.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ3ZtajVmZkc4bzczQ0FSUC13aHBtQjE2RUcyMGpEd24zdVMzdmx6VENFSVc2N0tPUUtFQTJqMkNUWUo5R1h4N2dtcjhBbHdnTWNSZEw5bVU5V3ZKM21PQkZYT1l3ckN2TWVrRi12SDRmYzJJTEk3d0RMYW9uM1AtRHNRMkVtb1FQNVpzTm5XcThYSExPVkE?oc=5",
+      "topics": ["AI copyright", "licensing"]
+    },
+    {
+      "title": "This weird legal case could change how we think of copyright forever",
+      "summary": "An unusual copyright case is attracting attention for its potential to set landmark precedent on fundamental questions about authorship, originality, and the boundaries of copyright protection.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRmlZX21NVnQ4Y2RjaFh5UHJmRHEwcjhtR3hGNkpUTTVQeEp0cVdhVHV5ODRJT2xjTVNBRnlPNFlTckdvbDc0d3k1OHdJYWNFaERiOXNZeG5tUU1Vbm1yRGpRZ0VGSHNLdGM4TzB6ZHVPZWlRRVk1XzN0dU5DTk9rbHdFRkp5d2d3MnBUTkFXZ2F0NUdXRGNkZTNPXy1NS09leG8tYQ?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Albanese must protect copyright status quo for all",
+      "summary": "An opinion piece argues that the Australian government must resist pressure to weaken existing copyright protections in its approach to AI policy, warning of broad harm to creators.",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQm9pc0N6ejVFSW01UWVSU0Z0U3hyUmlnWk05UU9lb21DVEpobF9UN01CcmRFcHROajFBRXlseVpmRnUtWU1Ob3Etc2tSU1VPZmtpNmluczlHZ09oOElRaEZOQ0pQUzQ4N3ZKaUZlN2xGUWxXTHZzNVdvZnJBbEpQQ0VpN0ZsdlVYR0tJNjZoSHZESnd3VFF3bTd3WTlPbVRCZ0dJTWVjUnBNcl9LTFVKUW5ScWNSbFYtVEVibldneGZlNnhuelQyS0ZodEdxeU40dXBPRkVsVXdYcjlhQ2l2SEZDUEpKaVJC?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "HarperCollins, Netflix Announce Narnia Publishing Program Tied to Greta Gerwig Film [Metered]",
+      "summary": "HarperCollins and Netflix have announced a joint publishing programme linked to the upcoming Greta Gerwig-directed Narnia film adaptation, marking a significant book-to-screen licensing deal.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/101563-harpercollins-netflix-announce-narnia-publishing-program-tied-to-greta-gerwig-film.html",
+      "topics": ["book publishing", "licensing"]
+    }
+  ]
+}
