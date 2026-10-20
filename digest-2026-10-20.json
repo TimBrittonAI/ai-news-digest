@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Harry Potter Publisher Wins $21 Million From Anthropic, Shares Proceeds With Authors",
+      "summary": "The publisher of the Harry Potter series has won a $21 million settlement from Anthropic in a copyright dispute, with proceeds being shared with authors. The case is a significant development in ongoing legal battles between AI companies and content creators over the use of copyrighted material in training data.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQelg0X1JwMGVXaC15VjIzbkhELXItVC1KSy1kNXZrNGgtMXB5aGNQWmwwc2RkUjV6Q1EzUXlRc3dSaTZrS0NVZThkQUtCWTVDVGNlU3I3VUFna1NrT2hBMDkycU5KR1dWY1RzM3Q5V2dvSGRDZXp4OUswV0lrS2NRRThCMUNhcXl2dk11RkNvajJNMGs3OXlTV3VPTElCcHpzNmZodG5NZE54YWFt",
+      "topics": ["copyright", "Anthropic", "AI ethics"]
+    },
+    {
+      "title": ""We were looking at it wrong": The explosive claim that's upended the AI world [Metered]",
+      "summary": "MIT Technology Review covers a claim that is described as having fundamentally changed how researchers understand AI systems. The piece examines the implications of this new perspective for the broader field of artificial intelligence and large language models.",
+      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "topics": ["large language models", "generative AI", "AI research"]
+    },
+    {
+      "title": "Making the internet better for AI agents might make it worse for everyone else [Metered]",
+      "summary": "MIT Technology Review examines the tension between optimising the internet for AI agents and maintaining a usable web for human users. As AI agents become more prevalent, infrastructure and design changes that serve them may come at a cost to ordinary users.",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "topics": ["AI agents", "AI ethics", "technology ethics"]
+    },
+    {
+      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody [Metered]",
+      "summary": "A Wired report details that an OpenAI engineer accused of surveilling company executives has been ordered to remain in custody. The case raises questions about internal security and trust at one of the world's most prominent AI companies.",
+      "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+      "topics": ["OpenAI", "AI industry", "leadership"]
+    },
+    {
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to "play." [Metered]",
+      "summary": "Researchers isolated Anthropic's Claude model in a simulated environment and observed it exhibiting spontaneous play-like behaviour, a finding with potential implications for AI safety and our understanding of emergent AI behaviour. The experiment is reported by MIT Technology Review.",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "topics": ["Anthropic", "AI safety", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "CoreWeave's debt is becoming the whole AI industry's problem",
+      "summary": "The Verge reports that CoreWeave's significant debt load is beginning to create broader risks across the AI infrastructure sector.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "topics": ["AI infrastructure", "AI industry", "AI compute"]
+    },
+    {
+      "title": "CERN and Mistral join forces to accelerate AI for science",
+      "summary": "CERN has announced a partnership with Mistral AI to apply large language models and generative AI tools to scientific research and data analysis.",
+      "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/",
+      "topics": ["generative AI", "large language models", "AI research"]
+    },
+    {
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "summary": "The Verge reports that a security researcher used AI agents to autonomously breach systems at major corporations including John Deere and SharkNinja, highlighting new risks posed by agentic AI in cybersecurity.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "topics": ["AI agents", "AI safety", "generative AI"]
+    },
+    {
+      "title": "Securing the agentic insider",
+      "summary": "Microsoft's official blog outlines new approaches to securing AI agent systems against insider threats as agentic AI becomes more widely deployed in enterprise environments.",
+      "url": "https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/",
+      "topics": ["AI agents", "AI safety", "Microsoft"]
+    },
+    {
+      "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card [Metered]",
+      "summary": "Wired reports that Disney proposed Character.AI pursue bankruptcy as a mechanism to shed liability from ongoing lawsuits related to the chatbot platform's content and its impact on young users.",
+      "url": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+      "topics": ["AI ethics", "legal", "chatbots"]
+    },
+    {
+      "title": "WhatsApp Help Pages Leaked Hidden Instructions for a Meta Chatbot [Metered]",
+      "summary": "Wired reports that hidden system prompt instructions for a Meta AI chatbot embedded in WhatsApp were exposed via leaked help pages, offering a rare glimpse into how Meta instructs its AI assistants.",
+      "url": "https://www.wired.com/story/whatsapp-help-pages-leaked-hidden-instructions-for-a-meta-chatbot/",
+      "topics": ["chatbots", "content policy", "user privacy"]
+    },
+    {
+      "title": "OpenAI: Advancing coding in low-resource programming languages",
+      "summary": "OpenAI has published research on improving its models' coding capabilities in programming languages that are underrepresented in training data, aiming to broaden the utility of AI coding tools across diverse developer communities.",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "topics": ["OpenAI", "AI coding tools", "large language models"]
+    },
+    {
+      "title": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+      "summary": "Meta's engineering blog details a new architecture for AI agent systems that improves reliability by simplifying the role of the orchestration layer in routing tasks between agents.",
+      "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
+      "topics": ["AI agents", "generative AI", "large language models"]
+    },
+    {
+      "title": "The fossil fuel comeback is here",
+      "summary": "The Verge reports on how surging demand from AI data centres is driving a revival of fossil fuel power infrastructure, with significant implications for energy policy and climate goals.",
+      "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    },
+    {
+      "title": "Democrats think cracking down on AI could give them an edge",
+      "summary": "The Verge reports that Democratic politicians are weighing AI regulation as a campaign issue, believing that taking a tougher stance on AI could resonate with voters ahead of the midterm elections.",
+      "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+      "topics": ["AI regulation", "AI governance", "AI ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
