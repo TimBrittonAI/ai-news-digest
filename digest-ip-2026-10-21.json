@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Ontario News Publishers Sue AI Firm Anthropic Over Copyright",
+      "summary": "A group of Ontario news publishers has filed a copyright lawsuit against Anthropic, alleging the AI firm used their published content without authorisation to train its AI systems. The case adds to a growing body of litigation by media organisations against AI developers over training data practices.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kU3ZJTnNxZl9Ecnd2bmJiVWZtUVlCNnFBVk5EQkNaZS1rSS1HT1ZCUVIyakp2Z0NBOV8tUFRSWG1mN0FEVndEUENEclVaUlY5MTZKclI0WDJCaF9lUkxNUkhpUUVSeUFsWGVieA?oc=5",
+      "topics": ["AI copyright", "litigation", "news publishing"]
+    },
+    {
+      "title": "Thomson Reuters v. ROSS: Third Circuit Recognizes a Licensing Market for AI Training Data (via Passle)",
+      "summary": "The Third Circuit's ruling in Thomson Reuters v. ROSS has significant implications for AI copyright law, with the court recognising the existence of a licensing market for AI training data. The decision strengthens the hand of rights holders seeking to require AI developers to license content used for training.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHI0WW14MWFxdkZlOUl3TWRycTBXLXZkSEFyaTF3UE5sOEtjVUFjM3NMUmdqbnBLTC1kRHRpZmFhOFNNbnExY3JFM3dHM2w3SUs0QnJJMTkxWjQza2lzSWRMR1pjZENiMjRrbGttSHRrSm1TZzVtT2NHMGoxbGh4V3ZVX0ZIdkNoUzRMbW5BY2Q3Yi1wZlV6Y3FxLXJ5S3JpWHQ4VjZzeTIyNzRJaGJFLTFOalpSOHp4dWJENTdMWnc?oc=5",
+      "topics": ["AI copyright", "licensing", "litigation"]
+    },
+    {
+      "title": "Global media coalition warns about weakening copyright",
+      "summary": "A global coalition of media organisations has issued a warning against moves to weaken copyright protections in the context of AI training. The coalition urges policymakers to resist pressure from AI companies seeking broad exemptions that would allow use of copyright-protected content without licensing.",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVHRRNmNhbF9QMzBJdzM2el9nRVQyeXRzMW4tNlQwZzEzTHRYd1o1RHFTNVdNY0k5MTV5bkxQWF9IbFAybWZ0Z2ZMN1B2b3I1UEFYNlFNbjJyeHJ6OEZ4bU13amNUQnpXNVRBOWJfTUdOQm01bU44VmpNbjVFM2dPNHNmbS12U0NBVUttczFJQmZheGpEMVNPMGFCcmktV1g2SjQ4cmdleUhwSXdheDZGY2JwZHBsM1ZodmtBeFoxeGdyMExpTDRrTTUxU1BzNWFVLU9CUDMtVDZVcTZiV19jOEFTU1dVR1JsbS14d3B4QXpCT0tm?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Meta removed \"train\" from its business terms after publisher backlash over scraping",
+      "summary": "Meta quietly removed the word \"train\" from its business terms following a backlash from publishers concerned about their content being scraped for AI training purposes. The change highlights ongoing tensions between platform operators and content rights holders over data use transparency.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xSkotN0lHTHdrVVFSd1ZIcVhCSDM3Vk4wZllaNURDeEw5MmpRZlZlZkNDYUx6aHlOd1NDRW00LXNpZlluRXpKV1JwdGVTUnIzYmlsenZyU3NNT3h6RERPVGpaUTFjY05QRFpxdm1WU01XVS1RNFo1TQ?oc=5",
+      "topics": ["AI copyright", "book publishing", "licensing"]
+    },
+    {
+      "title": "ICMP says AI firms are trying to 'strong-arm' Australia on copyright – and that Kylie Minogue's songs have already been used to train AI (report)",
+      "summary": "The International Council of Music Producers (ICMP) has accused AI companies of attempting to pressure Australian policymakers into weakening copyright protections for AI training. ICMP reports that Kylie Minogue's songs are among works already used without authorisation to train AI models.",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTjhJRlVVZGkzNlBRRThYNEVEQUx3b3liWEpiQkxPZ2ZNS2ZqN1pRbWNJYVNhcWdHQmE5dWRxZjRaWk4xZG44bmRMVS1NNGlXajRTMXBvbXkzb2s2NFBZWUFxVTZzYTZQV1Q4MGlvN0ZtQk4zYnY3Nm1ZRnIyS1c4WnRrSFUxeUpoVjlJU3UyeE5oVWtBV0lrbzI3WEppRk9HT2pVZHYwYWxCLWgyclFmajF6NlhDdlA1enRXNFEtcFNaQlVMUEdnUUdjX0RzampjR3NJbGR5OXcxcjl1N21ZbENnZjV1Y25CSzJJM2ZheGJsN1NvbnNab3VBMWRaTTk1NmlOblRIc0UwUQ?oc=5",
+      "topics": ["AI copyright", "policy", "music"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Learning in the age of AI and the plundering of published works",
+      "summary": "An opinion piece examining how AI development is drawing on published works without adequate compensation or consent from rights holders, raising broader questions about the sustainability of creative industries.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOTR2c1pwcktHbWZOX3M2X0FiSjE0VF92SVV3WDlNenlmVTZJYzBLX3BnX1dQV1BZSF82bjlwSUZlYTZ3M1h2UkJQTnMtWVhReHlZbm9NcUtZdlZKQkpJWE9lX19XaXZ4bHJSMUtkSy1POThzdWM3a0hNenFvWmtKS2xnc1FKNGpyb1VKZkFQRTU1MWtVUWdIX3k2MDEybmZ5LUVHWnNpUFQtTEJWZVA3bmdTZHhMZw?oc=5",
+      "topics": ["AI copyright", "book publishing"]
+    },
+    {
+      "title": "From Content to Trusted Knowledge: Reflections on Frankfurt Book Fair 2026",
+      "summary": "The Scholarly Kitchen reflects on Frankfurt Book Fair 2026, exploring how publishers are navigating the shift from content provision to trusted knowledge in an era of AI-generated information.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/20/from-content-to-trusted-knowledge-reflections-on-frankfurt-book-fair-2026/",
+      "topics": ["academic publishing", "AI tools", "book publishing"]
+    },
+    {
+      "title": "Your Moat Just Got Vibe-Coded: IP Protection In The Age Of AI Clones",
+      "summary": "An analysis of how AI cloning tools are eroding traditional intellectual property moats and what strategies rights holders may need to adopt to protect distinctive works and brands.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWWc0ancwZHhRUVBsbXR0MjJucU9OMkl2QUF6dF9fUWFIVHNtZW5ZdTZydUFXOTRQUEd1SXdKRTlaU0lUQTRIWktrT25KZ2RleDh0aHZCZExkMmM5bzd0NlB5UEY3ZkxGdkM1LVcwZ05BSmhoQUxlMTV1VVZYMmFGNw?oc=5",
+      "topics": ["AI copyright", "software", "policy"]
+    },
+    {
+      "title": "Would Claude AI break copyright law to save a human life?",
+      "summary": "An exploration of the ethical and legal tensions around AI systems and copyright compliance, examining whether AI models like Claude are designed to override copyright restrictions under extreme circumstances.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVXNtdHFhTzNWS2FmVVh0NDFYR2d3MzBNX3F0YlQ1TjRuejBXMHdkU0RWRXlUWFlUVVVLUzVwa04tR1JrQ3FfNlVGTmJmN3R5SUdMOTV2TUFSaDRwSC1SQUVEaU1iTTJqWGVTd0RVLTJEbHpYdVBBQzJncnVKOUJyWG8tVjdyWGVYQ293WFdrUTh0d0xqOHNMbGtPa1ZZaG1LS1hsbzUwUERSaDBRUC16VWg4R0lNRlgtekxodk1qTEpNbmRHTkEwZHA0Ty1FeWJaWGc?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "US uses sanctions law to punish theft of Google AI secrets",
+      "summary": "The US government has deployed sanctions law against individuals accused of stealing proprietary AI secrets from Google, signalling a toughening stance on AI-related trade secret theft.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMzNwNEJzRjFtMXlVckVxdFhUNHpJOHMtSU5EdHhKOU5RTU04ZGk4cGNsOFhaZEctWlpKTmVJaWxaZkttTWxtcXduWTBmcFBtZ3Radk5rTUpycHpSV21kM0V6XzE3cXdHLVlvWmJ5c19pVmR4WjVmTHJNREVSckxfS1pwR3JZR1lk?oc=5",
+      "topics": ["AI copyright", "litigation", "software"]
+    },
+    {
+      "title": "California SB 1050: AI Synthetic Performer Disclosure Requirements for Advertisers January 2027",
+      "summary": "California's SB 1050 will require advertisers to disclose the use of AI-generated synthetic performers from January 2027, creating new compliance obligations at the intersection of AI, IP, and performer rights.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdWZMaVRiTFhWdnRJTExSNmFxT250WllfTFRPVUNyOVNJenpPYkR3MmRxVkdnVl92cThqbS1oQWFRaGlQU1EtNi13Uy1aeFY4YmZoU3E3OXAyY2c4Ni16Y1c3c0ZDR1c3dm1EdTB0OVpQZ1drRU9OYmo0X1Y0YUVIZ2ZKb1YxSi1GSnlQSF9NdmM2U3MtUWNZbWhXbmVvS0NtOWRsSE11alpFUHo4UGdYcm44bloxRGk2ZWVyQWNYYW0yN0tIYWRMaHBwc1JPdXpEVGJJNTFSSDdnb2VhZTRF?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "All the latest in AI 'music'",
+      "summary": "A roundup of recent developments in AI-generated music, covering emerging copyright questions, industry responses, and the evolving legal landscape around AI and musical works.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaXl2XzVuUmRDck92VFVjRTNRSkthcnZiakEzMnY0T01qMHpmMGduS2ZaUHJiOVFETy12SHBGelNCZlpRN2twVFJRaDM1ZzROWGJkcHhUNUFJUWU1Z1Y4bFBQRzIyeU1EVjdieDhNWXNPdUZaR0Y4VlVZTHJqcFdfU0NXVF9kUWF4NzBIMjNpbHRXQUE?oc=5",
+      "topics": ["AI copyright", "music", "licensing"]
+    },
+    {
+      "title": "Guest Post — Whose Knowledge, Whose Terms? Governing Open Research in MENA, One Year On",
+      "summary": "The Scholarly Kitchen examines ongoing tensions around open research governance in the MENA region, including questions of who controls access to and terms of use for scholarly knowledge.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/19/guest-post-whose-knowledge-whose-terms-governing-open-research-in-mena-one-year-on/",
+      "topics": ["academic publishing", "licensing", "policy"]
+    },
+    {
+      "title": "Monday Briefing: Early advice from AI joint select committee",
+      "summary": "A briefing covering early recommendations from an AI joint select committee, with implications for how legislators may approach AI regulation including intellectual property and copyright issues.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaW9lY21sMGRsQVYwUENSUDhiQ25TRFlpWUhHVEZHVkxoWUFQMmYzNDlhWmUwX2l0REFrQ0ZHa0lJeHZzRF9tVDQtSzVwVGFwMXNITkV2RG9IVkVsUjVXTUI5eFhpUzZqZUdTam9qMFJUTTBKMjRjQXoteHNOa1VTQ1VrMVlvaGxPM1QyaUNFRHRUNnZuUkk0UFpsQVZXQzhPVmhn?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "OpenEvidence, Doximity settle thorny AI legal battle",
+      "summary": "Medical AI platform OpenEvidence and physician network Doximity have settled their AI-related legal dispute, the details of which touched on questions of data use and intellectual property in AI-powered medical services.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb29fQzVWVnJQWlc2TGV3cHR4LUNpdGptRHI3aGpCVGJxcXgzcXJVREpJb3VRSWJfcnV2Ri1yZF9Ya1ZXZHRKUlczV0FJOXI4RmRUVW1uRmh2TkkwUncxdW9YWThpZTlSRkJoN2Fwa2Z0V2hkUVhJM2F5WE9zYjFRb29KdVhGRzRYcGxRQmdQSVdHSlowZmkyeG05LXVPV2s?oc=5",
+      "topics": ["litigation", "AI copyright", "legal services"]
+    }
+  ]
+}
