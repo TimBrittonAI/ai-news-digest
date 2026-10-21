@@ -1,0 +1,101 @@
+{
+  "top_stories": [
+    {
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "summary": "OpenAI's official blog details how Terminal X, a financial AI application, matches the judgment of senior investors 88.6% of the time using GPT-6.1. The case study highlights the growing deployment of advanced LLMs in high-stakes professional decision-making contexts. This represents a significant benchmark for AI performance in finance.",
+      "url": "https://openai.com/index/terminal-x",
+      "topics": ["large language models", "OpenAI", "AI industry"]
+    },
+    {
+      "title": "An AI Agent Joined a Listserv of Top Internet Researchers. The Reply-All Chaos Is Still Unfolding",
+      "summary": "An AI agent was introduced into a high-profile email listserv of leading internet researchers, triggering an uncontrolled reply-all cascade that has yet to be fully resolved. The incident raises pointed questions about AI agent governance, consent, and the risks of deploying autonomous agents in professional communities. Wired reports the episode has sparked significant debate among the research community.",
+      "url": "https://www.wired.com/story/an-ai-agent-joined-a-listserv-of-top-internet-researchers-the-reply-all-chaos-is-still-unfolding/",
+      "topics": ["AI ethics", "AI governance", "generative AI"]
+    },
+    {
+      "title": "OpenAI acquires Orchestra Bio",
+      "summary": "OpenAI has announced the acquisition of Orchestra Bio, marking a move into the life sciences space. The announcement comes directly from OpenAI's official blog, though details on the deal terms and strategic rationale remain limited in the initial release. The acquisition signals OpenAI's expanding ambitions beyond core language model products.",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "topics": ["OpenAI", "AI industry", "generative AI"]
+    },
+    {
+      "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+      "summary": "A Wired report details that an OpenAI engineer accused of surveilling company executives has been ordered to remain in custody following a court hearing. The case touches on internal security, trust, and governance at one of the world's most prominent AI companies. The incident adds to scrutiny of OpenAI's internal culture and operations.",
+      "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
+      "topics": ["OpenAI", "AI industry", "leadership"]
+    },
+    {
+      "title": "Astrolab's upcoming rover will run the first LLMs on the moon",
+      "summary": "MIT Technology Review reports that Astrolab's lunar rover, set for an upcoming moon mission, will be the first vehicle to run large language models in a lunar environment. The deployment is intended to aid autonomous decision-making and communication on the surface. The milestone represents a novel frontier for LLM applications beyond Earth.",
+      "url": "https://www.technologyreview.com/2026/10/20/1147360/astrolab-upcoming-rover-llms-on-the-moon/",
+      "topics": ["large language models", "AI infrastructure", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "CoreWeave's debt is becoming the whole AI industry's problem",
+      "summary": "The Verge examines how CoreWeave's significant debt load is creating broader financial risk and uncertainty across the AI infrastructure sector.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "topics": ["AI infrastructure", "AI industry", "AI compute"]
+    },
+    {
+      "title": "The new economics of enterprise AI",
+      "summary": "MIT Technology Review analyses how the cost and value calculations of deploying AI in enterprise settings are shifting as models mature and competition intensifies.",
+      "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
+      "topics": ["AI industry", "generative AI", "business"]
+    },
+    {
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "summary": "OpenAI's official blog profiles a restaurant franchisee who reduced cash reconciliation time by 94% using ChatGPT Work, illustrating real-world business productivity gains from AI tools.",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "topics": ["ChatGPT", "AI industry", "business"]
+    },
+    {
+      "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+      "summary": "Spotify has removed 50 million AI-generated and spam tracks from its recommendation systems in an effort to protect music quality and artist visibility.",
+      "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+      "topics": ["generative AI", "content policy", "AI ethics"]
+    },
+    {
+      "title": "Google's more personalized Gemini AI is heading to your car",
+      "summary": "Google is rolling out a more personalised version of its Gemini AI assistant to vehicles via Android Auto, expanding its AI personal assistant footprint into automotive contexts.",
+      "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "topics": ["AI personal assistant", "Google", "generative AI"]
+    },
+    {
+      "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+      "summary": "Meta has paused its Muse AI chat-sharing feature after security researchers discovered that shared conversations were publicly accessible on the web, exposing personal and business information.",
+      "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+      "topics": ["user privacy", "AI ethics", "generative AI"]
+    },
+    {
+      "title": "Zoom wants AI agents to do the work that follows the meeting",
+      "summary": "Zoom is developing AI agents designed to handle post-meeting tasks such as follow-ups, action items, and scheduling, aiming to automate workflow steps that currently fall to human participants.",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNVp6UGFxbm5JOG5hb1dhLTlWeWN4S3RfYkJ3dTdSYjVQYmsybmZST2JhanktOXVubU95ZTR0Y0lZQ3ZMeTE3cEQ1TjBraWdTc1Y1MGpUZ2sxN1FPT2RGbTZ2YnJjRWg3amVqTkVmOUdsZkdUSjUzLWtoU2VyZkJseWVkOHVsbk1ROC05WlpMdXlpNkljZTZVSTlLa0NoSzJQWTFWVkE0T0xHQ1lzM2pVRHF4Mkc1dXRFWjJ4cUwtcURtalhUZzQzcdIBzgFBVV95cUxOQVYzd25tRjRnSXRSeVp2UjNuV0I5dFNwam1wSjVSU25FMEc5Z3RlSUE1bGFSdEJTTTRDT3BYaXZENngwb3NxdEtmTzZrQUZDQ19KS1YyeUlQZll3M2tPVkhLUk9uSGh1bS0zM3hzZ1F3ZVp3djk0eGdyeVpnWGtMTTlsaUV0TEZaLWFYNVFueXJPd0tpX1JPcncxdVJVcjVZMk1UVTZoLUtSbGQ1N2tmVzdxNmlQM1pfQm8wbDF6RXNFZVI5bG5FbVE0TUUtUQ?oc=5",
+      "topics": ["AI personal assistant", "generative AI", "business"]
+    },
+    {
+      "title": "The fossil fuel comeback is here",
+      "summary": "The Verge reports on how surging energy demands from AI data centres are driving a resurgence in fossil fuel power infrastructure investment.",
+      "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "topics": ["AI compute", "AI infrastructure", "AI industry"]
+    },
+    {
+      "title": "Advancing digital sovereignty with greater control and choice",
+      "summary": "Microsoft's official blog outlines new measures to give governments and enterprises greater control over their data and AI deployments, framed around digital sovereignty concerns.",
+      "url": "https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/",
+      "topics": ["AI governance", "Microsoft", "AI regulation"]
+    },
+    {
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "summary": "MIT Technology Review examines how AI adoption rates vary across industries and draws lessons from leading sectors for those still in early stages of deployment.",
+      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+      "topics": ["AI industry", "generative AI", "business"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "30 Months on the Exponential (in Charts)",
+    "summary": "Ethan Mollick reviews 30 months of AI progress through a series of charts, documenting the rapid and sustained pace of improvement across AI capabilities. The post reflects on what the exponential trajectory of AI development looks like in practice, and what it may imply for the near future. It offers a data-driven perspective on how dramatically the landscape has shifted since early generative AI became widely available.",
+    "url": "https://www.oneusefulthing.org/p/30-months-on-the-exponential-in-charts"
+  }
+}
