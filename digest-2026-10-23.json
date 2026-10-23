@@ -1,0 +1,91 @@
+{
+  "top_stories": [
+    {
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "summary": "A new arXiv paper examines how AI is reshaping access to and control over scientific knowledge, raising concerns about the privatisation of research infrastructure and the 'enclosure' of what has traditionally been an open academic commons. The study has implications for research integrity, open science, and the long-term governance of AI in academia. Given reader interest in academic publishing and AI ethics, this is a high-priority story.",
+      "url": "https://arxiv.org/abs/2610.27251",
+      "topics": ["academic publishing", "AI ethics", "research integrity"]
+    },
+    {
+      "title": "Build more responsive apps with the Decisions API",
+      "summary": "OpenAI has announced the Decisions API, a new product designed to help developers build more responsive and adaptive applications by enabling real-time decision-making capabilities within AI-powered apps. The API expands OpenAI's developer platform and signals a push toward more dynamic, context-sensitive AI integrations beyond static prompt-response patterns.",
+      "url": "https://openai.com/index/decisions-api",
+      "topics": ["OpenAI", "large language models", "AI industry"]
+    },
+    {
+      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+      "summary": "OpenAI, Anthropic, and Nvidia all recorded their highest-ever lobbying expenditures in a recent quarter, according to federal disclosure records reported by The Verge. The surge reflects the growing political stakes around AI regulation and policy in Washington, with major AI companies investing heavily in shaping the legislative landscape.",
+      "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+      "topics": ["AI regulation", "AI governance", "OpenAI"]
+    },
+    {
+      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+      "summary": "Microsoft has announced a diagnostic AI orchestrator tool that CEO Mustafa Suleyman claims outperforms doctors in diagnosing certain medical conditions. The system coordinates multiple AI agents to reason through complex clinical scenarios, representing a significant claim in the emerging field of AI-assisted medicine.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+      "topics": ["AI safety", "generative AI", "Microsoft"]
+    },
+    {
+      "title": "Claude did not invent scorpion antivenom",
+      "summary": "Anthropic's Claude AI was at the centre of a viral claim that it had helped design a novel scorpion antivenom, but The Verge and Anthropic have both pushed back on the story, clarifying that the AI's role was misrepresented. The episode highlights ongoing issues around AI hype, accuracy of capability claims, and how AI contributions to science are reported.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+      "topics": ["Anthropic", "AI ethics", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Most Americans Say AI Is Bad for Society, Oppose More Data Centers",
+      "summary": "A new ABC News/Ipsos poll finds that a majority of Americans view AI as harmful to society and oppose the construction of additional data centres, reflecting broad public scepticism about the technology's trajectory.",
+      "url": "https://abcnews.com/Politics/americans-ai-bad-society-oppose-data-centers-abcpostipsos/story?id=137414085",
+      "topics": ["AI ethics", "AI governance", "generative AI"]
+    },
+    {
+      "title": "Canva's first AI image model plans designs before generating them",
+      "summary": "Canva has unveiled Craft, its first in-house AI image model, which takes a planning-first approach to design generation before producing final output, distinguishing it from conventional text-to-image systems.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "topics": ["generative AI", "AI industry", "large language models"]
+    },
+    {
+      "title": "Meta's AI could still scrape news sites, legal experts say",
+      "summary": "Despite Meta's updated terms of service, legal experts warn that the company's AI systems may still be permitted to scrape news publisher content, leaving significant copyright and fair use questions unresolved.",
+      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "topics": ["copyright", "AI ethics", "generative AI"]
+    },
+    {
+      "title": "Bill Gates says to prepare for 20 years of 'tumultuous' AI disruption",
+      "summary": "In a podcast interview, Bill Gates warns that AI will drive two decades of major societal and economic disruption, while also discussing AI safety risks, policy needs, and the roles of companies like OpenAI and Anthropic.",
+      "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+      "topics": ["AI safety", "AI industry", "AI regulation"]
+    },
+    {
+      "title": "1Password lets AI agents use your passwords without seeing them",
+      "summary": "1Password has launched a feature allowing AI agents to authenticate on behalf of users without ever directly accessing or exposing stored credentials, addressing a key security concern in agentic AI workflows.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
+      "topics": ["AI personal assistant", "user privacy", "AI safety"]
+    },
+    {
+      "title": "In Meta's version of the future, I'll have my Muse call your Muse",
+      "summary": "Meta's earnings presentation outlined a vision of AI personal assistants—called Muses—acting on behalf of users in social and commercial contexts, signalling the company's long-term bet on agentic AI social networking.",
+      "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+      "topics": ["AI personal assistant", "large language models", "AI industry"]
+    },
+    {
+      "title": "AI Adoption Makes It Harder for Managers to Evaluate Staff, Monday.com Survey Finds",
+      "summary": "A survey by Monday.com finds that widespread AI adoption is complicating performance management, with managers struggling to assess individual employee contributions when AI tools handle a growing share of work.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRGd6alFodGkxRE9oM0V2MXBxUkJfVmZZR3NISjRDejZjMDh3bS1rMm51SElKSThlQUk2Ym80VjY3LTJ4Z3NGSHZDY0Z2dWNJTm1JNHNQWVVKVmk5RHBTb1FXc1FfB2VsR3JzNVN4RkQyb3R4V0Npemo5Z21HSndZX1RoOGxrSThpVXN6czVEX0JpU1RBa3FDLUZqQWV6UUhLa2M5ZUo4N0lmZ1otNW9WWHVKWHEySFZZWUdZc0xJSnpaR09JYXlnVEZmMlRTN0hhR2l6U3pxMTZXYWh2QnhHQXJzSlpTVzV5ak83MTFQZGRG?oc=5",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "Google Launches New Gemini AI Tools For Small Businesses With Brand Customization, Financial Insights, And Connected Apps",
+      "summary": "Google has rolled out a new suite of Gemini-powered tools aimed at small businesses, including brand customisation features, financial insight dashboards, and integrations with third-party apps.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZWpud28xbDV6MnhPVXlJMThWZURHSHZBVURGV1dEV0J2NFBlckVET2VRVjlJRHRrQk81SUR5dmlFYXpodVRGRm5rUnA5bEJqVlh3bEN1SDl6Z0JtNFY2SkZnNlNKX3A2ZnlJQUlTdWVDOVV3ZUQwRG8xVHFaWkl1YUM4R1UxdVlWU2Y1aGQyWUVpV0pMTnVrNFc0RTdpRXRrQ2x2REd6MEw0cUpHVjRNZGo4WDRLajRPRllkQkxMWEQ5endENV94b0RDMHBxVml2al9nTVJR?oc=5",
+      "topics": ["large language models", "AI industry", "business"]
+    },
+    {
+      "title": "AI agents are ready to shop. Some retailers are wary",
+      "summary": "A report from The Verge finds that while AI shopping agents are increasingly capable of completing purchases autonomously, major retailers including Amazon and Target are actively blocking or restricting their access over concerns about fraud and loss of control over the customer experience.",
+      "url": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
+      "topics": ["AI personal assistant", "generative AI", "AI industry"]
+    }
+  ],
+  "ethan_mollick": null
+}
