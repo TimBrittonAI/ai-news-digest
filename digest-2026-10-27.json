@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Anthropic's IPO Filing Lays Out a Plan to 'Revolutionise Every Area of Human Endeavor' with AI",
+      "summary": "Anthropic has filed its S-1 prospectus with the SEC, setting out its ambitions and disclosing details about its business model, finances, and AI safety commitments. The filing notably omits several key financial figures while describing existential risks from the very technology the company is developing. Multiple outlets have noted the document doubles as an unusual AI doomsday primer.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+      "topics": ["Anthropic", "AI industry", "AI safety"]
+    },
+    {
+      "title": "OpenAI Announces Three Big Science Discoveries and a New Way to Work with Academics",
+      "summary": "OpenAI has announced three significant scientific discoveries made in collaboration with academic partners, alongside a new framework for working with research communities to advance scientific understanding. The initiative signals a push by OpenAI to embed its AI tools more deeply into academic and scientific workflows.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "topics": ["OpenAI", "academic publishing", "generative AI"]
+    },
+    {
+      "title": "Cohere Flags Concerning Behaviour from a Popular Open-Weight AI Model",
+      "summary": "Cohere has published a blog post documenting concerning and potentially unsafe behaviour observed in a widely used open-weight AI model. The post raises questions about the reliability and safety of open-weight models being deployed in production environments.",
+      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "topics": ["AI safety", "large language models", "AI ethics"]
+    },
+    {
+      "title": "Anthropic Is Burning Gas to Feed the AI Boom",
+      "summary": "Anthropic's IPO filing reveals the company is relying on natural gas-powered data centres to meet its rapidly growing AI compute demands, raising climate concerns. The disclosures highlight the tension between AI industry expansion and energy sustainability commitments.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "topics": ["Anthropic", "AI infrastructure", "AI compute"]
+    },
+    {
+      "title": "Google DeepMind and Springer Nature to Create AI Peer Review Tool",
+      "summary": "Google DeepMind has partnered with academic publisher Springer Nature to develop an AI-powered peer review tool aimed at improving and accelerating the scientific publishing process. The collaboration reflects growing interest in applying large language models to research integrity and editorial workflows.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVVJEd293OHJCNjhnUE5jLWp1QWRwME9iclRSTlhVcTBsdEpTX3JwOGFyTlhtR1lRQmVlQnY2dWFVUHNLdE9HRTBiUTRDSUlvZ1AwVFMtdUV2MERGWUZ1cVR4SEUzNkZDREloeEVvXzF3TnJ2MTI5b0FLZTEyWmtVUGpLeXVZRkxsWGNkbVdZaDFZa1o2dmYtWjdCLXVfRXFsV2otOHI2SQ?oc=5",
+      "topics": ["academic publishing", "generative AI", "AI ethics"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Will the Real Anthropic Please Stand Up [Metered]",
+      "summary": "MIT Technology Review examines the contradictions at the heart of Anthropic — a company that publicly warns about AI existential risk while aggressively commercialising its frontier models.",
+      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+      "topics": ["Anthropic", "AI safety", "AI ethics"]
+    },
+    {
+      "title": "Why Anthropic's IPO Prospectus Is Missing So Many Key Figures [Metered]",
+      "summary": "Wired analyses the significant financial omissions in Anthropic's S-1 filing and what they reveal — and conceal — about the company's business.",
+      "url": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+      "topics": ["Anthropic", "AI industry", "AI governance"]
+    },
+    {
+      "title": "Microsoft Offers Buyouts to 60,000 Employees",
+      "summary": "Microsoft has launched a voluntary exit programme open to approximately 60,000 employees, in a significant workforce restructuring move.",
+      "url": "https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/",
+      "topics": ["Microsoft", "layoffs", "business"]
+    },
+    {
+      "title": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job",
+      "summary": "Privacy-focused tech company Proton is requiring employees to undergo fresh interviews assessing their AI capabilities, with job retention reportedly dependent on the outcome.",
+      "url": "https://www.404media.co/proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job/",
+      "topics": ["AI industry", "layoffs", "technology ethics"]
+    },
+    {
+      "title": "Can AI Help Solve the COBOL Code Crisis?",
+      "summary": "The Verge explores whether AI coding tools from OpenAI and Anthropic can help organisations migrate away from legacy COBOL systems, a long-standing challenge for banks and government agencies.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+      "topics": ["AI coding tools", "large language models", "business"]
+    },
+    {
+      "title": "How AI Is Reshaping Scientific Publishing",
+      "summary": "A report examines the growing influence of generative AI on academic publishing workflows, from manuscript preparation to peer review and editorial decision-making.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUlU1TTY5dDVKdmVUWmxxQjZOMlcxUVNSQWNONk92RHhDTFd1UV9lTkE4T0tuQnpYLVo5UzJHUDBVRHRTd014UFo3Zi1kdEpob3dnWWFfaGV4a2lHdGptS1M1N1NDbVVpVTVXXzJ5U0VBU3FjNVhPMUJ3bGJYc2dwOXp2S1Q3Ymc?oc=5",
+      "topics": ["academic publishing", "generative AI", "AI tools"]
+    },
+    {
+      "title": "OpenAI: Working with Academic Communities to Build Scientific Understanding",
+      "summary": "OpenAI's official blog post details its new academic partnership programme, outlining how it plans to collaborate with universities and research institutions on frontier science problems.",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "topics": ["OpenAI", "academic publishing", "generative AI"]
+    },
+    {
+      "title": "Cross-Request KV Cache Exposure in the GLM-5.3 Workers AI Model",
+      "summary": "Cloudflare has published a technical post-mortem disclosing a data exposure bug in a Workers AI model where cached data from one user's request was incorrectly returned to another user.",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "topics": ["AI safety", "large language models", "user privacy"]
+    },
+    {
+      "title": "Brown Student Maps the Hidden Global Labour Powering AI",
+      "summary": "A Brown University researcher has produced new mapping of the global data labelling workforce, revealing the scale and geographic distribution of the human labour underpinning AI model training.",
+      "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+      "topics": ["AI ethics", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Import AI 478: Math for Alignment; ProgramBench; and Mirendil Shows What RSI Means",
+      "summary": "Jack Clark's Import AI newsletter covers new research on using mathematics to advance AI alignment, a new programming benchmark, and a demonstration of recursive self-improvement in AI systems.",
+      "url": "https://importai.substack.com/p/import-ai-478-math-for-alignment",
+      "topics": ["AI safety", "large language models", "AI research"]
+    }
+  ],
+  "ethan_mollick": null
+}
