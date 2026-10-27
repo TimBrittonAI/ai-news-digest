@@ -1,0 +1,66 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Owners of Elvis Presley's Catalog Sue Anthropic for $41.1 Million, Claiming AI Company Pirated Star's Music to Train Claude",
+      "summary": "Rights holders of Elvis Presley's music catalog have filed a copyright infringement lawsuit against Anthropic, alleging the company used 274 songs without authorisation to train its Claude AI model. The suit seeks up to $41.1 million in statutory damages. The case adds to a growing body of litigation challenging AI companies over their use of copyrighted material in training datasets.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUU3c1J4d3dSdEpIT1lXNnFpUmhOeHBzSmszd2RkZzh6dklXYWNGZzNfU0NJdHhBdjBQX3lnZjVnSXJwMjhOVUdJNUIzSjZpVUozZGRfNWhvNmVzR1dZWHc3ZDhwRnFqU3hJN2ZKZmdxR2U3a2dOVWpXTHFRcVpsV1hNZG5CNHc0UU9wcGJDbWJEd0o5MG1qM2xFUjlQV00?oc=5",
+      "topics": ["AI copyright", "litigation", "music rights"]
+    },
+    {
+      "title": "Meta delays rollout of terms that would allow broad scraping of news sites. Legal experts are still skeptical.",
+      "summary": "Meta has delayed the implementation of updated terms of service that would have permitted broad scraping of news publisher content for AI training purposes. Legal experts remain unconvinced that the revised approach adequately protects publishers' rights, raising ongoing concerns about consent and copyright compliance.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSDB1TkNod0ZtR1JOOHN3M0JmNER5THRwbGd1QzRkaW1LUDFWSGlxMEk5UklXTXhNS2o1S015WjBFY2pCaWFNMXdQWnB3Wm05N251QUhVeGhTQW5la3JXRS1Qa3IybmlZcTZWWEdUUkFlOUc3dEpRdHdfZTlqbVFMWFViSTBDeU9zbmtIZzR2ek9xdk5qVS0xRDliVnZGNGN2YWkwU0UxWC1IVmRVUVZVS2x6NWJsRkVSWkRIcGpzaHQ1NktNVUoyWVhtR0JYNEIyeDk5b1VFWkxORGc?oc=5",
+      "topics": ["AI copyright", "licensing", "news publishing"]
+    },
+    {
+      "title": "Authors Guild Joins Protests Challenging Change in Australian Copyright Law",
+      "summary": "The Authors Guild has added its voice to growing international opposition against proposed changes to Australian copyright law that would benefit AI companies seeking to train on protected works. The move reflects a coordinated pushback from creators and rights holders across multiple jurisdictions.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101606-authors-guild-joins-protests-challenging-change-in-australian-copyright-law.html",
+      "topics": ["AI copyright", "policy", "book publishing"]
+    },
+    {
+      "title": "Huawei, DeepSeek AI training linked to pirated books by Korean authors",
+      "summary": "Reports have emerged linking AI training datasets used by Huawei and DeepSeek to pirated books by Korean authors, raising fresh copyright concerns around non-Western AI development. The allegations point to a broader global pattern of AI companies accessing copyrighted literary works without authorisation.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLWMzZWRUWHlqTEVhVDNnSlg4RGo4ZEQ1Szc3MU9ZLXFVOTZFQVdhX3FObVg1eTdiU2Q2MC0zaEJLeUMwZFdTRVdaZVhsOE9WcUJERWdqS0F0UHczODdNb1R6dVpWYWJaVmNnMk9OUmxMUkNWdEsxdmdBY2N0eW1CT0RsTHdLTU8xbHpSc1ZVYks1TkZTS3Jpc0RpeWZXakdETy1hRkpLX1dSLU9rWGdhcF80cXRsU1h1dDkza05pZF8?oc=5",
+      "topics": ["AI copyright", "book publishing", "litigation"]
+    },
+    {
+      "title": "Majority of Australians Oppose AI Copyright Law Changes, New ARIA Poll Finds",
+      "summary": "A new poll commissioned by ARIA (Australian Recording Industry Association) finds that a large majority of Australians oppose proposed changes to copyright law that would allow AI companies to use protected works for training without consent or compensation. The polling data is being used by rights holders to pressure the government to maintain existing protections.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV0NrMWE2Sk5SaGxLZ1YwaGEwZ1FsR3pGQnYtMjRGTFg1QklMdkZFdTZyWHA2U3R0Z3VMYTdlLV8yQm5KeVF3dmQ3WW9IeldmYlFEZVBBUzFWd0x1WWVTYnZNdTNLUVV3YmVzNDgwaTNxYkZ3V1phRU5nOGlVSDQ1eFE5MlVPZU5PVnhyWkVNTHlVa0ZYSU9udmx6NlltWlVSZmFOSzFfZTJIWG0z?oc=5",
+      "topics": ["AI copyright", "policy", "music rights"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Meta Faces European Publisher Backlash Over AI Content Scraping Rules",
+      "summary": "European publishers are pushing back against Meta's approach to scraping online content for AI training, adding to transatlantic pressure on the company over copyright compliance.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZVN1ZWl0UllSd2VsRTJCeUNpSWNaWVJGWWRGSzZCd1ZWdXdrTng2N2FKejlIVDZVaVZ3WmNhRUM1Z2w5cU1QV1JOdmZxdW11ZUVabjBwMFU0dXBZTHh4UWV0ZVp4LU1xWEJKZWN1THdfb2lUQ0dSTENUanRmdjZrbnpnN2VhazNsd1ZycVdPdWlOc0dxaGVmY0xESTl0bVpoMDBUemlB?oc=5",
+      "topics": ["AI copyright", "licensing", "news publishing"]
+    },
+    {
+      "title": "Australian Screen Composers Launch 'Human Made' Campaign Against AI Copyright Threats",
+      "summary": "Australian screen composers have launched a 'Human Made' campaign calling for copyright protections to be upheld against the threat posed by AI-generated music and AI training on composers' works.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWlplNmoxdVBtdW9RRUZYY3RqQ3VQek9mSU1ZZnk3UVVSSzRhSGFDSExtak9URTJfY182OF91RHJmVEd2RUdRbWI3MWllVEJyWTZwTlJacnl6eEVBaUo1c0pzUFlCNnBYY0NTaVZiaFg0Q1ZpN2poRXJhZ2pPZC1pQ21yTWxwalFSOHNuZWMwQnZZczhqajFhQ216UHk1WkU0T2V1RjBIaVdRYWlHN0JpZnk0VWhtOHc?oc=5",
+      "topics": ["AI copyright", "music rights", "policy"]
+    },
+    {
+      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist - TorrentFreak",
+      "summary": "An academic paper on Z-Library produced with AI assistance contained a fabricated citation to a TorrentFreak article that does not exist, highlighting research integrity risks associated with AI-generated content in scholarly publishing.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX0t4Y2VDUFpmTXpfSG5McENtN0ZHWi1WWk9LcFM2NXlKQkxxOVYwai1Bd1haWXBTekR5Q3FBQXc0MHNrTkNQZDRBTmZzUlpFbmpVMS11aDF6WmtPbUk0aUJnOVhhMEpRaHVLU0lCdTBhUkJUSi1jR1dFS2c0MHdTdjZTZDAyTFJKamc1M1hCcXBNbVhXVWRMTmY1T3k4VGo1OG9kanJn?oc=5",
+      "topics": ["AI copyright", "academic publishing", "AI tools"]
+    },
+    {
+      "title": "AI in the patent industry: Instant coffee Copilot",
+      "summary": "IPKat examines the growing use of AI copilot tools in the patent industry, exploring the implications for intellectual property practice and the professional responsibilities of patent attorneys.",
+      "url": "http://ipkitten.blogspot.com/2026/10/ai-in-patent-industry-instant-coffee.html",
+      "topics": ["AI tools", "software", "legal services"]
+    },
+    {
+      "title": "Guest Post — When Research Integrity Fails, the Entire System Follows",
+      "summary": "The Scholarly Kitchen publishes a guest post arguing that failures in research integrity have cascading consequences across the academic publishing ecosystem, with implications for how AI-generated and AI-assisted research is evaluated.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/26/guest-post-when-research-integrity-fails-the-entire-system-follows/",
+      "topics": ["academic publishing", "AI tools"]
+    }
+  ]
+}
