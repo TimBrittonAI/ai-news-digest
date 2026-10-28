@@ -1,0 +1,91 @@
+{
+  "top_stories": [
+    {
+      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+      "summary": "Scientists and researchers are expressing frustration that OpenAI is announcing significant advances in mathematics, computer science, and physics without publishing the underlying research or methods. The lack of transparency is drawing criticism from the academic community, who argue it hinders scientific progress and independent verification.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "topics": ["OpenAI", "AI research", "research integrity"]
+    },
+    {
+      "title": "Anthropic's elaborate plan to keep Wall Street at bay",
+      "summary": "Anthropic is structuring its anticipated IPO in a way designed to resist investor pressure to cut corners on safety, according to The Verge. The company is reportedly building governance mechanisms into its corporate structure to preserve its safety-first mission even as it accesses public markets.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "topics": ["Anthropic", "AI safety", "AI governance"]
+    },
+    {
+      "title": "Anthropic Says It Will Revolutionize Biology—Some Day [Metered]",
+      "summary": "Anthropic has outlined an ambitious vision for using its AI systems to transform biological research and drug discovery, though the company acknowledges the timeline remains uncertain. The piece examines the gap between the company's stated aspirations and the current state of its technology.",
+      "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+      "topics": ["Anthropic", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Google DeepMind unveils Genie 4: A new generation of world simulation",
+      "summary": "Google DeepMind has released Genie 4, a new AI model capable of generating more realistic interactive world simulations from text or image prompts. The model represents a significant step forward in AI-driven environment generation, with potential applications in gaming, robotics training, and virtual world creation.",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "topics": ["generative AI", "large language models", "Google"]
+    },
+    {
+      "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech [Metered]",
+      "summary": "The UK Home Office could face a formal investigation into its use of OpenAI tools, raising questions about government deployment of commercial AI systems in sensitive public sector contexts. The case highlights growing regulatory scrutiny of how government bodies adopt and use AI technology.",
+      "url": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/",
+      "topics": ["AI regulation", "OpenAI", "AI governance"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "summary": "Futurism reports that Amazon is significantly scaling back its internal AI division following a string of underperforming products, including its Nova model line.",
+      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "topics": ["AI industry", "generative AI", "business"]
+    },
+    {
+      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+      "summary": "Law enforcement agencies are deploying AI systems to flag drivers for traffic stops based on behavioural patterns, raising significant civil liberties and AI ethics concerns.",
+      "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+      "topics": ["AI ethics", "AI regulation", "technology ethics"]
+    },
+    {
+      "title": "VisionQuest is what happens when AI really goes rogue",
+      "summary": "The Verge examines VisionQuest, a Marvel production in which an AI system goes rogue, exploring how fictional portrayals of AI safety failures reflect real-world concerns.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+      "topics": ["AI safety", "AI ethics", "generative AI"]
+    },
+    {
+      "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "summary": "Apple is integrating an AI chatbot assistant directly into its productivity suite, bringing conversational AI features to Pages, Keynote, and Numbers applications.",
+      "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+      "topics": ["AI personal assistant", "chatbots", "large language models"]
+    },
+    {
+      "title": "Firefox's Smart Window adds AI form filling and webpage monitoring",
+      "summary": "Mozilla is rolling out a Smart Window feature in Firefox that uses AI to automatically fill forms and monitor webpages for changes on behalf of users.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "topics": ["AI personal assistant", "user privacy", "generative AI"]
+    },
+    {
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "summary": "OpenAI's official blog highlights how Retell AI is using its models to handle 100 million phone calls per month, demonstrating large-scale real-world deployment of conversational AI.",
+      "url": "https://openai.com/index/retell-ai",
+      "topics": ["OpenAI", "large language models", "AI industry"]
+    },
+    {
+      "title": "Microsoft: The platform approach to becoming Frontier",
+      "summary": "Microsoft outlines its strategy for building AI-first platform infrastructure, positioning its cloud and developer tools as the foundation for next-generation frontier AI applications.",
+      "url": "https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier/",
+      "topics": ["Microsoft", "AI infrastructure", "AI industry"]
+    },
+    {
+      "title": "How AI Is Changing the Pace of Discovery for Millions Living With Dementia",
+      "summary": "NVIDIA's blog details how open-source AI tools are being used through the cBrain initiative to accelerate dementia research and improve outcomes for patients.",
+      "url": "https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/",
+      "topics": ["generative AI", "AI research", "mental health"]
+    },
+    {
+      "title": "Alter Agents and Smartly Release New Research Showing 99% of Marketers Use AI",
+      "summary": "New research from Alter Agents and Smartly finds that virtually all marketers now use AI tools, with human creativity and oversight identified as critical factors in effective AI-assisted marketing.",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQb1lBUkNVZ3JIaEFEa1BMWG9ESTJBMm9VR2NKaU1VVzQzbEVrVkhWcDhQd2Mtbkp3SUJZajY4VTdUMXlqdjh0VnExWmllUjlmQVc0WE9Ec3djZ2E4MnUyWDFpRkRiT2NCRkNlblFXZmw0d3NWSWxrSnpMcHpkOW0xSDZqdFEyRUhNeHo1bl9OcnNjZ0ZyWkdydW9oN2p0dm1uRW0zVUVwOHlweDgyY0dkblZ4VXhLc0tTeUlROFhXcVFOYXh5SDY3V18wN19tcm81NnZTazRfaFBsbC04WUZ5ZmhGMC05NHkyWW9TVDhoeWY3NWMtVzhIdE5rOTdxSkUyQ0FZUlVPNTdGb2RuNi1Tb1NuWTg",
+      "topics": ["advertising", "market research", "generative AI"]
+    }
+  ],
+  "ethan_mollick": null
+}
