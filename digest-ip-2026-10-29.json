@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Stanford Authors Sue Anthropic Over Use of Copyrighted Books to Train AI",
+      "summary": "A group of Stanford-affiliated authors has filed a lawsuit against Anthropic, alleging the company illegally used their copyrighted books to train its Claude AI model. The case adds to a growing wave of copyright litigation targeting AI developers over training data practices. Multiple outlets have reported on the filing, with claims that Stanford professors' works were used without authorisation.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcmZGOUR1Wk9ucHFjQVhULTdCdC04VUs3V2k1clJFRFc3WFQxZF9OU2U0MThDWUlzUTZWUXRXcHRRN2NBQjg2SVRQaEV2Ykw5OHh3R0ZOTThiUS1nOWRScGJQcWlOem9QTUJmN2FIa2dRZW9mc2R6WWpEVURWV0JVYThQdFd1VjZYZU03Y05lTUl5MUJ4YU5lU093bXRzczg1eF9uaGtYdl90M1lPaTFXMW1aQjN3S0p2Z1hHN3R3UGRQUXR5Y1k2T0l1SQ?oc=5",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "Anthropic's Elvis Lawsuit Could Reach Inside Claude Itself",
+      "summary": "The lawsuit brought by Elvis Presley's rights holders against Anthropic over alleged use of his music catalogue to train AI could have implications that extend to the model's internal workings, according to analysis from Ars Technica. The case, valued at $41 million, is being closely watched as it may compel disclosure of details about how Claude was trained. A separate but related suit also names Suno over alleged use of tracks by Madonna, Johnny Cash, and Joni Mitchell.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5NT0pGRWVKZ3ZZQmFUVS1KV2xqaDBER2xZbGFPZmxONFlPcEhrS1lIcmFKYlhTRWR0eFg5VVR1ODhTT1dRVHlJWkc0UTlqQ2k3bFdfTDB5TzdJN05wVDdmbFluN291RnpOamFMVUw3NWhxR2MtXzE2LWtfV1pKQQ?oc=5",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "Anthropic Flags Copyright Law as Major Risk That Could Cripple AI Business",
+      "summary": "Anthropic has publicly acknowledged in regulatory or investor disclosures that copyright law poses a significant risk to its business model, warning that adverse legal rulings could undermine its operations. The disclosure comes as the company faces multiple simultaneous copyright suits over training data. The admission is notable given the volume of litigation currently targeting the company.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVTRUMVlCRlRGOG1vTktPYktNMU00Nk9SdDc4b0tVMmVKdm5QbF80M1pyU3FZMkNKR3lEd2VRRHJKcW92YnBKLU9keEU0ZUxCNXVzRmZIcFkxdV9aOXNmcHZETzMyMXptTHRKUG5HVmptdi1wTC1YSlNEaG8tMlQtV2dQOGw3R0NaRGVUSmRjbWV5RVhqWXVhV1h4dWV0cmF4eEpzUUYtQUg1emVCbXV6cFlrTFJIcWloZlBrSmszWUxFVm1ESnV4cmtTcUlKSHAyd3NHRnNGYVNxcmd1YVhZ0gHkAUFVX3lxTE9adW5ubGo3aWczaVF1Zjc5YllucHlWdi1oUTFHQjA1YTVUOWI4SkVIQzkwYVhHSFJDcG9rbkF6Vm5DR1RlQzY4ZlExMF94enVPVzdjTS00aEQ4djQ2MUdBcUhXVkxrbmkzcWFOOFZJVVkyNlo1alVmUWhUZWlqT1doSGh4d3RfUUhxcUdteElxcVpLRm9kTEpRWm1KcHIyWUFuVnl6cE9qTlp6SkVDMWRZM1NfLUVsOFUxTFFKRjVFSlhvUVNqUlJSek16V3JJRzUxVDdPWTJvTFg2UU5WaEFvbW9OTw?oc=5",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "Meta Halts Commercial Terms Rollout After Publishers Raise Concerns in EU, UK",
+      "summary": "Meta has paused its rollout of revised commercial terms following pushback from publishers in the EU and UK, who raised concerns about safeguards for their content. The delay follows sustained pressure from news and magazine publishers over how their material may be used in AI training. A separate report confirms UK publishers were among those pressing Meta for stronger protections before the terms could proceed.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMkZfVDVDbmFDck9kX01zd2dmenZzb1IxOGwzRTFFeXI2ekxicmRXMW5WTFYwMHRIUEdZZ1lxWWpaRThtdlBrVWZOUlExbjE2bHNuWlZsQVp2U0dudWhqVnl6czEtcVNzckI5Wjl5NVZJT2UweG1LZWc1eTdYN3RPZmJHRXhjbWJfTkU0UFFWNVpwWFQ2UHdwSTdRR2xFOFJiY2RLRUdpdGUxM3M3YzN3?oc=5",
+      "topics": ["licensing", "AI copyright", "eu law"]
+    },
+    {
+      "title": "UNSW Academics Propose 'Copyright Plus' Framework to Address AI",
+      "summary": "Researchers at the University of New South Wales have put forward a new 'Copyright Plus' framework designed to balance AI developers' use of copyrighted works with fair compensation for creators. The proposal, also described by some outlets as a system for AI copyright payments, has emerged from Australian academic debate about how existing copyright law falls short in addressing generative AI. It adds to growing international discussion about legislative and licensing solutions.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTVExZXRodEhQNG42ZERJUTJsTGNFdHpYRUVrSFNIV3pRUUJSbTNSLUxGenBHa05lcjdEZUxibExuajBHR2UxcG91SXlQTFMyY1NNUGFrM3FlZFdVdF85WkRkS2NuT3BRYzNfMFFuMTIzenZSM1c5STE0QXFTOGlReEJB?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "ANI v. OpenAI: Examining Copyright Law in the Context of Large Language Models",
+      "summary": "A legal analysis of the ANI v. OpenAI case examines how existing copyright frameworks apply to large language model training and outputs.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOVoxMjJ2Yjg5NGx2MnBCVm1fZUVVdGJMTDB6aWFRaWVfSnF3MTc5aUs5dnlIb09mX0hzZnRwNldKd1Z4RXYtZDlnbTV5TW9FS1MwSFQzbmdQT0R3VjB4UV9DcnhjT3ljdkNPRW1MeFdXaGdxQWtBcDRkMk5yUXBmcnJITWx4VW0wUDZFc3FrY2stUU9fbURORmJwZFJMQlRzaHZPdEtn?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Australian Screen Composers Protest AI's Copyright Dodging at Screen Music Awards",
+      "summary": "Australian screen composers used the Screen Music Awards as a platform to protest AI systems they say are circumventing copyright protections for musical works.",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVGNTOVA3d3c5UjVpTkI4VS1vLUc5Y0lkRWEtOUpac2xCSThyaGNhVzJvUjNVUDM3bno3c05iczZiazd0clVZWkpwZ1E4bkwxdkM3bl9uSDhYa19aSGZtckVCWTdVMnc2SzU0QzVXSDJ4MUdaMDNjRThfMk96RGlobk4tOGhnSTZrZGl3U2RjX25za3NvenpGN2NqTFo2c3FpTnFOQm9UbE1XSXhrNUhkZFMyY0lycUJsQmk0Zlk1TFFMUHVo?oc=5",
+      "topics": ["AI copyright", "music"]
+    },
+    {
+      "title": "Over 150 Musicians Launch Artists Alliance of Australia to Fight Against AI Copyright Threats",
+      "summary": "More than 150 Australian musicians, including Bernard Fanning, KLP and Jack River, have formed the Artists Alliance of Australia to collectively lobby against AI-related copyright threats.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU0NGSzRMSktpRE9qOENMc2l4WTktOXg5elI0S1diemRDVFE1cWJ2NHZpSXM1R0JMaDJud01zbkJFZGFtM3ZYUXZVd1dscGo4ZURVb08zMWJ3ZUxvSUpvMFlQZEpnekF0dmlZRUYzUGxYdjF1Q1ZSVTRDbkRYMUpxckhaVDBWWXE0WGlFT2V5WTF5ZGNWQWhRcTdmaW5hT0F2N2E3VWpaZ1YtRmxuYmstLTd0YXZVMEdHbHRFNXF2dEs?oc=5",
+      "topics": ["AI copyright", "music", "policy"]
+    },
+    {
+      "title": "AI Game Clones Put Microsoft and Epic on the Spot",
+      "summary": "AI-generated game clones are forcing Microsoft and Epic Games to confront questions about copyright enforcement on their platforms, even as both companies themselves deploy AI tools.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KSWhFTE9mbmFkV09odXEzRm5aTTBfUGpYSlR6WkZMOEY0RHFoZDVNWUpJeDdma2xzWDEyczVoVzdQT3V4bGdlTFRobFVHYmx2RmIwdUVTbHN5bElwaTRncl9rQjJrV3NBcUJoTkhB?oc=5",
+      "topics": ["AI copyright", "software"]
+    },
+    {
+      "title": "Inside the Weird and Legally Dubious Phenomenon of AI Replicas That Copy Content Creators for Views and Profit",
+      "summary": "An investigation into AI-generated replicas of content creators examines the legal grey areas around identity, likeness rights, and copyright when AI systems mimic real individuals for commercial gain.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZkJNQWJNOEFlclh2anJSUklqLXJJSXgxdnBpTzZxTUo4VEt0bXpBd2gwR0ZBZWZmWmlCOUhRYld3TGNJWU5PNFE3LVJ2T2l3R0VpUGVqMGhoYWItTVIyX04xR1c2MUtMUHE0blBOXzE4TWtuUVdyWEhsUE93WHdSYXlaZmgwX05MSVB3eGtlOFpPOE1HSkRv?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Meta Faces Mounting Legal Challenges Over AI Training and Digital Advertising",
+      "summary": "Meta is facing an increasing number of legal challenges related to its AI training practices alongside ongoing scrutiny over its digital advertising business.",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LNk1vSjdVNV8zQkN2OGFVUWl1eWZ5bU05YXZTSWxra2NXNG9MZE1TZ0JqZkFodERWcnRCTW9Gb0VURVVUSGs4ZE1rVHpiNXFIdFVR?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "European and Canadian News and Magazine Publishers Unite to Defend Free and Pluralistic Media",
+      "summary": "Publishers across Europe and Canada have issued a joint statement defending press freedom and pluralistic media, with AI and copyright among the key concerns driving the coalition.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWFJGeExjRG1vZElfY0FtWklfRkNoYUUwU1NCT3dwZTZCSmxYSGZtbV9LZV82aVhjaTg2UkM5ZnhKMkJob3FaTHpUQ0VXRWNYOVlJelprei1aN1BReG8zdDQzTGlIZWNKWXlwVFhiWEVBTlRUSzNzYi03WXo5Z2w3M2JwdGkzSW5iRXV2VGw2ZmFYU3NJYWg0UmtIYm5rTjRIcEZhd3VRWENXaDNEQjZPdm03a2ZFRzloM2FmX1p6blRBdkZwNU9XSVFSYjlPZEZpSnI2WWZ3?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "Is AI-Generated Content Copyrighted?",
+      "summary": "An explainer examining the current state of copyright law as it applies to AI-generated outputs, covering key questions about authorship, ownership, and jurisdictional differences.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVEFWekFvWEo2bmFFLWtlclJNeW15bTB0UDZ2MldIT0t1UzlEUi1iVHVvN2lvM2tMSEt6XzFhZl9GaWdhNEFkN2NsQmZvNTlVWWo1c0l5M0NTY09OSFBuLWtoTFNpWnk5czJ5QU9IaUpER1U4bjhVYWtzWnE2SVhpMQ?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Creating a New Internet Bargain to Preserve Fair Use and Protect the Commons",
+      "summary": "A policy proposal argues for a renegotiated framework governing AI and the internet that would preserve fair use doctrine while establishing new protections for creative and public-interest content.",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPandOMjB5dmhqRzVvZlVLM0xILXZaenlFbDllcktCaER0R01xdHpfTHNNNFRuY3YyNENQMmdtcXo3amQ2Q2N5a2tnWGZDdy14Y2E3SkRoa29DOUJ2ZE95WExJZTdkdURvdDh3MGo2UXpRdnQzWlYyTmNjcHAxSDB1WDA5NHh3YXFadjRUcmcwaG4tWnJYWmgzWjVKbmItdXc0cWFNdmVlVVZZUQ?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "How Australian Publishers Tell If a Book Has Been Written by AI",
+      "summary": "Australian publishers describe the methods and tools they are using to detect AI-generated manuscripts submitted for publication.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmtlb3JBSnlXeG1BZHY5VENxTzBsbllKaGpPNUdfeEhrQVNQX2lQOEZBWWZGTXRoVlctdnkwMTlLWloxemxQQVZSdThVY2o1NzM4dDc2R0dIQXB5azVWS2haNW1HcVNOclB0VG5PYU9WNk04ZTJGUHl1X1JPVzdtM05HdGxXdWNrTjdVa3EzeU1aMm9qRkRXaw?oc=5",
+      "topics": ["book publishing", "AI copyright"]
+    }
+  ]
+}
