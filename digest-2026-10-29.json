@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "summary": "Google DeepMind has launched Gemini 4 Carbon, describing it as representing a 'significant leap' in cybersecurity capabilities. The model is positioned as Google's next frontier AI, with details published directly on the DeepMind blog. The Verge also covered the announcement, noting the cybersecurity focus as a headline capability.",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "topics": ["generative AI", "large language models", "Google"]
+    },
+    {
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "summary": "OpenAI has announced an expanded partnership with ServiceNow aimed at integrating AI capabilities across enterprise workflows. The announcement, published on OpenAI's official blog, signals a continued push by OpenAI to deepen its presence in enterprise software. This follows broader industry moves to embed large language models into business operations.",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "topics": ["OpenAI", "AI industry", "generative AI"]
+    },
+    {
+      "title": "Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work",
+      "summary": "Microsoft has announced the Copilot harness, a new framework designed to enable multi-model agentic AI workflows. Published on the official Microsoft blog, the post outlines how the harness allows Copilot to orchestrate across multiple AI models for complex tasks. The move reflects Microsoft's broader strategy to position Copilot as a versatile enterprise AI platform.",
+      "url": "https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work/",
+      "topics": ["AI personal assistant", "large language models", "Microsoft"]
+    },
+    {
+      "title": "The future of the firm",
+      "summary": "OpenAI has published a post on its official blog discussing the long-term strategic direction of the organisation. The piece addresses questions about OpenAI's structure and mission as the company continues to scale. It is a significant statement from one of the most prominent actors in the generative AI industry.",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "topics": ["OpenAI", "AI industry", "generative AI"]
+    },
+    {
+      "title": "Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design",
+      "summary": "Meta's engineering blog details Andromeda, a new system for ads retrieval that uses a co-design approach combining large AI models with underlying hardware and software systems. The system is intended to significantly improve the relevance and efficiency of ad targeting at scale. The post provides technical depth on how Meta is applying generative AI to its core advertising business.",
+      "url": "https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/",
+      "topics": ["advertising", "large language models", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "summary": "Ars Technica reports that Google's AI systems are giving evasive responses when asked about the outcome of the 2020 US presidential election, raising questions about content policy and AI neutrality on politically sensitive topics.",
+      "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "topics": ["AI ethics", "content policy", "Google"]
+    },
+    {
+      "title": "Legora is building the agentic operating system for legal work",
+      "summary": "OpenAI's blog profiles Legora, a company developing an agentic AI platform specifically designed for legal workflows, positioning itself as an operating system for legal professionals.",
+      "url": "https://openai.com/index/legora",
+      "topics": ["legal", "AI industry", "generative AI"]
+    },
+    {
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "summary": "Surge HQ has published an evaluation of AI agents on 50 real professional tax assignments, providing a substantive benchmark of current AI capability in a high-stakes domain.",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "topics": ["AI agents", "generative AI", "large language models"]
+    },
+    {
+      "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed [Metered]",
+      "summary": "Wired reports that Macmillan Publishers celebrated the launch of an internal AI assistant with a party, only for the tool to be subsequently discontinued, illustrating the volatile nature of enterprise AI adoption in publishing.",
+      "url": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+      "topics": ["AI industry", "academic publishing", "generative AI"]
+    },
+    {
+      "title": "Chrome's enhanced autofill can now pull info from Gmail to help you fill out forms",
+      "summary": "Google has updated Chrome's autofill feature to draw on Gmail data using Gemini, enabling the browser to populate forms with personal information sourced from a user's email.",
+      "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+      "topics": ["AI personal assistant", "user privacy", "Google"]
+    },
+    {
+      "title": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
+      "summary": "Kotaku reports that Microsoft and Epic Games have aligned on the position that unauthorised use of their content to train AI models constitutes theft, marking a notable shift given Microsoft's deep investment in AI.",
+      "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
+      "topics": ["copyright", "AI ethics", "generative AI"]
+    },
+    {
+      "title": "Adam Mosseri says negativity around AI is 'going to get worse'",
+      "summary": "Instagram head Adam Mosseri has publicly predicted that public sentiment toward AI will become more negative over time, comments reported by The Verge.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "topics": ["AI ethics", "technology ethics", "AI industry"]
+    },
+    {
+      "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+      "summary": "Elon Musk's xAI is reportedly paying homeowners near its Mississippi data center to sign agreements waiving their right to sue over noise and environmental concerns.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    },
+    {
+      "title": "Valve Responds to Developers Fearing AI Slop and Clones",
+      "summary": "Valve has issued a response to game developers concerned about a rise in AI-generated low-quality games and clones flooding its platform.",
+      "url": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones",
+      "topics": ["generative AI", "content policy", "AI ethics"]
+    },
+    {
+      "title": "Microsoft is ending Copilot support on smart TVs",
+      "summary": "Microsoft has announced it will discontinue Copilot support on LG and Samsung smart TVs, scaling back the AI assistant's presence in the consumer electronics market.",
+      "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "topics": ["Microsoft", "AI personal assistant", "AI industry"]
+    }
+  ],
+  "ethan_mollick": null
+}
