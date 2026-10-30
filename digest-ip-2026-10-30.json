@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Publishers urge US court to reject OpenAI's fair use defence in copyright case",
+      "summary": "Publishers have filed an amicus brief urging a US court to reject OpenAI's fair use defence in an ongoing copyright infringement case. The filing signals the publishing industry's coordinated legal push to establish that training AI models on copyrighted works does not qualify as fair use. The case is being closely watched as a potential precedent-setter for AI and copyright law.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb3A2YlB6VF9EN1FHM2RuajdzbzA3YWJsVERNeEVvR0FLOGY1ajNPRmR3MHhvT244Q21feDJZZmgtTjViUElIcEpMZ1ptczNwSFl5TGFjcjRtWHQ0S0NTbHphd3ZibTdKVTE5RDVFUEUxWUxZY2FDSV92M01pZ1JCcEN6TEEwa0ZTVHlSektnRmEyaDB1dVBUblZKTlUxaVJ2UFlLNVowelEwRDNtci1YSFJB",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "Elvis Presley estate sues Anthropic over AI use of music catalogue",
+      "summary": "The Elvis Presley estate has filed a lawsuit against Anthropic, alleging the company used 274 songs from the Elvis catalogue to train its AI systems without authorisation. The case adds to growing litigation over AI training data and challenges the 'fair use' arguments commonly advanced by AI developers. Legal observers note the breadth of the catalogue involved makes this a significant test case.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZGdaVkFGYTQ3Y2lCMlJQR2lKS1I0QWU2UFhpMWtTa241bnhuYVM2LVNlRUl5ZElPLVg1SDBraDlKRW14QlBFdjVWNFF6U3JFOVYtMnRYcU5ZX2J1OGdrQkpmU1R4NnZuRU1TaDItSVZGelNyYVh0RzQxZFR3cEVLbnJpR3JPSTVZZlRCVjZNS2ItVklPT1lBeDF5T0dybExoS1pKeVU1c2U4WFRtbGxjZDFhVTZMMXFGQXU2QnRWZ1lCelhIT3c",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "Authors accuse publishers of feeding both sides of the AI fight",
+      "summary": "Authors are raising concerns that some major publishers are simultaneously opposing AI companies in court while also licensing content to those same companies for AI training. The piece highlights a perceived contradiction in the publishing industry's position on AI and copyright. Authors argue this dual approach undermines their interests and weakens the legal fight against unlicensed AI training.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMWtaUE5WVmltZjBaZlZWVnJOTnpjODh3S0xwWkhrNWxQVUszOXBlY0lJQzJhNlhuR3h2YUhxN0NUUnZRU1lGMEthSjlxWEMzZkk2d0NYakNqWEdxNGw2eG5rUjg3VzJyOHI2M0oyaVlQbUlmV0EwVHdrV0RTVlV0TFctNzVlSXMwLVFiN1haTUUwSHJoV0RmWTZUZ0FOQ0cyRDdFQVo1dGtoV2pyMlFwUUZoV3lFaVdzWWs2NGpDcmU5NFU",
+      "topics": ["AI copyright", "book publishing", "licensing"]
+    },
+    {
+      "title": "Anthropic flags copyright law as major risk that could cripple AI business",
+      "summary": "Anthropic has publicly identified copyright law as a significant business risk, warning that litigation and regulatory developments around AI training data could materially threaten its operations. The disclosure underscores how central the unresolved question of copyright liability is to the viability of large AI model developers. It comes as the company faces multiple active lawsuits over its training practices.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVTRUMVlCRlRGOG1vTktPYktNMU00Nk9SdDc4b0tVMmVKdm5QbF80M1pyU3FZMkNKR3lEd2VRRHJKcW92YnBKLU9keEU0ZUxCNXVzRmZIcFkxdV9aOXNmcHZETzMyMXptTHRKUG5HVmptdi1wTC1YSlNEaG8tMlQtV2dQOGw3R0NaRGVUSmRjbWV5RVhqWXVhV1h4dWV0cmF4eEpzUUYtQUg1emVCbXV6cFlrTFJIcWloZlBrSmszWUxFVm1ESnV4cmtTcUlKSHAyd3NHRnNGYVNxcmd1YVhZ",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "AAP Calls on Meta to Drop 'Onerous' Terms of Service [Metered]",
+      "summary": "The Association of American Publishers has called on Meta to revise terms of service it describes as 'onerous', raising concerns about how the platform's conditions affect publishers' rights over their content. The intervention reflects broader industry anxiety about how major tech platforms handle publisher content in the context of AI development. No further details of the specific terms challenged were available at time of publication.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101648-aap-calls-on-meta-to-drop-onerous-terms-of-service.html",
+      "topics": ["AI copyright", "book publishing", "policy"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Publishers File Amicus Brief in OpenAI Copyright Case [Metered]",
+      "summary": "Publishers Weekly reports on the publisher amicus brief filed in the OpenAI copyright case, providing additional industry context to the legal filing.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101650-publishers-file-amicus-brief-in-openai-copyright-case.html",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "IFRRO Releases New Study on AI and Copyright Issues",
+      "summary": "The International Federation of Reproduction Rights Organisations has published a new study examining the intersection of AI and copyright, adding an international licensing body perspective to the ongoing policy debate.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPXzZYcC1fUmFkRkFfX2FTd2o5dW1rci1tcElGdmoyMW1rSXN2SUZyUHRhRFJzTzRNQlZNSzJFTDg1TUhRbnQ5NkFEZG16VHF1Q0NPbGZyeWstMWdicGE4MDhMZG5LZFJHMEFqWmNmOVRaRDRuM09GNXczSXdLU055aXp2eFZwQmd4TkduZVFzYkdYNUpyZ3c",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "Conservative groups warn letting AI giants 'recklessly crawl the internet' would jeopardize news outlets, national security",
+      "summary": "Conservative advocacy groups have filed a court submission warning that permitting AI companies to scrape content without restriction threatens both news publishers and national security interests.",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNUNFTGNwUlpqbFdETnZpOXhpR1NBMzNjRzgxU2d4V3RSdDVUR05YOWxHaWsyaFk5dC1Yd0tSdjZkNHltczFWWF9faGhxYUx1ZHI3VEVydkdVQktScXg5eDlhR0s1Tm93OG9sVWJSUzYxUGg5eXdybVhUd3pVNndjeXBKalFrM2NLUl9CWGdOaERMREdkU2Z3UmNiVTlfWHdBREZNY3A3VzRMb0pYNmNOd0hGLWZWdjlwRUhKaUxHOXRKUjlGYWhId3pVSUpEWC1Pb3N0aC1RTHYzN180ZXBMS0xveXd5RTVmUUtsMExOaFNyZldOZVB0Vkln",
+      "topics": ["AI copyright", "policy", "litigation"]
+    },
+    {
+      "title": "Creating a New Internet Bargain to Preserve Fair Use and Protect the Commons",
+      "summary": "A commentary piece proposes a new framework for balancing fair use principles and content creator protections in the context of AI training and web scraping.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTnE5R3RMUTlQY2x3aFIyeWhicEdqdVVJOGdmTEFFYS05T3VqRmMwYUxha0F3d3NjYllwVGNFSUpROEc2Njd4Uk1lTUx6S2RoMDFRdDRaSDlqZnVmQjlsa1NiTUtsOGZxLVhyXzdZVXhtQTZ0eDRGcTFFVlNhZ3NaMzE2WUxVTW5Ia05oeEgwU2dwZThwMTBaNHdUajZxMmhWNWo0",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Weekly Take: AI is exposing copyright's limits, but games companies can fight back",
+      "summary": "An analysis piece examines how the games industry is responding to AI-driven copyright challenges, arguing that existing legal tools may offer more protection than commonly assumed.",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNVG1kYU9LSkxvcVBpczM2Yl83ZXNfd3lka1NONVNqbmxkQXRFaThpMVFldUJ0czdHSkdSdnhlWW9XVE51NWpDSkxGYmpsNnYwTGxOU2tfaER6QkJYRUFJR2VxX3ZkVVNPOXZmRXJkdFRhaEhHSklSZkltMW9ENGhWamVjWnBPY0xjRDR2VjBFRDNveXh5T1IyYjBsNUQ0anZpVTR5cGI3ZjFnRFhHamo3NmV0R0V6LXVDZXMxQXAzQUFRTi1nLUJLY05PSDJ2cUVLTGZycUloZVNXMGRvbmgw",
+      "topics": ["AI copyright", "software", "litigation"]
+    },
+    {
+      "title": "You're the Voice: Academics propose new plan to protect Australian artists from AI exploitation",
+      "summary": "Australian academics have put forward a policy proposal aimed at protecting artists' rights in the face of AI systems that use creative works without compensation or consent.",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWko1SU5ocmEyU2p3NXRVM3V0czRjR1JWX0pqQ2UxbVRxcXlqX1YxeFdwcm5KOVl1OWF4SFV3cFpQalhmZEV0NWRLT3Z2Q1N6VHlCTGljbXBYZHRHUFFhS0hlM2c2c3FmMExNWFRuakRIcmRUQndHUU5kaEg0VHYwUVNrN0tLRVRsTDZyVV9jR2xIejVJLUdLVVY2bUh6Yk84Skxmby1HWnRrQ3h4WkgtNkN2TkhhalBIMDdJLUlZTzROdDVRMUJDZ01VZC1qSUJpV3hrQ09WajQwemJRa0NGR2Qwcw",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Bernard Fanning, KLP, Jack River launch new body to fight AI copyright threat",
+      "summary": "A group of prominent Australian musicians has established a new advocacy organisation focused on protecting artists' intellectual property rights against AI exploitation.",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQjRKVVVZcEpOenI0VHFON1BTRmdNLWRrRnZISmk2c0U1RjVhZnlGZmwtb3hST1ZpTTh2UFpfd2ZxVjRYTmtOdllSUjRVVWh3Zlo0WFR4Tm1BcEgzTEhrZ0lnSGxTZmo5Y3lwNHFGeUhtQzJWQXVpcURFeTA3YlQ3NzVhTEs1dXFfUDBKUk9Hb0luenZWUXNaNnNpMVZrRU9jVTdaRDF2VW1YRXNFSGJrSHJFRjg5T1VIZmpJREVldzdZVUNobHZOSlZ2ZThvNGJ5U0NsclBLVm1ZOUUzQl8xT0U4R3pLRU93dFdKdXZuSlRkSkVoa1RxT2ZNOHpwZw",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Copyright, Courts, and Code: Understanding AI Architecture Through Lens of Litigation",
+      "summary": "A legal analysis examines how ongoing AI copyright litigation is shaping understanding of how AI systems are built and how copyright law may apply to different stages of AI development.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMWczVXJZUFlaUXpsNlFuZmhiZFByTjZWSEFrWXQ4Zm9jeC1aRGRYQTdnLVhSYnlEVldLSlNrLXNfM29RSmR3U3RqRmI0VmQyOFV6Qkl4VGRVUmJDTzg1WUV4dTRXd1lUY21fUzRWaEN2ZFAwcnAzTDZYckJtWmc1WXlmNk1UQzhvaFNkODRic2kzVmJOR09CczFJckE0NU9iQ21JeVd3NGg3WU4xOTdOX3Z1NXlOaEl5",
+      "topics": ["AI copyright", "litigation", "software"]
+    },
+    {
+      "title": "Tech In-House Attys Say AI Rivals Humans At Writing Patents",
+      "summary": "In-house technology lawyers report that AI tools are now performing at or near human level for patent drafting tasks, raising questions about the role of legal professionals and AI-generated IP filings.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWWxnQzJhYldTYzV2YlhyUUZFV3NZb0lvb09mUHZDeG0xS0dGT1N1bDJoTnBpUkdoVWtTVjZGbFN2ZmtSQllMck1pWkNZZHBkSTZiUm9VRW1BMUgyNTZiUmxTTTRfenMySi1nWmtOSjNyUkFPRVJmSGJFbl85UnRNdVk2OHRmV2VHTHBYT1duaVM4TzBMU3hxalVuWEwyX2du",
+      "topics": ["AI copyright", "software", "legal services"]
+    },
+    {
+      "title": "'Public Interest' Disguise for AI 'Dine-and-Dash'… If My Own Creations Kill Me",
+      "summary": "A commentary piece argues that broad 'public interest' justifications being advanced for AI training on copyrighted works amount to a cover for commercial exploitation of creators without remuneration.",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oY0gyWmJiQWNrTUZ6Ry1hRG4zQUF4aGtoS1hUWWVRd0dhWmZ3LXZEZW5BanhVbWdRcUIxSHc0OUNvTnZrZ29DX01CV0lmUVo1RGZZV3YtZHNndWVaLUE",
+      "topics": ["AI copyright", "policy", "licensing"]
+    }
+  ]
+}
