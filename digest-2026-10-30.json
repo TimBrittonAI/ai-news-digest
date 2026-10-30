@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "summary": "OpenAI has published an updated Model Spec, its foundational document governing how its AI models should think and behave. The update reflects the company's evolving approach to aligning more capable models with human values and safety objectives. The document sets out principles for how models should handle conflicts between helpfulness, safety, and honesty.",
+      "url": "https://openai.com/index/updated-model-spec",
+      "topics": ["AI safety", "OpenAI", "generative AI"]
+    },
+    {
+      "title": "How we detect frontier model misalignment",
+      "summary": "OpenAI has published a technical post outlining its methods for detecting misalignment in frontier AI models. The piece describes internal evaluation and monitoring techniques designed to identify when models behave contrary to intended objectives. This forms part of OpenAI's broader AI safety research effort.",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "topics": ["AI safety", "OpenAI", "generative AI"]
+    },
+    {
+      "title": "Anthropic's business plan: Build God or die trying",
+      "summary": "The Verge examines Anthropic's S-1 IPO filing, which reveals the company's stated belief that it is building one of the most transformative and potentially dangerous technologies in history, yet presses forward regardless. The filing shows Anthropic is asking Wall Street to fund a bet on achieving AGI, with recursive compute investment at the centre of its strategy. The document is unusually candid about existential risk and the company's financial dependence on continued AI progress.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "topics": ["Anthropic", "AI industry", "AI safety"]
+    },
+    {
+      "title": "We urgently need to monitor AI agents' actions in real time",
+      "summary": "MIT Technology Review argues that as AI agents are deployed at scale in consequential settings, existing oversight mechanisms are inadequate to catch harmful or unintended actions before they cause damage. The piece calls for real-time monitoring infrastructure to be built alongside agent deployment, rather than after the fact. It highlights the gap between the pace of AI agent adoption and the development of appropriate governance tools.",
+      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time",
+      "topics": ["AI governance", "AI safety", "AI ethics"]
+    },
+    {
+      "title": "A Defense Contractor Gave Their Personal AI Agent Access to a Secure Pentagon System",
+      "summary": "Wired reports that a defense contractor connected a personal AI agent to a classified Pentagon system, raising serious security and governance concerns. The incident illustrates the risks of employees independently integrating consumer AI tools with sensitive government infrastructure. The case is prompting renewed scrutiny of AI access controls in defense contexts. [Metered]",
+      "url": "https://www.wired.com/story/a-defense-contractor-gave-their-personal-ai-agent-access-to-a-secure-pentagon-system/",
+      "topics": ["AI governance", "defense", "AI ethics"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Mistral Says Its AI Model 'Le Chonk' Has Leapfrogged China in the Open-Weight Race",
+      "summary": "Mistral claims its new open-weight model outperforms leading Chinese models on cybersecurity benchmarks, marking a significant moment in the competition for open-weight AI supremacy. [Metered]",
+      "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+      "topics": ["large language models", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Anthropic is asking Wall Street to believe in AGI",
+      "summary": "The Verge podcast breaks down Anthropic's S-1 filing and what it signals about the company's ambitions and financial strategy as it courts public investors.",
+      "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+      "topics": ["Anthropic", "AI industry", "large language models"]
+    },
+    {
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "summary": "OpenAI's blog outlines how law firm Ropes & Gray is deploying AI tools to automate and enhance transactional due diligence work.",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "topics": ["legal", "generative AI", "OpenAI"]
+    },
+    {
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "summary": "Google has expanded Gemini's capabilities to allow users to create and edit Google Docs and other files directly within the Gemini chat interface.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "topics": ["generative AI", "AI personal assistant", "Google"]
+    },
+    {
+      "title": "Manifestos, Fear, and 'Loser Thinking': Inside Proton's AI Reckoning",
+      "summary": "404 Media reports on internal tensions at privacy-focused company Proton as it grapples with whether and how to adopt AI, including heated internal debates about the risks of falling behind competitors.",
+      "url": "https://www.404media.co/manifestos-fear-and-loser-thinking-inside-protons-ai-reckoning/",
+      "topics": ["AI industry", "technology ethics", "business"]
+    },
+    {
+      "title": "The 'Pain in the Ass' Math That Could Save Vibe Coding From Itself",
+      "summary": "Wired examines how software verification techniques are being proposed as a rigorous safeguard against the errors and security flaws introduced by AI-assisted 'vibe coding'. [Metered]",
+      "url": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+      "topics": ["AI coding tools", "AI safety", "generative AI"]
+    },
+    {
+      "title": "Microsoft's AI future has fewer jobs",
+      "summary": "Microsoft is offering exit packages to employees as part of layoffs linked to its AI-driven restructuring, signalling a significant shift in workforce strategy.",
+      "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+      "topics": ["Microsoft", "layoffs", "AI industry"]
+    },
+    {
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "summary": "MIT Technology Review's daily briefing covers the emerging need for real-time tracking of AI agent behaviour alongside unrelated climate science findings. [Metered]",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops",
+      "topics": ["AI governance", "AI safety", "large language models"]
+    },
+    {
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "summary": "Y Combinator Labs published findings from experiments running swarms of AI agents in complex game environments, exploring emergent coordination and task-solving behaviours.",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "topics": ["generative AI", "AI industry", "large language models"]
+    },
+    {
+      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+      "summary": "The MicroZig embedded systems project announced a policy prohibiting the use of LLMs and AI-generated code in its codebase, citing concerns over code quality and research integrity.",
+      "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+      "topics": ["AI ethics", "AI coding tools", "content policy"]
+    }
+  ],
+  "ethan_mollick": null
+}
