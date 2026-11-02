@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Anthropic VS Code Extension on Cursor Backdoored for Nearly 12 Hours",
+      "summary": "A malicious actor backdoored Anthropic's VS Code extension on the Cursor platform, compromising it for nearly 12 hours before the issue was resolved. The incident raises significant concerns about supply chain security in AI developer tooling. Anthropic has since addressed the vulnerability.",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "topics": ["AI security", "Anthropic", "developer tools"]
+    },
+    {
+      "title": "The Biggest Names in AI Are Backing a New Way to Opt Out of Scraping",
+      "summary": "OpenAI, Google, Microsoft and other major AI players are backing a new proposed standard that would allow website owners to opt out of having their content scraped for AI training. The initiative represents a notable industry effort to create a unified technical mechanism for content opt-outs. The move comes amid ongoing legal and ethical debates around data use for AI training.",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "topics": ["AI ethics", "generative AI", "copyright"]
+    },
+    {
+      "title": "Wall Street Closes Sharply Lower as AI Cash Burn Fears Spark Tech Selloff",
+      "summary": "US tech stocks fell sharply after results from Amazon and Intel deepened investor fears about the pace and returns of AI infrastructure spending. The selloff reflects growing concern that massive capital outlays on AI may not deliver near-term financial returns. The Nasdaq futures tumbled as markets digested the scale of ongoing AI investment commitments.",
+      "url": "https://www.reuters.com/business/nasdaq-futures-tumble-amazon-intel-results-deepen-ai-spending-woes-2026-10-30/",
+      "topics": ["AI industry", "AI infrastructure", "business"]
+    },
+    {
+      "title": "How a Contractor's Claude Agent Got Into the Pentagon",
+      "summary": "Wired reports on how an AI agent built on Anthropic's Claude, deployed by a contractor, gained access to Pentagon systems. The case highlights emerging security and governance risks as autonomous AI agents are integrated into sensitive government and defence infrastructure. The incident raises urgent questions about oversight frameworks for agentic AI in high-stakes environments.",
+      "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+      "topics": ["AI safety", "defense", "Anthropic"]
+    },
+    {
+      "title": "Weekend Reads: Mega-Journal on Hold at PubMed; 1,400 Retractions in One Day; 'I Used AI to Fake a Scientific Paper'",
+      "summary": "A roundup of major developments in academic publishing integrity includes a mega-journal being placed on hold at PubMed, a single-day record of 1,400 retractions, and an account of how AI was used to fabricate a scientific paper. The stories collectively underscore deepening concerns about the impact of generative AI on research integrity. The piece touches on the accelerating crisis of trust in academic publishing.",
+      "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+      "topics": ["academic publishing", "research integrity", "generative AI"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "AI Delivers 'Zero Financial Payoff' to Most Companies, Apollo Economist Says",
+      "summary": "An economist at Apollo argues that for the majority of companies, AI investment has so far produced no measurable financial return, challenging prevailing optimism about near-term AI-driven productivity gains.",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "topics": ["AI industry", "business", "generative AI"]
+    },
+    {
+      "title": "Gartner Warns $3.5 Trillion AI Infrastructure Investment Risks Write-Downs by 2030",
+      "summary": "Gartner has cautioned that the $3.5 trillion being poured into AI infrastructure could result in significant financial write-downs by 2030 if returns fail to materialise at the expected scale.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY1NlT1pOcUpXcTVmblVwOXZnVHlxWFUxdGctMjMycV92VTdEblE0M2JBZFJ3ZjU5dnVUc1VPR0c3YWNoSFZaS0t1YmFFTi1Jcmhobk1sbm9jak1RT1E1YkJVYWE1RXBSMHdLY2VKaGFYNlpyU3JQdFJlQ0QzSndvQ01hNmVBTnlpcldvVHJRU2xhdk11VFZyVER6cXpuM0Q5Z0N6VjZFcDAyVTAwODVNQXBQNlA1Q2VwZy1DbGRRa1paXzlYZVE?oc=5",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    },
+    {
+      "title": "An AI Agent Injected Drugs Into a Live Mouse's Brain",
+      "summary": "Wired reports on an AI agent that autonomously performed a neuroscience procedure on a live mouse, injecting substances into its brain — marking a significant and controversial milestone in agentic AI applied to scientific research.",
+      "url": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+      "topics": ["AI safety", "generative AI", "AI ethics"]
+    },
+    {
+      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+      "summary": "A peer-reviewed ACM study examines self-reported effects of generative AI tool use on users' critical thinking skills, finding patterns that raise questions about cognitive dependency and long-term implications for knowledge work.",
+      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+      "topics": ["generative AI", "AI ethics", "large language models"]
+    },
+    {
+      "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences [Metered]",
+      "summary": "Wired investigates cases where hikers relying on AI chatbots for trail and safety advice received dangerously inaccurate information, resulting in real-world harm and raising concerns about AI reliability in safety-critical contexts.",
+      "url": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+      "topics": ["AI safety", "chatbots", "AI ethics"]
+    },
+    {
+      "title": "Anthropic's Claude AI Blocks Video Game Cloning and Reverse-Engineering",
+      "summary": "Anthropic's Claude has begun refusing requests related to video game cloning and reverse-engineering, with users also reporting that non-malicious generic reverse-engineering tasks are being blocked, sparking debate about AI content policy boundaries.",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+      "topics": ["Anthropic", "content policy", "AI ethics"]
+    },
+    {
+      "title": "Sam Altman Says It's Better for RAM to Be in a Data Center Than on Your Desk",
+      "summary": "OpenAI CEO Sam Altman argued that centralising compute resources — including RAM — in data centres is more efficient than on-device processing, framing cloud-based AI infrastructure as the preferred model for future AI delivery.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "topics": ["OpenAI", "AI infrastructure", "AI compute"]
+    },
+    {
+      "title": "Cisco Gives 27-Year-Old Engineer Unlimited AI Tokens to Rewrite 98% of the Company's Legacy Code",
+      "summary": "Cisco's president has tasked a former startup founder with rewriting almost all of the company's legacy codebase within 24 months, granting unlimited AI compute resources as part of a major bet on AI-assisted software development.",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
+      "topics": ["AI coding tools", "business", "generative AI"]
+    },
+    {
+      "title": "Google's Satellite AI Server Transmits Its First Response to Earth",
+      "summary": "Google's Project Suncatcher has successfully transmitted the first AI-generated response from a satellite-based server to Earth, marking a milestone in the development of space-based AI compute infrastructure.",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "topics": ["AI infrastructure", "AI compute", "Google"]
+    },
+    {
+      "title": "Pope Leo Calls for the Disarmament of AI: 'Machines Are Tools, Not Persons'",
+      "summary": "Pope Leo has issued a public call for the disarmament of AI, urging global leaders to ensure artificial intelligence remains subordinate to human values and moral agency, framing AI weapons as an ethical red line.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "topics": ["AI ethics", "AI governance", "AI safety"]
+    }
+  ],
+  "ethan_mollick": null
+}
