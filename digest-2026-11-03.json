@@ -1,0 +1,91 @@
+{
+  "top_stories": [
+    {
+      "title": "Anthropic reveals $900B AI spending commitments ahead of IPO [Paywalled]",
+      "summary": "Anthropic has disclosed $900 billion in AI spending commitments as it prepares for an IPO. The scale of the figure underscores the enormous capital flows being directed toward frontier AI development and positions Anthropic as a central player in the industry's infrastructure buildout.",
+      "url": "https://www.ft.com/content/4d91dbab-6fe4-45ab-beee-d77e091cb37f",
+      "topics": ["Anthropic", "AI industry", "AI infrastructure"]
+    },
+    {
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "summary": "Anthropic's internal consumption of its own Claude AI models, valued at retail API prices, has grown to the point where it exceeds the company's total employee payroll. The figure illustrates how deeply AI tools are being embedded into the operations of leading AI companies themselves.",
+      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "topics": ["Anthropic", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Anthropic clamps down on Claude's AI video game clones",
+      "summary": "Anthropic has moved to restrict Claude from being used to generate clones of existing video games, tightening its content policies around the model's generative capabilities. The move reflects growing scrutiny over how AI coding and generation tools can be used to replicate copyrighted works.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "topics": ["Anthropic", "AI ethics", "content policy"]
+    },
+    {
+      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+      "summary": "OpenAI has proposed a Grid Protectors Program in which its data centers would act as distributed power assets capable of supporting grid stability and protecting surrounding communities. The initiative reflects the scale of energy infrastructure OpenAI is developing and its ambitions beyond pure AI research.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "topics": ["OpenAI", "AI infrastructure", "AI compute"]
+    },
+    {
+      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
+      "summary": "The New York Times has filed a lawsuit against Brave, alleging the browser's AI features scrape NYT content and circumvent its paywall. The case adds to a growing body of legal action by publishers against AI-adjacent tools over copyright and unauthorised content use.",
+      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "topics": ["legal", "copyright", "AI scraping"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "OpenAI prepares security sprint to harden its systems",
+      "summary": "OpenAI has announced a forthcoming internal security sprint aimed at strengthening its defences, alongside an expansion of its bug bounty programme to reward external researchers who identify vulnerabilities.",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "topics": ["OpenAI", "AI safety", "cybersecurity"]
+    },
+    {
+      "title": "OpenAI rewarding defenders with bigger bug bounties",
+      "summary": "OpenAI has increased the rewards available through its bug bounty programme as part of a broader effort to incentivise external security researchers to identify and report vulnerabilities in its systems.",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "topics": ["OpenAI", "AI safety", "cybersecurity"]
+    },
+    {
+      "title": "The agentic web is here [Metered]",
+      "summary": "MIT Technology Review reports on the emergence of the agentic web, in which AI agents autonomously browse, interact with, and act on information across the internet on behalf of users.",
+      "url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "topics": ["AI personal assistant", "large language models", "generative AI"]
+    },
+    {
+      "title": "Hundreds of Mundane AI Apps Are Hiding Sexually Abusive Deepfake Features [Metered]",
+      "summary": "Wired reports that a significant number of seemingly ordinary AI applications conceal features capable of generating sexually abusive deepfake content, raising serious concerns about platform safety and the regulation of AI-powered tools.",
+      "url": "https://www.wired.com/story/hundreds-of-mundane-ai-apps-are-hiding-sexually-abusive-deepfake-features/",
+      "topics": ["AI ethics", "technology ethics", "content policy"]
+    },
+    {
+      "title": "How can research platforms deal with the 'slop' deluge?",
+      "summary": "Academic and research platforms are grappling with a flood of low-quality AI-generated content, raising questions about research integrity and how publishers can detect and filter AI-produced submissions.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPejhZaF9pcndjVTZ4ek1yZlRCTEJNMmxIYWJsM2lQemNBSXA5ZzRXX0ZjRElaaVp1akkzM2hkWlo2b0RrUVlmcXNLWE9mRnZFWTd6ZDJsRXVXOXhyVG1iQWJENzBlUUlTdFRaMlQ0Vzcwczl4aVlTS2d1LUlJd1J2QkI2b1pQV09KTkZDNWhFRQ?oc=5",
+      "topics": ["academic publishing", "research integrity", "AI detection"]
+    },
+    {
+      "title": "Egoless Mathematics in the AI Era",
+      "summary": "Mathematician Terence Tao reflects on how AI is reshaping collaborative mathematical research, arguing that the field may need to adopt a more collective, less ego-driven approach to knowledge creation in response to AI capabilities.",
+      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "topics": ["generative AI", "academic publishing", "AI ethics"]
+    },
+    {
+      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+      "summary": "Oracle has filed to raise $20 billion through new stock and bond issuances to fund its expanding AI infrastructure investments, signalling continued large-scale capital commitment to AI compute capacity.",
+      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    },
+    {
+      "title": "When You Should—and Shouldn't—Use AI to Search the Web [Metered]",
+      "summary": "Wired examines the practical trade-offs of using AI-powered search tools versus traditional search engines, outlining scenarios where each approach is more or less appropriate for users.",
+      "url": "https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/",
+      "topics": ["AI search", "large language models", "user interaction"]
+    },
+    {
+      "title": "Import AI 479: Spacewar; low-latency tasks versus LLMs; Genie 4",
+      "summary": "Jack Clark's Import AI newsletter covers new research on low-latency task performance versus large language models, Google DeepMind's Genie 4 world model, and other developments across AI research.",
+      "url": "https://importai.substack.com/p/import-ai-479-spacewar-low-latency",
+      "topics": ["large language models", "generative AI", "AI research"]
+    }
+  ],
+  "ethan_mollick": null
+}
