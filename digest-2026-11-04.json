@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Google Researchers Demand Freedom to Speak Out About AI",
+      "summary": "Google DeepMind staff are protesting a lifetime ban on publicly criticising the company, demanding the right to share what they know about AI with the world. The dispute highlights growing tension between AI researchers and corporate restrictions on speech. The protest raises significant questions about transparency, AI ethics, and the accountability of major AI developers.",
+      "url": "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company/",
+      "topics": ["AI ethics", "AI safety", "generative AI"]
+    },
+    {
+      "title": "OpenAI Says ChatGPT Is Catching Up to Google in Search",
+      "summary": "OpenAI has claimed that ChatGPT is narrowing the gap with Google in the search market, signalling a significant shift in how users find information online. The statement underscores the growing competitive pressure on Google's core search business from AI-powered alternatives. ChatGPT's rise in search is seen as a bellwether for broader changes in the AI industry.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "topics": ["OpenAI", "AI search", "generative AI"]
+    },
+    {
+      "title": "US Tech Giants' Hidden AI Debt Swells 90% to $3.2 Trillion in Six Months",
+      "summary": "The off-balance-sheet financial commitments of major US technology companies tied to AI infrastructure have surged 90% to $3.2 trillion in just six months, according to Nikkei Asia. The rapid accumulation of AI-related financial obligations is raising concerns among analysts about systemic risk and the sustainability of current investment levels. The figures add to a broader debate about whether the AI investment boom is creating conditions for a future financial correction.",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "topics": ["AI infrastructure", "AI industry", "AI compute"]
+    },
+    {
+      "title": "Google Is Entirely Disabling Search in Schools That Don't Want AI",
+      "summary": "Google has announced it will fully disable its Search product for schools that opt out of AI features, rather than offering a non-AI version. The move, detailed in a blog post on Google's education updates, is drawing attention for effectively tying access to Search to acceptance of AI tools in educational settings. The policy raises questions about choice and the role of AI in schools.",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-learning-era-updates-2026/",
+      "topics": ["AI governance", "AI ethics", "generative AI"]
+    },
+    {
+      "title": "Google DeepMind Launches Agentic Cheminformatics Tool: Google Antigravity",
+      "summary": "Google DeepMind has published a blog post introducing Google Antigravity, an agentic AI system designed for cheminformatics tasks in scientific research. The tool represents a step toward autonomous AI agents capable of conducting complex chemical analysis and research workflows. The announcement reflects DeepMind's continued push into applying large language models and agentic AI to scientific domains.",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "topics": ["generative AI", "large language models", "AI industry"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Apple Starts Giving Siri AI Access to Third-Party Apps",
+      "summary": "Apple has begun rolling out Siri integration with third-party apps, expanding its AI personal assistant capabilities as the company pushes deeper into AI across its product line.",
+      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "topics": ["AI personal assistant", "generative AI", "large language models"]
+    },
+    {
+      "title": "Meta Publishes Details on F3 Lightning: Accelerating Ads ML to Production at Scale",
+      "summary": "Meta's engineering blog details F3 Lightning, a system designed to dramatically speed up the deployment of machine learning features for ads from development to production.",
+      "url": "https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/",
+      "topics": ["advertising", "large language models", "AI industry"]
+    },
+    {
+      "title": "Netflix Will Show Themed Recommendations Through a New 'AI Discover' Tab",
+      "summary": "Netflix is introducing an AI-powered discovery tab that will surface themed content recommendations, expanding its use of AI to improve personalisation for viewers.",
+      "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+      "topics": ["AI personal assistant", "generative AI", "business"]
+    },
+    {
+      "title": "OpenAI Is Quietly Renaming Data Centers 'Compute Campuses'",
+      "summary": "OpenAI has begun rebranding its data centre facilities as 'compute campuses', a subtle shift that may reflect the company's evolving identity and the scale of its infrastructure ambitions.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+      "topics": ["OpenAI", "AI infrastructure", "AI compute"]
+    },
+    {
+      "title": "Here's Why You Shouldn't Use AI to Vote [Metered]",
+      "summary": "Wired reports on the risks of using AI tools to make or inform voting decisions, citing concerns about misinformation, bias, and the limits of AI political reasoning.",
+      "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+      "topics": ["AI ethics", "bias", "technology ethics"]
+    },
+    {
+      "title": "Postman Silently Auto-Installs AI Plugins and Attempts to Share All API Data",
+      "summary": "A GitHub issue details how Postman, a popular API development tool, was found to silently install AI plugins and attempt to upload all API data, raising serious user privacy concerns.",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "topics": ["user privacy", "AI ethics", "technology ethics"]
+    },
+    {
+      "title": "The Biggest Modding Site in PC Gaming Takes a Stance on AI",
+      "summary": "Nexus Mods has announced a formal policy on AI-generated content, requiring creators to disclose when AI tools have been used in their mods.",
+      "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "topics": ["content policy", "generative AI", "AI ethics"]
+    },
+    {
+      "title": "Apple Is All In on AI — Its Own and Everyone Else's",
+      "summary": "Apple's Q4 earnings reveal the company is investing heavily in its own AI capabilities while also integrating third-party AI, signalling a broad strategic commitment to generative AI across its ecosystem.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+      "topics": ["generative AI", "AI industry", "business"]
+    },
+    {
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "summary": "Researchers have published a new primer on arXiv offering an accessible mathematical introduction to the foundations of generative AI, aimed at broadening understanding of the field.",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "topics": ["generative AI", "large language models", "academic publishing"]
+    },
+    {
+      "title": "The AI Bubble Monitor",
+      "summary": "CEPR has launched an AI Bubble Monitor tracking indicators of financial excess in AI investment, providing a data-driven resource for assessing systemic risk in the sector.",
+      "url": "https://cepr.net/publications/ai-bubble-monitor/",
+      "topics": ["AI industry", "AI infrastructure", "business"]
+    }
+  ],
+  "ethan_mollick": null
+}
