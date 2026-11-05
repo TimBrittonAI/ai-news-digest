@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Advocate General Szpunar clarifies when AI chatbots infringe press publishers' rights",
+      "summary": "CJEU Advocate General Szpunar has issued an opinion in the Like Company case, warning that AI chatbots such as Google's Gemini may breach EU press publishers' neighbouring rights when reproducing news content in summaries. The opinion sets out the conditions under which such reproduction would fall outside permitted exceptions, potentially exposing AI companies to significant copyright liability across the EU. As a non-binding but influential opinion, it is likely to shape the Court's forthcoming ruling.",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWERaNnlDdXFXWGF6UURVekVocFIyUFg1bDQzVTRBMjZ1NGJZVXNfcTM2TlViYzJ0QmNNRzFQdjVLdHh1VTI0SV9IV1FFVWlURVAzTC1maDNzN3VCal9iZ3duTWdILVNkMFdZQkpISHFXWHBFZXVxSGF4aWRnamJYWjZZNUdmQTYtLVhtNGs2bUNBMGJWd2FwQUZ4NXZqT1ZWYnE1VFp4UnhiM3BoUkdFcU5TQ18tekZZcUtTWEtqbmQtYnZvZENrb1FLeFh0b2toaWRUYWpRaG8zUlVLYWRhT2FOT3BnNnM",
+      "topics": ["AI copyright", "EU law", "press publishers"]
+    },
+    {
+      "title": "Cate Blanchett and Creative Groups Seek to File AI Licensing Brief in OpenAI Copyright Case",
+      "summary": "Cate Blanchett and a coalition of creative industry groups are seeking to file an amicus brief in the ongoing OpenAI copyright case, arguing that AI licensing is both feasible and necessary. The move follows a similar filing by the Creative Artists Agency (CAA), which also argues that workable licensing frameworks already exist. The interventions aim to counter OpenAI's fair use arguments by demonstrating that the market for licensed AI training data is real.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd09ubEVnTmFiZGJFdjJFYmlKOXFPa244YlhvY0JHT3lBRUFQS0lkRFdlOXp3SXV1ZEFOZUtCSUJHbjRrdlZEcmgzN2xtRVl6NXo3ckJiTDZXMzhOWkZDWDdBaFhOX0ZUcy1sQlo2RHk4RElDYllCT1c3Y0daQVpzYmJVYzRJaHB0cDltOTVHNjcyNkVnRWhv",
+      "topics": ["AI copyright", "licensing", "litigation"]
+    },
+    {
+      "title": "Creative groups back New York Times in AI copyright case against OpenAI and Microsoft",
+      "summary": "A broad coalition of creative and media organisations, including Hollywood groups, has filed support for the New York Times in its copyright lawsuit against OpenAI and Microsoft. The groups argue that AI companies' use of copyrighted content for training without authorisation causes direct harm to rights holders and undermines licensing markets. The case remains one of the most closely watched AI copyright disputes in the US.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXhFU1NLaDhtYXFaTmp3bWdvZWFIU3VWaFpUbGpZTHJvMEh4Y1FxNmhhQzNQSTFQUmJnUXNUMXlIQXVZSFVmNHNmZDFqLVUxbzNwTHJ2cVlNRXlCLTlKZGhQTTVaZEwzTGNaTnVjQzNla3owNEdqXzFUSFRMNkRwelgyX0VGbmtCT2t5Rm01YkpJX19UNWc",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "The New York Times Sues Brave Software Over Paywall Bypass And AI Copyright Claims",
+      "summary": "The New York Times has filed a lawsuit against Brave Software, alleging that Brave's browser and AI features scrape and reproduce publisher content in ways that bypass paywalls and infringe copyright. The case adds to a growing body of litigation targeting AI-adjacent tools that aggregate or summarise news content. Multiple outlets have covered the filing, reflecting its significance to the broader publisher-versus-AI ecosystem.",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcTVGQ0xQeGNqekJJWkVaRkl0bmNySFNWbDZBUUV3ZHRBaVRaSlA0QmdvYlE1ZVRWZEdNdTZ6Rml0OHlUc3JwWVdQRXpubzVBSXNJLTEyTS1iVnF2VlBlOGxrSTZlSmFONUVTMGNETWNSM3JJOVlHRmZPMXQ3S3pXWHJMZDJQbVFhVjZRUm9FSUxha19SVm5pbUtYTGdSaVlmbUJ5dC1QUlVoQ0NLck50QlZiQXJIVVV1VE1YUzc0c002ZU1WMkY1OUxJdEYxZjAxN2V1enF6T3JHd2NrX2cxeDZrTlp0OW5OSFE",
+      "topics": ["AI copyright", "litigation", "news publishing"]
+    },
+    {
+      "title": "Oxford University Press Tests Connecting Its Content to ChatGPT Edu [Metered]",
+      "summary": "Oxford University Press is piloting an integration that connects its academic content directly to ChatGPT Edu, OpenAI's education-focused platform. The test explores how licensed publisher content can be surfaced within AI tools in an authorised, structured way. The move is significant as a potential model for licensed AI content access in academic publishing.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/101680-oxford-university-press-tests-connecting-its-content-to-chatgpt-edu.html",
+      "topics": ["academic publishing", "licensing", "AI tools"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "First Reflections on AG Szpunar's Opinion in Like Company",
+      "summary": "IPKat provides early analysis of the Advocate General's opinion on AI chatbot reproduction of press content, examining what the ruling could mean for neighbouring rights across the EU.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZmN5NGpkV0Fnd1dpM1A5bVpDRl9HN1Z1aW1LQm1VaFlablRIYmFCcHhHWVl0aGI4c1hseXNfcFQ5eUZqVVV2eWpRN0tGenVyM1cwUVI2U0VzblE1NGJ5WEFhUEhGdDhLM3JrYll1SWxoZkZEbmdOWTlxMjU2U2hCVnR5VUpYMFMzVnUtRmp4ai1hcUlucEUtTndBTmdRX3pIcU43TnVqSEdWaVR3Y1E",
+      "topics": ["AI copyright", "EU law", "press publishers"]
+    },
+    {
+      "title": "AI Co. Suno Seeks Toss Of Musicians' Claims It Copies Styles",
+      "summary": "AI music company Suno is seeking dismissal of claims brought by musicians alleging that its model unlawfully reproduces their musical styles, in a case that could clarify the boundaries of copyright protection for style and sound.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdVpfT3RWWG5oS1N5YkdvUWlTQmZVT0FDVEMxV0RaQ3FfcWZTTzB2aVlEUFpoekhxWjBvOVdIdGhKSmNsaVFZVnRmeWVNQ1RYcUZNdlI5RHNMbXhqbEdQS0djUkJRS0VLYTZGUGRqYjJxak56M3lKVE84X1VpdGJNeFJiRmZiUjlRa0hUVjhLQU51TllETnd1RmYyRTBHdw",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "AI Company Seeks New Hearing In Copyright Battle With Thomson Reuters",
+      "summary": "An AI company is requesting a new hearing in its ongoing copyright dispute with Thomson Reuters, keeping alive a case that has significant implications for whether AI training on legal databases constitutes fair use.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTkhVUEt1ZHdkc3R5SlF2OEx2WE9XQS1Zck84SFJReWx6SVBERC1RQW9ObVMtSEZ3QW1DWmZoQjZFVk1pLWV0Z2FLQnhFWmFXOTJyQk5Rai1nTzJwTldieHdGTHBrUVEzcEdYVDBHZFhGWWt0N09lV285alRrbzZlTkx0VTdsRFNjd2lqQjlSdF9oN3N1cFFLbGRMWnY2ZElaS2N4UXF4aHp5M0o0Ync",
+      "topics": ["AI copyright", "litigation", "legal publishing"]
+    },
+    {
+      "title": "LG Uses AI to Vet Copyright Risk in AI Training Data, 45 Times Faster",
+      "summary": "LG AI Research has developed a system using its EXAONE Nexus model to identify copyright and privacy risks in AI training datasets, reportedly reducing verification costs to a fraction of previous levels.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUG90ZmpGWlNkUE1LTENMV3Q2TVdsMkFvZWRwcGRYc1htYzB1alBkRmFCVzg1c2doU0RGeDByM0MtTEZMYlhHbWRVX0gwU3hZTGJ6MkJ1aGl1MTZ2OThfYTR2dEd6dDI4bnNaY1lucFJJNko4VFBDeE1ta2NfZlN3cThBNTRFMExkYm9R",
+      "topics": ["AI copyright", "testing", "software"]
+    },
+    {
+      "title": "Boies Schiller No Longer Class Counsel in Meta AI Training Suit",
+      "summary": "Law firm Boies Schiller has been removed as class counsel in the Meta AI training copyright lawsuit, marking a significant procedural development in one of the major ongoing cases against a large AI developer.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa2l4aGJEVXJzdG1BN043YzlQVk5IUGRFVW9RZDFZdkVLaTVXQUpRaGFfOGJVVFNYZTNrOFZWNG5WUTRLRFVKX2xaNDVNekY2ajJWWXotckxWVmszQ19LQThlRWZ1bU1YVjQ4VE1xUTVJS0NESjAxR29uU0g0UmlQZGUwNmxtM0hYX2RxcmNiRFJIREMyY2JPVkJWc0lMTkxWVXc",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Disney has fought AI firms over copyright. Now it's testing AI lyric videos",
+      "summary": "Disney, which has taken a strong stance against unauthorised AI use of its IP, is reported to be internally testing AI-generated lyric videos, highlighting the tension between IP enforcement and AI adoption within major media companies.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSlZveXdsUDVUeWJhUV9QT01RbmNBb0JxRUdBc1RPeVBrQk45bXdnOEQ3VXZPQjVVai1nMTlmNWpBNkJUODlfazJEeTlZYjJNMDlJTF9oWjRyRDk3eVZYaUpYcHFrbWdoenZIUnVkUGNKRVBOR1AwTy1zVVNMQ01Qbjk4dGZtdzRJdzZUREFYNDYxWkNDWDNsa2Z4ZjVLb0J6SzFZS2I0RFJUNkpz",
+      "topics": ["AI copyright", "licensing", "media"]
+    },
+    {
+      "title": "From AI Adoption to AI Practice: Building Governed AI in Scholarly Publishing",
+      "summary": "The Scholarly Kitchen examines how academic publishers are moving beyond ad hoc AI adoption toward structured governance frameworks, with implications for how copyrighted content is managed within AI-assisted workflows.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/11/04/from-ai-adoption-to-ai-practice-building-governed-ai-in-scholarly-publishing/",
+      "topics": ["academic publishing", "AI tools", "policy"]
+    },
+    {
+      "title": "Harvey partners with trio of Italian legal publishers to expand legal content coverage",
+      "summary": "AI legal research platform Harvey has announced partnerships with three Italian legal publishers to expand its licensed content base, reflecting growing momentum for formal licensing arrangements between AI companies and specialist publishers.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS2pxUVNxeW4xRDJtTDFqdzNMVTgyM0tuUVJ2UmJVX1VYNnhpWVM4NGJ0UGxPdmtKVXQ0U05IVXFjTTZMTDhzOUdUU25uUWdpdXRiYUxUNHppU0tpOFp3c0JYZFdDX3BSUzlJU3BUTkpYaWFsbXN0OXNDRVNkQjF3VDVuNWtITExWNkpvbU1nWmpfb2NEYk5QdkE3cVFWVy1DVUxiNDFfOVhTQmp1dHMwTk85NHdoVWpmRFBNNDd3LVJGZmFNZmxCX2tLU3I",
+      "topics": ["licensing", "legal publishing", "AI tools"]
+    },
+    {
+      "title": "YouTube gives creators 4 AI tracks to clear music copyright claims",
+      "summary": "YouTube is offering creators four AI-generated music tracks that can be used to replace copyrighted audio and clear Content ID copyright claims, expanding its toolkit for managing AI and music rights on the platform.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNDg0T2FPRV93bGJ2R3dRUHZVaWVLSjlhQlctQVpvTGk2aC1WUHYtcFl0YS15dnZlUHpzelNJNXdpTmJmM3JxYzFHSHVObVRMR01ZNGhWSHpSbmpURTN0N1F5RU80c1hDVVFzUFkxOW1VV0d3b3hYNDktWVV0ZjMzclFTeGdZTVlzbDk3",
+      "topics": ["AI copyright", "music", "licensing"]
+    },
+    {
+      "title": "All the news, none of the clicks: can AI chatbots bypass publishers?",
+      "summary": "An analysis of how AI chatbots that summarise news content are reducing traffic to publisher websites, examining the economic and legal tensions between AI companies and news organisations.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbFZhdUcwczB5dHMxOXNaeXBNZ2NLc0pMSVAtTTBmcmcxYkFMR1Q5dGpwLWh6a0NzTUc5WUdnWWhXV3A5eDN3dHc5Z1VaODNPYksweGtkc3lHUzZzY2QtTWhxX2VES2FCYU1nb1pBSm9DWVUyb3VvOERIbXhFTTFvd3VXbzR3YXNwTUdlMUFoTDNodTBNNzd2NGFTaURYRkRjVlVKMVJ3S0YyS3N6SzVadTUxVkQ",
+      "topics": ["AI copyright", "news publishing", "policy"]
+    }
+  ]
+}
