@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Claude AI can plug directly into your bank account",
+      "summary": "Anthropic has integrated Claude AI with Plaid, allowing the assistant to connect directly to users' bank accounts and personal financial data. This marks a significant step toward AI personal finance management, enabling Claude to analyse spending, transactions, and financial behaviour. The move raises both capability and privacy considerations for consumers using AI assistants.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "topics": ["Anthropic", "AI personal assistant", "user privacy"]
+    },
+    {
+      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
+      "summary": "OpenAI has launched a new cybersecurity-focused AI model, GPT-6 Cyber, which the company says is specifically designed to avoid offensive hacking capabilities while improving defensive security applications. The release highlights ongoing tensions in the AI safety space around dual-use models. OpenAI claims improved safeguards distinguish this model from general-purpose predecessors.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "topics": ["OpenAI", "AI safety", "large language models"]
+    },
+    {
+      "title": "Ads in Chatbots Have Arrived. Here's What's Working—and What's Not [Metered]",
+      "summary": "Advertising is beginning to appear inside AI chatbot interfaces, with brands and platforms experimenting with formats ranging from sponsored answers to product placements within conversational responses. The article examines early results, noting that some formats are resonating with users while others are being ignored or generating backlash. The monetisation of chatbot interactions is emerging as a significant battleground for the AI industry.",
+      "url": "https://www.wired.com/story/ads-in-chatbots-have-arrived-heres-whats-working-and-whats-not/",
+      "topics": ["advertising", "chatbots", "AI industry"]
+    },
+    {
+      "title": "Big Tech's big AI buildout will not end until someone stops it",
+      "summary": "Amazon, Microsoft, Alphabet, and Meta all reported massive ongoing capital expenditure on AI data centres in their Q3 earnings, with no signs of slowing investment. The article analyses how competitive pressure is driving continued spending even as questions mount about near-term returns. Analysts note that the AI infrastructure arms race appears self-reinforcing among the major players.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    },
+    {
+      "title": "Perplexity launches its own take on AI agents for work",
+      "summary": "Perplexity has launched Teammates, a new suite of AI agents designed to handle workplace tasks such as research, drafting, and information retrieval. The product positions Perplexity as a competitor in the enterprise AI assistant market alongside tools from OpenAI and Anthropic. The launch reflects the growing race to move AI search capabilities toward autonomous, task-completing agents.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "topics": ["AI personal assistant", "generative AI", "AI industry"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+      "summary": "Tencent has released Hy4, a new open-source large language model the company claims ranks among the world's leading models in its class.",
+      "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+      "topics": ["large language models", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "summary": "Google DeepMind has released Gemini Omni 1.2 Flash, a faster and more cost-efficient multimodal model with extended video clip processing capabilities.",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "topics": ["large language models", "generative AI", "AI video"]
+    },
+    {
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "summary": "OpenAI is moving away from requiring non-disclosure agreements for its data centre projects, a shift that could increase transparency around its infrastructure expansion plans.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "topics": ["OpenAI", "AI infrastructure", "AI industry"]
+    },
+    {
+      "title": "Cult.fit builds operational muscle with Codex",
+      "summary": "OpenAI's blog details how Indian fitness company Cult.fit is using Codex to automate internal operations and software development tasks at scale.",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "topics": ["OpenAI", "AI coding tools", "generative AI"]
+    },
+    {
+      "title": "Airbnb is working on an AI travel agent",
+      "summary": "Airbnb has confirmed it is developing an AI-powered travel agent, expected to launch by Q3 2026, designed to assist users with end-to-end trip planning.",
+      "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "topics": ["AI personal assistant", "generative AI", "business"]
+    },
+    {
+      "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him [Metered]",
+      "summary": "Wired profiles Evan Ratliff, who has built a career in adversarial AI testing and red-teaming, and is now being courted by major AI companies to help identify risks in their systems.",
+      "url": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
+      "topics": ["AI safety", "AI ethics", "AI industry"]
+    },
+    {
+      "title": "Australian universities are creating AI-native graduates",
+      "summary": "OpenAI's blog outlines how Australian universities are embedding AI tools and literacy into curricula to produce graduates with native AI competencies.",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "topics": ["AI ethics", "generative AI", "OpenAI"]
+    },
+    {
+      "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work [Metered]",
+      "summary": "A drug discovery AI startup is using generative models to bypass traditional laboratory experimentation, aiming to dramatically accelerate the identification of new pharmaceutical compounds.",
+      "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work/",
+      "topics": ["generative AI", "AI industry", "research integrity"]
+    },
+    {
+      "title": "The Download: Texas's fragile AI boom and energy policy shifts [Metered]",
+      "summary": "MIT Technology Review examines how Texas's rapid AI infrastructure expansion is creating energy supply vulnerabilities, and how shifting US energy policy could affect the state's dominant position in AI compute.",
+      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "topics": ["AI infrastructure", "AI compute", "AI governance"]
+    },
+    {
+      "title": "Aina's Smart Ring Wants to Be a Remote Control for Your AI Agent [Metered]",
+      "summary": "A startup called Aina has developed a smart ring designed to serve as a physical interface for controlling AI agents, integrating gesture-based commands with AI assistant functionality.",
+      "url": "https://www.wired.com/story/aina-smart-ring/",
+      "topics": ["AI personal assistant", "generative AI", "technology ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
