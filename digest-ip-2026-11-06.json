@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Advocate General Szpunar clarifies when AI chatbots infringe press publishers' rights",
+      "summary": "The CJEU's Advocate General Szpunar has issued a detailed opinion clarifying the conditions under which AI chatbots — including Google's Gemini — may infringe press publishers' neighbouring rights when reproducing or summarising news content. The opinion addresses whether AI-generated news summaries fall within protected acts and sets out strict limits on permissible reuse. This is a significant guidance ahead of a full CJEU ruling.",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWERaNnlDdXFXWGF6UURVekVocFIyUFg1bDQzVTRBMjZ1NGJZVXNfcTM2TlViYzJ0QmNNRzFQdjVLdHh1VTI0SV9IV1FFVWlURVAzTC1maDNzN3VCal9iZ3duTWdILVNkMFdZQkpISHFXWHBFZXVxSGF4aWRnamJYWjZZNUdmQTYtLVhtNGs2bUNBMGJWd2FwQUZ4NXZqT1ZWYnE1VFp4UnhiM3BoUkdFcU5TQ18tekZZcUtTWEtqbmQtYnZvZENrb1FLeFh0b2toaWRUYWpRaG8zUlVLYWRhT2FOT3BnNnM",
+      "topics": ["AI copyright", "eu law", "press publishers"]
+    },
+    {
+      "title": "COPYRIGHT NEWS—European Advocate General: AI training can fall within copyright exception",
+      "summary": "The CJEU's Advocate General has issued an opinion indicating that AI training on copyright-protected works may qualify under existing EU copyright exceptions, potentially offering legal cover for AI developers under the text and data mining provisions. The opinion also signals limits on that exception where rights holders have opted out. This opinion will inform a binding CJEU ruling.",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVTlrXzFrRVhucUJKRG1zc3VhZkdSUlR3U2ZBZG1lLTJiYmVqSzd4NzJLOGtVaE9oVzBERFQ2alVjRGlhNDNSQnVFUzVqNEVYZ3pLQjh6dHdFc3BJZnhEZVpzSlZick1BSnRzcnJySUFuTHd5Y0JtTmhtMHBLWWZLVTVTVEo4SEpiOENVWGhWWE1rQXd1YmZQdGRCVktoMmVEYVlORUZxcWE4V056OFNuLUJJZC0wNlhqMnRvV1NTek5qUm93MWllQXpZa1laY3ZaWE9nRk5pdHo2MUtfYjk2WC1LdTFSZ2g2Tkt5aQ",
+      "topics": ["AI copyright", "eu law", "licensing"]
+    },
+    {
+      "title": "Cate Blanchett and Creative Groups Seek to File AI Licensing Brief in OpenAI Copyright Case",
+      "summary": "Cate Blanchett and a coalition of creative industry groups are seeking to file an amicus brief in the ongoing OpenAI copyright litigation, arguing for fair licensing frameworks that would compensate rights holders whose works are used to train AI systems. The move adds high-profile cultural weight to the legal argument that AI training requires authorised licensing. The case is closely watched as a potential precedent-setter for the creative industries.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd09ubEVnTmFiZGJFdjJFYmlKOXFPa244YlhvY0JHT3lBRUFQS0lkRFdlOXp3SXV1ZEFOZUtCSUJHbjRrdlZEcmgzN2xtRVl6NXo3ckJiTDZXMzhOWkZDWDdBaFhOX0ZUcy1sQlo2RHk4RElDYllCT1c3Y0daQVpzYmJVYzRJaHB0cDltOTVHNjcyNkVnRWhv",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "The New York Times Sues Brave Software Over Paywall Bypass And AI Copyright Claims: how 15 outlets framed it",
+      "summary": "The New York Times has filed suit against Brave Software, alleging that Brave's browser and AI features bypass its paywall and reproduce copyright-protected content without authorisation. The case adds to a growing body of AI copyright litigation involving major news publishers and raises questions about AI summarisation of paywalled journalism. The report analyses how fifteen news outlets covered the story.",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcTVGQ0xQeGNqekJJWkVaRkl0bmNySFNWbDZBUUV3ZHRBaVRaSlA0QmdvYlE1ZVRWZEdNdTZ6Rml0OHlUc3JwWVdQRXpubzVBSXNJLTEyTS1iVnF2VlBlOGxrSTZlSmFONUVTMGNETWNSM3JJOVlHRmZPMXQ3S3pXWHJMZDJQbVFhVjZRUm9FSUxha19SVm5pbUtYTGdSaVlmbUJ5dC1QUlVoQ0NLck50QlZiQXJIVVV1VE1YUzc0c002ZU1WMkY1OUxJdEYxZjAxN2V1enF6T3JHd2NrX2cxeDZrTlp0OW5OSFE",
+      "topics": ["AI copyright", "litigation", "press publishers"]
+    },
+    {
+      "title": "Creative groups back New York Times in AI copyright case against OpenAI and Microsoft",
+      "summary": "A coalition of creative industry groups has filed in support of the New York Times in its copyright lawsuit against OpenAI and Microsoft, arguing that unlicensed use of published works to train AI models constitutes infringement. The intervention signals broad creative sector solidarity with publishers in AI training disputes. The case remains one of the most significant pending AI copyright actions in the US.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXhFU1NLaDhtYXFaTmp3bWdvZWFIU3VWaFpUbGpZTHJvMEh4Y1FxNmhhQzNQSTFQUmJnUXNUMXlIQXVZSFVmNHNmZDFqLVUxbzNwTHJ2cVlNRXlCLTlKZGhQTTVaZEwzTGNaTnVjQzNla3owNEdqXzFUSFRMNkRwelgyX0VGbmtCT2t5Rm01YkpJX19UNWc",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "AI Co. Suno Seeks Toss Of Musicians' Claims It Copies Styles",
+      "summary": "AI music company Suno has moved to dismiss claims brought by musicians alleging that its model unlawfully reproduces musical styles, in a case that tests the boundaries of copyright protection for style and sound.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdVpfT3RWWG5oS1N5YkdvUWlTQmZVT0FDVEMxV0RaQ3FfcWZTTzB2aVlEUFpoekhxWjBvOVdIdGhKSmNsaVFZVnRmeWVNQ1RYcUZNdlI5RHNMbXhqbEdQS0djUkJRS0VLYTZGUGRqYjJxak56M3lKVE84X1VpdGJNeFJiRmZiUjlRa0hUVjhLQU51TllETnd1RmYyRTBHdw",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "'A Vast Landgrab': ICMP Weighs-In on Big AI's Australian Copyright Battleground",
+      "summary": "The International Confederation of Music Publishers has intervened in Australian AI copyright policy debates, characterising AI companies' use of unlicensed creative works as a large-scale appropriation of intellectual property.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQmd3blh0TV9aMEpqUnV1b1JwRG9oTFVncHExdW1MQUlPNnk5dDRzQ1pxMG9HR0w3RG1LTXQ2cUt6cTlhcXI3akFndHFaeTRxQkdlUHV4blQxQ3RiMXlSbG5BTjNidUFhQ2F0X3RUeWQycnNGZnNOeWVTX2VWUnpBYUpEemNyV3JXOWh5Y3lB",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "LG Uses AI to Vet Copyright Risk in AI Training Data, 45 Times Faster",
+      "summary": "LG AI Research has developed an AI system called EXAONE Nexus that can identify copyright and privacy risks in AI training datasets at a fraction of the cost and time of human review.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdHBzLUluelV6TG1RVkNCVWFjb0lwX0I5aXdNM195SkI5TUVuRXV6cUVlVWNxeXgwN1pBUTJoZ3dQdldXVHE3Q2JtNl90WmVmUUtMX0ltTUQzQjZoVXhFc1l6UmJia0pwdmxVZjAxMnYyN05iWHpCeUJQSlgyWTB2bFFOUmZPaVRWZWVRcVdIbGUycFRTa0dySkctVnNvQQ",
+      "topics": ["AI copyright", "testing", "software"]
+    },
+    {
+      "title": "Can AI Copy an Actor's Voice Without Permission and Is It Legal?",
+      "summary": "An analysis of the legal questions surrounding AI voice cloning of performers, examining whether existing copyright and personality rights frameworks provide adequate protection for actors.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObTBlNlJyX0d4RkVZOG9ma0I5T1g3eXAtQWZYbXdIUEtQTHMtSHhjRFBENzBrQ1NscVl4a185NklPLW5URTdpZU1lTVVaSmI1X0ZfTzB6TktVb1ItOTdKd3JNWVNYU3FfUDd1QmJnZDJGWWdDSzlOTEFjSW4xT0QtZlBYTHBqb3pNdU1OSHNWdm1QOTR0ZEphek1GNA",
+      "topics": ["AI copyright", "policy", "legal services"]
+    },
+    {
+      "title": "All the news, none of the clicks: can AI chatbots bypass publishers?",
+      "summary": "An examination of how AI chatbots that summarise news articles are affecting publisher traffic and revenue, and whether existing copyright law provides effective remedies.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbFZhdUcwczB5dHMxOXNaeXBNZ2NLc0pMSVAtTTBmcmcxYkFMR1Q5dGpwLWh6a0NzTUc5WUdnWWhXV3A5eDN3dHc5Z1VaODNPYksweGtkc3lHUzZzY2QtTWhxX2VES2FCYU1nb1pBSm9DWVUyb3VvOERIbXhFTTFvd3VXbzR3YXNwTUdlMUFoTDNodTBNNzd2NGFTaURYRkRjVlVKMVJ3S0YyS3N6SzVadTUxVkQ",
+      "topics": ["AI copyright", "press publishers", "licensing"]
+    },
+    {
+      "title": "AI is normalising the theft of school photos",
+      "summary": "A report on how AI image tools are being used to reproduce and manipulate school photographs without consent, raising concerns about copyright and privacy protections for minors.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5maVgwbDZQTjJZYVdubHItTVl4MWlYODhxbHNUbHpWQm5OSjk0YlRYT0xzRWVfVnYzSERRTy02TXFBWlI4bmk3ZlZxUzQwS2FmUXE4QWVWUnhSVE8tOXNuZmI0aTVGVi1OSXlVTEZqenVNbjVTbXBEZnVvVQ",
+      "topics": ["AI copyright", "policy", "software"]
+    },
+    {
+      "title": "YouTube gives creators 4 AI tracks to clear music copyright claims",
+      "summary": "YouTube has introduced four AI-generated music tracks that creators can use as replacements to resolve copyright claims on their videos, as part of its ongoing effort to manage music licensing disputes on the platform.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNDg0T2FPRV93bGJ2R3dRUHZVaWVLSjlhQlctQVpvTGk2aC1WUHYtcFl0YS15dnZlUHpzelNJNXdpTmJmM3JqcWMxR3NIdU5tTEdMWTRoVkh6Um5qVEUzdDdReUVPNHNYQ1VRc1BZMTltVVdHd294WDQ5LVlVdGYzM3FRU3hnWU1Zc2w5Nw",
+      "topics": ["licensing", "AI copyright", "music"]
+    },
+    {
+      "title": "Harvey partners with trio of Italian legal publishers to expand legal content coverage",
+      "summary": "AI legal research company Harvey has announced partnerships with three Italian legal publishers to integrate their content into its platform, expanding its jurisdiction-specific legal knowledge base.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS2pxUVNxeW4xRDJtTDFqdzNMVTgyM0tuUVJ2UmJVX1VYNnhpWVM4NGJ0UGxPdmtKVXQ0U05IVXFjTTZMTDhzOUdUU25uUWdpdXRiYUxUNHppU0tpOFp3c0JYZFdDX3BSUzlJU3BUTkpYaWFsbXN0OXNDRVNkQjF3VDVuNWtITExWNkpvbU1nWmpfb2NEYk5QdkE3cVFWVy1DVUxiNDFfOVhTQmp1dHMwTk85NHdoVWpmRFBNNDd3LVJGZmFNZmxCX2tLU3I",
+      "topics": ["legal services", "licensing", "software"]
+    },
+    {
+      "title": "HarperCollins Posts 9% Revenue Gain in Q1 [Metered]",
+      "summary": "HarperCollins reported a 9% increase in revenue for its first quarter, driven by strong frontlist performance, in results that reflect wider trends in trade book publishing.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/101701-harpercollins-posts-9-revenue-gain-in-q1.html",
+      "topics": ["book publishing", "licensing"]
+    },
+    {
+      "title": "Commission turns to artificial intelligence to write better laws",
+      "summary": "The European Commission is piloting AI tools to assist in drafting and reviewing legislation, raising questions about the role of automated systems in the EU's regulatory and lawmaking processes.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdHBzLUluelV6TG1RVkNCVWFjb0lwX0I5aXdNM195SkI5TUVuRXV6cUVlVWNxeXgwN1pBUTJoZ3dQdldXVHE3Q2JtNl90WmVmUUtMX0ltTUQzQjZoVXhFc1l6UmJia0pwdmxVZjAxMnYyN05iWHpCeUJQSlgyWTB2bFFOUmZPaVRWZWVRcVdIbGUycFRTa0dySkctVnNvQQ",
+      "topics": ["eu law", "policy", "software"]
+    }
+  ]
+}
