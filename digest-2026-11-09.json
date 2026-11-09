@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "summary": "OpenAI has reached a valuation of $1.25 trillion in its latest funding round, cementing its position as one of the most valuable private companies in the world. Meanwhile, competitor Anthropic is reported to be approaching an IPO, signalling a broader maturation of the generative AI industry.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "topics": ["OpenAI", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "summary": "A report from METR on Anthropic's AI systems has raised concerns among researchers about the pace at which AI is beginning to automate its own development process. The findings suggest AI tools are increasingly capable of contributing to AI research tasks, a development some see as a critical safety threshold.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "topics": ["Anthropic", "AI safety", "generative AI"]
+    },
+    {
+      "title": "Nvidia is investigating Jensen Huang's relationship with a Chinese spy",
+      "summary": "Nvidia has launched an internal investigation after reports that a Chinese intelligence operative sought to cultivate a relationship with CEO Jensen Huang. The company's board issued a formal statement, and Huang sent an internal memo to staff, both of which have been published in full by The Verge.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "topics": ["AI industry", "AI governance", "AI infrastructure"]
+    },
+    {
+      "title": "AI is dramatically accelerating AI research",
+      "summary": "A new analysis on Planned Obsolescence examines how AI tools are increasingly being used to speed up AI research itself, drawing on the recent Anthropic METR report and broader trends. The piece argues this feedback loop represents a qualitative shift in how quickly AI capabilities may advance.",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "topics": ["generative AI", "AI safety", "research integrity"]
+    },
+    {
+      "title": "Microsoft Researcher John Langford Exits as AI Frontiers Group is Declared Finished",
+      "summary": "Prominent Microsoft researcher John Langford has left the company following the closure of Microsoft Research's AI Frontiers group. Langford confirmed the news on his own blog, marking the end of a research unit that had been a significant part of Microsoft's long-term AI research efforts.",
+      "url": "https://hunch.net/?p=13764006",
+      "topics": ["AI industry", "large language models", "leadership"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "World Models Will Soon Be Inescapable. Here's What You Need to Know [Metered]",
+      "summary": "Wired explains what 'world models' are in AI — systems that build internal simulations of reality — and why they are becoming central to the next wave of AI development.",
+      "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "topics": ["large language models", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Apple is racing to make Siri more agentic",
+      "summary": "Apple is reportedly accelerating efforts to give Siri agentic capabilities, allowing it to take multi-step actions across apps and services rather than simply responding to individual queries.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "topics": ["AI personal assistant", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Free Chinese AI Models Are Getting Scary Good at Hacking [Metered]",
+      "summary": "Wired reports that freely available Chinese AI models are demonstrating increasingly sophisticated cybersecurity offensive capabilities, raising concerns among security researchers.",
+      "url": "https://www.wired.com/story/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "topics": ["large language models", "AI safety", "AI ethics"]
+    },
+    {
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "summary": "Rights holders for Elvis Presley and Eminem have filed a lawsuit against AI music generation platform Suno, alleging copyright infringement through the cloning of artists' voices and styles.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "topics": ["copyright", "generative AI", "AI ethics"]
+    },
+    {
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It [Paywalled]",
+      "summary": "The Wall Street Journal reports that despite enthusiastic claims from AI companies about transforming drug discovery, many pharmaceutical CEOs remain sceptical about AI's near-term impact on curing disease.",
+      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "topics": ["AI industry", "generative AI", "business"]
+    },
+    {
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "summary": "The Verge reports that US export controls allowed Nvidia to sell chips to what turned out to be an empty office in China, raising questions about the effectiveness of government oversight of AI chip sales.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "topics": ["AI governance", "AI compute", "AI regulation"]
+    },
+    {
+      "title": "New Open-Source Tool Aims to Make AI Paper Writing Transparent",
+      "summary": "A new open-source tool has been developed to increase transparency in how AI is used in the writing of academic papers, addressing growing concerns about undisclosed AI use in research.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeGVvWWM5LVNVdVhUa2szZGoxWU1JLXdZSmFOekp6TkxVSFlUcVcxdUhBYlBsRVo3OUtIamx3djYtNzRaS1ZfdkdSZnZ1blVmdk5rZF9xazZ3RTFpblUxdUE3aHFaQjNiTUdmTmFTODh2eE1ISUdOcUEyYkxQcXlFaVBfTjBhbGNnTkZjbW1vWVM?oc=5",
+      "topics": ["academic publishing", "AI detection", "research integrity"]
+    },
+    {
+      "title": "AI broke the cybersecurity world. What's next?",
+      "summary": "The Verge podcast features security expert Alex Stamos discussing how AI has fundamentally disrupted cybersecurity, what the current threat landscape looks like, and what defenders need to do next.",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "topics": ["AI safety", "AI ethics", "technology ethics"]
+    },
+    {
+      "title": "DARPA wants AI to find hidden flaws in digital markets that adversaries could exploit",
+      "summary": "DARPA has launched a programme seeking AI systems capable of identifying hidden vulnerabilities in digital financial markets that could be exploited by adversaries to cause economic disruption.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWmZacnV6RkNNRUU1RXBuem9ORjk1UWtYSDdPclpRTlhtT3U0WjNVaVJNMGctVTNndmFZZFIxXzhuR1VSOVBKQ1N5M0ZHbU5OVVRHaFIzZmVyNFJqVS1UQ3JCcGRQaUZhNU1TT0R1c3N0bmpBMHNycWVULTFZUjlJMnZHQ3dJY3diU3NBc0Rqc2o?oc=5",
+      "topics": ["defense", "AI governance", "AI industry"]
+    },
+    {
+      "title": "AWS' Colleen Aubrey: Stop inventing new AI metrics — it's your business metrics that matter",
+      "summary": "An AWS executive argues that companies should stop measuring AI success with AI-specific metrics and instead tie AI performance directly to core business outcomes.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTF9zM25UVmYyZVl1bllSRGw5MU9XOGkyNGxFMm00YmdXbENCNlc5cFdkcDdZdTRBS3V2N2RfWi10NjlMczZYRTlRbmFGRG1ua3JWaHpRLTdGOGdINVV4cl9LOFZtOWltM3ZNLUFaMTFTZVgxVnpvYmhKTi1TaDlTLUNtdWprMEU0RHVkNkRIMUZKMTFLbzIyZjlvY3lreWhMTlcyTVFXWmdJZWZsM3p2OF9lcUl0dFpZSjFUTXRBTGs?oc=5",
+      "topics": ["business", "AI industry", "generative AI"]
+    }
+  ],
+  "ethan_mollick": null
+}
