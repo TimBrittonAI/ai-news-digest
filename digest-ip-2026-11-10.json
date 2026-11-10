@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Elvis Estate and Eminem Publisher Sue Suno in Escalating AI Music Copyright War",
+      "summary": "The Elvis Presley estate and Eminem's publisher Eight Mile Style have filed separate lawsuits against AI music generator Suno, alleging the platform cloned Presley's voice and used copyrighted music without authorisation for AI training. Eight Mile Style is seeking $41 million in damages. The cases mark a significant escalation in legal action against AI music platforms over copyright violations.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT0JHUVZXNnctYlJXcl9ndDZsQzZjYWs4Z1ZDSzRIamZERU9XbnJNVEx4bXFldmZWUDJxNmt0ak9NMlp0SEpWNUYxUm1ZLVdFdGc1UVdUWUtVN0lBd0ViZ0ZaNzh1aTlqX3ZhY0FGYWtmLXlBUW5UWFJjRXNQM1lZLS1qRWdnNWdieFc0?oc=5",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "US law professors urge court to reject blanket fair-use exemption for AI training",
+      "summary": "A group of US law professors has filed a submission urging a court to reject any blanket fair-use defence for AI training on copyrighted material. The intervention signals growing academic opposition to broad exemptions for AI developers and could have significant implications for ongoing and future AI copyright litigation.",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOHRkWmdIcHRqdjRIMGU2T0RHbEgyVEZYNHFrZHhqektZR0RtcDd1Q05VRU93VkVRalNEbTZVSm4tc1BUOW1IMkhhRnVYb3JtRjNYWm5DWnhPSVBxaHU4Z3YzanBiSTJ2aDU0aVFjQlRLY0w3QUlpZmRNWGlSZnpfeXhNNngtWGN2a05BdnJTcGRZOUhHSHdIRWhPaXd1cHl2QWNoVURKeUxMVVh6RDJFSkp6Sl81SG8zRjk0NDhBYmplRW5SS0R6dEFDV2JJaU5MbjliU0tSUmJwcUJvd3hLOXV2aGtiR1Y?oc=5",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "Google's Gemini may breach publishers' rights, top EU court adviser warns",
+      "summary": "A top adviser to the EU's Court of Justice has warned that Google's Gemini AI may infringe press publishers' neighbouring rights, in a case that could significantly affect how generative AI platforms handle news content. The opinion follows a broader EU legal push examining AI liability for reproducing published material without licensing agreements.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaWM2X19fYi1vZDZsZnBVVG9lUG9pczFzQlhlMWJPZGhvcmZ3UFN0N2M3XzJPdTROTWJkclNFdWJiUmhFWEpvQnZSV3ZJQjRmT0RpbXlsTS0zci1MQmdhMnZjdE9FVU1FVTR4aDRERE96UXJyZUpwSk5BeUkxenFVT015TERHQXRxeEd2SG5BX3ZzdDVuYkN6cTdoRGFlUTQwNW85X01Ub0E?oc=5",
+      "topics": ["AI copyright", "EU law", "licensing"]
+    },
+    {
+      "title": "Grok Draws 3 Copyright Suits Over AI Training With Books",
+      "summary": "xAI's Grok has become the target of three copyright lawsuits alleging its AI was trained on books without authorisation. The cases add to a growing wave of litigation targeting large language model developers over their use of copyrighted written works in training data.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORzQ1N05vRXB3UVY3RlgzUmlxLTIwd0F4WnQ4SnZmN3ZDc0RTMjFEbFJ6RjdKcnlRV0trakU1a3IzWENvcUF4X0ptZi1XbnJ0OE1ycngyakFLamZwNE81MDM5WHlVbF9mZWh0NmptN1pjTWI4OC1acEgyNnNtWDRFcXB4UnNpcTBlMkdoVThNaTlaUXlxRXlCVDBxMW3SAVZBVV95cUxPdXF2WldhanVaRXY0MVA0SUtoVEhaNUswblFEd3RlZTdrWXpveGs1aEtiNGJJdzgtNTJwcld1bG9tR3R4SW11WkY1MW5URng0a0pkUk9xdw?oc=5",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "Weakening AI copyright law will spell 'disaster for creativity', global music body warns Albanese",
+      "summary": "A global music industry body has warned Australia's Prime Minister that weakening copyright protections to accommodate AI training would be disastrous for creative industries. The intervention is directed at ongoing Australian policy discussions around AI and copyright exceptions, mirroring similar debates in the UK and EU.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDlndU1UMXdLUldHa3o2VGVFY3lweExocnppTzgzaUt4WUVjNzZZcUNOVVlDZlFxTFllVTZId2Z1eG5vb012c1czQnY3V1Q4UC1sVUVCbWZvdWZjR3Bkc0hubkp3c3hTSTdfaVRuTlFWVzJCX2EzNXFxbnkzZnAzcVprVkFjMkhMVFYwZUVkQmRLbXlJMDBwYXByM0JTU2pma0Y0ZlNoRjhFNTJyOFIzQldMVlRoUUVlZ3Zqa3ctUQ?oc=5",
+      "topics": ["AI copyright", "policy", "music"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "How a press publisher's case against Google could alter genAI liability",
+      "summary": "Analysis of how the EU press publisher case against Google's generative AI tools could reshape liability rules for AI platforms that reproduce or summarise published content.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT2JueG51ODZ6aDBtUTJ4Vk1CS08xRkVndm5mZHFqX0E2UmNhOFcxdGlGUFhGbTFLSG9kaVBqMmM5Xzktb2l0QnNHWmdqYUhMWEF5aVV6M2RJNGpVcXozbDhrZ2hHYm5uZkNNY0U4MkxscTB4SDA4clZrbW9uSjVKLUVFS1BfZkxYS25uMkl0SDVrN0dZNGtTeG9qWk8zNkh1a3l2S0NoUTc3dm9kbzVB?oc=5",
+      "topics": ["AI copyright", "EU law", "licensing"]
+    },
+    {
+      "title": "Suno Moves to Dismiss Jason Isbell's AI Music Lawsuit, Cites Free Speech",
+      "summary": "AI music platform Suno has sought to dismiss a copyright lawsuit brought by musician Jason Isbell, arguing the case raises free speech considerations.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaGNYd0FCRm1vdVczbGhpYlRJd05WMHQweWd3eUVUWWJhSW5ucXJVZHZhVzY1UjhIZ0k1MWQxdGo1WDNWV2ZLbDlJUHN5bU9wZXpfazlMT2xNVTVNekJaTGx2bnZ4STJYdmtkSXRvOVlMLTE5OU4wZGM2RVBKTkNZdjhtdUFWclNaUWs3RWN1a3NNNFZlYjFzdA?oc=5",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "Meta halts web-scraping terms after publisher protests",
+      "summary": "Meta has withdrawn proposed terms of service that would have enabled expanded AI data scraping following significant pushback from news publishers.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQckpwVTRSdndxeFd6VkZnWUlQaU1XUUowcmphY0trMXdZQmc1czdMM0dpWlZwWmxlUC10eWlVMElRQjd4WUlfQzJjenRSSkZxdUlUN1MtSTRkZ0ZNZVZ3QlRqTzNxM1prMHpXdlg0NnI4VUxNa2FJZV9ha1B1cnVWVzk2emg1RHFrU3ZOZ2lCU2YyeXM?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "Publishers Press AI Firms to Compensate Journalism",
+      "summary": "News publishers are increasing pressure on AI companies to establish compensation frameworks for the use of journalistic content in AI training and outputs.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVDU4VGlVYnVseFlac2hkeDhTY3BUZXVRTlB4S1Zzcy1wbWp0S2ViNTV0ejEyQjhuV1hsQ0NDbFZRRVF6YXB5NmJXVFdHbFRLV1JCTUlEVmdpVjEzVDMtREpNRUFyYVNzdGpaNWNRTkNuWU9KNklnMllyTVM2NW9tN1hCbkRfSHdtLXA2cmFfUGplOE9IQnQ5aEJfTlF6WFp1enJVWFhQaFE?oc=5",
+      "topics": ["AI copyright", "licensing", "academic publishing"]
+    },
+    {
+      "title": "Why Getty's appeal won't address all UK AI copyright questions",
+      "summary": "Legal analysis explaining the limits of Getty Images' UK appeal against AI image generators and the broader unresolved questions around AI copyright in British law.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWDYxckJBM0F4ZFBrcG5ITHdiUGhhVHFXajFIWVBvNWY1Wk4yNllkaUk0dndnNU1Jc0NBVVdZSTRTT3J6ZEVwSjRFNW1QWGlmUW5uYVVWNmtkOTZNUW9CaWJUXzdrQzd0LWVmVjVIMVJYV1U5aVNaNktYRFpXMXNTc09GQlRPSFYya2x5cWh1WmRvU2FMZm5jWDFfYWZiZHdES3p5Ng?oc=5",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "Why AI Inputs, Training and Outputs Demand Different Legal Rules",
+      "summary": "Legal commentary arguing that the inputs used to train AI, the training process itself, and AI-generated outputs each raise distinct copyright issues that require differentiated legal treatment.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNckRuYWxjNW5HZmZST09udVJjUHNJOUxMVlI1SHE4OUgxamFWVm9VWGV2bVpzMVVZSFRZSFNZQldhUXNTQ1lzM3pueU1JNkJlTllsWmRRSFVvbndBYW9QNGVtZ2lUS0E5VDZBSGJ3TUZ1a0wwRHRWaUxYamFtQ3hXQ3dXVU4yU0RGaUh6cERTSl9fWmNidUtv?oc=5",
+      "topics": ["AI copyright", "policy", "litigation"]
+    },
+    {
+      "title": "Copyright Suits Over AI Training Continue With Latest Surge Against Meta",
+      "summary": "A new wave of copyright lawsuits targeting Meta over its use of copyrighted content for AI training continues to grow, adding to the mounting legal pressure on major AI developers.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQWlDNmQ5RFRMSllHS3VGMUtTdVc5VUhmYy1GZHptOHNsQkI3a0N6RnFuM2N6THdwNU9qZ3hJejFScERERUl1aVdlbEV4YjhHSmhnUzZHNFhrSzZCNzE2TzNfRDg3UWd3UGxQcVNPZ2Z0LWM3Z0tNUmdLN3d3UnFaM3dfRkMzU25vczBjYjlnWVUzVk1waHRSUnlWa1B6ZHE5MUwyVzNqTWVYWXQ3NFdvWlY0LU5yc1k?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Saudi Arabia's new copyright law could be a boon for Arabic-language models",
+      "summary": "Saudi Arabia's updated copyright legislation may create favourable conditions for the development of Arabic-language AI models by clarifying how training data can be used under local law.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQm5kUnNWNUJOR2tPVlNfNHM1b0NOcUFqY2tLWVlqbnJsa21YdGJzSU5KU3ZQc1pocmtNdXU4aDNZY2V4UDFJYTdJcVA3MlEtU1VqT2VwUXg3U3A5Q3NxaGtLZ1Z4SzFPVXluTXBRYTlpUWRtWFlKb2oyQllEZEZ4QnRyMWtuaDl0a1dRTFBUMlBXRE56M0dIeVl2NVRGbUlnTzhYR3Z2R1d4T3ZwSkdyX05vSk4?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "AI answers rely on journalism. Who gets paid?",
+      "summary": "An examination of the commercial and ethical questions around whether and how AI platforms should compensate news publishers whose journalism informs AI-generated answers.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80QVhvQkctSW5hSjgyVHg4Rlp5dk5zc1lscThGclU1ZUxRNllub2RnR3Y4a25EVngzNEZZZS1ITHBLZll3RlEwY3diTGpnN0VaYXgySjhjZ3I1NHVDd1JmWUtET3JsUl9IZ09ZMENSSWJWYXlhR1JJ0gF3QVVfeXFMT1ZzNFB0VjkyTHJEYkZPUm9LdEUxX1huR1U1ZkxfRWxtZEdRM3h4V1hjUGZYaVp4RlVpRUtheDBQLXhjTzZ5TWtpR2VrT0F1TVRPZ3NBQzNyclBKaDNLaGhvY2UzcnFZdWpHQUhjdU9JV0x0dUc4Ync?oc=5",
+      "topics": ["AI copyright", "licensing", "academic publishing"]
+    },
+    {
+      "title": "Musicians pressed to recreate AI tracks so firms can secure copyright",
+      "summary": "AI music companies are reportedly asking musicians to recreate AI-generated tracks in order to establish copyright ownership, raising new questions about authorship and IP strategy in the generative music space.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOXVtQlJ3ZDBxb2V2TE85aGR3dG9OSmtrQ2J2TUVQdEQ2Y0dxLWt3b2ZvUFhhU1hHS3JEWElHYWlHYThmNlZ4TWlhWWJKT1RHblpmcS00T3FNV0h5OENORDJvWW9XbjcwMmIyOUYxRUhueVVJUG9Xa0tZQ1RrdU5jaFVweEJiOFRsdEotbWdyeEpvY0Z6OGpvSWZvNDdPZmdaUFFBY1dIZVltN2sxdmFfMzFxNnNuaEVpSGdYeGJmVQ?oc=5",
+      "topics": ["AI copyright", "music", "licensing"]
+    }
+  ]
+}
