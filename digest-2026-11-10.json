@@ -1,0 +1,101 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI Introduces Control Room for Human Oversight of AI Workloads",
+      "summary": "OpenAI has launched Control Room, a centralised system designed to give humans the ability to track and stop AI model workloads across its research infrastructure. The tool is positioned as a mechanism for maintaining human control over AI operations. This represents a concrete step toward operationalising AI safety practices at scale.",
+      "url": "https://openai.com/index/introducing-control-room",
+      "topics": ["AI safety", "OpenAI", "AI governance"]
+    },
+    {
+      "title": "Anthropic Launches Claude Fable and Mythos 5.2 Models",
+      "summary": "Anthropic has released two new Claude models, Fable and Mythos 5.2, expanding its model lineup. The launch is covered alongside commentary from Ethan Mollick's Substack on what 'Jagged AGI' means for the capabilities frontier. The new models signal continued rapid iteration in Anthropic's generative AI offerings.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "topics": ["Anthropic", "large language models", "generative AI"]
+    },
+    {
+      "title": "ChatGPT Enterprise Now Available in AWS Marketplace",
+      "summary": "OpenAI has made ChatGPT Enterprise available through the AWS Marketplace, making it easier for businesses already using Amazon's cloud infrastructure to procure and deploy the product. The move extends OpenAI's enterprise distribution reach significantly. It reflects the growing importance of cloud marketplace channels for AI product sales.",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "topics": ["OpenAI", "ChatGPT", "AI industry"]
+    },
+    {
+      "title": "Everything We Know About the Nvidia Spy Scandal Targeting CEO Jensen Huang",
+      "summary": "A sprawling controversy has emerged around Nvidia CEO Jensen Huang, involving allegations of a foreign espionage attempt and reports that Huang hired a PR firm known for handling sex scandals. The situation has drawn attention from the White House, with Trump commenting publicly on what he knew about Huang. The story has significant implications for the AI chip industry and US-China technology tensions.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "topics": ["AI industry", "AI infrastructure", "generative AI"]
+    },
+    {
+      "title": "Google DeepMind AI Tool Formally Verifies the Signal Protocol Is Secure",
+      "summary": "A new AI tool from Google DeepMind has formally verified the cryptographic security of the Signal Protocol, which underpins encrypted messaging used by millions worldwide. The achievement demonstrates AI's potential to assist with rigorous mathematical proof in security-critical systems. It marks a notable advance in applying AI to formal verification tasks.",
+      "url": "https://www.wired.com/story/a-new-ai-tool-from-google-deepmind-formally-verified-the-signal-protocol/",
+      "topics": ["AI", "generative AI", "AI safety"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Trump's 60 Minutes Interview Touched on AI Safety and Threat to Arrest an AI Exec",
+      "summary": "President Trump discussed AI safety and made remarks about potentially arresting an unnamed AI executive during a 60 Minutes interview, raising questions about the administration's approach to AI governance.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+      "topics": ["AI regulation", "AI safety", "AI governance"]
+    },
+    {
+      "title": "Nancy Pelosi's Replacement Is Ready to Regulate AI [Metered]",
+      "summary": "The congresswoman stepping into Nancy Pelosi's seat has signalled a strong interest in AI regulation, positioning herself as a key figure in upcoming legislative debates on the technology.",
+      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "topics": ["AI regulation", "AI governance", "legal"]
+    },
+    {
+      "title": "The Climate Case for AI Has Not Been Made [Metered]",
+      "summary": "MIT Technology Review argues that despite industry claims, there is insufficient evidence that AI's potential climate benefits outweigh its significant energy and environmental costs.",
+      "url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+      "topics": ["AI infrastructure", "AI industry", "AI ethics"]
+    },
+    {
+      "title": "Jonathan Kanter Is Using AI to Take on Big Tech",
+      "summary": "Former DOJ antitrust chief Jonathan Kanter is deploying AI-powered legal tools to pursue cases against large technology companies, signalling a new front in tech regulation.",
+      "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
+      "topics": ["legal", "AI", "AI ethics"]
+    },
+    {
+      "title": "Authors Can Defend Against AI Allegations With 'Paper Trail' Tools — But Is It Enough? [Metered]",
+      "summary": "New tools are emerging to help authors document their creative process and defend against accusations of using AI-generated content, though questions remain about their effectiveness and reliability.",
+      "url": "https://www.wired.com/story/authors-can-defend-against-ai-allegations-with-paper-trail-tools/",
+      "topics": ["AI detection", "research integrity", "academic publishing"]
+    },
+    {
+      "title": "Disney and Adobe Are Building Generative AI Tools Together",
+      "summary": "Disney and Adobe have announced a partnership to develop generative AI creative tools, combining Disney's content expertise with Adobe's established creative software ecosystem.",
+      "url": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "topics": ["generative AI", "AI industry", "advertising"]
+    },
+    {
+      "title": "Apple's $50 Intelligence Usage Packs Extend Access to Some AI Features",
+      "summary": "Apple has introduced $50 'Intelligence Usage Packs' that allow users to access additional AI features beyond what is included in standard subscriptions, marking a new monetisation approach for Apple Intelligence.",
+      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "topics": ["AI", "generative AI", "AI industry"]
+    },
+    {
+      "title": "CoreWeave Bond Yield Tops 16% as AI Credit Stress Rises",
+      "summary": "CoreWeave's bond yields have surged past 16%, reflecting growing investor concern about credit risk in AI infrastructure financing as capital costs mount across the sector.",
+      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    },
+    {
+      "title": "NVIDIA and Partners Reveal How Robots Rehearse Delicate Work in Simulation",
+      "summary": "At the CoRL conference, NVIDIA and research partners showcased advances in robotics simulation that enable robots to practise precise physical tasks in virtual environments before deployment in the real world.",
+      "url": "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+      "topics": ["AI", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Redefining How We Measure Scholarly Impact",
+      "summary": "A new article examines how academic publishing is rethinking its metrics for measuring scholarly impact in an era increasingly shaped by AI-generated and AI-assisted research.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaW1Pc3pzR3ZmTmd4TzJzVkQ4X1V0QzhQRFY5MU1udHJIaWtNSThEdkxaRndwZWEya1B5QjNZNFFsMXRlZkdwaEpFM2ZlZkxlckV1aWd3eml5Z3plbldJNWpqUjVkRU1MS3l5dW1LWGVDSkxXNXVlWmtEaC1IdWxOSUFMOXpOaTc3N2ppV0h0eVp6aGRDZHFfTTdFQ2RSQQ",
+      "topics": ["academic publishing", "research integrity", "AI"]
+    }
+  ],
+  "ethan_mollick": {
+    "title": "Fable 5.2 and Jagged AGI",
+    "summary": "Ethan Mollick reflects on the release of Anthropic's Claude Fable and Mythos 5.2 models, using them as a lens to explore the concept of 'Jagged AGI' — the uneven and unpredictable nature of advancing AI capabilities. He examines what it means when AI systems excel dramatically in some domains while remaining limited in others, and what that implies for how people and organisations should think about working with AI at the current frontier.",
+    "url": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi"
+  }
+}
