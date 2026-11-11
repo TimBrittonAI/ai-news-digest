@@ -1,0 +1,84 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Elvis Presley Estate and Eminem Publisher Sue Suno Over AI Training and Voice Cloning",
+      "summary": "Elvis Presley Enterprises and the publisher of Eminem's catalogue have filed suit against AI music generator Suno, alleging violations of copyright and Tennessee's ELVIS Act through unauthorised cloning of voice likenesses and use of music for AI training. The case marks a significant escalation in legal action against generative AI music platforms, combining traditional copyright claims with emerging personality-rights legislation.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSWgxZWJ0cFpYWC1nSHIxSC12cXRwMlJxZFFyQ0xIaE5lMFVwaldKQXdZRDF5UGM5WWVmdng1Uk1VSDhRcklPazF2REFNVVhERHIxWE1PbTB6ekZPdkdOOGwzTXRpcjcyVXBCczdJTFZxcWNrYU41dk84MzNpUUw1ZE8tWm4wRFlHdlRYN3I3X05zM1o0MWQxa1djanEtYnpTbjNuV29EcF9SQ0xqZkptYk1HNjdVV3YwbTZCbnpCMC1sSlZlUXfSAcoBQVVfeXFMUEVWLXotWmczam1VOFpxQ0lPdFFhVFdFbDZCdkRqaWZPOEFSdU96Um0zNE41ODRuUlpVdGVhNDdNeG43dk1OVUJDdVkwQnlYVEV5UVlqaEpfS1FYdHF1TE1BOEFlWWVRWG5tU0hTc193M1lPWVhPMlFSamtVbGpsZzgzN3FGQUNtWWlhMXVIUEZ6Z2pHdER1M3pwRDdLOGloa1BMWEdQVG0wZm9oMDVJcGF0TWdSVlhhTnVHYTVJdHBIQllIbkVFTFJvdw?oc=5",
+      "topics": ["AI copyright", "litigation", "music rights"]
+    },
+    {
+      "title": "US Law Professors Urge Court to Reject Blanket Fair-Use Exemption for AI Training",
+      "summary": "A group of US law professors has filed submissions urging a court to reject arguments that AI training on copyrighted material should be treated as a blanket fair use. The intervention signals growing academic opposition to broad industry claims that training large models automatically qualifies for copyright exceptions.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQnBwRmw3N25yak5vZHhrQ0lURVNqcl9OZEkxcVJZV1Y5SWN2UHhrRDR2bFNMWTlDcVItWDlXUWFCcnRVaGlyUGx4dEg0d2x1eE9icHh6eWlnSkdsZkRpVkFaTHVoZm8tb0JQczk1VVkyeEZWQzdHZ1g0dXg3LUlfeTVRanhvU1V0SGFMcG5MNHhOamwwekxTaGNoNlVnbm5qNEIzV0ZkU0dreHdHeUVxOTYtSllWaDlGNFpDWE9lcDJ4Ui1WREtPT0RPeW9wdkNIS0E?oc=5",
+      "topics": ["AI copyright", "litigation", "fair use"]
+    },
+    {
+      "title": "Mistral Pushes Back on New AI Copyright Proposals, Sparking Outcry from Creatives",
+      "summary": "AI company Mistral has publicly opposed new copyright proposals that would require AI developers to license training data, drawing sharp criticism from creative industry groups. The dispute highlights ongoing tensions in Europe between AI developers seeking broad training freedoms and rights holders demanding compensation.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03c2NxbVlldDU5XzFJUmpjdS1yT2p1U0dXRzFac0V3LVFyXy1sM1Uya2d3a3VlWjF2c0FCLThzN2MteUpMZXdwNzhCVndnQTI3Z2x6RklKNEdZUE9UTFpwYTdMVGctZ2VCWFE?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "Court Orders Pirate Site WeLib to Pay Publishers $19.5 Million [Metered]",
+      "summary": "A court has ordered pirate ebook site WeLib to pay publishers $19.5 million in damages, in a significant enforcement action for the publishing industry. The ruling underscores ongoing efforts by publishers to combat large-scale digital copyright infringement.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101735-court-orders-pirate-site-welib-to-pay-publishers-19-5-million.html",
+      "topics": ["copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "Should AI Companies Pay for the Journalism They Use?",
+      "summary": "An analysis examines the growing debate over whether AI developers should be required to license or pay for journalistic content used in training data, as news publishers push for compensation frameworks. The piece surveys existing licensing deals and legal arguments on both sides of the dispute.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdmNxQTdzdjdsX0tMSmF5Q1d4SkpBTnQ2V180SnpBNV9wODJGR282akk0NXBKZ2JhR0FaOHc4aUQybWc2RkdXNDRlNFRZOGJYdk9GZUNtNVFDNHRRZ190VjBpN1ltSUpJN2tza09QQ0FHeWpuRW5XamNPXzZtV3lNejJSdDBSN2FaX2VvYmpqdXZTbkVmcnF30gGcAUFVX3lxTE15WE9IU1p4ZDdFOXJfNjk3UkFkZXFmMjZGcE9IRFZoakdZLU1Mb1Q5V0oyck9QNUtkc0lJQlVWTTVITXVQWDdoTVYwUkhUNjA4LXBVZmk1bTVjMFF6MVBQRW1NYzBhNVNaRDZvenV1Wk13V29sU19FSXluQ2dENmprcndVZWwwTUItZ3E1TmR6RU5XMXNzT0F3dVFNcQ?oc=5",
+      "topics": ["AI copyright", "licensing", "journalism"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "AI Developers Get Warning Shot With EU Google Opinion",
+      "summary": "A key EU legal opinion on Google's data practices has been interpreted as a warning to AI developers about the limits of lawful data use under European law.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTTNCMXEybXJaSmdkc1ozT2M0MUdnRWpkeVdjVlBjeEFzeTd5aTVrX0ViaGpxeXlrUGlxdWlKSkxHbkdibHpHV21XWTNaM19ZLWF2a09IN2NpYmdMcFRxMDV4WVh3dEUzaFIxSjhrTjZDTjV1V1VWNXJxUzlGXzdScFJYOHg2bHEtanhES2VWSDdoTGVVQWtVVEJR0gFWQVVfeXFMTUg3d3ozTVpDRzVjZVlFUXYwaEEtVldnLXRCd3d6a0NhN0Q4MmVNaUZhWU1DWlVYcHFNN3BtYWd3Wk9Qc2dSRjdwd05ldE44TVV0WHZkWFE?oc=5",
+      "topics": ["EU law", "AI copyright", "policy"]
+    },
+    {
+      "title": "Saudi Arabia's New Copyright Law Could Be a Boon for Arabic-Language Models",
+      "summary": "Saudi Arabia's updated copyright legislation may create favourable conditions for training AI models on Arabic-language content, with potential implications for the global AI licensing landscape.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRENzdVZIdFg5R25TUnVaWllMTEllc2JRdUFiTGRTcVVqQ1lFa193d3JrVTJWNEVaOVBYZFJxYi1rSjhubUpLSkYtaU9FWk9vcnJjNE5yZkFWQXl2ZmREdDNxcWJETXFMckRFNUtwNVI4V05Lb2FGcWhHSHktU1NlUjFJMVd3Zi02RlA3M0J1ckFPQldxWTVWeE4xMlpmZUlVeFh4VXhXaXRHNGFjaXVR?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "Libraries, Publishers, and the Users We Both Serve",
+      "summary": "The Scholarly Kitchen examines the evolving relationship between libraries and publishers in the context of AI tools and changing user expectations around access to content.",
+      "url": "https://scholarlykitchen.sspnet.org/2026/11/10/ai-and-the-users-we-serve/",
+      "topics": ["academic publishing", "AI tools", "licensing"]
+    },
+    {
+      "title": "AI Makes It Easy to Launch a Brand – and Copy Existing Ones",
+      "summary": "An analysis explores how generative AI is lowering barriers to brand creation while simultaneously increasing the risk of trademark infringement and brand copying.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVFYUWdubWs0OFZDYXNlRmRicmlrRW9GZzVqR2p5dXB3V0hmNnFsT25saF9ER1Q1Y01IdDZaMlo3ZHpMS2RWaGlWUW5zYU1kalVSSXlILWRqbHhNTzVRWmtQUVpzWlVzMEE4VXZGVFBybDRTWlFDbkwydkdlcUhDNUJ4UlJIMjlZWDlZTURaQWNWdw?oc=5",
+      "topics": ["AI copyright", "software", "trademark"]
+    },
+    {
+      "title": "Releasing a Game Demo? Legal Steps to Protect It from AI Clones",
+      "summary": "A legal guidance piece outlines the intellectual property steps game developers should take to protect demo releases from being replicated or cloned using AI tools.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUjJhazJkSVE1bkk1SURLNndzRk8tT3FQQ2RJYk5yODc2VVhhNzlEcFVMSmdVcTFPTzk4THRKZldPNHpSTXNrYjAwS0NYRDNxVE55VTQ4Xzl2ZEo2a29EMld0dUJIWWRmNVdxekFid2UzZ0Q5MEk1Wl9rejRIUWxWVHQ4aGl1WXgzekk2WFBmTm9OdUN1RE1sSHpvOUVKMDA0TkRSNW5WbFRna1NmX2J4dWt6X2h5T0tEY2MwZVlUZXQwdw?oc=5",
+      "topics": ["AI copyright", "software", "legal services"]
+    },
+    {
+      "title": "Beeban Kidron on the Art of Legislating AI and Big Tech – Parliament Matters Podcast",
+      "summary": "Baroness Beeban Kidron discusses her campaigning approach to legislating against Big Tech, including AI copyright protections for creators, in a Parliament Matters podcast episode.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wUERNdGNVZDVvMy1IeEZQaGhpT1czeWFQZnF6V1dGSW1JMmYybnE0LUtJNk15bll4Qk5XMl8xNWxrS29fNXV3Nlp2dG52WXozUmlKWm41azFpSXY0SGNram1nMExhMlZIYVdPVEg1N2ZEcmFidVlDZFJn?oc=5",
+      "topics": ["AI copyright", "policy", "EU law"]
+    },
+    {
+      "title": "ERRA Promotes Accessible Publishing and Copyright Protection at SIBF",
+      "summary": "The European and International Booksellers Federation (ERRA) used the Sharjah International Book Fair to advocate for stronger copyright protections and accessible publishing standards.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU2xFTzFQOVExMWhBWmlUd3dINzNoNV9vUkJSNG0wN1RjcmNYNWUyX01UWFNoNTM3czV3d2t2b2NjME5DUUtIQzJMNmFRaEtDSDR2T19fcDM0YVE1M29RNVZEZlNodXB2N0ZxRnliRmtHb3Zod291YWVGcWxqOElpSTN0VFh1NG9LM1BhN242RzM2UkpYajlyNkxkaWtpaVdjRnY1Z253NWFoRE5VTUVJ?oc=5",
+      "topics": ["book publishing", "copyright", "policy"]
+    },
+    {
+      "title": "UC Law SF Scholars Drive Solutions to AI Legal Challenges",
+      "summary": "Academics at UC Law San Francisco are developing practical legal frameworks to address AI-related intellectual property challenges, including training data rights and liability.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRnV4V0VmUmljQkUyLWFXemFYNDNoMUtfRGNMYjd3aDd2RkY4ZFMxZGhaNTI4bmxoQ1JiZTI4Qkk3bHlCTFVFenRlV0o5cm5BRC1SRWpKZ1Q1dXRCbEhaWU8zM1l0UHdrMHNNd0RYNHpKRHhOVW5oS1J2VVhFblFLWU0zRmxQZWp1dzRnYmhEWlJUVGlCYm9UWA?oc=5",
+      "topics": ["AI copyright", "legal services", "policy"]
+    }
+  ]
+}
