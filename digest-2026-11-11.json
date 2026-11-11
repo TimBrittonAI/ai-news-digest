@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Google releases Gemini 4 Carbon with agent 'swarm' feature",
+      "summary": "Google has publicly rolled out Gemini 4 Carbon, its latest AI model, which includes a new agent 'swarm' capability allowing multiple AI agents to collaborate on tasks. The release marks a significant update to Google's Gemini model family. Full details are available via Google DeepMind's official blog.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "topics": ["generative AI", "large language models", "Google"]
+    },
+    {
+      "title": "Anthropic has its own AI-powered office suite now",
+      "summary": "Anthropic has launched an AI-powered office suite, expanding its product offerings beyond its Claude chatbot. The suite is designed to bring AI assistance into everyday workplace tasks. The move positions Anthropic more directly in competition with Microsoft and Google in the productivity software space.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+      "topics": ["Anthropic", "generative AI", "AI industry"]
+    },
+    {
+      "title": "Anthropic targets $1.4 trillion IPO",
+      "summary": "Anthropic is reportedly targeting a $1.4 trillion valuation for a future IPO, signalling enormous investor confidence in the AI safety-focused company. The figure would make it one of the most valuable public offerings in history. The report underscores the scale of capital flowing into frontier AI development.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+      "topics": ["Anthropic", "AI industry", "business"]
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "summary": "OpenAI has announced a new 'Businesses' feature in ChatGPT, introducing verified AI Business Agents that users can interact with directly inside the platform. The feature is designed to let companies build and deploy agentic AI experiences within ChatGPT's interface. This represents a significant expansion of ChatGPT as a commercial platform.",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "topics": ["OpenAI", "ChatGPT", "AI industry"]
+    },
+    {
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "summary": "Google DeepMind has introduced AlphaProof Code, a new system designed to formally verify complex software, representing a significant advance in AI-assisted code correctness. The tool builds on DeepMind's AlphaProof line of research, extending formal verification to real-world codebases. The announcement signals a new frontier in using AI to improve software reliability and safety.",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "topics": ["generative AI", "AI safety", "large language models"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "The AI Safety Debate Has Lost the Plot. We Asked 10 Experts What the Real Nightmares Are",
+      "summary": "Wired canvasses ten AI experts on what they consider the genuine near-term risks of AI, arguing the public debate has become detached from the most pressing concerns. [Metered]",
+      "url": "https://www.wired.com/story/the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+      "topics": ["AI safety", "AI ethics", "generative AI"]
+    },
+    {
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceX",
+      "summary": "Ars Technica reports that xAI's Grok Build coding agent has been leaking confidential information, including data belonging to SpaceX, raising serious security and privacy concerns.",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "topics": ["AI coding tools", "user privacy", "AI ethics"]
+    },
+    {
+      "title": "Fireworks AI security breach impacts Notion and their customers",
+      "summary": "Notion has disclosed a security incident involving third-party AI vendor Fireworks AI, which affected Notion and its customers.",
+      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "topics": ["user privacy", "AI infrastructure", "generative AI"]
+    },
+    {
+      "title": "Tear Down Those Guardrails! Meet the Renegades Freeing Chatbots From Corporate Enslavers",
+      "summary": "Wired profiles a community of users and developers working to remove safety restrictions from commercial AI chatbots, raising questions about content policy and AI ethics. [Metered]",
+      "url": "https://www.wired.com/story/tear-down-those-guardrails-meet-the-renegades-freeing-chatbots-from-corporate-enslavers/",
+      "topics": ["AI ethics", "content policy", "chatbots"]
+    },
+    {
+      "title": "The Download: Pelosi's successor targets AI and data centers face power woes",
+      "summary": "MIT Technology Review reports on new congressional attention to AI regulation and growing backlash against data centres over their energy demands. [Metered]",
+      "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/",
+      "topics": ["AI regulation", "AI infrastructure", "AI governance"]
+    },
+    {
+      "title": "Adobe is going all in on agentic AI",
+      "summary": "Adobe announced at Max 2026 that it is deeply integrating agentic AI into its creative suite, including MCP support and an expanded Firefly assistant across its products.",
+      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+      "topics": ["generative AI", "AI industry", "advertising"]
+    },
+    {
+      "title": "OpenAI offers ChatGPT Plus free to US veterans and servicemembers",
+      "summary": "OpenAI has announced it will provide free ChatGPT Plus subscriptions to US military veterans and active servicemembers.",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "topics": ["OpenAI", "ChatGPT", "AI industry"]
+    },
+    {
+      "title": "Closing the AI guidance gap in education",
+      "summary": "OpenAI has published a piece on efforts to provide clearer AI guidance to educators and students, addressing a perceived gap in how educational institutions are supported in adopting AI tools.",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "topics": ["OpenAI", "AI ethics", "generative AI"]
+    },
+    {
+      "title": "The US is winning the AI race. Jensen Huang could have blown it",
+      "summary": "The Verge examines how Nvidia CEO Jensen Huang's alleged sharing of sensitive information put the US's AI lead at risk, amid broader concerns about the US-China AI competition.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "topics": ["AI industry", "AI governance", "AI compute"]
+    },
+    {
+      "title": "This New Linux-Based Desktop Operating System Is Built for AI Nerds",
+      "summary": "Wired profiles Kora, a new Linux-based desktop OS designed specifically for running and experimenting with local AI models. [Metered]",
+      "url": "https://www.wired.com/story/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+      "topics": ["AI infrastructure", "large language models", "generative AI"]
+    }
+  ],
+  "ethan_mollick": null
+}
