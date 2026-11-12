@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Who holds the data holds the power: Paris Court of Appeal upholds interim measures forcing Meta to negotiate with press publishers",
+      "summary": "The Paris Court of Appeal has upheld interim measures requiring Meta to enter into negotiations with press publishers over the use of their content, in a significant ruling on neighbouring rights. The decision reinforces the application of EU press publisher rights against major tech platforms and strengthens publishers' leverage in securing licensing deals for AI training data.",
+      "url": "http://ipkitten.blogspot.com/2026/11/who-holds-data-holds-power-paris-court.html",
+      "topics": ["AI copyright", "licensing", "press publishers"]
+    },
+    {
+      "title": "Eminem's Publisher Sues AI Platform Suno for Over $40 Million, Alleging 269 Songs Used for AI Training",
+      "summary": "Eminem's music publisher has filed a lawsuit against AI music platform Suno, alleging that 269 songs were used without authorisation to train its AI system, with damages sought exceeding $40 million. The case adds to a growing wave of music copyright litigation targeting AI training practices.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUERuOUFWT0JYaHJvRXpsLUpSSWh2ZjhQTldRVVpCOTlITUItSjNiODFyZ1ZoV2xTUjJ2N2NvX1hDZE1RNTlGMGE4aVpjcHdjcHlWZ3NHRE1iNmZCWDA5NGdtWV9CSmY3VFFIdkFUcTJwRnhUQV9QbWNONXpFajh5TnFYb3JoSllZYU45QXVKakZjSjRSNVM0UlBqcVgxcFNvSk1jdXdZMGlVYVktUnZ2THF1X2hLeFgxUlR4a192MUdYNFU5WGtVVkNvRnVOZw?oc=5",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "Elvis Presley Enterprises claims Suno violated Tennessee's ELVIS Act",
+      "summary": "Elvis Presley Enterprises has filed suit against AI music generator Suno, alleging violations of Tennessee's ELVIS Act — a law specifically designed to protect performers' voice rights against AI cloning — as well as copyright and licensing violations. The case is a significant early test of the new state-level legislation protecting AI-generated voice likenesses.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS2tiZzNRVzBhQl8zdWZDdU1sekxFM1Rfc0hHTkdCUmVGRFM3djd4LXFqYzUxY3FWQUxvZG1iMUxNMGhrSVJ2RU1ZS2ZmRWc4RWZSZ0tQWThzYXpzZC1yN0g5TllURmdVMGJka2VZbnJQMjhQSUthdkFRelVlZUY5QnlJZ0RDcTBUT1R0bk1EM3ptbnJSVDhJN0duSkZJSjVWa0xQWWlZcHAzU1dEV293VDB0aFlEdm5meHlkNDVBZ0pHbWg2M2c?oc=5",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "Getty tests limits of law in pivotal AI hearing at UK Court of Appeal",
+      "summary": "Getty Images brought its AI copyright case to the UK Court of Appeal, in what is being described as a pivotal hearing that will test the boundaries of existing copyright law as applied to AI training on commercially licensed image libraries. The outcome is expected to have significant implications for how AI companies can use copyrighted visual content in the UK.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjk5b1NrVkhLTUdRU3pEeWFkR1VoNVdFZUNXejd3OHdicFQ5aVAwQzZLblh0TWtkTlFveTdZVS1LanZycVlTQmlCcU11NmM1VXdIakM0eTlJTXBTei1JcG1YbnRELW5QRnlLQWpEc3Z3QktLWkdyaW5QZW1VWWZfOERjekJ3THIyc1dtSzFmYnRWRGZma0xkVmZIWmNaS0dqOENoOHA4VHAwOXRtUnc?oc=5",
+      "topics": ["AI copyright", "litigation", "UK law"]
+    },
+    {
+      "title": "Friends of the Court Flock to the OpenAI Copyright Fight",
+      "summary": "A significant number of amicus briefs have been filed in the ongoing OpenAI copyright litigation, reflecting the broad interest from publishers, rights holders, and technology companies in the case's outcome. The volume of third-party participation signals that the case is widely regarded as a landmark test of AI training and copyright law in the United States.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcWRZcEdpMVc1bnIwdTR3RlNwakszNlhuWjRyeE1CdjQxSmViOWUwbS1fQTZkV2xaMThQSno1X1FNVy1MSEtfM2F3Rk5Iek5mOTRQRzc1UkdmeUpDTG1TZ0g3TnU0eWkyeVZva3BSZ2EzX1QtRWU0a3pIS01qM2xnUHp0ZXJkODFFWFdUanZJaw?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Meta, TikTok Join Google to Oppose Indonesia's AI Copyright Law Plan",
+      "summary": "Google, Meta, and TikTok have jointly pushed back against Indonesia's proposed revisions to its copyright law that would impose new obligations on AI companies regarding the use of copyrighted content for training.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcjNrQ1ktWDJ5Vy1hakF2ZkZjUkpUZEM4b3ZheG93Z2ZLT1czdGUyR1VtM3d2YlA0Rks3NE9HRWxzdkV5RUxvbnpETTJEZWNNRzVEX3NjVFNBZzAxek00dXR2NlJSVGY1OHZmQVFkMnNNQkUyaWRCdmtQR3JJU3pZYmk2VTNzQm9IVXh3MGh6MkpZSEY1YWoxdlVjMVNsY1BpWXhUUmlkSdIBtAFBVV95cUxPZUF4eEhpcS1hZDRqWlRWblhPbV9maUZRbGxLZmxvVUgwdkI3aHMzOXRSdmN5WlVfMU9yYzdQUWYySUhXNW1PZWR6MTZ5OTRkRGcwVS1Jazh5WGdIZUNqd04wMFpnWEZwcmphbUZsOFI0eWR0R2gzVWNLWUpkMG05X1VtVmxRbVVvVng0NjU0cmxaYjliZHB5ekpVYUVYSGdwWXVBVHBxQ0RSX3UxaHNLWXZKcU0?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Mistral pushes back on new AI copyright proposals, sparking outcry from creatives",
+      "summary": "AI company Mistral has publicly opposed new AI copyright proposals, drawing strong criticism from creative industry groups who argue the proposals are necessary to protect rights holders.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE13Y1pReGZYQWQ2X0lvRWlFTTVBNVJUNV8wT1FLQ3d2WG12c25iNEZWQlBraGk0T1ducU1YcU5MMW1CVWFONC1FY1BSeG81NjVGTmlvQy1uME1mSWhRWnJST2xrT3B3cEhi?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Who Owns Voice? AI-Generated Music And Limits Of Performers' Rights",
+      "summary": "An analysis of the emerging legal questions around AI-generated voice and music, examining how existing performers' rights frameworks do or do not cover AI cloning of voices.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR2dIWlFLYlRwcXlGWklZdnNYaVE1U2lLVVdldmpNaUdab1R6ak4xeXJQcmNMN2ZNRlVzcGk4TEEtWE1seXVtU1lpb0RZOWlTZW1OM0tTdUdZWm5XclRmYlgxN1FqLUFrRWd0cjgyRzhKUWFiVzlOdVo2cXo1S2Zma3B2Um1sV3o3YUJTYUVMbFdyXzZlVmVLellnUjJwMG1iUmEyRl9aNy1nVHfSAbABQVVfeXFMT1JRSVBQckF4aDVpcE82WnNacUFzcW5DSWVtTVF6eVhMQU42RFNPTW8tT3BOWkl3WmZhOExSeUJ5Xy1fTG4waHFiMUNlbjdiUUFDRHhSc1ZoWEtMd05tc2V5QkJ4dHduUFY4NmJBaWtqNG9XV1JNN3hPT0lSaFVXcFVlcE9LM1pEYWZpaTJ5VjNTVkVmQ2xhR3pmaHJkWjJhWndTSTVBUWtXRGk4WTlzWDk?oc=5",
+      "topics": ["AI copyright", "music", "performers' rights"]
+    },
+    {
+      "title": "AdLegal petitions COMESA to stop Meta's exploitation of publisher content for AI",
+      "summary": "AdLegal has filed a petition with the Common Market for Eastern and Southern Africa (COMESA) urging action to prevent Meta from using publisher content for AI training without compensation.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQTFtVzg1b2VBU1pVeHNsZjk2bWxrdDFSYmJwWVRFNjNxZTYyQWVseW5LWjhoTWROd0h3dWtScDdPM3RDbFNCclFZMnJFc1R0Q1hUQmVEVHR0ZG5NV1djNDdUbkRVN0ExemhyVzV5QWI1S0ItLThMZ0xUWUdBVFRlQlVVbVUyYmJMUmZPNldQQnZlb1hZbWNtLU1iemx3akFwdzdWM0lKMzg2MUN0bHliLUs1QQ?oc=5",
+      "topics": ["AI copyright", "licensing", "publishing"]
+    },
+    {
+      "title": "Madras High Court orders FIR into alleged AI-generated books scam in public libraries, directs freezing of publisher's bank accounts",
+      "summary": "India's Madras High Court has directed the filing of a First Information Report and ordered the freezing of a publisher's bank accounts following allegations of a scam involving AI-generated books being supplied to public libraries.",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPNnkyNkxMZTRyU2UwMS1JZGNJbUpnTnZJWURIcTZ5Mk9lZjdyWTlkY1ZPRmtzZEtYVUUwb2hlVVR6TEpzZXVQajU4Nm1QYjRJek16ZDhTcndlcThlaW9zaGNMbG1Uck50ZmlEMFg3OGR3Zzh3ZGw0aWRndXJHZWg2UTN3VFU0ZDI4dVVEN2N3Z1NJd3JlMmZPdlZpOW5mVU5rd2NERF9MTXpMN1hJTW9GTHNWUDNCSW9VaDdKTUdqR3llVXBSMmRzTkUwNTk2UC11OVhXZXZfRzdqQnBRb2RCRWdic29udEthS3RRTmc2dEppM0YxcEJ2QzFHTWJWamRpLVZfbG9ucW53S1pGdkpoN2dJamd1MG1zSFA3eXhrZw?oc=5",
+      "topics": ["AI copyright", "book publishing", "litigation"]
+    },
+    {
+      "title": "OpenAI, Anthropic face new oversight as New York's AI safety law takes effect",
+      "summary": "New York's AI safety legislation has come into effect, imposing new oversight requirements on frontier AI developers including OpenAI and Anthropic.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVhqV2gyYlFPU1FIZlNHRkp4SGJHQVJmMzB3cHE0a29DRHpzS09Obzh5NmlQRFFQd25aaE90ZlVxMXJCaUI0Y1FsOEltc09rX0VRTlJZZ01oUlZXN05KV3NxRXpYclhwb0g1VFE4WFEwZ2tZNllMTkpjdFQ3RVBLeWZMTWVJN3B1OVQtWVM1NkNYbER5a2NwNm1HVmI3R1pjOHFoSzJOdzBucW8tZU53?oc=5",
+      "topics": ["AI policy", "regulation"]
+    },
+    {
+      "title": "Albanese's love affair with music is on the rocks over AI. Can he write a different tune? | Peter Lewis",
+      "summary": "Commentary on Australia's political debate over AI and music copyright, examining the Australian government's approach to protecting musicians' rights in the face of AI-generated music.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQemZHNDQzZkxVYXNzY2pkd0ZzUmJvYUJ2bEdWOWxnN2J3aFhISXdIRGJVbjhzMGs5eDdaQW95WEF6bFlfVmJKeVcyRHRpOTZVVDFaeXRnMm1zVjBFVkxZWWI0WlEtYlVNRlpSUU9jYnktaVFrSmpIcFMxYUZGanhzUTBKelh5RzdreVVxLXFIcGVWaUlpdjJuV19aSWhhT1FSWWVuX1JnaC1NRGo0OVZpNVVQV1JsUFdrLThlNmtmOGdZUGpqVENlZ3R2SVM0XzdXNlF5T2loRQ?oc=5",
+      "topics": ["AI copyright", "music", "policy"]
+    },
+    {
+      "title": "Where Will the Physical AI Patent Wars Begin?",
+      "summary": "An analysis of where the next wave of AI-related patent disputes is likely to emerge as AI moves increasingly into physical and hardware domains.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uSXB3aDVVSkZpS2N5TFhoNUx5WmtxN2dnRkRfNDZGSWEwZWhIc3dwSDVUR05xcWNZRXVoVnRQVHlZbGRwX2hKYWYtek5PODZXQTNZTEsta2VQVDg3Tm1DUVNUUG1BSDk2aENpeEU5bUtLVl9vQW1ubVBiakdld9IBgwFBVV95cUxQcktBeXZZM1FWRDBLMTJ2VkRsRU1ndDZrUmpHTFpTX2MzRERVNno1Zm5JenJLM1JoUlFSYmI4bUtINmlBbWMyeGkxZnN2OUhuMTRmV0FQb1U0eHlvZ1FpZnJjTzJZRWN6NjR6VXBFV3huRHNIVE11cVpxOXJ6ekg1OS1TZw?oc=5",
+      "topics": ["AI patent", "litigation"]
+    },
+    {
+      "title": "Harvey partners with online arbitration research platform Jus Mundi",
+      "summary": "AI legal research tool Harvey has announced a partnership with Jus Mundi, an international arbitration research platform, expanding its capabilities in legal services.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc2I4OXdBZkpBZzBab0JZekFBVVZHVFh1N085VGVNS2JrT3lySDFtT2lRUFBhd0FMbm9EbzNNMV9IZ2RDSkJWY0UteGlfNDZrUTdTX2dqd2dnSnBkalVGNngzTk5KbTBWdkszVnJ4am1LNzFXY1gydW9WTzNaa0lXSDJRSHo0LWU1Y216ZVVsckZnZUZsdHpaNGVHZUtJTXAxX2VNaDRua3gxeXFYZFk1Ty13VTlTUQ?oc=5",
+      "topics": ["AI legal services", "software"]
+    },
+    {
+      "title": "New AI regulator announced, as government considers criminal law change to keep erring frontier companies in line",
+      "summary": "A new AI regulatory body has been announced, with the government also considering changes to criminal law to hold frontier AI companies accountable for serious failures.",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYTA4a0ZLeDlaVjJFWnlURjV5OEg3T1NQQzViYXpwdTAwY3pBemZFX0FSb0N3S0twTE9lbGRybkFvMHREdjhsV1dkSGtmZk5xdVdBb1gxM3RyQlliM0dhTGtmVTRGMm1FZEt1UDB3ZXNZeXZmNjRQS1gwSEJoNXBGNGFfdDVsQ0hIX05KSGhReXJXUElKakN4blg1LVZOYzJiSEhwa01SckpONndOb2k2ZXFLZldCRzdJRHFMZ2lWZURLUmFPZ3BBUnR3LTg0RHk4TU9zZlVhdWlkc0JQR2FYLQ?oc=5",
+      "topics": ["AI policy", "regulation"]
+    }
+  ]
+}
