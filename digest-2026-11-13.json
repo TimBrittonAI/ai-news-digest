@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "More than 100 publishers back University Press Charter amid AI and financial pressures",
+      "summary": "Over 100 publishers have signed up to a University Press Charter that commits signatories to upholding research integrity and vigilance in the face of AI and financial pressures on academic publishing. The charter represents a collective response from the scholarly publishing sector to growing concerns about AI's impact on research quality and publishing standards.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ0Q5MUNFZ3NoYzdzdlRxYkFMelJWWXdCZTNKZEpXa2VQVGtkYi00MlhkZHZuSGJweF9nNXJISUFrdGc4SzJGb0J5Q3hncmEwd2dtVDhaRUhEWi1IeV9LQi1MdUtPcUxIQjJYNmpzdnF4c2N4ZG9kUEUzMWZVOFQ0MVQ4OUZReWhwb1RiaGVyRF82R1JqaXlPbGlQRklHWVBnZ1VaVElPZVM0ZEgxRTluSnVVREw0VFpnYUhGN0xn?oc=5",
+      "topics": ["academic publishing", "AI ethics", "research integrity"]
+    },
+    {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "summary": "Google DeepMind has introduced Gemini 4 Hydrogen, a new model with improved capabilities for understanding complex questions. The model is now powering Google Search's AI Mode and represents an upgrade to Google's frontier AI offering.",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "topics": ["large language models", "generative AI", "Google"]
+    },
+    {
+      "title": "NVIDIA Announces CEO Transition",
+      "summary": "Nvidia has officially announced a CEO transition following Jensen Huang's resignation amid spy and affair scandals. The company's official announcement confirms the leadership change at one of the world's most valuable AI chip companies, with CFO Colette Kress stepping in as interim CEO.",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+      "topics": ["AI industry", "leadership", "AI infrastructure"]
+    },
+    {
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary": "OpenAI has published a customer story detailing how analytics company Amplitude uses its AI tools to dramatically compress product development cycles, shipping improvements in one to two days rather than weeks. The case study illustrates real-world enterprise adoption of OpenAI's developer tools for accelerating engineering workflows.",
+      "url": "https://openai.com/index/amplitude",
+      "topics": ["OpenAI", "generative AI", "AI industry"]
+    },
+    {
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "summary": "A study has found that AI chatbots including Gemini, ChatGPT, and Perplexity are directing users to fake or risky retail websites when answering shopping queries, raising concerns about the reliability of AI-powered search and shopping recommendations. The findings highlight safety and accuracy risks as AI tools increasingly serve as shopping assistants.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "topics": ["AI safety", "AI search", "chatbots"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "University Presses Sign Charter Promising Integrity, Vigilance Over AI",
+      "summary": "A complementary report on university presses collectively committing to research integrity and responsible AI practices through a new formal charter.",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxObERLR1I1bnljdmZ5NXViQ1FHNWxuTnlwdFdsN056LXEwd1EtODlOM3BpdXZUd3FlTnpjYVBId3VOVHpPVGRIQXZCbUZqWFlHTXI4b24yQnJIbC1IUERQRmVGalZtSGRxbXJPRDl1eFNXUnlOcnVxcWtfUjdOandnQmpPbkdlN2dIZjBOUFFidkswTmpnSktQTzgtUnRJRGprTzc1X2xqTUtqZmNYM2FaWlhvZWE0eWdCOXdnNDJrc2VHODViRWpoa2NydUlmQ3NKSmRyR0R5Wld5ZzU5SXl1dHVId1JpbG1IMHl4TXFVZXBXYXVLY0E?oc=5",
+      "topics": ["academic publishing", "research integrity", "AI ethics"]
+    },
+    {
+      "title": "From AI ambition to business impact",
+      "summary": "Microsoft's official blog outlines how organisations are translating AI ambitions into measurable business outcomes, drawing on lessons from enterprise deployments.",
+      "url": "https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/",
+      "topics": ["AI industry", "generative AI", "Microsoft"]
+    },
+    {
+      "title": "Scaling AI value without losing control: Lessons from Frontier Firms",
+      "summary": "Microsoft publishes findings on how leading firms are scaling AI deployments while maintaining governance and control over their AI systems.",
+      "url": "https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/",
+      "topics": ["AI governance", "AI safety", "business"]
+    },
+    {
+      "title": "Google's new Gemini model is better at understanding complicated questions",
+      "summary": "The Verge reports on Gemini 4 Hydrogen's improved reasoning capabilities for complex queries, now integrated into Google Search's AI Mode.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "topics": ["large language models", "AI search", "Google"]
+    },
+    {
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "summary": "The Verge debunks claims that AI agents independently discovered a previously unknown Maya archaeological site, clarifying the actual role AI played in the research.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "topics": ["generative AI", "AI ethics", "research integrity"]
+    },
+    {
+      "title": "Google DeepMind Staff Tap the UK Government to Escalate Their Unionization Fight",
+      "summary": "Google DeepMind employees have escalated their campaign for union recognition by engaging the UK government, intensifying a labour dispute at one of the world's leading AI research labs. [Metered]",
+      "url": "https://www.wired.com/story/google-deepmind-staff-escalate-their-union-fight/",
+      "topics": ["AI industry", "technology ethics", "Google"]
+    },
+    {
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "summary": "Research from Unemployment Labs claims that Chinese frontier AI models show forensic signs of having been trained on Nvidia GPUs subject to US export controls, raising significant questions about enforcement.",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "topics": ["AI industry", "AI governance", "generative AI"]
+    },
+    {
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "summary": "MIT Technology Review reports that Nvidia privately acknowledged the technical feasibility of tracking its chips to prevent smuggling, even while the broader industry publicly cast doubt on such capabilities. [Metered]",
+      "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "topics": ["AI industry", "AI governance", "AI infrastructure"]
+    },
+    {
+      "title": "More game developers are starting to use generative AI",
+      "summary": "An annual GDC survey finds that adoption of generative AI tools among game developers is growing, even as the industry continues to grapple with layoffs.",
+      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "topics": ["generative AI", "AI industry", "layoffs"]
+    },
+    {
+      "title": "35,000 Exposed Grok Apps Reveal Vibe Coding's Hidden Cost",
+      "summary": "An analysis finds that tens of thousands of apps built using AI-assisted 'vibe coding' techniques with Grok have exposed security vulnerabilities, highlighting risks associated with AI-generated code deployed at scale.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbEF1MUVpcGYzcnFjRlhBX1E4ek9nQV91UUFaSkpuNl9KVENtU1JxNXNBYllmdE4zcDlrcTl1RGI2eDhHN1dadkcwNTU1NHpTbE1FdjZyVDQtUkkzRk1fUGx3Wkk4cERBcTVVTldWYms4TU1sai13RlBDdzBrMEVYRk1oNTVwamptMU9DbW54WkJiaHpIdDhfSnZSWmR6czA?oc=5",
+      "topics": ["AI coding tools", "AI safety", "generative AI"]
+    }
+  ],
+  "ethan_mollick": null
+}
