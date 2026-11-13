@@ -1,0 +1,78 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "University Presses Sign Charter Promising Integrity, Vigilance Over AI [Metered]",
+      "summary": "A group of university presses has signed a charter committing to integrity and vigilance regarding AI, signalling a collective stance from academic publishers on the use of AI in scholarly publishing. The move reflects growing concern within the publishing sector about AI's impact on editorial and publishing standards.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101763-university-presses-sign-charter-promising-integrity-vigilance-over-ai.html",
+      "topics": ["AI copyright", "academic publishing", "policy"]
+    },
+    {
+      "title": "Elvis Rights Holders and Eminem's Publisher Sue Suno, Testing the ELVIS Act",
+      "summary": "Rights holders for Elvis Presley and Eminem's music publisher have filed suit against AI music generator Suno, with the case explicitly testing the scope of Tennessee's ELVIS Act, which protects voice and likeness rights. The litigation marks a significant moment for AI-generated music and the application of state-level IP protections.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWnBwalhWMnluTjBlNXhLQkdzTnZGSXRHdlhmR1BmT0p0MG4xM2VQX3VsZldyR0RqbFRDRDBPeVZsZ1JBWUlaMjRBYUJGVTJKbEtmNGs2bXEzSzRHRXAzZFpXM01fTm10a1VDTWNFUkdHSG5QdmZ5UkdESy1YRm9QZHFXZTd2ZTR0dnVHRDY1U0lVeVh0QXl5cktXT2pvTU1teTJPeW5QZktVZHBRc0E0SGpWOFFlZw?oc=5",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "In Landmark AI Copyright Settlement, This Keene Author's Getting a Cut",
+      "summary": "A Keene-based author is set to receive compensation as part of a landmark AI copyright settlement, representing one of the first instances of an individual author receiving a share of damages from an AI company over training data use. The case is being noted as a significant precedent for author compensation in AI copyright disputes.",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPaEN6YnRaWXBZbE9LZk1LTEVJN21oM0NtRlo5ZFExMFNuVElHTzB3bU1jWW1mMFREYTRkSjRIYUdNdXdBMzY4ZU90THQzR0lxQlhFallIYTItSnZ3VXpFZnp6eUtuLUpMTmJlWTZiT2g5RDFsemxUUmFoVGNiT1dmUTZzWlM5UmE1cWU4SWxROTZ3YzZPMXR0Z1htMXU1cjhJcmhHaEpqemp4UnlMb19SdWFtUHpjRUVhYTZHVzh3bEdKM2wtM0xzTDgxOVF3djRwV2dCc3NvWXIyZDQ0SGJ6aUJ1LXYwMkRP?oc=5",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    },
+    {
+      "title": "Google, Meta and TikTok Oppose Indonesia's Proposed AI Copyright Law Changes",
+      "summary": "Google, Meta, and TikTok have collectively pushed back against Indonesia's proposed revisions to its copyright law that would require AI companies to compensate rights holders for training data use. The opposition from major tech platforms highlights the global tension between AI developers and rights holders over licensing obligations.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORTlOSF8wSXpfLXNzeExKbEc1dWhNQzYwQ0dLNHFuQTNMd1hQb0VmX052dUtDTlBXR2ptZFZ3TndLbmlJc2ZLOGFEWnJuNXk0V25sOVNGQmdpcXlyRjdDZTVpZGxGelBsYWV2R1BvbjlLbXJLWGZhSUloUnVvUE45V3NmOHotYTVGOGZ4RmVQeThrUTRpeE9DZQ?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "Mistral Would Rather Pay a Copyright Tax Than Prove a Negative",
+      "summary": "Mistral's CEO has indicated the company would prefer to pay a licensing fee or copyright levy on AI training data rather than bear the burden of proving it has not infringed copyright. The position is notable as a rare instance of an AI company signalling openness to a compensation framework for rights holders.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yRjE2dG1INTI4ZlFlQThxXzJnd3hmNzF5RDVaM2VOYnlwZTBRVnVDLVZmN2MtMnVpVkpXbWRkZTh0ZXlfbFIxZWRKenFyaFdoWnFjN1daZVFoSF9ZWnI4VkdKMWNwb3BTZVJmMUNMUDgxb1dQQnNFNUozTQ?oc=5",
+      "topics": ["AI copyright", "licensing", "policy"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Getty Images Faces London AI Firm in Court",
+      "summary": "Getty Images is pursuing a court case against a London-based AI firm over alleged copyright infringement, in a case that could have significant implications for image licensing and AI training data.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QU2JnbDlvRGtHamF5VEZLcEh1VTFpN1Yyd0xXbmw4d2V6S2Y0dWwwQ1JIeDk2YVFkVkZuRUItdEJvR0p0U01hNVRkQkplTXBkNGZibWF1dTRUdDhfRm5oSnRzWXdlWXU4LThiMDJlNWtkRmpm?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Anthropic, OpenAI Sued for Allegedly Infringing Inventors' Neural Network Patents",
+      "summary": "Anthropic and OpenAI are facing a patent infringement lawsuit from inventors claiming the companies' AI systems infringe their neural network patents.",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWTRubERMSXBGblFuaGZHYzh2SDBfRkZCR0F4bnZmUjlXazJhamZaSkhRRzJPT0xuUmZDdlY5RlJQVFE0Rm1VZl9UeVRTVldVRE01VWZORE9NNGxCbjNNTHBrZmdNTXZNbVo1UVdsZ0JLYTlfWkJqa2diNTdCWHUzQ0lYVHNfYWtVNlhlbWh0LUtDNHFsZW5zQ254eHRXdDlkMlJNUnBXY0pLRkx3M1ZRQ3ZKcmZ3RlNYdUxLcWF3?oc=5",
+      "topics": ["AI copyright", "litigation", "software"]
+    },
+    {
+      "title": "The Ethics of Using Books to Train AI",
+      "summary": "An examination of the ethical questions surrounding the use of copyrighted books as training data for AI systems, covering author rights, consent, and compensation.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSmdLVU1VZjJuaWc5MV8yQ2R3VnRCelgxQmlmYUdxMFdLSmJ0X2c2WWFfdXlYTTAzSEx4aElVY0FrUVdSU01DTG9hOXE1THhLTmR6aTRzQlJ6VlVwVW1XVi1jTWdwUGs1dzBLM3ljVnk2THJQb1JNdFZab0g0NUMzUm53?oc=5",
+      "topics": ["AI copyright", "book publishing"]
+    },
+    {
+      "title": "Seoul Copyright Forum to Explore Ways for Generative AI and Copyright to Coexist",
+      "summary": "The Seoul Copyright Forum is set to bring together stakeholders to discuss frameworks for how generative AI and copyright can coexist, including compensation mechanisms for training data use.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RWXdGN2Ryc2ZVRTF4N3BiVEhtbGVKZUxnTjFoTXlLT3BoUVRLNFpieHRueTNLYkRzVUFSMndoNDctdnpCQ3pDMmVES3JvRE5oSW5Hend3VXRkU290YnQwMGV3QjhGdkRhdDBsbnEzeGpTQzJzZXc?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "AI Firms Trying to Turn Australia into Copyright 'Tax Haven': Rod Sims",
+      "summary": "Former ACCC chair Rod Sims has warned that AI companies are lobbying to make Australia a copyright safe haven by weakening training data protections, raising concerns about the country's approach to AI and IP.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQd1lSd25tTnA5UGVydmdDR3l1dTUya3ZIVjNhQk9femNFZnlKTWhfV1ZRRWlBU2ZZemQwX2ZsU1pPbWpMTGZwb3dzUUFQWDlLeDdJOGc1Tm9kYUYxazRvWmhUellYTFhIRDNFbEVLTkJ6UkZvX29lSTV2UVZ6aXlDRkYzM0wyRDNkWS0tbjFYRjJIT1lUWXlLck1QZU5hQkttZFJUOVYyRlhSU3NCcUppRlBLcFpEZ1kxRXpDekxkYzREb2tqS2VmT19VQjZmUQ?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "6th Annual Symposium on Pop Culture and International Law: Ownership of a Style — Ghibli-Style Generation and the Limits of Copyright within the Territorial Framework",
+      "summary": "An academic symposium has examined whether AI-generated images in the style of Studio Ghibli can be protected or restricted under copyright law, and how territorial differences in IP law affect the answer.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTW1DdFowMm9ZMWhTZlpFM0Vqbi13NkZGQnZoYU5WMkF2RnUxckxkRFZvNFFhVnEwYjVEaldJdVllNUVCM1BCM3YtNGlUcUN0M2hkV3Z5X0VCUUJPbkM2eTludzlDQ2twX1I2aHM2WFZCdk1pcWNDNFg4VkNoeFJIM3NHMjAxMnN2b2RrVkZ4RUJKYnhCNzRKMl9VaVVMZ3c1d3RMM19LeXZIRjdYS0NEZlNfblo5SUtfYnNmeE9wa2xMYXlDVWFHbndtWHpnMV9TNkFWQ2VGbUE?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Publishers Face Google AI Ad Labels in California, South Korea and Vietnam",
+      "summary": "Publishers are reporting challenges as Google rolls out AI-generated ad labels in California, South Korea, and Vietnam, with potential implications for publisher revenue and content identification.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOTNiUG1UUHpiLUNLQmZxb0xNZ2lIbXBiNXpzbXNRc2UxREtzSVdES05VRE9HOEZmalV3YTUyUkI2MmY4LWtRS3lWNWNiT2FTcFMxTkM2TzhnaWNWOGpqNE5NS1owb0tiUXVfc2pGdjdpcExXZTVxR2VpZnlucF9JUlp1eVdQVU1HYTZ3WFY1d0E3M3hCaHc?oc=5",
+      "topics": ["AI copyright", "book publishing", "policy"]
+    }
+  ]
+}
