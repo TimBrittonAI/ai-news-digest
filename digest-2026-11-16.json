@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Fabricated AI-generated papers published under prominent academics' names",
+      "summary": "AI-generated fake academic papers have been published under the names of prominent researchers without their knowledge or consent, raising serious questions about research integrity in the AI era. The issue compounds growing concerns about authorship verification in academic publishing. A JKMS editor has also separately raised questions about how to determine genuine authorship in an age of AI-assisted writing.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTFd6VnU2cmlLMHptbXI4X05KTmN4MFk2Z3BDekdNSk5ESzdDYkhnSGZJWFJBLU5jakl5OGpJbUN1ZWlxZ0hJSkh1N2JaWThxazFodkVLVV9PYWttSVVTVEZIY0tVa2dIbHpZU3JwTk4tSmtmamE2TUs0R216NW9xcw?oc=5",
+      "topics": ["academic publishing", "research integrity", "generative AI"]
+    },
+    {
+      "title": "Introducing ChatGPT Wallet",
+      "summary": "OpenAI has launched ChatGPT Wallet, a feature that allows its Dots AI agents to make purchases on behalf of users directly within ChatGPT. The move marks a significant step toward agentic commerce, enabling AI to act as a financial intermediary for real-world transactions.",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "topics": ["OpenAI", "AI personal assistant", "generative AI"]
+    },
+    {
+      "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers hands-free",
+      "summary": "Anthropic has updated Claude Code Projects to support parallel AI workers, allowing multiple AI agents to run simultaneously without requiring user intervention. The upgrade is designed to significantly accelerate complex coding and development tasks by enabling hands-free, concurrent AI operation.",
+      "url": "https://claude.com/resources/articles/projects-redesigned",
+      "topics": ["Anthropic", "AI coding tools", "large language models"]
+    },
+    {
+      "title": "The OpenAI board member who fired Sam Altman says we still can't trust AI CEOs",
+      "summary": "Helen Toner, the former OpenAI board member who voted to fire Sam Altman, has spoken out in a new interview about why she believes AI company leaders cannot be trusted to self-govern. She argues that structural oversight mechanisms are essential and that the AI industry's current governance model remains fundamentally flawed.",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "topics": ["AI safety", "AI ethics", "OpenAI"]
+    },
+    {
+      "title": "University Press Charter: 108 Publishers Commit to Responsible AI",
+      "summary": "A group of 108 university press publishers have signed a charter committing to responsible AI practices in academic publishing. The charter sets out shared principles around transparency, authorship, and ethical use of AI tools in scholarly communication.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrdGdFelRRWGlJdUYyV1RhRjd3Rm5ydXBZT3JfdlJjdlpmQnNTeGszU1JKZUxvbGtjX2txM1JmVlpxcDVIU3FLd1hIRUQ3LTBJNjNjQUo2blZOR2hSQ0JwU2IzZTkwRUQ5c2c?oc=5",
+      "topics": ["academic publishing", "AI ethics", "AI governance"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "summary": "AI has been used to decode Kurt Gödel's previously unreadable private notebooks, reportedly revealing hundreds of mathematical theorems that were unknown to the wider research community.",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "topics": ["generative AI", "AI research", "large language models"]
+    },
+    {
+      "title": "OpenAI launches a new blog for science",
+      "summary": "OpenAI has launched a dedicated science blog to share research and developments at the intersection of AI and scientific discovery.",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "topics": ["OpenAI", "AI research", "generative AI"]
+    },
+    {
+      "title": "Claude's Duet agent is a little neurotic and surprisingly helpful",
+      "summary": "The Verge offers a hands-on look at Anthropic's Claude Duet AI agent, describing it as occasionally erratic but genuinely useful for real-world tasks.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "topics": ["Anthropic", "AI personal assistant", "large language models"]
+    },
+    {
+      "title": "AI Education Research Grew Tenfold in Four Journals",
+      "summary": "Research on AI in education has grown tenfold across four major academic journals, reflecting rapid expansion of scholarly interest in the topic.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVkhacDM3SmxJcjZZLV9TV19VajFoMzFoSnZmcjh4ZC1JWlhSeDFCVHVpT0Z6RlljQ1p0ZnhjT2E4QVRFR1lYbEpwV3U5MDUtNjlGdGUzVVY3ZnF3NndjMm1tS2I2Vkc1SVdzdkxqYndmS0MzZUFST2h0SUR4VUZFd0lB?oc=5",
+      "topics": ["academic publishing", "AI research", "generative AI"]
+    },
+    {
+      "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+      "summary": "NPR explores possible reasons behind Google's reported decision to restrict access to its Search product for schools that have opted out of AI tools.",
+      "url": "https://text.npr.org/nx-s1-6029408",
+      "topics": ["AI governance", "AI ethics", "Google"]
+    },
+    {
+      "title": "Beware the New AI-Fueled Ransomware Boom [Metered]",
+      "summary": "Wired reports that AI is enabling a new wave of more sophisticated and scalable ransomware attacks, with cybercriminals using generative AI to accelerate and automate their operations.",
+      "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+      "topics": ["AI safety", "generative AI", "AI ethics"]
+    },
+    {
+      "title": "Amazon has a plan to index the world's online shopping data",
+      "summary": "Amazon is building a 'World Product Graph' using AI to index and understand online shopping data from across the web, aiming to improve AI-powered search and product discovery.",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "topics": ["AI search", "large language models", "e-commerce"]
+    },
+    {
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "summary": "US lawmakers are pushing to strengthen export controls on AI chips to China following revelations about large-scale smuggling of Nvidia GPUs in apparent violation of existing restrictions.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "topics": ["AI governance", "AI industry", "AI regulation"]
+    },
+    {
+      "title": "The avalanche that hit math is coming for AI development",
+      "summary": "Dwarkesh Patel argues that the same kind of rapid, compounding progress that recently transformed mathematics research is on course to reshape AI development itself.",
+      "url": "https://www.dwarkesh.com/p/rsi",
+      "topics": ["AI industry", "generative AI", "large language models"]
+    },
+    {
+      "title": "Apple's new study looks to improve the effectiveness of AI health tools",
+      "summary": "Apple has announced a new research study aimed at evaluating and improving the effectiveness of AI-powered health tools for consumers.",
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "topics": ["AI research", "mental health", "consumer research"]
+    }
+  ],
+  "ethan_mollick": null
+}
