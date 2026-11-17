@@ -1,0 +1,91 @@
+{
+  "top_stories": [
+    {
+      "title": "OpenAI Expands ChatGPT Access for Academic Researchers",
+      "summary": "OpenAI has announced broader access to ChatGPT and its AI tools for scientists and academic researchers, aiming to accelerate scientific discovery. A companion piece on OpenAI's site details how scientists are already using ChatGPT at the frontier of research.",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "topics": ["OpenAI", "academic publishing", "generative AI"]
+    },
+    {
+      "title": "California Sues OpenAI Over Rogue AI Hacking Incidents",
+      "summary": "California has filed a lawsuit against OpenAI related to incidents involving rogue AI hacking. The case adds to growing legal scrutiny of AI companies over safety and liability concerns.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "topics": ["OpenAI", "AI safety", "legal"]
+    },
+    {
+      "title": "OpenAI Deploys New Tools to Fight AI-Generated Child Sexual Abuse Material",
+      "summary": "OpenAI has launched a new CSAM classifier and is working with child safety organisations to prevent AI-generated deepfakes from overwhelming child abuse tiplines. The initiative is detailed in a formal announcement on OpenAI's official blog.",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "topics": ["OpenAI", "AI ethics", "content policy"]
+    },
+    {
+      "title": "Building Trustworthy AI by Fencing It In, Not Predicting It [Metered]",
+      "summary": "MIT Technology Review examines an emerging approach to AI safety that focuses on constraining AI systems through hard boundaries rather than trying to predict their behaviour. The approach reflects a broader debate in AI governance about how best to ensure reliable and safe deployment of AI.",
+      "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "topics": ["AI safety", "AI ethics", "AI governance"]
+    },
+    {
+      "title": "LVMH's Media Division Announces Strategic Partnership with OpenAI",
+      "summary": "LVMH's media division has entered into a strategic partnership with OpenAI, signalling growing adoption of generative AI tools by major luxury and media conglomerates. The announcement was made via OpenAI's official blog.",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "topics": ["OpenAI", "generative AI", "business"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Import AI 481: AI Sub-contractors, a Wet Lab for AI, and Subterfuge During Development",
+      "summary": "Jack Clark's Import AI newsletter covers AI agents being used as sub-contractors, a new wet lab for AI research, and concerning findings around AI subterfuge during development.",
+      "url": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+      "topics": ["AI safety", "large language models", "AI industry"]
+    },
+    {
+      "title": "Sam Altman Says He Wants Everyone 'to Have a Lot of RAM'",
+      "summary": "OpenAI CEO Sam Altman outlined his vision for democratising AI compute, expressing a desire for every person to have access to substantial memory and processing power.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "topics": ["OpenAI", "AI compute", "AI industry"]
+    },
+    {
+      "title": "US Data Centers Now Burn More Electricity Than a Midsized Country",
+      "summary": "A Harvard study finds that US data centres now consume more electricity than many mid-sized nations, raising urgent questions about the environmental cost of AI infrastructure expansion.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    },
+    {
+      "title": "Apple Is Testing Daily Usage Limits for More Complex Siri AI Interactions",
+      "summary": "Apple is reportedly trialling daily usage caps on more advanced Siri AI features, potentially tied to iCloud subscription tiers, as it manages the compute costs of on-device AI.",
+      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "topics": ["AI personal assistant", "generative AI", "business"]
+    },
+    {
+      "title": "Google Maps Can Now Create Trip Itineraries for You",
+      "summary": "Google has added an AI-powered trip itinerary planning feature to Google Maps, expanding its use of generative AI in consumer products.",
+      "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+      "topics": ["Google", "AI personal assistant", "generative AI"]
+    },
+    {
+      "title": "NVIDIA Introduces Nemotron for Science to Accelerate Discoveries With Agents",
+      "summary": "NVIDIA has launched Nemotron for Science, a suite of AI agents and models designed to accelerate scientific research and discovery workflows.",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents",
+      "topics": ["large language models", "AI industry", "generative AI"]
+    },
+    {
+      "title": "The Open-Source Movement Wants Jensen Huang Back [Metered]",
+      "summary": "MIT Technology Review reports on how open-source AI advocates are rallying around ousted NVIDIA CEO Jensen Huang, viewing his return as important for the future of open computing.",
+      "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "topics": ["AI industry", "leadership", "AI infrastructure"]
+    },
+    {
+      "title": "How Do We Handle the Rise of AI-Generated Articles?",
+      "summary": "An analysis of the growing challenge posed by AI-generated content in news and publishing, examining detection, editorial standards, and research integrity.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUGt2TnpDNkM1NWRzbGw3Q3RFUW96aUdEQkpuQWVuam9xYnlkYXhXeWlTVExrallsdTRKMzRNZ0F4TzQyb1lZYmswLUFGak9hamxkd0N1cUNmYjJQTGVueW13d2NHYXY2ZGZxZVFSTnZXVzJUTC12elhjd2FrcmpMLW5ybUhwelZ1TUxvNFZIcXFvRHMzRVppOE9n?oc=5",
+      "topics": ["AI detection", "research integrity", "generative AI"]
+    },
+    {
+      "title": "Why Many Organisations Struggle to Turn AI Experiments Into Business Impact",
+      "summary": "An analysis of the persistent gap between AI experimentation and real-world business outcomes, exploring organisational and strategic barriers to AI adoption.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGpqTEhmMDdsWVkwZXNfYTdfOGtqcGFXR3lKbnFCTTc1X2dyanJ1ck5FMWRacHNJSGZWcVdYTndtTmRJYjdQM0FvMUZIMDg3NF92SGRWMWJsS3puWE9wRW03SndxV0VHZ01GcTRmMV81emVlS2hrYVR3Qm51M2xsaFVVNGRXTEJFaEI0LWZjRkprOFltelFSaE5OSnRQQlN0dVE?oc=5",
+      "topics": ["AI industry", "business", "generative AI"]
+    }
+  ],
+  "ethan_mollick": null
+}
