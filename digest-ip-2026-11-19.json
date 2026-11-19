@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Thomson Reuters v. ROSS: Using Copyrighted Works In AI Training Is Not Fair Use",
+      "summary": "A significant ruling in the Thomson Reuters v. ROSS Intelligence case has found that using copyrighted works to train AI systems does not constitute fair use. The decision is expected to have broad implications for AI developers who rely on third-party copyrighted content for model training.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNWswUjc1d1pMdG5valQtaVRPelhkdDlmOVV4bDlMTndMMGFrcElxR3ZLdURMSi1rNnFLSkFmUmNnd2JxVFphMVJpS180QmNWby05V01obGZ0Yk5zR2k1a2FpUl9QSGlyNkhoMlhIMElGNGJvWXU5YjhkNnRIZnhfT0VQVnFNMmViVGVjX3dhQng0dGlvRUI0aHUteXN4R0VULXVQcFV4T1lPS0hlT1RlRFBqSDlzSENBd0E1NFBkUG5IZ29PcVZMZkNuVUgyQ0Zfb1hn",
+      "topics": ["AI copyright", "litigation", "fair use"]
+    },
+    {
+      "title": "UMG and Sony withdraw DistroKid subpoena motion in Suno case after distributor produces AI-detection documents",
+      "summary": "Universal Music Group and Sony have withdrawn their subpoena motion against DistroKid in the ongoing Suno copyright lawsuit after the music distributor handed over AI-detection documents. The development marks a procedural milestone in a closely watched case examining AI-generated music and copyright infringement.",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYi1lREhnd2w3bVNCaXNoWnNUMUwwTGRCLUYzQlhDQ2NBNXZOODVkYlpVdzR3VW5ka0ZPM3ltUUdOdG9YWVpnMjlMNzZfNHRzMnJmbDg5dTROamNCVklmdjlLbVZ2M1dmRU9nN0tDcDFfZUI0cEQzeS1tSzhiYmViM2Q4Vmp6YVBtaVpkcFZFUlh1ZExrcGhHVTVBX1g1RmwtaWUxaGdBOHlBUHJkSlBoTEVaaGxMbkx1Zi1nRGpZYTFPdTlreUdlemY3bkhyQjgyRElNMmxOSHdBMWxUMS1ad0NxU2w",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "Literary Translators Warn AI Threatens Their Livelihoods in Copyright Case [Metered]",
+      "summary": "Literary translators have raised alarm that AI systems trained on their work pose a direct threat to their livelihoods, intervening in a copyright case to make their position known. The translators argue that use of their translations without consent or compensation to train AI models undermines both their rights and the broader creative economy.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101802-literary-translators-warn-ai-threatens-their-livelihoods-in-copyright-case.html",
+      "topics": ["AI copyright", "book publishing", "licensing"]
+    },
+    {
+      "title": "'Divide and conquer': Creatives slam Labor's AI copyright carve-out",
+      "summary": "Australian creative professionals have criticised the Labor government's proposed AI copyright exemption, accusing policymakers of deliberately splitting the creative community to weaken opposition. The criticism comes amid a broader campaign by artists and authors for stronger copyright protections against AI training on their work.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVnBQcnhDandEOF9uUHd4d2lvRXVmUGtubXVTZkFRS1dxMFVnNFduTUtGMjZqS3FQMUNGYVpVRHI1Q1NTeURacnEzUXRtd1Q4ekQ3T1BwbHRUcGlZQ1FBNG5GNFJRTnRkSnJhTU9SamRoSW9BeWNIS3RvWl9VbHhMVm5DUW9MOXNKaG5BTWNqS3hfbk8tcDlGZUR2Y2I4RHRWRXJJbVpzVUI0S0QyMlR4bDY0Q3hBRmF2",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Congress Faces Decisions on AI Training and Copyright Law",
+      "summary": "US Congress is confronting key legislative decisions about whether and how to regulate the use of copyrighted material in AI training datasets. The article examines the competing pressures on lawmakers from the technology industry, rights holders, and creative communities.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9menlxMEpMT1ZmOUtBX0ZvOEZYZk5xVmRnOHlScmpIcUhUOTFzbVRuYlpzQkFpUzhHVDBwdUhtVzZ2MTFVZE9uelo0RXBaOXdFYnpJODhtbWNlSEFWYnNwMEgzSDJuOENyVHFRc015allDVm82RWl4ZA",
+      "topics": ["AI copyright", "policy", "legislation"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Magabala Books urges reform over Indigenous stories used to train AI without permission",
+      "summary": "Australian Indigenous publisher Magabala Books is calling for legislative reform after Indigenous stories were used to train AI systems without the consent of their communities or rights holders.",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWWxETXNDM0pIR1hPc3E2UC0yN0VVd1ltT3IwMEc3akw2NVowMUMteGZka2M5bmVseHBUQ2NxRTA0U1d2dTB2ZEk3cG51eDh1bWxBQzZrWEEtcjRnbU5ZcldPcy1rcThrUnZkNGVaSkVLa0xqeWV0R2tqdncxMXp2cVRtaDBUbVYtWVBrdVdFcnI0cjFHcExoNGp2RF9JcnZzOEJjTXk3eUlvcDdxR1FxZ1EyS1g3U1VFZXY2Vg",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "Paul Kelly pleads for Albanese to 'show some backbone' over AI as creatives campaign for copyright protections",
+      "summary": "Australian musician Paul Kelly has publicly urged Prime Minister Albanese to strengthen copyright protections for creatives against AI, as a broader campaign by artists intensifies ahead of potential policy changes.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNblY3aDAtdjZuRDJDN0cxT1M0RGliVkdNQWs1MFE3U0ZfZjNXMzVTOU1uVHNwSU56QjRyTlpuUGlOVDUwblJFSHFJbTZpZktQYjk1em9ZMFpFa3RyNmxJZDhsNTh4M3kwZUIwdUl4NVh4MXNtSkFBczIxTU9SbGFsSlM5bDVQcWJBM0k2SlFGaTBxWnRwTnRQR0NJT2lOQmE3eExCY0JZUlJVNVAxWnFtb0NPaWM",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Publishers Push to Keep Search Access While Setting AI Terms",
+      "summary": "Publishers are seeking to maintain access to search engine traffic while simultaneously negotiating separate terms to restrict or license their content for AI training purposes.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ2lrRzVpWEFjTU5jRTZzTTRSWm83R3Bkaks5SDItTlp0WEN4Zm81WHhCZndLcVVjX2loaGNGWWxhVHpUOG5ocHJBVmdnWTNjclp4aVB4VUsyTktDbEFpeDRrMHZQbTJzSG0yUTZMMVJjMGdkM1dyNENaamZVZEYxTl9LWVNvWUtWb2ZmOW1lbmlOeHR3UGFUWUppOWtNOG90R0V0YWJUS3k",
+      "topics": ["AI copyright", "licensing", "book publishing"]
+    },
+    {
+      "title": "AI Copyright Decisions Raise Broader Questions About Institutional Governance",
+      "summary": "Recent AI copyright rulings are prompting wider debate about how institutions and courts should govern the intersection of AI development and intellectual property rights.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc2hzT1FfN2EtYzRwNkFDbGtwX3lvakh3NHJJVWJ0Tkw1OHE1ZWVDdmhEWUsyYzVSQ3Bad2JaeE1QaThrcFRINjhsajIyOTVPdndLQVVNb3hRZ3lfRjQ4YjNHLXNtMDctcFRXamk0aFFXSWtQMEh2RWFrZEhLUXZwTVlTSDZjMW1aelN2V2lwblBLaTZGeXlncUZzUUtEdjg5aGx5ZEh5SFc2LUtQZW5Z0gG0AUFVX3lxTE9FdmlpSGlJQWZkczBybFRkbGdpSDBNREVkRDJlMnlLcVBBZ3FzaV9KRFFVNW9YVUxLOWx1UXRjMWVSaWtmYWFJOWo4QmRoUURmVW9kVnZiMlVFTXp5d1dvenlZQzZsb2liUXY3RldITWVBZ01KaXB5eWYtN3l0d05XNDRsblhQTEZMMUZQS2UwclpIVEpJSV80aFRlQXdJd0hqR3lvSjdES0dYaDBobDBESDZZSQ",
+      "topics": ["AI copyright", "policy", "litigation"]
+    },
+    {
+      "title": "China's Supreme People's Court Issues Its First Comprehensive Guidance on AI-Related Disputes: An IP Enforcement Perspective",
+      "summary": "China's Supreme People's Court has released its first comprehensive guidance document on adjudicating AI-related intellectual property disputes, setting out an enforcement framework for courts across the country.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaFlxa3ZKODFLSEtST3l0c2JRS05MYzZGc2lTQlc0Q1k5QUZJWERZcmFuR3lZY1l3Q3NQTjA2T3ZNVFJHb1NTTFZhbGE5UHlaUWRKaGdrRmxfbW1MWTFFTUNtOXQ3eU0wODhBeWNCdXZiZUh5REE4MlRzU1RjSTZ5WFlVZmREV2c",
+      "topics": ["AI copyright", "litigation", "policy"]
+    },
+    {
+      "title": "Human or AI creation? How to prove authorship",
+      "summary": "IPKat examines the emerging legal and evidentiary challenges courts and rights offices face in determining whether a work was created by a human or an AI system.",
+      "url": "http://ipkitten.blogspot.com/2026/11/human-or-ai-creation-how-to-prove.html",
+      "topics": ["AI copyright", "authorship"]
+    },
+    {
+      "title": "Elton John backs Australian artists in fight against AI in surprise Aria awards appearance",
+      "summary": "Elton John made a surprise appearance at the Aria Awards to publicly support Australian artists campaigning for copyright protections against the unauthorised use of their work in AI training.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWEVuNDFLMlNUU1lfZk1lcUJOc3NFRklrdjhGdzNrYzA4c0FqNGNURkQ0aU10ZjhCRl9sY2JPQ2xtR09lalRXMUFnSW80VG1UenF2blBad090X3p1R3lfQzUwYUdkRHdaNzgyNVZjRTROa3hLUGttbF9LQUtHMDQ2SVNWMkd0eGhEN0F1ZUpQZXRibm5DRzJsVGpOdHBlbllRT2NrTDdyTXROSGFi",
+      "topics": ["AI copyright", "licensing", "policy"]
+    },
+    {
+      "title": "AI Is Changing the Book Business. The Literary Community Is Pushing Back",
+      "summary": "A broad overview of how AI is disrupting the book publishing industry and the growing organised resistance from authors, publishers, and literary organisations seeking legal and policy remedies.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV0ptT0ZFTmpuYnhiSVN3OEZJUDFXVzFSbnVsTG5XaFNZUU5VdWx3UkY4ZHRTZldkWkZDTEpaemVER3BFV1d0ZEVjME9pUXlQa0ZSTVUwcHN2QVdSN0tVa01fQkJleXI3RU92a1d0ZDUtd3k5MEZhcmVhZ3ptenNadEZrYVNNQ0VSTUp4aHhISllTQjFfWlZWX0twQQ",
+      "topics": ["AI copyright", "book publishing", "policy"]
+    },
+    {
+      "title": "Tamil Nadu Publisher Held for Selling 5,316 AI-Titled Books to State Libraries",
+      "summary": "A publisher in Tamil Nadu has been arrested after allegedly selling thousands of AI-generated books to state libraries, raising concerns about quality control, fraud, and the role of AI in content production.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTThuV3gyZF83VVp0Y0NSZGZhZG9sZkhQZVJwTUhUWHFwTWRJUWFXdGY0d2t1XzhwU3ZfVHRIeW56WDFYTFNLc3RCX2hLSzNBOW9zNXNKNVpXNFNCLW5XaXdCclY3OEQ2Tkcyd1NYTkY1YjVVRTRjOEwtM2R3aWd2R1lNZ0F5d2V3X095UjZ4MVkyYWlibjJRUzB6ZEE",
+      "topics": ["AI copyright", "book publishing", "policy"]
+    },
+    {
+      "title": "What distinguishes human creativity when AI can write, paint and compose?",
+      "summary": "An examination of the philosophical and legal questions surrounding human creativity and authorship in an era when AI can produce works across writing, visual art, and music.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObEpTX3hXcTVwck5KYkcxamExLUE0V2syZi1EVjc2MGxNQ0x1aW1EWUExY3h3dWxKZnhVTkZ1Uzk4Nmpkb2FVNk1hUG5aaHVnQ253ektDelJsUVc0Mjdoc0pPYnZrVHNjWXFtNjRWZDdna3lsd3NpVlhMVGRwWGhZUjhPU3ktRE1XbXdzWg",
+      "topics": ["AI copyright", "authorship"]
+    }
+  ]
+}
