@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "AI prompt paper retracted by journal after investigation",
+      "summary": "A peer-reviewed journal has retracted a paper about AI prompting following an investigation into its integrity. The case highlights growing concerns about research integrity in academic publishing as AI-generated or AI-assisted content becomes harder to detect and verify.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTFc4MXhYYUdweldPYzdEbkFaekExSzUwVXY4VjBaakZnckR3VkYzb21FZEtiMTNtekVORThqNjEtaS14bXBUbGtwejB4SGhCWFFvZVJLaFJSN0JmbFo3bFkxejFjUHRFRUhCR0NOdmhxcmFIY1U3Yy1PVVZGTDJ4QVg2cWlEY041aHZGS09zTnpjelEwaDNWMmdNaw?oc=5",
+      "topics": ["academic publishing", "research integrity", "generative AI"]
+    },
+    {
+      "title": "Anthropic's Record-Breaking IPO Highlights the AI Giant's Worst Enemy—Itself [Metered]",
+      "summary": "Anthropic has begun trading on Wall Street in what is described as a record-breaking IPO, but the company faces internal tensions between its safety-focused mission and the pressures of operating as a publicly listed company. The piece examines how Anthropic's 'good guy' reputation in AI safety could be tested by the demands of investors and commercial growth.",
+      "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+      "topics": ["Anthropic", "AI safety", "AI industry"]
+    },
+    {
+      "title": "Generative AI Disclosure Cannot Fully Capture Manuscript Provenance in Scholarly Publishing",
+      "summary": "A new study argues that current generative AI disclosure requirements in academic publishing are insufficient to fully capture how AI was used in creating manuscripts. The authors contend that existing frameworks fail to account for the complexity of AI involvement across different stages of research and writing, leaving significant gaps in transparency.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUjBKem5jaTlLUjhFWWVwT1YtWlJxVGJlYUVkbWJaUzNtel9hRk5FaTE4STVKSUxNZjRGWUFhS1d1eldfQm1sNHpQTjE5VjBfRU1FRnZkNnpnMnFLaXltWlVZRkN0c3NDVDB0bzFKTEpQRGRRaC00VWZZakFtRkk3WG1la3RUSEZSWGh4TnV3Sk5hYWlhY1Y1YzRsdjNIY0NpMlhFWWpfVDNZVzA3TWNGOUhfMnhUcTg?oc=5",
+      "topics": ["academic publishing", "generative AI", "research integrity"]
+    },
+    {
+      "title": "Google is putting AI chats right on the homepage",
+      "summary": "Google is integrating AI chat functionality directly into its search homepage, marking a significant shift in how the company presents its core product to users. The move reflects Google's ongoing effort to embed generative AI more deeply into its main search interface.",
+      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "topics": ["AI search", "Google", "generative AI"]
+    },
+    {
+      "title": "Gemini on Mac can now use your computer",
+      "summary": "Google has launched computer-use capabilities for Gemini on macOS, allowing the AI assistant to interact directly with the user's desktop environment. This positions Gemini as a more capable AI agent for Mac users, competing with similar features from other AI labs.",
+      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "topics": ["AI personal assistant", "generative AI", "large language models"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "With the biggest IPO of all time, Anthropic's 'good guy' reputation is on the line",
+      "summary": "The Verge examines how Anthropic's public listing tests whether its safety-first mission can survive the pressures of being a publicly traded company.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+      "topics": ["Anthropic", "AI safety", "AI industry"]
+    },
+    {
+      "title": "Can AI Save Peer Review from AI?",
+      "summary": "An analysis of whether AI tools can be deployed to detect and counter the flood of AI-generated content threatening the integrity of academic peer review.",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DX3dWaTBfMTJNbGFBVjR5Um9VTnc1R3pQbEEwZjBlZ1JKNU9CbFV0eHZseEptbHh3elMtM1Z3RVhLLW5POUQzbnZ4Z2tpNW1xbFZ2b2FRcUp3cFJKRzJMam5GMFlpWDhQSlJlWA?oc=5",
+      "topics": ["academic publishing", "AI detection", "generative AI"]
+    },
+    {
+      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "summary": "OpenAI has added Live Dictation to ChatGPT, enabling real-time speech transcription as users speak.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "topics": ["ChatGPT", "large language models", "AI personal assistant"]
+    },
+    {
+      "title": "Google Built a Giant 'Mirror Dimension' Internet to Test Its Chrome AI Agents [Metered]",
+      "summary": "Google created a large-scale simulated internet environment to safely test AI agents operating within the Chrome browser before public deployment.",
+      "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
+      "topics": ["AI personal assistant", "AI safety", "Google"]
+    },
+    {
+      "title": "AI isn't replacing your job. It's turning it into low-paid gig work",
+      "summary": "Rest of World reports on how AI is restructuring labour markets by fragmenting skilled work into lower-paid, piecemeal gig tasks rather than eliminating jobs outright.",
+      "url": "https://restofworld.org/2026/ai-jobs-skills-gig-work/",
+      "topics": ["AI industry", "AI ethics", "generative AI"]
+    },
+    {
+      "title": "Canva adds an AI 'off' button",
+      "summary": "Canva has introduced a toggle allowing users to disable AI features across its platform, responding to user demand for more control over AI involvement in their workflow.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+      "topics": ["generative AI", "AI ethics", "user privacy"]
+    },
+    {
+      "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
+      "summary": "A US court has ruled that AI-generated probable cause assessments are incompatible with Fourth Amendment protections, raising significant legal questions about the use of AI in law enforcement.",
+      "url": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
+      "topics": ["AI ethics", "legal", "AI governance"]
+    },
+    {
+      "title": "The AI Superintelligence Debate Has Serious Flaws",
+      "summary": "IEEE Spectrum critiques the assumptions and reasoning underpinning mainstream debates about AI superintelligence, arguing that key claims lack rigorous grounding.",
+      "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+      "topics": ["AI safety", "AI ethics", "AI industry"]
+    },
+    {
+      "title": "Apple is hiring engineers to build its own AI agent",
+      "summary": "Apple has posted job listings for engineers to develop an in-house AI agent, signalling the company's ambitions to build more capable autonomous AI functionality.",
+      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "topics": ["AI personal assistant", "AI industry", "large language models"]
+    },
+    {
+      "title": "Why AI-enabled scientific research is a double-edged sword",
+      "summary": "An analysis of how AI tools are simultaneously accelerating scientific discovery and introducing new risks around reproducibility, bias, and research integrity.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ05HOGVwYzktZ19fcjFwNGJuWGdINGZvVDhtcmYxTVZqWVRMSS1fU0NWWG9yYkU0Wm51TTJCN3dVZl9uamgySHI5eVFjdTRUVkZDTlN1ZVRFekhFSjdUS1dFTFR0SVRzVnBqR3p0S2lCbU1FRGpjLUx0SmNpNk9qZmNiUTl3amd2NU1oWmZnLVBSX0tIZWxOSQ?oc=5",
+      "topics": ["academic publishing", "generative AI", "research integrity"]
+    }
+  ],
+  "ethan_mollick": null
+}
