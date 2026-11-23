@@ -1,0 +1,91 @@
+{
+  "top_stories": [
+    {
+      "title": "Publisher Retracts Paper Hiding AI Review Prompts",
+      "summary": "A published academic paper has been retracted after it was found to contain hidden prompts designed to influence AI-based peer review systems. The case exposes a new form of research manipulation made possible by the increasing use of AI in the peer review process, raising serious questions about research integrity in academic publishing.",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMzNYbzczWXlZX1FObjVJelNDS19HaUk1YWtNdzZPWFJwMWtDa3loZDQ5dTdvejBzamZjbDJ5R1hkZlF4eEMyMWxFaFRrbm9vS29fT1RzNlkxM2RwYXAxdlBfTGJyb0FjUU9VbGRoLXY0TDE0czlCSHZ0dWVpSE02ZzZSM21zbWx1VndMWTkxOUZTQQ",
+      "topics": ["academic publishing", "AI ethics", "research integrity"]
+    },
+    {
+      "title": "Can Anthropic afford to put safety first?",
+      "summary": "The Verge podcast examines Anthropic's position as it faces commercial pressures following its IPO, exploring whether the company can sustain its AI safety focus amid intense competition from OpenAI and others. The discussion covers Anthropic's structure, funding, and the tension between safety commitments and business growth.",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "topics": ["AI safety", "Anthropic", "AI industry"]
+    },
+    {
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic's second day",
+      "summary": "Global stock markets slumped as a broad AI sell-off coincided with Anthropic's underwhelming second day of trading following its IPO. The Nasdaq erased all of its 2026 gains, reflecting wider investor anxiety about AI company valuations.",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "topics": ["AI industry", "Anthropic", "business"]
+    },
+    {
+      "title": "The most misunderstood graph in AI just got a major update",
+      "summary": "MIT Technology Review reports on a significant update to one of AI's most cited but frequently misinterpreted benchmarks or visualisations, clarifying what it does and does not show about AI progress. The update is expected to reshape how researchers and policymakers interpret AI capability trends.",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "topics": ["AI research", "large language models", "generative AI"]
+    },
+    {
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "summary": "A mathematician at Anthropic claims to have solved one of the seven Millennium Prize problems with the assistance of Claude, Anthropic's AI model. If verified, it would represent a landmark achievement for AI-assisted mathematical research.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "topics": ["Anthropic", "generative AI", "AI research"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
+      "summary": "Ars Technica reports that vulnerabilities in the AI supply chain are leading to significant unintended exposure of sensitive user data, with canary token research highlighting how widespread the problem has become.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "topics": ["AI safety", "user privacy", "AI infrastructure"]
+    },
+    {
+      "title": "Banks Have Had It Up to Here With Your AI Agent [Metered]",
+      "summary": "Banks are pushing back against the growing use of AI agents by customers and third parties, citing fraud risks, compliance concerns, and unauthorised account access.",
+      "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+      "topics": ["AI regulation", "AI personal assistant", "business"]
+    },
+    {
+      "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street [Paywalled]",
+      "summary": "The Wall Street Journal reports that Anthropic's disappointing IPO performance has contributed to a broader $4 trillion decline in AI-related market valuations.",
+      "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
+      "topics": ["Anthropic", "AI industry", "business"]
+    },
+    {
+      "title": "Trump threatens 'tremendous tax' for moving AI data centers outside the US",
+      "summary": "President Trump has threatened to impose significant taxes on companies that relocate AI data centre operations outside the United States, as part of broader efforts to keep AI infrastructure onshore.",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "topics": ["AI regulation", "AI infrastructure", "AI governance"]
+    },
+    {
+      "title": "The Mythology of Conscious AI",
+      "summary": "Noema Magazine examines the cultural and philosophical narratives surrounding claims of AI consciousness, arguing that popular mythology is outpacing scientific evidence.",
+      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+      "topics": ["AI ethics", "technology ethics", "generative AI"]
+    },
+    {
+      "title": "When AI writes and when it merely edits: Who owns the words?",
+      "summary": "A legal analysis explores the increasingly blurred line between AI-generated and human-authored content, and the copyright implications for writers and businesses using generative AI tools.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbzBDblR5NHBHdXhxanl4bmFPTWtXSFNUQkVhWjhCU1BuMUNYbEVhVWZvTlcybmIxTXU1UFFacjlQVUFwWXhXYWRxTWJhS01ZWUZsaVI5bkVKQzB3WFNDWkZpRUNSbXRYaHZMRFo4eDQzdzhSRjF2NnlwWDlTU2xsbE1xcWZldGk2amVfYU1RZWNIOXp3UXV0TWFoa0VtVmgxM0dxNHB0TUVObzg",
+      "topics": ["copyright", "generative AI", "legal"]
+    },
+    {
+      "title": "Google workers tell their employer not to punish schools that don't want AI",
+      "summary": "Google employees have petitioned the company not to penalise educational institutions that opt out of using its Gemini AI tools, raising concerns about AI adoption pressure in schools.",
+      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+      "topics": ["AI ethics", "Google", "AI governance"]
+    },
+    {
+      "title": "Elsevier LeapSpace: Features, Coverage, Access",
+      "summary": "An overview of Elsevier's new LeapSpace platform, examining its features, content coverage, and how researchers can access the tool for academic and scientific work.",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5rMERaQlFnVExvMzZOTVNHODIyNlRVVFVrOVZxa0FhQmRMN2FJNW5SdEE2R3lIWkFNVjc5cW5jZ0paT01KbjhUY1VuSW9ldVZNbGNHMnVtbw",
+      "topics": ["academic publishing", "AI tools", "generative AI"]
+    },
+    {
+      "title": "The UN fails to agree on rules regulating 'killer robots'",
+      "summary": "UN member states have failed to reach consensus on a framework to regulate lethal autonomous weapons systems, leaving the governance of so-called killer robots unresolved.",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "topics": ["AI governance", "AI regulation", "defense"]
+    }
+  ],
+  "ethan_mollick": null
+}
