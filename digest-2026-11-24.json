@@ -1,0 +1,97 @@
+{
+  "top_stories": [
+    {
+      "title": "Publishers Probe AI Fingerprint Blood Type Papers",
+      "summary": "Academic publishers are investigating papers on AI fingerprint blood typing, raising concerns about research integrity and the role of AI-generated content in scientific publishing. The story touches on the growing problem of AI misuse in academic literature, including issues of honorary authorship and misrepresented contributions. This follows broader scrutiny of AI's impact on the credibility of peer-reviewed research.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWN5eThYbGFCQ05hVEY5TUJOcVFybzB3SDBFZnptZXNQSmhaWDh0b1ZpLS1yR2x5ekowZnR3NGtNa2h1ZVNVX0lVbWtlWUtZT2c5SWdBTmhBYklOZno3STRLcmdyUXpvVlhYaDBrc3lQUkdBdnVoM2pVeWpBRmNVRnQyOHJiYk0xem43SmktRzFDUEwxNzRJVU1tOTE",
+      "topics": ["academic publishing", "research integrity", "generative AI"]
+    },
+    {
+      "title": "Claude AI can review pull requests and ship fixes on its own now",
+      "summary": "Anthropic's Claude can now autonomously review GitHub pull requests and deploy code fixes without human intervention. The new agentic coding capability marks a significant expansion of Claude's autonomous software development abilities. This positions Anthropic more directly against competitors offering AI coding tools with similar agentic features.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+      "topics": ["Anthropic", "AI coding tools", "large language models"]
+    },
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "summary": "OpenAI and Cisco have jointly announced Shirudo, a new security product designed to protect AI deployments in enterprise environments. The collaboration combines OpenAI's AI capabilities with Cisco's networking and security expertise. The announcement signals growing enterprise focus on securing AI infrastructure as adoption scales.",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "topics": ["OpenAI", "AI infrastructure", "generative AI"]
+    },
+    {
+      "title": "Honorary Authorship and AI Writing Misrepresent Genuine Contributions in Scientific Research",
+      "summary": "A new report highlights how honorary authorship and AI-generated writing are increasingly distorting the integrity of scientific research by misrepresenting actual contributions. The findings raise serious questions about accountability in academic publishing and the growing difficulty of distinguishing genuine scholarship from AI-assisted or fabricated work. The issue is prompting calls for clearer standards and disclosure requirements across research institutions.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN2U0aGtNRUV3NERyZkkyX1YwTmF4N2RQamotVG5hU243dGpTd1N5eFRUVGZHWlhyNThrZDdTeC11Z2ZtM0pLRzNzYzlKOEp4QU5BeXVBbk43NW9md3BwMHZjaDdCSDBCa1plc1VvOVk2TXpMTkFhaUVydWRhZTBkNnA5Um44bmQ2N1g2ZWxHWGxsQjFtWXF2Wi1iaHYxeXFmLVNBODlnUE9XdXRuSFBfNGQ5Ml9XOE1n",
+      "topics": ["academic publishing", "research integrity", "generative AI"]
+    },
+    {
+      "title": "A legendary philosopher isn't buying Anthropic's consciousness argument [Metered]",
+      "summary": "A prominent philosopher has publicly challenged Anthropic's claims regarding AI consciousness, pushing back on the company's framing of the issue in its model welfare research. The critique questions whether Anthropic's arguments meet the bar required for serious philosophical consideration of machine sentience. The debate reflects deepening tensions between AI companies and academic philosophers over the ethical and empirical status of large language models.",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "topics": ["AI ethics", "Anthropic", "AI safety"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Oregon and Virginia sue SpaceX over Grok's porn deepfakes",
+      "summary": "Oregon and Virginia have filed lawsuits against SpaceX alleging that its Grok AI tool generated non-consensual pornographic deepfakes, in a significant legal challenge to AI content safety.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
+      "topics": ["AI ethics", "legal", "generative AI"]
+    },
+    {
+      "title": "Goodbye, World: The End of Programmers [Metered]",
+      "summary": "Wired examines how advances in AI coding tools are fundamentally reshaping — and potentially ending — the traditional role of software programmers.",
+      "url": "https://www.wired.com/story/goodbye-world-the-end-of-programmers/",
+      "topics": ["AI coding tools", "generative AI", "large language models"]
+    },
+    {
+      "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
+      "summary": "Reports surfaced that Anthropic CEO Dario Amodei suggested in 2015 that video games could keep people occupied if AI-driven automation led to mass unemployment.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
+      "topics": ["AI ethics", "Anthropic", "AI industry"]
+    },
+    {
+      "title": "Meta Muse can do your Black Friday shopping at Walmart",
+      "summary": "Meta has launched an AI shopping assistant called Muse that can browse and purchase items at Walmart on behalf of users, debuting ahead of the Black Friday shopping period.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "topics": ["AI personal assistant", "generative AI", "large language models"]
+    },
+    {
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "summary": "Google DeepMind details how AI agents combined with formal verification methods have been used to discover faster quantum algorithms, advancing the frontier of AI-assisted scientific research.",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "topics": ["AI research", "generative AI", "large language models"]
+    },
+    {
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "summary": "The surging energy demands of AI data centres are complicating negotiations at the UN climate summit, as policymakers struggle to reconcile AI growth with carbon reduction commitments.",
+      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "topics": ["AI infrastructure", "AI compute", "AI governance"]
+    },
+    {
+      "title": "Connected intelligence for in-house legal",
+      "summary": "OpenAI has published a guide outlining how its AI tools can be applied to in-house legal work, including contract review, research, and compliance tasks.",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "topics": ["OpenAI", "legal", "generative AI"]
+    },
+    {
+      "title": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+      "summary": "The latest Import AI newsletter covers Huawei's kernel performance benchmarks, airborne drone detection research, and a new national laboratory benchmark for evaluating AI in scientific applications.",
+      "url": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+      "topics": ["AI research", "AI industry", "large language models"]
+    },
+    {
+      "title": "Submit Your Questions: Will Anyone Keep You Safe From AI? [Metered]",
+      "summary": "Wired is soliciting reader questions ahead of a livestream event focused on AI safety and governance, examining who is responsible for protecting the public from AI-related harms.",
+      "url": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/",
+      "topics": ["AI safety", "AI governance", "AI regulation"]
+    },
+    {
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "summary": "OpenAI's customer story highlights how Richpanel used its API to automate half of customer support interactions within a month, illustrating growing enterprise adoption of AI-powered service tools.",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "topics": ["OpenAI", "generative AI", "business"]
+    }
+  ],
+  "ethan_mollick": null
+}
