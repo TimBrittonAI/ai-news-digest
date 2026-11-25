@@ -1,0 +1,96 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "First CJEU generative AI case: Advocate General considers AI training and press publishers' rights",
+      "summary": "The Court of Justice of the EU has received its first generative AI case, with an Advocate General examining whether AI training on news content engages press publishers' neighbouring rights. The opinion is expected to shape how EU law applies to AI data scraping across the bloc. This is a significant landmark for AI copyright jurisprudence in Europe.",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdGUtZkw5aDJyek5LY0VxYUVGV3I2VjN4dHdteUdKVV9NVEIxR0lEQTh6RU5YZ1pEQjl1Yk9xNnk0dzZKRFgxZjY0SUhEUU5lZGtJTTJhS2gzQklyTWpnS2piM015R0JyMVNET3NTeHpRQUtpUjJkb2NsdUhQMkRtUkxjNDZsRGFNZmNqdTFBUHdnNmN6dEVlNkxaeW9pX0RDcmJRSFRHdk5jdTV0aV9kWDVULWhxQkxEd01uRTlQSmFRVWladW5hM2wtc1VRaWJrOWlEanZ1bVU2Qy1lWWJOa3dzWVFBLTVUWHpWb2U5UQ?oc=5",
+      "topics": ["AI copyright", "EU law", "litigation"]
+    },
+    {
+      "title": "Eminem's Publisher Expands Suno Copyright Lawsuit With 108 More AI-Generated Songs",
+      "summary": "Eminem's music publisher has significantly expanded its copyright lawsuit against AI music generator Suno, adding 108 additional AI-generated songs to the claim, which now totals $47.7 million. The expansion underscores the growing scale of litigation by rights holders against generative AI platforms. The case is closely watched as a test of copyright liability for AI-generated content.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWnltY1Vhb0VVUmpfWFh6bHVEWGpNX1lyVTFZcE5xbjd6NjZFWE1ZZlBoVXBIOWs1OUNuQk50SEZCZmtBMXMzTWRscTluNXBxLXRua2tIdFVLeTNuaEVEakpTdFozcnhaS1A4M24xc3B5ZW5VYV9lZ2FBSWlTRi02RlY0UmxuWnlqTktTd0pMVEcxUHJ2RFE0Skt1eE04THRfallSNUZ2NkxJQ3k1UGt3?oc=5",
+      "topics": ["AI copyright", "litigation", "licensing"]
+    },
+    {
+      "title": "When Does AI Training Harm Copyright Owners? The Third Circuit Weighs In",
+      "summary": "The US Third Circuit Court of Appeals has addressed the question of when AI training on copyrighted material constitutes actionable harm to rights holders. The ruling adds important judicial guidance on fair use and market harm analysis in the AI training context. The decision is likely to influence pending AI copyright litigation across US federal courts.",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTXdraWdwdHRicDlFR1dHbjFnc0V4SWxYLUN2Qm5KZ1MybnozQ3RHdFhzUGJDRWVWQnZhTjBOcllhZE1mYWo3R2NVTUNlWmczUmlwd3kwUmd0bUwzMkVVNlZZUlA4VVNzcUZCS0VOZlp1UlJVVDlVNjRRTGZtcTZHWlJLS2YwbkppOTNrZWpCX0I0VVUxX3F6ZmZkLWc4bXhXRUpPVnhRLUxFN2hfaGZTaDBOcmw4ZXdfNHdFMHNDR1hPNnc?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Tor Pulls Ilona Andrews Cover Over Generative AI Use [Metered]",
+      "summary": "Major science fiction and fantasy publisher Tor has withdrawn a book cover by bestselling author Ilona Andrews after it emerged that generative AI was used in its creation. The decision reflects mounting pressure on publishers to enforce policies against AI-generated artwork. The incident highlights ongoing tensions between AI tools and human illustrators in book publishing.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101841-tor-pulls-ilona-andrews-cover-over-generative-ai-use.html",
+      "topics": ["AI copyright", "book publishing", "AI tools"]
+    },
+    {
+      "title": "Labor wins Coalition support for AI copyright change despite backlash",
+      "summary": "Australia's Labor government has secured cross-party Coalition support for proposed changes to copyright law that would accommodate AI training, despite significant backlash from creators and rights holders. High-profile artists including Kate Bush and Grace Jones had urged the government not to legalise what they described as AI 'theft'. A parliamentary committee report has recommended the changes, though critics say it offers cold comfort to Australian creatives.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOc2ZncVBOVXBmOXVvMHNYWFpidDZ0S0k4Y1dTSVlEZDU3c3pVQUxUdnpfNm4xeS1XT0xpUENiVjRNUk1GbWROY0V6OXpjeFk3VDRWVkdSSE9jMVhhZ0VtLUxTTmlqNnNDNDNkd0lGVkVtR1IyTkZpcnZ1YlE0Si1reWZXaGYySENJa25TdVV4NllFUWgzLXpVQg?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Nine tests authenticated access to its journalism in corporate AI tools",
+      "summary": "Australian news publisher Nine has piloted a system to authenticate and control access to its journalism within corporate AI tools, representing an early test of technical licensing enforcement for news content.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaUhxUVhJbXBhMDlPelMwczFMclhMa2cwNVpBOEpGS19ubmtXbGFxWXl2MUF5YkJBT25VX0oybGlOaDdtVmRpMWxQbHhGcWJwRVNVTGRweURjdGFwWjFuS1VyRmFSdXRmbVNrU2xod1FKOEplQjU5ajlhM2thM0p3Q0dhYUVzSzNsUnN1Q3F1V0JQc3JjNDRDSWJqblNPVHlSSHdqakVsNUhPbmxmQ1FIaEp5SEZyZWd6eDZnRTVMS1g?oc=5",
+      "topics": ["licensing", "AI tools", "testing"]
+    },
+    {
+      "title": "Nine Leads With First-of-Its-Kind Authenticated MCP Publishing AI Pilot in Australia",
+      "summary": "Nine has announced an authenticated Model Context Protocol (MCP) pilot enabling publishers to control how their content is accessed by AI systems, described as a first of its kind in Australia.",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOGhfUEtCbDNFeVVLOVhjYkxRVmVDaGMyUnZJdFp0R3JnWHN1UVhBQVF0VzZEQm9xVVVhOTA1U0Q0ZlBkOWl6dUhmNEd3MnV0YnJTQ0tzYk5ITjZhV1ZtWmRuZHlQcnZtdXVLMVlvZE9qWWdZdVd2MFZlRldLMVN1N214TC1vRVQ1VHROZV8wbDVxOWU4Y0wyaVNLS0Rxc0otTmhZRkZweDRKMlRrVXdaUTBXcW5XZEdYRm94cjZhbkxGV3FjeTJGNVlWalk?oc=5",
+      "topics": ["licensing", "AI tools", "book publishing"]
+    },
+    {
+      "title": "Report: Weakening Copyright Law For AI Would Lose Votes In 21 Key Electorates",
+      "summary": "A new report argues that weakening copyright protections to benefit AI companies would cost the Australian government votes in 21 politically significant electorates, adding electoral pressure to the copyright reform debate.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ01QUTUyNGR1V3JXbERaTnVKdTVQMFA5V2RnR0pGend6ZUx1MkRpWmdONDdUZXRuTW9XaExNd3M3QVZwRTRxallqeXRNZnNRaHpOYkFDT25xNEpFN1FWM2RXc1A4U2M1QXVxUmNQeEdBNkxpQUlyZmpaYUpBM09keGxTNkpjQlFuWkZNV0dxNDloU1ZuRmRYSWVyLUhUd29oVTZIYmd4dERUVDRjcjN0dGwwS3FJSV9SZ3EtQlByMlp0ejFrTDZoeDN3?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "AI Panel Seeks Incident Reporting, Copyright Reform",
+      "summary": "A government AI advisory panel has called for mandatory AI incident reporting mechanisms alongside broader copyright reform to address the challenges posed by generative AI systems.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYURCVFNNZnZ2TjdndkR2OHp6dDF5ZVRhNlFLR05WR3RxYmdtWDJkVHlJejNSbkltVmVnRUpyc19BdGxfcnQ1LU1wSG5GZWFlcUdwSFk3N0M0T3loT3pZc1J3dzl0SXhCRnl6RklZQXVQTEsyaGNtUHFNZF9Tb2JaN2VZNHdSSWRyaTFmRG5fMmxvQUp40gFYQVVfeXFMUEEzX1dPM0pJQzhmamp5V3c0WGJKeVBtQzRwRWhEQUtSbzl3WDI3SVhmWlI0VTlPYnFfdGg5TFBZOG0tclM4SThWLWpleUVtMkkyNEVkOGxiRQ?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Julia Louis-Dreyfus Files 4 Trademarks to Fight AI Infringement",
+      "summary": "Actor Julia Louis-Dreyfus has filed four trademark applications as a strategy to protect her name and likeness against unauthorised AI use and infringement.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcElRNHQ1QkFOYXVLeWRFWFhLMHNNdW9jdlJJNWE5aHpCS1BLMVp3RnRNMF9qbWl3X251cHA2U0hHMnNpcm5XR3RmM1FQUnIwaXhnMkFDVGIwdXNwQ2REbm5nNUMyekZHUjlCNFFhMVpmLS00cTQ0YXl2OV92YUtjeW5vOERmeWRiVEpuU2drNVZyMzZpTm14ZzhzYw?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Cold comfort on copyright for Australian creatives in new AI committee report",
+      "summary": "Analysis of Australia's parliamentary AI committee report finds that while it acknowledges creator concerns, its recommendations offer limited practical protection for Australian creatives facing AI-driven copyright challenges.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYk9XWnRlYldnN2lZeWdlZHRqelpMSXdMLWZiUlYxOGVHNXNLaklFT2dGLTh5M1QyTW1JMFVXYXlqbEhhS2xyd0NvQ1lSUjhnVlBiTHM3a3pxT24xMlBISzVOMHR5RUxKejU1M3NGREJmRGhOb3RJVEd4MWpYbXJnX21RNnU2ZDgxYzFJT3lWTW5xQUd3RWRNeWEtakdsa3JOaGRsQzlWWXVEakJOb2VVWHln?oc=5",
+      "topics": ["AI copyright", "policy", "book publishing"]
+    },
+    {
+      "title": "Know-How And Artificial Intelligence: The New Paragraph 1-bis Of Article 98 Of The Italian Industrial Property Code",
+      "summary": "Italy has introduced a new provision in its Industrial Property Code extending trade secret and know-how protections to cover AI-related contexts, with implications for how AI-generated and AI-assisted information is protected.",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNQTQwQjBoRThmQ3pEcFVyM3BIcHBvNlA5MVlkOE40R2wzcE5nYnhmMXVmemxaV0p4MXBaTFdiemdKZTBDODhMUF94UG5GbWl1dDgzbEMzajc4WXROZHVxalZEbzFSY0hkY3BCRDBFRWp1dW1UU0xMZXNCZnA5SGhEbzczazNnZ3QteHlQQzdMdzg2ZjJKMDdFZVJtTXNrSFhGejVPQ240YzRkT2xIZnE1V0czdE0tbVBtWDEzQVdCRlM4eUtldWJBMDBVTFlIVVUxUXhWTWxPcTlOSllVOW1SRUdSLS0wazgtdkRLREMzQ3pJbVF2VnpLZW1GbnNNdWFLRGRDcExHbElBdjlP?oc=5",
+      "topics": ["AI copyright", "EU law", "software"]
+    },
+    {
+      "title": "ARIA acknowledges the AI Committee's copyright recommendations",
+      "summary": "The Australian Recording Industry Association has responded to the parliamentary AI committee's copyright recommendations, acknowledging the report while signalling continued concern from the music rights sector.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFczMXlRVjZTYmNGbjNRdWJiSHJPQkNJdkQwX2lFTFdFclVHQ3pjOHIwS19ZZkkzc1pSaFVVMEdTTTMzcEdqMFlFLWdLaDdHZmU4M0IyS1p0ZnJMbGpjLV9ud0l0eksxd05zWXJjMTJRdFNvNURfTWkzOFd0dGVnZFA1VVRXeUo1anFtLW1ydlMzRWZIYlg5QzZyRjVoRURp?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "One-Third of 2 Bay Area Courts' Filings May Be AI-Generated, Study Says",
+      "summary": "A study has found that up to one-third of court filings in two Bay Area courts may have been generated by AI, raising concerns about accuracy, hallucinated citations, and professional responsibility in legal practice.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTEhmVzRTSU90TVU2Y3VYYlJCQmNteUNGSWpUSHhhRndrdDFfeTROZ3Nnc3NDWkZtMkF1VXRzRzhnekN5dkpRWndIeUJBMXhuMWZITTlQdmhFay1tNHoxMXF5Z0tPMjNzQ2JLc2k5MTVzVWZTTV9vdjJodnhidGY3MGs2UkZtOUdRWTg2c1lxY3k5bDZmZnJlYTYyZUUxX1NoSmlvV0ljRWd5b1JzbVAyRW5PNA?oc=5",
+      "topics": ["AI tools", "litigation", "legal services"]
+    },
+    {
+      "title": "Navigating AI Search: How We're Advocating and Building for Publishers",
+      "summary": "An industry advocacy piece outlines strategies being developed to protect publishers' interests as AI-powered search tools increasingly surface and summarise published content without direct traffic or licensing agreements.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OV3JkQkRoNk1oa0hSdC01Q01ja3Rqb3lFbVNjMW5Rclo3eEIxdWZRS1RUNW54NXFXTE9UbV9jWDJZUGJJWktVRnllSno4SGNhM0VnQ2RWWGtwcVBhTFpZaGVILXdPVVdlbjVscjBENVZsTldaUFE?oc=5",
+      "topics": ["AI copyright", "licensing", "book publishing"]
+    }
+  ]
+}
