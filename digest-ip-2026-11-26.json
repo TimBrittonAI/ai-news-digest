@@ -1,0 +1,84 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Mind your T&Cs: how AI and copyright reform are unsettling artists",
+      "summary": "The article examines how changes to terms and conditions by AI companies, alongside proposed copyright reform, are creating uncertainty for artists over how their work may be used to train AI models. It covers the broader tension between creator rights and the AI industry's appetite for training data, with reference to Taylor & Francis among others navigating these pressures.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2hVemt0LXdJRVl0QnF1RjhhSTJrVndpZkg5UkNBWTBOcFhwVTV6YUJySDhFaGhpY1RDU1J0ZkFzeldPSW1HN1Q5ME5hejRsdnJtdnY3akxGNHg4a0MxS0JxNk50cmFlcFI1RUJELVZVcW9TZXJTbk9UUFVFdTYwSHc5c0hfeDZFbHlMbGJYUENxdkFqYWNad2tpaWFfbnVBNm5iaVAtRTI3aGNC?oc=5",
+      "topics": ["AI copyright", "creator rights", "licensing"]
+    },
+    {
+      "title": "7,000 Creators Sign Letter Opposing Australian AI Training Copyright Exemption",
+      "summary": "More than 7,000 creators, including Kate Bush and Grace Jones, have signed an open letter urging the Australian government not to introduce a copyright exemption that would allow AI companies to use creative works for training without permission or payment. The campaign reflects widespread concern among artists that the proposed exemption amounts to legalised theft of their work.",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PMFJ2WWhFck5zY0NGVmNCRUZuSU91blc0Sk81S0YxMENZZkRyb0xCNzBKNUZvUnlQeExVbzJxX0MwLWtkZzVyS0tMNHVabm9LUmt1TkhEZEFZTjdKZXJnbDFhSjlXQ3dNX3c?oc=5",
+      "topics": ["AI copyright", "policy", "creator rights"]
+    },
+    {
+      "title": "Eminem's Publisher Expands $47.7 Million Copyright Lawsuit Against Suno",
+      "summary": "Eminem's music publisher has expanded its copyright infringement lawsuit against AI music generator Suno, with the claim now valued at $47.7 million. The case is part of a broader wave of litigation by rights holders against AI companies over unauthorised use of copyrighted material for training.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUTB0dWhTX2h5TUVhS2JzMjh2RlhRbmgyQUFHM01uWjBrWmhOdzIwSGxQQkE1WTFGcXFobTNnVzQ4Z0RrQ19HMG9PcG51X3ByQlViWnVqalhUQmZqdGJLbFctTk9fNzlUcnhwWEk3SXNVMFE3NEljbkd5X29abTBXU1N4OUlTZE9oc2F6d1FRdlJneW9lRXNj?oc=5",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "Firm probes copyright class action against AI",
+      "summary": "A law firm is investigating the viability of a copyright class action lawsuit against an AI company over the use of protected works in training data. The probe signals potential for further large-scale litigation against AI developers from rights holders.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTkNZY0NPaGNxdEUwaFkwemdpd2JCZXRWNGNMa3pOdEsyMzk3Z1owN2g0V210QjRONUprQnFNeHFxUFRNRlJsVS1vellPSGNibk5YRzlnSHBCOE1hVGJISVpxZ1RHVEZteUduVXpSeThjSEgwM2h4QUFneWE4N2VnNng1RV9lRG5CZjRXbA?oc=5",
+      "topics": ["AI copyright", "litigation"]
+    },
+    {
+      "title": "Publishers Build AI Tools From Their Archives",
+      "summary": "Publishers are increasingly developing AI-powered products and services by leveraging their own archival content, positioning their back catalogues as a commercial asset in the AI era. The trend reflects a shift towards publishers taking an active role in AI development rather than solely defending against unlicensed use of their content. [Metered]",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMFFLMmllTGNGeGNnbTJEaHpJVnBiVUFRdXk2by1tN21PMmg5V2xvN1RiNlNLMEVIS0JCaVRTLWVQd0M5WGtTMWdYNHVYQnVhVEQxWVBSUi1QOEd6Z2sxRDNwZmFSQm1MaUdwa0lnTGNDMnFfcFNmYV9GZngyMUxfUGswaU8?oc=5",
+      "topics": ["book publishing", "AI tools", "licensing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Indigenous creatives facing 'double colonisation' at the hands of AI",
+      "summary": "Indigenous artists and creators are warning that AI systems trained on their cultural works without consent represent a form of 'double colonisation', compounding historical injustices with new forms of intellectual property appropriation.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjZjd240VjFzdFNVb2VPUkNoLWhZX2NYd0NSU2hmYmFSeDdFYkU0WS1rX050dmk4Qmt2S0dvUWxEQjVDWWw5S2Z5XzdhaE9Fb084YWkxRWkwa254aF9XZ2FhemMxNlpWMFRYX3hqMW5aRDhnYm1vbmo1dl9TZktfYUdwbnBJMlQ1MEtMbWJKM1FtazV0d2FwR1JuVVJTckc5WGZz?oc=5",
+      "topics": ["AI copyright", "creator rights"]
+    },
+    {
+      "title": "AI less likely to harm human creative works than many believe, argues Christopher Jon Sprigman",
+      "summary": "Legal scholar Christopher Jon Sprigman contends that AI-generated content poses less of a competitive threat to human creative works than is widely assumed, challenging some of the core arguments made by rights holders in AI copyright disputes.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOblE3Q2hCR1gtRHh0XzlQU21vbnZ5WUJDRWJKYXlGM0psQ1VwVW1lTHU4ZU52YnFyZDhFYTV6SnhZUVFiODZOUkNiU2NDTzIwTF80X2g4SjE0T1VKMXZIb3YyWmExUnMxOFR3SVpKTDY4cnJkM3BqenlRSXpVMDgzczF2LVpxQQ?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Ministry pushes copyright protection for journalistic works in AI era",
+      "summary": "A government ministry is advocating for stronger copyright protections specifically for journalistic content as AI companies continue to use news articles as training data without licensing agreements.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSWhWby1LTGRXUXFtZE56d2t5QUZmMXFhTlFTc2VmT0tJWkctOVBFNzMxeXpBMEhWY3l5blNYZkxFRTM0SFQ4VDVHREgxcDUzaFdReGVZeTF2bHFMOGw0bFNqWUhaekpSSFJST2EwMjk1YXFrdlQ2Z3FzVXJtdFBFTkx1UTJETXBVT1pXMFNOV2RlMTBSTDZVeVJHX0NNUEU5Q0U5anIyOVExQTjSAbABQVVfeXFMTXdLTklGellJR0RhWDZLY0w3STlZMFpxTHJ4NlFJRnBVZHY1ZXBqZnlfOU0wYk4tS1lnNjd2T3lBQWNGUmV0VE0yMGExTkJuWXhTeDF3a25QS3ViWDBWTkNIU2lqa1YyWVdFWW5fcVBmS2FGU1JZUTk0TmFUM3Z0RG5SeDBaM2VONXhmdVU0dVMyQlhXSGZmUE9mcWJ0SjJudjRSdHRoZnVXWlRYMkdqLUk?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "[Guest post] Can AI-generated works be subject to copyright in Italy?",
+      "summary": "An IPKat guest post analyses whether AI-generated works can qualify for copyright protection under Italian law, examining how existing legal frameworks apply to machine-created content.",
+      "url": "http://ipkitten.blogspot.com/2026/11/guest-post-can-ai-generated-works-be.html",
+      "topics": ["AI copyright", "eu law"]
+    },
+    {
+      "title": "Copyright Law and the Metamorphosis of Creativity in the Age of Generative AI",
+      "summary": "An analysis of how generative AI is forcing a fundamental re-examination of copyright law's underlying assumptions about creativity, authorship, and what constitutes a protectable original work.",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSFNNMGpKd1JCN3ZCZ0IxWTZFLXZqaEYxM1V5WDVlWVE0Mm1feVZBMXpxeEl3SDN2TmZBSFRSUXJvdXlja3ZPUWVlZWVfN3RDckFPYldxR1FxSnVmRkVoT3lZOU1vajNUN1JTUVVMLUdiRXNYd3lxNElGVlNHQmRhdVI0S3Z6RzFDU1R5WXprczJnaHlmVUROTNIBngFBVV95cUxOWEZoaFRWYlpaWllIZTIxM3RaZ3JvUFpQUFcwdWdaVjNReFR6WEtDNEZXdi1QN1pQS0RvZWRWYW9KMjJlb3FIVVlPMXFkMFlQYWdPUmpIRGs5VEFROFQ5Q202NVI1NnduQkQ5SzFyWElwTFhXRGxGUG9CaHVzeFN0ZDlQa05aQTdEb0hJa1BIb3lOX3U2OWcyaTZoWS1YQQ?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Nine tests licensed newsroom access inside corporate AI systems",
+      "summary": "Nine, an Australian media company, is testing a licensing arrangement that places its journalism inside corporate AI systems, offering a potential commercial model for news publishers seeking revenue from AI use of their content.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjMtNWRMMC1aOHJMQUZOT2FBOVlBZFR0M2ZRRXgyTHJWNjNCemZKUFNqRGJrUTFiZkQwLVZqc2FQTzAwSk5RREVyTk4tajNoTURxNnU4Nks4Z290djNNUDFfWW02eTdMcjM4LVFVR3BHU1V1eldBbFptTHlvYWJvV2dYU2hPTS1fTTFVenh2ZTZXbU0xMVJVY2cxd3Z1Vk05UG1jRHNpYzlpTy11Mkt0MlQxbFNrdw?oc=5",
+      "topics": ["licensing", "AI tools", "book publishing"]
+    },
+    {
+      "title": "Who Owns The Runway? AI-Generated Fashion Design And The Authorship Vacuum In Indian Copyright Law",
+      "summary": "An examination of how Indian copyright law currently fails to address the ownership of AI-generated fashion designs, highlighting a growing authorship vacuum as generative AI tools become central to creative industries.",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPX3RsazBRWlBScjBCWTVMTy1lcnZES3VJakNXOXI4eUw4Qm0tRE5rM3VrV09XU2dMSmVmMnVfRzdNR3lFQTJHMEdMLTRHX1BaakNwcTdGREM2Z1loNzBGY0lIS01vSTBhYlRwOXpIVXNyM3BiaFdhdTdieVRsaUJDU2I0c19Da0FqaWNZX2o3dVNZQk5VWTNxZmFIcE8xUUM3S1V6eXgxRk9JWVo1bzZ5SUpsXzNhd1hqX1ZPbWZoWWtwNE54OE5LMlRHa3M4S0RvTmJRa1ZLSUQ2ek1yYmlOdVhxRWZtdnI0S0tKS0cxdWFMMl94bFE?oc=5",
+      "topics": ["AI copyright", "policy"]
+    },
+    {
+      "title": "Publishing Sales Up 6.4% Through First Nine Months of 2026 [Metered]",
+      "summary": "US publishing industry sales rose 6.4% through September 2026 compared to the same period the previous year, according to new financial data.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/financial-reporting/article/101854-publishing-sales-up-6-4-through-september.html",
+      "topics": ["book publishing"]
+    }
+  ]
+}
