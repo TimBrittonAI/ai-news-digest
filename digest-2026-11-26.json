@@ -1,0 +1,85 @@
+{
+  "top_stories": [
+    {
+      "title": "New York bans AI toys, including those using internet to talk to children",
+      "summary": "New York has passed legislation banning AI-powered toys that use the internet to communicate with children, raising concerns about child safety and data privacy. The move marks one of the first state-level regulatory actions targeting AI in consumer products aimed at minors. The ban reflects growing scrutiny over AI ethics and the safeguarding of young users.",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+      "topics": ["AI regulation", "AI ethics", "consumer technology"]
+    },
+    {
+      "title": "AI is straining America's open records systems [Metered]",
+      "summary": "AI tools are being used to flood government open records systems with automated requests at a scale that is overwhelming public agencies. The surge is raising questions about the abuse of transparency laws and the ability of governments to respond meaningfully to legitimate records requests. Officials and legal experts are debating whether new rules are needed to manage AI-generated public records demands.",
+      "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "topics": ["AI governance", "AI regulation", "legal"]
+    },
+    {
+      "title": "How data centers are driving a US natural-gas boom [Metered]",
+      "summary": "The rapid expansion of AI infrastructure is fuelling a significant increase in US natural gas consumption as data centres seek reliable, high-volume power sources. Utilities and energy companies are investing in new gas plants specifically to meet demand driven by AI compute workloads. The trend is drawing attention from climate advocates concerned about the long-term environmental impact of AI's energy appetite.",
+      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+      "topics": ["AI infrastructure", "AI compute", "energy"]
+    },
+    {
+      "title": "GenAI now used by 75 percent of US adults — CCIA research",
+      "summary": "New research from the Computer & Communications Industry Association finds that three-quarters of US adults now use generative AI tools, indicating mainstream adoption has accelerated significantly. The figures suggest generative AI has moved well beyond early-adopter and professional use cases into everyday consumer life. The findings carry implications for policymakers, businesses, and AI developers tracking societal integration of the technology.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYzVJMkFyX3JieEhuTUlPQTVCb1F2U25nVGk0WGtqSy1lNjU3WkZSd3U1R2h6MDdzNXFIVkRGSjhZSDFpZkN2aXlQYU1MSVhZU2lRM0FzeDFIRVhrUXlwTFVhQjlzTHRVLXpLc2E4SnE3bURjWm1EQm1vTl9MXzJtNUVYdWFJUjFPT1MzMC1VZ2V6enZSX3I4UFB1N2lGY1U?oc=5",
+      "topics": ["generative AI", "AI industry", "consumer research"]
+    },
+    {
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "summary": "Google DeepMind has published details of a new AI capability called Mass Spec Skills for Google Antigravity, which interprets mass spectrometry data to identify molecular structures. The tool aims to accelerate scientific discovery by automating a complex analytical process that typically requires specialist expertise. The announcement highlights the growing use of large language models and AI in life sciences research.",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "topics": ["generative AI", "large language models", "AI research"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Tidal bans AI-generated music",
+      "summary": "Streaming platform Tidal has announced a ban on AI-generated music uploads, positioning itself as a pro-artist platform amid ongoing industry debates about AI and copyright.",
+      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+      "topics": ["generative AI", "copyright", "AI ethics"]
+    },
+    {
+      "title": "Jensen Huang apologizes to Nvidia employees in first all-hands since his return [Metered]",
+      "summary": "Nvidia CEO Jensen Huang held his first all-hands meeting since returning to the company, reportedly apologising to staff and addressing controversy over circumstances surrounding his reinstatement.",
+      "url": "https://www.wired.com/story/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+      "topics": ["AI industry", "leadership", "semiconductors"]
+    },
+    {
+      "title": "Google's patent for custom AI video feeds paints a bleak picture of entertainment's future",
+      "summary": "A Google patent describes an AI system that would generate personalised video content feeds for users, raising concerns about the future of human-made entertainment and creative industries.",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "topics": ["AI video", "generative AI", "technology ethics"]
+    },
+    {
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "summary": "AI-assisted 'vibe coding' tools are enabling musicians and hobbyists to contribute open-source firmware for synthesisers, potentially reshaping how niche hardware software is developed and shared.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "topics": ["AI coding tools", "generative AI", "open source"]
+    },
+    {
+      "title": "After getting 2,000 applications for one job, a recruiter hid a message to deter AI agents",
+      "summary": "A recruiter dealing with a flood of AI-generated job applications embedded a hidden message in a job listing to filter out automated submissions, highlighting the growing challenge of AI agents in hiring.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb1VKYjJYekM4RGdlN1E0Z1Rha3NQeE5mb1hiNTFXNDJsUk1vRmZ3R1JGeXA1N191YU5kd0NyaG15TXNMOFNwZG1kS1doTXI3aV9heEdUZTFxdWtlM0RPVGJ5b294dXdmQW5qR2xjZmpyd2lmWE9wOWprTzB3QU5oeC00N2w2Y1lmQzRNUEw3Y29BZWs?oc=5",
+      "topics": ["AI personal assistant", "AI industry", "business"]
+    },
+    {
+      "title": "Jensen Huang deepfakes are the hot new AI slop",
+      "summary": "Deepfake videos impersonating Nvidia CEO Jensen Huang are proliferating online, illustrating the growing problem of AI-generated misinformation using the likenesses of prominent tech figures.",
+      "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+      "topics": ["generative AI", "AI ethics", "technology ethics"]
+    },
+    {
+      "title": "FCC signs off on SpaceX's plan to put up to 1 million data center satellites into space",
+      "summary": "The FCC has approved SpaceX's proposal to deploy up to one million satellites that would serve as orbital data centres, a plan with major implications for AI compute infrastructure and global connectivity.",
+      "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "topics": ["AI infrastructure", "AI compute", "AI industry"]
+    },
+    {
+      "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+      "summary": "The developer behind the independent Marginalia search engine shares an update on the project's finances, technical decisions, and thoughts on AI's impact on search and open web discovery.",
+      "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+      "topics": ["AI search", "large language models", "open source"]
+    }
+  ],
+  "ethan_mollick": null
+}
