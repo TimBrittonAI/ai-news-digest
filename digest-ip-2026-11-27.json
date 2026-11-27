@@ -1,0 +1,66 @@
+{
+  "ip_top_stories": [
+    {
+      "title": "Face the music, Suno: Italian Competition Authority probes AI music generator's terms of service",
+      "summary": "Italy's Competition Authority has launched an investigation into AI music generator Suno, examining its terms of service in what represents a significant regulatory move against an AI creative tool in Europe. The probe adds to growing international scrutiny of AI platforms that generate music potentially trained on copyrighted material. IPKat reports on the implications for AI-generated content and creator rights.",
+      "url": "http://ipkitten.blogspot.com/2026/11/face-music-suno-italian-competition.html",
+      "topics": ["AI copyright", "litigation", "music"]
+    },
+    {
+      "title": "How the Next Congress Will Tackle AI Copyright Questions",
+      "summary": "A detailed look at how the incoming US Congress is expected to approach AI copyright legislation, covering potential policy directions on training data, licensing frameworks, and creator compensation. The piece outlines the competing interests of rights holders and AI developers that lawmakers will need to balance. This represents one of the most consequential near-term policy arenas for AI and intellectual property.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZDZaNXUtQzJUTlN2SWNEdGlPbHRNcGdVUWZiN2xfdEFtSFp2c3NfYjNpdXdvWElQaEhTUHo4Nl9oYWxyZEw3cGthdkR2eDVlZ1NEcDdXQ2JyWlFwVXJ2TUprSXFwUWJfQmh4b2tJNFI3aG10R3VCb1BRRk5qdTJlRXBJOFdqZ1RIa3FWT1BZdWdSb0dW?oc=5",
+      "topics": ["AI copyright", "policy", "licensing"]
+    },
+    {
+      "title": "Making Copyright Work for Europe's AI Future: Certainty and Balance",
+      "summary": "This piece examines the European approach to reconciling copyright law with AI development, focusing on calls for legal certainty around text and data mining exceptions and the need for balanced frameworks that protect creators while enabling innovation. It reflects ongoing EU-level debate about whether existing copyright provisions are adequate for the AI era.",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdU5oSVVlcm1QUVVTVldtcldtdk9YZVJiRkpXenpPRVJlUUlOYWt2VDMwNEh0NmljVmN5SDA3V1EyWkVSUjRqT0l1ei1OdlBkc0kwQV9ETlc5WTBldlkzOXpaTVFhbWh0SmkxTjRoem9jbUFRTWhSa041OEhRNnN1UFV2ZlNMQWJudHU4bDVZaU9kQnE3dVNvWG0xQQ?oc=5",
+      "topics": ["AI copyright", "eu law", "licensing"]
+    },
+    {
+      "title": "Photographers Protest Australia's Plans to Weaken Copyright Laws for AI",
+      "summary": "Photographers have joined a growing coalition of Australian creatives protesting government proposals that would weaken copyright protections in favour of AI development, with over 7,000 artists — including Kate Bush — signing open letters urging the government to halt what they describe as legalised AI theft. The protests follow a parliamentary committee report that offered little reassurance to rights holders. The story reflects a major international flashpoint in the AI copyright debate.",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbE1kUzJmM3BrX3RTcno5LW13Sm5ZRl9tdk9yQkRQbG1TNUpiMTY1S3Z1NmVnZXM2YXZNQzFJTjZ6U09zUDZrTWxsQ3F0OERITUl0QnZtdUpGX1gwVUg2WWVGeFF0elI0YU9oN2F1Tm5GYWt0Z3dNQlQ5SGlVMmVISnM0M2VsTnJKV1N0el9iYk13a25QbkY3X1MzMGRfSzFFUXA4ZTlkcw?oc=5",
+      "topics": ["AI copyright", "policy", "book publishing"]
+    },
+    {
+      "title": "The Gruffalo Goes To Court: How Might UK Courts Approach The Emerging AI Copyright Dispute?",
+      "summary": "An analysis of how UK courts are likely to handle AI copyright cases as litigation begins to emerge, using the Gruffalo as an illustrative example of the kind of creative works at stake. The piece examines the legal tests UK judges may apply to questions of substantial copying and authorship in AI-generated or AI-trained outputs.",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORjNTYUV0aThlcEg1Mk0yQ3hnLWMxb3J2eUMxN0hfVEJVQkg5RzF2QzEwUkF4aEZhYzRneTVENHd1aDZuZTZJWXIwM2VReDJIYkduQXNjdFQwTkwzbUkxbktwV3RkU1lzWE50bGtHVG1aN21SazRWSkY0cjhCdk5oN2phU2NWcjhNVzlqYTNkUjFiUFBHOHBhdjhla2JHN0FnbUFWd0gwRXNxMEU1aUhyMUwwZERCZ0xuOGEzUXVlWXBlWV9HdGpBcXlEaGIxeUtQZWwwN09pUUd5NHBJTHZvaTZYaDdycWxBbFAzblh3?oc=5",
+      "topics": ["AI copyright", "litigation", "book publishing"]
+    }
+  ],
+  "ip_further_links": [
+    {
+      "title": "Nine launches authenticated AI pilot for publishers",
+      "summary": "Australian media company Nine has launched an authenticated AI pilot designed to give publishers controlled, licensed access to their content within corporate AI systems, representing an emerging commercial model for AI content licensing.",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYnFjZDNFY3huRnBrbmw4czEzNkZxbmpFTEtINFFlWGtjUnh0cFFybWZSTTViRXh2QlRUd3NhMHdxSy1HbkU1VTRKcC14aHNGTTVLWDFPbFRmN0NvYlR0N0RobjdkNzFsLUlsTEZxLVJ3cTFJQjVOZk5TdmNqUDBGTkFxWjhnNWc?oc=5",
+      "topics": ["licensing", "AI copyright", "publishing"]
+    },
+    {
+      "title": "Nine tests licensed newsroom access inside corporate AI systems",
+      "summary": "A follow-up report on Nine's pilot providing further detail on how licensed newsroom content is being integrated into corporate AI platforms, illustrating how publishers are attempting to monetise their archives through structured AI licensing deals.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjMtNWRMMC1aOHJMQUZOT2FBOVlBZFR0M2ZRRXgyTHJWNjNCemZKUFNqRGJrUTFiZkQwLVZqc2FQTzAwSk5RREVyTk4tajNoTURxNnU4Nks4Z290djNNUDFfWW02eTdMcjM4LVFVR3BHU1V1eldBbFptTHlvYWJvV2dYU2hPTS1fTTFVenh2ZTZXbU0xMVJVY2cxd3Z1Vk05UG1jRHNpYzlpTy11Mkt0MlQxbFNrdw?oc=5",
+      "topics": ["licensing", "AI copyright", "publishing"]
+    },
+    {
+      "title": "New AI committee report offers cold comfort on copyright for Australian creatives",
+      "summary": "Australia's parliamentary AI committee has released a report that falls short of the stronger copyright protections sought by the creative industries, leaving significant uncertainty for artists and publishers facing AI training on their works.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96S3NiS2kzdjJTdmpseWFEMU11YnlsMDRFTFVJMjZHR1FrZXZ6aHJ0clcya2RES0s1SGhOWklZRm9UeDZ6WG9oWnI0Zkc1NmtmUkU1Qk9rN3B3R2MxMkcwd2U0SUJyM1JuWXdJdVBFek8xdEs0anRVbE0waEI5Zw?oc=5",
+      "topics": ["AI copyright", "policy", "book publishing"]
+    },
+    {
+      "title": "More questions than answers: The Joint Select Committee on Artificial Intelligence weighs in on the copyright debate",
+      "summary": "Analysis of Australia's Joint Select Committee on AI report, finding that it raises more questions than it resolves on copyright, leaving creators without clear guidance on how their works may be used to train AI models.",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORnV4RzdfWkE2V1E5Yi1lRDlBa1R5WlhWV1VaWElNcGpiMFNvT3FRcUN4U1ZBa25aYi1YbHQ5YkxvZ2xqYkNwVWJIWjRZNDdNLTFobzlPRV9kQzJZb3otTWNDNFotTjljYnpUWDBzUGg5Q1JZLVpJVDI1MTZ0Mm1MWEtXdDBnZDRjMlRoQ3JPNHROZzNyaVFLeVZVMnctTnVrUWJUdFI1MnBfclNmY2xWRU5NNDl0a1VCVHVmeERjQjN2Z2ItRE9lanJtSzZQemJl?oc=5",
+      "topics": ["AI copyright", "policy", "litigation"]
+    },
+    {
+      "title": "How should the publishing industry adapt to the rise of AI?",
+      "summary": "A broad examination of the strategic options available to publishers as AI reshapes content creation and distribution, covering licensing, technological adaptation, and legal responses.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNEl1bDJjcWVYRWN5a05qRHVDMkFBSUFnQkZqSWZNSVpabzJPUHBVdDdGT05BUTFuSlJJMG5VYkhKcFRiR3lnNmc0RWk1SzlXZHRUR1RyYUREV3NVY2Jha0hiSjBEdTBMbjBxQnJEbjRMYjdSRlJ4OFJSNzBTTFRQQ092bGZQRWtfUTRDeTBlX0pmS1p3aTFJZk9HZHVyZw?oc=5",
+      "topics": ["book publishing", "AI copyright", "licensing"]
+    }
+  ]
+}
