@@ -1,0 +1,79 @@
+{
+  "top_stories": [
+    {
+      "title": "Facing the threats of artificial intelligence and financial pressures on academic publishing",
+      "summary": "A new article examines the dual pressures facing academic publishing: the disruptive impact of AI on research integrity and content production, alongside mounting financial strains on the sector. The piece explores how generative AI is reshaping the landscape for publishers, researchers, and institutions. It raises questions about quality control and the long-term sustainability of scholarly communication.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSy1aZUtLZkhWalhzQUhMajJ6Q29MOFM3REZqMEJNaXhGdjJ3ZVlyN0w1X1ZWNlJwZS1DemRyRnVLQTlyb0VJRTZOem9HbFJmTU1FSTJpTU9NeUdvVGVlcUY4bDVPUklsS0xVVjdnMHkwaTdubmJ2Mk12MHFwM0RVMHVVZ2dPSnhhTTNYSlhRNW9BMGlTbEpESlo2MGJfX1gwTWdiNUNTaG1TOG5BSHFBNmluNk00WDN1WG5MLTZLSlVPbTJGc3ktVzNNRjFqUQ",
+      "topics": ["academic publishing", "generative AI", "research integrity"]
+    },
+    {
+      "title": "Anthropic expands Claude Duet to India, brings proactive AI agents to businesses",
+      "summary": "Anthropic has expanded its Claude Duet offering to India, extending access to its proactive AI agent capabilities for business users. The move signals Anthropic's push into a major emerging market, with AI agents designed to work autonomously within enterprise workflows. This follows a broader industry trend of AI companies deploying agentic products for business use cases.",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSjh5Nmg1ZTBWcUFXS2VhSzZlVXdOa0E2LUt0cWViLWt4Z19RSUc4Y3hpMEZ4WlR5d1h3dXMtd216cng4ZW1FZDlybUxseUNhQlZaSl9FZGRQTVRzWkFqcGVRZURwNVFFYnBfX284c291dW5PVHNtaXVWWGZPS0x4d2g2dVZSVW5hdkExMWo4VDRLODUxcVRBYUJoczFRQ0tfMFVXV1ZVRjd1dGFDa0tnQTBpZXZSUzNkX3RPUnQwTUR4YzdueUNfU1NFN2xvcVdkNEZVRmFyb2h3QQ",
+      "topics": ["Anthropic", "AI agents", "AI industry"]
+    },
+    {
+      "title": "42 state AGs are trying to stop Character.AI from selling users' chats",
+      "summary": "A coalition of 42 state attorneys general is seeking to block Character.AI from selling users' private chat data, raising significant concerns about user privacy and AI platform accountability. The legal action marks one of the broadest coordinated state-level interventions against an AI company to date. It follows growing scrutiny of Character.AI's data practices and content policies.",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "topics": ["AI ethics", "user privacy", "legal"]
+    },
+    {
+      "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains [Metered]",
+      "summary": "The UK's Financial Conduct Authority has publicly complained that Meta refused to provide access to its Muse AI model for regulatory testing. The standoff highlights growing tensions between AI companies and financial regulators seeking to scrutinise AI systems before deployment. The FCA's complaint underscores the challenges regulators face in obtaining transparency from large AI developers.",
+      "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+      "topics": ["AI governance", "AI regulation", "meta"]
+    },
+    {
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "summary": "Google is requiring AI agents operating within its ecosystem to use its own Model Context Protocol (MCP) servers, a move with significant implications for interoperability and third-party AI tools. However, the Gmail MCP server currently lacks the ability to send emails, limiting its practical utility for agentic tasks. The development reflects Google's strategy to position its infrastructure at the centre of the AI agent ecosystem.",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "topics": ["AI agents", "large language models", "google"]
+    }
+  ],
+  "further_links": [
+    {
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "summary": "Amazon is reportedly in discussions with Meta to resolve the standoff over Muse, Meta's AI shopping tool, which Amazon had previously blocked from its platform.",
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "topics": ["AI industry", "e-commerce", "meta"]
+    },
+    {
+      "title": "Backblaze explains why it's sharing customer information with advertisers",
+      "summary": "Backblaze has published an explanation of its data-sharing practices with advertisers, amid concerns about user privacy and the commercialisation of customer data.",
+      "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+      "topics": ["user privacy", "advertising", "technology ethics"]
+    },
+    {
+      "title": "Jensen Huang reportedly tells Nvidia staff it's 'not true' Trump got him rehired",
+      "summary": "Nvidia CEO Jensen Huang reportedly addressed staff at an internal all-hands meeting, denying claims that political intervention by Donald Trump had influenced his position at the company.",
+      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "topics": ["AI industry", "leadership", "business"]
+    },
+    {
+      "title": "The Download: Better bionic hands and AI's natural-gas boom [Metered]",
+      "summary": "MIT Technology Review's daily briefing covers advances in next-generation bionic hands and the surge in natural gas consumption driven by AI data centre energy demands.",
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+      "topics": ["AI infrastructure", "AI compute", "generative AI"]
+    },
+    {
+      "title": "Autonomous AI Agents Inside Enterprise Apps Demand Urgent Access Governance Overhaul",
+      "summary": "A new analysis argues that the rapid deployment of autonomous AI agents within enterprise software is creating urgent security and access governance challenges that organisations are not yet equipped to handle.",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5ERlMtbmR1NURSOFpGT2JGaF9fS0lvYy1SOTBrdWNfbExZT2Ewb2gtdWtXYldXMnIxNG04",
+      "topics": ["AI agents", "AI governance", "ai ethics"]
+    },
+    {
+      "title": "Airplane Turbulence Is Extremely Hard to Predict, but Maybe Not for Long [Metered]",
+      "summary": "Researchers are exploring how AI and improved atmospheric modelling could substantially improve the prediction and avoidance of dangerous clear-air turbulence for commercial aviation.",
+      "url": "https://www.wired.com/story/airplane-turbulence-is-extremely-hard-to-predict-and-avoid/",
+      "topics": ["AI", "generative AI", "technology"]
+    },
+    {
+      "title": "The Download: AI swamping open records, and firefighting for permafrost [Metered]",
+      "summary": "MIT Technology Review reports on how AI-generated public records requests are overwhelming government agencies, raising concerns about transparency and administrative capacity.",
+      "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+      "topics": ["AI governance", "generative AI", "technology ethics"]
+    }
+  ],
+  "ethan_mollick": null
+}
